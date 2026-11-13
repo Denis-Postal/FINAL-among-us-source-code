@@ -1,0 +1,789 @@
+fileFormatVersion: 2
+guid: 89becad0bbc982b4ea00450b299470a6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: kitchen_table2
+  - first:
+      213: 21300002
+    second: task_burgah
+  - first:
+      213: 21300004
+    second: task_garbage3
+  - first:
+      213: 21300006
+    second: kitchen_faucet
+  - first:
+      213: 21300008
+    second: kitchen_table1
+  - first:
+      213: 21300010
+    second: kitchen_shelf
+  - first:
+      213: 21300012
+    second: kitchen_main
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kitchen_table2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 965
+        width: 316
+        height: 176
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 26.999998, y: 48.999996}
+        - {x: 36, y: 88}
+        - {x: 56, y: 88}
+        - {x: 100, y: 55}
+        - {x: 158, y: 45}
+        - {x: 158, y: -88}
+        - {x: -158, y: -88}
+        - {x: -158, y: 45}
+      physicsShape:
+      - - {x: 158, y: 42}
+        - {x: 157, y: 42.999996}
+        - {x: 100, y: 45}
+        - {x: 101, y: 52}
+        - {x: 83, y: 65}
+        - {x: 56, y: 88}
+        - {x: 32, y: 88}
+        - {x: 28, y: 58.999996}
+        - {x: 29.999998, y: 51}
+        - {x: 36, y: 44}
+        - {x: -158, y: 42.999996}
+        - {x: -158, y: -88}
+        - {x: 71, y: -88}
+        - {x: 158, y: -87}
+      - - {x: -156, y: 52}
+        - {x: -9, y: 52}
+        - {x: 21, y: 53.999996}
+        - {x: 21, y: 88}
+        - {x: -158, y: 88}
+        - {x: -158, y: 53.999996}
+      - - {x: 97.99999, y: 88}
+        - {x: 97.99999, y: 84}
+        - {x: 110, y: 77}
+        - {x: 137, y: 77}
+        - {x: 149, y: 84}
+        - {x: 149, y: 88}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c674f58b574a9b8e47746d2ab5e623
+      internalID: 21300000
+      vertices:
+      - {x: 258, y: 143}
+      - {x: 316, y: 133}
+      - {x: 316, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 133}
+      - {x: 185, y: 137}
+      - {x: 194, y: 176}
+      - {x: 214, y: 176}
+      indices: 050000000600000007000000030000000400000005000000020000000300000005000000000000000200000005000000000000000100000002000000000000000500000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: task_burgah
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1129
+        width: 68
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -34, y: -28.5}
+        - {x: -34, y: 28.5}
+        - {x: 34, y: 28.5}
+        - {x: 34, y: -28.5}
+      physicsShape:
+      - - {x: 22, y: 22.5}
+        - {x: 14.999999, y: 23.5}
+        - {x: -26.999998, y: 23.5}
+        - {x: -33, y: 7.4999995}
+        - {x: -33, y: -16.5}
+        - {x: -22, y: -24.499998}
+        - {x: -14.999999, y: -27.5}
+        - {x: 13, y: -27.5}
+        - {x: 25, y: -25.5}
+        - {x: 32, y: -13.499999}
+        - {x: 32, y: 3.5}
+        - {x: 29.999998, y: 13.499999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a2fc1dd4bf4c4a80e4c8312c171c4e
+      internalID: 21300002
+      vertices:
+      - {x: 68, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 57}
+      - {x: 68, y: 57}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: task_garbage3
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1190
+        width: 58
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -29, y: -45.5}
+        - {x: -29, y: 45.5}
+        - {x: 29, y: 45.5}
+        - {x: 29, y: -45.5}
+      physicsShape:
+      - - {x: 29, y: 25.5}
+        - {x: 25, y: 43.5}
+        - {x: 21, y: 44.5}
+        - {x: -11, y: 44.5}
+        - {x: -28, y: 42.5}
+        - {x: -29, y: 35.5}
+        - {x: -29, y: 4.5}
+        - {x: -25, y: -36.499996}
+        - {x: -22, y: -45.5}
+        - {x: 18, y: -45.5}
+        - {x: 19, y: -44.5}
+        - {x: 24, y: -38.5}
+        - {x: 29, y: -22.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b159c647cf470ea98645820dcf48bf
+      internalID: 21300004
+      vertices:
+      - {x: 58, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 91}
+      - {x: 58, y: 91}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_faucet
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1232
+        width: 51
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -25.5, y: -24.499998}
+        - {x: -25.5, y: 24.499998}
+        - {x: 25.5, y: 24.499998}
+        - {x: 25.5, y: -24.499998}
+      physicsShape:
+      - - {x: 20.5, y: 24.499998}
+        - {x: -25.5, y: 24.499998}
+        - {x: -25.5, y: -20.5}
+        - {x: -19.5, y: -24.499998}
+        - {x: -0.5, y: -24.499998}
+        - {x: 1.5, y: -23.5}
+        - {x: 22.5, y: -18.5}
+        - {x: 25.5, y: -16.5}
+        - {x: 25.5, y: 23.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280e9f0b2fe84daa977ebd9dba06d26e
+      internalID: 21300006
+      vertices:
+      - {x: 51, y: 0.0000019073486}
+      - {x: 0, y: 0.0000019073486}
+      - {x: 0, y: 49}
+      - {x: 51, y: 49}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_table1
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1106
+        width: 335
+        height: 175
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -167.5, y: 87.5}
+        - {x: -123.5, y: 87.5}
+        - {x: -102.5, y: 46.5}
+        - {x: 124.5, y: 48.5}
+        - {x: 167.5, y: 70.5}
+        - {x: 167.5, y: 47.5}
+        - {x: 152.5, y: 36.499996}
+        - {x: 152.5, y: -87.5}
+        - {x: -167.5, y: -87.5}
+      physicsShape:
+      - - {x: 167.5, y: 51.5}
+        - {x: 167.5, y: 66.5}
+        - {x: 156.5, y: 63.5}
+        - {x: 104.49999, y: 46.5}
+        - {x: -112.5, y: 43.5}
+        - {x: -110.5, y: 59.499996}
+        - {x: -127.5, y: 82.5}
+        - {x: -133.49998, y: 87.5}
+        - {x: -151.5, y: 87.5}
+        - {x: -154.5, y: 86.5}
+        - {x: -167.5, y: 46.5}
+        - {x: -167.5, y: -85.49999}
+        - {x: -161.5, y: -87.5}
+        - {x: 84.5, y: -87.5}
+        - {x: 148.5, y: -86.5}
+        - {x: 150.5, y: -82.5}
+        - {x: 150.5, y: 39.5}
+        - {x: 162.5, y: 47.5}
+      - - {x: 164.5, y: -78.5}
+        - {x: 161.5, y: -82.5}
+        - {x: 160.5, y: -87.5}
+        - {x: 167.5, y: -87.5}
+        - {x: 167.5, y: -78.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9e292e1902405abd91eae99fa29913
+      internalID: 21300008
+      vertices:
+      - {x: 65, y: 134}
+      - {x: 292, y: 136}
+      - {x: 335, y: 158}
+      - {x: 335, y: 135}
+      - {x: 320, y: 124}
+      - {x: 320, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 175}
+      - {x: 44, y: 175}
+      indices: 000000000700000008000000010000000400000005000000040000000100000002000000040000000200000003000000000000000100000005000000000000000500000006000000000000000600000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_shelf
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 993
+        width: 74
+        height: 288
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -37, y: -144}
+        - {x: -37, y: 144}
+        - {x: 37, y: 144}
+        - {x: 37, y: -144}
+      physicsShape:
+      - - {x: 14, y: -144}
+        - {x: 34, y: -144}
+        - {x: 37, y: -141}
+        - {x: 37, y: -124}
+        - {x: 32, y: -120.99999}
+        - {x: 26.999998, y: -81}
+        - {x: 36, y: -85}
+        - {x: 37, y: -79.99999}
+        - {x: 37, y: -45.999996}
+        - {x: 29.999998, y: -45}
+        - {x: 37, y: -22}
+        - {x: 37, y: 22}
+        - {x: 28, y: 17}
+        - {x: 35, y: 42.999996}
+        - {x: 36, y: 65}
+        - {x: 26.999998, y: 71}
+        - {x: 29.999998, y: 109}
+        - {x: 37, y: 126}
+        - {x: 37, y: 132}
+        - {x: 14.999999, y: 144}
+        - {x: -3, y: 144}
+        - {x: -9, y: 143}
+        - {x: -11, y: 144}
+        - {x: -22.999998, y: 144}
+        - {x: -32, y: 136}
+        - {x: -37, y: 131}
+        - {x: -37, y: -144}
+        - {x: -26.999998, y: -144}
+        - {x: -24, y: -142}
+        - {x: -25, y: -125}
+        - {x: 11, y: -133}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c46c57be7b4f95babdaf4607236b5c
+      internalID: 21300010
+      vertices:
+      - {x: 74, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 288}
+      - {x: 74, y: 288}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_main
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4
+        width: 1108
+        height: 1277
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -546, y: 638.5}
+        - {x: -224, y: 638.5}
+        - {x: -200, y: 614.5}
+        - {x: -180, y: 355.49997}
+        - {x: -173, y: 318.5}
+        - {x: -133.99998, y: 300.5}
+        - {x: 78, y: 259.5}
+        - {x: 204, y: 238.5}
+        - {x: 444.99997, y: 213.5}
+        - {x: 452, y: 40.5}
+        - {x: 502, y: 3.5}
+        - {x: 519, y: -34.5}
+        - {x: 525, y: -263.5}
+        - {x: 517, y: -332.49997}
+        - {x: 518, y: -629.5}
+        - {x: 554, y: -631.5}
+        - {x: 554, y: -638.5}
+        - {x: -554, y: -638.5}
+        - {x: -554, y: -632.5}
+        - {x: -548, y: -566.5}
+        - {x: -554, y: -519.5}
+        - {x: -554, y: -284.5}
+        - {x: -544, y: 139.5}
+        - {x: -554, y: 152.5}
+        - {x: -554, y: 162.5}
+        - {x: -543, y: 165.5}
+        - {x: -542, y: 367.5}
+        - {x: -550, y: 376.5}
+      physicsShape:
+      - - {x: 513, y: -615.5}
+        - {x: 512, y: -598.49994}
+        - {x: 513, y: -580.5}
+        - {x: 508.99997, y: -555.5}
+        - {x: 512, y: -522.5}
+        - {x: 508.99997, y: -519.5}
+        - {x: 514, y: -509.49997}
+        - {x: 514, y: -507.49997}
+        - {x: 504.99997, y: -498.49997}
+        - {x: 504.99997, y: -459.49997}
+        - {x: 514, y: -450.5}
+        - {x: 514, y: -448.5}
+        - {x: 504.99997, y: -439.5}
+        - {x: 504.99997, y: -400.5}
+        - {x: 514, y: -391.5}
+        - {x: 514, y: -389.5}
+        - {x: 504.99997, y: -380.49997}
+        - {x: 510, y: -341.5}
+        - {x: 516, y: -330.49997}
+        - {x: 504.99997, y: -322.5}
+        - {x: 514, y: -302.5}
+        - {x: 522, y: -274.5}
+        - {x: 524, y: -249.49998}
+        - {x: 515, y: -233.5}
+        - {x: 518, y: -171.49998}
+        - {x: 518, y: -137.5}
+        - {x: 516, y: -120.49999}
+        - {x: 518, y: -93.5}
+        - {x: 517, y: -47.5}
+        - {x: 516, y: -36.499996}
+        - {x: 513, y: -26.499998}
+        - {x: 500, y: -1.5}
+        - {x: 494.99997, y: 4.5}
+        - {x: 456.99997, y: 25.5}
+        - {x: 448.99997, y: 39.5}
+        - {x: 448, y: 60.499996}
+        - {x: 446, y: 75.5}
+        - {x: 444.99997, y: 109.5}
+        - {x: 446, y: 109.5}
+        - {x: 444.99997, y: 150.5}
+        - {x: 442.99997, y: 170.5}
+        - {x: 439, y: 202.49998}
+        - {x: 431.99997, y: 211.5}
+        - {x: 414, y: 212.5}
+        - {x: 297, y: 223.49998}
+        - {x: 270, y: 226.49998}
+        - {x: 166, y: 241.5}
+        - {x: 61, y: 260.5}
+        - {x: -24, y: 276.5}
+        - {x: -151, y: 302.5}
+        - {x: -171.99998, y: 309.5}
+        - {x: -181, y: 330.49997}
+        - {x: -187, y: 388.5}
+        - {x: -190, y: 423.5}
+        - {x: -192, y: 480.49997}
+        - {x: -194, y: 508.5}
+        - {x: -197.99998, y: 555.5}
+        - {x: -199, y: 588.5}
+        - {x: -203, y: 612.5}
+        - {x: -213.99998, y: 625.49994}
+        - {x: -216.99998, y: 626.5}
+        - {x: -257, y: 636.5}
+        - {x: -267.99997, y: 638.5}
+        - {x: -467, y: 638.5}
+        - {x: -485, y: 636.5}
+        - {x: -498.99997, y: 635.5}
+        - {x: -514, y: 638.5}
+        - {x: -533, y: 638.5}
+        - {x: -543, y: 630.5}
+        - {x: -545, y: 623.49994}
+        - {x: -546, y: 586.5}
+        - {x: -545, y: 554.5}
+        - {x: -543, y: 521.49994}
+        - {x: -542, y: 521.49994}
+        - {x: -542, y: 442.49997}
+        - {x: -543, y: 441.5}
+        - {x: -544, y: 430.49997}
+        - {x: -544, y: 411.49997}
+        - {x: -542, y: 394.5}
+        - {x: -549, y: 376.5}
+        - {x: -542, y: 374.5}
+        - {x: -541, y: 160.5}
+        - {x: -550, y: 160.5}
+        - {x: -553, y: 159.49998}
+        - {x: -551, y: 152.5}
+        - {x: -543, y: 146.49998}
+        - {x: -542, y: 140.5}
+        - {x: -541, y: 66.5}
+        - {x: -542, y: 65.5}
+        - {x: -544, y: 37.5}
+        - {x: -544, y: -37.5}
+        - {x: -545, y: -38.5}
+        - {x: -546, y: -51.5}
+        - {x: -547, y: -68.5}
+        - {x: -547, y: -140.5}
+        - {x: -545, y: -163.5}
+        - {x: -550, y: -218.5}
+        - {x: -551, y: -248.49998}
+        - {x: -549, y: -248.49998}
+        - {x: -553, y: -289.5}
+        - {x: -554, y: -290.5}
+        - {x: -554, y: -296.5}
+        - {x: -541, y: -296.5}
+        - {x: -549, y: -328.5}
+        - {x: -553, y: -330.49997}
+        - {x: -551, y: -336.5}
+        - {x: -541, y: -335.5}
+        - {x: -550, y: -387.5}
+        - {x: -554, y: -393.5}
+        - {x: -554, y: -394.5}
+        - {x: -542, y: -396.5}
+        - {x: -549, y: -446.49997}
+        - {x: -552, y: -449.5}
+        - {x: -554, y: -452.5}
+        - {x: -542, y: -455.49997}
+        - {x: -549, y: -505.49997}
+        - {x: -554, y: -507.49997}
+        - {x: -554, y: -517.5}
+        - {x: -550, y: -519.5}
+        - {x: -548, y: -557.5}
+        - {x: -545, y: -574.5}
+        - {x: -545, y: -612.5}
+        - {x: -549, y: -632.5}
+        - {x: -553, y: -635.5}
+        - {x: -553, y: -637.5}
+        - {x: -552, y: -638.5}
+        - {x: 554, y: -638.5}
+        - {x: 554, y: -633.5}
+        - {x: 552, y: -632.5}
+      - - {x: 281, y: 343.5}
+        - {x: 290, y: 351.5}
+        - {x: 287, y: 369.5}
+        - {x: 323, y: 361.5}
+        - {x: 324, y: 348.5}
+        - {x: 344.99997, y: 341.5}
+        - {x: 352, y: 357.49997}
+        - {x: 352, y: 368.5}
+        - {x: 349, y: 370.5}
+        - {x: 340, y: 368.5}
+        - {x: 348, y: 413.49997}
+        - {x: 352, y: 421.49997}
+        - {x: 352, y: 443.5}
+        - {x: 349, y: 451.5}
+        - {x: 340, y: 446.49997}
+        - {x: 343.99997, y: 468.5}
+        - {x: 349, y: 482.49997}
+        - {x: 352, y: 507.49997}
+        - {x: 348, y: 513.5}
+        - {x: 340, y: 511.49997}
+        - {x: 341, y: 534.5}
+        - {x: 348, y: 537.5}
+        - {x: 348, y: 559.5}
+        - {x: 339, y: 565.5}
+        - {x: 340, y: 604.5}
+        - {x: 348, y: 615.5}
+        - {x: 343.99997, y: 630.5}
+        - {x: 335, y: 630.5}
+        - {x: 322, y: 638.5}
+        - {x: 321, y: 638.5}
+        - {x: 314, y: 636.5}
+        - {x: 303, y: 637.5}
+        - {x: 301, y: 638.5}
+        - {x: 289, y: 638.5}
+        - {x: 272, y: 624.5}
+        - {x: 270, y: 453.5}
+        - {x: 212.99998, y: 455.49997}
+        - {x: 213.99998, y: 462.5}
+        - {x: 191, y: 477.5}
+        - {x: 162, y: 501.5}
+        - {x: 157, y: 501.5}
+        - {x: 151, y: 495.5}
+        - {x: 143, y: 460.5}
+        - {x: 150, y: 453.5}
+        - {x: -44, y: 453.5}
+        - {x: -48, y: 451.5}
+        - {x: -48, y: 324.5}
+        - {x: -34, y: 321.5}
+        - {x: 53.999996, y: 322.5}
+        - {x: 53.999996, y: 320.5}
+        - {x: 56, y: 319.5}
+        - {x: 84, y: 319.5}
+        - {x: 127, y: 322.5}
+        - {x: 260, y: 323.5}
+        - {x: 272, y: 321.5}
+      - - {x: 154, y: 606.5}
+        - {x: 154, y: 612.5}
+        - {x: 150, y: 615.5}
+        - {x: 140, y: 614.5}
+        - {x: 88, y: 597.5}
+        - {x: -129, y: 594.5}
+        - {x: -123, y: 611.5}
+        - {x: -148, y: 638.5}
+        - {x: -169, y: 638.5}
+        - {x: -170.99998, y: 637.5}
+        - {x: -169, y: 603.5}
+        - {x: -187, y: 592.5}
+        - {x: -187, y: 467.49997}
+        - {x: -183, y: 464.5}
+        - {x: -170, y: 462.5}
+        - {x: 56, y: 462.5}
+        - {x: 132, y: 464.5}
+        - {x: 133.99998, y: 468.5}
+        - {x: 146.99998, y: 596.49994}
+      - - {x: 258, y: 537.5}
+        - {x: 248, y: 538.5}
+        - {x: 209.99998, y: 538.5}
+        - {x: 204, y: 522.5}
+        - {x: 204, y: 498.49997}
+        - {x: 214.99998, y: 490.49997}
+        - {x: 221, y: 487.5}
+        - {x: 249, y: 487.5}
+        - {x: 261, y: 490.49997}
+        - {x: 269, y: 502.5}
+        - {x: 269, y: 518.5}
+        - {x: 266.99997, y: 528.5}
+      - - {x: 266.99997, y: 636.5}
+        - {x: 260, y: 637.5}
+        - {x: 238.99998, y: 637.5}
+        - {x: 222, y: 636.5}
+        - {x: 215.99998, y: 634.5}
+        - {x: 212.99998, y: 624.5}
+        - {x: 212.99998, y: 579.5}
+        - {x: 214.99998, y: 555.5}
+        - {x: 223, y: 547.5}
+        - {x: 261, y: 547.5}
+        - {x: 266, y: 554.5}
+        - {x: 272, y: 573.49994}
+        - {x: 272, y: 612.5}
+      - - {x: 211.99998, y: 622.5}
+        - {x: 192, y: 638.5}
+        - {x: 167, y: 638.5}
+        - {x: 155, y: 630.5}
+        - {x: 155, y: 596.49994}
+        - {x: 168, y: 586.5}
+        - {x: 178, y: 586.5}
+        - {x: 184.99998, y: 589.5}
+        - {x: 193, y: 601.5}
+        - {x: 207, y: 595.5}
+        - {x: 211.99998, y: 605.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75747b743974e81a9a71f69c36da2aa
+      internalID: 21300012
+      vertices:
+      - {x: 354, y: 1253}
+      - {x: 374, y: 994}
+      - {x: 381, y: 957}
+      - {x: 420, y: 939}
+      - {x: 632, y: 898}
+      - {x: 758, y: 877}
+      - {x: 999, y: 852}
+      - {x: 1006, y: 679}
+      - {x: 1056, y: 642}
+      - {x: 1073, y: 604}
+      - {x: 1079, y: 375}
+      - {x: 1071, y: 306.00003}
+      - {x: 1072, y: 9}
+      - {x: 1108, y: 7}
+      - {x: 1108, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 6}
+      - {x: 6, y: 72}
+      - {x: 0, y: 119}
+      - {x: 0, y: 354}
+      - {x: 10, y: 778}
+      - {x: 0, y: 791}
+      - {x: 0, y: 801}
+      - {x: 11, y: 804}
+      - {x: 12, y: 1006}
+      - {x: 4, y: 1015}
+      - {x: 8, y: 1277}
+      - {x: 330, y: 1277}
+      indices: 180000001a0000001b00000018000000190000001a0000000000000001000000180000001500000016000000170000001400000015000000170000000200000018000000010000000200000017000000180000000200000014000000170000000300000013000000140000000300000014000000020000000f00000010000000110000000c0000000d0000000e0000000c0000000e0000000f000000110000000b0000000c0000000b0000001100000012000000040000000a0000000b0000000a00000007000000090000000900000007000000080000000b00000012000000130000000700000005000000060000000700000004000000050000000b0000001300000004000000070000000a00000004000000040000001300000003000000110000000c0000000f00000000000000180000001b000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      kitchen_faucet: 21300006
+      kitchen_main: 21300012
+      kitchen_shelf: 21300010
+      kitchen_table1: 21300008
+      kitchen_table2: 21300000
+      task_burgah: 21300002
+      task_garbage3: 21300004
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

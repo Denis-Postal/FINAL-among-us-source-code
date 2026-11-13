@@ -1,0 +1,2502 @@
+fileFormatVersion: 2
+guid: 14e12202e7286b1489fed694594984d3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: o2_bgBase
+  - first:
+      213: 21300002
+    second: o2_leaf5
+  - first:
+      213: 21300004
+    second: garbage_1
+  - first:
+      213: 21300006
+    second: rightArrow-o2_arrowFlash0009
+  - first:
+      213: 21300008
+    second: garbage_lightShadow
+  - first:
+      213: 21300010
+    second: diamond
+  - first:
+      213: 21300012
+    second: rightArrow-o2_arrowFlash0002
+  - first:
+      213: 21300014
+    second: rightArrow-o2_arrowFlash0010
+  - first:
+      213: 21300016
+    second: o2_leaf6
+  - first:
+      213: 21300018
+    second: leftArrow-o2_arrowFlash0002
+  - first:
+      213: 21300020
+    second: leftArrow-o2_arrowFlash0003
+  - first:
+      213: 21300022
+    second: o2_leaf3
+  - first:
+      213: 21300024
+    second: rightArrow-o2_arrowFlash0007
+  - first:
+      213: 21300026
+    second: o2_bgTop
+  - first:
+      213: 21300028
+    second: totem
+  - first:
+      213: 21300030
+    second: garbage_Base
+  - first:
+      213: 21300032
+    second: garbage_3
+  - first:
+      213: 21300034
+    second: o2_leaf2
+  - first:
+      213: 21300036
+    second: garbage_4
+  - first:
+      213: 21300038
+    second: rightArrow-o2_arrowFlash0006
+  - first:
+      213: 21300040
+    second: garbage_leverBase
+  - first:
+      213: 21300042
+    second: rightArrow-o2_arrowFlash0003
+  - first:
+      213: 21300044
+    second: garbage_2
+  - first:
+      213: 21300046
+    second: garbage_leverHandle
+  - first:
+      213: 21300048
+    second: rightArrow-o2_arrowFlash0008
+  - first:
+      213: 21300050
+    second: rightArrow-o2_arrowFlash0001
+  - first:
+      213: 21300052
+    second: rightArrow-o2_arrowFlash0005
+  - first:
+      213: 21300054
+    second: garbage_6
+  - first:
+      213: 21300056
+    second: leftArrow-o2_arrowFlash0001
+  - first:
+      213: 21300058
+    second: leftArrow-o2_arrowFlash0007
+  - first:
+      213: 21300060
+    second: leftArrow-o2_arrowFlash0008
+  - first:
+      213: 21300062
+    second: o2_leaf7
+  - first:
+      213: 21300064
+    second: o2_arrowFinishedRight
+  - first:
+      213: 21300066
+    second: o2_leaf1
+  - first:
+      213: 21300068
+    second: leftArrow-o2_arrowFlash0005
+  - first:
+      213: 21300070
+    second: o2_leaf4
+  - first:
+      213: 21300072
+    second: garbage_leverBars
+  - first:
+      213: 21300074
+    second: garbage_5
+  - first:
+      213: 21300076
+    second: leftArrow-o2_arrowFlash0009
+  - first:
+      213: 21300078
+    second: o2_arrowFinishedLeft
+  - first:
+      213: 21300080
+    second: leftArrow-o2_arrowFlash0004
+  - first:
+      213: 21300082
+    second: NobleStatue1
+  - first:
+      213: 21300084
+    second: leftArrow-o2_arrowFlash0006
+  - first:
+      213: 21300086
+    second: leftArrow-o2_arrowFlash0010
+  - first:
+      213: 21300088
+    second: teleporter
+  - first:
+      213: 21300090
+    second: rightArrow-o2_arrowFlash0004
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: o2_bgBase
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1037
+        width: 500
+        height: 500
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -250, y: -250}
+        - {x: -250, y: 250}
+        - {x: 250, y: 250}
+        - {x: 250, y: -250}
+      physicsShape:
+      - - {x: -250, y: 250}
+        - {x: -250, y: -250}
+        - {x: 250, y: -250}
+        - {x: 250, y: 250}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437e293e2df3435080ed2f3b47ba331b
+      internalID: 21300000
+      vertices:
+      - {x: 500, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 500}
+      - {x: 500, y: 500}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: o2_leaf5
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 885
+        width: 44
+        height: 148
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -22, y: 29.999998}
+        - {x: 3, y: 74}
+        - {x: 22, y: 74}
+        - {x: 22, y: -14}
+        - {x: 12, y: -74}
+        - {x: 3, y: -74}
+        - {x: -22, y: -24}
+      physicsShape:
+      - - {x: 9, y: -37}
+        - {x: 22, y: -18}
+        - {x: 22, y: 39.999996}
+        - {x: 21, y: 50}
+        - {x: 19.999998, y: 57}
+        - {x: 12, y: 72.99999}
+        - {x: 9.999999, y: 74}
+        - {x: 2, y: 74}
+        - {x: 1, y: 72.99999}
+        - {x: -18, y: 22}
+        - {x: -22, y: 12}
+        - {x: -22, y: -22.999998}
+        - {x: -18, y: -35}
+        - {x: 1, y: -72.99999}
+        - {x: 2, y: -74}
+        - {x: 11, y: -74}
+        - {x: 12, y: -71}
+        - {x: 12, y: -68}
+        - {x: 9.999999, y: -63}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae76ad4ce1714b8198be3d5c40ba6209
+      internalID: 21300002
+      vertices:
+      - {x: 44, y: 60}
+      - {x: 34, y: 0}
+      - {x: 25, y: 0}
+      - {x: 0, y: 50}
+      - {x: 0, y: 104}
+      - {x: 25, y: 148}
+      - {x: 44, y: 148}
+      indices: 040000000500000006000000000000000400000006000000000000000300000004000000020000000300000000000000020000000000000001000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_1
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 378
+        width: 78
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -4.9999995, y: 38}
+        - {x: 39, y: 38}
+        - {x: 39, y: -38}
+        - {x: -8, y: -38}
+        - {x: -39, y: -19}
+        - {x: -39, y: 4}
+      physicsShape:
+      - - {x: 28, y: 37}
+        - {x: 26, y: 38}
+        - {x: 1, y: 38}
+        - {x: -4, y: 37}
+        - {x: -19.999998, y: 24}
+        - {x: -39, y: 0}
+        - {x: -39, y: -21}
+        - {x: -16, y: -33}
+        - {x: -11, y: -38}
+        - {x: 31, y: -38}
+        - {x: 37, y: -34}
+        - {x: 39, y: -19.999998}
+        - {x: 39, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8015a52124564127a363b3311e7630da
+      internalID: 21300004
+      vertices:
+      - {x: 78, y: 0}
+      - {x: 31, y: 0}
+      - {x: 0, y: 19}
+      - {x: 0, y: 42}
+      - {x: 34, y: 76}
+      - {x: 78, y: 76}
+      indices: 000000000400000005000000030000000100000002000000030000000400000001000000000000000100000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rightArrow-o2_arrowFlash0009
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 863
+        width: 11
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -5.5, y: -10.5}
+        - {x: -5.5, y: 10.5}
+        - {x: 5.5, y: 10.5}
+        - {x: 5.5, y: -10.5}
+      physicsShape:
+      - - {x: 2.4999998, y: 10.5}
+        - {x: -5.5, y: 3.5}
+        - {x: -5.5, y: -3.5}
+        - {x: 2.4999998, y: -10.5}
+        - {x: 5.5, y: -10.5}
+        - {x: 5.5, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b265dde4f0a247dba263462ff61b1ea9
+      internalID: 21300006
+      vertices:
+      - {x: 11, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 21}
+      - {x: 11, y: 21}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_lightShadow
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 537
+        width: 340
+        height: 496
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -129, y: -29}
+        - {x: -170, y: -237.99998}
+        - {x: -170, y: 248}
+        - {x: 170, y: 248}
+        - {x: 170, y: -237.99998}
+        - {x: 133, y: 1}
+        - {x: 116, y: 75}
+        - {x: 91.99999, y: 128}
+        - {x: 122, y: -161}
+        - {x: 122, y: -248}
+        - {x: -122, y: -248}
+        - {x: -116, y: -142}
+        - {x: -88, y: 70}
+        - {x: -70, y: 152}
+        - {x: -70, y: 177}
+        - {x: -103, y: 79}
+      physicsShape:
+      - - {x: -165, y: -230}
+        - {x: -167, y: -231}
+        - {x: -167, y: -248}
+        - {x: -142, y: -248}
+        - {x: -142, y: -246}
+        - {x: -159.99998, y: -230}
+      - - {x: 128, y: -197.99998}
+        - {x: 125, y: -202}
+        - {x: 125, y: -248}
+        - {x: 137, y: -248}
+        - {x: 158.99998, y: -229}
+        - {x: 158.99998, y: -222}
+        - {x: 132, y: -197.99998}
+      - - {x: 125, y: -45}
+        - {x: 116, y: -53.999996}
+        - {x: 116, y: -58.999996}
+        - {x: 125, y: -68}
+        - {x: 129, y: -68}
+        - {x: 131, y: -66.99999}
+        - {x: 131, y: -45.999996}
+        - {x: 129, y: -45}
+      - - {x: 126, y: -14}
+        - {x: 114, y: -26}
+        - {x: 114, y: -29.999998}
+        - {x: 126, y: -42}
+        - {x: 130, y: -42}
+        - {x: 132, y: -41}
+        - {x: 132, y: -18}
+        - {x: 131, y: -14}
+      - - {x: 123, y: 12}
+        - {x: 114, y: 3}
+        - {x: 114, y: -2}
+        - {x: 123, y: -11}
+        - {x: 127, y: -11}
+        - {x: 129, y: -9.999999}
+        - {x: 129, y: 11}
+        - {x: 127, y: 12}
+      - - {x: 116.99999, y: 37}
+        - {x: 106.99999, y: 28}
+        - {x: 106.99999, y: 22.999998}
+        - {x: 116.99999, y: 14}
+        - {x: 119.99999, y: 14}
+        - {x: 122, y: 16}
+        - {x: 122, y: 35}
+        - {x: 119.99999, y: 37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54014f810a494418a69bb08d74797457
+      internalID: 21300008
+      vertices:
+      - {x: 340, y: 10.000015}
+      - {x: 303, y: 249}
+      - {x: 286, y: 323}
+      - {x: 262, y: 376}
+      - {x: 292, y: 87}
+      - {x: 292, y: 0}
+      - {x: 48, y: 0}
+      - {x: 54, y: 106}
+      - {x: 82, y: 318}
+      - {x: 100, y: 400}
+      - {x: 100, y: 425}
+      - {x: 67, y: 327}
+      - {x: 41, y: 219}
+      - {x: 0, y: 10.000015}
+      - {x: 0, y: 496}
+      - {x: 340, y: 496}
+      indices: 0c0000000d0000000e0000000b0000000c0000000e0000000a0000000b0000000e0000000a0000000e0000000f000000030000000a0000000f00000003000000090000000a00000003000000080000000900000004000000050000000600000004000000060000000700000008000000030000000400000008000000040000000700000002000000030000000f00000001000000020000000f00000000000000010000000f000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diamond
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 435
+        width: 105
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -52.499996, y: 17}
+        - {x: -52.499996, y: 47}
+        - {x: 52.499996, y: 47}
+        - {x: 52.499996, y: 17}
+        - {x: 5.5, y: -47}
+        - {x: -1.5, y: -47}
+        - {x: -3.5, y: -45}
+      physicsShape:
+      - - {x: -52.499996, y: -16}
+        - {x: -52.499996, y: -47}
+        - {x: -8.5, y: -47}
+        - {x: -8.5, y: -38}
+        - {x: -40.5, y: -16}
+      - - {x: 48.5, y: 31}
+        - {x: 41.5, y: 41}
+        - {x: 36.499996, y: 47}
+        - {x: -34.5, y: 47}
+        - {x: -47.5, y: 32}
+        - {x: -52.499996, y: 24}
+        - {x: -52.499996, y: 18}
+        - {x: -48.5, y: 12}
+        - {x: -10.5, y: -36}
+        - {x: -2.4999998, y: -47}
+        - {x: 3.5, y: -47}
+        - {x: 8.5, y: -44}
+        - {x: 42.5, y: 4}
+        - {x: 52.499996, y: 17}
+        - {x: 52.499996, y: 25}
+      - - {x: 22.5, y: -22}
+        - {x: 22.5, y: -42}
+        - {x: 26.499998, y: -47}
+        - {x: 52.499996, y: -47}
+        - {x: 52.499996, y: -26.999998}
+        - {x: 45.5, y: -22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ea6d064a7343aeb63464619ff46378
+      internalID: 21300010
+      vertices:
+      - {x: 105, y: 64}
+      - {x: 58, y: 0}
+      - {x: 51, y: 0}
+      - {x: 49, y: 2}
+      - {x: 0.0000038146973, y: 64}
+      - {x: 0.0000038146973, y: 94}
+      - {x: 105, y: 94}
+      indices: 040000000500000006000000000000000400000006000000000000000300000004000000010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rightArrow-o2_arrowFlash0002
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 718
+        width: 11
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -5.5, y: -10.5}
+        - {x: -5.5, y: 10.5}
+        - {x: 5.5, y: 10.5}
+        - {x: 5.5, y: -10.5}
+      physicsShape:
+      - - {x: 2.4999998, y: 10.5}
+        - {x: -5.5, y: 3.5}
+        - {x: -5.5, y: -3.5}
+        - {x: 2.4999998, y: -10.5}
+        - {x: 5.5, y: -10.5}
+        - {x: 5.5, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143c3b0424814972b842eb692ce61350
+      internalID: 21300012
+      vertices:
+      - {x: 11, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 21}
+      - {x: 11, y: 21}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rightArrow-o2_arrowFlash0010
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 863
+        width: 11
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -5.5, y: -10.5}
+        - {x: -5.5, y: 10.5}
+        - {x: 5.5, y: 10.5}
+        - {x: 5.5, y: -10.5}
+      physicsShape:
+      - - {x: 2.4999998, y: 10.5}
+        - {x: -5.5, y: 3.5}
+        - {x: -5.5, y: -3.5}
+        - {x: 2.4999998, y: -10.5}
+        - {x: 5.5, y: -10.5}
+        - {x: 5.5, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: be07a33cfeb54828883f8291a0f00c6a
+      internalID: 21300014
+      vertices:
+      - {x: 11, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 21}
+      - {x: 11, y: 21}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: o2_leaf6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 34
+        width: 60
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -29.999998, y: 7}
+        - {x: -16, y: 72.99999}
+        - {x: -9, y: 72.99999}
+        - {x: 29.999998, y: -12}
+        - {x: 29.999998, y: -45}
+        - {x: 11, y: -72.99999}
+        - {x: 0, y: -72.99999}
+        - {x: 6, y: -48.999996}
+        - {x: -29.999998, y: -13}
+      physicsShape:
+      - - {x: 29.999998, y: -12}
+        - {x: 9.999999, y: 22}
+        - {x: -2, y: 59.999996}
+        - {x: -7, y: 71}
+        - {x: -9.999999, y: 72.99999}
+        - {x: -16, y: 72.99999}
+        - {x: -14.999999, y: 52}
+        - {x: -19, y: 31}
+        - {x: -29.999998, y: 6}
+        - {x: -29.999998, y: -11}
+        - {x: -29, y: -14}
+        - {x: -24, y: -19}
+        - {x: -7, y: -28}
+        - {x: 7, y: -52}
+        - {x: -1, y: -72.99999}
+        - {x: 7, y: -72.99999}
+        - {x: 19.999998, y: -59.999996}
+        - {x: 26, y: -52}
+        - {x: 29.999998, y: -42}
+      - - {x: 8, y: 72.99999}
+        - {x: 6, y: 71}
+        - {x: 6, y: 64}
+        - {x: 12, y: 45.999996}
+        - {x: 17, y: 36}
+        - {x: 28, y: 19.999998}
+        - {x: 29.999998, y: 19.999998}
+        - {x: 29.999998, y: 72.99999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1972e298eb0f4c69811b1228b9cd45a4
+      internalID: 21300016
+      vertices:
+      - {x: 60, y: 61}
+      - {x: 60, y: 28}
+      - {x: 41, y: 0.0000076293945}
+      - {x: 30, y: 0.0000076293945}
+      - {x: 36, y: 24.000004}
+      - {x: 0.0000019073486, y: 60}
+      - {x: 0.0000019073486, y: 80}
+      - {x: 14, y: 146}
+      - {x: 21, y: 146}
+      indices: 060000000700000008000000050000000000000004000000050000000600000000000000020000000300000004000000010000000200000004000000000000000100000004000000000000000600000008000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leftArrow-o2_arrowFlash0002
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 123
+        width: 30
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -14.999999, y: 24}
+        - {x: -6, y: 24}
+        - {x: 14.999999, y: 3}
+        - {x: 14.999999, y: -4}
+        - {x: -11, y: -24}
+        - {x: -14.999999, y: -24}
+      physicsShape:
+      - - {x: -14.999999, y: 24}
+        - {x: -14.999999, y: -24}
+        - {x: -9.999999, y: -24}
+        - {x: 14.999999, y: -4}
+        - {x: 14.999999, y: 4.9999995}
+        - {x: -9.999999, y: 24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1a7e253e6349a2b28ceea110eee3b8
+      internalID: 21300018
+      vertices:
+      - {x: 30, y: 27}
+      - {x: 30, y: 20}
+      - {x: 4, y: 0}
+      - {x: 0.0000009536743, y: 0}
+      - {x: 0.0000009536743, y: 48}
+      - {x: 9, y: 48}
+      indices: 020000000400000005000000020000000300000004000000000000000100000002000000000000000200000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leftArrow-o2_arrowFlash0003
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 204
+        width: 30
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -14.999999, y: 24}
+        - {x: -6, y: 24}
+        - {x: 14.999999, y: 3}
+        - {x: 14.999999, y: -4}
+        - {x: -11, y: -24}
+        - {x: -14.999999, y: -24}
+      physicsShape:
+      - - {x: -14.999999, y: 24}
+        - {x: -14.999999, y: -24}
+        - {x: -9.999999, y: -24}
+        - {x: 14.999999, y: -4}
+        - {x: 14.999999, y: 4.9999995}
+        - {x: -9.999999, y: 24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0c04dda4e249be8abaf05620ec3081
+      internalID: 21300020
+      vertices:
+      - {x: 30, y: 27}
+      - {x: 30, y: 20}
+      - {x: 4, y: 0}
+      - {x: 0.0000009536743, y: 0}
+      - {x: 0.0000009536743, y: 48}
+      - {x: 9, y: 48}
+      indices: 020000000400000005000000020000000300000004000000000000000100000002000000000000000200000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: o2_leaf3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 184
+        width: 48
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -24, y: -8}
+        - {x: -24, y: 79.99999}
+        - {x: -8, y: 79.99999}
+        - {x: 24, y: 0}
+        - {x: 24, y: -29.999998}
+        - {x: 4.9999995, y: -79.99999}
+        - {x: -6, y: -79.99999}
+      physicsShape:
+      - - {x: 24, y: -29}
+        - {x: 24, y: -3}
+        - {x: 22, y: 7}
+        - {x: 19, y: 11}
+        - {x: 17, y: 14}
+        - {x: 4, y: 38}
+        - {x: -8, y: 79}
+        - {x: -8, y: 79.99999}
+        - {x: -16, y: 79.99999}
+        - {x: -19.999998, y: 55}
+        - {x: -24, y: 33}
+        - {x: -24, y: -8}
+        - {x: -21, y: -21}
+        - {x: -4.9999995, y: -51}
+        - {x: -1, y: -79.99999}
+        - {x: 4.9999995, y: -79.99999}
+        - {x: 7, y: -77}
+        - {x: 13, y: -56}
+        - {x: 22, y: -34}
+      - - {x: 14.999999, y: -79.99999}
+        - {x: 24, y: -79.99999}
+        - {x: 24, y: -62}
+        - {x: 21, y: -63}
+      - - {x: 8, y: 79.99999}
+        - {x: 8, y: 63}
+        - {x: 14, y: 42}
+        - {x: 19.999998, y: 41}
+        - {x: 24, y: 41}
+        - {x: 24, y: 79.99999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa2fe43c5e64a16ae8e414980d85e35
+      internalID: 21300022
+      vertices:
+      - {x: 48, y: 80}
+      - {x: 48, y: 50}
+      - {x: 29, y: 0.0000076293945}
+      - {x: 18, y: 0.0000076293945}
+      - {x: 0, y: 72}
+      - {x: 0, y: 160}
+      - {x: 16, y: 160}
+      indices: 040000000500000006000000010000000200000003000000010000000300000004000000000000000100000004000000000000000400000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rightArrow-o2_arrowFlash0007
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 863
+        width: 11
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -5.5, y: -10.5}
+        - {x: -5.5, y: 10.5}
+        - {x: 5.5, y: 10.5}
+        - {x: 5.5, y: -10.5}
+      physicsShape:
+      - - {x: 2.4999998, y: 10.5}
+        - {x: -5.5, y: 3.5}
+        - {x: -5.5, y: -3.5}
+        - {x: 2.4999998, y: -10.5}
+        - {x: 5.5, y: -10.5}
+        - {x: 5.5, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c09394621bc4f7f82fbf6fe5ba6eb13
+      internalID: 21300024
+      vertices:
+      - {x: 11, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 21}
+      - {x: 11, y: 21}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: o2_bgTop
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 533
+        width: 103
+        height: 500
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -51.5, y: -250}
+        - {x: -51.5, y: 250}
+        - {x: 51.5, y: 250}
+        - {x: 51.5, y: -250}
+      physicsShape:
+      - - {x: 2.4999998, y: -116.99999}
+        - {x: -2.4999998, y: -122}
+        - {x: -2.4999998, y: 119.99999}
+        - {x: 47.5, y: 85}
+        - {x: 51.5, y: 85}
+        - {x: 51.5, y: 250}
+        - {x: -51.5, y: 250}
+        - {x: -51.5, y: -250}
+        - {x: 51.5, y: -250}
+        - {x: 51.5, y: -85}
+        - {x: 47.5, y: -84}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0ed54069d74ffcaf04a23e63157dcc
+      internalID: 21300026
+      vertices:
+      - {x: 103, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 500}
+      - {x: 103, y: 500}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 305
+        width: 110
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -55, y: 29.999998}
+        - {x: -55, y: 50}
+        - {x: 45.999996, y: 50}
+        - {x: 55, y: 41}
+        - {x: 55, y: 31}
+        - {x: 7, y: -21}
+        - {x: 3, y: -50}
+        - {x: -13, y: -50}
+        - {x: -53.999996, y: 25}
+      physicsShape:
+      - - {x: -41, y: -9.999999}
+        - {x: -45.999996, y: -9.999999}
+        - {x: -45.999996, y: -11}
+        - {x: -52.999996, y: -45}
+        - {x: -52.999996, y: -50}
+        - {x: -29, y: -50}
+        - {x: -29.999998, y: -42}
+        - {x: -37, y: -19.999998}
+        - {x: -38, y: -11}
+      - - {x: 55, y: 32}
+        - {x: 55, y: 41}
+        - {x: 50, y: 42.999996}
+        - {x: 21, y: 39}
+        - {x: 8, y: 50}
+        - {x: -22, y: 50}
+        - {x: -29, y: 39.999996}
+        - {x: -51, y: 45}
+        - {x: -55, y: 38}
+        - {x: -55, y: 26}
+        - {x: -42.999996, y: 4.9999995}
+        - {x: -22, y: -2}
+        - {x: -24, y: -13}
+        - {x: -22.999998, y: -17}
+        - {x: -17, y: -48.999996}
+        - {x: -13, y: -50}
+        - {x: 2, y: -50}
+        - {x: 9, y: -22}
+        - {x: 11, y: -2}
+        - {x: 29, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70911664823f4e0e95a2d192bbc3c4dc
+      internalID: 21300028
+      vertices:
+      - {x: 110, y: 91}
+      - {x: 110, y: 81}
+      - {x: 62, y: 29}
+      - {x: 58, y: 0}
+      - {x: 42, y: 0}
+      - {x: 1.0000038, y: 75}
+      - {x: 0, y: 80}
+      - {x: 0, y: 100}
+      - {x: 101, y: 100}
+      indices: 060000000700000008000000050000000600000008000000020000000500000008000000020000000300000004000000020000000400000005000000010000000200000008000000000000000100000008000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_Base
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1541
+        width: 505
+        height: 504
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -252.49998, y: -252}
+        - {x: -252.49998, y: 252}
+        - {x: 252.49998, y: 252}
+        - {x: 252.49998, y: -252}
+      physicsShape:
+      - - {x: -252.49998, y: 252}
+        - {x: -252.49998, y: -252}
+        - {x: 252.49998, y: -252}
+        - {x: 252.49998, y: 252}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf11f692b7034f839e5dcaa7c29414c3
+      internalID: 21300030
+      vertices:
+      - {x: 505, y: 0}
+      - {x: 0.000015258789, y: 0}
+      - {x: 0.000015258789, y: 504}
+      - {x: 505, y: 504}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_3
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 459
+        width: 115
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -57.5, y: 31}
+        - {x: -57.5, y: 35}
+        - {x: 31.5, y: 35}
+        - {x: 57.5, y: -3}
+        - {x: 57.5, y: -25}
+        - {x: 17.5, y: -35}
+        - {x: -10.5, y: -35}
+      physicsShape:
+      - - {x: -57.5, y: -35}
+        - {x: -27.5, y: -35}
+        - {x: -27.5, y: -26.999998}
+        - {x: -40.5, y: 6}
+        - {x: -54.5, y: 6}
+        - {x: -57.5, y: -1}
+      - - {x: 57.5, y: -18}
+        - {x: 57.5, y: -6}
+        - {x: 37.5, y: 28}
+        - {x: 10.5, y: 35}
+        - {x: -57.5, y: 35}
+        - {x: -57.5, y: 31}
+        - {x: -26.499998, y: -11}
+        - {x: -8.5, y: -33}
+        - {x: -5.5, y: -35}
+        - {x: 20.5, y: -35}
+        - {x: 28.5, y: -31}
+        - {x: 48.5, y: -26.999998}
+        - {x: 51.5, y: -26}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e89f5dc86814abfa0b7e95f42eb1606
+      internalID: 21300032
+      vertices:
+      - {x: 115, y: 32}
+      - {x: 115, y: 10}
+      - {x: 75, y: 0}
+      - {x: 47, y: 0}
+      - {x: 0, y: 66}
+      - {x: 0, y: 70}
+      - {x: 89, y: 70}
+      indices: 040000000500000006000000030000000400000006000000020000000300000006000000000000000100000002000000000000000200000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: o2_leaf2
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 738
+        width: 45
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -20.5, y: 33.499996}
+        - {x: 7.4999995, y: 71.5}
+        - {x: 22.5, y: 71.5}
+        - {x: 22.5, y: -71.5}
+        - {x: -15.5, y: -71.5}
+        - {x: -7.4999995, y: -47.5}
+        - {x: -22.5, y: -0.5}
+        - {x: -22.5, y: 28.5}
+      physicsShape:
+      - - {x: 22.5, y: 40.5}
+        - {x: 19.5, y: 67.5}
+        - {x: 14.5, y: 71.5}
+        - {x: 5.5, y: 71.5}
+        - {x: 7.4999995, y: 60.499996}
+        - {x: -18.5, y: 35.5}
+        - {x: -22.5, y: 28.5}
+        - {x: -22.5, y: -4.5}
+        - {x: -4.5, y: -35.5}
+        - {x: -10.5, y: -55.5}
+        - {x: -15.5, y: -71.5}
+        - {x: -4.5, y: -71.5}
+        - {x: 12.5, y: -57.5}
+        - {x: 19.5, y: -38.5}
+        - {x: 22.5, y: -34.5}
+      - - {x: -17.5, y: 71.5}
+        - {x: -22.5, y: 67.5}
+        - {x: -22.5, y: 60.499996}
+        - {x: -13.499999, y: 52.499996}
+        - {x: -10.5, y: 52.499996}
+        - {x: -8.5, y: 54.5}
+        - {x: -8.5, y: 71.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614dae06053f4a07bcc67dd0e2a0d416
+      internalID: 21300034
+      vertices:
+      - {x: 45, y: 0}
+      - {x: 7, y: 0}
+      - {x: 15, y: 24}
+      - {x: 0, y: 71}
+      - {x: 0, y: 100}
+      - {x: 2, y: 105}
+      - {x: 30, y: 143}
+      - {x: 45, y: 143}
+      indices: 050000000600000007000000030000000500000007000000030000000400000005000000000000000300000007000000000000000100000002000000000000000200000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_4
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 401
+        width: 74
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 2, y: 66}
+        - {x: 13, y: 66}
+        - {x: 14, y: 64}
+        - {x: 37, y: -13}
+        - {x: 37, y: -66}
+        - {x: -3, y: -66}
+        - {x: -11, y: -42.999996}
+        - {x: -37, y: 45.999996}
+        - {x: -37, y: 52.999996}
+      physicsShape:
+      - - {x: -37, y: -16}
+        - {x: -37, y: -66}
+        - {x: -9, y: -66}
+        - {x: -9, y: -62}
+        - {x: -11, y: -52}
+        - {x: -26.999998, y: -16}
+      - - {x: 28, y: 6}
+        - {x: 29, y: 24}
+        - {x: 18, y: 42.999996}
+        - {x: 16, y: 66}
+        - {x: -1, y: 66}
+        - {x: -37, y: 52.999996}
+        - {x: -37, y: 45}
+        - {x: -33, y: 38}
+        - {x: -22, y: 21}
+        - {x: -22.999998, y: 6}
+        - {x: -16, y: -4}
+        - {x: -6, y: -8}
+        - {x: -3, y: -26}
+        - {x: -12, y: -35}
+        - {x: -9.999999, y: -48.999996}
+        - {x: -2, y: -66}
+        - {x: 29.999998, y: -66}
+        - {x: 37, y: -39}
+        - {x: 37, y: -8}
+      - - {x: 35, y: 48}
+        - {x: 26.999998, y: 39}
+        - {x: 26.999998, y: 35}
+        - {x: 31, y: 26.999998}
+        - {x: 36, y: 24}
+        - {x: 37, y: 24}
+        - {x: 37, y: 48}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06363cfa87c43d0af847e631bd32c34
+      internalID: 21300036
+      vertices:
+      - {x: 51, y: 130}
+      - {x: 74, y: 53}
+      - {x: 74, y: 0}
+      - {x: 34, y: 0}
+      - {x: 26, y: 23.000004}
+      - {x: 0, y: 112}
+      - {x: 0, y: 119}
+      - {x: 39, y: 132}
+      - {x: 50, y: 132}
+      indices: 000000000700000008000000050000000600000007000000050000000100000004000000050000000000000001000000020000000300000004000000040000000100000002000000050000000700000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rightArrow-o2_arrowFlash0006
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 775
+        width: 11
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -5.5, y: -10.5}
+        - {x: -5.5, y: 10.5}
+        - {x: 5.5, y: 10.5}
+        - {x: 5.5, y: -10.5}
+      physicsShape:
+      - - {x: 2.4999998, y: 10.5}
+        - {x: -5.5, y: 3.5}
+        - {x: -5.5, y: -3.5}
+        - {x: 2.4999998, y: -10.5}
+        - {x: 5.5, y: -10.5}
+        - {x: 5.5, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4498550b6794866ad10ebef41d05b72
+      internalID: 21300038
+      vertices:
+      - {x: 11, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 21}
+      - {x: 11, y: 21}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_leverBase
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 65
+        width: 111
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -55.5, y: 14.999999}
+        - {x: -53.499996, y: 26.999998}
+        - {x: 55.5, y: 26.999998}
+        - {x: 55.5, y: -26.999998}
+        - {x: -55.5, y: -26.999998}
+      physicsShape:
+      - - {x: 51.5, y: 26.999998}
+        - {x: -55.5, y: 26.999998}
+        - {x: -55.5, y: -22.999998}
+        - {x: 54.5, y: -22.999998}
+        - {x: 55.5, y: -9}
+        - {x: 55.5, y: 9}
+        - {x: 53.499996, y: 22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15a33828a0449dab4474a4ba5ab2abe
+      internalID: 21300040
+      vertices:
+      - {x: 111, y: 0.0000019073486}
+      - {x: 0, y: 0.0000019073486}
+      - {x: 0, y: 42}
+      - {x: 2.0000038, y: 54}
+      - {x: 111, y: 54}
+      indices: 020000000300000004000000000000000200000004000000000000000100000002000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rightArrow-o2_arrowFlash0003
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 800
+        width: 11
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -5.5, y: -10.5}
+        - {x: -5.5, y: 10.5}
+        - {x: 5.5, y: 10.5}
+        - {x: 5.5, y: -10.5}
+      physicsShape:
+      - - {x: 2.4999998, y: 10.5}
+        - {x: -5.5, y: 3.5}
+        - {x: -5.5, y: -3.5}
+        - {x: 2.4999998, y: -10.5}
+        - {x: 5.5, y: -10.5}
+        - {x: 5.5, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f630c970ea2d412fb3b3d3f1b7e2108a
+      internalID: 21300042
+      vertices:
+      - {x: 11, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 21}
+      - {x: 11, y: 21}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 123
+        width: 84
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -42, y: -17.5}
+        - {x: -42, y: 38.5}
+        - {x: 42, y: 38.5}
+        - {x: 42, y: -38.5}
+        - {x: -21, y: -38.5}
+      physicsShape:
+      - - {x: 41, y: 23.5}
+        - {x: 37, y: 26.499998}
+        - {x: 25, y: 30.5}
+        - {x: -3, y: 38.5}
+        - {x: -24, y: 38.5}
+        - {x: -41, y: 22.5}
+        - {x: -42, y: 20.5}
+        - {x: -42, y: -13.499999}
+        - {x: -36, y: -24.499998}
+        - {x: -21, y: -38.5}
+        - {x: 34, y: -38.5}
+        - {x: 42, y: -28.5}
+        - {x: 42, y: 16.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84f4d05c0024a3aa6171f6b2b5c6855
+      internalID: 21300044
+      vertices:
+      - {x: 84, y: 0}
+      - {x: 21, y: 0}
+      - {x: 0, y: 21}
+      - {x: 0, y: 77}
+      - {x: 84, y: 77}
+      indices: 020000000300000004000000010000000200000004000000000000000100000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_leverHandle
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 26
+        width: 109
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -54.5, y: -17.5}
+        - {x: -54.5, y: 17.5}
+        - {x: -39.5, y: 17.5}
+        - {x: -26.499998, y: 11.499999}
+        - {x: 39.5, y: 17.5}
+        - {x: 54.5, y: 17.5}
+        - {x: 54.5, y: -15.5}
+        - {x: 53.499996, y: -17.5}
+      physicsShape:
+      - - {x: -54.5, y: 17.5}
+        - {x: -54.5, y: -15.5}
+        - {x: 54.5, y: -15.5}
+        - {x: 54.5, y: 17.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13567617ed8248b1818ad32cc03b4384
+      internalID: 21300046
+      vertices:
+      - {x: 28.000002, y: 29}
+      - {x: 94, y: 35}
+      - {x: 109, y: 35}
+      - {x: 109, y: 2}
+      - {x: 108, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 35}
+      - {x: 15, y: 35}
+      indices: 050000000600000007000000010000000300000004000000010000000200000003000000000000000100000004000000000000000400000005000000070000000000000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rightArrow-o2_arrowFlash0008
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 863
+        width: 11
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -5.5, y: -10.5}
+        - {x: -5.5, y: 10.5}
+        - {x: 5.5, y: 10.5}
+        - {x: 5.5, y: -10.5}
+      physicsShape:
+      - - {x: 2.4999998, y: 10.5}
+        - {x: -5.5, y: 3.5}
+        - {x: -5.5, y: -3.5}
+        - {x: 2.4999998, y: -10.5}
+        - {x: 5.5, y: -10.5}
+        - {x: 5.5, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5370adac67ae440ead5fc324d46fd8af
+      internalID: 21300048
+      vertices:
+      - {x: 11, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 21}
+      - {x: 11, y: 21}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rightArrow-o2_arrowFlash0001
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 718
+        width: 11
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -5.5, y: -10.5}
+        - {x: -5.5, y: 10.5}
+        - {x: 5.5, y: 10.5}
+        - {x: 5.5, y: -10.5}
+      physicsShape:
+      - - {x: 2.4999998, y: 10.5}
+        - {x: -5.5, y: 3.5}
+        - {x: -5.5, y: -3.5}
+        - {x: 2.4999998, y: -10.5}
+        - {x: 5.5, y: -10.5}
+        - {x: 5.5, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920ce80fea3b47b19a9e0e7e115598a3
+      internalID: 21300050
+      vertices:
+      - {x: 11, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 21}
+      - {x: 11, y: 21}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rightArrow-o2_arrowFlash0005
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 775
+        width: 11
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -5.5, y: -10.5}
+        - {x: -5.5, y: 10.5}
+        - {x: 5.5, y: 10.5}
+        - {x: 5.5, y: -10.5}
+      physicsShape:
+      - - {x: 2.4999998, y: 10.5}
+        - {x: -5.5, y: 3.5}
+        - {x: -5.5, y: -3.5}
+        - {x: 2.4999998, y: -10.5}
+        - {x: 5.5, y: -10.5}
+        - {x: 5.5, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec1eae7d3884864a787f651d06c3ec3
+      internalID: 21300052
+      vertices:
+      - {x: 11, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 21}
+      - {x: 11, y: 21}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_6
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 349
+        width: 69
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 18.5, y: 48.5}
+        - {x: 34.5, y: 6.5}
+        - {x: 34.5, y: -14.5}
+        - {x: 16.5, y: -50.5}
+        - {x: -14.5, y: -50.5}
+        - {x: -34.5, y: -4.5}
+        - {x: -34.5, y: 27.5}
+        - {x: -18.5, y: 49.499996}
+        - {x: -0.5, y: 50.5}
+        - {x: 14.5, y: 50.5}
+      physicsShape:
+      - - {x: 32.5, y: 14.5}
+        - {x: 23.5, y: 29.499998}
+        - {x: 20.5, y: 43.5}
+        - {x: 15.5, y: 50.5}
+        - {x: -14.5, y: 50.5}
+        - {x: -23.5, y: 42.5}
+        - {x: -25.5, y: 39.5}
+        - {x: -30.5, y: 32.5}
+        - {x: -34.5, y: 25.5}
+        - {x: -34.5, y: 3.5}
+        - {x: -30.5, y: -12.5}
+        - {x: -22.5, y: -28.5}
+        - {x: -14.5, y: -50.5}
+        - {x: 17.5, y: -50.5}
+        - {x: 31.5, y: -15.5}
+        - {x: 34.5, y: -10.5}
+        - {x: 34.5, y: 7.4999995}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a454017bfc9d4650bdfe8d96c9eb284e
+      internalID: 21300054
+      vertices:
+      - {x: 53, y: 99}
+      - {x: 69, y: 57}
+      - {x: 69, y: 36}
+      - {x: 51, y: 0}
+      - {x: 20, y: 0}
+      - {x: 0, y: 46}
+      - {x: 0, y: 78}
+      - {x: 16, y: 100}
+      - {x: 34, y: 101}
+      - {x: 49, y: 101}
+      indices: 000000000100000008000000060000000700000008000000060000000100000005000000040000000200000003000000040000000500000002000000010000000200000005000000060000000800000001000000000000000800000009000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leftArrow-o2_arrowFlash0001
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 123
+        width: 30
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -14.999999, y: 24}
+        - {x: -6, y: 24}
+        - {x: 14.999999, y: 3}
+        - {x: 14.999999, y: -4}
+        - {x: -11, y: -24}
+        - {x: -14.999999, y: -24}
+      physicsShape:
+      - - {x: -14.999999, y: 24}
+        - {x: -14.999999, y: -24}
+        - {x: -9.999999, y: -24}
+        - {x: 14.999999, y: -4}
+        - {x: 14.999999, y: 4.9999995}
+        - {x: -9.999999, y: 24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1a7a52f2be498c9f4b4ef21342f1b4
+      internalID: 21300056
+      vertices:
+      - {x: 30, y: 27}
+      - {x: 30, y: 20}
+      - {x: 4, y: 0}
+      - {x: 0.0000009536743, y: 0}
+      - {x: 0.0000009536743, y: 48}
+      - {x: 9, y: 48}
+      indices: 020000000400000005000000020000000300000004000000000000000100000002000000000000000200000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leftArrow-o2_arrowFlash0007
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 506
+        width: 30
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -14.999999, y: 24}
+        - {x: -6, y: 24}
+        - {x: 14.999999, y: 3}
+        - {x: 14.999999, y: -4}
+        - {x: -11, y: -24}
+        - {x: -14.999999, y: -24}
+      physicsShape:
+      - - {x: -14.999999, y: 24}
+        - {x: -14.999999, y: -24}
+        - {x: -9.999999, y: -24}
+        - {x: 14.999999, y: -4}
+        - {x: 14.999999, y: 4.9999995}
+        - {x: -9.999999, y: 24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: da75fa84ada24d53a43750fcccd0380c
+      internalID: 21300058
+      vertices:
+      - {x: 30, y: 27}
+      - {x: 30, y: 20}
+      - {x: 4, y: 0}
+      - {x: 0.0000009536743, y: 0}
+      - {x: 0.0000009536743, y: 48}
+      - {x: 9, y: 48}
+      indices: 020000000400000005000000020000000300000004000000000000000100000002000000000000000200000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leftArrow-o2_arrowFlash0008
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 506
+        width: 30
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -14.999999, y: 24}
+        - {x: -6, y: 24}
+        - {x: 14.999999, y: 3}
+        - {x: 14.999999, y: -4}
+        - {x: -11, y: -24}
+        - {x: -14.999999, y: -24}
+      physicsShape:
+      - - {x: -14.999999, y: 24}
+        - {x: -14.999999, y: -24}
+        - {x: -9.999999, y: -24}
+        - {x: 14.999999, y: -4}
+        - {x: 14.999999, y: 4.9999995}
+        - {x: -9.999999, y: 24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d9bcc8b07d4c5fb86ba261cf8d2940
+      internalID: 21300060
+      vertices:
+      - {x: 30, y: 27}
+      - {x: 30, y: 20}
+      - {x: 4, y: 0}
+      - {x: 0.0000009536743, y: 0}
+      - {x: 0.0000009536743, y: 48}
+      - {x: 9, y: 48}
+      indices: 020000000400000005000000020000000300000004000000000000000100000002000000000000000200000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: o2_leaf7
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 405
+        width: 64
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 2, y: 47}
+        - {x: 11, y: 47}
+        - {x: 32, y: 4}
+        - {x: 32, y: -47}
+        - {x: -32, y: -47}
+        - {x: -32, y: 3}
+      physicsShape:
+      - - {x: 9.999999, y: 45.999996}
+        - {x: 9, y: 47}
+        - {x: 2, y: 47}
+        - {x: -3, y: 42}
+        - {x: -16, y: -1}
+        - {x: -28, y: 14}
+        - {x: -32, y: 9.999999}
+        - {x: -32, y: -26.999998}
+        - {x: -24, y: -47}
+        - {x: 18, y: -47}
+        - {x: 32, y: -33}
+        - {x: 32, y: 9}
+        - {x: 29.999998, y: 18}
+      - - {x: -7, y: 47}
+        - {x: -32, y: 47}
+        - {x: -32, y: 14.999999}
+        - {x: -29.999998, y: 14.999999}
+        - {x: -22.999998, y: 22}
+        - {x: -7, y: 45}
+      - - {x: 22.999998, y: 47}
+        - {x: 22.999998, y: 41}
+        - {x: 29, y: 32}
+        - {x: 32, y: 32}
+        - {x: 32, y: 47}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f662c6d034394d4caf852b9b309b6910
+      internalID: 21300062
+      vertices:
+      - {x: 64, y: 51}
+      - {x: 64, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 50}
+      - {x: 34, y: 94}
+      - {x: 43, y: 94}
+      indices: 000000000400000005000000000000000100000003000000010000000200000003000000000000000300000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: o2_arrowFinishedRight
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 743
+        width: 17
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -8.5, y: -14}
+        - {x: -8.5, y: 14}
+        - {x: 8.5, y: 14}
+        - {x: 8.5, y: -14}
+      physicsShape:
+      - - {x: 3.5, y: 14}
+        - {x: -8.5, y: 2}
+        - {x: -8.5, y: -6}
+        - {x: 2.4999998, y: -14}
+        - {x: 8.5, y: -14}
+        - {x: 8.5, y: 13}
+        - {x: 6.5, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de0ac1d65fa45ad94d1795b91d74734
+      internalID: 21300064
+      vertices:
+      - {x: 17, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 28}
+      - {x: 17, y: 28}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: o2_leaf1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 123
+        width: 45
+        height: 123
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -8.5, y: 45.5}
+        - {x: 10.5, y: 61.5}
+        - {x: 22.5, y: 61.5}
+        - {x: 22.5, y: -15.5}
+        - {x: 5.5, y: -61.5}
+        - {x: -9.5, y: -61.5}
+        - {x: -22.5, y: -21.499998}
+        - {x: -22.5, y: 14.5}
+      physicsShape:
+      - - {x: 22.5, y: 8.5}
+        - {x: 11.499999, y: 37.5}
+        - {x: 16.5, y: 48.5}
+        - {x: 17.5, y: 61.5}
+        - {x: 8.5, y: 61.5}
+        - {x: -9.5, y: 45.5}
+        - {x: -17.5, y: 16.5}
+        - {x: -22.5, y: 4.5}
+        - {x: -22.5, y: -28.5}
+        - {x: -1.5, y: -61.5}
+        - {x: 5.5, y: -61.5}
+        - {x: 5.5, y: -50.5}
+        - {x: 19.5, y: -19.5}
+        - {x: 22.5, y: -14.5}
+      - - {x: -22.5, y: 61.5}
+        - {x: -22.5, y: 35.5}
+        - {x: -19.5, y: 36.499996}
+        - {x: -12.5, y: 49.499996}
+        - {x: -10.5, y: 57.5}
+        - {x: -10.5, y: 61.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2034ee0acd4426a5add112f7eda670
+      internalID: 21300066
+      vertices:
+      - {x: 45, y: 46}
+      - {x: 28, y: 0}
+      - {x: 13, y: 0}
+      - {x: 0, y: 40}
+      - {x: 0, y: 76}
+      - {x: 14, y: 107}
+      - {x: 33, y: 123}
+      - {x: 45, y: 123}
+      indices: 050000000600000007000000000000000500000007000000000000000400000005000000000000000300000004000000010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leftArrow-o2_arrowFlash0005
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 411
+        width: 30
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -14.999999, y: 24}
+        - {x: -6, y: 24}
+        - {x: 14.999999, y: 3}
+        - {x: 14.999999, y: -4}
+        - {x: -11, y: -24}
+        - {x: -14.999999, y: -24}
+      physicsShape:
+      - - {x: -14.999999, y: 24}
+        - {x: -14.999999, y: -24}
+        - {x: -9.999999, y: -24}
+        - {x: 14.999999, y: -4}
+        - {x: 14.999999, y: 4.9999995}
+        - {x: -9.999999, y: 24}
+      - - {x: 6, y: 24}
+        - {x: 6, y: 22}
+        - {x: 14, y: 13}
+        - {x: 14.999999, y: 13}
+        - {x: 14.999999, y: 24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8602c773f8974372bad40ac3f2d50242
+      internalID: 21300068
+      vertices:
+      - {x: 30, y: 27}
+      - {x: 30, y: 20}
+      - {x: 4, y: 0}
+      - {x: 0.0000009536743, y: 0}
+      - {x: 0.0000009536743, y: 48}
+      - {x: 9, y: 48}
+      indices: 020000000400000005000000020000000300000004000000000000000100000002000000000000000200000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: o2_leaf4
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 533
+        width: 47
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 7.4999995, y: 53.999996}
+        - {x: 23.5, y: 53.999996}
+        - {x: 23.5, y: -8}
+        - {x: 6.5, y: -53.999996}
+        - {x: -23.5, y: -53.999996}
+        - {x: -23.5, y: 19.999998}
+      physicsShape:
+      - - {x: 23.5, y: 19.999998}
+        - {x: 13.499999, y: 29.999998}
+        - {x: 18.5, y: 48.999996}
+        - {x: 13.499999, y: 53.999996}
+        - {x: 6.5, y: 53.999996}
+        - {x: 0.5, y: 39}
+        - {x: -23.5, y: 22.999998}
+        - {x: -23.5, y: -17}
+        - {x: -17.5, y: -39.999996}
+        - {x: -0.5, y: -53.999996}
+        - {x: 7.4999995, y: -53.999996}
+        - {x: 8.5, y: -50}
+        - {x: 22.5, y: -16}
+        - {x: 23.5, y: -13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea14f7376fad4712a0fe5fd51cbd0a97
+      internalID: 21300070
+      vertices:
+      - {x: 47, y: 46}
+      - {x: 30, y: 0.0000038146973}
+      - {x: 0, y: 0.0000038146973}
+      - {x: 0, y: 74}
+      - {x: 31, y: 108}
+      - {x: 47, y: 108}
+      indices: 000000000400000005000000000000000300000004000000020000000300000000000000020000000000000001000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_leverBars
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 666
+        width: 36
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -18, y: -34}
+        - {x: -18, y: 34}
+        - {x: -4.9999995, y: 34}
+        - {x: -4.9999995, y: -34}
+      - - {x: 4.9999995, y: -34}
+        - {x: 4.9999995, y: 34}
+        - {x: 18, y: 34}
+        - {x: 18, y: -34}
+      physicsShape:
+      - - {x: -18, y: 34}
+        - {x: -18, y: -31}
+        - {x: -14.999999, y: -34}
+        - {x: -9, y: -34}
+        - {x: -4.9999995, y: -29}
+        - {x: -4.9999995, y: 32.999992}
+        - {x: -6, y: 34}
+      - - {x: 6, y: 34}
+        - {x: 4.9999995, y: 32.999992}
+        - {x: 4.9999995, y: -29}
+        - {x: 9, y: -34}
+        - {x: 17, y: -34}
+        - {x: 18, y: -33}
+        - {x: 18, y: 34}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be8fcc014c448fdbb89f1af4e1e1e68
+      internalID: 21300072
+      vertices:
+      - {x: 13, y: 34}
+      - {x: 0, y: 34}
+      - {x: 0, y: 102}
+      - {x: 13, y: 102}
+      - {x: 36, y: 34}
+      - {x: 23, y: 34}
+      - {x: 23, y: 102}
+      - {x: 36, y: 102}
+      indices: 010000000200000003000000000000000100000003000000050000000600000007000000040000000500000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_5
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 411
+        width: 100
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 19, y: 45.999996}
+        - {x: 35, y: 61}
+        - {x: 50, y: 61}
+        - {x: 50, y: 0}
+        - {x: 14, y: -26}
+        - {x: 3, y: -56}
+        - {x: -22.999998, y: -61}
+        - {x: -39, y: -61}
+        - {x: -39, y: -58.999996}
+        - {x: -31, y: -19.999998}
+        - {x: -50, y: 9.999999}
+        - {x: -50, y: 26.999998}
+        - {x: -22, y: 57}
+      physicsShape:
+      - - {x: 12, y: -26}
+        - {x: 44, y: -4.9999995}
+        - {x: 50, y: 2}
+        - {x: 50, y: 39.999996}
+        - {x: 42, y: 59.999996}
+        - {x: 39.999996, y: 61}
+        - {x: 35, y: 61}
+        - {x: 31, y: 56}
+        - {x: 21, y: 45}
+        - {x: 13, y: 45}
+        - {x: -17, y: 56}
+        - {x: -22, y: 55}
+        - {x: -34, y: 34}
+        - {x: -50, y: 19}
+        - {x: -50, y: 9.999999}
+        - {x: -44, y: 6}
+        - {x: -32, y: -11}
+        - {x: -34, y: -31}
+        - {x: -39, y: -61}
+        - {x: -19, y: -61}
+        - {x: -2, y: -57}
+        - {x: 4, y: -56}
+        - {x: 6, y: -42}
+      - - {x: 29, y: -22}
+        - {x: 9, y: -48}
+        - {x: 9, y: -58}
+        - {x: 9.999999, y: -61}
+        - {x: 50, y: -61}
+        - {x: 50, y: -22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb5b335d25343699ddc3134600d8171
+      internalID: 21300074
+      vertices:
+      - {x: 100, y: 61}
+      - {x: 64, y: 35}
+      - {x: 53, y: 5}
+      - {x: 27.000002, y: 0}
+      - {x: 11, y: 0}
+      - {x: 11, y: 2.0000038}
+      - {x: 19, y: 41}
+      - {x: 0, y: 71}
+      - {x: 0, y: 88}
+      - {x: 28, y: 118}
+      - {x: 69, y: 107}
+      - {x: 85, y: 122}
+      - {x: 100, y: 122}
+      indices: 0a0000000b0000000c00000007000000090000000a000000070000000800000009000000000000000a0000000c00000006000000070000000a000000060000000200000003000000050000000300000004000000050000000600000003000000060000000100000002000000060000000a0000000100000000000000010000000a000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leftArrow-o2_arrowFlash0009
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 506
+        width: 30
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -14.999999, y: 24}
+        - {x: -6, y: 24}
+        - {x: 14.999999, y: 3}
+        - {x: 14.999999, y: -4}
+        - {x: -11, y: -24}
+        - {x: -14.999999, y: -24}
+      physicsShape:
+      - - {x: -14.999999, y: 24}
+        - {x: -14.999999, y: -24}
+        - {x: -9.999999, y: -24}
+        - {x: 14.999999, y: -4}
+        - {x: 14.999999, y: 4.9999995}
+        - {x: -9.999999, y: 24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c341edd0f2bb4f459b234d5e92a32c6c
+      internalID: 21300076
+      vertices:
+      - {x: 30, y: 27}
+      - {x: 30, y: 20}
+      - {x: 4, y: 0}
+      - {x: 0.0000009536743, y: 0}
+      - {x: 0.0000009536743, y: 48}
+      - {x: 9, y: 48}
+      indices: 020000000400000005000000020000000300000004000000000000000100000002000000000000000200000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: o2_arrowFinishedLeft
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 533
+        width: 33
+        height: 54.923878
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49158946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 16.5, y: 3.5380611}
+        - {x: 16.5, y: -4.461939}
+        - {x: -9.5, y: -27.461937}
+        - {x: -16.5, y: -27.461937}
+        - {x: -16.5, y: 26.53806}
+        - {x: -11.499999, y: 27.538061}
+      physicsShape:
+      - - {x: -16.5, y: 26.53806}
+        - {x: -16.5, y: -26.461939}
+        - {x: -14.5, y: -27.461937}
+        - {x: -9.5, y: -27.461937}
+        - {x: 16.5, y: -3.4619389}
+        - {x: 16.5, y: 2.5380611}
+        - {x: -10.5, y: 26.53806}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52663d2b67c46c799fc7c75d8b77251
+      internalID: 21300078
+      vertices:
+      - {x: 33, y: 31.461939}
+      - {x: 33, y: 23.461939}
+      - {x: 7, y: 0.46194077}
+      - {x: 0, y: 0.46194077}
+      - {x: 0, y: 54.461937}
+      - {x: 5.000001, y: 55.461937}
+      indices: 000000000100000002000000020000000300000004000000000000000200000004000000000000000400000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leftArrow-o2_arrowFlash0004
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 204
+        width: 30
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -14.999999, y: 24}
+        - {x: -6, y: 24}
+        - {x: 14.999999, y: 3}
+        - {x: 14.999999, y: -4}
+        - {x: -11, y: -24}
+        - {x: -14.999999, y: -24}
+      physicsShape:
+      - - {x: -14.999999, y: 24}
+        - {x: -14.999999, y: -24}
+        - {x: -9.999999, y: -24}
+        - {x: 14.999999, y: -4}
+        - {x: 14.999999, y: 4.9999995}
+        - {x: -9.999999, y: 24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fed25413324119a8c11c06b19696f8
+      internalID: 21300080
+      vertices:
+      - {x: 30, y: 27}
+      - {x: 30, y: 20}
+      - {x: 4, y: 0}
+      - {x: 0.0000009536743, y: 0}
+      - {x: 0.0000009536743, y: 48}
+      - {x: 9, y: 48}
+      indices: 020000000400000005000000020000000300000004000000000000000100000002000000000000000200000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NobleStatue1
+      rect:
+        serializedVersion: 2
+        x: 6.0582047
+        y: 409
+        width: 99.941795
+        height: 124
+      alignment: 9
+      pivot: {x: 0.49970877, y: 0.4032258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -35.029102, y: 35}
+        - {x: 49.970894, y: 62}
+        - {x: 49.970894, y: -11}
+        - {x: 36.970898, y: -62}
+        - {x: -53.029102, y: -62}
+      physicsShape:
+      - - {x: 38.970894, y: -19}
+        - {x: 49.970894, y: -19}
+        - {x: 49.970894, y: 47.999996}
+        - {x: 48.970898, y: 52}
+        - {x: 43.970898, y: 58}
+        - {x: 27.970898, y: 58}
+        - {x: 11.970898, y: 40.999996}
+        - {x: -25.029102, y: 36.999996}
+        - {x: -31.0291, y: 30.999996}
+        - {x: -40.029102, y: 17}
+        - {x: -50.0291, y: -45}
+        - {x: -50.0291, y: -60.999996}
+        - {x: -47.0291, y: -62}
+        - {x: 33.970898, y: -62}
+        - {x: 37.970898, y: -60}
+        - {x: 38.970894, y: -50}
+        - {x: 37.970898, y: -46}
+      - - {x: -50.0291, y: 62}
+        - {x: -50.0291, y: 33.999996}
+        - {x: -45.029102, y: 33.999996}
+        - {x: -33.029102, y: 40}
+        - {x: -20.029102, y: 50}
+        - {x: -16.029102, y: 57}
+        - {x: -16.029102, y: 62}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4b4badbfd1484d9b93001686ab956b
+      internalID: 21300082
+      vertices:
+      - {x: 99.9709, y: 63}
+      - {x: 86.9709, y: 12}
+      - {x: -3.0290985, y: 12}
+      - {x: 14.9709015, y: 109}
+      - {x: 99.9709, y: 136}
+      indices: 000000000300000004000000020000000300000000000000020000000000000001000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leftArrow-o2_arrowFlash0006
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 411
+        width: 30
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -14.999999, y: 24}
+        - {x: -6, y: 24}
+        - {x: 14.999999, y: 3}
+        - {x: 14.999999, y: -4}
+        - {x: -11, y: -24}
+        - {x: -14.999999, y: -24}
+      physicsShape:
+      - - {x: -14.999999, y: 24}
+        - {x: -14.999999, y: -24}
+        - {x: -9.999999, y: -24}
+        - {x: 14.999999, y: -4}
+        - {x: 14.999999, y: 4.9999995}
+        - {x: -9.999999, y: 24}
+      - - {x: 6, y: 24}
+        - {x: 6, y: 22}
+        - {x: 14, y: 13}
+        - {x: 14.999999, y: 13}
+        - {x: 14.999999, y: 24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41140fabd54d4eb3ba760ee8d27a537a
+      internalID: 21300084
+      vertices:
+      - {x: 30, y: 27}
+      - {x: 30, y: 20}
+      - {x: 4, y: 0}
+      - {x: 0.0000009536743, y: 0}
+      - {x: 0.0000009536743, y: 48}
+      - {x: 9, y: 48}
+      indices: 020000000400000005000000020000000300000004000000000000000100000002000000000000000200000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leftArrow-o2_arrowFlash0010
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 506
+        width: 30
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -14.999999, y: 24}
+        - {x: -6, y: 24}
+        - {x: 14.999999, y: 3}
+        - {x: 14.999999, y: -4}
+        - {x: -11, y: -24}
+        - {x: -14.999999, y: -24}
+      physicsShape:
+      - - {x: -14.999999, y: 24}
+        - {x: -14.999999, y: -24}
+        - {x: -9.999999, y: -24}
+        - {x: 14.999999, y: -4}
+        - {x: 14.999999, y: 4.9999995}
+        - {x: -9.999999, y: 24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51646bc0ebe4698a54095147163b418
+      internalID: 21300086
+      vertices:
+      - {x: 30, y: 27}
+      - {x: 30, y: 20}
+      - {x: 4, y: 0}
+      - {x: 0.0000009536743, y: 0}
+      - {x: 0.0000009536743, y: 48}
+      - {x: 9, y: 48}
+      indices: 020000000400000005000000020000000300000004000000000000000100000002000000000000000200000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 204
+        width: 60
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -2, y: 50}
+        - {x: 8, y: 50}
+        - {x: 29.999998, y: 28}
+        - {x: 29.999998, y: -48.999996}
+        - {x: 24, y: -50}
+        - {x: -29.999998, y: -50}
+        - {x: -29.999998, y: 21}
+      physicsShape:
+      - - {x: -6, y: 50}
+        - {x: -17, y: 36}
+        - {x: -29.999998, y: 22.999998}
+        - {x: -29.999998, y: -48.999996}
+        - {x: -26, y: -50}
+        - {x: 29.999998, y: -50}
+        - {x: 29.999998, y: 22.999998}
+        - {x: 12, y: 50}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414e7b8462264c71a3bf19fb7471dc94
+      internalID: 21300088
+      vertices:
+      - {x: 60, y: 78}
+      - {x: 60, y: 1.0000038}
+      - {x: 54, y: 0}
+      - {x: 0.0000019073486, y: 0}
+      - {x: 0.0000019073486, y: 71}
+      - {x: 28, y: 100}
+      - {x: 38, y: 100}
+      indices: 000000000500000006000000000000000200000004000000020000000300000004000000000000000100000002000000000000000400000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rightArrow-o2_arrowFlash0004
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 800
+        width: 11
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -5.5, y: -10.5}
+        - {x: -5.5, y: 10.5}
+        - {x: 5.5, y: 10.5}
+        - {x: 5.5, y: -10.5}
+      physicsShape:
+      - - {x: 2.4999998, y: 10.5}
+        - {x: -5.5, y: 3.5}
+        - {x: -5.5, y: -3.5}
+        - {x: 2.4999998, y: -10.5}
+        - {x: 5.5, y: -10.5}
+        - {x: 5.5, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94efeeecd5ec429da79623f8d0dcbe73
+      internalID: 21300090
+      vertices:
+      - {x: 11, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 21}
+      - {x: 11, y: 21}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NobleStatue1: 21300082
+      diamond: 21300010
+      garbage_1: 21300004
+      garbage_2: 21300044
+      garbage_3: 21300032
+      garbage_4: 21300036
+      garbage_5: 21300074
+      garbage_6: 21300054
+      garbage_Base: 21300030
+      garbage_leverBars: 21300072
+      garbage_leverBase: 21300040
+      garbage_leverHandle: 21300046
+      garbage_lightShadow: 21300008
+      leftArrow-o2_arrowFlash0001: 21300056
+      leftArrow-o2_arrowFlash0002: 21300018
+      leftArrow-o2_arrowFlash0003: 21300020
+      leftArrow-o2_arrowFlash0004: 21300080
+      leftArrow-o2_arrowFlash0005: 21300068
+      leftArrow-o2_arrowFlash0006: 21300084
+      leftArrow-o2_arrowFlash0007: 21300058
+      leftArrow-o2_arrowFlash0008: 21300060
+      leftArrow-o2_arrowFlash0009: 21300076
+      leftArrow-o2_arrowFlash0010: 21300086
+      o2_arrowFinishedLeft: 21300078
+      o2_arrowFinishedRight: 21300064
+      o2_bgBase: 21300000
+      o2_bgTop: 21300026
+      o2_leaf1: 21300066
+      o2_leaf2: 21300034
+      o2_leaf3: 21300022
+      o2_leaf4: 21300070
+      o2_leaf5: 21300002
+      o2_leaf6: 21300016
+      o2_leaf7: 21300062
+      rightArrow-o2_arrowFlash0001: 21300050
+      rightArrow-o2_arrowFlash0002: 21300012
+      rightArrow-o2_arrowFlash0003: 21300042
+      rightArrow-o2_arrowFlash0004: 21300090
+      rightArrow-o2_arrowFlash0005: 21300052
+      rightArrow-o2_arrowFlash0006: 21300038
+      rightArrow-o2_arrowFlash0007: 21300024
+      rightArrow-o2_arrowFlash0008: 21300048
+      rightArrow-o2_arrowFlash0009: 21300006
+      rightArrow-o2_arrowFlash0010: 21300014
+      teleporter: 21300088
+      totem: 21300028
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

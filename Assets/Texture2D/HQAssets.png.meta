@@ -1,0 +1,1726 @@
+fileFormatVersion: 2
+guid: 9587242dd85a89c428691eafbe3ad2ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: electricalPanelOfficeMira
+  - first:
+      213: 21300002
+    second: comms_commsSab
+  - first:
+      213: 21300004
+    second: medbaybottom1
+  - first:
+      213: 21300006
+    second: cafe-misc1
+  - first:
+      213: 21300008
+    second: wires_Storage
+  - first:
+      213: 21300010
+    second: cafe-sidebar
+  - first:
+      213: 21300012
+    second: med-bed-hort
+  - first:
+      213: 21300014
+    second: locker-bench
+  - first:
+      213: 21300016
+    second: cafe-misc2
+  - first:
+      213: 21300018
+    second: wires_reactorLab
+  - first:
+      213: 21300020
+    second: lockers-right
+  - first:
+      213: 21300022
+    second: med-bed-bottom
+  - first:
+      213: 21300024
+    second: medbaybottom2
+  - first:
+      213: 21300026
+    second: med-scanner
+  - first:
+      213: 21300028
+    second: comms-side
+  - first:
+      213: 21300030
+    second: med-bed-top
+  - first:
+      213: 21300032
+    second: locker-bench-side
+  - first:
+      213: 21300034
+    second: wiresHallwayGreen
+  - first:
+      213: 21300036
+    second: med-bed-top-hort
+  - first:
+      213: 21300038
+    second: medBayCommsLockersWalls
+  - first:
+      213: 21300040
+    second: balconyFenceHorz
+  - first:
+      213: 21300042
+    second: lockers-left
+  - first:
+      213: 21300044
+    second: comms-top
+  - first:
+      213: 21300046
+    second: balconyFenceVert
+  - first:
+      213: 21300048
+    second: comms-security
+  - first:
+      213: 21300050
+    second: wires_skybridge
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: electricalPanelOfficeMira
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 481
+        width: 56
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -28, y: -24.499998}
+        - {x: -28, y: 24.499998}
+        - {x: 28, y: 24.499998}
+        - {x: 28, y: -24.499998}
+      physicsShape:
+      - - {x: -28, y: 24.499998}
+        - {x: -28, y: -24.499998}
+        - {x: 28, y: -24.499998}
+        - {x: 28, y: 24.499998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b5d8b9afce41d4808d7321d6a1eb8d
+      internalID: 21300000
+      vertices:
+      - {x: 56, y: 0.0000019073486}
+      - {x: 0, y: 0.0000019073486}
+      - {x: 0, y: 49}
+      - {x: 56, y: 49}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comms_commsSab
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 919
+        width: 58
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -29, y: -20.5}
+        - {x: -29, y: 20.5}
+        - {x: 29, y: 20.5}
+        - {x: 29, y: -20.5}
+      physicsShape:
+      - - {x: -28, y: 20.5}
+        - {x: -29, y: 17.5}
+        - {x: -29, y: -15.5}
+        - {x: -26.999998, y: -19.5}
+        - {x: 26, y: -19.5}
+        - {x: 29, y: -17.5}
+        - {x: 29, y: 20.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9d3a6ff8184d7aae2fbf116f4c0cb7
+      internalID: 21300002
+      vertices:
+      - {x: 58, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 41}
+      - {x: 58, y: 41}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medbaybottom1
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 888
+        width: 102
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -51, y: -22.5}
+        - {x: -51, y: 22.5}
+        - {x: 4.9999995, y: 22.5}
+        - {x: 51, y: 13.499999}
+        - {x: 51, y: -22.5}
+      physicsShape:
+      - - {x: -44, y: 22.5}
+        - {x: -51, y: 13.499999}
+        - {x: -51, y: -22.5}
+        - {x: 51, y: -22.5}
+        - {x: 51, y: 13.499999}
+        - {x: 28, y: 22.5}
+      - - {x: -22.999998, y: 16.5}
+        - {x: -17, y: 16.5}
+        - {x: -17, y: 15.5}
+        - {x: -21, y: 16.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1189f92da245259bcd6cf75355b7b4
+      internalID: 21300004
+      vertices:
+      - {x: 102, y: 36}
+      - {x: 102, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 45}
+      - {x: 56, y: 45}
+      indices: 020000000300000004000000010000000200000004000000000000000100000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cafe-misc1
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 827
+        width: 36
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 6, y: 28.5}
+        - {x: 18, y: 28.5}
+        - {x: 18, y: -28.5}
+        - {x: -18, y: -28.5}
+        - {x: -18, y: 4.5}
+      physicsShape:
+      - - {x: 14.999999, y: 28.5}
+        - {x: 7, y: 28.5}
+        - {x: 2, y: 21.499998}
+        - {x: -13, y: 10.5}
+        - {x: -18, y: 3.5}
+        - {x: -18, y: -27.5}
+        - {x: -16, y: -28.5}
+        - {x: 11, y: -28.5}
+        - {x: 13, y: -25.5}
+        - {x: 18, y: -1.5}
+        - {x: 18, y: 24.499998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fea6ce7e8c4c3382832053f3205248
+      internalID: 21300006
+      vertices:
+      - {x: 36, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 33}
+      - {x: 24, y: 57}
+      - {x: 36, y: 57}
+      indices: 000000000300000004000000000000000200000003000000000000000100000002000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wires_Storage
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 665
+        width: 32
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -16, y: -11}
+        - {x: -16, y: 11}
+        - {x: 16, y: 11}
+        - {x: 16, y: -11}
+      physicsShape:
+      - - {x: -16, y: 11}
+        - {x: -16, y: -11}
+        - {x: 16, y: -11}
+        - {x: 16, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42d99a206574aed88db8b47ff0643dc
+      internalID: 21300008
+      vertices:
+      - {x: 32, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 22}
+      - {x: 32, y: 22}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cafe-sidebar
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 535
+        width: 41
+        height: 284
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -20.5, y: -142}
+        - {x: -20.5, y: 142}
+        - {x: 20.5, y: 142}
+        - {x: 20.5, y: -142}
+      physicsShape:
+      - - {x: -13.499999, y: 142}
+        - {x: -20.5, y: 137}
+        - {x: -20.5, y: -132}
+        - {x: -19.5, y: -133}
+        - {x: 19.5, y: -133}
+        - {x: 20.5, y: -132}
+        - {x: 20.5, y: 141}
+        - {x: 17.5, y: 142}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974ae5827b7346c6b0cb85b20c8dae3d
+      internalID: 21300010
+      vertices:
+      - {x: 41, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 284}
+      - {x: 41, y: 284}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: med-bed-hort
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 883
+        width: 102
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -51, y: -38.5}
+        - {x: -51, y: 38.5}
+        - {x: 51, y: 38.5}
+        - {x: 51, y: -38.5}
+      physicsShape:
+      - - {x: -51, y: 38.5}
+        - {x: -51, y: -38.5}
+        - {x: 8, y: -38.5}
+        - {x: 51, y: -33.499996}
+        - {x: 51, y: 36.499996}
+        - {x: 50, y: 38.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58be229a8d54f6a969e39581426112b
+      internalID: 21300012
+      vertices:
+      - {x: 102, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 77}
+      - {x: 102, y: 77}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: locker-bench
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 61
+        width: 91
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -45.5, y: -25}
+        - {x: -45.5, y: 25}
+        - {x: 45.5, y: 25}
+        - {x: 45.5, y: -25}
+      physicsShape:
+      - - {x: -45.5, y: 25}
+        - {x: -45.5, y: -25}
+        - {x: 43.5, y: -25}
+        - {x: 45.5, y: -22}
+        - {x: 45.5, y: 25}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa0b8252d634539aa4c6c8159b14d89
+      internalID: 21300014
+      vertices:
+      - {x: 91, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 50}
+      - {x: 91, y: 50}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cafe-misc2
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 618
+        width: 31
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -15.5, y: 21}
+        - {x: 14.5, y: 21}
+        - {x: 15.5, y: 2}
+        - {x: 15.5, y: -21}
+        - {x: -15.5, y: -21}
+      physicsShape:
+      - - {x: -10.5, y: 21}
+        - {x: -15.5, y: 19}
+        - {x: -15.5, y: -14.999999}
+        - {x: -13.499999, y: -21}
+        - {x: 15.5, y: -21}
+        - {x: 15.5, y: 12}
+        - {x: 9.5, y: 21}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3737bf66d4364071b19e10716c156735
+      internalID: 21300016
+      vertices:
+      - {x: 31, y: 23}
+      - {x: 31, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 42}
+      - {x: 30, y: 42}
+      indices: 000000000300000004000000000000000100000002000000000000000200000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wires_reactorLab
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 938
+        width: 32
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -16, y: -11}
+        - {x: -16, y: 11}
+        - {x: 16, y: 11}
+        - {x: 16, y: -11}
+      physicsShape:
+      - - {x: -16, y: 11}
+        - {x: -16, y: -11}
+        - {x: 16, y: -11}
+        - {x: 16, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0269d1e7164771b6fe92b63472a6c0
+      internalID: 21300018
+      vertices:
+      - {x: 32, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 22}
+      - {x: 32, y: 22}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockers-right
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 621
+        width: 37
+        height: 201
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -18.5, y: -100.5}
+        - {x: -18.5, y: 100.5}
+        - {x: 18.5, y: 100.5}
+        - {x: 18.5, y: -100.5}
+      physicsShape:
+      - - {x: -18.5, y: 100.5}
+        - {x: -18.5, y: -100.5}
+        - {x: 18.5, y: -100.5}
+        - {x: 18.5, y: 100.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8052253f334aa188fb7b6104ca1637
+      internalID: 21300020
+      vertices:
+      - {x: 37, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 201}
+      - {x: 37, y: 201}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: med-bed-bottom
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 122
+        width: 78
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -39, y: -57}
+        - {x: -39, y: 57}
+        - {x: 29.999998, y: 57}
+        - {x: 39, y: 53.999996}
+        - {x: 39, y: -57}
+      physicsShape:
+      - - {x: 33, y: 57}
+        - {x: -39, y: 57}
+        - {x: -39, y: -48.999996}
+        - {x: -38, y: -51}
+        - {x: 39, y: -51}
+        - {x: 39, y: 52.999996}
+        - {x: 37, y: 55}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3c1b90dd8b4b9fa72849c08464f8ff
+      internalID: 21300022
+      vertices:
+      - {x: 78, y: 111}
+      - {x: 78, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 114}
+      - {x: 69, y: 114}
+      indices: 020000000300000004000000010000000200000004000000000000000100000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medbaybottom2
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 915
+        width: 102
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -51, y: -22.5}
+        - {x: -51, y: 22.5}
+        - {x: 51, y: 22.5}
+        - {x: 51, y: -22.5}
+      physicsShape:
+      - - {x: -34, y: 22.5}
+        - {x: -51, y: 14.5}
+        - {x: -51, y: -22.5}
+        - {x: 51, y: -22.5}
+        - {x: 51, y: 15.5}
+        - {x: 35, y: 22.5}
+      - - {x: -4, y: 16.5}
+        - {x: 3, y: 17.5}
+        - {x: 2, y: 16.5}
+        - {x: 2, y: 15.5}
+        - {x: -3, y: 15.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a83dc5f26234c7ead3b0a3042c43b7a
+      internalID: 21300024
+      vertices:
+      - {x: 102, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 45}
+      - {x: 102, y: 45}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: med-scanner
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 743.02673
+        width: 164
+        height: 98.97325
+      alignment: 9
+      pivot: {x: 0.49390244, y: 0.62616175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -70, y: 18.486637}
+        - {x: -2, y: 49.486637}
+        - {x: 69, y: 17.486637}
+        - {x: 82, y: -19.513363}
+        - {x: 0, y: -51.513363}
+        - {x: -82, y: -19.513363}
+      physicsShape:
+      - - {x: 78.99999, y: -16.513363}
+        - {x: 78.99999, y: -8.513363}
+        - {x: 71, y: 13.486637}
+        - {x: 52.999996, y: 25.486637}
+        - {x: 30, y: 32.486633}
+        - {x: 13, y: 35.486633}
+        - {x: 7, y: 46.486637}
+        - {x: -5.9999995, y: 46.486637}
+        - {x: -14, y: 43.486637}
+        - {x: -23.999998, y: 34.486637}
+        - {x: -45, y: 24.486637}
+        - {x: -53.999996, y: 25.486637}
+        - {x: -72, y: 9.486637}
+        - {x: -78, y: -2.513362}
+        - {x: -78, y: -14.513361}
+        - {x: -76, y: -20.513363}
+        - {x: -46, y: -27.51336}
+        - {x: -33, y: -34.513363}
+        - {x: -7, y: -45.513363}
+        - {x: 8.999999, y: -45.513363}
+        - {x: 43, y: -28.513363}
+        - {x: 54, y: -18.513363}
+        - {x: 75, y: -18.513363}
+      - - {x: -82, y: 49.486637}
+        - {x: -82, y: 41.486637}
+        - {x: -73, y: 30.486637}
+        - {x: -66, y: 30.486637}
+        - {x: -62, y: 32.486633}
+        - {x: -53, y: 44.486637}
+        - {x: -53, y: 49.486637}
+      - - {x: 65.99999, y: 49.486637}
+        - {x: 65.99999, y: 48.486637}
+        - {x: 69, y: 45.486637}
+        - {x: 74, y: 45.486637}
+        - {x: 76, y: 47.486637}
+        - {x: 76, y: 49.486637}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5949030673c46e88161aa37c5084090
+      internalID: 21300026
+      vertices:
+      - {x: 152, y: 54.486626}
+      - {x: 165, y: 17.486626}
+      - {x: 83, y: -14.513374}
+      - {x: 1, y: 17.486626}
+      - {x: 13, y: 55.486626}
+      - {x: 81, y: 86.486626}
+      indices: 020000000400000005000000020000000300000004000000000000000100000002000000000000000200000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comms-side
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 259
+        width: 44
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -22, y: 88}
+        - {x: -21, y: 106.99999}
+        - {x: 22, y: 106.99999}
+        - {x: 22, y: -106.99999}
+        - {x: -22, y: -106.99999}
+      physicsShape:
+      - - {x: 18, y: -21}
+        - {x: 22, y: -1}
+        - {x: 22, y: 97.99999}
+        - {x: 21, y: 105.99999}
+        - {x: 19.999998, y: 106.99999}
+        - {x: -21, y: 106.99999}
+        - {x: -22, y: 104.99999}
+        - {x: -22, y: -8}
+        - {x: -19, y: -18}
+        - {x: -22, y: -31}
+        - {x: -22, y: -105.99999}
+        - {x: -21, y: -106.99999}
+        - {x: 22, y: -106.99999}
+        - {x: 22, y: -34}
+        - {x: 21, y: -29}
+      - - {x: 7, y: 2}
+        - {x: 8, y: 6}
+        - {x: 4.9999995, y: 8}
+        - {x: 2, y: 0}
+        - {x: 4, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7adffc8c0a94d79858d1886042bc4f1
+      internalID: 21300028
+      vertices:
+      - {x: 44, y: 0.0000076293945}
+      - {x: 0, y: 0.0000076293945}
+      - {x: 0, y: 195}
+      - {x: 1, y: 214}
+      - {x: 44, y: 214}
+      indices: 020000000300000004000000000000000200000004000000000000000100000002000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: med-bed-top
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 548
+        width: 79
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -14.5, y: 36}
+        - {x: 39.5, y: 36}
+        - {x: 39.5, y: -36}
+        - {x: -39.5, y: -36}
+        - {x: -39.5, y: 11}
+      physicsShape:
+      - - {x: 35.5, y: -36}
+        - {x: 39.5, y: -36}
+        - {x: 39.5, y: 16}
+        - {x: 21.499998, y: 36}
+        - {x: -14.5, y: 36}
+        - {x: -39.5, y: 9}
+        - {x: -39.5, y: -33}
+        - {x: -33.499996, y: -36}
+        - {x: -26.499998, y: -36}
+        - {x: -20.5, y: -29}
+        - {x: -9.5, y: -14}
+        - {x: 15.5, y: -19.999998}
+      - - {x: -16.5, y: 9.999999}
+        - {x: -14.5, y: 12}
+        - {x: -9.5, y: 18}
+        - {x: 3.5, y: 18}
+        - {x: 8.5, y: 19}
+        - {x: 9.5, y: 18}
+        - {x: 17.5, y: 17}
+        - {x: 23.5, y: 11}
+        - {x: 24.499998, y: 2}
+        - {x: 18.5, y: 8}
+        - {x: -11.499999, y: 8}
+        - {x: -17.5, y: 2}
+        - {x: -16.5, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101c42a2e2a14540bc600b4a8c5151dc
+      internalID: 21300030
+      vertices:
+      - {x: 79, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 47}
+      - {x: 25, y: 72}
+      - {x: 79, y: 72}
+      indices: 000000000300000004000000020000000000000001000000020000000300000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: locker-bench-side
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 478
+        width: 37
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -18.5, y: -53.499996}
+        - {x: -18.5, y: 53.499996}
+        - {x: 18.5, y: 53.499996}
+        - {x: 18.5, y: -53.499996}
+      physicsShape:
+      - - {x: -18.5, y: 53.499996}
+        - {x: -18.5, y: -52.499996}
+        - {x: -17.5, y: -53.499996}
+        - {x: 17.5, y: -53.499996}
+        - {x: 18.5, y: -50.5}
+        - {x: 18.5, y: 53.499996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b607e565ee492b8ec99fece908617a
+      internalID: 21300032
+      vertices:
+      - {x: 37, y: 0.0000038146973}
+      - {x: 0, y: 0.0000038146973}
+      - {x: 0, y: 107}
+      - {x: 37, y: 107}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wiresHallwayGreen
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 911
+        width: 32
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -16, y: -11}
+        - {x: -16, y: 11}
+        - {x: 16, y: 11}
+        - {x: 16, y: -11}
+      physicsShape:
+      - - {x: -16, y: 11}
+        - {x: -16, y: -11}
+        - {x: 16, y: -11}
+        - {x: 16, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6086a308457f46ed8528714cec044732
+      internalID: 21300034
+      vertices:
+      - {x: 32, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 22}
+      - {x: 32, y: 22}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: med-bed-top-hort
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 590
+        width: 52
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -26, y: -34}
+        - {x: -26, y: 34}
+        - {x: 26, y: 34}
+        - {x: 26, y: -34}
+      physicsShape:
+      - - {x: -26, y: 34}
+        - {x: -26, y: -34}
+        - {x: 22.999998, y: -34}
+        - {x: 25, y: -32}
+        - {x: 25, y: 34}
+      - - {x: -3, y: 28}
+        - {x: 3, y: 28}
+        - {x: 3, y: -9.999999}
+        - {x: -3, y: -9.999999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d2b4ea70a3409483a4cee46b5537a2
+      internalID: 21300036
+      vertices:
+      - {x: 52, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 68}
+      - {x: 52, y: 68}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medBayCommsLockersWalls
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 6
+        width: 1460
+        height: 954
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 116, y: 456.99997}
+        - {x: 119.99999, y: 477}
+        - {x: 136, y: 477}
+        - {x: 142, y: 400}
+        - {x: 359, y: 400}
+        - {x: 366, y: 477}
+        - {x: 408.99997, y: 477}
+        - {x: 402, y: 456}
+        - {x: 458, y: 462}
+        - {x: 473, y: 475}
+        - {x: 477.99997, y: 475}
+        - {x: 481.99997, y: 456}
+        - {x: 730, y: 456}
+        - {x: 730, y: -477}
+        - {x: -730, y: -477}
+        - {x: -730, y: -431}
+        - {x: -625, y: -427}
+        - {x: -627, y: -241.99998}
+        - {x: -730, y: -239.99998}
+        - {x: -730, y: -234.99998}
+        - {x: -623, y: -229}
+        - {x: -623, y: 127}
+        - {x: -510.99997, y: 132}
+        - {x: -508, y: 181}
+        - {x: -492, y: 181}
+        - {x: -487, y: 59.999996}
+        - {x: -278, y: 59.999996}
+        - {x: -272, y: 181}
+        - {x: -256, y: 181}
+        - {x: -250, y: 127}
+        - {x: -167, y: 133}
+        - {x: -167, y: 456}
+      physicsShape:
+      - - {x: 475.99997, y: 475}
+        - {x: 467.99997, y: 477}
+        - {x: 368.99997, y: 477}
+        - {x: 353, y: 411}
+        - {x: 145.99998, y: 477}
+        - {x: 116.99999, y: 477}
+        - {x: 118.99999, y: 456.99997}
+        - {x: -168, y: 463}
+        - {x: -254, y: 133.99998}
+        - {x: -255, y: 179}
+        - {x: -261, y: 184.99998}
+        - {x: -276, y: 180}
+        - {x: -273, y: 61}
+        - {x: -489, y: 63}
+        - {x: -491, y: 184.99998}
+        - {x: -506.99997, y: 189}
+        - {x: -516, y: 133.99998}
+        - {x: -628, y: 128}
+        - {x: -730, y: -227}
+        - {x: -730, y: -240.99998}
+        - {x: -624, y: -242.99998}
+        - {x: -624, y: -429.99997}
+        - {x: -730, y: -425.99997}
+        - {x: -730, y: -477}
+        - {x: 730, y: -477}
+        - {x: 730, y: 456}
+        - {x: 729, y: 456.99997}
+      - - {x: -730, y: -368.99997}
+        - {x: -730, y: -423}
+        - {x: -642, y: -423}
+        - {x: -635.99994, y: -417}
+        - {x: -635.99994, y: -368.99997}
+      - - {x: -633.99994, y: -246}
+        - {x: -637, y: -244}
+        - {x: -704, y: -244}
+        - {x: -730, y: -247}
+        - {x: -730, y: -352}
+        - {x: -726, y: -355}
+        - {x: -653, y: -355}
+        - {x: -649, y: -351}
+        - {x: -635.99994, y: -313}
+        - {x: -633.99994, y: -311}
+      - - {x: -689.99994, y: -26}
+        - {x: -707, y: -22.999998}
+        - {x: -730, y: -22.999998}
+        - {x: -730, y: -230}
+        - {x: -692, y: -230}
+        - {x: -685, y: -192}
+        - {x: -685, y: -118.99999}
+      - - {x: -625, y: -74}
+        - {x: -625, y: 102}
+        - {x: -629, y: 104.99999}
+        - {x: -666, y: 104.99999}
+        - {x: -672, y: 70}
+        - {x: -668, y: 9}
+        - {x: -672, y: -13}
+        - {x: -673, y: -45.999996}
+        - {x: -673, y: -114}
+        - {x: -670, y: -124}
+        - {x: -668, y: -126}
+        - {x: -660.99994, y: -126}
+        - {x: -658.99994, y: -124}
+        - {x: -658.99994, y: -120.99999}
+        - {x: -656, y: -116.99999}
+        - {x: -660.99994, y: -133}
+        - {x: -664, y: -131}
+        - {x: -673, y: -145.99998}
+        - {x: -673, y: -177}
+        - {x: -672, y: -223}
+        - {x: -672, y: -225}
+        - {x: -626, y: -225}
+        - {x: -625, y: -207}
+        - {x: -625, y: -190}
+        - {x: -627, y: -145.99998}
+      - - {x: -643, y: -115}
+        - {x: -642, y: -111}
+        - {x: -645, y: -109}
+        - {x: -648, y: -116.99999}
+        - {x: -646, y: -117.99999}
+      - - {x: -673, y: -3}
+        - {x: -673, y: 48}
+        - {x: -730, y: 48}
+        - {x: -730, y: -3}
+      - - {x: -691, y: 339}
+        - {x: -714.99994, y: 339}
+        - {x: -730, y: 334}
+        - {x: -730, y: 62}
+        - {x: -729, y: 61}
+        - {x: -689.99994, y: 61}
+        - {x: -687.99994, y: 63}
+        - {x: -685.99994, y: 146.99998}
+        - {x: -685.99994, y: 335}
+      - - {x: -287, y: 64}
+        - {x: -280, y: 66}
+        - {x: -280, y: 114}
+        - {x: -303, y: 140}
+        - {x: -336, y: 140}
+        - {x: -362, y: 111}
+        - {x: -365, y: 101}
+        - {x: -365, y: 98.99999}
+        - {x: -357, y: 97.99999}
+        - {x: -365, y: 79}
+        - {x: -365, y: 71}
+        - {x: -355, y: 64}
+        - {x: -349, y: 64}
+        - {x: -332, y: 87}
+        - {x: -305, y: 85.99999}
+        - {x: -289, y: 64}
+      - - {x: -339, y: 111}
+        - {x: -337, y: 113}
+        - {x: -332, y: 118.99999}
+        - {x: -318.99997, y: 118.99999}
+        - {x: -314, y: 119.99999}
+        - {x: -313, y: 118.99999}
+        - {x: -305, y: 117.99999}
+        - {x: -299, y: 112}
+        - {x: -298, y: 103}
+        - {x: -304, y: 109}
+        - {x: -334, y: 109}
+        - {x: -340, y: 103}
+        - {x: -339, y: 103}
+      - - {x: -683.99994, y: 178}
+        - {x: -683.99994, y: 113}
+        - {x: -676, y: 105.99999}
+        - {x: -633, y: 105.99999}
+        - {x: -633, y: 175}
+        - {x: -639.99994, y: 178}
+      - - {x: -660.99994, y: 169}
+        - {x: -655, y: 169}
+        - {x: -655, y: 131}
+        - {x: -660.99994, y: 131}
+      - - {x: -171.99998, y: 341.99997}
+        - {x: -211.99998, y: 341.99997}
+        - {x: -213.99998, y: 164}
+        - {x: -220, y: 191}
+        - {x: -248, y: 169}
+        - {x: -248, y: 153}
+        - {x: -246, y: 135}
+        - {x: -242.99998, y: 133.99998}
+        - {x: -178, y: 133.99998}
+        - {x: -169, y: 135}
+        - {x: -169, y: 337}
+      - - {x: -247, y: 205}
+        - {x: -247, y: 181}
+        - {x: -215.99998, y: 181}
+        - {x: -213.99998, y: 182}
+        - {x: -213.99998, y: 205}
+      - - {x: -523, y: 292.99997}
+        - {x: -523, y: 299}
+        - {x: -527, y: 311}
+        - {x: -540, y: 330}
+        - {x: -572, y: 343.99997}
+        - {x: -589, y: 344.99997}
+        - {x: -598, y: 356}
+        - {x: -610.99994, y: 356}
+        - {x: -626, y: 343.99997}
+        - {x: -635.99994, y: 339}
+        - {x: -656, y: 334}
+        - {x: -669, y: 324}
+        - {x: -680, y: 303}
+        - {x: -680, y: 295}
+        - {x: -677, y: 290}
+        - {x: -648, y: 281}
+        - {x: -610, y: 264}
+        - {x: -595, y: 264}
+        - {x: -558.99994, y: 280}
+        - {x: -548, y: 291}
+        - {x: -527, y: 291}
+      - - {x: -626, y: 366}
+        - {x: -568, y: 365}
+        - {x: -565, y: 367.99997}
+        - {x: -565, y: 366.99997}
+        - {x: -562.99994, y: 365}
+        - {x: -555, y: 364}
+        - {x: -553, y: 369.99997}
+        - {x: -557, y: 384}
+        - {x: -540, y: 370.99997}
+        - {x: -533.99994, y: 353}
+        - {x: -528, y: 355}
+        - {x: -526, y: 356}
+        - {x: -521, y: 350}
+        - {x: -517, y: 346}
+        - {x: -510.99997, y: 344.99997}
+        - {x: -494, y: 358}
+        - {x: -498, y: 383}
+        - {x: -471.99997, y: 365}
+        - {x: -464, y: 363}
+        - {x: -458, y: 388}
+        - {x: -456, y: 397}
+        - {x: -456, y: 452.99997}
+        - {x: -456.99997, y: 461}
+        - {x: -485.99997, y: 475}
+        - {x: -500.99997, y: 471}
+        - {x: -502.99997, y: 433}
+        - {x: -562.99994, y: 431.99997}
+        - {x: -567, y: 475}
+        - {x: -569, y: 477}
+        - {x: -623, y: 477}
+        - {x: -626, y: 473.99997}
+        - {x: -627, y: 431.99997}
+        - {x: -705, y: 435}
+        - {x: -708, y: 439}
+        - {x: -718, y: 441}
+        - {x: -730, y: 431.99997}
+        - {x: -730, y: 366}
+        - {x: -719, y: 364}
+        - {x: -717, y: 370.99997}
+        - {x: -720, y: 382}
+        - {x: -696, y: 358}
+        - {x: -698, y: 347}
+        - {x: -693, y: 343.99997}
+        - {x: -687.99994, y: 342.99997}
+        - {x: -683, y: 340}
+        - {x: -666, y: 340}
+        - {x: -662.99994, y: 341}
+        - {x: -652, y: 355}
+        - {x: -654, y: 378}
+        - {x: -628, y: 360}
+      - - {x: -176, y: 402}
+        - {x: -182, y: 402}
+        - {x: -188, y: 393.99997}
+        - {x: -203, y: 383}
+        - {x: -208.99998, y: 375}
+        - {x: -210.99998, y: 352}
+        - {x: -210.99998, y: 347}
+        - {x: -208, y: 342.99997}
+        - {x: -179, y: 342.99997}
+        - {x: -177, y: 347}
+        - {x: -170.99998, y: 383}
+        - {x: -170.99998, y: 399}
+      - - {x: -454, y: 477}
+        - {x: -454, y: 400}
+        - {x: -431, y: 400}
+        - {x: -400.99997, y: 406.99997}
+        - {x: -375, y: 402}
+        - {x: -346, y: 404}
+        - {x: -346, y: 477}
+      - - {x: 301, y: 452.99997}
+        - {x: 255, y: 452.99997}
+        - {x: 249, y: 444.99997}
+        - {x: 249, y: 402}
+        - {x: 357, y: 402}
+        - {x: 357, y: 433.99997}
+        - {x: 356, y: 446.99997}
+      - - {x: -344.99997, y: 475}
+        - {x: -344.99997, y: 421}
+        - {x: -343.99997, y: 419.99997}
+        - {x: -286, y: 419.99997}
+        - {x: -279, y: 421}
+        - {x: -279, y: 475}
+      - - {x: -205, y: 450.99997}
+        - {x: -205, y: 427.99997}
+        - {x: -202, y: 427}
+        - {x: -173, y: 427}
+        - {x: -170.99998, y: 427.99997}
+        - {x: -170.99998, y: 450.99997}
+      - - {x: 227, y: 477}
+        - {x: 156, y: 477}
+        - {x: 142, y: 469}
+        - {x: 142, y: 429}
+        - {x: 248, y: 429}
+        - {x: 248, y: 473.99997}
+      - - {x: -273, y: 477}
+        - {x: -276, y: 450}
+        - {x: -276, y: 442}
+        - {x: -273, y: 437}
+        - {x: -216.99998, y: 437}
+        - {x: -216.99998, y: 477}
+      - - {x: 280, y: 444}
+        - {x: 286, y: 444}
+        - {x: 286, y: 442.99997}
+        - {x: 282, y: 444}
+      - - {x: -730, y: 477}
+        - {x: -730, y: 446.99997}
+        - {x: -729, y: 446}
+        - {x: -718, y: 446}
+        - {x: -718, y: 477}
+      - - {x: -689.99994, y: 477}
+        - {x: -691, y: 475.99997}
+        - {x: -691, y: 446}
+        - {x: -677, y: 446}
+        - {x: -676, y: 454}
+        - {x: -676, y: 473.99997}
+        - {x: -678, y: 477}
+      - - {x: -666, y: 477}
+        - {x: -666, y: 460}
+        - {x: -664.99994, y: 454.99997}
+        - {x: -633.99994, y: 454.99997}
+        - {x: -632, y: 456}
+        - {x: -632, y: 477}
+      - - {x: -212.99998, y: 477}
+        - {x: -212.99998, y: 460}
+        - {x: -210.99998, y: 454.99997}
+        - {x: -181, y: 454.99997}
+        - {x: -179, y: 456}
+        - {x: -179, y: 477}
+      - - {x: 325, y: 477}
+        - {x: 325, y: 456}
+        - {x: 327, y: 454.99997}
+        - {x: 357, y: 454.99997}
+        - {x: 359, y: 456}
+        - {x: 359, y: 477}
+      - - {x: 192, y: 471}
+        - {x: 199, y: 471.99997}
+        - {x: 197.99998, y: 471}
+        - {x: 197.99998, y: 469.99997}
+        - {x: 193, y: 469.99997}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e209169873f44114802788b23b84d3e5
+      internalID: 21300038
+      vertices:
+      - {x: 872, y: 877}
+      - {x: 1089, y: 877}
+      - {x: 1096, y: 954}
+      - {x: 1139, y: 954}
+      - {x: 1132, y: 933}
+      - {x: 1188, y: 939}
+      - {x: 1203, y: 952}
+      - {x: 1208, y: 952}
+      - {x: 1212, y: 933}
+      - {x: 1460, y: 933}
+      - {x: 1460, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 46}
+      - {x: 105, y: 50}
+      - {x: 103, y: 235.00002}
+      - {x: 0, y: 237.00002}
+      - {x: 0, y: 242.00002}
+      - {x: 107, y: 248}
+      - {x: 107, y: 604}
+      - {x: 219.00003, y: 609}
+      - {x: 222, y: 658}
+      - {x: 238, y: 658}
+      - {x: 243, y: 537}
+      - {x: 452, y: 537}
+      - {x: 458, y: 658}
+      - {x: 474, y: 658}
+      - {x: 480, y: 604}
+      - {x: 563, y: 610}
+      - {x: 563, y: 933}
+      - {x: 846, y: 934}
+      - {x: 850, y: 954}
+      - {x: 866, y: 954}
+      indices: 1d0000001e0000001f000000000000001c0000001d000000000000001d0000001f00000018000000190000001a00000017000000180000001a000000170000001a0000001b0000001300000015000000160000001300000014000000150000001200000013000000160000001100000012000000160000001100000016000000170000000a000000170000001b0000000e00000010000000110000000e0000000f000000100000000d00000011000000170000000d0000000e00000011000000000000001b0000001c0000000b0000000c0000000d0000000a0000000b0000000d00000001000000090000000a0000000100000008000000090000000800000005000000060000000800000006000000070000000100000005000000080000000200000003000000040000000100000002000000040000000100000004000000050000001b000000010000000a0000001b00000000000000010000000a0000000d00000017000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balconyFenceHorz
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 932
+        width: 51
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 13, y: 13, z: 14, w: 13}
+      customData: 
+      outline:
+      - - {x: 25.5, y: -14}
+        - {x: -25.5, y: -14}
+        - {x: -25.5, y: 14}
+        - {x: 25.5, y: 14}
+      physicsShape:
+      - - {x: -15.5, y: 14}
+        - {x: -25.5, y: 14}
+        - {x: -25.5, y: -14}
+        - {x: -14.5, y: -14}
+        - {x: -13.499999, y: -11}
+        - {x: -13.499999, y: 11}
+        - {x: -14.5, y: 13}
+      - - {x: 14.5, y: 14}
+        - {x: 13.499999, y: 9}
+        - {x: 13.499999, y: -9}
+        - {x: 14.5, y: -14}
+        - {x: 25.5, y: -14}
+        - {x: 25.5, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cccbc77c1340fb9e0e05238ae0e88b
+      internalID: 21300040
+      vertices:
+      - {x: 0, y: 0}
+      - {x: 51, y: 0}
+      - {x: 0, y: 28}
+      - {x: 51, y: 28}
+      indices: 000000000200000001000000010000000200000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockers-left
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 256
+        width: 42
+        height: 201
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -21, y: -100.5}
+        - {x: -21, y: 100.5}
+        - {x: 21, y: 100.5}
+        - {x: 21, y: -100.5}
+      physicsShape:
+      - - {x: -21, y: 100.5}
+        - {x: -21, y: -100.5}
+        - {x: 19, y: -100.5}
+        - {x: 21, y: -77.5}
+        - {x: 21, y: 70.5}
+        - {x: 17, y: 100.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: be03b439a9b4430c9ee36a2938b9057e
+      internalID: 21300042
+      vertices:
+      - {x: 42, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 201}
+      - {x: 42, y: 201}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comms-top
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 824
+        width: 274
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -137, y: 32}
+        - {x: -114, y: 32}
+        - {x: -109, y: 22}
+        - {x: -35, y: 26}
+        - {x: -35, y: 68}
+        - {x: 89, y: 68}
+        - {x: 89, y: 59.999996}
+        - {x: 29, y: 56}
+        - {x: 33, y: 22}
+        - {x: 89, y: 26}
+        - {x: 96, y: 64}
+        - {x: 137, y: 64}
+        - {x: 137, y: -42}
+        - {x: 78, y: -65}
+        - {x: 28, y: -45}
+        - {x: -34, y: -45}
+        - {x: -72, y: -68}
+        - {x: -137, y: -68}
+      physicsShape:
+      - - {x: -35, y: -45.999996}
+        - {x: -34, y: -42}
+        - {x: -29.999998, y: -42.999996}
+        - {x: 24, y: -42.999996}
+        - {x: 28, y: -41}
+        - {x: 28, y: -42}
+        - {x: 29.999998, y: -44}
+        - {x: 38, y: -45}
+        - {x: 39.999996, y: -39}
+        - {x: 36, y: -25}
+        - {x: 53.999996, y: -36}
+        - {x: 55, y: -52}
+        - {x: 82, y: -66}
+        - {x: 97, y: -56}
+        - {x: 98.99999, y: -39.999996}
+        - {x: 94, y: -25}
+        - {x: 120.99999, y: -44}
+        - {x: 129, y: -45.999996}
+        - {x: 135, y: -21}
+        - {x: 137, y: -1}
+        - {x: 137, y: 21}
+        - {x: 136, y: 51}
+        - {x: 106.99999, y: 68}
+        - {x: 93, y: 61}
+        - {x: 90, y: 24}
+        - {x: 29.999998, y: 22.999998}
+        - {x: 26, y: 66}
+        - {x: 24, y: 68}
+        - {x: -29.999998, y: 68}
+        - {x: -33, y: 65}
+        - {x: -34, y: 22.999998}
+        - {x: -112, y: 22.999998}
+        - {x: -111, y: 26.999998}
+        - {x: -118.99999, y: 32}
+        - {x: -125, y: 32}
+        - {x: -137, y: 22.999998}
+        - {x: -137, y: -44}
+        - {x: -127, y: -45}
+        - {x: -123, y: -42.999996}
+        - {x: -127, y: -26}
+        - {x: -103, y: -51}
+        - {x: -104.99999, y: -62}
+        - {x: -100, y: -65}
+        - {x: -95, y: -66}
+        - {x: -90, y: -68}
+        - {x: -68, y: -68}
+        - {x: -58, y: -45}
+        - {x: -64, y: -26.999998}
+        - {x: -47, y: -44}
+      - - {x: -29, y: -66.99999}
+        - {x: -29, y: -68}
+        - {x: 11, y: -68}
+        - {x: 9.999999, y: -65}
+        - {x: -1, y: -52.999996}
+        - {x: -14.999999, y: -52.999996}
+        - {x: -22, y: -55}
+      - - {x: -137, y: 68}
+        - {x: -137, y: 38}
+        - {x: -136, y: 37}
+        - {x: -125, y: 37}
+        - {x: -125, y: 68}
+      - - {x: -97, y: 68}
+        - {x: -97.99999, y: 63}
+        - {x: -97.99999, y: 45}
+        - {x: -97, y: 39}
+        - {x: -95, y: 37}
+        - {x: -83, y: 37}
+        - {x: -83, y: 68}
+      - - {x: -72.99999, y: 68}
+        - {x: -72.99999, y: 47}
+        - {x: -70, y: 45.999996}
+        - {x: -39, y: 45.999996}
+        - {x: -39, y: 68}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8392dd94745043b9a0bd463cc7bc0e98
+      internalID: 21300044
+      vertices:
+      - {x: 226, y: 128}
+      - {x: 166, y: 124}
+      - {x: 170, y: 90}
+      - {x: 226, y: 94}
+      - {x: 233, y: 132}
+      - {x: 274, y: 132}
+      - {x: 274, y: 26}
+      - {x: 215, y: 3}
+      - {x: 165, y: 23}
+      - {x: 103, y: 23}
+      - {x: 65, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 100}
+      - {x: 23, y: 100}
+      - {x: 28, y: 90}
+      - {x: 102, y: 94}
+      - {x: 102, y: 136}
+      - {x: 226, y: 136}
+      indices: 0c0000000d0000000e0000000b0000000c0000000e000000090000000e0000000f0000000a0000000b0000000e000000090000000a0000000e00000008000000090000000f00000002000000080000000f00000008000000020000000300000003000000050000000600000003000000040000000500000003000000060000000700000008000000030000000700000001000000020000000f000000010000000f00000010000000010000001000000011000000000000000100000011000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balconyFenceVert
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 170
+        width: 10
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 34, z: 0, w: 30}
+      customData: 
+      outline:
+      - - {x: 4.9999995, y: -33}
+        - {x: -4.9999995, y: -33}
+        - {x: -4.9999995, y: 33}
+        - {x: 4.9999995, y: 33}
+      physicsShape:
+      - - {x: -3, y: -1}
+        - {x: -4.9999995, y: -3}
+        - {x: -4.9999995, y: -32}
+        - {x: -4, y: -33}
+        - {x: 4.9999995, y: -33}
+        - {x: 4.9999995, y: -3}
+        - {x: 3, y: -1}
+      - - {x: -4.9999995, y: 33}
+        - {x: -4.9999995, y: 4}
+        - {x: -4, y: 3}
+        - {x: 4, y: 3}
+        - {x: 4.9999995, y: 4}
+        - {x: 4.9999995, y: 33}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edaae995a424cea9cc55c83b041e40e
+      internalID: 21300046
+      vertices:
+      - {x: 0.00000047683716, y: 0}
+      - {x: 10, y: 0}
+      - {x: 0.00000047683716, y: 66}
+      - {x: 10, y: 66}
+      indices: 000000000200000001000000010000000200000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comms-security
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 904
+        width: 64
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -32, y: -28}
+        - {x: -32, y: 28}
+        - {x: 32, y: 28}
+        - {x: 32, y: -28}
+      physicsShape:
+      - - {x: -32, y: 26}
+        - {x: -32, y: -25}
+        - {x: -26, y: -28}
+        - {x: 22, y: -28}
+        - {x: 32, y: -21}
+        - {x: 32, y: 26}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa4543e7ae9453dac42cc5d51949528
+      internalID: 21300048
+      vertices:
+      - {x: 64, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 56}
+      - {x: 64, y: 56}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wires_skybridge
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 938
+        width: 32
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -16, y: -11}
+        - {x: -16, y: 11}
+        - {x: 16, y: 11}
+        - {x: 16, y: -11}
+      physicsShape:
+      - - {x: -16, y: 11}
+        - {x: -16, y: -11}
+        - {x: 16, y: -11}
+        - {x: 16, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322eadead1584934abd1ea9bf66f189e
+      internalID: 21300050
+      vertices:
+      - {x: 32, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 22}
+      - {x: 32, y: 22}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      balconyFenceHorz: 21300040
+      balconyFenceVert: 21300046
+      cafe-misc1: 21300006
+      cafe-misc2: 21300016
+      cafe-sidebar: 21300010
+      comms-security: 21300048
+      comms-side: 21300028
+      comms-top: 21300044
+      comms_commsSab: 21300002
+      electricalPanelOfficeMira: 21300000
+      locker-bench: 21300014
+      locker-bench-side: 21300032
+      lockers-left: 21300042
+      lockers-right: 21300020
+      med-bed-bottom: 21300022
+      med-bed-hort: 21300012
+      med-bed-top: 21300030
+      med-bed-top-hort: 21300036
+      med-scanner: 21300026
+      medBayCommsLockersWalls: 21300038
+      medbaybottom1: 21300004
+      medbaybottom2: 21300024
+      wiresHallwayGreen: 21300034
+      wires_Storage: 21300008
+      wires_reactorLab: 21300018
+      wires_skybridge: 21300050
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

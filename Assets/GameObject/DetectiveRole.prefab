@@ -1,0 +1,167 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1709254077376921
+GameObject:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Component:
+  - component: {fileID: 4724804207875695}
+  - component: {fileID: 114618682377417806}
+  m_Layer: 0
+  m_Name: DetectiveRole
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1730242686860875
+GameObject:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Component:
+  - component: {fileID: 4703437598541787}
+  - component: {fileID: 212884547391421755}
+  m_Layer: 0
+  m_Name: Inspection
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &4724804207875695
+Transform:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1709254077376921}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4703437598541787}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!114 &114618682377417806
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1709254077376921}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35e69d6fd71d1e921e6197c30f1daa88, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  Role: 12
+  StringName: 4000
+  BlurbName: 4003
+  BlurbNameMed: 4004
+  BlurbNameLong: 4005
+  RoleIconSolid: {fileID: 21300034, guid: 72a0c86883211954fa3f4a8e09e67ecf, type: 3}
+  RoleIconWhite: {fileID: 21300030, guid: 72a0c86883211954fa3f4a8e09e67ecf, type: 3}
+  RoleIconColor: {fileID: 21300046, guid: 72a0c86883211954fa3f4a8e09e67ecf, type: 3}
+  RoleScreenshot: {fileID: 21300016, guid: 3513caaed9bdf9d418b6f5f5885ff109, type: 3}
+  NameColor: {r: 1, g: 1, b: 1, a: 1}
+  TasksCountTowardProgress: 1
+  CanUseKillButton: 0
+  CanBeKilled: 1
+  CanVent: 0
+  AffectedByLightAffectors: 1
+  MaxCount: 15
+  TeamType: 0
+  Ability: {fileID: 11400000, guid: f49feee4860f3c74bbb0237ceb495cd5, type: 2}
+  SecondaryAbility: {fileID: 11400000, guid: 583d7dd4e9d4bb24981afa37d3a49814, type: 2}
+  DefaultGhostRole: 6
+  UseSound: {fileID: 0}
+  IntroSound: {fileID: 8300000, guid: 962a2801d1d09f346bb40a4ea6dcdb70, type: 3}
+  AllGameSettings:
+  - {fileID: 11400000, guid: 0d328bdf7802f024fb7d6bf07d847af4, type: 2}
+  CustomKillAnimations: []
+  notesPrefab: {fileID: 1709254077376921, guid: ab21c5524965ec641a7bf190d381faa6, type: 2}
+  inspectionGraphic: {fileID: 1730242686860875}
+  abilityInfoPrefab: {fileID: 1709254077376921, guid: 5b92a3306c6d54945b8c883a101cddd6, type: 2}
+  interrogateSFX: {fileID: 8300000, guid: ab02c2c57fe006945a4d4ca35d1616ab, type: 3}
+  notesPageInfos: []
+  currentTarget: {fileID: 0}
+  skeldShipLocationsPrefab: {fileID: 1709254077376921, guid: f5473afc3befe784ba22865ed557d15d, type: 2}
+  miraShipLocationsPrefab: {fileID: 1709254077376921, guid: 1112f31d05e675b4f93353c9e8c6fe92, type: 2}
+  polusShipLocationsPrefab: {fileID: 1709254077376921, guid: c6724a314c76c9f46b8f2c619bd5770e, type: 2}
+  airshipShipLocationsPrefab: {fileID: 1709254077376921, guid: 75aaa34fd22310a44904f9546e355ab5, type: 2}
+  fungleShipLocationsPrefab: {fileID: 1709254077376921, guid: 82a9a010743203443b93d3a61f61b802, type: 2}
+--- !u!4 &4703437598541787
+Transform:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1730242686860875}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4724804207875695}
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!212 &212884547391421755
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1730242686860875}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300000, guid: f08221219d465b641843a5546a7bd3ff, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 0.91, y: 0.39}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0

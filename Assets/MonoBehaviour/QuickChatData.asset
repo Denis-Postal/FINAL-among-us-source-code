@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b625d9c722d8790466c6ee66ee8840a1, type: 3}
+  m_Name: QuickChatData
+  m_EditorClassIdentifier:
+  tags: {fileID: 11400000, guid: 3e600e2d4dd1dc344997f13f2b13c3a4, type: 2}
+  phrases: {fileID: 11400000, guid: 223977bcf4333004a8a73d6390e699cf, type: 2}

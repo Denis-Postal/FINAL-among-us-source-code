@@ -1,0 +1,356 @@
+fileFormatVersion: 2
+guid: d2dd5ae03921c544ca9de58beeeb75ab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: ICON-ReportPlayerStandard
+  - first:
+      213: 21300002
+    second: buttonBase_Report
+  - first:
+      213: 21300004
+    second: kickBanBG
+  - first:
+      213: 21300006
+    second: kickBanSelect
+  - first:
+      213: 21300008
+    second: buttonbase_kickBan
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ICON-ReportPlayerStandard
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 59
+        width: 237
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -118.49999, y: 64}
+        - {x: -101.5, y: 90}
+        - {x: 100.5, y: 90}
+        - {x: 118.49999, y: 64}
+        - {x: 118.49999, y: -90}
+        - {x: -118.49999, y: -90}
+      physicsShape:
+      - - {x: 118.49999, y: -59.999996}
+        - {x: 118.49999, y: 59.999996}
+        - {x: 112.5, y: 77}
+        - {x: 93.5, y: 89}
+        - {x: 89.5, y: 90}
+        - {x: -94.5, y: 90}
+        - {x: -117.49999, y: 70}
+        - {x: -118.49999, y: 65}
+        - {x: -118.49999, y: -66.99999}
+        - {x: -104.49999, y: -83}
+        - {x: -97.5, y: -87}
+        - {x: -88.5, y: -90}
+        - {x: 93.5, y: -90}
+        - {x: 111.5, y: -76}
+        - {x: 115.5, y: -69}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f47052394f4029bd8f3dc3848a9060
+      internalID: 21300000
+      vertices:
+      - {x: 237, y: 154}
+      - {x: 237, y: 0}
+      - {x: 0.0000076293945, y: 0}
+      - {x: 0.0000076293945, y: 154}
+      - {x: 17, y: 180}
+      - {x: 219, y: 180}
+      indices: 030000000400000005000000000000000100000003000000010000000200000003000000000000000300000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonBase_Report
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 5
+        width: 90
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -45, y: -14}
+        - {x: -45, y: 14}
+        - {x: 45, y: 14}
+        - {x: 45, y: -14}
+      physicsShape:
+      - - {x: -45, y: 14}
+        - {x: -45, y: -14}
+        - {x: 45, y: -14}
+        - {x: 45, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04c7dd1532346078343fcaea964ebc2
+      internalID: 21300002
+      vertices:
+      - {x: 90, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 28}
+      - {x: 90, y: 28}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kickBanBG
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 35
+        width: 252
+        height: 204
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 63, y: 29, z: 78, w: 67}
+      customData: 
+      outline:
+      - - {x: -126, y: 102}
+        - {x: 79, y: 102}
+        - {x: 85.99999, y: 82}
+        - {x: 126, y: 78}
+        - {x: 126, y: 71}
+        - {x: 83, y: 42}
+        - {x: 79.99999, y: -102}
+        - {x: -126, y: -102}
+      physicsShape:
+      - - {x: -126, y: 102}
+        - {x: -126, y: -102}
+        - {x: 82, y: -102}
+        - {x: 126, y: 71}
+        - {x: 126, y: 79}
+        - {x: 83, y: 102}
+      - - {x: -117.99999, y: 95}
+        - {x: 70, y: 95}
+        - {x: 71, y: 72.99999}
+        - {x: 74, y: 70}
+        - {x: 105.99999, y: 71}
+        - {x: 104, y: 71}
+        - {x: 101, y: 68}
+        - {x: 97, y: 66}
+        - {x: 87, y: 58.999996}
+        - {x: 79.99999, y: 53.999996}
+        - {x: 71, y: 45.999996}
+        - {x: 71, y: -95}
+        - {x: -117.99999, y: -95}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124c5218efea4d688b047ab5c2619577
+      internalID: 21300004
+      vertices:
+      - {x: 212, y: 184}
+      - {x: 252, y: 180}
+      - {x: 252, y: 173}
+      - {x: 209, y: 144}
+      - {x: 206, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 204}
+      - {x: 205, y: 204}
+      indices: 030000000600000007000000030000000400000005000000030000000500000006000000000000000100000002000000000000000200000003000000070000000000000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kickBanSelect
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 185
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -92.49999, y: -15.5}
+        - {x: -92.49999, y: 15.5}
+        - {x: 92.49999, y: 15.5}
+        - {x: 92.49999, y: -15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7e9afbbab1498ba67517cbe1b34a54
+      internalID: 21300006
+      vertices:
+      - {x: 185, y: 0}
+      - {x: 0.0000076293945, y: 0}
+      - {x: 0.0000076293945, y: 31}
+      - {x: 185, y: 31}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonbase_kickBan
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 31
+        width: 59
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 31, y: 12, z: 27, w: 13}
+      customData: 
+      outline:
+      - - {x: -29.499998, y: -13}
+        - {x: -29.499998, y: 13}
+        - {x: 29.499998, y: 13}
+        - {x: 29.499998, y: -13}
+      physicsShape:
+      - - {x: -29.499998, y: 13}
+        - {x: -29.499998, y: -13}
+        - {x: 29.499998, y: -13}
+        - {x: 29.499998, y: 13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe78237dc5e3468abda8eccb1f7dae79
+      internalID: 21300008
+      vertices:
+      - {x: 59, y: 0}
+      - {x: 0.0000019073486, y: 0}
+      - {x: 0.0000019073486, y: 26}
+      - {x: 59, y: 26}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ICON-ReportPlayerStandard: 21300000
+      buttonBase_Report: 21300002
+      buttonbase_kickBan: 21300008
+      kickBanBG: 21300004
+      kickBanSelect: 21300006
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

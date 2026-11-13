@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd0104a4f51744a9e1284fe0e39335da, type: 3}
+  m_Name: DetectiveSuspectLimit
+  m_EditorClassIdentifier:
+  Title: 4013
+  Type: 4
+  OptionName: 1602
+  Value: 3
+  Increment: 1
+  ValidRange:
+    min: 2
+    max: 4
+  ZeroIsInfinity: 0
+  SuffixType: 0
+  FormatString: 0

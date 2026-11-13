@@ -1,0 +1,744 @@
+fileFormatVersion: 2
+guid: 9d5f903fbe871fb468fa5db9ecfcef4d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: 2024_criticalRole_stars_visor_nott0001
+  - first:
+      213: 21300002
+    second: 2024_criticalRole_stars_visor_chetney0003
+  - first:
+      213: 21300004
+    second: 2024_criticalRole_stars_visor_nott0004
+  - first:
+      213: 21300006
+    second: 2024_criticalRole_stars_visor_artagan.png0003
+  - first:
+      213: 21300008
+    second: 2024_criticalRole_stars_visor_nott0002
+  - first:
+      213: 21300010
+    second: 2024_criticalRole_stars_visor_nott0003
+  - first:
+      213: 21300012
+    second: 2024_criticalRole_stars_visor_chetney0001
+  - first:
+      213: 21300014
+    second: 2024_criticalRole_stars_visor_artagan.png0002
+  - first:
+      213: 21300016
+    second: 2024_criticalRole_stars_visor_artagan.png0001
+  - first:
+      213: 21300018
+    second: 2024_criticalRole_stars_visor_chetney0002
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2024_criticalRole_stars_visor_nott0001
+      rect:
+        serializedVersion: 2
+        x: 9.07612
+        y: 230.07613
+        width: 133.84775
+        height: 74.92388
+      alignment: 9
+      pivot: {x: 0.43275946, y: 0.70636857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 59.000004, y: -29.538067}
+        - {x: 6.000003, y: -46.538067}
+        - {x: -75, y: 13.461933}
+        - {x: -52.999996, y: 33.461933}
+        - {x: -38.999992, y: 4.461933}
+        - {x: 76, y: 4.461933}
+      - - {x: 62.000004, y: 30.461933}
+        - {x: 62.000004, y: 33.461933}
+        - {x: 65, y: 33.461933}
+        - {x: 65, y: 30.461933}
+      - - {x: 52.000004, y: 34.461933}
+        - {x: 52.000004, y: 37.461933}
+        - {x: 55.000004, y: 37.461933}
+        - {x: 55.000004, y: 34.461933}
+      physicsShape:
+      - - {x: 65, y: 2.4619331}
+        - {x: 62.000004, y: 1.4619331}
+        - {x: 48.000004, y: -0.53806686}
+        - {x: 33.000004, y: 4.461933}
+        - {x: 14.000002, y: 0.4619341}
+        - {x: 3.0000038, y: -4.538065}
+        - {x: -13.999996, y: 0.4619341}
+        - {x: -25.999996, y: -0.53806686}
+        - {x: -45.999996, y: 11.461933}
+        - {x: -49.999996, y: 27.461933}
+        - {x: -57.999992, y: 27.461933}
+        - {x: -60.999996, y: 23.461933}
+        - {x: -66, y: 17.461933}
+        - {x: -66, y: 9.461933}
+        - {x: -65, y: 5.461934}
+        - {x: -29.999996, y: -11.538065}
+        - {x: -13.999996, y: -33.538063}
+        - {x: -5.999996, y: -36.538067}
+        - {x: 33.000004, y: -36.538067}
+        - {x: 48.000004, y: -34.538067}
+        - {x: 60.000004, y: -28.538067}
+        - {x: 67, y: -14.538065}
+        - {x: 67, y: -0.53806686}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e1330e7ae84473a455d472b1ab4895
+      internalID: 21300000
+      vertices:
+      - {x: 36.923874, y: 26.46194}
+      - {x: 151.92387, y: 26.46194}
+      - {x: 134.92387, y: -7.538059}
+      - {x: 81.923874, y: -24.53806}
+      - {x: 0.9238739, y: 35.46194}
+      - {x: 22.923874, y: 55.46194}
+      - {x: 140.92387, y: 52.46194}
+      - {x: 137.92387, y: 52.46194}
+      - {x: 137.92387, y: 55.46194}
+      - {x: 140.92387, y: 55.46194}
+      - {x: 130.92387, y: 56.46194}
+      - {x: 127.923874, y: 56.46194}
+      - {x: 127.923874, y: 59.46194}
+      - {x: 130.92387, y: 59.46194}
+      indices: 0000000002000000030000000000000001000000020000000400000005000000000000000000000003000000040000000700000008000000090000000600000007000000090000000b0000000c0000000d0000000a0000000b0000000d000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_criticalRole_stars_visor_chetney0003
+      rect:
+        serializedVersion: 2
+        x: 134.03629
+        y: 97.07612
+        width: 116.963715
+        height: 39.923878
+      alignment: 9
+      pivot: {x: 0.58106667, y: -1.2041947}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -39.51814, y: 19.961937}
+        - {x: 58.481853, y: 19.961937}
+        - {x: 58.481853, y: -17.038063}
+        - {x: -48.518143, y: -21.038063}
+        - {x: -63.518135, y: -4.038063}
+      physicsShape:
+      - - {x: -45.518143, y: 19.961937}
+        - {x: -53.518143, y: 9.961937}
+        - {x: -57.518135, y: -3.038063}
+        - {x: -57.518135, y: -12.038063}
+        - {x: -51.518143, y: -19.038067}
+        - {x: -19.518143, y: -19.038067}
+        - {x: -0.51814175, y: -5.038063}
+        - {x: -0.51814175, y: 15.961937}
+        - {x: -12.518143, y: 19.961937}
+      - - {x: 58.481853, y: 3.961937}
+        - {x: 37.481857, y: 19.961937}
+        - {x: 8.481857, y: 19.961937}
+        - {x: -0.51814175, y: 8.961937}
+        - {x: -0.51814175, y: -3.038063}
+        - {x: 6.4818573, y: -9.038067}
+        - {x: 26.481857, y: -18.038063}
+        - {x: 40.481857, y: -18.038063}
+        - {x: 50.481857, y: -15.038067}
+        - {x: 57.481857, y: -7.038063}
+        - {x: 58.481853, y: -5.038063}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78bba18419c42688befa6ab75ba8b88
+      internalID: 21300002
+      vertices:
+      - {x: 107.48186, y: 70.96194}
+      - {x: 0.4818573, y: 66.96194}
+      - {x: -14.518135, y: 83.96194}
+      - {x: 9.481861, y: 107.96194}
+      - {x: 107.48186, y: 107.96194}
+      indices: 000000000300000004000000010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_criticalRole_stars_visor_nott0004
+      rect:
+        serializedVersion: 2
+        x: 9.07612
+        y: 148.07613
+        width: 133.84775
+        height: 65.89713
+      alignment: 9
+      pivot: {x: 0.43275946, y: 0.8031286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 59.000004, y: -25.024693}
+        - {x: 6.000003, y: -42.024693}
+        - {x: -75, y: 17.975307}
+        - {x: -52.999996, y: 37.975307}
+        - {x: -38.999992, y: 8.975307}
+        - {x: 76, y: 8.975307}
+      physicsShape:
+      - - {x: 67, y: 3.9753075}
+        - {x: 65, y: 6.9753075}
+        - {x: 32.000004, y: 9.975308}
+        - {x: 4.000004, y: 1.9753075}
+        - {x: -21.999996, y: 3.9753075}
+        - {x: -25.999996, y: 1.9753075}
+        - {x: -45.999996, y: 15.975307}
+        - {x: -49.999996, y: 31.975307}
+        - {x: -57.999992, y: 31.975307}
+        - {x: -60.999996, y: 27.975307}
+        - {x: -66, y: 21.975307}
+        - {x: -66, y: 14.975307}
+        - {x: -63.999996, y: 9.975308}
+        - {x: -54.999992, y: 9.975308}
+        - {x: -39.999996, y: -2.0246925}
+        - {x: -28.999994, y: -7.0246906}
+        - {x: -13.999996, y: -29.024689}
+        - {x: -2.9999962, y: -32.024693}
+        - {x: 32.000004, y: -32.024693}
+        - {x: 47.000004, y: -29.024689}
+        - {x: 60.000004, y: -24.024693}
+        - {x: 67, y: -10.024691}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ac92a88af342c28e3d39a954c656b3
+      internalID: 21300004
+      vertices:
+      - {x: 36.923874, y: 21.948566}
+      - {x: 151.92387, y: 21.948566}
+      - {x: 134.92387, y: -12.051434}
+      - {x: 81.923874, y: -29.051434}
+      - {x: 0.9238739, y: 30.948566}
+      - {x: 22.923874, y: 50.948566}
+      indices: 000000000200000003000000000000000100000002000000040000000500000000000000000000000300000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_criticalRole_stars_visor_artagan.png0003
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 307
+        width: 174
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5689655, y: -1.7741935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 73, y: -15.5}
+        - {x: -57, y: -14.5}
+        - {x: -87, y: 15.499992}
+        - {x: 22, y: 7.5}
+        - {x: 87, y: 11.5}
+      physicsShape:
+      - - {x: -12, y: 11.5}
+        - {x: -71, y: 11.5}
+        - {x: -71, y: -9.5}
+        - {x: -48, y: -14.5}
+        - {x: 2, y: -14.5}
+        - {x: 3, y: -13.5}
+        - {x: 3, y: -1.5}
+        - {x: 1, y: 5.5}
+      - - {x: 82, y: 9.499992}
+        - {x: 70, y: 9.499992}
+        - {x: 21, y: 7.5}
+        - {x: 11, y: 7.5}
+        - {x: 8, y: -0.5}
+        - {x: 8, y: -11.500004}
+        - {x: 13, y: -14.5}
+        - {x: 27, y: -14.5}
+        - {x: 35, y: -13.5}
+        - {x: 65, y: -14.5}
+        - {x: 66, y: -14.5}
+        - {x: 79, y: -9.5}
+        - {x: 82, y: 1.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4966ebc4e944c2b661439451043367
+      internalID: 21300006
+      vertices:
+      - {x: 97.00001, y: 93.5}
+      - {x: 162, y: 97.5}
+      - {x: 148, y: 70.5}
+      - {x: 18.000008, y: 71.5}
+      - {x: -11.999992, y: 101.49999}
+      indices: 000000000200000003000000000000000100000002000000000000000300000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_criticalRole_stars_visor_nott0002
+      rect:
+        serializedVersion: 2
+        x: 15.07612
+        y: 449.02676
+        width: 182.84775
+        height: 59.946495
+      alignment: 9
+      pivot: {x: 0.49726558, y: 0.3498659}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -68.49999, y: -34.00001}
+        - {x: -105.49999, y: 2.9999886}
+        - {x: -51.49999, y: 4.9999886}
+        - {x: 1.5000076, y: 31.999989}
+        - {x: 100.5, y: 11.999989}
+        - {x: 48.500008, y: -14.000011}
+      physicsShape:
+      - - {x: -27.499992, y: 1.9999886}
+        - {x: -35.49999, y: 5.9999876}
+        - {x: -52.49999, y: 5.9999876}
+        - {x: -61.499992, y: -3.0000114}
+        - {x: -56.499992, y: -19.000011}
+        - {x: -72.49999, y: -9.000011}
+        - {x: -71.499985, y: -1.0000114}
+        - {x: -77.49999, y: 4.9999886}
+        - {x: -90.499985, y: 1.9999886}
+        - {x: -90.499985, y: -9.000011}
+        - {x: -89.49999, y: -15.000011}
+        - {x: -67.49999, y: -30.000011}
+        - {x: -40.499992, y: -30.000011}
+        - {x: -17.499992, y: -26.000011}
+        - {x: -14.499992, y: -19.000011}
+        - {x: -14.499992, y: -11.000011}
+      - - {x: 65.50001, y: -7.0000114}
+        - {x: 70.50001, y: -2.0000114}
+        - {x: 77.50001, y: 1.9999886}
+        - {x: 90.50001, y: 5.9999876}
+        - {x: 90.50001, y: 11.999989}
+        - {x: 89.50001, y: 13.999987}
+        - {x: 65.50001, y: 13.999987}
+        - {x: 57.500008, y: 2.9999886}
+        - {x: 45.500008, y: 16.999989}
+        - {x: 41.500008, y: 20.999987}
+        - {x: 30.500006, y: 26.999989}
+        - {x: 4.5000076, y: 28.999989}
+        - {x: -3.4999924, y: 28.999989}
+        - {x: -12.499992, y: 22.999989}
+        - {x: -25.49999, y: 14.999989}
+        - {x: -27.499992, y: 10.999987}
+        - {x: -27.499992, y: 4.9999886}
+        - {x: -19.499992, y: -5.0000114}
+        - {x: -9.499991, y: -14.000011}
+        - {x: -8.499992, y: -21.000011}
+        - {x: -6.499992, y: -22.000011}
+        - {x: 5.5000076, y: -22.000011}
+        - {x: 25.500008, y: -18.000011}
+        - {x: 33.500008, y: -15.000011}
+        - {x: 40.500008, y: -9.000011}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8e2408920148e6a5f43f1b9583b6e6
+      internalID: 21300008
+      vertices:
+      - {x: 192.42386, y: 50.973248}
+      - {x: 140.42386, y: 24.973248}
+      - {x: 23.423866, y: 4.9732475}
+      - {x: -13.576134, y: 41.973248}
+      - {x: 40.42387, y: 43.973248}
+      - {x: 93.42387, y: 70.97325}
+      indices: 020000000300000004000000010000000400000005000000010000000200000004000000000000000100000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_criticalRole_stars_visor_nott0003
+      rect:
+        serializedVersion: 2
+        x: 25.047705
+        y: 88.07612
+        width: 101.95229
+        height: 36.847755
+      alignment: 9
+      pivot: {x: 0.57823414, y: -0.08348184}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 50.976147, y: 8.500002}
+        - {x: 18.97615, y: -19.499996}
+        - {x: -40.02385, y: -4.499996}
+        - {x: -75.02385, y: 30.500004}
+        - {x: -28.02385, y: 2.5000038}
+        - {x: 33.97615, y: 7.500004}
+        - {x: 50.976147, y: 21.5}
+      physicsShape:
+      - - {x: 47.976147, y: 17.500004}
+        - {x: 12.9761505, y: 3.5000038}
+        - {x: -33.02385, y: 3.5000038}
+        - {x: -46.023846, y: 12.500004}
+        - {x: -48.02385, y: 12.500004}
+        - {x: -50.02385, y: 11.500004}
+        - {x: -50.02385, y: 3.5000038}
+        - {x: -34.02385, y: -7.499996}
+        - {x: -8.0238495, y: -17.499996}
+        - {x: 25.97615, y: -17.499996}
+        - {x: 47.976147, y: -2.4999962}
+        - {x: 50.976147, y: 7.500004}
+        - {x: 50.976147, y: 15.500004}
+        - {x: 48.97615, y: 17.500004}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b628fb6023348738db1a8f746fc62f2
+      internalID: 21300010
+      vertices:
+      - {x: 14.976147, y: 42.423878}
+      - {x: 76.97615, y: 47.423878}
+      - {x: 93.97614, y: 61.423874}
+      - {x: 93.97614, y: 48.423874}
+      - {x: 61.976147, y: 20.423878}
+      - {x: 2.9761467, y: 35.423878}
+      - {x: -32.023853, y: 70.423874}
+      indices: 010000000300000004000000010000000200000003000000000000000100000004000000000000000400000005000000060000000000000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_criticalRole_stars_visor_chetney0001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 5
+        width: 106
+        height: 38
+      alignment: 9
+      pivot: {x: 0.17924528, y: 0.34210527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -53, y: -19}
+        - {x: -53, y: 19}
+        - {x: 53, y: 19}
+        - {x: 53, y: -19}
+      physicsShape:
+      - - {x: 2, y: 7}
+        - {x: -12, y: 19}
+        - {x: -43, y: 19}
+        - {x: -53, y: 10}
+        - {x: -53, y: -5}
+        - {x: -46, y: -15.999999}
+        - {x: -31, y: -19}
+        - {x: -3, y: -19}
+        - {x: 4, y: -13}
+        - {x: 4, y: 1}
+      - - {x: 11, y: 19}
+        - {x: 5, y: 1}
+        - {x: 5, y: -15.999999}
+        - {x: 8.999996, y: -18}
+        - {x: 23, y: -18}
+        - {x: 44, y: -15.999999}
+        - {x: 53, y: -8}
+        - {x: 53, y: 19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f610ba30dbfa406da63869d6ee0018a0
+      internalID: 21300012
+      vertices:
+      - {x: 140, y: 6}
+      - {x: 34, y: 6}
+      - {x: 34, y: 44}
+      - {x: 140, y: 44}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_criticalRole_stars_visor_artagan.png0002
+      rect:
+        serializedVersion: 2
+        x: 7.026751
+        y: 345.02676
+        width: 165.89713
+        height: 36.897125
+      alignment: 9
+      pivot: {x: 0.51220447, y: 0.48711753}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -88.97531, y: -8.475327}
+        - {x: -77.9753, y: 11.524673}
+        - {x: -33.97531, y: 22.524672}
+        - {x: 85.02469, y: 3.5246735}
+        - {x: 72.02469, y: -23.475325}
+      physicsShape:
+      - - {x: 82.02468, y: 4.524673}
+        - {x: 32.02469, y: 8.524673}
+        - {x: 15.024689, y: 9.5246725}
+        - {x: 0.02468872, y: 16.524673}
+        - {x: -5.9753113, y: 17.524673}
+        - {x: -20.97531, y: 17.524673}
+        - {x: -41.97531, y: 14.5246725}
+        - {x: -55.97531, y: 17.524673}
+        - {x: -68.97531, y: 14.5246725}
+        - {x: -81.97531, y: 6.5246735}
+        - {x: -81.97531, y: -2.4753265}
+        - {x: -63.97531, y: -8.475327}
+        - {x: -34.97531, y: -10.475326}
+        - {x: -13.975311, y: -7.4753265}
+        - {x: -4.9753113, y: -15.475326}
+        - {x: -1.9753113, y: -17.475327}
+        - {x: 8.024689, y: -17.475327}
+        - {x: 17.024689, y: -16.475327}
+        - {x: 23.024689, y: -17.475327}
+        - {x: 43.02469, y: -17.475327}
+        - {x: 69.02468, y: -15.475326}
+        - {x: 78.02469, y: -16.475327}
+        - {x: 82.02468, y: -6.4753265}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bfcab97c834898a3d34b02103006ac
+      internalID: 21300014
+      vertices:
+      - {x: 165.94856, y: 22.448563}
+      - {x: 152.94856, y: -4.5514355}
+      - {x: -8.051437, y: 10.448563}
+      - {x: 2.9485703, y: 30.448563}
+      - {x: 46.948563, y: 41.448563}
+      indices: 020000000300000004000000010000000200000004000000000000000100000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_criticalRole_stars_visor_artagan.png0001
+      rect:
+        serializedVersion: 2
+        x: 13.07612
+        y: 396.02676
+        width: 169.89713
+        height: 46.897125
+      alignment: 9
+      pivot: {x: 0.3291632, y: 0.25530854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -66.02468, y: 22.524673}
+        - {x: 10.975315, y: -2.4753265}
+        - {x: 90.97531, y: 23.524673}
+        - {x: 79.97532, y: -7.4753265}
+        - {x: 6.975319, y: -31.475325}
+        - {x: -71.02468, y: -8.475327}
+        - {x: -97.02468, y: 22.524673}
+      physicsShape:
+      - - {x: -53.02468, y: 11.524672}
+        - {x: -81.02468, y: 22.524673}
+        - {x: -84.02468, y: 22.524673}
+        - {x: -84.02468, y: 7.5246735}
+        - {x: -70.02468, y: -8.475327}
+        - {x: -52.02468, y: -13.475327}
+        - {x: -15.024681, y: -22.475327}
+        - {x: -3.024681, y: -22.475327}
+        - {x: 2.975319, y: -20.475327}
+        - {x: 2.975319, y: -4.4753265}
+        - {x: 0.975317, y: 2.5246735}
+      - - {x: 84.97532, y: 17.524673}
+        - {x: 77.97531, y: 17.524673}
+        - {x: 17.975319, y: 0.52467346}
+        - {x: 11.975319, y: -8.475327}
+        - {x: 11.975319, y: -20.475327}
+        - {x: 18.975319, y: -22.475327}
+        - {x: 39.97532, y: -22.475327}
+        - {x: 68.97531, y: -11.475327}
+        - {x: 81.97532, y: -3.4753265}
+        - {x: 84.97532, y: 8.524672}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb126e0be074635bcaaf83a0869789f
+      internalID: 21300016
+      vertices:
+      - {x: 193.94856, y: 27.448563}
+      - {x: 120.94856, y: 3.4485645}
+      - {x: 42.948563, y: 26.448563}
+      - {x: 16.948563, y: 57.448563}
+      - {x: 47.948563, y: 57.448563}
+      - {x: 124.94856, y: 32.448563}
+      - {x: 204.94855, y: 58.448563}
+      indices: 020000000400000005000000020000000300000004000000010000000200000005000000000000000500000006000000000000000100000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_criticalRole_stars_visor_chetney0002
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 45
+        width: 118.92388
+        height: 47.923878
+      alignment: 9
+      pivot: {x: 0.5886118, y: 0.3338628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -59.46194, y: 8.038061}
+        - {x: 56.538055, y: 25.038061}
+        - {x: 60.53806, y: -4.961939}
+        - {x: 20.53806, y: -23.961939}
+        - {x: -59.46194, y: -23.961939}
+      physicsShape:
+      - - {x: -29.461937, y: 13.038061}
+        - {x: -48.461937, y: 5.038061}
+        - {x: -57.46194, y: 0.038061142}
+        - {x: -59.46194, y: -8.961939}
+        - {x: -59.46194, y: -20.961939}
+        - {x: -58.46194, y: -20.961939}
+        - {x: -31.46194, y: -23.961939}
+        - {x: -7.461941, y: -23.961939}
+        - {x: 4.538059, y: -16.961939}
+        - {x: 4.538059, y: 2.0380602}
+        - {x: -18.46194, y: 13.038061}
+      - - {x: 43.53806, y: 23.038061}
+        - {x: 10.538059, y: 16.038061}
+        - {x: 4.538059, y: 5.038061}
+        - {x: 4.538059, y: -4.961939}
+        - {x: 19.53806, y: -17.961937}
+        - {x: 41.53806, y: -17.961937}
+        - {x: 56.538055, y: -12.961939}
+        - {x: 59.538055, y: -3.9619389}
+        - {x: 59.538055, y: 14.038061}
+        - {x: 56.538055, y: 23.038061}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818afc6a00ad482a9b760d9cf965c593
+      internalID: 21300018
+      vertices:
+      - {x: 109.461945, y: 26.961939}
+      - {x: 69.46194, y: 7.961939}
+      - {x: -10.538059, y: 7.961939}
+      - {x: -10.538059, y: 39.961937}
+      - {x: 105.46194, y: 56.961937}
+      indices: 010000000300000004000000010000000200000003000000000000000100000004000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      2024_criticalRole_stars_visor_artagan.png0001: 21300016
+      2024_criticalRole_stars_visor_artagan.png0002: 21300014
+      2024_criticalRole_stars_visor_artagan.png0003: 21300006
+      2024_criticalRole_stars_visor_chetney0001: 21300012
+      2024_criticalRole_stars_visor_chetney0002: 21300018
+      2024_criticalRole_stars_visor_chetney0003: 21300002
+      2024_criticalRole_stars_visor_nott0001: 21300000
+      2024_criticalRole_stars_visor_nott0002: 21300008
+      2024_criticalRole_stars_visor_nott0003: 21300010
+      2024_criticalRole_stars_visor_nott0004: 21300004
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,322 @@
+fileFormatVersion: 2
+guid: 68614673800bbff4495c5b930259ed71
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: BAKCGROUND-4PLAYER
+  - first:
+      213: 21300002
+    second: MIRABACKGROUND1-4
+  - first:
+      213: 21300004
+    second: Airship_BACKGROUND-4 players
+  - first:
+      213: 21300006
+    second: BACKGROUND-4 players
+  - first:
+      213: 21300008
+    second: background-4players
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BAKCGROUND-4PLAYER
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 900
+        width: 515
+        height: 895
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -257.5, y: -447.5}
+        - {x: -257.5, y: 447.5}
+        - {x: 257.5, y: 447.5}
+        - {x: 257.5, y: -447.5}
+      physicsShape:
+      - - {x: -257.5, y: 447.5}
+        - {x: -257.5, y: -447.5}
+        - {x: 257.5, y: -447.5}
+        - {x: 257.5, y: 447.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf2c3f7ecb94789872355aeeff357cc
+      internalID: 21300000
+      vertices:
+      - {x: 515, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 895}
+      - {x: 515, y: 895}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIRABACKGROUND1-4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 900
+        width: 515
+        height: 895
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -257.5, y: -447.5}
+        - {x: -257.5, y: 447.5}
+        - {x: 257.5, y: 447.5}
+        - {x: 257.5, y: -447.5}
+      physicsShape:
+      - - {x: -257.5, y: 447.5}
+        - {x: -257.5, y: -447.5}
+        - {x: 257.5, y: -447.5}
+        - {x: 257.5, y: 447.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ccb0b8c1064e94a3a0ad687a0c878c
+      internalID: 21300002
+      vertices:
+      - {x: 515, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 895}
+      - {x: 515, y: 895}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Airship_BACKGROUND-4 players
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 900
+        width: 515
+        height: 895
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -257.5, y: -447.5}
+        - {x: -257.5, y: 447.5}
+        - {x: 257.5, y: 447.5}
+        - {x: 257.5, y: -447.5}
+      physicsShape:
+      - - {x: -257.5, y: 447.5}
+        - {x: -257.5, y: -447.5}
+        - {x: 257.5, y: -447.5}
+        - {x: 257.5, y: 447.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a1e5740db34843a39cb3946a168613
+      internalID: 21300004
+      vertices:
+      - {x: 515, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 895}
+      - {x: 515, y: 895}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACKGROUND-4 players
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 3
+        width: 515
+        height: 895
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -257.5, y: -447.5}
+        - {x: -257.5, y: 447.5}
+        - {x: 257.5, y: 447.5}
+        - {x: 257.5, y: -447.5}
+      physicsShape:
+      - - {x: -257.5, y: 447.5}
+        - {x: -257.5, y: -447.5}
+        - {x: 257.5, y: -447.5}
+        - {x: 257.5, y: 447.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7f7a7de94d4c3e8a15fb8d1b328880
+      internalID: 21300006
+      vertices:
+      - {x: 515, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 895}
+      - {x: 515, y: 895}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-4players
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 515
+        height: 895
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -257.5, y: -447.5}
+        - {x: -257.5, y: 447.5}
+        - {x: 257.5, y: 447.5}
+        - {x: 257.5, y: -447.5}
+      physicsShape:
+      - - {x: -257.5, y: 447.5}
+        - {x: -257.5, y: -447.5}
+        - {x: 257.5, y: -447.5}
+        - {x: 257.5, y: 447.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee7274a60c048e2a38916ba677c75b5
+      internalID: 21300008
+      vertices:
+      - {x: 515, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 895}
+      - {x: 515, y: 895}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Airship_BACKGROUND-4 players: 21300004
+      BACKGROUND-4 players: 21300006
+      BAKCGROUND-4PLAYER: 21300000
+      MIRABACKGROUND1-4: 21300002
+      background-4players: 21300008
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

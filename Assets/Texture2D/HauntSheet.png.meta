@@ -1,0 +1,459 @@
+fileFormatVersion: 2
+guid: b0dfcedded4a95242bc4f076a48fae33
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: haunt
+  - first:
+      213: 21300002
+    second: HauntButton-AlienActive
+  - first:
+      213: 21300004
+    second: HauntButton-CrewmatesActive
+  - first:
+      213: 21300006
+    second: HauntButton-CrewmatesInactive
+  - first:
+      213: 21300008
+    second: HauntButton-AlienInactive
+  - first:
+      213: 21300010
+    second: Hauntbutton-GhostsActive
+  - first:
+      213: 21300012
+    second: HauntPrompt
+  - first:
+      213: 21300014
+    second: HauntButton-GhostsInactive
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: haunt
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 102
+        width: 116
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -17, y: 41}
+        - {x: 25, y: 41}
+        - {x: 58, y: 14.999999}
+        - {x: 58, y: -4}
+        - {x: 21, y: -41}
+        - {x: -58, y: -41}
+        - {x: -58, y: 0}
+      physicsShape:
+      - - {x: 56, y: 14.999999}
+        - {x: 39.999996, y: 19}
+        - {x: 29.999998, y: 35}
+        - {x: 22.999998, y: 41}
+        - {x: 11, y: 41}
+        - {x: 9.999999, y: 39.999996}
+        - {x: -18, y: 36}
+        - {x: -45.999996, y: 13}
+        - {x: -58, y: -4.9999995}
+        - {x: -58, y: -26}
+        - {x: -42.999996, y: -35}
+        - {x: -19, y: -41}
+        - {x: 19, y: -41}
+        - {x: 35, y: -29.999998}
+        - {x: 58, y: -2}
+        - {x: 58, y: 14.999999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb762a08230c4be6968eed9acc93d663
+      internalID: 21300000
+      vertices:
+      - {x: 116, y: 56}
+      - {x: 116, y: 37}
+      - {x: 79, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 41}
+      - {x: 41, y: 82}
+      - {x: 83, y: 82}
+      indices: 020000000500000006000000040000000200000003000000040000000500000002000000010000000200000006000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HauntButton-AlienActive
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 92
+        width: 172
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -85.99999, y: -45.999996}
+        - {x: -85.99999, y: 45.999996}
+        - {x: 82, y: 45.999996}
+        - {x: 85.99999, y: 38}
+        - {x: 85.99999, y: -45.999996}
+      physicsShape:
+      - - {x: -85.99999, y: 45.999996}
+        - {x: -85.99999, y: -45.999996}
+        - {x: 85.99999, y: -45.999996}
+        - {x: 85.99999, y: 45.999996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ce182d230c432b8f90b764062d25c1
+      internalID: 21300002
+      vertices:
+      - {x: 172, y: 84}
+      - {x: 172, y: 0.0000038146973}
+      - {x: 0.0000076293945, y: 0.0000038146973}
+      - {x: 0.0000076293945, y: 92}
+      - {x: 168, y: 92}
+      indices: 020000000300000004000000000000000100000002000000000000000200000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HauntButton-CrewmatesActive
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 172
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -85.99999, y: -44.5}
+        - {x: -85.99999, y: 44.5}
+        - {x: 85.99999, y: 44.5}
+        - {x: 85.99999, y: -44.5}
+      physicsShape:
+      - - {x: -83, y: 44.5}
+        - {x: -85.99999, y: 43.5}
+        - {x: -85.99999, y: -44.5}
+        - {x: 85.99999, y: -44.5}
+        - {x: 85.99999, y: 44.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779e4542f4a143eeb100817e1ffaacaa
+      internalID: 21300004
+      vertices:
+      - {x: 172, y: 0}
+      - {x: 0.0000076293945, y: 0}
+      - {x: 0.0000076293945, y: 89}
+      - {x: 172, y: 89}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HauntButton-CrewmatesInactive
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1
+        width: 172
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -85.99999, y: -44.5}
+        - {x: -85.99999, y: 44.5}
+        - {x: 85.99999, y: 44.5}
+        - {x: 85.99999, y: -44.5}
+      physicsShape:
+      - - {x: -83, y: 44.5}
+        - {x: -85.99999, y: 43.5}
+        - {x: -85.99999, y: -44.5}
+        - {x: 85.99999, y: -44.5}
+        - {x: 85.99999, y: 44.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d2eadd91114069bf1ecd707c7f5393
+      internalID: 21300006
+      vertices:
+      - {x: 172, y: 0}
+      - {x: 0.0000076293945, y: 0}
+      - {x: 0.0000076293945, y: 89}
+      - {x: 172, y: 89}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HauntButton-AlienInactive
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 92
+        width: 172
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -85.99999, y: -45.999996}
+        - {x: -85.99999, y: 45.999996}
+        - {x: 82, y: 45.999996}
+        - {x: 85.99999, y: 38}
+        - {x: 85.99999, y: -45.999996}
+      physicsShape:
+      - - {x: -85.99999, y: 45.999996}
+        - {x: -85.99999, y: -45.999996}
+        - {x: 85.99999, y: -45.999996}
+        - {x: 85.99999, y: 41}
+        - {x: 77, y: 45.999996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ede68aabb964a35a4d5f1b66d8d6e67
+      internalID: 21300008
+      vertices:
+      - {x: 172, y: 84}
+      - {x: 172, y: 0.0000038146973}
+      - {x: 0.0000076293945, y: 0.0000038146973}
+      - {x: 0.0000076293945, y: 92}
+      - {x: 168, y: 92}
+      indices: 020000000300000004000000000000000100000002000000000000000200000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hauntbutton-GhostsActive
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 4
+        width: 172
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -85.99999, y: -44.5}
+        - {x: -85.99999, y: 44.5}
+        - {x: 85.99999, y: 44.5}
+        - {x: 85.99999, y: -44.5}
+      physicsShape:
+      - - {x: -83, y: 44.5}
+        - {x: -85.99999, y: 43.5}
+        - {x: -85.99999, y: -44.5}
+        - {x: 85.99999, y: -44.5}
+        - {x: 85.99999, y: 44.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60040f60b4214d70898e02f225a11244
+      internalID: 21300010
+      vertices:
+      - {x: 172, y: 0}
+      - {x: 0.0000076293945, y: 0}
+      - {x: 0.0000076293945, y: 89}
+      - {x: 172, y: 89}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HauntPrompt
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 186
+        width: 658
+        height: 305
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -329, y: -152.5}
+        - {x: -329, y: 152.5}
+        - {x: 329, y: 152.5}
+        - {x: 329, y: -152.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42451102df564ba3940982c865b9e945
+      internalID: 21300012
+      vertices:
+      - {x: 658, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 305}
+      - {x: 658, y: 305}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HauntButton-GhostsInactive
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 95
+        width: 172
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -85.99999, y: -44.5}
+        - {x: -85.99999, y: 44.5}
+        - {x: 85.99999, y: 44.5}
+        - {x: 85.99999, y: -44.5}
+      physicsShape:
+      - - {x: -83, y: 44.5}
+        - {x: -85.99999, y: 43.5}
+        - {x: -85.99999, y: -44.5}
+        - {x: 85.99999, y: -44.5}
+        - {x: 85.99999, y: 44.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9b80494de740e5b5063f5baf25d2df
+      internalID: 21300014
+      vertices:
+      - {x: 172, y: 0}
+      - {x: 0.0000076293945, y: 0}
+      - {x: 0.0000076293945, y: 89}
+      - {x: 172, y: 89}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HauntButton-AlienActive: 21300002
+      HauntButton-AlienInactive: 21300008
+      HauntButton-CrewmatesActive: 21300004
+      HauntButton-CrewmatesInactive: 21300006
+      HauntButton-GhostsInactive: 21300014
+      HauntPrompt: 21300012
+      Hauntbutton-GhostsActive: 21300010
+      haunt: 21300000
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

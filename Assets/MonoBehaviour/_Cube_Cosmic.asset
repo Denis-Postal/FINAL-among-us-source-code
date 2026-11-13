@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 825ac4e4914361a3d7ea08f1b54d9d4f, type: 3}
+  m_Name: _Cube_Cosmic
+  m_EditorClassIdentifier:
+  StoreImageRef:
+    m_AssetGUID: b65c34c426adc400697d69c64b4743c1
+    m_SubObjectName: cosmicube_cosmic_stars
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  CosmicubePrefabRef:
+    m_AssetGUID: fafbf5ca1dd4344c8b61487d4163eec7
+    m_SubObjectName:
+    m_SubObjectType:
+  podIconRef:
+    m_AssetGUID: 5c6eb9d72bf60490e9206ac220803381
+    m_SubObjectName: ui_currency_cosmic26_paid
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  DateCreated: 3/30/2026
+  allUnlockables:
+  - {fileID: 11400000, guid: 14209050354048a42b959aa511296431, type: 2}
+  - {fileID: 11400000, guid: febe22554bcdcfd468b2966c5c9ebbd3, type: 2}
+  - {fileID: 11400000, guid: 4545277236484924ab8ab78483c7bbc4, type: 2}
+  - {fileID: 11400000, guid: 635c141a5d3af9144ade06a5bde01179, type: 2}
+  - {fileID: 11400000, guid: c0388f3ed9201fa4484fd39feda4a202, type: 2}
+  - {fileID: 11400000, guid: 703452cd2437ae34180fc1995aa266af, type: 2}
+  - {fileID: 11400000, guid: 873a71afc5cc0e949804e7a77c00cfa2, type: 2}
+  - {fileID: 11400000, guid: 897b7a4a88c0ca945b5472c451c30af1, type: 2}
+  - {fileID: 11400000, guid: 2dea31c4825b210468acd5337c1e8d53, type: 2}
+  - {fileID: 11400000, guid: 2619e2f200e5ed743a705a6ea476aae9, type: 2}
+  - {fileID: 11400000, guid: b4b8b128841d6554385d370c3d78c39e, type: 2}
+  - {fileID: 11400000, guid: e27a27f55b0c99c47b5d48a486c5114c, type: 2}
+  - {fileID: 11400000, guid: b3e9b74987161ce4fabcacbc3da83e13, type: 2}
+  - {fileID: 11400000, guid: 301b881e95235eb43bed3c9d8cbdab7e, type: 2}
+  - {fileID: 11400000, guid: f5626f9819243af45b4d8e213bc77311, type: 2}
+  - {fileID: 11400000, guid: 398fb74020dea7941a0414c54d641997, type: 2}
+  - {fileID: 11400000, guid: c793dee3fe1f2584eac82bd10d1a602b, type: 2}
+  - {fileID: 11400000, guid: 08b911ade6da2b54188f71703ed8fe4a, type: 2}
+  - {fileID: 11400000, guid: 3139deb37f86b794cbcd32be564df8cf, type: 2}
+  - {fileID: 11400000, guid: d27ff722d8f108743b771c22a914a8ce, type: 2}
+  - {fileID: 11400000, guid: 64b270448e59519418e7febf6becdb04, type: 2}
+  - {fileID: 11400000, guid: c405e17c5d1419c4f81866bebcd1415b, type: 2}
+  - {fileID: 11400000, guid: 5006f43f270983443a35c0002bf71de9, type: 2}
+  - {fileID: 11400000, guid: 788494837537db0468918d5e61510518, type: 2}
+  - {fileID: 11400000, guid: 55001597470084f4fb783118dfebda74, type: 2}
+  starCost: 70
+  beanCost: 0
+  Order: 0
+  Free: 0
+  NotInStore: 0
+  XRange:
+    min: -0.1
+    max: 0.1
+  YRange:
+    min: -1.8
+    max: -0.2
+  podId: cosmic
+  productId: cube_cosmic
+  cosmicubeName: Cosmic
+  limitedTime:
+    timeStart:
+      limitedYear: 2026
+      limitedMonth: 6
+      limitedDay: 5
+      limitedHour: 23
+      limitedMinute: 0
+    timeEnd:
+      limitedYear: 0
+      limitedMonth: 0
+      limitedDay: 0
+      limitedHour: 0
+      limitedMinute: 0
+  epicId:

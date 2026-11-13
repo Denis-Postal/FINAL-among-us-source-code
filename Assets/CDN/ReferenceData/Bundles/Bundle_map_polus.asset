@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41d112223c32f1b0c40a10d1a14033b8, type: 3}
+  m_Name: Bundle_map_polus
+  m_EditorClassIdentifier:
+  BundleSize: 1
+  productId: map_polus
+  beanCost: 0
+  starCost: 20
+  cosmetics:
+  - {fileID: 11400000, guid: 306737b2f6c90b4428a0902eb72d2e1d, type: 2}
+  - {fileID: 11400000, guid: d692a954cd6da984db2c25023e8c60be, type: 2}
+  - {fileID: 11400000, guid: 9f4c02019f86be84db997faa7c022dbe, type: 2}
+  - {fileID: 11400000, guid: 6a69da38b0b8eb54fa41beb74898409d, type: 2}
+  - {fileID: 11400000, guid: 210c9e8ed40b8434fa67137e12e2f877, type: 2}
+  - {fileID: 11400000, guid: 2b43bd708de0cd54aaaf514321325eeb, type: 2}
+  StoreImage: {fileID: 21300012, guid: f63f5b9167069d9438726a58514b5ad8, type: 3}
+  NotInStore: 0
+  Free: 0
+  paidOnMobile: 0
+  limitedTime:
+    timeStart:
+      limitedYear: 0
+      limitedMonth: 0
+      limitedDay: 0
+      limitedHour: 0
+      limitedMinute: 0
+    timeEnd:
+      limitedYear: 0
+      limitedMonth: 0
+      limitedDay: 0
+      limitedHour: 0
+      limitedMinute: 0

@@ -1,0 +1,4121 @@
+fileFormatVersion: 2
+guid: 7cc33467035cbd54280a703b88bbc736
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: 2022_holidaycube_pet_coal_Petted0047
+  - first:
+      213: 21300002
+    second: 2022_holidaycube_pet_coal_Petted0044
+  - first:
+      213: 21300004
+    second: 2022_holidaycube_pet_coal_Petted0020
+  - first:
+      213: 21300006
+    second: 2022_holidaycube_pet_coal_Petted0027
+  - first:
+      213: 21300008
+    second: 2022_holidaycube_pet_coal_Petted0039
+  - first:
+      213: 21300010
+    second: 2022_holidaycube_pet_coal_Petted0009
+  - first:
+      213: 21300012
+    second: 2022_holidaycube_pet_coal_Scared0004
+  - first:
+      213: 21300014
+    second: 2022_holidaycube_pet_coal_Petted0032
+  - first:
+      213: 21300016
+    second: 2022_holidaycube_pet_coal_Petted0005
+  - first:
+      213: 21300018
+    second: 2022_holidaycube_pet_coal_Petted0028
+  - first:
+      213: 21300020
+    second: 2022_holidaycube_pet_coal_Petted0037
+  - first:
+      213: 21300022
+    second: 2022_holidaycube_pet_coal_Scared0001
+  - first:
+      213: 21300024
+    second: 2022_holidaycube_pet_coal_Petted0034
+  - first:
+      213: 21300026
+    second: 2022_holidaycube_pet_coal_Petted0001
+  - first:
+      213: 21300028
+    second: 2022_holidaycube_pet_coal_Petted0003
+  - first:
+      213: 21300030
+    second: 2022_holidaycube_pet_coal_Walk0003
+  - first:
+      213: 21300032
+    second: 2022_holidaycube_pet_coal_Petted0016
+  - first:
+      213: 21300034
+    second: 2022_holidaycube_pet_coal_Petted0018
+  - first:
+      213: 21300036
+    second: 2022_holidaycube_pet_coal_Walk0008
+  - first:
+      213: 21300038
+    second: 2022_holidaycube_pet_coal_Petted0023
+  - first:
+      213: 21300040
+    second: 2022_holidaycube_pet_coal_Petted0011
+  - first:
+      213: 21300042
+    second: 2022_holidaycube_pet_coal_Petted0013
+  - first:
+      213: 21300044
+    second: 2022_holidaycube_pet_coal_Petted0029
+  - first:
+      213: 21300046
+    second: 2022_holidaycube_pet_coal_Petted0024
+  - first:
+      213: 21300048
+    second: 2022_holidaycube_pet_coal_Petted0043
+  - first:
+      213: 21300050
+    second: 2022_holidaycube_pet_coal_Petted0019
+  - first:
+      213: 21300052
+    second: 2022_holidaycube_pet_coal_Petted0046
+  - first:
+      213: 21300054
+    second: 2022_holidaycube_pet_coal_Petted0007
+  - first:
+      213: 21300056
+    second: 2022_holidaycube_pet_coal_Walk0005
+  - first:
+      213: 21300058
+    second: 2022_holidaycube_pet_coal_Petted0036
+  - first:
+      213: 21300060
+    second: 2022_holidaycube_pet_coal_Petted0002
+  - first:
+      213: 21300062
+    second: 2022_holidaycube_pet_coal_Walk0006
+  - first:
+      213: 21300064
+    second: 2022_holidaycube_pet_coal_Scared0002
+  - first:
+      213: 21300066
+    second: 2022_holidaycube_pet_coal_Petted0025
+  - first:
+      213: 21300068
+    second: 2022_holidaycube_pet_coal_Scared0003
+  - first:
+      213: 21300070
+    second: 2022_holidaycube_pet_coal_Petted0012
+  - first:
+      213: 21300072
+    second: 2022_holidaycube_pet_coal_Petted0004
+  - first:
+      213: 21300074
+    second: 2022_holidaycube_pet_coal_Petted0008
+  - first:
+      213: 21300076
+    second: 2022_holidaycube_pet_coal_Petted0033
+  - first:
+      213: 21300078
+    second: 2022_holidaycube_pet_coal_Walk0007
+  - first:
+      213: 21300080
+    second: 2022_holidaycube_pet_coal_Walk0004
+  - first:
+      213: 21300082
+    second: 2022_holidaycube_pet_coal_Walk0002
+  - first:
+      213: 21300084
+    second: 2022_holidaycube_pet_coal_Petted0006
+  - first:
+      213: 21300086
+    second: 2022_holidaycube_pet_coal_Petted0041
+  - first:
+      213: 21300088
+    second: 2022_holidaycube_pet_coal_Petted0042
+  - first:
+      213: 21300090
+    second: 2022_holidaycube_pet_coal_Petted0035
+  - first:
+      213: 21300092
+    second: 2022_holidaycube_pet_coal_Petted0021
+  - first:
+      213: 21300094
+    second: 2022_holidaycube_pet_coal_Idle
+  - first:
+      213: 21300096
+    second: 2022_holidaycube_pet_coal_Petted0048
+  - first:
+      213: 21300098
+    second: 2022_holidaycube_pet_coal_Petted0026
+  - first:
+      213: 21300100
+    second: 2022_holidaycube_pet_coal_Petted0017
+  - first:
+      213: 21300102
+    second: 2022_holidaycube_pet_coal_Petted0030
+  - first:
+      213: 21300104
+    second: 2022_holidaycube_pet_coal_Petted0022
+  - first:
+      213: 21300106
+    second: 2022_holidaycube_pet_coal_Petted0040
+  - first:
+      213: 21300108
+    second: 2022_holidaycube_pet_coal_Walk0001
+  - first:
+      213: 21300110
+    second: 2022_holidaycube_pet_coal_Petted0015
+  - first:
+      213: 21300112
+    second: 2022_holidaycube_pet_coal_Petted0031
+  - first:
+      213: 21300114
+    second: 2022_holidaycube_pet_coal_Petted0045
+  - first:
+      213: 21300116
+    second: 2022_holidaycube_pet_coal_Petted0010
+  - first:
+      213: 21300118
+    second: 2022_holidaycube_pet_coal_Sad
+  - first:
+      213: 21300120
+    second: 2022_holidaycube_pet_coal_Petted0014
+  - first:
+      213: 21300122
+    second: 2022_holidaycube_pet_coal_Petted0038
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Petted0047
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 240
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 33, y: -5.5}
+        - {x: 19, y: 4.5}
+        - {x: -14.999999, y: 4.5}
+        - {x: -36, y: -0.5}
+        - {x: -41, y: -17.5}
+        - {x: -41, y: -27.5}
+        - {x: -32, y: -50.5}
+        - {x: -18, y: -57.5}
+        - {x: 11, y: -57.5}
+        - {x: 24, y: -51.5}
+        - {x: 32, y: -44.5}
+        - {x: 33, y: -38.5}
+      - - {x: -17, y: -11.499999}
+        - {x: -19, y: -9.5}
+        - {x: -19, y: -8.5}
+        - {x: -18, y: -8.5}
+        - {x: -14.999999, y: -12.5}
+        - {x: -13, y: -14.5}
+        - {x: -14, y: -13.499999}
+      - - {x: 6, y: -7.4999995}
+        - {x: 8, y: -6.5}
+        - {x: 8, y: -5.5}
+        - {x: 8, y: -6.5}
+        - {x: 6, y: -9.5}
+        - {x: 4.9999995, y: -10.5}
+        - {x: 6, y: -9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290114419a0d4af5bd4069d57f154057
+      internalID: 21300000
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Petted0044
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 554
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 42, y: -14.5}
+        - {x: 34, y: -10.5}
+        - {x: 31, y: 0.5}
+        - {x: 25, y: 6.5}
+        - {x: 6, y: 2.4999998}
+        - {x: -1, y: 7.4999995}
+        - {x: -14, y: 7.4999995}
+        - {x: -21, y: 1.5}
+        - {x: -26.999998, y: -3.5}
+        - {x: -32, y: -8.5}
+        - {x: -32, y: -25.5}
+        - {x: -31, y: -28.5}
+        - {x: -26.999998, y: -50.5}
+        - {x: -9, y: -56.5}
+        - {x: -1, y: -58.499996}
+        - {x: 12, y: -58.499996}
+        - {x: 26.999998, y: -57.5}
+        - {x: 41, y: -42.5}
+        - {x: 35, y: -25.5}
+        - {x: 42, y: -21.499998}
+      - - {x: -4.9999995, y: -7.4999995}
+        - {x: -7, y: -4.5}
+        - {x: -7, y: -2.4999998}
+        - {x: -3, y: -8.5}
+        - {x: -3, y: -11.499999}
+        - {x: -1, y: -12.5}
+        - {x: -1, y: -10.5}
+      - - {x: 18, y: -6.5}
+        - {x: 19.999998, y: -6.5}
+        - {x: 17, y: -9.5}
+        - {x: 14.999999, y: -10.5}
+        - {x: 16, y: -10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a06fd23e83d457f80c391b982059064
+      internalID: 21300002
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Petted0020
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 868
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 32, y: -20.5}
+        - {x: 36, y: -14.5}
+        - {x: 36, y: -5.5}
+        - {x: 22, y: 2.4999998}
+        - {x: 1, y: 2.4999998}
+        - {x: -4, y: -2.4999998}
+        - {x: -13, y: -1.5}
+        - {x: -26.999998, y: -0.5}
+        - {x: -33, y: -5.5}
+        - {x: -44, y: -19.5}
+        - {x: -45, y: -21.499998}
+        - {x: -45, y: -30.5}
+        - {x: -31, y: -54.5}
+        - {x: -22, y: -57.5}
+        - {x: 14, y: -57.5}
+        - {x: 28, y: -50.5}
+        - {x: 36, y: -40.5}
+        - {x: 36, y: -28.5}
+      - - {x: -18, y: -14.5}
+        - {x: -22, y: -11.499999}
+        - {x: -19.999998, y: -11.499999}
+        - {x: -16, y: -14.5}
+        - {x: -16, y: -15.5}
+        - {x: -14, y: -17.5}
+        - {x: -14.999999, y: -15.5}
+      - - {x: 6, y: -8.5}
+        - {x: 8, y: -7.4999995}
+        - {x: 4, y: -11.499999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587dc74b53fc486fa31bab3dddc02e8c
+      internalID: 21300004
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Petted0027
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 868
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 52, y: -32.5}
+        - {x: 52, y: -18.5}
+        - {x: 51, y: -17.5}
+        - {x: 45, y: -0.5}
+        - {x: 28, y: 0.5}
+        - {x: 14.999999, y: 11.499999}
+        - {x: 4.9999995, y: 11.499999}
+        - {x: 2, y: 9.5}
+        - {x: -14, y: 3.5}
+        - {x: -17, y: -3.5}
+        - {x: -22, y: -20.5}
+        - {x: -22, y: -37.5}
+        - {x: -3, y: -57.5}
+        - {x: 7, y: -58.499996}
+        - {x: 31, y: -58.499996}
+        - {x: 37, y: -57.5}
+        - {x: 44, y: -45.5}
+        - {x: 44, y: -38.5}
+      - - {x: 33, y: -12.5}
+        - {x: 35, y: -12.5}
+        - {x: 34, y: -13.499999}
+        - {x: 29.999998, y: -14.5}
+      - - {x: 11, y: -5.5}
+        - {x: 9.999999, y: -1.5}
+        - {x: 11, y: -0.5}
+        - {x: 11, y: 0.5}
+        - {x: 11, y: -2.4999998}
+        - {x: 12, y: -3.5}
+        - {x: 13, y: -11.499999}
+        - {x: 14, y: -10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcf26024a38440a836e62706732119d
+      internalID: 21300006
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Petted0039
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 868
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 52, y: -32.5}
+        - {x: 52, y: -18.5}
+        - {x: 51, y: -17.5}
+        - {x: 45, y: -0.5}
+        - {x: 28, y: 0.5}
+        - {x: 14.999999, y: 11.499999}
+        - {x: 4.9999995, y: 11.499999}
+        - {x: 2, y: 9.5}
+        - {x: -14, y: 3.5}
+        - {x: -17, y: -3.5}
+        - {x: -22, y: -20.5}
+        - {x: -22, y: -37.5}
+        - {x: -3, y: -57.5}
+        - {x: 7, y: -58.499996}
+        - {x: 31, y: -58.499996}
+        - {x: 37, y: -57.5}
+        - {x: 44, y: -45.5}
+        - {x: 44, y: -38.5}
+      - - {x: 33, y: -12.5}
+        - {x: 35, y: -12.5}
+        - {x: 34, y: -13.499999}
+        - {x: 29.999998, y: -14.5}
+      - - {x: 11, y: -5.5}
+        - {x: 9.999999, y: -1.5}
+        - {x: 11, y: -0.5}
+        - {x: 11, y: 0.5}
+        - {x: 11, y: -2.4999998}
+        - {x: 12, y: -3.5}
+        - {x: 13, y: -11.499999}
+        - {x: 14, y: -10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b9771efa354e5b82c81cbb8921dc42
+      internalID: 21300008
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Petted0009
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 868
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 16, y: -10.5}
+        - {x: 24, y: 4.5}
+        - {x: 7, y: 4.5}
+        - {x: 1, y: 10.5}
+        - {x: -11, y: 10.5}
+        - {x: -18, y: 7.4999995}
+        - {x: -42, y: -1.5}
+        - {x: -44, y: -7.4999995}
+        - {x: -45, y: -12.5}
+        - {x: -50, y: -27.5}
+        - {x: -50, y: -32.5}
+        - {x: -45, y: -35.5}
+        - {x: -36, y: -48.5}
+        - {x: -29, y: -58.499996}
+        - {x: -9, y: -58.499996}
+        - {x: 4.9999995, y: -56.5}
+        - {x: 16, y: -48.5}
+        - {x: 26, y: -34.5}
+        - {x: 26, y: -17.5}
+      - - {x: -28, y: -14.5}
+        - {x: -33, y: -11.499999}
+        - {x: -29.999998, y: -11.499999}
+        - {x: -22.999998, y: -16.5}
+        - {x: -25, y: -14.5}
+      - - {x: -9, y: -2.4999998}
+        - {x: -8, y: -0.5}
+        - {x: -8, y: -3.5}
+        - {x: -9.999999, y: -6.5}
+        - {x: -9, y: -6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7aab43934047f5a11f1b1400703035
+      internalID: 21300010
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Scared0004
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 711
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 28, y: 18.5}
+        - {x: 21, y: 23.5}
+        - {x: 3, y: 27.5}
+        - {x: 6, y: 49.499996}
+        - {x: 4, y: 55.5}
+        - {x: -25, y: 55.5}
+        - {x: -33, y: 47.5}
+        - {x: -47, y: 42.5}
+        - {x: -47, y: 11.499999}
+        - {x: -39, y: 5.5}
+        - {x: -29.999998, y: 4.5}
+        - {x: -34, y: -5.5}
+        - {x: -34, y: -15.5}
+        - {x: -25, y: -25.5}
+        - {x: -7, y: -25.5}
+        - {x: 4, y: -23.5}
+        - {x: 21, y: -10.5}
+        - {x: 28, y: 0.5}
+      - - {x: -25, y: 23.5}
+        - {x: -32, y: 30.5}
+        - {x: -29.999998, y: 28.5}
+        - {x: -19.999998, y: 20.5}
+        - {x: -21, y: 22.5}
+      - - {x: -13, y: 35.5}
+        - {x: -14.999999, y: 39.5}
+        - {x: -16, y: 42.5}
+        - {x: -14, y: 38.5}
+        - {x: -13, y: 31.5}
+        - {x: -12, y: 32.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee725833772a436caf400748bde6a5a2
+      internalID: 21300012
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Petted0032
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 868
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 32, y: -20.5}
+        - {x: 36, y: -14.5}
+        - {x: 36, y: -5.5}
+        - {x: 22, y: 2.4999998}
+        - {x: 1, y: 2.4999998}
+        - {x: -4, y: -2.4999998}
+        - {x: -13, y: -1.5}
+        - {x: -26.999998, y: -0.5}
+        - {x: -33, y: -5.5}
+        - {x: -44, y: -19.5}
+        - {x: -45, y: -21.499998}
+        - {x: -45, y: -30.5}
+        - {x: -31, y: -54.5}
+        - {x: -22, y: -57.5}
+        - {x: 14, y: -57.5}
+        - {x: 28, y: -50.5}
+        - {x: 36, y: -40.5}
+        - {x: 36, y: -28.5}
+      - - {x: -18, y: -14.5}
+        - {x: -22, y: -11.499999}
+        - {x: -19.999998, y: -11.499999}
+        - {x: -16, y: -14.5}
+        - {x: -16, y: -15.5}
+        - {x: -14, y: -17.5}
+        - {x: -14.999999, y: -15.5}
+      - - {x: 6, y: -8.5}
+        - {x: 8, y: -7.4999995}
+        - {x: 4, y: -11.499999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ebf54b89db42919b114493e43f4ecd
+      internalID: 21300014
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Petted0005
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 868
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 48.999996, y: -20.5}
+        - {x: 42.999996, y: -17.5}
+        - {x: 42.999996, y: -3.5}
+        - {x: 37, y: 3.5}
+        - {x: 21, y: 10.5}
+        - {x: -1, y: 10.5}
+        - {x: -6, y: 2.4999998}
+        - {x: -7, y: -5.5}
+        - {x: -21, y: 4.5}
+        - {x: -21, y: -18.5}
+        - {x: -24, y: -29.499998}
+        - {x: -24, y: -38.5}
+        - {x: -14, y: -49.499996}
+        - {x: 4, y: -59.499996}
+        - {x: 22, y: -59.499996}
+        - {x: 37, y: -56.5}
+        - {x: 42, y: -48.5}
+        - {x: 50, y: -32.5}
+        - {x: 50, y: -23.5}
+      - - {x: 28, y: -11.499999}
+        - {x: 31, y: -10.5}
+        - {x: 29, y: -12.5}
+        - {x: 26, y: -13.499999}
+        - {x: 26.999998, y: -13.499999}
+      - - {x: 9, y: -9.5}
+        - {x: 6, y: -5.5}
+        - {x: 6, y: -0.5}
+        - {x: 7, y: -2.4999998}
+        - {x: 7, y: -4.5}
+        - {x: 8, y: -5.5}
+        - {x: 9, y: -10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4ca4d73f0040acac53f644d660fa51
+      internalID: 21300016
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Petted0028
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 868
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 52, y: -32.5}
+        - {x: 52, y: -18.5}
+        - {x: 51, y: -17.5}
+        - {x: 45, y: -0.5}
+        - {x: 28, y: 0.5}
+        - {x: 14.999999, y: 11.499999}
+        - {x: 4.9999995, y: 11.499999}
+        - {x: 2, y: 9.5}
+        - {x: -14, y: 3.5}
+        - {x: -17, y: -3.5}
+        - {x: -22, y: -20.5}
+        - {x: -22, y: -37.5}
+        - {x: -3, y: -57.5}
+        - {x: 7, y: -58.499996}
+        - {x: 31, y: -58.499996}
+        - {x: 37, y: -57.5}
+        - {x: 44, y: -45.5}
+        - {x: 44, y: -38.5}
+      - - {x: 33, y: -12.5}
+        - {x: 35, y: -12.5}
+        - {x: 34, y: -13.499999}
+        - {x: 29.999998, y: -14.5}
+      - - {x: 11, y: -5.5}
+        - {x: 9.999999, y: -1.5}
+        - {x: 11, y: -0.5}
+        - {x: 11, y: 0.5}
+        - {x: 11, y: -2.4999998}
+        - {x: 12, y: -3.5}
+        - {x: 13, y: -11.499999}
+        - {x: 14, y: -10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327eecfd5c924559a5be836388dbc384
+      internalID: 21300018
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Petted0037
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 868
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 42.999996, y: -16.5}
+        - {x: 31, y: -5.5}
+        - {x: 25, y: 0.5}
+        - {x: 8, y: -1.5}
+        - {x: 1, y: 0.5}
+        - {x: -18, y: 0.5}
+        - {x: -22.999998, y: -0.5}
+        - {x: -24, y: -12.5}
+        - {x: -21, y: -17.5}
+        - {x: -34, y: -13.499999}
+        - {x: -37, y: -16.5}
+        - {x: -37, y: -22.5}
+        - {x: -31, y: -46.5}
+        - {x: -28, y: -51.5}
+        - {x: -6, y: -60.499996}
+        - {x: 21, y: -60.499996}
+        - {x: 41, y: -51.5}
+        - {x: 41, y: -39.5}
+        - {x: 42.999996, y: -30.5}
+      - - {x: -7, y: -15.5}
+        - {x: -11, y: -10.5}
+        - {x: -12, y: -9.5}
+        - {x: -9.999999, y: -10.5}
+        - {x: -6, y: -15.5}
+        - {x: -4.9999995, y: -16.5}
+        - {x: -6, y: -15.5}
+      - - {x: 14, y: -14.5}
+        - {x: 17, y: -12.5}
+        - {x: 18, y: -11.499999}
+        - {x: 17, y: -13.499999}
+        - {x: 13, y: -14.5}
+        - {x: 12, y: -16.5}
+        - {x: 14, y: -15.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07745d753764497d801c285524384d14
+      internalID: 21300020
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Scared0001
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 711
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 9.999999, y: 29.499998}
+        - {x: 4, y: 32.5}
+        - {x: 2, y: 57.5}
+        - {x: -24, y: 57.5}
+        - {x: -28, y: 55.5}
+        - {x: -36, y: 48.5}
+        - {x: -48.999996, y: 42.5}
+        - {x: -48.999996, y: 39.5}
+        - {x: -41, y: 21.499998}
+        - {x: -48.999996, y: 20.5}
+        - {x: -48.999996, y: 14.5}
+        - {x: -45.999996, y: 8.5}
+        - {x: -29, y: 6.5}
+        - {x: -34, y: -2.4999998}
+        - {x: -35, y: -12.5}
+        - {x: -26.999998, y: -23.5}
+        - {x: -7, y: -23.5}
+        - {x: 13, y: -16.5}
+        - {x: 26, y: -0.5}
+        - {x: 26, y: 20.5}
+      - - {x: -26.999998, y: 26.499998}
+        - {x: -33, y: 32.5}
+        - {x: -34, y: 32.5}
+        - {x: -33, y: 31.5}
+        - {x: -26.999998, y: 26.499998}
+        - {x: -22, y: 22.5}
+        - {x: -22, y: 24.499998}
+      - - {x: -14, y: 36.499996}
+        - {x: -16, y: 40.5}
+        - {x: -17, y: 43.5}
+        - {x: -14.999999, y: 38.5}
+        - {x: -14, y: 34.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cad0069375246d38c702b6a445b7dc5
+      internalID: 21300022
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Petted0034
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 868
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 16, y: -10.5}
+        - {x: 24, y: 4.5}
+        - {x: 7, y: 4.5}
+        - {x: 1, y: 10.5}
+        - {x: -11, y: 10.5}
+        - {x: -18, y: 7.4999995}
+        - {x: -42, y: -1.5}
+        - {x: -44, y: -7.4999995}
+        - {x: -45, y: -12.5}
+        - {x: -50, y: -27.5}
+        - {x: -50, y: -32.5}
+        - {x: -45, y: -35.5}
+        - {x: -36, y: -48.5}
+        - {x: -29, y: -58.499996}
+        - {x: -9, y: -58.499996}
+        - {x: 4.9999995, y: -56.5}
+        - {x: 16, y: -48.5}
+        - {x: 26, y: -34.5}
+        - {x: 26, y: -17.5}
+      - - {x: -28, y: -14.5}
+        - {x: -33, y: -11.499999}
+        - {x: -29.999998, y: -11.499999}
+        - {x: -22.999998, y: -16.5}
+        - {x: -25, y: -14.5}
+      - - {x: -9, y: -2.4999998}
+        - {x: -8, y: -0.5}
+        - {x: -8, y: -3.5}
+        - {x: -9.999999, y: -6.5}
+        - {x: -9, y: -6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b52a34f96fd4eb4946fb1651a433643
+      internalID: 21300024
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Petted0001
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 868
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 42.999996, y: -16.5}
+        - {x: 31, y: -5.5}
+        - {x: 25, y: 0.5}
+        - {x: 8, y: -1.5}
+        - {x: 1, y: 0.5}
+        - {x: -18, y: 0.5}
+        - {x: -22.999998, y: -0.5}
+        - {x: -24, y: -12.5}
+        - {x: -21, y: -17.5}
+        - {x: -34, y: -13.499999}
+        - {x: -37, y: -16.5}
+        - {x: -37, y: -22.5}
+        - {x: -31, y: -46.5}
+        - {x: -28, y: -51.5}
+        - {x: -6, y: -60.499996}
+        - {x: 21, y: -60.499996}
+        - {x: 41, y: -51.5}
+        - {x: 41, y: -39.5}
+        - {x: 42.999996, y: -30.5}
+      - - {x: -7, y: -15.5}
+        - {x: -11, y: -10.5}
+        - {x: -12, y: -9.5}
+        - {x: -9.999999, y: -10.5}
+        - {x: -6, y: -15.5}
+        - {x: -4.9999995, y: -16.5}
+        - {x: -6, y: -15.5}
+      - - {x: 14, y: -14.5}
+        - {x: 17, y: -12.5}
+        - {x: 18, y: -11.499999}
+        - {x: 17, y: -13.499999}
+        - {x: 13, y: -14.5}
+        - {x: 12, y: -16.5}
+        - {x: 14, y: -15.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e290af88ce834dfcb9fb97eeb22c02b6
+      internalID: 21300026
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Petted0003
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 868
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 52, y: -32.5}
+        - {x: 52, y: -18.5}
+        - {x: 51, y: -17.5}
+        - {x: 45, y: -0.5}
+        - {x: 28, y: 0.5}
+        - {x: 14.999999, y: 11.499999}
+        - {x: 4.9999995, y: 11.499999}
+        - {x: 2, y: 9.5}
+        - {x: -14, y: 3.5}
+        - {x: -17, y: -3.5}
+        - {x: -22, y: -20.5}
+        - {x: -22, y: -37.5}
+        - {x: -3, y: -57.5}
+        - {x: 7, y: -58.499996}
+        - {x: 31, y: -58.499996}
+        - {x: 37, y: -57.5}
+        - {x: 44, y: -45.5}
+        - {x: 44, y: -38.5}
+      - - {x: 33, y: -12.5}
+        - {x: 35, y: -12.5}
+        - {x: 34, y: -13.499999}
+        - {x: 29.999998, y: -14.5}
+      - - {x: 11, y: -5.5}
+        - {x: 9.999999, y: -1.5}
+        - {x: 11, y: -0.5}
+        - {x: 11, y: 0.5}
+        - {x: 11, y: -2.4999998}
+        - {x: 12, y: -3.5}
+        - {x: 13, y: -11.499999}
+        - {x: 14, y: -10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b7738d240d4375aa94fbf3467db59e
+      internalID: 21300028
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Walk0003
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 554
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 34, y: 15.5}
+        - {x: 31, y: 25.5}
+        - {x: 35, y: 31.5}
+        - {x: 35, y: 37.5}
+        - {x: 17, y: 51.5}
+        - {x: 4, y: 51.5}
+        - {x: -7, y: 49.499996}
+        - {x: -16, y: 51.5}
+        - {x: -25, y: 51.5}
+        - {x: -31, y: 36.499996}
+        - {x: -39, y: 29.499998}
+        - {x: -39, y: 22.5}
+        - {x: -32, y: 13.499999}
+        - {x: -29.999998, y: -8.5}
+        - {x: -12, y: -13.499999}
+        - {x: 12, y: -13.499999}
+        - {x: 14.999999, y: -12.5}
+        - {x: 31, y: -2.4999998}
+        - {x: 35, y: 4.5}
+        - {x: 35, y: 13.499999}
+      - - {x: -12, y: 34.5}
+        - {x: -16, y: 39.5}
+        - {x: -14.999999, y: 38.5}
+        - {x: -12, y: 34.5}
+        - {x: -9.999999, y: 32.5}
+      - - {x: 9, y: 38.5}
+        - {x: 11, y: 40.5}
+        - {x: 11, y: 41.5}
+        - {x: 11, y: 40.5}
+        - {x: 7, y: 36.499996}
+        - {x: 8, y: 35.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dee0793a5e844b3b5209e80bc005b8b
+      internalID: 21300030
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Petted0016
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 868
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 52, y: -32.5}
+        - {x: 52, y: -18.5}
+        - {x: 51, y: -17.5}
+        - {x: 45, y: -0.5}
+        - {x: 28, y: 0.5}
+        - {x: 14.999999, y: 11.499999}
+        - {x: 4.9999995, y: 11.499999}
+        - {x: 2, y: 9.5}
+        - {x: -14, y: 3.5}
+        - {x: -17, y: -3.5}
+        - {x: -22, y: -20.5}
+        - {x: -22, y: -37.5}
+        - {x: -3, y: -57.5}
+        - {x: 7, y: -58.499996}
+        - {x: 31, y: -58.499996}
+        - {x: 37, y: -57.5}
+        - {x: 44, y: -45.5}
+        - {x: 44, y: -38.5}
+      - - {x: 33, y: -12.5}
+        - {x: 35, y: -12.5}
+        - {x: 34, y: -13.499999}
+        - {x: 29.999998, y: -14.5}
+      - - {x: 11, y: -5.5}
+        - {x: 9.999999, y: -1.5}
+        - {x: 11, y: -0.5}
+        - {x: 11, y: 0.5}
+        - {x: 11, y: -2.4999998}
+        - {x: 12, y: -3.5}
+        - {x: 13, y: -11.499999}
+        - {x: 14, y: -10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5eb82cda6944b7a28ab6ac4d0650e1
+      internalID: 21300032
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Petted0018
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 868
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 48.999996, y: -20.5}
+        - {x: 42.999996, y: -17.5}
+        - {x: 42.999996, y: -3.5}
+        - {x: 37, y: 3.5}
+        - {x: 21, y: 10.5}
+        - {x: -1, y: 10.5}
+        - {x: -6, y: 2.4999998}
+        - {x: -7, y: -5.5}
+        - {x: -21, y: 4.5}
+        - {x: -21, y: -18.5}
+        - {x: -24, y: -29.499998}
+        - {x: -24, y: -38.5}
+        - {x: -14, y: -49.499996}
+        - {x: 4, y: -59.499996}
+        - {x: 22, y: -59.499996}
+        - {x: 37, y: -56.5}
+        - {x: 42, y: -48.5}
+        - {x: 50, y: -32.5}
+        - {x: 50, y: -23.5}
+      - - {x: 28, y: -11.499999}
+        - {x: 31, y: -10.5}
+        - {x: 29, y: -12.5}
+        - {x: 26, y: -13.499999}
+        - {x: 26.999998, y: -13.499999}
+      - - {x: 9, y: -9.5}
+        - {x: 6, y: -5.5}
+        - {x: 6, y: -0.5}
+        - {x: 7, y: -2.4999998}
+        - {x: 7, y: -4.5}
+        - {x: 8, y: -5.5}
+        - {x: 9, y: -10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4510cd8bc444429085db76722ff3d2f0
+      internalID: 21300034
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Walk0008
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 554
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 37, y: -10.5}
+        - {x: 9.999999, y: -10.5}
+        - {x: 0, y: -16.5}
+        - {x: -14, y: -10.5}
+        - {x: -29.999998, y: -10.5}
+        - {x: -39, y: -16.5}
+        - {x: -39.999996, y: -20.5}
+        - {x: -39.999996, y: -46.5}
+        - {x: -36, y: -57.5}
+        - {x: -26.999998, y: -60.499996}
+        - {x: -12, y: -64.5}
+        - {x: 12, y: -64.5}
+        - {x: 18, y: -63.5}
+        - {x: 32, y: -56.5}
+        - {x: 42, y: -43.5}
+        - {x: 42, y: -11.499999}
+      - - {x: -19.999998, y: -21.499998}
+        - {x: -21, y: -20.5}
+        - {x: -24, y: -19.5}
+        - {x: -24, y: -20.5}
+        - {x: -21, y: -20.5}
+        - {x: -19.999998, y: -21.499998}
+        - {x: -17, y: -21.499998}
+        - {x: -16, y: -22.5}
+        - {x: -14, y: -22.5}
+        - {x: -11, y: -23.5}
+        - {x: -14.999999, y: -22.5}
+        - {x: -16, y: -21.499998}
+      - - {x: 22.999998, y: -20.5}
+        - {x: 26.999998, y: -18.5}
+        - {x: 18, y: -20.5}
+        - {x: 19, y: -21.499998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09434ccae9ca47f99e46693c059ab96c
+      internalID: 21300036
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Petted0023
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 711
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 29, y: -20.5}
+        - {x: 21, y: -12.5}
+        - {x: 26, y: -0.5}
+        - {x: 16, y: 1.5}
+        - {x: 4.9999995, y: 9.5}
+        - {x: -7, y: 9.5}
+        - {x: -12, y: 6.5}
+        - {x: -31, y: 2.4999998}
+        - {x: -39.999996, y: -3.5}
+        - {x: -39, y: -17.5}
+        - {x: -47, y: -23.5}
+        - {x: -47, y: -29.499998}
+        - {x: -32, y: -54.5}
+        - {x: -25, y: -57.5}
+        - {x: 4, y: -57.5}
+        - {x: 14, y: -52.499996}
+        - {x: 26, y: -42.5}
+        - {x: 29, y: -32.5}
+      - - {x: -25, y: -12.5}
+        - {x: -28, y: -9.5}
+        - {x: -26, y: -9.5}
+        - {x: -24, y: -11.499999}
+        - {x: -22.999998, y: -11.499999}
+        - {x: -19.999998, y: -14.5}
+        - {x: -19, y: -14.5}
+        - {x: -19.999998, y: -13.499999}
+      - - {x: -2, y: -1.5}
+        - {x: -2, y: -0.5}
+        - {x: -2, y: -2.4999998}
+        - {x: -4, y: -5.5}
+        - {x: -4, y: -6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b69d6e2d1744502a96f5e171a3ec9b2
+      internalID: 21300038
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Petted0011
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 711
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 29, y: -20.5}
+        - {x: 21, y: -12.5}
+        - {x: 26, y: -0.5}
+        - {x: 16, y: 1.5}
+        - {x: 4.9999995, y: 9.5}
+        - {x: -7, y: 9.5}
+        - {x: -12, y: 6.5}
+        - {x: -31, y: 2.4999998}
+        - {x: -39.999996, y: -3.5}
+        - {x: -39, y: -17.5}
+        - {x: -47, y: -23.5}
+        - {x: -47, y: -29.499998}
+        - {x: -32, y: -54.5}
+        - {x: -25, y: -57.5}
+        - {x: 4, y: -57.5}
+        - {x: 14, y: -52.499996}
+        - {x: 26, y: -42.5}
+        - {x: 29, y: -32.5}
+      - - {x: -25, y: -12.5}
+        - {x: -28, y: -9.5}
+        - {x: -26, y: -9.5}
+        - {x: -24, y: -11.499999}
+        - {x: -22.999998, y: -11.499999}
+        - {x: -19.999998, y: -14.5}
+        - {x: -19, y: -14.5}
+        - {x: -19.999998, y: -13.499999}
+      - - {x: -2, y: -1.5}
+        - {x: -2, y: -0.5}
+        - {x: -2, y: -2.4999998}
+        - {x: -4, y: -5.5}
+        - {x: -4, y: -6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91adb18924a3460c82f63fa5599464d5
+      internalID: 21300040
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Petted0013
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 868
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 42.999996, y: -16.5}
+        - {x: 31, y: -5.5}
+        - {x: 25, y: 0.5}
+        - {x: 8, y: -1.5}
+        - {x: 1, y: 0.5}
+        - {x: -18, y: 0.5}
+        - {x: -22.999998, y: -0.5}
+        - {x: -24, y: -12.5}
+        - {x: -21, y: -17.5}
+        - {x: -34, y: -13.499999}
+        - {x: -37, y: -16.5}
+        - {x: -37, y: -22.5}
+        - {x: -31, y: -46.5}
+        - {x: -28, y: -51.5}
+        - {x: -6, y: -60.499996}
+        - {x: 21, y: -60.499996}
+        - {x: 41, y: -51.5}
+        - {x: 41, y: -39.5}
+        - {x: 42.999996, y: -30.5}
+      - - {x: -7, y: -15.5}
+        - {x: -11, y: -10.5}
+        - {x: -12, y: -9.5}
+        - {x: -9.999999, y: -10.5}
+        - {x: -6, y: -15.5}
+        - {x: -4.9999995, y: -16.5}
+        - {x: -6, y: -15.5}
+      - - {x: 14, y: -14.5}
+        - {x: 17, y: -12.5}
+        - {x: 18, y: -11.499999}
+        - {x: 17, y: -13.499999}
+        - {x: 13, y: -14.5}
+        - {x: 12, y: -16.5}
+        - {x: 14, y: -15.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638769d00428499688dcf6b3c7ed6bfc
+      internalID: 21300042
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Petted0029
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 868
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 48.999996, y: -20.5}
+        - {x: 42.999996, y: -17.5}
+        - {x: 42.999996, y: -3.5}
+        - {x: 37, y: 3.5}
+        - {x: 21, y: 10.5}
+        - {x: -1, y: 10.5}
+        - {x: -6, y: 2.4999998}
+        - {x: -7, y: -5.5}
+        - {x: -21, y: 4.5}
+        - {x: -21, y: -18.5}
+        - {x: -24, y: -29.499998}
+        - {x: -24, y: -38.5}
+        - {x: -14, y: -49.499996}
+        - {x: 4, y: -59.499996}
+        - {x: 22, y: -59.499996}
+        - {x: 37, y: -56.5}
+        - {x: 42, y: -48.5}
+        - {x: 50, y: -32.5}
+        - {x: 50, y: -23.5}
+      - - {x: 28, y: -11.499999}
+        - {x: 31, y: -10.5}
+        - {x: 29, y: -12.5}
+        - {x: 26, y: -13.499999}
+        - {x: 26.999998, y: -13.499999}
+      - - {x: 9, y: -9.5}
+        - {x: 6, y: -5.5}
+        - {x: 6, y: -0.5}
+        - {x: 7, y: -2.4999998}
+        - {x: 7, y: -4.5}
+        - {x: 8, y: -5.5}
+        - {x: 9, y: -10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903ca302559c432b9d5e38ef1f25ceec
+      internalID: 21300044
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Petted0024
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 711
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 29, y: -20.5}
+        - {x: 21, y: -12.5}
+        - {x: 26, y: -0.5}
+        - {x: 16, y: 1.5}
+        - {x: 4.9999995, y: 9.5}
+        - {x: -7, y: 9.5}
+        - {x: -12, y: 6.5}
+        - {x: -31, y: 2.4999998}
+        - {x: -39.999996, y: -3.5}
+        - {x: -39, y: -17.5}
+        - {x: -47, y: -23.5}
+        - {x: -47, y: -29.499998}
+        - {x: -32, y: -54.5}
+        - {x: -25, y: -57.5}
+        - {x: 4, y: -57.5}
+        - {x: 14, y: -52.499996}
+        - {x: 26, y: -42.5}
+        - {x: 29, y: -32.5}
+      - - {x: -25, y: -12.5}
+        - {x: -28, y: -9.5}
+        - {x: -26, y: -9.5}
+        - {x: -24, y: -11.499999}
+        - {x: -22.999998, y: -11.499999}
+        - {x: -19.999998, y: -14.5}
+        - {x: -19, y: -14.5}
+        - {x: -19.999998, y: -13.499999}
+      - - {x: -2, y: -1.5}
+        - {x: -2, y: -0.5}
+        - {x: -2, y: -2.4999998}
+        - {x: -4, y: -5.5}
+        - {x: -4, y: -6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a901070187b540f28fa4cf831e85527e
+      internalID: 21300046
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Petted0043
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 554
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 42, y: -14.5}
+        - {x: 34, y: -10.5}
+        - {x: 31, y: 0.5}
+        - {x: 25, y: 6.5}
+        - {x: 6, y: 2.4999998}
+        - {x: -1, y: 7.4999995}
+        - {x: -14, y: 7.4999995}
+        - {x: -21, y: 1.5}
+        - {x: -26.999998, y: -3.5}
+        - {x: -32, y: -8.5}
+        - {x: -32, y: -25.5}
+        - {x: -31, y: -28.5}
+        - {x: -26.999998, y: -50.5}
+        - {x: -9, y: -56.5}
+        - {x: -1, y: -58.499996}
+        - {x: 12, y: -58.499996}
+        - {x: 26.999998, y: -57.5}
+        - {x: 41, y: -42.5}
+        - {x: 35, y: -25.5}
+        - {x: 42, y: -21.499998}
+      - - {x: -4.9999995, y: -7.4999995}
+        - {x: -7, y: -4.5}
+        - {x: -7, y: -2.4999998}
+        - {x: -3, y: -8.5}
+        - {x: -3, y: -11.499999}
+        - {x: -1, y: -12.5}
+        - {x: -1, y: -10.5}
+      - - {x: 18, y: -6.5}
+        - {x: 19.999998, y: -6.5}
+        - {x: 17, y: -9.5}
+        - {x: 14.999999, y: -10.5}
+        - {x: 16, y: -10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a638071fe8c4a6a8808cfd9989e3529
+      internalID: 21300048
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Petted0019
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 868
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 32, y: -20.5}
+        - {x: 36, y: -14.5}
+        - {x: 36, y: -5.5}
+        - {x: 22, y: 2.4999998}
+        - {x: 1, y: 2.4999998}
+        - {x: -4, y: -2.4999998}
+        - {x: -13, y: -1.5}
+        - {x: -26.999998, y: -0.5}
+        - {x: -33, y: -5.5}
+        - {x: -44, y: -19.5}
+        - {x: -45, y: -21.499998}
+        - {x: -45, y: -30.5}
+        - {x: -31, y: -54.5}
+        - {x: -22, y: -57.5}
+        - {x: 14, y: -57.5}
+        - {x: 28, y: -50.5}
+        - {x: 36, y: -40.5}
+        - {x: 36, y: -28.5}
+      - - {x: -18, y: -14.5}
+        - {x: -22, y: -11.499999}
+        - {x: -19.999998, y: -11.499999}
+        - {x: -16, y: -14.5}
+        - {x: -16, y: -15.5}
+        - {x: -14, y: -17.5}
+        - {x: -14.999999, y: -15.5}
+      - - {x: 6, y: -8.5}
+        - {x: 8, y: -7.4999995}
+        - {x: 4, y: -11.499999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acb3eba470b40f78ad42b099784f0f7
+      internalID: 21300050
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Petted0046
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 397
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 24, y: -18.5}
+        - {x: 29.999998, y: -5.5}
+        - {x: 18, y: -3.5}
+        - {x: 8, y: 5.5}
+        - {x: -3, y: 5.5}
+        - {x: -9.999999, y: 0.5}
+        - {x: -34, y: 1.5}
+        - {x: -38, y: -14.5}
+        - {x: -44, y: -20.5}
+        - {x: -45, y: -23.5}
+        - {x: -45, y: -34.5}
+        - {x: -36, y: -45.5}
+        - {x: -29.999998, y: -57.5}
+        - {x: 8, y: -57.5}
+        - {x: 22.999998, y: -47.5}
+        - {x: 31, y: -38.5}
+        - {x: 31, y: -25.5}
+      - - {x: -22.999998, y: -13.499999}
+        - {x: -25, y: -11.499999}
+        - {x: -24, y: -10.5}
+        - {x: -19, y: -15.5}
+        - {x: -18, y: -15.5}
+        - {x: -19, y: -14.5}
+      - - {x: 2, y: -4.5}
+        - {x: 1, y: -7.4999995}
+        - {x: -1, y: -8.5}
+        - {x: -1, y: -9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9226776cbe3545b5b348a5b6f46ad27f
+      internalID: 21300052
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Petted0007
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 868
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 32, y: -20.5}
+        - {x: 36, y: -14.5}
+        - {x: 36, y: -5.5}
+        - {x: 22, y: 2.4999998}
+        - {x: 1, y: 2.4999998}
+        - {x: -4, y: -2.4999998}
+        - {x: -13, y: -1.5}
+        - {x: -26.999998, y: -0.5}
+        - {x: -33, y: -5.5}
+        - {x: -44, y: -19.5}
+        - {x: -45, y: -21.499998}
+        - {x: -45, y: -30.5}
+        - {x: -31, y: -54.5}
+        - {x: -22, y: -57.5}
+        - {x: 14, y: -57.5}
+        - {x: 28, y: -50.5}
+        - {x: 36, y: -40.5}
+        - {x: 36, y: -28.5}
+      - - {x: -18, y: -14.5}
+        - {x: -22, y: -11.499999}
+        - {x: -19.999998, y: -11.499999}
+        - {x: -16, y: -14.5}
+        - {x: -16, y: -15.5}
+        - {x: -14, y: -17.5}
+        - {x: -14.999999, y: -15.5}
+      - - {x: 6, y: -8.5}
+        - {x: 8, y: -7.4999995}
+        - {x: 4, y: -11.499999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ec0f781621402a93a7f054d23b60bf
+      internalID: 21300054
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Walk0005
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 240
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 28, y: 2.4999998}
+        - {x: 22.999998, y: 16.5}
+        - {x: 31, y: 25.5}
+        - {x: 28, y: 34.5}
+        - {x: 22.999998, y: 34.5}
+        - {x: 14.999999, y: 25.5}
+        - {x: 13, y: 42.5}
+        - {x: -34, y: 42.5}
+        - {x: -34, y: -8.5}
+        - {x: -32, y: -23.5}
+        - {x: -18, y: -33.499996}
+        - {x: 9, y: -33.499996}
+        - {x: 16, y: -32.5}
+        - {x: 32, y: -22.5}
+        - {x: 35, y: -12.5}
+        - {x: 35, y: -4.5}
+      - - {x: -9.999999, y: 19.5}
+        - {x: -11, y: 20.5}
+        - {x: -11, y: 22.5}
+        - {x: -13, y: 26.499998}
+        - {x: -11, y: 22.5}
+        - {x: -8, y: 13.499999}
+        - {x: -7, y: 15.5}
+      - - {x: 7, y: 28.5}
+        - {x: 6, y: 28.5}
+        - {x: 4.9999995, y: 27.5}
+        - {x: 4, y: 21.499998}
+        - {x: 4.9999995, y: 21.499998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9184a359894411903d08342cd6717d
+      internalID: 21300056
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Petted0036
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 711
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 29, y: -20.5}
+        - {x: 21, y: -12.5}
+        - {x: 26, y: -0.5}
+        - {x: 16, y: 1.5}
+        - {x: 4.9999995, y: 9.5}
+        - {x: -7, y: 9.5}
+        - {x: -12, y: 6.5}
+        - {x: -31, y: 2.4999998}
+        - {x: -39.999996, y: -3.5}
+        - {x: -39, y: -17.5}
+        - {x: -47, y: -23.5}
+        - {x: -47, y: -29.499998}
+        - {x: -32, y: -54.5}
+        - {x: -25, y: -57.5}
+        - {x: 4, y: -57.5}
+        - {x: 14, y: -52.499996}
+        - {x: 26, y: -42.5}
+        - {x: 29, y: -32.5}
+      - - {x: -25, y: -12.5}
+        - {x: -28, y: -9.5}
+        - {x: -26, y: -9.5}
+        - {x: -24, y: -11.499999}
+        - {x: -22.999998, y: -11.499999}
+        - {x: -19.999998, y: -14.5}
+        - {x: -19, y: -14.5}
+        - {x: -19.999998, y: -13.499999}
+      - - {x: -2, y: -1.5}
+        - {x: -2, y: -0.5}
+        - {x: -2, y: -2.4999998}
+        - {x: -4, y: -5.5}
+        - {x: -4, y: -6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061069c15c3f4ab5b485daa5b69015b8
+      internalID: 21300058
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Petted0002
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 868
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 42.999996, y: -16.5}
+        - {x: 31, y: -5.5}
+        - {x: 25, y: 0.5}
+        - {x: 8, y: -1.5}
+        - {x: 1, y: 0.5}
+        - {x: -18, y: 0.5}
+        - {x: -22.999998, y: -0.5}
+        - {x: -24, y: -12.5}
+        - {x: -21, y: -17.5}
+        - {x: -34, y: -13.499999}
+        - {x: -37, y: -16.5}
+        - {x: -37, y: -22.5}
+        - {x: -31, y: -46.5}
+        - {x: -28, y: -51.5}
+        - {x: -6, y: -60.499996}
+        - {x: 21, y: -60.499996}
+        - {x: 41, y: -51.5}
+        - {x: 41, y: -39.5}
+        - {x: 42.999996, y: -30.5}
+      - - {x: -7, y: -15.5}
+        - {x: -11, y: -10.5}
+        - {x: -12, y: -9.5}
+        - {x: -9.999999, y: -10.5}
+        - {x: -6, y: -15.5}
+        - {x: -4.9999995, y: -16.5}
+        - {x: -6, y: -15.5}
+      - - {x: 14, y: -14.5}
+        - {x: 17, y: -12.5}
+        - {x: 18, y: -11.499999}
+        - {x: 17, y: -13.499999}
+        - {x: 13, y: -14.5}
+        - {x: 12, y: -16.5}
+        - {x: 14, y: -15.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e4d6b7fe04481f834ee1a965962ed1
+      internalID: 21300060
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Walk0006
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 83
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 39.999996, y: -29.499998}
+        - {x: 44, y: -25.5}
+        - {x: 44, y: -21.499998}
+        - {x: 42.999996, y: -18.5}
+        - {x: 26, y: -6.5}
+        - {x: 7, y: -6.5}
+        - {x: 0, y: -9.5}
+        - {x: -28, y: -7.4999995}
+        - {x: -33, y: -11.499999}
+        - {x: -32, y: -23.5}
+        - {x: -44, y: -24.499998}
+        - {x: -47, y: -26.499998}
+        - {x: -47, y: -29.499998}
+        - {x: -45.999996, y: -33.499996}
+        - {x: -38, y: -37.5}
+        - {x: -38, y: -54.5}
+        - {x: -34, y: -57.5}
+        - {x: -21, y: -62.5}
+        - {x: -13, y: -63.5}
+        - {x: 18, y: -63.5}
+        - {x: 37, y: -54.5}
+        - {x: 44, y: -47.5}
+        - {x: 44, y: -38.5}
+      - - {x: -19.999998, y: -18.5}
+        - {x: -16, y: -18.5}
+        - {x: -12, y: -23.5}
+        - {x: -11, y: -23.5}
+        - {x: -12, y: -22.5}
+      - - {x: 11, y: -18.5}
+        - {x: 13, y: -16.5}
+        - {x: 14.999999, y: -16.5}
+        - {x: 13, y: -18.5}
+        - {x: 9, y: -20.5}
+        - {x: 9.999999, y: -20.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d997c03872048b790ed51f6f424cf68
+      internalID: 21300062
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Scared0002
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 711
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 29.999998, y: 16.5}
+        - {x: 22.999998, y: 21.499998}
+        - {x: 4.9999995, y: 25.5}
+        - {x: 8, y: 47.5}
+        - {x: 6, y: 53.499996}
+        - {x: -22.999998, y: 53.499996}
+        - {x: -31, y: 45.5}
+        - {x: -45, y: 40.5}
+        - {x: -45, y: 9.5}
+        - {x: -37, y: 3.5}
+        - {x: -28, y: 2.4999998}
+        - {x: -32, y: -7.4999995}
+        - {x: -32, y: -17.5}
+        - {x: -22.999998, y: -27.5}
+        - {x: -4.9999995, y: -27.5}
+        - {x: 6, y: -25.5}
+        - {x: 22.999998, y: -12.5}
+        - {x: 29.999998, y: -1.5}
+      - - {x: -22.999998, y: 21.499998}
+        - {x: -29.999998, y: 28.5}
+        - {x: -28, y: 26.499998}
+        - {x: -18, y: 18.5}
+        - {x: -19, y: 20.5}
+      - - {x: -11, y: 33.499996}
+        - {x: -13, y: 37.5}
+        - {x: -14, y: 40.5}
+        - {x: -12, y: 36.499996}
+        - {x: -11, y: 29.499998}
+        - {x: -9.999999, y: 30.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1426f1afb254569ab3f4069c8a5a3d1
+      internalID: 21300064
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Petted0025
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 868
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 42.999996, y: -16.5}
+        - {x: 31, y: -5.5}
+        - {x: 25, y: 0.5}
+        - {x: 8, y: -1.5}
+        - {x: 1, y: 0.5}
+        - {x: -18, y: 0.5}
+        - {x: -22.999998, y: -0.5}
+        - {x: -24, y: -12.5}
+        - {x: -21, y: -17.5}
+        - {x: -34, y: -13.499999}
+        - {x: -37, y: -16.5}
+        - {x: -37, y: -22.5}
+        - {x: -31, y: -46.5}
+        - {x: -28, y: -51.5}
+        - {x: -6, y: -60.499996}
+        - {x: 21, y: -60.499996}
+        - {x: 41, y: -51.5}
+        - {x: 41, y: -39.5}
+        - {x: 42.999996, y: -30.5}
+      - - {x: -7, y: -15.5}
+        - {x: -11, y: -10.5}
+        - {x: -12, y: -9.5}
+        - {x: -9.999999, y: -10.5}
+        - {x: -6, y: -15.5}
+        - {x: -4.9999995, y: -16.5}
+        - {x: -6, y: -15.5}
+      - - {x: 14, y: -14.5}
+        - {x: 17, y: -12.5}
+        - {x: 18, y: -11.499999}
+        - {x: 17, y: -13.499999}
+        - {x: 13, y: -14.5}
+        - {x: 12, y: -16.5}
+        - {x: 14, y: -15.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: be550a7808c7467fb8eeafb6b8165f1a
+      internalID: 21300066
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Scared0003
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 711
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 24, y: 18.5}
+        - {x: 17, y: 23.5}
+        - {x: -1, y: 27.5}
+        - {x: 2, y: 49.499996}
+        - {x: 0, y: 55.5}
+        - {x: -32, y: 55.5}
+        - {x: -51, y: 41.5}
+        - {x: -48.999996, y: 33.499996}
+        - {x: -51, y: 24.499998}
+        - {x: -51, y: 11.499999}
+        - {x: -42.999996, y: 5.5}
+        - {x: -34, y: 4.5}
+        - {x: -38, y: -5.5}
+        - {x: -38, y: -15.5}
+        - {x: -29, y: -25.5}
+        - {x: -11, y: -25.5}
+        - {x: 0, y: -23.5}
+        - {x: 17, y: -10.5}
+        - {x: 24, y: 0.5}
+      - - {x: -29, y: 23.5}
+        - {x: -36, y: 30.5}
+        - {x: -34, y: 28.5}
+        - {x: -24, y: 20.5}
+        - {x: -25, y: 22.5}
+      - - {x: -17, y: 35.5}
+        - {x: -19, y: 39.5}
+        - {x: -19.999998, y: 42.5}
+        - {x: -18, y: 38.5}
+        - {x: -17, y: 31.5}
+        - {x: -16, y: 32.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f8f1cc53ec4bdbbeefad590e41c235
+      internalID: 21300068
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Petted0012
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 711
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 29, y: -20.5}
+        - {x: 21, y: -12.5}
+        - {x: 26, y: -0.5}
+        - {x: 16, y: 1.5}
+        - {x: 4.9999995, y: 9.5}
+        - {x: -7, y: 9.5}
+        - {x: -12, y: 6.5}
+        - {x: -31, y: 2.4999998}
+        - {x: -39.999996, y: -3.5}
+        - {x: -39, y: -17.5}
+        - {x: -47, y: -23.5}
+        - {x: -47, y: -29.499998}
+        - {x: -32, y: -54.5}
+        - {x: -25, y: -57.5}
+        - {x: 4, y: -57.5}
+        - {x: 14, y: -52.499996}
+        - {x: 26, y: -42.5}
+        - {x: 29, y: -32.5}
+      - - {x: -25, y: -12.5}
+        - {x: -28, y: -9.5}
+        - {x: -26, y: -9.5}
+        - {x: -24, y: -11.499999}
+        - {x: -22.999998, y: -11.499999}
+        - {x: -19.999998, y: -14.5}
+        - {x: -19, y: -14.5}
+        - {x: -19.999998, y: -13.499999}
+      - - {x: -2, y: -1.5}
+        - {x: -2, y: -0.5}
+        - {x: -2, y: -2.4999998}
+        - {x: -4, y: -5.5}
+        - {x: -4, y: -6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a0f281477b4f2f842e682205cfc16c
+      internalID: 21300070
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Petted0004
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 868
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 52, y: -32.5}
+        - {x: 52, y: -18.5}
+        - {x: 51, y: -17.5}
+        - {x: 45, y: -0.5}
+        - {x: 28, y: 0.5}
+        - {x: 14.999999, y: 11.499999}
+        - {x: 4.9999995, y: 11.499999}
+        - {x: 2, y: 9.5}
+        - {x: -14, y: 3.5}
+        - {x: -17, y: -3.5}
+        - {x: -22, y: -20.5}
+        - {x: -22, y: -37.5}
+        - {x: -3, y: -57.5}
+        - {x: 7, y: -58.499996}
+        - {x: 31, y: -58.499996}
+        - {x: 37, y: -57.5}
+        - {x: 44, y: -45.5}
+        - {x: 44, y: -38.5}
+      - - {x: 33, y: -12.5}
+        - {x: 35, y: -12.5}
+        - {x: 34, y: -13.499999}
+        - {x: 29.999998, y: -14.5}
+      - - {x: 11, y: -5.5}
+        - {x: 9.999999, y: -1.5}
+        - {x: 11, y: -0.5}
+        - {x: 11, y: 0.5}
+        - {x: 11, y: -2.4999998}
+        - {x: 12, y: -3.5}
+        - {x: 13, y: -11.499999}
+        - {x: 14, y: -10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427b8f1114d840dc8f388c7b854c7b2d
+      internalID: 21300072
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Petted0008
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 868
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 32, y: -20.5}
+        - {x: 36, y: -14.5}
+        - {x: 36, y: -5.5}
+        - {x: 22, y: 2.4999998}
+        - {x: 1, y: 2.4999998}
+        - {x: -4, y: -2.4999998}
+        - {x: -13, y: -1.5}
+        - {x: -26.999998, y: -0.5}
+        - {x: -33, y: -5.5}
+        - {x: -44, y: -19.5}
+        - {x: -45, y: -21.499998}
+        - {x: -45, y: -30.5}
+        - {x: -31, y: -54.5}
+        - {x: -22, y: -57.5}
+        - {x: 14, y: -57.5}
+        - {x: 28, y: -50.5}
+        - {x: 36, y: -40.5}
+        - {x: 36, y: -28.5}
+      - - {x: -18, y: -14.5}
+        - {x: -22, y: -11.499999}
+        - {x: -19.999998, y: -11.499999}
+        - {x: -16, y: -14.5}
+        - {x: -16, y: -15.5}
+        - {x: -14, y: -17.5}
+        - {x: -14.999999, y: -15.5}
+      - - {x: 6, y: -8.5}
+        - {x: 8, y: -7.4999995}
+        - {x: 4, y: -11.499999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ad6a89015e4065897708c12c0100ed
+      internalID: 21300074
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Petted0033
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 868
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 16, y: -10.5}
+        - {x: 24, y: 4.5}
+        - {x: 7, y: 4.5}
+        - {x: 1, y: 10.5}
+        - {x: -11, y: 10.5}
+        - {x: -18, y: 7.4999995}
+        - {x: -42, y: -1.5}
+        - {x: -44, y: -7.4999995}
+        - {x: -45, y: -12.5}
+        - {x: -50, y: -27.5}
+        - {x: -50, y: -32.5}
+        - {x: -45, y: -35.5}
+        - {x: -36, y: -48.5}
+        - {x: -29, y: -58.499996}
+        - {x: -9, y: -58.499996}
+        - {x: 4.9999995, y: -56.5}
+        - {x: 16, y: -48.5}
+        - {x: 26, y: -34.5}
+        - {x: 26, y: -17.5}
+      - - {x: -28, y: -14.5}
+        - {x: -33, y: -11.499999}
+        - {x: -29.999998, y: -11.499999}
+        - {x: -22.999998, y: -16.5}
+        - {x: -25, y: -14.5}
+      - - {x: -9, y: -2.4999998}
+        - {x: -8, y: -0.5}
+        - {x: -8, y: -3.5}
+        - {x: -9.999999, y: -6.5}
+        - {x: -9, y: -6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbcea3dd7f7456092dd2f5114eda455
+      internalID: 21300076
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Walk0007
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 83
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 39.999996, y: -29.499998}
+        - {x: 44, y: -25.5}
+        - {x: 44, y: -21.499998}
+        - {x: 42.999996, y: -18.5}
+        - {x: 26, y: -6.5}
+        - {x: 7, y: -6.5}
+        - {x: 0, y: -9.5}
+        - {x: -28, y: -7.4999995}
+        - {x: -33, y: -11.499999}
+        - {x: -32, y: -23.5}
+        - {x: -44, y: -24.499998}
+        - {x: -47, y: -26.499998}
+        - {x: -47, y: -29.499998}
+        - {x: -45.999996, y: -33.499996}
+        - {x: -38, y: -37.5}
+        - {x: -38, y: -54.5}
+        - {x: -34, y: -57.5}
+        - {x: -21, y: -62.5}
+        - {x: -13, y: -63.5}
+        - {x: 18, y: -63.5}
+        - {x: 37, y: -54.5}
+        - {x: 44, y: -47.5}
+        - {x: 44, y: -38.5}
+      - - {x: -19.999998, y: -18.5}
+        - {x: -16, y: -18.5}
+        - {x: -12, y: -23.5}
+        - {x: -11, y: -23.5}
+        - {x: -12, y: -22.5}
+      - - {x: 11, y: -18.5}
+        - {x: 13, y: -16.5}
+        - {x: 14.999999, y: -16.5}
+        - {x: 13, y: -18.5}
+        - {x: 9, y: -20.5}
+        - {x: 9.999999, y: -20.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76b292d890047adb7bf51d30f3dc5a3
+      internalID: 21300078
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Walk0004
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 397
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 31, y: 32.5}
+        - {x: 33, y: 55.5}
+        - {x: 17, y: 42.5}
+        - {x: 14.999999, y: 53.499996}
+        - {x: 9, y: 55.5}
+        - {x: -17, y: 55.5}
+        - {x: -22, y: 47.5}
+        - {x: -21, y: 34.5}
+        - {x: -19.999998, y: 30.5}
+        - {x: -24, y: 36.499996}
+        - {x: -32, y: 40.5}
+        - {x: -34, y: 39.5}
+        - {x: -34, y: 22.5}
+        - {x: -32, y: 6.5}
+        - {x: -29.999998, y: -11.499999}
+        - {x: -17, y: -20.5}
+        - {x: 17, y: -20.5}
+        - {x: 26, y: -13.499999}
+        - {x: 35, y: -2.4999998}
+        - {x: 35, y: 17.5}
+      - - {x: -12, y: 36.499996}
+        - {x: -13, y: 40.5}
+        - {x: -12, y: 38.5}
+        - {x: -12, y: 36.499996}
+        - {x: -11, y: 35.5}
+        - {x: -11, y: 33.499996}
+        - {x: -8, y: 29.499998}
+        - {x: -8, y: 30.5}
+      - - {x: 7, y: 42.5}
+        - {x: 6, y: 42.5}
+        - {x: 4.9999995, y: 40.5}
+        - {x: 3, y: 33.499996}
+        - {x: 4.9999995, y: 34.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8abf65604a4d9a946bbec7f5f51037
+      internalID: 21300080
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Walk0002
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 554
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 34, y: 15.5}
+        - {x: 31, y: 25.5}
+        - {x: 35, y: 31.5}
+        - {x: 35, y: 37.5}
+        - {x: 17, y: 51.5}
+        - {x: 4, y: 51.5}
+        - {x: -7, y: 49.499996}
+        - {x: -16, y: 51.5}
+        - {x: -25, y: 51.5}
+        - {x: -31, y: 36.499996}
+        - {x: -39, y: 29.499998}
+        - {x: -39, y: 22.5}
+        - {x: -32, y: 13.499999}
+        - {x: -29.999998, y: -8.5}
+        - {x: -12, y: -13.499999}
+        - {x: 12, y: -13.499999}
+        - {x: 14.999999, y: -12.5}
+        - {x: 31, y: -2.4999998}
+        - {x: 35, y: 4.5}
+        - {x: 35, y: 13.499999}
+      - - {x: -12, y: 34.5}
+        - {x: -16, y: 39.5}
+        - {x: -14.999999, y: 38.5}
+        - {x: -12, y: 34.5}
+        - {x: -9.999999, y: 32.5}
+      - - {x: 9, y: 38.5}
+        - {x: 11, y: 40.5}
+        - {x: 11, y: 41.5}
+        - {x: 11, y: 40.5}
+        - {x: 7, y: 36.499996}
+        - {x: 8, y: 35.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1adbab1ec0d9468a96c37cc402383c08
+      internalID: 21300082
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Petted0006
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 868
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 48.999996, y: -20.5}
+        - {x: 42.999996, y: -17.5}
+        - {x: 42.999996, y: -3.5}
+        - {x: 37, y: 3.5}
+        - {x: 21, y: 10.5}
+        - {x: -1, y: 10.5}
+        - {x: -6, y: 2.4999998}
+        - {x: -7, y: -5.5}
+        - {x: -21, y: 4.5}
+        - {x: -21, y: -18.5}
+        - {x: -24, y: -29.499998}
+        - {x: -24, y: -38.5}
+        - {x: -14, y: -49.499996}
+        - {x: 4, y: -59.499996}
+        - {x: 22, y: -59.499996}
+        - {x: 37, y: -56.5}
+        - {x: 42, y: -48.5}
+        - {x: 50, y: -32.5}
+        - {x: 50, y: -23.5}
+      - - {x: 28, y: -11.499999}
+        - {x: 31, y: -10.5}
+        - {x: 29, y: -12.5}
+        - {x: 26, y: -13.499999}
+        - {x: 26.999998, y: -13.499999}
+      - - {x: 9, y: -9.5}
+        - {x: 6, y: -5.5}
+        - {x: 6, y: -0.5}
+        - {x: 7, y: -2.4999998}
+        - {x: 7, y: -4.5}
+        - {x: 8, y: -5.5}
+        - {x: 9, y: -10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bf92dfbe174aa3ae313c2be59db570
+      internalID: 21300084
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Petted0041
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 868
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 48.999996, y: -20.5}
+        - {x: 42.999996, y: -17.5}
+        - {x: 42.999996, y: -3.5}
+        - {x: 37, y: 3.5}
+        - {x: 21, y: 10.5}
+        - {x: -1, y: 10.5}
+        - {x: -6, y: 2.4999998}
+        - {x: -7, y: -5.5}
+        - {x: -21, y: 4.5}
+        - {x: -21, y: -18.5}
+        - {x: -24, y: -29.499998}
+        - {x: -24, y: -38.5}
+        - {x: -14, y: -49.499996}
+        - {x: 4, y: -59.499996}
+        - {x: 22, y: -59.499996}
+        - {x: 37, y: -56.5}
+        - {x: 42, y: -48.5}
+        - {x: 50, y: -32.5}
+        - {x: 50, y: -23.5}
+      - - {x: 28, y: -11.499999}
+        - {x: 31, y: -10.5}
+        - {x: 29, y: -12.5}
+        - {x: 26, y: -13.499999}
+        - {x: 26.999998, y: -13.499999}
+      - - {x: 9, y: -9.5}
+        - {x: 6, y: -5.5}
+        - {x: 6, y: -0.5}
+        - {x: 7, y: -2.4999998}
+        - {x: 7, y: -4.5}
+        - {x: 8, y: -5.5}
+        - {x: 9, y: -10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38104487a1654eb6ac890914438e2940
+      internalID: 21300086
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Petted0042
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 868
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 48.999996, y: -20.5}
+        - {x: 42.999996, y: -17.5}
+        - {x: 42.999996, y: -3.5}
+        - {x: 37, y: 3.5}
+        - {x: 21, y: 10.5}
+        - {x: -1, y: 10.5}
+        - {x: -6, y: 2.4999998}
+        - {x: -7, y: -5.5}
+        - {x: -21, y: 4.5}
+        - {x: -21, y: -18.5}
+        - {x: -24, y: -29.499998}
+        - {x: -24, y: -38.5}
+        - {x: -14, y: -49.499996}
+        - {x: 4, y: -59.499996}
+        - {x: 22, y: -59.499996}
+        - {x: 37, y: -56.5}
+        - {x: 42, y: -48.5}
+        - {x: 50, y: -32.5}
+        - {x: 50, y: -23.5}
+      - - {x: 28, y: -11.499999}
+        - {x: 31, y: -10.5}
+        - {x: 29, y: -12.5}
+        - {x: 26, y: -13.499999}
+        - {x: 26.999998, y: -13.499999}
+      - - {x: 9, y: -9.5}
+        - {x: 6, y: -5.5}
+        - {x: 6, y: -0.5}
+        - {x: 7, y: -2.4999998}
+        - {x: 7, y: -4.5}
+        - {x: 8, y: -5.5}
+        - {x: 9, y: -10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12673b4cad3c4578af94dd37c1dd591c
+      internalID: 21300088
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Petted0035
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 711
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 29, y: -20.5}
+        - {x: 21, y: -12.5}
+        - {x: 26, y: -0.5}
+        - {x: 16, y: 1.5}
+        - {x: 4.9999995, y: 9.5}
+        - {x: -7, y: 9.5}
+        - {x: -12, y: 6.5}
+        - {x: -31, y: 2.4999998}
+        - {x: -39.999996, y: -3.5}
+        - {x: -39, y: -17.5}
+        - {x: -47, y: -23.5}
+        - {x: -47, y: -29.499998}
+        - {x: -32, y: -54.5}
+        - {x: -25, y: -57.5}
+        - {x: 4, y: -57.5}
+        - {x: 14, y: -52.499996}
+        - {x: 26, y: -42.5}
+        - {x: 29, y: -32.5}
+      - - {x: -25, y: -12.5}
+        - {x: -28, y: -9.5}
+        - {x: -26, y: -9.5}
+        - {x: -24, y: -11.499999}
+        - {x: -22.999998, y: -11.499999}
+        - {x: -19.999998, y: -14.5}
+        - {x: -19, y: -14.5}
+        - {x: -19.999998, y: -13.499999}
+      - - {x: -2, y: -1.5}
+        - {x: -2, y: -0.5}
+        - {x: -2, y: -2.4999998}
+        - {x: -4, y: -5.5}
+        - {x: -4, y: -6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37de3988fc874a75bb1d9927dac5e291
+      internalID: 21300090
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Petted0021
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 868
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 16, y: -10.5}
+        - {x: 24, y: 4.5}
+        - {x: 7, y: 4.5}
+        - {x: 1, y: 10.5}
+        - {x: -11, y: 10.5}
+        - {x: -18, y: 7.4999995}
+        - {x: -42, y: -1.5}
+        - {x: -44, y: -7.4999995}
+        - {x: -45, y: -12.5}
+        - {x: -50, y: -27.5}
+        - {x: -50, y: -32.5}
+        - {x: -45, y: -35.5}
+        - {x: -36, y: -48.5}
+        - {x: -29, y: -58.499996}
+        - {x: -9, y: -58.499996}
+        - {x: 4.9999995, y: -56.5}
+        - {x: 16, y: -48.5}
+        - {x: 26, y: -34.5}
+        - {x: 26, y: -17.5}
+      - - {x: -28, y: -14.5}
+        - {x: -33, y: -11.499999}
+        - {x: -29.999998, y: -11.499999}
+        - {x: -22.999998, y: -16.5}
+        - {x: -25, y: -14.5}
+      - - {x: -9, y: -2.4999998}
+        - {x: -8, y: -0.5}
+        - {x: -8, y: -3.5}
+        - {x: -9.999999, y: -6.5}
+        - {x: -9, y: -6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f4312515f8494d89cae4c5698e2daa
+      internalID: 21300092
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Idle
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 868
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 35, y: -11.499999}
+        - {x: 34, y: -9.5}
+        - {x: 24, y: 1.5}
+        - {x: 17, y: 4.5}
+        - {x: 3, y: 4.5}
+        - {x: -3, y: -3.5}
+        - {x: -11, y: 3.5}
+        - {x: -19.999998, y: 4.5}
+        - {x: -24, y: 4.5}
+        - {x: -34, y: -11.499999}
+        - {x: -38, y: -16.5}
+        - {x: -38, y: -32.5}
+        - {x: -31, y: -52.499996}
+        - {x: -16, y: -60.499996}
+        - {x: 11, y: -60.499996}
+        - {x: 26.999998, y: -52.499996}
+        - {x: 34, y: -48.5}
+        - {x: 35, y: -43.5}
+      - - {x: -16, y: -7.4999995}
+        - {x: -12, y: -12.5}
+        - {x: -9, y: -15.5}
+        - {x: -8, y: -14.5}
+      - - {x: 11, y: -6.5}
+        - {x: 11, y: -7.4999995}
+        - {x: 7, y: -10.5}
+        - {x: 7, y: -11.499999}
+        - {x: 8, y: -12.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a952a167aefd4225915d128660d1b9dd
+      internalID: 21300094
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Petted0048
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 240
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 33, y: -5.5}
+        - {x: 19, y: 4.5}
+        - {x: -14.999999, y: 4.5}
+        - {x: -36, y: -0.5}
+        - {x: -41, y: -17.5}
+        - {x: -41, y: -27.5}
+        - {x: -32, y: -50.5}
+        - {x: -18, y: -57.5}
+        - {x: 11, y: -57.5}
+        - {x: 24, y: -51.5}
+        - {x: 32, y: -44.5}
+        - {x: 33, y: -38.5}
+      - - {x: -17, y: -11.499999}
+        - {x: -19, y: -9.5}
+        - {x: -19, y: -8.5}
+        - {x: -18, y: -8.5}
+        - {x: -14.999999, y: -12.5}
+        - {x: -13, y: -14.5}
+        - {x: -14, y: -13.499999}
+      - - {x: 6, y: -7.4999995}
+        - {x: 8, y: -6.5}
+        - {x: 8, y: -5.5}
+        - {x: 8, y: -6.5}
+        - {x: 6, y: -9.5}
+        - {x: 4.9999995, y: -10.5}
+        - {x: 6, y: -9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243c585a7b8d4a32aa9bcc3584f92c97
+      internalID: 21300096
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Petted0026
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 868
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 42.999996, y: -16.5}
+        - {x: 31, y: -5.5}
+        - {x: 25, y: 0.5}
+        - {x: 8, y: -1.5}
+        - {x: 1, y: 0.5}
+        - {x: -18, y: 0.5}
+        - {x: -22.999998, y: -0.5}
+        - {x: -24, y: -12.5}
+        - {x: -21, y: -17.5}
+        - {x: -34, y: -13.499999}
+        - {x: -37, y: -16.5}
+        - {x: -37, y: -22.5}
+        - {x: -31, y: -46.5}
+        - {x: -28, y: -51.5}
+        - {x: -6, y: -60.499996}
+        - {x: 21, y: -60.499996}
+        - {x: 41, y: -51.5}
+        - {x: 41, y: -39.5}
+        - {x: 42.999996, y: -30.5}
+      - - {x: -7, y: -15.5}
+        - {x: -11, y: -10.5}
+        - {x: -12, y: -9.5}
+        - {x: -9.999999, y: -10.5}
+        - {x: -6, y: -15.5}
+        - {x: -4.9999995, y: -16.5}
+        - {x: -6, y: -15.5}
+      - - {x: 14, y: -14.5}
+        - {x: 17, y: -12.5}
+        - {x: 18, y: -11.499999}
+        - {x: 17, y: -13.499999}
+        - {x: 13, y: -14.5}
+        - {x: 12, y: -16.5}
+        - {x: 14, y: -15.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbb1870bf7941c496192dad62b2ba02
+      internalID: 21300098
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Petted0017
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 868
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 48.999996, y: -20.5}
+        - {x: 42.999996, y: -17.5}
+        - {x: 42.999996, y: -3.5}
+        - {x: 37, y: 3.5}
+        - {x: 21, y: 10.5}
+        - {x: -1, y: 10.5}
+        - {x: -6, y: 2.4999998}
+        - {x: -7, y: -5.5}
+        - {x: -21, y: 4.5}
+        - {x: -21, y: -18.5}
+        - {x: -24, y: -29.499998}
+        - {x: -24, y: -38.5}
+        - {x: -14, y: -49.499996}
+        - {x: 4, y: -59.499996}
+        - {x: 22, y: -59.499996}
+        - {x: 37, y: -56.5}
+        - {x: 42, y: -48.5}
+        - {x: 50, y: -32.5}
+        - {x: 50, y: -23.5}
+      - - {x: 28, y: -11.499999}
+        - {x: 31, y: -10.5}
+        - {x: 29, y: -12.5}
+        - {x: 26, y: -13.499999}
+        - {x: 26.999998, y: -13.499999}
+      - - {x: 9, y: -9.5}
+        - {x: 6, y: -5.5}
+        - {x: 6, y: -0.5}
+        - {x: 7, y: -2.4999998}
+        - {x: 7, y: -4.5}
+        - {x: 8, y: -5.5}
+        - {x: 9, y: -10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752d93e0c96b4688a6bccd64be148379
+      internalID: 21300100
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Petted0030
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 868
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 48.999996, y: -20.5}
+        - {x: 42.999996, y: -17.5}
+        - {x: 42.999996, y: -3.5}
+        - {x: 37, y: 3.5}
+        - {x: 21, y: 10.5}
+        - {x: -1, y: 10.5}
+        - {x: -6, y: 2.4999998}
+        - {x: -7, y: -5.5}
+        - {x: -21, y: 4.5}
+        - {x: -21, y: -18.5}
+        - {x: -24, y: -29.499998}
+        - {x: -24, y: -38.5}
+        - {x: -14, y: -49.499996}
+        - {x: 4, y: -59.499996}
+        - {x: 22, y: -59.499996}
+        - {x: 37, y: -56.5}
+        - {x: 42, y: -48.5}
+        - {x: 50, y: -32.5}
+        - {x: 50, y: -23.5}
+      - - {x: 28, y: -11.499999}
+        - {x: 31, y: -10.5}
+        - {x: 29, y: -12.5}
+        - {x: 26, y: -13.499999}
+        - {x: 26.999998, y: -13.499999}
+      - - {x: 9, y: -9.5}
+        - {x: 6, y: -5.5}
+        - {x: 6, y: -0.5}
+        - {x: 7, y: -2.4999998}
+        - {x: 7, y: -4.5}
+        - {x: 8, y: -5.5}
+        - {x: 9, y: -10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa7ab53c27148079b92b0ef93f4a9e6
+      internalID: 21300102
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Petted0022
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 868
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 16, y: -10.5}
+        - {x: 24, y: 4.5}
+        - {x: 7, y: 4.5}
+        - {x: 1, y: 10.5}
+        - {x: -11, y: 10.5}
+        - {x: -18, y: 7.4999995}
+        - {x: -42, y: -1.5}
+        - {x: -44, y: -7.4999995}
+        - {x: -45, y: -12.5}
+        - {x: -50, y: -27.5}
+        - {x: -50, y: -32.5}
+        - {x: -45, y: -35.5}
+        - {x: -36, y: -48.5}
+        - {x: -29, y: -58.499996}
+        - {x: -9, y: -58.499996}
+        - {x: 4.9999995, y: -56.5}
+        - {x: 16, y: -48.5}
+        - {x: 26, y: -34.5}
+        - {x: 26, y: -17.5}
+      - - {x: -28, y: -14.5}
+        - {x: -33, y: -11.499999}
+        - {x: -29.999998, y: -11.499999}
+        - {x: -22.999998, y: -16.5}
+        - {x: -25, y: -14.5}
+      - - {x: -9, y: -2.4999998}
+        - {x: -8, y: -0.5}
+        - {x: -8, y: -3.5}
+        - {x: -9.999999, y: -6.5}
+        - {x: -9, y: -6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d2e0b2e7d24d11a73b30a8b693ffcb
+      internalID: 21300104
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Petted0040
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 868
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 52, y: -32.5}
+        - {x: 52, y: -18.5}
+        - {x: 51, y: -17.5}
+        - {x: 45, y: -0.5}
+        - {x: 28, y: 0.5}
+        - {x: 14.999999, y: 11.499999}
+        - {x: 4.9999995, y: 11.499999}
+        - {x: 2, y: 9.5}
+        - {x: -14, y: 3.5}
+        - {x: -17, y: -3.5}
+        - {x: -22, y: -20.5}
+        - {x: -22, y: -37.5}
+        - {x: -3, y: -57.5}
+        - {x: 7, y: -58.499996}
+        - {x: 31, y: -58.499996}
+        - {x: 37, y: -57.5}
+        - {x: 44, y: -45.5}
+        - {x: 44, y: -38.5}
+      - - {x: 33, y: -12.5}
+        - {x: 35, y: -12.5}
+        - {x: 34, y: -13.499999}
+        - {x: 29.999998, y: -14.5}
+      - - {x: 11, y: -5.5}
+        - {x: 9.999999, y: -1.5}
+        - {x: 11, y: -0.5}
+        - {x: 11, y: 0.5}
+        - {x: 11, y: -2.4999998}
+        - {x: 12, y: -3.5}
+        - {x: 13, y: -11.499999}
+        - {x: 14, y: -10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e6818d5a5b459e95bd4f2047c07ce4
+      internalID: 21300106
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Walk0001
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 711
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 33, y: 34.5}
+        - {x: 9.999999, y: 34.5}
+        - {x: -2, y: 29.499998}
+        - {x: -14, y: 34.5}
+        - {x: -16, y: 34.5}
+        - {x: -31, y: 32.5}
+        - {x: -35, y: 26.499998}
+        - {x: -35, y: -3.5}
+        - {x: -32, y: -10.5}
+        - {x: -21, y: -20.5}
+        - {x: 16, y: -20.5}
+        - {x: 33, y: -7.4999995}
+        - {x: 36, y: 4.5}
+        - {x: 36, y: 31.5}
+      - - {x: -21, y: 24.499998}
+        - {x: -19, y: 24.499998}
+        - {x: -18, y: 23.5}
+        - {x: -13, y: 22.5}
+        - {x: -11, y: 21.499998}
+        - {x: -16, y: 22.5}
+        - {x: -17, y: 23.5}
+      - - {x: 22, y: 25.5}
+        - {x: 22, y: 26.499998}
+        - {x: 19, y: 25.5}
+        - {x: 14, y: 23.5}
+        - {x: 14.999999, y: 22.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5301465ec2404facf211508acbbb9a
+      internalID: 21300108
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Petted0015
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 868
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 52, y: -32.5}
+        - {x: 52, y: -18.5}
+        - {x: 51, y: -17.5}
+        - {x: 45, y: -0.5}
+        - {x: 28, y: 0.5}
+        - {x: 14.999999, y: 11.499999}
+        - {x: 4.9999995, y: 11.499999}
+        - {x: 2, y: 9.5}
+        - {x: -14, y: 3.5}
+        - {x: -17, y: -3.5}
+        - {x: -22, y: -20.5}
+        - {x: -22, y: -37.5}
+        - {x: -3, y: -57.5}
+        - {x: 7, y: -58.499996}
+        - {x: 31, y: -58.499996}
+        - {x: 37, y: -57.5}
+        - {x: 44, y: -45.5}
+        - {x: 44, y: -38.5}
+      - - {x: 33, y: -12.5}
+        - {x: 35, y: -12.5}
+        - {x: 34, y: -13.499999}
+        - {x: 29.999998, y: -14.5}
+      - - {x: 11, y: -5.5}
+        - {x: 9.999999, y: -1.5}
+        - {x: 11, y: -0.5}
+        - {x: 11, y: 0.5}
+        - {x: 11, y: -2.4999998}
+        - {x: 12, y: -3.5}
+        - {x: 13, y: -11.499999}
+        - {x: 14, y: -10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87dd6023126544dfab342d12b78ce13c
+      internalID: 21300110
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Petted0031
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 868
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 32, y: -20.5}
+        - {x: 36, y: -14.5}
+        - {x: 36, y: -5.5}
+        - {x: 22, y: 2.4999998}
+        - {x: 1, y: 2.4999998}
+        - {x: -4, y: -2.4999998}
+        - {x: -13, y: -1.5}
+        - {x: -26.999998, y: -0.5}
+        - {x: -33, y: -5.5}
+        - {x: -44, y: -19.5}
+        - {x: -45, y: -21.499998}
+        - {x: -45, y: -30.5}
+        - {x: -31, y: -54.5}
+        - {x: -22, y: -57.5}
+        - {x: 14, y: -57.5}
+        - {x: 28, y: -50.5}
+        - {x: 36, y: -40.5}
+        - {x: 36, y: -28.5}
+      - - {x: -18, y: -14.5}
+        - {x: -22, y: -11.499999}
+        - {x: -19.999998, y: -11.499999}
+        - {x: -16, y: -14.5}
+        - {x: -16, y: -15.5}
+        - {x: -14, y: -17.5}
+        - {x: -14.999999, y: -15.5}
+      - - {x: 6, y: -8.5}
+        - {x: 8, y: -7.4999995}
+        - {x: 4, y: -11.499999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4bd034faed404e86ab19c48c9dbb8a
+      internalID: 21300112
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Petted0045
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 397
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 24, y: -18.5}
+        - {x: 29.999998, y: -5.5}
+        - {x: 18, y: -3.5}
+        - {x: 8, y: 5.5}
+        - {x: -3, y: 5.5}
+        - {x: -9.999999, y: 0.5}
+        - {x: -34, y: 1.5}
+        - {x: -38, y: -14.5}
+        - {x: -44, y: -20.5}
+        - {x: -45, y: -23.5}
+        - {x: -45, y: -34.5}
+        - {x: -36, y: -45.5}
+        - {x: -29.999998, y: -57.5}
+        - {x: 8, y: -57.5}
+        - {x: 22.999998, y: -47.5}
+        - {x: 31, y: -38.5}
+        - {x: 31, y: -25.5}
+      - - {x: -22.999998, y: -13.499999}
+        - {x: -25, y: -11.499999}
+        - {x: -24, y: -10.5}
+        - {x: -19, y: -15.5}
+        - {x: -18, y: -15.5}
+        - {x: -19, y: -14.5}
+      - - {x: 2, y: -4.5}
+        - {x: 1, y: -7.4999995}
+        - {x: -1, y: -8.5}
+        - {x: -1, y: -9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e844b25c6247da9f393339a44a7bda
+      internalID: 21300114
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Petted0010
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 868
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 16, y: -10.5}
+        - {x: 24, y: 4.5}
+        - {x: 7, y: 4.5}
+        - {x: 1, y: 10.5}
+        - {x: -11, y: 10.5}
+        - {x: -18, y: 7.4999995}
+        - {x: -42, y: -1.5}
+        - {x: -44, y: -7.4999995}
+        - {x: -45, y: -12.5}
+        - {x: -50, y: -27.5}
+        - {x: -50, y: -32.5}
+        - {x: -45, y: -35.5}
+        - {x: -36, y: -48.5}
+        - {x: -29, y: -58.499996}
+        - {x: -9, y: -58.499996}
+        - {x: 4.9999995, y: -56.5}
+        - {x: 16, y: -48.5}
+        - {x: 26, y: -34.5}
+        - {x: 26, y: -17.5}
+      - - {x: -28, y: -14.5}
+        - {x: -33, y: -11.499999}
+        - {x: -29.999998, y: -11.499999}
+        - {x: -22.999998, y: -16.5}
+        - {x: -25, y: -14.5}
+      - - {x: -9, y: -2.4999998}
+        - {x: -8, y: -0.5}
+        - {x: -8, y: -3.5}
+        - {x: -9.999999, y: -6.5}
+        - {x: -9, y: -6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ad8adf962c4be0b4c2f4836067f6fc
+      internalID: 21300116
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Sad
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 83
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 31, y: -57.5}
+        - {x: 39.999996, y: -68.5}
+        - {x: 51, y: -65.5}
+        - {x: 50, y: -59.499996}
+        - {x: 47, y: -55.5}
+        - {x: 45, y: -55.5}
+        - {x: 51, y: -52.499996}
+        - {x: 52, y: -49.499996}
+        - {x: 52, y: -52.499996}
+        - {x: 55, y: -60.499996}
+        - {x: 76, y: -58.499996}
+        - {x: 78, y: -42.5}
+        - {x: 78, y: -33.499996}
+        - {x: 75, y: -31.5}
+        - {x: 45.999996, y: -27.5}
+        - {x: 4.9999995, y: -24.499998}
+        - {x: -14.999999, y: -24.499998}
+        - {x: -32, y: -30.5}
+        - {x: -62, y: -36.499996}
+        - {x: -69, y: -44.5}
+        - {x: -69, y: -48.5}
+        - {x: -66.99999, y: -53.499996}
+        - {x: -62, y: -67.5}
+        - {x: -53.999996, y: -72.5}
+        - {x: -37, y: -74.5}
+        - {x: -6, y: -74.5}
+        - {x: 4, y: -71.5}
+        - {x: 1, y: -63.5}
+        - {x: 25, y: -62.5}
+      - - {x: -34, y: -64.5}
+        - {x: -29.999998, y: -61.5}
+        - {x: -26.999998, y: -61.5}
+        - {x: -26.999998, y: -62.5}
+        - {x: -39.999996, y: -63.5}
+        - {x: -39, y: -64.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125142fa4c0e4adb8450b46046696660
+      internalID: 21300118
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Petted0014
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 868
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 42.999996, y: -16.5}
+        - {x: 31, y: -5.5}
+        - {x: 25, y: 0.5}
+        - {x: 8, y: -1.5}
+        - {x: 1, y: 0.5}
+        - {x: -18, y: 0.5}
+        - {x: -22.999998, y: -0.5}
+        - {x: -24, y: -12.5}
+        - {x: -21, y: -17.5}
+        - {x: -34, y: -13.499999}
+        - {x: -37, y: -16.5}
+        - {x: -37, y: -22.5}
+        - {x: -31, y: -46.5}
+        - {x: -28, y: -51.5}
+        - {x: -6, y: -60.499996}
+        - {x: 21, y: -60.499996}
+        - {x: 41, y: -51.5}
+        - {x: 41, y: -39.5}
+        - {x: 42.999996, y: -30.5}
+      - - {x: -7, y: -15.5}
+        - {x: -11, y: -10.5}
+        - {x: -12, y: -9.5}
+        - {x: -9.999999, y: -10.5}
+        - {x: -6, y: -15.5}
+        - {x: -4.9999995, y: -16.5}
+        - {x: -6, y: -15.5}
+      - - {x: 14, y: -14.5}
+        - {x: 17, y: -12.5}
+        - {x: 18, y: -11.499999}
+        - {x: 17, y: -13.499999}
+        - {x: 13, y: -14.5}
+        - {x: 12, y: -16.5}
+        - {x: 14, y: -15.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070a6a7988f44a3ba0f4a590b3170a74
+      internalID: 21300120
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_holidaycube_pet_coal_Petted0038
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 868
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -77.5}
+        - {x: -82, y: 77.5}
+        - {x: 82, y: 77.5}
+        - {x: 82, y: -77.5}
+      physicsShape:
+      - - {x: 42.999996, y: -16.5}
+        - {x: 31, y: -5.5}
+        - {x: 25, y: 0.5}
+        - {x: 8, y: -1.5}
+        - {x: 1, y: 0.5}
+        - {x: -18, y: 0.5}
+        - {x: -22.999998, y: -0.5}
+        - {x: -24, y: -12.5}
+        - {x: -21, y: -17.5}
+        - {x: -34, y: -13.499999}
+        - {x: -37, y: -16.5}
+        - {x: -37, y: -22.5}
+        - {x: -31, y: -46.5}
+        - {x: -28, y: -51.5}
+        - {x: -6, y: -60.499996}
+        - {x: 21, y: -60.499996}
+        - {x: 41, y: -51.5}
+        - {x: 41, y: -39.5}
+        - {x: 42.999996, y: -30.5}
+      - - {x: -7, y: -15.5}
+        - {x: -11, y: -10.5}
+        - {x: -12, y: -9.5}
+        - {x: -9.999999, y: -10.5}
+        - {x: -6, y: -15.5}
+        - {x: -4.9999995, y: -16.5}
+        - {x: -6, y: -15.5}
+      - - {x: 14, y: -14.5}
+        - {x: 17, y: -12.5}
+        - {x: 18, y: -11.499999}
+        - {x: 17, y: -13.499999}
+        - {x: 13, y: -14.5}
+        - {x: 12, y: -16.5}
+        - {x: 14, y: -15.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: da444bbc21bd4f9884d60cc989695737
+      internalID: 21300122
+      vertices:
+      - {x: 164, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 155}
+      - {x: 164, y: 155}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      2022_holidaycube_pet_coal_Idle: 21300094
+      2022_holidaycube_pet_coal_Petted0001: 21300026
+      2022_holidaycube_pet_coal_Petted0002: 21300060
+      2022_holidaycube_pet_coal_Petted0003: 21300028
+      2022_holidaycube_pet_coal_Petted0004: 21300072
+      2022_holidaycube_pet_coal_Petted0005: 21300016
+      2022_holidaycube_pet_coal_Petted0006: 21300084
+      2022_holidaycube_pet_coal_Petted0007: 21300054
+      2022_holidaycube_pet_coal_Petted0008: 21300074
+      2022_holidaycube_pet_coal_Petted0009: 21300010
+      2022_holidaycube_pet_coal_Petted0010: 21300116
+      2022_holidaycube_pet_coal_Petted0011: 21300040
+      2022_holidaycube_pet_coal_Petted0012: 21300070
+      2022_holidaycube_pet_coal_Petted0013: 21300042
+      2022_holidaycube_pet_coal_Petted0014: 21300120
+      2022_holidaycube_pet_coal_Petted0015: 21300110
+      2022_holidaycube_pet_coal_Petted0016: 21300032
+      2022_holidaycube_pet_coal_Petted0017: 21300100
+      2022_holidaycube_pet_coal_Petted0018: 21300034
+      2022_holidaycube_pet_coal_Petted0019: 21300050
+      2022_holidaycube_pet_coal_Petted0020: 21300004
+      2022_holidaycube_pet_coal_Petted0021: 21300092
+      2022_holidaycube_pet_coal_Petted0022: 21300104
+      2022_holidaycube_pet_coal_Petted0023: 21300038
+      2022_holidaycube_pet_coal_Petted0024: 21300046
+      2022_holidaycube_pet_coal_Petted0025: 21300066
+      2022_holidaycube_pet_coal_Petted0026: 21300098
+      2022_holidaycube_pet_coal_Petted0027: 21300006
+      2022_holidaycube_pet_coal_Petted0028: 21300018
+      2022_holidaycube_pet_coal_Petted0029: 21300044
+      2022_holidaycube_pet_coal_Petted0030: 21300102
+      2022_holidaycube_pet_coal_Petted0031: 21300112
+      2022_holidaycube_pet_coal_Petted0032: 21300014
+      2022_holidaycube_pet_coal_Petted0033: 21300076
+      2022_holidaycube_pet_coal_Petted0034: 21300024
+      2022_holidaycube_pet_coal_Petted0035: 21300090
+      2022_holidaycube_pet_coal_Petted0036: 21300058
+      2022_holidaycube_pet_coal_Petted0037: 21300020
+      2022_holidaycube_pet_coal_Petted0038: 21300122
+      2022_holidaycube_pet_coal_Petted0039: 21300008
+      2022_holidaycube_pet_coal_Petted0040: 21300106
+      2022_holidaycube_pet_coal_Petted0041: 21300086
+      2022_holidaycube_pet_coal_Petted0042: 21300088
+      2022_holidaycube_pet_coal_Petted0043: 21300048
+      2022_holidaycube_pet_coal_Petted0044: 21300002
+      2022_holidaycube_pet_coal_Petted0045: 21300114
+      2022_holidaycube_pet_coal_Petted0046: 21300052
+      2022_holidaycube_pet_coal_Petted0047: 21300000
+      2022_holidaycube_pet_coal_Petted0048: 21300096
+      2022_holidaycube_pet_coal_Sad: 21300118
+      2022_holidaycube_pet_coal_Scared0001: 21300022
+      2022_holidaycube_pet_coal_Scared0002: 21300064
+      2022_holidaycube_pet_coal_Scared0003: 21300068
+      2022_holidaycube_pet_coal_Scared0004: 21300012
+      2022_holidaycube_pet_coal_Walk0001: 21300108
+      2022_holidaycube_pet_coal_Walk0002: 21300082
+      2022_holidaycube_pet_coal_Walk0003: 21300030
+      2022_holidaycube_pet_coal_Walk0004: 21300080
+      2022_holidaycube_pet_coal_Walk0005: 21300056
+      2022_holidaycube_pet_coal_Walk0006: 21300062
+      2022_holidaycube_pet_coal_Walk0007: 21300078
+      2022_holidaycube_pet_coal_Walk0008: 21300036
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

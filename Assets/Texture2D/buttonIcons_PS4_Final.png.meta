@@ -1,0 +1,1089 @@
+fileFormatVersion: 2
+guid: 137e54530063e4a428c6f332441af742
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: buttonIcons_PS4_Final_5
+  - first:
+      213: 21300002
+    second: buttonIcons_PS4_Final_2
+  - first:
+      213: 21300004
+    second: buttonIcons_PS4_Final_6
+  - first:
+      213: 21300006
+    second: buttonIcons_PS4_Final_13
+  - first:
+      213: 21300008
+    second: buttonIcons_PS4_Final_3
+  - first:
+      213: 21300010
+    second: buttonIcons_PS4_Final_14
+  - first:
+      213: 21300012
+    second: buttonIcons_PS4_Final_9
+  - first:
+      213: 21300014
+    second: buttonIcons_PS4_Final_15
+  - first:
+      213: 21300016
+    second: buttonIcons_PS4_Final_17
+  - first:
+      213: 21300018
+    second: buttonIcons_PS4_Final_19
+  - first:
+      213: 21300020
+    second: buttonIcons_PS4_Final_12
+  - first:
+      213: 21300022
+    second: buttonIcons_PS4_Final_1
+  - first:
+      213: 21300024
+    second: buttonIcons_PS4_Final_4
+  - first:
+      213: 21300026
+    second: buttonIcons_PS4_Final_11
+  - first:
+      213: 21300028
+    second: buttonIcons_PS4_Final_18
+  - first:
+      213: 21300030
+    second: buttonIcons_PS4_Final_10
+  - first:
+      213: 21300032
+    second: buttonIcons_PS4_Final_0
+  - first:
+      213: 21300034
+    second: buttonIcons_PS4_Final_7
+  - first:
+      213: 21300036
+    second: buttonIcons_PS4_Final_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: buttonIcons_PS4_Final_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 166
+        width: 66
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 15, y: -33.5}
+        - {x: -33, y: -33.5}
+        - {x: -33, y: 16.5}
+        - {x: -24, y: 33.5}
+        - {x: 10, y: 33.5}
+        - {x: 13, y: 30.5}
+        - {x: 29, y: 13.5}
+        - {x: 33, y: 9.5}
+        - {x: 33, y: -22.5}
+      physicsShape:
+      - - {x: -16, y: 33.5}
+        - {x: -33, y: 15.500001}
+        - {x: -33, y: -10.500001}
+        - {x: -29, y: -14.5}
+        - {x: -15, y: -33.5}
+        - {x: 14.000001, y: -33.5}
+        - {x: 33, y: -15.500001}
+        - {x: 33, y: 15.500001}
+        - {x: 16, y: 33.5}
+      - - {x: -1, y: 0.5}
+        - {x: -1, y: -0.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3d6b3d56b348db9e8b4c436dfe7f84
+      internalID: 21300000
+      vertices:
+      - {x: 62, y: 47}
+      - {x: 66, y: 11}
+      - {x: 66, y: 43}
+      - {x: 48, y: 0}
+      - {x: 46, y: 64}
+      - {x: 43, y: 67}
+      - {x: 9, y: 67}
+      - {x: 0, y: 50}
+      - {x: 0, y: 0}
+      indices: 080000000700000003000000060000000300000007000000050000000300000006000000040000000300000005000000000000000300000004000000010000000300000000000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_PS4_Final_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 247
+        width: 65
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -19.5, y: -32.5}
+        - {x: -32.5, y: -21.5}
+        - {x: -32.5, y: 19.5}
+        - {x: -20.5, y: 32.5}
+        - {x: 21.5, y: 32.5}
+        - {x: 32.5, y: 15.5}
+        - {x: 32.5, y: -17.5}
+        - {x: 31.499998, y: -22.5}
+        - {x: 15.5, y: -32.5}
+      physicsShape:
+      - - {x: -26.500002, y: 32.5}
+        - {x: -32.5, y: 24.500002}
+        - {x: -32.5, y: -21.5}
+        - {x: -18.5, y: -32.5}
+        - {x: 16.5, y: -32.5}
+        - {x: 21.5, y: -31.500002}
+        - {x: 32.5, y: -13.500001}
+        - {x: 32.5, y: 26.500002}
+        - {x: 19.500002, y: 32.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3852f86981464e8f8339ab935f3ecb36
+      internalID: 21300002
+      vertices:
+      - {x: 65, y: 48}
+      - {x: 64, y: 10}
+      - {x: 65, y: 15}
+      - {x: 54, y: 65}
+      - {x: 48, y: 0}
+      - {x: 13, y: 0}
+      - {x: 12, y: 65}
+      - {x: 0, y: 52}
+      - {x: 0, y: 11}
+      indices: 080000000700000005000000060000000500000007000000030000000500000006000000040000000500000003000000010000000400000003000000000000000100000003000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_PS4_Final_6
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 166
+        width: 66
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -17, y: -33.5}
+        - {x: -33, y: -16.5}
+        - {x: -33, y: 11.5}
+        - {x: -11, y: 33.5}
+        - {x: 26, y: 33.5}
+        - {x: 33, y: 21.5}
+        - {x: 33, y: -28.5}
+        - {x: 23, y: -33.5}
+      physicsShape:
+      - - {x: -15, y: 33.5}
+        - {x: -33, y: 17.500002}
+        - {x: -33, y: -16.5}
+        - {x: -17.000002, y: -32.5}
+        - {x: -14.000001, y: -33.5}
+        - {x: 18, y: -33.5}
+        - {x: 33, y: -16.5}
+        - {x: 33, y: 16.5}
+        - {x: 17.000002, y: 33.5}
+      - - {x: 0, y: 0.5}
+        - {x: 0, y: -0.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6c5a76dd804fb5985446f412a487cc
+      internalID: 21300004
+      vertices:
+      - {x: 59, y: 67}
+      - {x: 66, y: 5}
+      - {x: 66, y: 55}
+      - {x: 56, y: 0}
+      - {x: 22, y: 67}
+      - {x: 16, y: 0}
+      - {x: 0, y: 45}
+      - {x: 0, y: 17}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_PS4_Final_13
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 97
+        width: 78
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 39, y: -23}
+        - {x: -39, y: -23}
+        - {x: -39, y: 15}
+        - {x: -34, y: 23}
+        - {x: 31, y: 23}
+        - {x: 37, y: 17}
+        - {x: 39, y: 14}
+      physicsShape:
+      - - {x: -34.000004, y: 23.000002}
+        - {x: -39.000004, y: 16}
+        - {x: -39.000004, y: -23.000002}
+        - {x: 39.000004, y: -23.000002}
+        - {x: 39.000004, y: 14.000001}
+        - {x: 34.000004, y: 23.000002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9981075802394afab5ef246abc4c8c8d
+      internalID: 21300006
+      vertices:
+      - {x: 76, y: 40}
+      - {x: 78, y: 0}
+      - {x: 78, y: 37}
+      - {x: 70, y: 46}
+      - {x: 5, y: 46}
+      - {x: 0, y: 38}
+      - {x: 0, y: 0}
+      indices: 060000000500000001000000040000000100000005000000030000000100000004000000000000000100000003000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_PS4_Final_3
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 247
+        width: 65
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -28.5, y: -32.5}
+        - {x: -32.5, y: -22.5}
+        - {x: -32.5, y: 30.5}
+        - {x: -24.5, y: 32.5}
+        - {x: 21.5, y: 32.5}
+        - {x: 32.5, y: 16.5}
+        - {x: 32.5, y: -15.5}
+        - {x: 30.5, y: -21.5}
+        - {x: 18.5, y: -32.5}
+      physicsShape:
+      - - {x: 15.500001, y: 32.5}
+        - {x: -20.500002, y: 32.5}
+        - {x: -32.5, y: 26.500002}
+        - {x: -32.5, y: -31.500002}
+        - {x: -30.500004, y: -32.5}
+        - {x: 20.500002, y: -32.5}
+        - {x: 32.5, y: -28.500002}
+        - {x: 32.5, y: 15.500001}
+        - {x: 22.500002, y: 31.500002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64742858435c4030bc7b25471adaa5a4
+      internalID: 21300008
+      vertices:
+      - {x: 65, y: 49}
+      - {x: 63, y: 11}
+      - {x: 65, y: 17}
+      - {x: 54, y: 65}
+      - {x: 51, y: 0}
+      - {x: 8, y: 65}
+      - {x: 4, y: 0}
+      - {x: 0, y: 63}
+      - {x: 0, y: 10}
+      indices: 080000000700000006000000050000000600000007000000040000000600000005000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_PS4_Final_14
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 72
+        width: 65
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -29.5, y: -38.5}
+        - {x: -32.5, y: -26.5}
+        - {x: -32.5, y: 36.5}
+        - {x: -31.499998, y: 38.5}
+        - {x: 32.5, y: 38.5}
+        - {x: 32.5, y: -26.5}
+        - {x: 22.5, y: -36.5}
+        - {x: 18.5, y: -38.5}
+      physicsShape:
+      - - {x: 22.500002, y: 28.500002}
+        - {x: 12.500001, y: 38.500004}
+        - {x: -19.500002, y: 38.500004}
+        - {x: -26.500002, y: 37.500004}
+        - {x: -32.5, y: 18.5}
+        - {x: -32.5, y: -25.5}
+        - {x: -17.500002, y: -38.500004}
+        - {x: 16.5, y: -38.500004}
+        - {x: 31.500002, y: -28.500002}
+        - {x: 32.5, y: -24.500002}
+        - {x: 32.5, y: 13.500001}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b420d96bcf9d4964b80cdc876a07d293
+      internalID: 21300010
+      vertices:
+      - {x: 65, y: 77}
+      - {x: 55, y: 2}
+      - {x: 65, y: 12}
+      - {x: 51, y: 0}
+      - {x: 3, y: 0}
+      - {x: 1.0000019, y: 77}
+      - {x: 0, y: 75}
+      - {x: 0, y: 12}
+      indices: 070000000600000004000000050000000400000006000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_PS4_Final_9
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 164
+        width: 66
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -24, y: -33.5}
+        - {x: -33, y: -18.5}
+        - {x: -33, y: 31.499998}
+        - {x: -28, y: 33.5}
+        - {x: 24, y: 33.5}
+        - {x: 32, y: 16.5}
+        - {x: 33, y: 12.5}
+        - {x: 33, y: -20.5}
+        - {x: 18, y: -33.5}
+      physicsShape:
+      - - {x: -15, y: 33.5}
+        - {x: -33, y: 17.500002}
+        - {x: -33, y: -16.5}
+        - {x: -17.000002, y: -32.5}
+        - {x: -14.000001, y: -33.5}
+        - {x: 18, y: -33.5}
+        - {x: 33, y: -16.5}
+        - {x: 33, y: 16.5}
+        - {x: 17.000002, y: 33.5}
+      - - {x: 0, y: 0.5}
+        - {x: 0, y: -0.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2833474fc6804761b48aafc3304b0341
+      internalID: 21300012
+      vertices:
+      - {x: 65, y: 50}
+      - {x: 66, y: 13}
+      - {x: 66, y: 46}
+      - {x: 57, y: 67}
+      - {x: 51, y: 0}
+      - {x: 9, y: 0}
+      - {x: 5, y: 67}
+      - {x: 0, y: 65}
+      - {x: 0, y: 15}
+      indices: 080000000700000005000000060000000500000007000000030000000500000006000000040000000500000003000000010000000400000003000000000000000100000003000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_PS4_Final_15
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 72
+        width: 65
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -29.5, y: -38.5}
+        - {x: -32.5, y: -26.5}
+        - {x: -32.5, y: 36.5}
+        - {x: -31.499998, y: 38.5}
+        - {x: 32.5, y: 38.5}
+        - {x: 32.5, y: -26.5}
+        - {x: 22.5, y: -36.5}
+        - {x: 18.5, y: -38.5}
+      physicsShape:
+      - - {x: 22.500002, y: 28.500002}
+        - {x: 12.500001, y: 38.500004}
+        - {x: -19.500002, y: 38.500004}
+        - {x: -26.500002, y: 37.500004}
+        - {x: -32.5, y: 18.5}
+        - {x: -32.5, y: -25.5}
+        - {x: -17.500002, y: -38.500004}
+        - {x: 16.5, y: -38.500004}
+        - {x: 31.500002, y: -28.500002}
+        - {x: 32.5, y: -24.500002}
+        - {x: 32.5, y: 13.500001}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842f5292e1b64d2ca8f4c4c6d1ab6704
+      internalID: 21300014
+      vertices:
+      - {x: 65, y: 77}
+      - {x: 55, y: 2}
+      - {x: 65, y: 12}
+      - {x: 51, y: 0}
+      - {x: 3, y: 0}
+      - {x: 1.0000019, y: 77}
+      - {x: 0, y: 75}
+      - {x: 0, y: 12}
+      indices: 070000000600000004000000050000000400000006000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_PS4_Final_17
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 8
+        width: 65
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -25.5, y: -32.5}
+        - {x: -32.5, y: -23.5}
+        - {x: -32.5, y: 22.5}
+        - {x: -24.5, y: 32.5}
+        - {x: 21.5, y: 32.5}
+        - {x: 32.5, y: 29.5}
+        - {x: 32.5, y: -28.5}
+        - {x: 21.5, y: -32.5}
+      physicsShape:
+      - - {x: -21.5, y: 32.5}
+        - {x: -32.5, y: 21.5}
+        - {x: -32.5, y: -27.5}
+        - {x: -18.5, y: -32.5}
+        - {x: 29.500002, y: -32.5}
+        - {x: 32.5, y: -28.500002}
+        - {x: 32.5, y: 23.5}
+        - {x: 29.500002, y: 32.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8762bcc6e24c20b4cc64feefb8b2b1
+      internalID: 21300016
+      vertices:
+      - {x: 54, y: 65}
+      - {x: 65, y: 4}
+      - {x: 65, y: 62}
+      - {x: 54, y: 0}
+      - {x: 8, y: 65}
+      - {x: 7, y: 0}
+      - {x: 0, y: 55}
+      - {x: 0, y: 9}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_PS4_Final_19
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 35
+        width: 77
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 38.5, y: -22.5}
+        - {x: -38.5, y: -22.5}
+        - {x: -38.5, y: 15.5}
+        - {x: -32.5, y: 22.5}
+        - {x: 32.5, y: 22.5}
+        - {x: 38.5, y: 16.5}
+      physicsShape:
+      - - {x: -31.500002, y: 22.500002}
+        - {x: -38.500004, y: 15.500001}
+        - {x: -38.500004, y: -22.500002}
+        - {x: 38.500004, y: -22.500002}
+        - {x: 38.500004, y: 16.5}
+        - {x: 32.5, y: 22.500002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e167fe803b1d472396d28ef12296a5a7
+      internalID: 21300018
+      vertices:
+      - {x: 71, y: 45}
+      - {x: 77, y: 0}
+      - {x: 77, y: 39}
+      - {x: 6, y: 45}
+      - {x: 0, y: 38}
+      - {x: 0, y: 0}
+      indices: 050000000400000001000000030000000100000004000000000000000100000003000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_PS4_Final_12
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 97
+        width: 77
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -34.5, y: -22.5}
+        - {x: -38.5, y: -13.5}
+        - {x: -38.5, y: 22.5}
+        - {x: 38.5, y: 22.5}
+        - {x: 38.5, y: -13.5}
+        - {x: 36.5, y: -16.5}
+        - {x: 31.499998, y: -22.5}
+      physicsShape:
+      - - {x: -38.500004, y: 22.500002}
+        - {x: -38.500004, y: -16.5}
+        - {x: -29.500002, y: -22.500002}
+        - {x: 32.5, y: -22.500002}
+        - {x: 38.500004, y: -13.500001}
+        - {x: 38.500004, y: 22.500002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b979b2eea7244c19a023df9452f40749
+      internalID: 21300020
+      vertices:
+      - {x: 77, y: 45}
+      - {x: 75, y: 6}
+      - {x: 77, y: 9}
+      - {x: 70, y: 0}
+      - {x: 4, y: 0}
+      - {x: 0, y: 45}
+      - {x: 0, y: 9}
+      indices: 060000000500000004000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_PS4_Final_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 247
+        width: 65
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -28.5, y: -32.5}
+        - {x: -32.5, y: -22.5}
+        - {x: -32.5, y: 30.5}
+        - {x: -24.5, y: 32.5}
+        - {x: 21.5, y: 32.5}
+        - {x: 32.5, y: 16.5}
+        - {x: 32.5, y: -15.5}
+        - {x: 30.5, y: -21.5}
+        - {x: 18.5, y: -32.5}
+      physicsShape:
+      - - {x: 15.500001, y: 32.5}
+        - {x: -20.500002, y: 32.5}
+        - {x: -32.5, y: 26.500002}
+        - {x: -32.5, y: -31.500002}
+        - {x: -30.500004, y: -32.5}
+        - {x: 20.500002, y: -32.5}
+        - {x: 32.5, y: -28.500002}
+        - {x: 32.5, y: 15.500001}
+        - {x: 22.500002, y: 31.500002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f01fc29771f420c96cba6e609e39501
+      internalID: 21300022
+      vertices:
+      - {x: 65, y: 49}
+      - {x: 63, y: 11}
+      - {x: 65, y: 17}
+      - {x: 54, y: 65}
+      - {x: 51, y: 0}
+      - {x: 8, y: 65}
+      - {x: 4, y: 0}
+      - {x: 0, y: 63}
+      - {x: 0, y: 10}
+      indices: 080000000700000006000000050000000600000007000000040000000600000005000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_PS4_Final_4
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 247
+        width: 84
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -41, y: -32.5}
+        - {x: -42, y: -30.5}
+        - {x: -42, y: 32.5}
+        - {x: 42, y: 32.5}
+        - {x: 42, y: -32.5}
+      physicsShape:
+      - - {x: -36, y: 32.5}
+        - {x: -42.000004, y: 24.500002}
+        - {x: -42.000004, y: -26.500002}
+        - {x: -37, y: -32.5}
+        - {x: 42.000004, y: -32.5}
+        - {x: 42.000004, y: 32.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c8fb89963c495ca8e389e3b5df07ae
+      internalID: 21300024
+      vertices:
+      - {x: 84, y: 65}
+      - {x: 1, y: 0}
+      - {x: 84, y: 0}
+      - {x: 0, y: 65}
+      - {x: 0, y: 2}
+      indices: 040000000300000001000000000000000100000003000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_PS4_Final_11
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 87
+        width: 65
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -25.5, y: -32.5}
+        - {x: -32.5, y: -23.5}
+        - {x: -32.5, y: 22.5}
+        - {x: -24.5, y: 32.5}
+        - {x: 21.5, y: 32.5}
+        - {x: 32.5, y: 29.5}
+        - {x: 32.5, y: -28.5}
+        - {x: 21.5, y: -32.5}
+      physicsShape:
+      - - {x: -21.5, y: 32.5}
+        - {x: -32.5, y: 21.5}
+        - {x: -32.5, y: -27.5}
+        - {x: -18.5, y: -32.5}
+        - {x: 29.500002, y: -32.5}
+        - {x: 32.5, y: -28.500002}
+        - {x: 32.5, y: 23.5}
+        - {x: 29.500002, y: 32.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b068990c2b48e38bfd4a107891a77e
+      internalID: 21300026
+      vertices:
+      - {x: 54, y: 65}
+      - {x: 65, y: 4}
+      - {x: 65, y: 62}
+      - {x: 54, y: 0}
+      - {x: 8, y: 65}
+      - {x: 7, y: 0}
+      - {x: 0, y: 55}
+      - {x: 0, y: 9}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_PS4_Final_18
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 35
+        width: 77
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -37.5, y: -22.5}
+        - {x: -38.5, y: -20.5}
+        - {x: -38.5, y: 22.5}
+        - {x: 38.5, y: 22.5}
+        - {x: 38.5, y: -22.5}
+      physicsShape:
+      - - {x: -38.500004, y: 22.500002}
+        - {x: -38.500004, y: -20.500002}
+        - {x: -32.5, y: -22.500002}
+        - {x: 32.5, y: -22.500002}
+        - {x: 38.500004, y: -14.5}
+        - {x: 38.500004, y: 22.500002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56b702844f54fa79d61528aa0f33063
+      internalID: 21300028
+      vertices:
+      - {x: 77, y: 45}
+      - {x: 1, y: 0}
+      - {x: 77, y: 0}
+      - {x: 0, y: 45}
+      - {x: 0, y: 2}
+      indices: 040000000300000001000000000000000100000003000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_PS4_Final_10
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 158
+        width: 60
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -29, y: 19.5}
+        - {x: -30, y: 21.5}
+        - {x: -30, y: 36.5}
+        - {x: 30, y: 36.5}
+        - {x: 30, y: 13.5}
+        - {x: 22, y: -32.5}
+        - {x: 17, y: -36.5}
+        - {x: -18, y: -36.5}
+        - {x: -22, y: -31.499998}
+      physicsShape:
+      - - {x: -30, y: 36.5}
+        - {x: -30, y: 5.5}
+        - {x: -21.000002, y: -36.5}
+        - {x: 22, y: -36.5}
+        - {x: 30, y: 10.500001}
+        - {x: 30, y: 36.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1028e6a65b04625aba6dee7bfd7d2c3
+      internalID: 21300030
+      vertices:
+      - {x: 60, y: 73}
+      - {x: 52, y: 4}
+      - {x: 60, y: 50}
+      - {x: 47, y: 0}
+      - {x: 12, y: 0}
+      - {x: 8, y: 5.000002}
+      - {x: 1, y: 56}
+      - {x: 0, y: 73}
+      - {x: 0, y: 58}
+      indices: 080000000700000006000000000000000600000007000000050000000600000000000000040000000500000000000000030000000400000000000000010000000300000000000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_PS4_Final_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 247
+        width: 65
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -28.5, y: -32.5}
+        - {x: -32.5, y: -22.5}
+        - {x: -32.5, y: 30.5}
+        - {x: -24.5, y: 32.5}
+        - {x: 21.5, y: 32.5}
+        - {x: 32.5, y: 16.5}
+        - {x: 32.5, y: -15.5}
+        - {x: 30.5, y: -21.5}
+        - {x: 18.5, y: -32.5}
+      physicsShape:
+      - - {x: 15.500001, y: 32.5}
+        - {x: -20.500002, y: 32.5}
+        - {x: -32.5, y: 26.500002}
+        - {x: -32.5, y: -31.500002}
+        - {x: -30.500004, y: -32.5}
+        - {x: 20.500002, y: -32.5}
+        - {x: 32.5, y: -28.500002}
+        - {x: 32.5, y: 15.500001}
+        - {x: 22.500002, y: 31.500002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ae50dc9e9044abafc45ed972616f6c
+      internalID: 21300032
+      vertices:
+      - {x: 65, y: 49}
+      - {x: 63, y: 11}
+      - {x: 65, y: 17}
+      - {x: 54, y: 65}
+      - {x: 51, y: 0}
+      - {x: 8, y: 65}
+      - {x: 4, y: 0}
+      - {x: 0, y: 63}
+      - {x: 0, y: 10}
+      indices: 080000000700000006000000050000000600000007000000040000000600000005000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_PS4_Final_7
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 166
+        width: 66
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -17, y: -33.5}
+        - {x: -33, y: -16.5}
+        - {x: -33, y: 11.5}
+        - {x: -11, y: 33.5}
+        - {x: 26, y: 33.5}
+        - {x: 33, y: 21.5}
+        - {x: 33, y: -28.5}
+        - {x: 23, y: -33.5}
+      physicsShape:
+      - - {x: -15, y: 33.5}
+        - {x: -33, y: 17.500002}
+        - {x: -33, y: -16.5}
+        - {x: -17.000002, y: -32.5}
+        - {x: -14.000001, y: -33.5}
+        - {x: 18, y: -33.5}
+        - {x: 33, y: -16.5}
+        - {x: 33, y: 16.5}
+        - {x: 17.000002, y: 33.5}
+      - - {x: 0, y: 0.5}
+        - {x: 0, y: -0.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83157dd1368540fe8643509cfc3d1b0e
+      internalID: 21300034
+      vertices:
+      - {x: 59, y: 67}
+      - {x: 66, y: 5}
+      - {x: 66, y: 55}
+      - {x: 56, y: 0}
+      - {x: 22, y: 67}
+      - {x: 16, y: 0}
+      - {x: 0, y: 45}
+      - {x: 0, y: 17}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_PS4_Final_8
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 165
+        width: 66
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -17, y: -33.5}
+        - {x: -33, y: -16.5}
+        - {x: -33, y: 11.5}
+        - {x: -11, y: 33.5}
+        - {x: 26, y: 33.5}
+        - {x: 33, y: 21.5}
+        - {x: 33, y: -28.5}
+        - {x: 23, y: -33.5}
+      physicsShape:
+      - - {x: -15, y: 33.5}
+        - {x: -33, y: 17.500002}
+        - {x: -33, y: -16.5}
+        - {x: -17.000002, y: -32.5}
+        - {x: -14.000001, y: -33.5}
+        - {x: 18, y: -33.5}
+        - {x: 33, y: -16.5}
+        - {x: 33, y: 16.5}
+        - {x: 17.000002, y: 33.5}
+      - - {x: 0, y: 0.5}
+        - {x: 0, y: -0.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d1d532e31d41e3b424440855df02f1
+      internalID: 21300036
+      vertices:
+      - {x: 59, y: 67}
+      - {x: 66, y: 5}
+      - {x: 66, y: 55}
+      - {x: 56, y: 0}
+      - {x: 22, y: 67}
+      - {x: 16, y: 0}
+      - {x: 0, y: 45}
+      - {x: 0, y: 17}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      buttonIcons_PS4_Final_0: 21300032
+      buttonIcons_PS4_Final_1: 21300022
+      buttonIcons_PS4_Final_10: 21300030
+      buttonIcons_PS4_Final_11: 21300026
+      buttonIcons_PS4_Final_12: 21300020
+      buttonIcons_PS4_Final_13: 21300006
+      buttonIcons_PS4_Final_14: 21300010
+      buttonIcons_PS4_Final_15: 21300014
+      buttonIcons_PS4_Final_17: 21300016
+      buttonIcons_PS4_Final_18: 21300028
+      buttonIcons_PS4_Final_19: 21300018
+      buttonIcons_PS4_Final_2: 21300002
+      buttonIcons_PS4_Final_3: 21300008
+      buttonIcons_PS4_Final_4: 21300024
+      buttonIcons_PS4_Final_5: 21300000
+      buttonIcons_PS4_Final_6: 21300004
+      buttonIcons_PS4_Final_7: 21300034
+      buttonIcons_PS4_Final_8: 21300036
+      buttonIcons_PS4_Final_9: 21300012
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

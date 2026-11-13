@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76eb9df635c330595e07af99be60e3f5, type: 3}
+  m_Name: Squig
+  m_EditorClassIdentifier:
+  unlockOnSelectPlatforms:
+  freeRedeemableCosmetic: 0
+  redeemPopUpColor: -1
+  epicId:
+  BundleId: pet_alien2
+  ProductId: pet_Squig
+  ChipOffset: {x: 0, y: 0}
+  beanCost: 0
+  starCost: 0
+  paidOnMobile: 0
+  limitedTime:
+    timeStart:
+      limitedYear: 0
+      limitedMonth: 0
+      limitedDay: 0
+      limitedHour: 0
+      limitedMinute: 0
+    timeEnd:
+      limitedYear: 0
+      limitedMonth: 0
+      limitedDay: 0
+      limitedHour: 0
+      limitedMinute: 0
+  displayOrder: 0
+  NotInStore: 0
+  Free: 0
+  PreviewData:
+    m_AssetGUID: 44a7fe40074220f4aaeef43ca364d536
+    m_SubObjectName:
+    m_SubObjectType:
+  PreviewCrewmateColor: 0
+  StoreName: 2217
+  PetPrefabRef:
+    m_AssetGUID: 610ffd122b215514ba523fc2c1154eee
+    m_SubObjectName:
+    m_SubObjectType:

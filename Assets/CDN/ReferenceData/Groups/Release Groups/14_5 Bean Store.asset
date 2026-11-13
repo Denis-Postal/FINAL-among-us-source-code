@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fbdf57f19df93d09b0c77f4c0195892, type: 3}
+  m_Name: 14_5 Bean Store
+  m_EditorClassIdentifier:
+  ids:
+  - hat_mushmuffsHat
+  - hat_shiitakeHat
+  - hat_shrapnelHat
+  - nameplate_binocularsNameplate
+  - nameplate_DeadSunsetNameplate
+  - skin_Skins14_5skin
+  - visor_animesunglassesVisor
+  - visor_heartsunglassesgoldVisor
+  - visor_mushroomeyesVisor
+  - visor_starsunglassesmintVisor
+  date: 2023-11-27

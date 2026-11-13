@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e65bf483b6b7de711829e639a4b9d308, type: 3}
+  m_Name: pk03_Security
+  m_EditorClassIdentifier:
+  unlockOnSelectPlatforms:
+  freeRedeemableCosmetic: 0
+  redeemPopUpColor: -1
+  epicId:
+  BundleId: map_mira
+  ProductId: hat_pk03_Security1
+  ChipOffset: {x: -0.1, y: 0.2}
+  beanCost: 0
+  starCost: 0
+  paidOnMobile: 0
+  limitedTime:
+    timeStart:
+      limitedYear: 0
+      limitedMonth: 0
+      limitedDay: 0
+      limitedHour: 0
+      limitedMinute: 0
+    timeEnd:
+      limitedYear: 0
+      limitedMonth: 0
+      limitedDay: 0
+      limitedHour: 0
+      limitedMinute: 0
+  displayOrder: 0
+  NotInStore: 0
+  Free: 0
+  PreviewData:
+    m_AssetGUID: 158f631ce83fd3e4c9d740b4bfa844b6
+    m_SubObjectName:
+    m_SubObjectType:
+  PreviewCrewmateColor: 0
+  ViewDataRef:
+    m_AssetGUID: 2c0e2b778d4754fce906402f1ac014d2
+    m_SubObjectName:
+    m_SubObjectType:
+  InFront: 1
+  NoBounce: 0
+  BlocksVisors: 0
+  StoreName:
+  RelatedSkin: {fileID: 11400000, guid: 14f4aeeb56a48634d88ff5e1868a4557, type: 2}

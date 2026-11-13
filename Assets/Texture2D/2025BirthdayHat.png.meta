@@ -1,0 +1,324 @@
+fileFormatVersion: 2
+guid: 21ca6e95531993543813f7c4596287fb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: 2025_birthday_beans_hat_bDayCake0003
+  - first:
+      213: 21300002
+    second: 2025_birthday_beans_hat_bDayCake0002
+  - first:
+      213: 21300004
+    second: 2025_birthday_beans_hat_bDayCake0001
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2025_birthday_beans_hat_bDayCake0003
+      rect:
+        serializedVersion: 2
+        x: 276.0761
+        y: 15
+        width: 97.89713
+        height: 115.948685
+      alignment: 9
+      pivot: {x: 0.33631107, y: -0.060371533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 52.975323, y: -21.974346}
+        - {x: 11.975323, y: -57.974342}
+        - {x: -46.024673, y: -57.974342}
+        - {x: -50.024677, y: 12.025658}
+        - {x: -31.024677, y: 58.025658}
+        - {x: 31.975323, y: 57.025658}
+      physicsShape:
+      - - {x: 40.975323, y: 8.02565}
+        - {x: 27.975323, y: 23.025658}
+        - {x: 39.975323, y: 39.025658}
+        - {x: 33.975323, y: 49.025658}
+        - {x: 11.975323, y: 44.025658}
+        - {x: -10.024677, y: 57.025658}
+        - {x: -24.024677, y: 57.025658}
+        - {x: -34.024677, y: 49.025658}
+        - {x: -48.024677, y: 12.025658}
+        - {x: -48.024677, y: -10.974346}
+        - {x: -45.024677, y: -34.974342}
+        - {x: -42.024677, y: -52.974342}
+        - {x: -36.024673, y: -57.974342}
+        - {x: 15.975323, y: -57.974342}
+        - {x: 44.975323, y: -35.974342}
+        - {x: 47.975323, y: -25.974342}
+        - {x: 47.975323, y: 1.0256577}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5848aa2fb55449c58df84869ed30a509
+      internalID: 21300000
+      vertices:
+      - {x: 96.94856, y: 179.97433}
+      - {x: 117.94856, y: 100.974335}
+      - {x: 76.94856, y: 64.97434}
+      - {x: 18.948568, y: 64.97434}
+      - {x: 14.948566, y: 134.97433}
+      - {x: 33.948566, y: 180.97433}
+      indices: 010000000200000004000000020000000300000004000000000000000100000004000000000000000400000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2025_birthday_beans_hat_bDayCake0002
+      rect:
+        serializedVersion: 2
+        x: 3.0761204
+        y: 8.051317
+        width: 159.92387
+        height: 122.948685
+      alignment: 9
+      pivot: {x: 0.39346147, y: 0.35745552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -62.038055, y: 61.474342}
+        - {x: 22.96194, y: 61.474342}
+        - {x: 39.961945, y: -2.5256586}
+        - {x: 79.961945, y: -36.525658}
+        - {x: 3.9619446, y: -55.525658}
+        - {x: -58.038055, y: -62.525658}
+        - {x: -82.038055, y: -21.525658}
+      physicsShape:
+      - - {x: 16.961945, y: -54.525658}
+        - {x: 32.961945, y: -38.525658}
+        - {x: 58.961945, y: -38.525658}
+        - {x: 72.961945, y: -37.525658}
+        - {x: 74.96194, y: -35.525658}
+        - {x: 74.96194, y: -32.525658}
+        - {x: 60.961945, y: -19.525658}
+        - {x: 51.961945, y: -17.525658}
+        - {x: 27.961945, y: -18.525658}
+        - {x: 16.961945, y: -29.525658}
+        - {x: 24.961945, y: -20.525658}
+        - {x: 31.96194, y: -8.525658}
+        - {x: 30.961945, y: 4.4743423}
+        - {x: 33.961945, y: 27.474342}
+        - {x: 26.961945, y: 37.474342}
+        - {x: 25.96194, y: 52.474342}
+        - {x: 21.961945, y: 59.474342}
+        - {x: 5.9619427, y: 61.474342}
+        - {x: -39.038055, y: 61.474342}
+        - {x: -51.038055, y: 59.474342}
+        - {x: -56.038055, y: 54.474342}
+        - {x: -63.03805, y: 34.474342}
+        - {x: -72.038055, y: 14.474342}
+        - {x: -79.038055, y: -10.525658}
+        - {x: -79.038055, y: -28.525658}
+        - {x: -70.038055, y: -34.525658}
+        - {x: -51.038055, y: -37.525658}
+        - {x: -43.038055, y: -37.525658}
+        - {x: -55.038055, y: -37.525658}
+        - {x: -62.038055, y: -46.525658}
+        - {x: -61.038055, y: -55.525658}
+        - {x: -55.038055, y: -60.525654}
+        - {x: -32.038055, y: -60.525654}
+        - {x: -27.038055, y: -56.525658}
+        - {x: 4.9619446, y: -56.525658}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6a41f760a74e62ba4013ee730fc4c5
+      internalID: 21300002
+      vertices:
+      - {x: 136.96194, y: 76.47434}
+      - {x: 176.96194, y: 42.474342}
+      - {x: 100.96194, y: 23.474342}
+      - {x: 38.961937, y: 16.474342}
+      - {x: 14.961937, y: 57.474342}
+      - {x: 34.961937, y: 140.47433}
+      - {x: 119.96193, y: 140.47433}
+      indices: 000000000500000006000000000000000400000005000000020000000300000004000000000000000100000002000000000000000200000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2025_birthday_beans_hat_bDayCake0001
+      rect:
+        serializedVersion: 2
+        x: 160.04291
+        y: 3
+        width: 111.92359
+        height: 125.92388
+      alignment: 9
+      pivot: {x: 0.48208866, y: -0.047647834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -55.0047, y: 24.038055}
+        - {x: -4.0047035, y: 65.03804}
+        - {x: 56.995293, y: 4.038048}
+        - {x: 50.995293, y: -62.961945}
+        - {x: -36.004704, y: -62.961945}
+        - {x: -56.0047, y: -19.961948}
+      physicsShape:
+      - - {x: 54.995296, y: -1.9619522}
+        - {x: 52.995296, y: 2.0380554}
+        - {x: 40.995293, y: 17.038048}
+        - {x: 25.995296, y: 33.038055}
+        - {x: -0.0047035217, y: 62.038055}
+        - {x: -8.0047035, y: 62.038055}
+        - {x: -13.0047035, y: 50.038048}
+        - {x: -10.0047035, y: 43.038055}
+        - {x: -24.004704, y: 39.038048}
+        - {x: -35.004704, y: 30.038048}
+        - {x: -47.004704, y: 28.038055}
+        - {x: -54.004704, y: 23.038048}
+        - {x: -55.0047, y: 18.038055}
+        - {x: -55.0047, y: 5.0380554}
+        - {x: -50.004704, y: -0.9619446}
+        - {x: -50.004704, y: -38.961945}
+        - {x: -36.004704, y: -54.961945}
+        - {x: -19.004704, y: -53.961945}
+        - {x: 5.9952965, y: -60.961945}
+        - {x: 20.995295, y: -62.961945}
+        - {x: 45.995296, y: -62.961945}
+        - {x: 53.995296, y: -53.961945}
+        - {x: 53.995296, y: -19.961948}
+        - {x: 54.995296, y: -12.961945}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b46b3142e0a49c389182e58a3512d7a
+      internalID: 21300004
+      vertices:
+      - {x: 114.96179, y: 135.96193}
+      - {x: 108.96179, y: 68.961945}
+      - {x: 21.961796, y: 68.961945}
+      - {x: 1.9617996, y: 111.96194}
+      - {x: 2.9617996, y: 155.96194}
+      - {x: 53.961796, y: 196.96193}
+      indices: 000000000400000005000000020000000000000001000000020000000300000000000000000000000300000004000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      2025_birthday_beans_hat_bDayCake0001: 21300004
+      2025_birthday_beans_hat_bDayCake0002: 21300002
+      2025_birthday_beans_hat_bDayCake0003: 21300000
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

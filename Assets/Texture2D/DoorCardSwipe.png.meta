@@ -1,0 +1,371 @@
+fileFormatVersion: 2
+guid: d5db22098f09bb247ade8cf3aac0ac06
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: doorscan_correct
+  - first:
+      213: 21300002
+    second: doorscan_front
+  - first:
+      213: 21300004
+    second: doorscan_back
+  - first:
+      213: 21300006
+    second: doorscan_incorrect
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: doorscan_correct
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 48
+        width: 181
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 70.5, y: 67.5}
+        - {x: 90.5, y: 67.5}
+        - {x: 90.5, y: 47.5}
+        - {x: -20.5, y: -67.5}
+        - {x: -30.5, y: -67.5}
+        - {x: -90.5, y: -7.4999995}
+        - {x: -90.5, y: 32.5}
+        - {x: -26.499998, y: -27.5}
+      physicsShape:
+      - - {x: 69.5, y: 67.5}
+        - {x: -77.5, y: 18.5}
+        - {x: -90.5, y: -0.5}
+        - {x: -90.5, y: -11.499999}
+        - {x: -29.499998, y: -67.5}
+        - {x: -23.5, y: -67.5}
+        - {x: 90.5, y: 47.5}
+        - {x: 90.5, y: 52.499996}
+        - {x: 75.5, y: 67.5}
+      - - {x: -90.5, y: 67.5}
+        - {x: -90.5, y: 39.5}
+        - {x: -46.5, y: 39.5}
+        - {x: -11.499999, y: 46.5}
+        - {x: -2.4999998, y: 64.5}
+        - {x: -2.4999998, y: 67.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f414b045ae584530adf46c3f2a69f0ad
+      internalID: 21300000
+      vertices:
+      - {x: 181, y: 115}
+      - {x: 70, y: 0}
+      - {x: 60, y: 0}
+      - {x: 0, y: 60}
+      - {x: 0, y: 100}
+      - {x: 64, y: 40}
+      - {x: 161, y: 135}
+      - {x: 181, y: 135}
+      indices: 000000000600000007000000030000000400000005000000020000000300000005000000050000000000000001000000010000000200000005000000050000000600000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorscan_front
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 158
+        width: 376
+        height: 409
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -188, y: -204.49998}
+        - {x: -188, y: 204.49998}
+        - {x: -123, y: 204.49998}
+        - {x: -97, y: 178.5}
+        - {x: 188, y: 178.5}
+        - {x: 188, y: -177.5}
+        - {x: -87, y: -177.5}
+        - {x: -129, y: -204.49998}
+      physicsShape:
+      - - {x: 188, y: -177.5}
+        - {x: 188, y: 183.49998}
+        - {x: -125, y: 204.49998}
+        - {x: -188, y: 204.49998}
+        - {x: -188, y: -204.49998}
+        - {x: -146.99998, y: -204.49998}
+        - {x: -129, y: -201.49998}
+        - {x: -106.99999, y: -189.5}
+      - - {x: -25, y: -178.5}
+        - {x: -50, y: -203.49998}
+        - {x: -50, y: -204.49998}
+        - {x: -12, y: -204.49998}
+        - {x: -6, y: -201.49998}
+        - {x: -6, y: -195.5}
+        - {x: -19, y: -178.5}
+      - - {x: 19, y: -178.5}
+        - {x: 8, y: -193.5}
+        - {x: 8, y: -199.5}
+        - {x: 16, y: -204.49998}
+        - {x: 50, y: -204.49998}
+        - {x: 50, y: -203.49998}
+        - {x: 25, y: -178.5}
+      - - {x: 171.99998, y: -178.5}
+        - {x: 146.99998, y: -203.49998}
+        - {x: 146.99998, y: -204.49998}
+        - {x: 180, y: -204.49998}
+        - {x: 188, y: -196.49998}
+        - {x: 188, y: -192.5}
+        - {x: 174, y: -178.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64092dc011014cc08c26096b853e9abb
+      internalID: 21300002
+      vertices:
+      - {x: 91, y: 383}
+      - {x: 376, y: 383}
+      - {x: 376, y: 27}
+      - {x: 101, y: 27}
+      - {x: 59, y: 0.000015258789}
+      - {x: 0, y: 0.000015258789}
+      - {x: 0, y: 409}
+      - {x: 65, y: 409}
+      indices: 050000000000000003000000050000000600000000000000050000000300000004000000030000000000000001000000030000000100000002000000000000000600000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorscan_back
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 159
+        width: 87
+        height: 408
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 5.5, y: 204}
+        - {x: 43.5, y: 204}
+        - {x: 43.5, y: -204}
+        - {x: -20.5, y: -204}
+        - {x: -43.5, y: -181}
+        - {x: -43.5, y: 189}
+        - {x: -7.4999995, y: 203}
+      physicsShape:
+      - - {x: -0.5, y: 204}
+        - {x: -18.5, y: 203}
+        - {x: -43.5, y: 183.99998}
+        - {x: -43.5, y: -183.99998}
+        - {x: -22.5, y: -204}
+        - {x: 43.5, y: -204}
+        - {x: 43.5, y: 204}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50006aa542db466b93208f69fb79abf9
+      internalID: 21300004
+      vertices:
+      - {x: 87, y: 0}
+      - {x: 23, y: 0}
+      - {x: 0, y: 23}
+      - {x: 0, y: 393}
+      - {x: 36, y: 407}
+      - {x: 49, y: 408}
+      - {x: 87, y: 408}
+      indices: 030000000500000006000000030000000400000005000000020000000300000006000000000000000200000006000000000000000100000002000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorscan_incorrect
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 4
+        width: 179
+        height: 179
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -89.5, y: 71.5}
+        - {x: -89.5, y: 89.5}
+        - {x: -71.5, y: 89.5}
+        - {x: 0.5, y: 20.5}
+        - {x: 71.5, y: 89.5}
+        - {x: 89.5, y: 89.5}
+        - {x: 89.5, y: 71.5}
+        - {x: 20.5, y: -2.4999998}
+        - {x: 89.5, y: -71.5}
+        - {x: 89.5, y: -89.5}
+        - {x: 71.5, y: -89.5}
+        - {x: -2.4999998, y: -20.5}
+        - {x: -71.5, y: -89.5}
+        - {x: -89.5, y: -89.5}
+        - {x: -89.5, y: -71.5}
+        - {x: -20.5, y: 2.4999998}
+      physicsShape:
+      - - {x: -89.5, y: 89.5}
+        - {x: -89.5, y: -77.5}
+        - {x: -81.5, y: -89.5}
+        - {x: 89.5, y: -89.5}
+        - {x: 89.5, y: 82.5}
+        - {x: 88.5, y: 89.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c6873805634688a0ec3727bcd255c8
+      internalID: 21300006
+      vertices:
+      - {x: 90, y: 110}
+      - {x: 161, y: 179}
+      - {x: 179, y: 179}
+      - {x: 179, y: 161}
+      - {x: 110, y: 87}
+      - {x: 179, y: 18}
+      - {x: 179, y: 0}
+      - {x: 161, y: 0}
+      - {x: 87, y: 69}
+      - {x: 18, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 18}
+      - {x: 69, y: 92}
+      - {x: 0, y: 161}
+      - {x: 0, y: 179}
+      - {x: 18, y: 179}
+      indices: 0d0000000e0000000f0000000c0000000d0000000f000000080000000b0000000c000000090000000a0000000b00000008000000090000000b00000007000000040000000500000004000000070000000800000000000000040000000800000007000000050000000600000000000000080000000c000000010000000200000003000000000000000100000003000000000000000300000004000000000000000c0000000f000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      doorscan_back: 21300004
+      doorscan_correct: 21300000
+      doorscan_front: 21300002
+      doorscan_incorrect: 21300006
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

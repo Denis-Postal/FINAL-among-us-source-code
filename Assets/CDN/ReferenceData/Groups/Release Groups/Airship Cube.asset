@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fbdf57f19df93d09b0c77f4c0195892, type: 3}
+  m_Name: Airship Cube
+  m_EditorClassIdentifier:
+  ids:
+  - hat_CuppaJoe
+  - hat_GovtDesert
+  - hat_GovtHeadset
+  - hat_HardtopHat
+  - hat_Prototype
+  - hat_Records
+  - hat_Rupert
+  - hat_ThomasC
+  - hat_ToppatHair
+  - hat_WilfordIV
+  - hat_Winston
+  - nameplate_airship_CCC
+  - nameplate_airship_Diamond
+  - nameplate_airship_Emerald
+  - nameplate_airship_Gems
+  - nameplate_airship_government
+  - nameplate_Airship_Hull
+  - nameplate_airship_Ruby
+  - nameplate_airship_Sky
+  - nameplate_airship_Toppat
+  - pet_Charles
+  - pet_Charles_Red
+  - skin_Bling
+  - skin_General
+  - skin_MechanicRed
+  - skin_MilitaryDesert
+  - skin_PrisonerBlue
+  - skin_PrisonerTanskin
+  - skin_Skin_SuitRedskin
+  - skin_ToppatSuitFem
+  - skin_ToppatVest
+  - visor_BillyG
+  - visor_Galeforce
+  - visor_Krieghaus
+  - visor_Reginald
+  - visor_Scar
+  - visor_WinstonStache
+  date: 2021-03-15

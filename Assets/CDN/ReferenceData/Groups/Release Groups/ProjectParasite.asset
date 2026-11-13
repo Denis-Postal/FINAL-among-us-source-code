@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fbdf57f19df93d09b0c77f4c0195892, type: 3}
+  m_Name: ProjectParasite
+  m_EditorClassIdentifier:
+  ids:
+  - hat_parasite_Blue
+  - hat_parasite_Cyan
+  - hat_parasite_Green
+  - hat_parasite_Lime
+  - hat_parasite_Purple
+  - hat_parasite_Red
+  - hat_parasite_Cook
+  - nameplate_parasite_Impostor
+  - pet_parasite_Stressball
+  - skin_parasite_Black
+  - skin_parasite_Blue
+  - skin_parasite_Brown
+  - skin_parasite_Cyan
+  - skin_parasite_Green
+  - skin_parasite_Lime
+  - skin_parasite_Orange
+  - skin_parasite_Purple
+  - skin_parasite_Red
+  - skin_parasite_White
+  - skin_parasite_Yellow
+  - visor_parasite_Black
+  - visor_parasite_Lime
+  date: 2026-6-5

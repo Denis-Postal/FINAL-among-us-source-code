@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: dcde6bd047bc45549a287edf45b80d0d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: 2022_foodCube_Hat_eggGreen0001
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 25
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.45530114, y: 0.06437517}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2022_foodCube_Hat_eggGreen0001
+      rect:
+        serializedVersion: 2
+        x: 382.02676
+        y: 167.05132
+        width: 100.97325
+        height: 76.87257
+      alignment: 9
+      pivot: {x: 0.45530114, y: 0.06437517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -24.513388, y: -43.4876}
+        - {x: -56.51339, y: -11.487598}
+        - {x: -24.513388, y: 38.5124}
+        - {x: 9.48661, y: 37.5124}
+        - {x: 50.48661, y: 17.512402}
+        - {x: 50.48661, y: -16.487598}
+      physicsShape:
+      - - {x: 50.48661, y: 10.512402}
+        - {x: 39.48661, y: 22.512402}
+        - {x: 26.48661, y: 23.512402}
+        - {x: 16.48661, y: 37.5124}
+        - {x: -14.513389, y: 37.5124}
+        - {x: -25.51339, y: 36.5124}
+        - {x: -50.513386, y: 2.5124016}
+        - {x: -50.513386, y: -18.487598}
+        - {x: -25.51339, y: -37.4876}
+        - {x: -7.5133896, y: -37.4876}
+        - {x: 6.4866104, y: -23.487598}
+        - {x: 45.48661, y: -19.487598}
+        - {x: 50.48661, y: -11.487598}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e009d96acb7743fd9f3b9ef6b761d0bc
+      internalID: 21300000
+      vertices:
+      - {x: 64.486626, y: 109.43628}
+      - {x: 105.486626, y: 89.43628}
+      - {x: 105.486626, y: 55.436283}
+      - {x: 30.486628, y: 28.436283}
+      - {x: -1.5133743, y: 60.436283}
+      - {x: 30.486628, y: 110.43628}
+      indices: 030000000400000005000000000000000200000003000000000000000100000002000000000000000300000005000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      2022_foodCube_Hat_eggGreen0001: 21300000
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

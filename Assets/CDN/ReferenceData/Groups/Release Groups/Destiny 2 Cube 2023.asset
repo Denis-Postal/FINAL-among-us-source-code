@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fbdf57f19df93d09b0c77f4c0195892, type: 3}
+  m_Name: Destiny 2 Cube 2023
+  m_EditorClassIdentifier:
+  ids:
+  - hat_caiatl
+  - hat_chalice
+  - hat_erisMorn
+  - hat_hunter
+  - hat_maraSov
+  - hat_osiris
+  - hat_pyramid
+  - hat_saint14
+  - hat_savathun
+  - hat_shaxx
+  - hat_starhorse
+  - hat_titan
+  - hat_warlock
+  - nameplate_hunter
+  - nameplate_lightfall
+  - nameplate_titan
+  - nameplate_warlock
+  - pet_D2GhostPet
+  - pet_D2PoukaPet
+  - pet_D2WormPet
+  - skin_D2Hunter
+  - skin_D2Osiris
+  - skin_D2Saint14
+  - skin_D2Shaxx
+  - skin_D2Titan
+  - skin_D2Warlock
+  - visor_eliksni
+  - visor_erisBandage
+  - visor_savathun
+  date: 2023-1-11

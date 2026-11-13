@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fbdf57f19df93d09b0c77f4c0195892, type: 3}
+  m_Name: Halloween 2019 Bundle
+  m_EditorClassIdentifier:
+  ids:
+  - hat_pkHW01_BatWings
+  - hat_pkHW01_CatEyes
+  - hat_pkHW01_Horns
+  - hat_pkHW01_Machete
+  - hat_pkHW01_Mohawk
+  - hat_pkHW01_Pirate
+  - hat_pkHW01_PlagueHat
+  - hat_pkHW01_Pumpkin
+  - hat_pkHW01_ScaryBag
+  - hat_pkHW01_Witch
+  - hat_pkHW01_Wolf
+  - visor_pk01_FredVisor
+  - visor_pk01_PaperMaskVisor
+  - visor_pk01_PlagueVisor
+  date: 2019-10-31

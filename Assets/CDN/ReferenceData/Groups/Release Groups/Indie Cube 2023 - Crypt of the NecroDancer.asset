@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fbdf57f19df93d09b0c77f4c0195892, type: 3}
+  m_Name: Indie Cube 2023 - Crypt of the NecroDancer
+  m_EditorClassIdentifier:
+  ids:
+  - hat_cadence
+  - hat_nocturna
+  - hat_shopkeeper
+  - hat_skull
+  - nameplate_dungeonFloor
+  - nameplate_torch
+  - pet_DancingSkeletonPet
+  - skin_CadenceSkinskin
+  - skin_FrederickSkinskin
+  - skin_Nocturnaskin
+  - visor_shopkeeper
+  date: 2023-11-28-3

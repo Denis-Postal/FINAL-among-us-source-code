@@ -1,0 +1,1967 @@
+fileFormatVersion: 2
+guid: b1b4d1bbfb4569846aa4790717945bc0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: noisemaker_vfx_soundwaves0007
+  - first:
+      213: 21300002
+    second: noisemaker_vfx_arrow0010
+  - first:
+      213: 21300004
+    second: noisemaker_vfx_arrow0011
+  - first:
+      213: 21300006
+    second: noisemaker_vfx_bodyIcon0009
+  - first:
+      213: 21300008
+    second: noisemaker_vfx_arrow0015
+  - first:
+      213: 21300010
+    second: noisemaker_vfx_arrow0005
+  - first:
+      213: 21300012
+    second: noisemaker_vfx_soundwaves0003
+  - first:
+      213: 21300014
+    second: noisemaker_vfx_bodyIcon0012
+  - first:
+      213: 21300016
+    second: noisemaker_vfx_bodyIcon0011
+  - first:
+      213: 21300018
+    second: noisemaker_vfx_bodyIcon0003
+  - first:
+      213: 21300020
+    second: noisemaker_vfx_bodyIcon0007
+  - first:
+      213: 21300022
+    second: noisemaker_vfx_arrow0014
+  - first:
+      213: 21300024
+    second: noisemaker_vfx_bodyIcon0010
+  - first:
+      213: 21300026
+    second: noisemaker_vfx_bodyIcon0015
+  - first:
+      213: 21300028
+    second: noisemaker_vfx_bodyIcon0004
+  - first:
+      213: 21300030
+    second: noisemaker_vfx_arrow0008
+  - first:
+      213: 21300032
+    second: noisemaker_vfx_bodyIcon0001
+  - first:
+      213: 21300034
+    second: noisemaker_vfx_bodyIcon0005
+  - first:
+      213: 21300036
+    second: noisemaker_vfx_arrow0009
+  - first:
+      213: 21300038
+    second: noisemaker_vfx_arrow0001
+  - first:
+      213: 21300040
+    second: noisemaker_vfx_arrow0004
+  - first:
+      213: 21300042
+    second: noisemaker_vfx_arrow0003
+  - first:
+      213: 21300044
+    second: noisemaker_vfx_soundwaves0001
+  - first:
+      213: 21300046
+    second: noisemaker_vfx_arrow0002
+  - first:
+      213: 21300048
+    second: noisemaker_vfx_arrow0006
+  - first:
+      213: 21300050
+    second: noisemaker_vfx_soundwaves0004
+  - first:
+      213: 21300052
+    second: noisemaker_vfx_bodyIcon0013
+  - first:
+      213: 21300054
+    second: noisemaker_vfx_arrow0013
+  - first:
+      213: 21300056
+    second: noisemaker_vfx_bodyIcon0014
+  - first:
+      213: 21300058
+    second: noisemaker_vfx_soundwaves0008
+  - first:
+      213: 21300060
+    second: noisemaker_vfx_soundwaves0005
+  - first:
+      213: 21300062
+    second: noisemaker_vfx_soundwaves0006
+  - first:
+      213: 21300064
+    second: noisemaker_vfx_bodyIcon0006
+  - first:
+      213: 21300066
+    second: noisemaker_vfx_bodyIcon0002
+  - first:
+      213: 21300068
+    second: noisemaker_vfx_soundwaves0002
+  - first:
+      213: 21300070
+    second: noisemaker_vfx_arrow0012
+  - first:
+      213: 21300072
+    second: noisemaker_vfx_bodyIcon0008
+  - first:
+      213: 21300074
+    second: noisemaker_vfx_arrow0007
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: noisemaker_vfx_soundwaves0007
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 224
+        width: 252
+        height: 153
+      alignment: 9
+      pivot: {x: 0.49801588, y: 0.48039216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -126, y: -76.5}
+        - {x: -126, y: 76.5}
+        - {x: 126, y: 76.5}
+        - {x: 126, y: -76.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d88cd4972d4cca9b20df5ef509a2ac
+      internalID: 21300000
+      vertices:
+      - {x: 0.5, y: 156}
+      - {x: 252.5, y: 156}
+      - {x: 0.5, y: 3}
+      - {x: 252.5, y: 3}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noisemaker_vfx_arrow0010
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 89
+        width: 81
+        height: 56
+      alignment: 9
+      pivot: {x: 0.49382716, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -40.5, y: -28}
+        - {x: -40.5, y: 28}
+        - {x: 40.5, y: 28}
+        - {x: 40.5, y: -28}
+      physicsShape:
+      - - {x: 40.5, y: 28}
+        - {x: 30.5, y: 28}
+        - {x: 21.5, y: 24}
+        - {x: -1.5, y: 17}
+        - {x: -33.5, y: 28}
+        - {x: -38.5, y: 28}
+        - {x: -40.499996, y: 26}
+        - {x: -40.499996, y: 22}
+        - {x: -21.5, y: -4.9999995}
+        - {x: -7.5, y: -22.999998}
+        - {x: -2.5, y: -28}
+        - {x: 2.5, y: -28}
+        - {x: 10.5, y: -19.999998}
+        - {x: 15.5, y: -12}
+        - {x: 40.5, y: 22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2c2dca32084952b8b224d15485fa97
+      internalID: 21300002
+      vertices:
+      - {x: 0.5, y: 56}
+      - {x: 81.5, y: 56}
+      - {x: 0.5, y: 0}
+      - {x: 81.5, y: 0}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noisemaker_vfx_arrow0011
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 89
+        width: 81
+        height: 56
+      alignment: 9
+      pivot: {x: 0.49382716, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -40.5, y: -28}
+        - {x: -40.5, y: 28}
+        - {x: 40.5, y: 28}
+        - {x: 40.5, y: -28}
+      physicsShape:
+      - - {x: 40.5, y: 28}
+        - {x: 30.5, y: 28}
+        - {x: 21.5, y: 24}
+        - {x: -1.5, y: 17}
+        - {x: -33.5, y: 28}
+        - {x: -38.5, y: 28}
+        - {x: -40.499996, y: 26}
+        - {x: -40.499996, y: 22}
+        - {x: -21.5, y: -4.9999995}
+        - {x: -7.5, y: -22.999998}
+        - {x: -2.5, y: -28}
+        - {x: 2.5, y: -28}
+        - {x: 10.5, y: -19.999998}
+        - {x: 15.5, y: -12}
+        - {x: 40.5, y: 22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1168cc9cd9804da3bc67ca0509272e32
+      internalID: 21300004
+      vertices:
+      - {x: 0.5, y: 56}
+      - {x: 81.5, y: 56}
+      - {x: 0.5, y: 0}
+      - {x: 81.5, y: 0}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noisemaker_vfx_bodyIcon0009
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 105
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5285714, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -52.5, y: -37.5}
+        - {x: -52.5, y: 37.5}
+        - {x: 52.5, y: 37.5}
+        - {x: 52.5, y: -37.5}
+      physicsShape:
+      - - {x: 52.499996, y: 10.5}
+        - {x: 23.5, y: 32.5}
+        - {x: 7.5, y: 37.5}
+        - {x: -15.5, y: 37.5}
+        - {x: -28.5, y: 35.5}
+        - {x: -34.5, y: 21.499998}
+        - {x: -37.5, y: 6.5}
+        - {x: -46.499996, y: 5.5}
+        - {x: -52.5, y: -2.5}
+        - {x: -52.5, y: -10.5}
+        - {x: -51.5, y: -16.5}
+        - {x: -46.499996, y: -26.5}
+        - {x: -38.5, y: -33.5}
+        - {x: -22.5, y: -37.5}
+        - {x: 3.5, y: -37.5}
+        - {x: 10.5, y: -36.5}
+        - {x: 37.5, y: -25.5}
+        - {x: 52.499996, y: -14.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd81c05501145abb048ad19ecfc48e1
+      internalID: 21300006
+      vertices:
+      - {x: -3, y: 76.5}
+      - {x: 102, y: 76.5}
+      - {x: -3, y: 1.5}
+      - {x: 102, y: 1.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noisemaker_vfx_arrow0015
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 31
+        width: 81
+        height: 56
+      alignment: 9
+      pivot: {x: 0.49382716, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -40.5, y: -28}
+        - {x: -40.5, y: 28}
+        - {x: 40.5, y: 28}
+        - {x: 40.5, y: -28}
+      physicsShape:
+      - - {x: 40.5, y: 28}
+        - {x: 30.5, y: 28}
+        - {x: 21.5, y: 24}
+        - {x: -1.5, y: 17}
+        - {x: -33.5, y: 28}
+        - {x: -38.5, y: 28}
+        - {x: -40.499996, y: 26}
+        - {x: -40.499996, y: 22}
+        - {x: -21.5, y: -4.9999995}
+        - {x: -7.5, y: -22.999998}
+        - {x: -2.5, y: -28}
+        - {x: 2.5, y: -28}
+        - {x: 10.5, y: -19.999998}
+        - {x: 15.5, y: -12}
+        - {x: 40.5, y: 22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26f730a8c984abf9fbe306c1f551349
+      internalID: 21300008
+      vertices:
+      - {x: 0.5, y: 56}
+      - {x: 81.5, y: 56}
+      - {x: 0.5, y: 0}
+      - {x: 81.5, y: 0}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noisemaker_vfx_arrow0005
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 263
+        width: 81
+        height: 56
+      alignment: 9
+      pivot: {x: 0.49382716, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -40.5, y: -28}
+        - {x: -40.5, y: 28}
+        - {x: 40.5, y: 28}
+        - {x: 40.5, y: -28}
+      physicsShape:
+      - - {x: 40.5, y: 28}
+        - {x: 30.5, y: 28}
+        - {x: 21.5, y: 24}
+        - {x: -1.5, y: 17}
+        - {x: -33.5, y: 28}
+        - {x: -38.5, y: 28}
+        - {x: -40.499996, y: 26}
+        - {x: -40.499996, y: 22}
+        - {x: -21.5, y: -4.9999995}
+        - {x: -7.5, y: -22.999998}
+        - {x: -2.5, y: -28}
+        - {x: 2.5, y: -28}
+        - {x: 10.5, y: -19.999998}
+        - {x: 15.5, y: -12}
+        - {x: 40.5, y: 22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870d04e1fb684f4f91640dd60f4d1686
+      internalID: 21300010
+      vertices:
+      - {x: 0.5, y: 56}
+      - {x: 81.5, y: 56}
+      - {x: 0.5, y: 0}
+      - {x: 81.5, y: 0}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noisemaker_vfx_soundwaves0003
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 398
+        width: 233
+        height: 137
+      alignment: 9
+      pivot: {x: 0.5, y: 0.58759123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -116.5, y: -68.5}
+        - {x: -116.5, y: 68.5}
+        - {x: 116.5, y: 68.5}
+        - {x: 116.5, y: -68.5}
+      physicsShape:
+      - - {x: 55.5, y: -63.5}
+        - {x: 57.5, y: -63.5}
+        - {x: 58.499996, y: -60.5}
+        - {x: 50.5, y: -43.5}
+        - {x: 38.5, y: -29.5}
+        - {x: 22.5, y: -20.5}
+        - {x: 14.5, y: -17.499998}
+        - {x: -18.5, y: -17.499998}
+        - {x: -39.5, y: -29.5}
+        - {x: -51.5, y: -41.499996}
+        - {x: -58.499996, y: -58.5}
+        - {x: -58.499996, y: -64.5}
+        - {x: -54.5, y: -64.5}
+        - {x: -38.5, y: -50.5}
+        - {x: -23.5, y: -38.5}
+        - {x: -5.5, y: -33.5}
+        - {x: 22.5, y: -36.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea4e5e19fc44b1d8f4bdfae8a37f09a
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 125}
+      - {x: 233, y: 125}
+      - {x: 0, y: -12}
+      - {x: 233, y: -12}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noisemaker_vfx_bodyIcon0012
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 5
+        width: 105
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5285714, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -52.5, y: -37.5}
+        - {x: -52.5, y: 37.5}
+        - {x: 52.5, y: 37.5}
+        - {x: 52.5, y: -37.5}
+      physicsShape:
+      - - {x: 52.499996, y: 10.5}
+        - {x: 23.5, y: 32.5}
+        - {x: 7.5, y: 37.5}
+        - {x: -15.5, y: 37.5}
+        - {x: -28.5, y: 35.5}
+        - {x: -34.5, y: 21.499998}
+        - {x: -37.5, y: 6.5}
+        - {x: -46.499996, y: 5.5}
+        - {x: -52.5, y: -2.5}
+        - {x: -52.5, y: -10.5}
+        - {x: -51.5, y: -16.5}
+        - {x: -46.499996, y: -26.5}
+        - {x: -38.5, y: -33.5}
+        - {x: -22.5, y: -37.5}
+        - {x: 3.5, y: -37.5}
+        - {x: 10.5, y: -36.5}
+        - {x: 37.5, y: -25.5}
+        - {x: 52.499996, y: -14.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7e35b74cd5433c9b6c3d92fa760b09
+      internalID: 21300014
+      vertices:
+      - {x: -3, y: 76.5}
+      - {x: 102, y: 76.5}
+      - {x: -3, y: 1.5}
+      - {x: 102, y: 1.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noisemaker_vfx_bodyIcon0011
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1
+        width: 105
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5285714, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -52.5, y: -37.5}
+        - {x: -52.5, y: 37.5}
+        - {x: 52.5, y: 37.5}
+        - {x: 52.5, y: -37.5}
+      physicsShape:
+      - - {x: 52.499996, y: 10.5}
+        - {x: 23.5, y: 32.5}
+        - {x: 7.5, y: 37.5}
+        - {x: -15.5, y: 37.5}
+        - {x: -28.5, y: 35.5}
+        - {x: -34.5, y: 21.499998}
+        - {x: -37.5, y: 6.5}
+        - {x: -46.499996, y: 5.5}
+        - {x: -52.5, y: -2.5}
+        - {x: -52.5, y: -10.5}
+        - {x: -51.5, y: -16.5}
+        - {x: -46.499996, y: -26.5}
+        - {x: -38.5, y: -33.5}
+        - {x: -22.5, y: -37.5}
+        - {x: 3.5, y: -37.5}
+        - {x: 10.5, y: -36.5}
+        - {x: 37.5, y: -25.5}
+        - {x: 52.499996, y: -14.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca25ca2da1f4a8b9347d249217d2793
+      internalID: 21300016
+      vertices:
+      - {x: -3, y: 76.5}
+      - {x: 102, y: 76.5}
+      - {x: -3, y: 1.5}
+      - {x: 102, y: 1.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noisemaker_vfx_bodyIcon0003
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 170
+        width: 119
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5252101, y: 0.47674417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -59.5, y: -43}
+        - {x: -59.5, y: 43}
+        - {x: 59.5, y: 43}
+        - {x: 59.5, y: -43}
+      physicsShape:
+      - - {x: 49.5, y: 20}
+        - {x: 34.5, y: 24.999998}
+        - {x: 30.5, y: 36}
+        - {x: 7.5, y: 43}
+        - {x: -16.5, y: 43}
+        - {x: -29.5, y: 39}
+        - {x: -38.5, y: 29}
+        - {x: -41.5, y: 7}
+        - {x: -49.499996, y: 6}
+        - {x: -58.5, y: 2}
+        - {x: -59.5, y: -4}
+        - {x: -59.5, y: -21.999998}
+        - {x: -54.5, y: -35}
+        - {x: -26.499998, y: -43}
+        - {x: 1.5, y: -43}
+        - {x: 12.5, y: -41}
+        - {x: 46.5, y: -28}
+        - {x: 59.5, y: -14}
+        - {x: 59.5, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47bd6451b6fd46b69ed631a1377f17a3
+      internalID: 21300018
+      vertices:
+      - {x: -3, y: 88}
+      - {x: 116, y: 88}
+      - {x: -3, y: 2}
+      - {x: 116, y: 2}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noisemaker_vfx_bodyIcon0007
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 79
+        width: 107
+        height: 77
+      alignment: 9
+      pivot: {x: 0.52803737, y: 0.48051947}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -53.5, y: -38.5}
+        - {x: -53.5, y: 38.5}
+        - {x: 53.5, y: 38.5}
+        - {x: 53.5, y: -38.5}
+      physicsShape:
+      - - {x: 52.499996, y: 14.5}
+        - {x: 21.5, y: 36.5}
+        - {x: 10.5, y: 38.499996}
+        - {x: -13.5, y: 38.499996}
+        - {x: -25.5, y: 36.5}
+        - {x: -34.5, y: 26.5}
+        - {x: -36.5, y: 6.5}
+        - {x: -47.5, y: 5.5}
+        - {x: -53.5, y: -3.5}
+        - {x: -53.5, y: -20.5}
+        - {x: -39.5, y: -38.5}
+        - {x: 2.5, y: -38.5}
+        - {x: 16.5, y: -36.5}
+        - {x: 53.5, y: -17.5}
+        - {x: 53.5, y: 4.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c5f71c699144419f3b82b017b85d97
+      internalID: 21300020
+      vertices:
+      - {x: -3, y: 78.5}
+      - {x: 104, y: 78.5}
+      - {x: -3, y: 1.5}
+      - {x: 104, y: 1.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noisemaker_vfx_arrow0014
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 89
+        width: 81
+        height: 56
+      alignment: 9
+      pivot: {x: 0.49382716, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -40.5, y: -28}
+        - {x: -40.5, y: 28}
+        - {x: 40.5, y: 28}
+        - {x: 40.5, y: -28}
+      physicsShape:
+      - - {x: 40.5, y: 28}
+        - {x: 30.5, y: 28}
+        - {x: 21.5, y: 24}
+        - {x: -1.5, y: 17}
+        - {x: -33.5, y: 28}
+        - {x: -38.5, y: 28}
+        - {x: -40.499996, y: 26}
+        - {x: -40.499996, y: 22}
+        - {x: -21.5, y: -4.9999995}
+        - {x: -7.5, y: -22.999998}
+        - {x: -2.5, y: -28}
+        - {x: 2.5, y: -28}
+        - {x: 10.5, y: -19.999998}
+        - {x: 15.5, y: -12}
+        - {x: 40.5, y: 22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982768ee5a204702a1629031700833a7
+      internalID: 21300022
+      vertices:
+      - {x: 0.5, y: 56}
+      - {x: 81.5, y: 56}
+      - {x: 0.5, y: 0}
+      - {x: 81.5, y: 0}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noisemaker_vfx_bodyIcon0010
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1
+        width: 105
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5285714, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -52.5, y: -37.5}
+        - {x: -52.5, y: 37.5}
+        - {x: 52.5, y: 37.5}
+        - {x: 52.5, y: -37.5}
+      physicsShape:
+      - - {x: 52.499996, y: 10.5}
+        - {x: 23.5, y: 32.5}
+        - {x: 7.5, y: 37.5}
+        - {x: -15.5, y: 37.5}
+        - {x: -28.5, y: 35.5}
+        - {x: -34.5, y: 21.499998}
+        - {x: -37.5, y: 6.5}
+        - {x: -46.499996, y: 5.5}
+        - {x: -52.5, y: -2.5}
+        - {x: -52.5, y: -10.5}
+        - {x: -51.5, y: -16.5}
+        - {x: -46.499996, y: -26.5}
+        - {x: -38.5, y: -33.5}
+        - {x: -22.5, y: -37.5}
+        - {x: 3.5, y: -37.5}
+        - {x: 10.5, y: -36.5}
+        - {x: 37.5, y: -25.5}
+        - {x: 52.499996, y: -14.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28523ccf5e4e413a80bdbd78f8951894
+      internalID: 21300024
+      vertices:
+      - {x: -3, y: 76.5}
+      - {x: 102, y: 76.5}
+      - {x: -3, y: 1.5}
+      - {x: 102, y: 1.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noisemaker_vfx_bodyIcon0015
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 321
+        width: 105
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5285714, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -52.5, y: -37.5}
+        - {x: -52.5, y: 37.5}
+        - {x: 52.5, y: 37.5}
+        - {x: 52.5, y: -37.5}
+      physicsShape:
+      - - {x: 52.499996, y: 10.5}
+        - {x: 23.5, y: 32.5}
+        - {x: 7.5, y: 37.5}
+        - {x: -15.5, y: 37.5}
+        - {x: -28.5, y: 35.5}
+        - {x: -34.5, y: 21.499998}
+        - {x: -37.5, y: 6.5}
+        - {x: -46.499996, y: 5.5}
+        - {x: -52.5, y: -2.5}
+        - {x: -52.5, y: -10.5}
+        - {x: -51.5, y: -16.5}
+        - {x: -46.499996, y: -26.5}
+        - {x: -38.5, y: -33.5}
+        - {x: -22.5, y: -37.5}
+        - {x: 3.5, y: -37.5}
+        - {x: 10.5, y: -36.5}
+        - {x: 37.5, y: -25.5}
+        - {x: 52.499996, y: -14.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c38f4f288d94bfb914222b421de90e8
+      internalID: 21300026
+      vertices:
+      - {x: -3, y: 76.5}
+      - {x: 102, y: 76.5}
+      - {x: -3, y: 1.5}
+      - {x: 102, y: 1.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noisemaker_vfx_bodyIcon0004
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 172
+        width: 115
+        height: 84
+      alignment: 9
+      pivot: {x: 0.526087, y: 0.47619048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -57.499996, y: -42}
+        - {x: -57.499996, y: 42}
+        - {x: 57.500004, y: 42}
+        - {x: 57.500004, y: -42}
+      physicsShape:
+      - - {x: 57.500004, y: 10}
+        - {x: 56.5, y: 14}
+        - {x: 36.5, y: 24.999998}
+        - {x: 20.500004, y: 37.999996}
+        - {x: 1.5000038, y: 42}
+        - {x: -19.499996, y: 42}
+        - {x: -36.499996, y: 32}
+        - {x: -39.499996, y: 6}
+        - {x: -47.499996, y: 6}
+        - {x: -54.499996, y: 1}
+        - {x: -57.499992, y: -4}
+        - {x: -57.499992, y: -16}
+        - {x: -49.499992, y: -38}
+        - {x: -34.499996, y: -41.999996}
+        - {x: 4.500004, y: -41.999996}
+        - {x: 30.500004, y: -33}
+        - {x: 45.500004, y: -26}
+        - {x: 57.500004, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db5db60698a4792b2fef1bc9f4252b1
+      internalID: 21300028
+      vertices:
+      - {x: -3, y: 86}
+      - {x: 112, y: 86}
+      - {x: -3, y: 2}
+      - {x: 112, y: 2}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noisemaker_vfx_arrow0008
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 114
+        width: 81
+        height: 56
+      alignment: 9
+      pivot: {x: 0.49382716, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -40.5, y: -28}
+        - {x: -40.5, y: 28}
+        - {x: 40.5, y: 28}
+        - {x: 40.5, y: -28}
+      physicsShape:
+      - - {x: 40.5, y: 28}
+        - {x: 30.5, y: 28}
+        - {x: 21.5, y: 24}
+        - {x: -1.5, y: 17}
+        - {x: -33.5, y: 28}
+        - {x: -38.5, y: 28}
+        - {x: -40.499996, y: 26}
+        - {x: -40.499996, y: 22}
+        - {x: -21.5, y: -4.9999995}
+        - {x: -7.5, y: -22.999998}
+        - {x: -2.5, y: -28}
+        - {x: 2.5, y: -28}
+        - {x: 10.5, y: -19.999998}
+        - {x: 15.5, y: -12}
+        - {x: 40.5, y: 22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9ac6ea2da94fd89e02949f865280db
+      internalID: 21300030
+      vertices:
+      - {x: 0.5, y: 56}
+      - {x: 81.5, y: 56}
+      - {x: 0.5, y: 0}
+      - {x: 81.5, y: 0}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noisemaker_vfx_bodyIcon0001
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 158
+        width: 130
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5192308, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -65, y: -47.5}
+        - {x: -65, y: 47.5}
+        - {x: 65, y: 47.5}
+        - {x: 65, y: -47.5}
+      physicsShape:
+      - - {x: 65, y: 6.5}
+        - {x: 57, y: 19.5}
+        - {x: 28, y: 40.499996}
+        - {x: 1, y: 47.5}
+        - {x: -18, y: 47.5}
+        - {x: -33.999996, y: 42.5}
+        - {x: -43, y: 30.5}
+        - {x: -46, y: 8.5}
+        - {x: -61, y: 5.5}
+        - {x: -65, y: -2.5}
+        - {x: -65, y: -18.5}
+        - {x: -53, y: -37.5}
+        - {x: -46, y: -41.5}
+        - {x: -23, y: -47.5}
+        - {x: 6, y: -47.5}
+        - {x: 35, y: -36.5}
+        - {x: 55.999996, y: -26.5}
+        - {x: 65, y: -13.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8d0833002d4ddd9ef3ed07661799c0
+      internalID: 21300032
+      vertices:
+      - {x: -2.5, y: 97.5}
+      - {x: 127.5, y: 97.5}
+      - {x: -2.5, y: 2.5}
+      - {x: 127.5, y: 2.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noisemaker_vfx_bodyIcon0005
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 87
+        width: 111
+        height: 81
+      alignment: 9
+      pivot: {x: 0.527027, y: 0.4814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -55.499996, y: -40.5}
+        - {x: -55.499996, y: 40.5}
+        - {x: 55.499996, y: 40.5}
+        - {x: 55.499996, y: -40.5}
+      physicsShape:
+      - - {x: 53.5, y: 11.5}
+        - {x: 24.499998, y: 35.5}
+        - {x: 7.5, y: 40.5}
+        - {x: -20.5, y: 40.5}
+        - {x: -36.5, y: 29.5}
+        - {x: -47.5, y: 5.5}
+        - {x: -54.5, y: 2.5}
+        - {x: -55.499996, y: -3.5}
+        - {x: -55.499996, y: -17.5}
+        - {x: -49.499996, y: -26.5}
+        - {x: -43.5, y: -34.5}
+        - {x: -23.499998, y: -40.5}
+        - {x: 0.50000024, y: -40.5}
+        - {x: 14.499999, y: -38.5}
+        - {x: 43.5, y: -26.5}
+        - {x: 55.499996, y: -14.5}
+        - {x: 55.499996, y: 4.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93ccc21155c4f7a808191518d68fbec
+      internalID: 21300034
+      vertices:
+      - {x: -2.9999962, y: 82.5}
+      - {x: 108, y: 82.5}
+      - {x: -2.9999962, y: 1.5}
+      - {x: 108, y: 1.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noisemaker_vfx_arrow0009
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 56
+        width: 81
+        height: 56
+      alignment: 9
+      pivot: {x: 0.49382716, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -40.5, y: -28}
+        - {x: -40.5, y: 28}
+        - {x: 40.5, y: 28}
+        - {x: 40.5, y: -28}
+      physicsShape:
+      - - {x: 40.5, y: 28}
+        - {x: 30.5, y: 28}
+        - {x: 21.5, y: 24}
+        - {x: -1.5, y: 17}
+        - {x: -33.5, y: 28}
+        - {x: -38.5, y: 28}
+        - {x: -40.499996, y: 26}
+        - {x: -40.499996, y: 22}
+        - {x: -21.5, y: -4.9999995}
+        - {x: -7.5, y: -22.999998}
+        - {x: -2.5, y: -28}
+        - {x: 2.5, y: -28}
+        - {x: 10.5, y: -19.999998}
+        - {x: 15.5, y: -12}
+        - {x: 40.5, y: 22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865902c8f0b64822864271ca02855585
+      internalID: 21300036
+      vertices:
+      - {x: 0.5, y: 56}
+      - {x: 81.5, y: 56}
+      - {x: 0.5, y: 0}
+      - {x: 81.5, y: 0}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noisemaker_vfx_arrow0001
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 263
+        width: 81
+        height: 56
+      alignment: 9
+      pivot: {x: 0.49382716, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -40.5, y: -28}
+        - {x: -40.5, y: 28}
+        - {x: 40.5, y: 28}
+        - {x: 40.5, y: -28}
+      physicsShape:
+      - - {x: 40.5, y: 28}
+        - {x: 30.5, y: 28}
+        - {x: 21.5, y: 24}
+        - {x: -1.5, y: 17}
+        - {x: -33.5, y: 28}
+        - {x: -38.5, y: 28}
+        - {x: -40.499996, y: 26}
+        - {x: -40.499996, y: 22}
+        - {x: -21.5, y: -4.9999995}
+        - {x: -7.5, y: -22.999998}
+        - {x: -2.5, y: -28}
+        - {x: 2.5, y: -28}
+        - {x: 10.5, y: -19.999998}
+        - {x: 15.5, y: -12}
+        - {x: 40.5, y: 22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce0f26095034c5abc0227179627daeb
+      internalID: 21300038
+      vertices:
+      - {x: 0.5, y: 56}
+      - {x: 81.5, y: 56}
+      - {x: 0.5, y: 0}
+      - {x: 81.5, y: 0}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noisemaker_vfx_arrow0004
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 205
+        width: 81
+        height: 56
+      alignment: 9
+      pivot: {x: 0.49382716, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -40.5, y: -28}
+        - {x: -40.5, y: 28}
+        - {x: 40.5, y: 28}
+        - {x: 40.5, y: -28}
+      physicsShape:
+      - - {x: 40.5, y: 28}
+        - {x: 30.5, y: 28}
+        - {x: 21.5, y: 24}
+        - {x: -1.5, y: 17}
+        - {x: -33.5, y: 28}
+        - {x: -38.5, y: 28}
+        - {x: -40.499996, y: 26}
+        - {x: -40.499996, y: 22}
+        - {x: -21.5, y: -4.9999995}
+        - {x: -7.5, y: -22.999998}
+        - {x: -2.5, y: -28}
+        - {x: 2.5, y: -28}
+        - {x: 10.5, y: -19.999998}
+        - {x: 15.5, y: -12}
+        - {x: 40.5, y: 22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed369530c11148f094ee0447bd0aceab
+      internalID: 21300040
+      vertices:
+      - {x: 0.5, y: 56}
+      - {x: 81.5, y: 56}
+      - {x: 0.5, y: 0}
+      - {x: 81.5, y: 0}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noisemaker_vfx_arrow0003
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 205
+        width: 81
+        height: 56
+      alignment: 9
+      pivot: {x: 0.49382716, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -40.5, y: -28}
+        - {x: -40.5, y: 28}
+        - {x: 40.5, y: 28}
+        - {x: 40.5, y: -28}
+      physicsShape:
+      - - {x: 40.5, y: 28}
+        - {x: 30.5, y: 28}
+        - {x: 21.5, y: 24}
+        - {x: -1.5, y: 17}
+        - {x: -33.5, y: 28}
+        - {x: -38.5, y: 28}
+        - {x: -40.499996, y: 26}
+        - {x: -40.499996, y: 22}
+        - {x: -21.5, y: -4.9999995}
+        - {x: -7.5, y: -22.999998}
+        - {x: -2.5, y: -28}
+        - {x: 2.5, y: -28}
+        - {x: 10.5, y: -19.999998}
+        - {x: 15.5, y: -12}
+        - {x: 40.5, y: 22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0b671252a9493eada863b1a6c1898d
+      internalID: 21300042
+      vertices:
+      - {x: 0.5, y: 56}
+      - {x: 81.5, y: 56}
+      - {x: 0.5, y: 0}
+      - {x: 81.5, y: 0}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noisemaker_vfx_soundwaves0001
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 255
+        width: 223
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5, y: 0.64728683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -111.5, y: -64.5}
+        - {x: -111.5, y: 64.5}
+        - {x: 111.5, y: 64.5}
+        - {x: 111.5, y: -64.5}
+      physicsShape:
+      - - {x: 51.5, y: -61.5}
+        - {x: 52.499996, y: -59.5}
+        - {x: 52.499996, y: -55.5}
+        - {x: 42.5, y: -38.5}
+        - {x: 28.5, y: -26.5}
+        - {x: 14.5, y: -20.5}
+        - {x: -15.5, y: -20.5}
+        - {x: -31.5, y: -28.5}
+        - {x: -47.5, y: -45.5}
+        - {x: -52.499996, y: -59.5}
+        - {x: -52.499996, y: -61.5}
+        - {x: -50.5, y: -62.5}
+        - {x: -47.5, y: -61.5}
+        - {x: -6.5, y: -36.5}
+        - {x: 30.5, y: -43.5}
+        - {x: 48.5, y: -61.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0929f1774cb4d778985684b4a0a4113
+      internalID: 21300044
+      vertices:
+      - {x: 0, y: 110}
+      - {x: 223, y: 110}
+      - {x: 0, y: -19}
+      - {x: 223, y: -19}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noisemaker_vfx_arrow0002
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 263
+        width: 81
+        height: 56
+      alignment: 9
+      pivot: {x: 0.49382716, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -40.5, y: -28}
+        - {x: -40.5, y: 28}
+        - {x: 40.5, y: 28}
+        - {x: 40.5, y: -28}
+      physicsShape:
+      - - {x: 40.5, y: 28}
+        - {x: 30.5, y: 28}
+        - {x: 21.5, y: 24}
+        - {x: -1.5, y: 17}
+        - {x: -33.5, y: 28}
+        - {x: -38.5, y: 28}
+        - {x: -40.499996, y: 26}
+        - {x: -40.499996, y: 22}
+        - {x: -21.5, y: -4.9999995}
+        - {x: -7.5, y: -22.999998}
+        - {x: -2.5, y: -28}
+        - {x: 2.5, y: -28}
+        - {x: 10.5, y: -19.999998}
+        - {x: 15.5, y: -12}
+        - {x: 40.5, y: 22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902dc710a83e412c886f2e0ddd56da4c
+      internalID: 21300046
+      vertices:
+      - {x: 0.5, y: 56}
+      - {x: 81.5, y: 56}
+      - {x: 0.5, y: 0}
+      - {x: 81.5, y: 0}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noisemaker_vfx_arrow0006
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 147
+        width: 81
+        height: 56
+      alignment: 9
+      pivot: {x: 0.49382716, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -40.5, y: -28}
+        - {x: -40.5, y: 28}
+        - {x: 40.5, y: 28}
+        - {x: 40.5, y: -28}
+      physicsShape:
+      - - {x: 40.5, y: 28}
+        - {x: 30.5, y: 28}
+        - {x: 21.5, y: 24}
+        - {x: -1.5, y: 17}
+        - {x: -33.5, y: 28}
+        - {x: -38.5, y: 28}
+        - {x: -40.499996, y: 26}
+        - {x: -40.499996, y: 22}
+        - {x: -21.5, y: -4.9999995}
+        - {x: -7.5, y: -22.999998}
+        - {x: -2.5, y: -28}
+        - {x: 2.5, y: -28}
+        - {x: 10.5, y: -19.999998}
+        - {x: 15.5, y: -12}
+        - {x: 40.5, y: 22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35db7c530cf94a9e98d6c70acdccabce
+      internalID: 21300048
+      vertices:
+      - {x: 0.5, y: 56}
+      - {x: 81.5, y: 56}
+      - {x: 0.5, y: 0}
+      - {x: 81.5, y: 0}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noisemaker_vfx_soundwaves0004
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 394
+        width: 237
+        height: 141
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5567376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -118.49999, y: -70.5}
+        - {x: -118.49999, y: 70.5}
+        - {x: 118.49999, y: 70.5}
+        - {x: 118.49999, y: -70.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c9500a89514942b4d6cdbd9990f0d3
+      internalID: 21300050
+      vertices:
+      - {x: 0.0000076293945, y: 133}
+      - {x: 237, y: 133}
+      - {x: 0.0000076293945, y: -8}
+      - {x: 237, y: -8}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noisemaker_vfx_bodyIcon0013
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 10
+        width: 105
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5285714, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -52.5, y: -37.5}
+        - {x: -52.5, y: 37.5}
+        - {x: 52.5, y: 37.5}
+        - {x: 52.5, y: -37.5}
+      physicsShape:
+      - - {x: 52.499996, y: 10.5}
+        - {x: 23.5, y: 32.5}
+        - {x: 7.5, y: 37.5}
+        - {x: -15.5, y: 37.5}
+        - {x: -28.5, y: 35.5}
+        - {x: -34.5, y: 21.499998}
+        - {x: -37.5, y: 6.5}
+        - {x: -46.499996, y: 5.5}
+        - {x: -52.5, y: -2.5}
+        - {x: -52.5, y: -10.5}
+        - {x: -51.5, y: -16.5}
+        - {x: -46.499996, y: -26.5}
+        - {x: -38.5, y: -33.5}
+        - {x: -22.5, y: -37.5}
+        - {x: 3.5, y: -37.5}
+        - {x: 10.5, y: -36.5}
+        - {x: 37.5, y: -25.5}
+        - {x: 52.499996, y: -14.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd68df940cd4714b4711c58c7906936
+      internalID: 21300052
+      vertices:
+      - {x: -3, y: 76.5}
+      - {x: 102, y: 76.5}
+      - {x: -3, y: 1.5}
+      - {x: 102, y: 1.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noisemaker_vfx_arrow0013
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 31
+        width: 81
+        height: 56
+      alignment: 9
+      pivot: {x: 0.49382716, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -40.5, y: -28}
+        - {x: -40.5, y: 28}
+        - {x: 40.5, y: 28}
+        - {x: 40.5, y: -28}
+      physicsShape:
+      - - {x: 40.5, y: 28}
+        - {x: 30.5, y: 28}
+        - {x: 21.5, y: 24}
+        - {x: -1.5, y: 17}
+        - {x: -33.5, y: 28}
+        - {x: -38.5, y: 28}
+        - {x: -40.499996, y: 26}
+        - {x: -40.499996, y: 22}
+        - {x: -21.5, y: -4.9999995}
+        - {x: -7.5, y: -22.999998}
+        - {x: -2.5, y: -28}
+        - {x: 2.5, y: -28}
+        - {x: 10.5, y: -19.999998}
+        - {x: 15.5, y: -12}
+        - {x: 40.5, y: 22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad54701f1d54bae91e62d00a1c7efe3
+      internalID: 21300054
+      vertices:
+      - {x: 0.5, y: 56}
+      - {x: 81.5, y: 56}
+      - {x: 0.5, y: 0}
+      - {x: 81.5, y: 0}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noisemaker_vfx_bodyIcon0014
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 321
+        width: 105
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5285714, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -52.5, y: -37.5}
+        - {x: -52.5, y: 37.5}
+        - {x: 52.5, y: 37.5}
+        - {x: 52.5, y: -37.5}
+      physicsShape:
+      - - {x: 52.499996, y: 10.5}
+        - {x: 23.5, y: 32.5}
+        - {x: 7.5, y: 37.5}
+        - {x: -15.5, y: 37.5}
+        - {x: -28.5, y: 35.5}
+        - {x: -34.5, y: 21.499998}
+        - {x: -37.5, y: 6.5}
+        - {x: -46.499996, y: 5.5}
+        - {x: -52.5, y: -2.5}
+        - {x: -52.5, y: -10.5}
+        - {x: -51.5, y: -16.5}
+        - {x: -46.499996, y: -26.5}
+        - {x: -38.5, y: -33.5}
+        - {x: -22.5, y: -37.5}
+        - {x: 3.5, y: -37.5}
+        - {x: 10.5, y: -36.5}
+        - {x: 37.5, y: -25.5}
+        - {x: 52.499996, y: -14.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fdec6208644ed48cd6b974676c27e3
+      internalID: 21300056
+      vertices:
+      - {x: -3, y: 76.5}
+      - {x: 102, y: 76.5}
+      - {x: -3, y: 1.5}
+      - {x: 102, y: 1.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noisemaker_vfx_soundwaves0008
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 379
+        width: 257
+        height: 156
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45833334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -128.5, y: -78}
+        - {x: -128.5, y: 78}
+        - {x: 128.5, y: 78}
+        - {x: 128.5, y: -78}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510da32bc1c04c8b8ca9c85d566d9280
+      internalID: 21300058
+      vertices:
+      - {x: 0, y: 162.5}
+      - {x: 257, y: 162.5}
+      - {x: 0, y: 6.5}
+      - {x: 257, y: 6.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noisemaker_vfx_soundwaves0005
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 78
+        width: 243
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -121.5, y: -72}
+        - {x: -121.5, y: 72}
+        - {x: 121.5, y: 72}
+        - {x: 121.5, y: -72}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f0f5499d9f4928aba368a245c37df9
+      internalID: 21300060
+      vertices:
+      - {x: 0, y: 139.5}
+      - {x: 243, y: 139.5}
+      - {x: 0, y: -4.5}
+      - {x: 243, y: -4.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noisemaker_vfx_soundwaves0006
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 386
+        width: 247
+        height: 149
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5067114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -123.5, y: -74.5}
+        - {x: -123.5, y: 74.5}
+        - {x: 123.5, y: 74.5}
+        - {x: 123.5, y: -74.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547a73ca0bdc4e9aa07780c862bc3c4a
+      internalID: 21300062
+      vertices:
+      - {x: 0, y: 148}
+      - {x: 247, y: 148}
+      - {x: 0, y: -1}
+      - {x: 247, y: -1}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noisemaker_vfx_bodyIcon0006
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 82
+        width: 109
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5275229, y: 0.48101267}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -54.5, y: -39.5}
+        - {x: -54.5, y: 39.5}
+        - {x: 54.5, y: 39.5}
+        - {x: 54.5, y: -39.5}
+      physicsShape:
+      - - {x: 54.5, y: 5.5}
+        - {x: 53.5, y: 11.5}
+        - {x: 23.5, y: 34.5}
+        - {x: 3.5, y: 39.5}
+        - {x: -18.499998, y: 39.5}
+        - {x: -32.5, y: 30.5}
+        - {x: -48.5, y: 4.5}
+        - {x: -53.5, y: 0.5}
+        - {x: -54.5, y: -2.5}
+        - {x: -54.5, y: -16.5}
+        - {x: -49.499996, y: -26.5}
+        - {x: -43.5, y: -35.5}
+        - {x: -25.5, y: -39.5}
+        - {x: 2.5, y: -39.5}
+        - {x: 12.5, y: -37.5}
+        - {x: 48.5, y: -21.499998}
+        - {x: 54.5, y: -12.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c5ae7595c646919e398e1ff988d0c5
+      internalID: 21300064
+      vertices:
+      - {x: -3, y: 80.5}
+      - {x: 106, y: 80.5}
+      - {x: -3, y: 1.5}
+      - {x: 106, y: 1.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noisemaker_vfx_bodyIcon0002
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 163
+        width: 125
+        height: 90
+      alignment: 9
+      pivot: {x: 0.524, y: 0.47777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -62.5, y: -45}
+        - {x: -62.5, y: 45}
+        - {x: 62.500004, y: 45}
+        - {x: 62.500004, y: -45}
+      physicsShape:
+      - - {x: 62.499996, y: 2}
+        - {x: 60.5, y: 11}
+        - {x: 52.499996, y: 20}
+        - {x: 35.5, y: 27.999998}
+        - {x: 27.499998, y: 37}
+        - {x: 19.5, y: 40.999996}
+        - {x: 2.5, y: 45}
+        - {x: -21.499998, y: 45}
+        - {x: -37.5, y: 35}
+        - {x: -42.5, y: 12}
+        - {x: -56.499996, y: 7}
+        - {x: -62.5, y: -3}
+        - {x: -62.5, y: -11.999999}
+        - {x: -61.5, y: -18}
+        - {x: -55.499996, y: -28.999998}
+        - {x: -48.5, y: -38}
+        - {x: -34.5, y: -38}
+        - {x: -19.5, y: -44.999996}
+        - {x: -0.5, y: -44.999996}
+        - {x: 7.5, y: -44}
+        - {x: 30.5, y: -37}
+        - {x: 56.499996, y: -23}
+        - {x: 62.499996, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecff39e9fb8744e180c6631531057aa9
+      internalID: 21300066
+      vertices:
+      - {x: -3, y: 92}
+      - {x: 122, y: 92}
+      - {x: -3, y: 2}
+      - {x: 122, y: 2}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noisemaker_vfx_soundwaves0002
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 258
+        width: 228
+        height: 134
+      alignment: 9
+      pivot: {x: 0.49780703, y: 0.61567163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -114, y: -67}
+        - {x: -114, y: 67}
+        - {x: 114, y: 67}
+        - {x: 114, y: -67}
+      physicsShape:
+      - - {x: 50, y: -62}
+        - {x: 54, y: -61}
+        - {x: 54, y: -56}
+        - {x: 51, y: -44.999996}
+        - {x: 30, y: -26}
+        - {x: 9, y: -19}
+        - {x: -17, y: -19}
+        - {x: -44, y: -33}
+        - {x: -55, y: -53}
+        - {x: -55, y: -62}
+        - {x: -52, y: -62}
+        - {x: -10, y: -36}
+        - {x: 10, y: -35}
+        - {x: 37, y: -47}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc44d59caa844152946645210a8ab6e5
+      internalID: 21300068
+      vertices:
+      - {x: 0.5, y: 118.5}
+      - {x: 228.5, y: 118.5}
+      - {x: 0.5, y: -15.5}
+      - {x: 228.5, y: -15.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noisemaker_vfx_arrow0012
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 31
+        width: 81
+        height: 56
+      alignment: 9
+      pivot: {x: 0.49382716, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -40.5, y: -28}
+        - {x: -40.5, y: 28}
+        - {x: 40.5, y: 28}
+        - {x: 40.5, y: -28}
+      physicsShape:
+      - - {x: 40.5, y: 28}
+        - {x: 30.5, y: 28}
+        - {x: 21.5, y: 24}
+        - {x: -1.5, y: 17}
+        - {x: -33.5, y: 28}
+        - {x: -38.5, y: 28}
+        - {x: -40.499996, y: 26}
+        - {x: -40.499996, y: 22}
+        - {x: -21.5, y: -4.9999995}
+        - {x: -7.5, y: -22.999998}
+        - {x: -2.5, y: -28}
+        - {x: 2.5, y: -28}
+        - {x: 10.5, y: -19.999998}
+        - {x: 15.5, y: -12}
+        - {x: 40.5, y: 22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1c3194f19540639996148289669aae
+      internalID: 21300070
+      vertices:
+      - {x: 0.5, y: 56}
+      - {x: 81.5, y: 56}
+      - {x: 0.5, y: 0}
+      - {x: 81.5, y: 0}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noisemaker_vfx_bodyIcon0008
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1
+        width: 105
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5285714, y: 0.4868421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -52.5, y: -38}
+        - {x: -52.5, y: 38}
+        - {x: 52.5, y: 38}
+        - {x: 52.5, y: -38}
+      physicsShape:
+      - - {x: 52.499996, y: -9}
+        - {x: 52.499996, y: 6}
+        - {x: 48.5, y: 12}
+        - {x: 25.5, y: 32}
+        - {x: 8.5, y: 38}
+        - {x: -15.5, y: 38}
+        - {x: -27.5, y: 36}
+        - {x: -34.5, y: 21.999998}
+        - {x: -52.5, y: -1}
+        - {x: -52.5, y: -10}
+        - {x: -51.5, y: -15.999999}
+        - {x: -45.5, y: -27.999998}
+        - {x: -35.5, y: -36}
+        - {x: -18.499998, y: -38}
+        - {x: 5.5, y: -38}
+        - {x: 11.5, y: -36}
+        - {x: 41.5, y: -23}
+        - {x: 51.5, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883ae4ff4f834b5583fc5665b93048b1
+      internalID: 21300072
+      vertices:
+      - {x: -3, y: 77}
+      - {x: 102, y: 77}
+      - {x: -3, y: 1}
+      - {x: 102, y: 1}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noisemaker_vfx_arrow0007
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 147
+        width: 81
+        height: 56
+      alignment: 9
+      pivot: {x: 0.49382716, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -40.5, y: -28}
+        - {x: -40.5, y: 28}
+        - {x: 40.5, y: 28}
+        - {x: 40.5, y: -28}
+      physicsShape:
+      - - {x: 40.5, y: 28}
+        - {x: 30.5, y: 28}
+        - {x: 21.5, y: 24}
+        - {x: -1.5, y: 17}
+        - {x: -33.5, y: 28}
+        - {x: -38.5, y: 28}
+        - {x: -40.499996, y: 26}
+        - {x: -40.499996, y: 22}
+        - {x: -21.5, y: -4.9999995}
+        - {x: -7.5, y: -22.999998}
+        - {x: -2.5, y: -28}
+        - {x: 2.5, y: -28}
+        - {x: 10.5, y: -19.999998}
+        - {x: 15.5, y: -12}
+        - {x: 40.5, y: 22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a8c2719847435482cc328ac0dd17ea
+      internalID: 21300074
+      vertices:
+      - {x: 0.5, y: 56}
+      - {x: 81.5, y: 56}
+      - {x: 0.5, y: 0}
+      - {x: 81.5, y: 0}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      noisemaker_vfx_arrow0001: 21300038
+      noisemaker_vfx_arrow0002: 21300046
+      noisemaker_vfx_arrow0003: 21300042
+      noisemaker_vfx_arrow0004: 21300040
+      noisemaker_vfx_arrow0005: 21300010
+      noisemaker_vfx_arrow0006: 21300048
+      noisemaker_vfx_arrow0007: 21300074
+      noisemaker_vfx_arrow0008: 21300030
+      noisemaker_vfx_arrow0009: 21300036
+      noisemaker_vfx_arrow0010: 21300002
+      noisemaker_vfx_arrow0011: 21300004
+      noisemaker_vfx_arrow0012: 21300070
+      noisemaker_vfx_arrow0013: 21300054
+      noisemaker_vfx_arrow0014: 21300022
+      noisemaker_vfx_arrow0015: 21300008
+      noisemaker_vfx_bodyIcon0001: 21300032
+      noisemaker_vfx_bodyIcon0002: 21300066
+      noisemaker_vfx_bodyIcon0003: 21300018
+      noisemaker_vfx_bodyIcon0004: 21300028
+      noisemaker_vfx_bodyIcon0005: 21300034
+      noisemaker_vfx_bodyIcon0006: 21300064
+      noisemaker_vfx_bodyIcon0007: 21300020
+      noisemaker_vfx_bodyIcon0008: 21300072
+      noisemaker_vfx_bodyIcon0009: 21300006
+      noisemaker_vfx_bodyIcon0010: 21300024
+      noisemaker_vfx_bodyIcon0011: 21300016
+      noisemaker_vfx_bodyIcon0012: 21300014
+      noisemaker_vfx_bodyIcon0013: 21300052
+      noisemaker_vfx_bodyIcon0014: 21300056
+      noisemaker_vfx_bodyIcon0015: 21300026
+      noisemaker_vfx_soundwaves0001: 21300044
+      noisemaker_vfx_soundwaves0002: 21300068
+      noisemaker_vfx_soundwaves0003: 21300012
+      noisemaker_vfx_soundwaves0004: 21300050
+      noisemaker_vfx_soundwaves0005: 21300060
+      noisemaker_vfx_soundwaves0006: 21300062
+      noisemaker_vfx_soundwaves0007: 21300000
+      noisemaker_vfx_soundwaves0008: 21300058
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

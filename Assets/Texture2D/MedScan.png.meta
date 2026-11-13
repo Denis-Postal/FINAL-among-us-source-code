@@ -1,0 +1,315 @@
+fileFormatVersion: 2
+guid: 05ebd4fd57d157a4189ac57fdc0c15d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: medbayScan_wires
+  - first:
+      213: 21300002
+    second: medbayScan_panelBottom
+  - first:
+      213: 21300004
+    second: medbayScan_panelTop
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: medbayScan_wires
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 73
+        height: 364
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -5.5, y: 149}
+        - {x: -5.5, y: 182}
+        - {x: 14.5, y: 182}
+        - {x: 31.5, y: 136}
+        - {x: 36.499996, y: -34}
+        - {x: 36.499996, y: -136}
+        - {x: 11.499999, y: -182}
+        - {x: -16.5, y: -182}
+        - {x: 19.5, y: -142}
+        - {x: 15.5, y: -17}
+        - {x: -27.5, y: 39.999996}
+        - {x: -36.499996, y: 56}
+        - {x: -36.499996, y: 88}
+        - {x: -20.5, y: 50}
+        - {x: 12.5, y: 24}
+        - {x: -3.5, y: 94}
+        - {x: 8.5, y: 120.99999}
+      physicsShape:
+      - - {x: 32.5, y: -94}
+        - {x: 36.499996, y: -72.99999}
+        - {x: 36.499996, y: -32}
+        - {x: 34.5, y: -26}
+        - {x: 29.499998, y: -8}
+        - {x: 29.499998, y: 42.999996}
+        - {x: 30.5, y: 135}
+        - {x: 23.5, y: 158.99998}
+        - {x: 15.5, y: 170.99998}
+        - {x: 6.5, y: 182}
+        - {x: -5.5, y: 182}
+        - {x: -5.5, y: 181}
+        - {x: -6.5, y: 176}
+        - {x: 10.5, y: 158.99998}
+        - {x: 18.5, y: 130}
+        - {x: 9.5, y: 149}
+        - {x: 3.5, y: 152}
+        - {x: -1.5, y: 152}
+        - {x: -5.5, y: 149}
+        - {x: 5.5, y: 131}
+        - {x: 16.5, y: 107.99999}
+        - {x: 19.5, y: 72.99999}
+        - {x: 13.499999, y: 85.99999}
+        - {x: 4.5, y: 98.99999}
+        - {x: -5.5, y: 97.99999}
+        - {x: 11.499999, y: 57}
+        - {x: 16.5, y: 31}
+        - {x: 18.5, y: 3}
+        - {x: 14.5, y: 9.999999}
+        - {x: -8.5, y: 33}
+        - {x: -23.5, y: 55}
+        - {x: -26.499998, y: 70}
+        - {x: -35.5, y: 72.99999}
+        - {x: -36.499996, y: 72}
+        - {x: -36.499996, y: 55}
+        - {x: -29.499998, y: 42}
+        - {x: -13.499999, y: 22.999998}
+        - {x: 1.5, y: 7}
+        - {x: 20.5, y: -19}
+        - {x: 20.5, y: -137}
+        - {x: 13.499999, y: -152}
+        - {x: -8.5, y: -175}
+        - {x: -8.5, y: -181}
+        - {x: -7.4999995, y: -182}
+        - {x: -0.5, y: -182}
+        - {x: 25.5, y: -156}
+        - {x: 31.5, y: -145.99998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f5669fb66e4800ba3536da5e111552
+      internalID: 21300000
+      vertices:
+      - {x: 68, y: 318}
+      - {x: 73, y: 148}
+      - {x: 73, y: 46}
+      - {x: 48, y: 0}
+      - {x: 20, y: 0}
+      - {x: 56, y: 40}
+      - {x: 52, y: 165}
+      - {x: 9, y: 222}
+      - {x: 0.0000038146973, y: 238}
+      - {x: 0.0000038146973, y: 270}
+      - {x: 16, y: 232}
+      - {x: 49, y: 206}
+      - {x: 33, y: 276}
+      - {x: 45, y: 303}
+      - {x: 31, y: 331}
+      - {x: 31, y: 364}
+      - {x: 51, y: 364}
+      indices: 0e0000000f00000010000000000000000e00000010000000000000000b0000000c000000000000000d0000000e00000008000000090000000a000000070000000a0000000b00000007000000080000000a00000006000000070000000b00000001000000060000000b00000001000000020000000500000003000000040000000500000002000000030000000500000001000000050000000600000000000000010000000b000000000000000c0000000d000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medbayScan_panelBottom
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 32
+        width: 504
+        height: 154
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -252, y: -77}
+        - {x: -252, y: 77}
+        - {x: 252, y: 77}
+        - {x: 252, y: -77}
+      physicsShape:
+      - - {x: -252, y: 77}
+        - {x: -252, y: -77}
+        - {x: 252, y: -77}
+        - {x: 252, y: 77}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5e326de7094bc09a74bdce39f989bc
+      internalID: 21300002
+      vertices:
+      - {x: 504, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 154}
+      - {x: 504, y: 154}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medbayScan_panelTop
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 188
+        width: 504
+        height: 179
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -252, y: -89.5}
+        - {x: -252, y: 89.5}
+        - {x: 252, y: 89.5}
+        - {x: 252, y: -89.5}
+      physicsShape:
+      - - {x: -252, y: 89.5}
+        - {x: -252, y: -89.5}
+        - {x: 252, y: -89.5}
+        - {x: 252, y: 89.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20383aaa3d654b6cabcf2f41b3497a13
+      internalID: 21300004
+      vertices:
+      - {x: 504, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 179}
+      - {x: 504, y: 179}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      medbayScan_panelBottom: 21300002
+      medbayScan_panelTop: 21300004
+      medbayScan_wires: 21300000
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

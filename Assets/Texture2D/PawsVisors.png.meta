@@ -1,0 +1,943 @@
+fileFormatVersion: 2
+guid: 43dd15ff3a2250a419f48f27f9b8e1dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: 2024_fuzzy_beans_visor_carrot0004
+  - first:
+      213: 21300002
+    second: 2024_fuzzy_beans_visor_carrot0001
+  - first:
+      213: 21300004
+    second: 2024_paws_beans_visor_holdingBone0001
+  - first:
+      213: 21300006
+    second: 2024_fuzzy_beans_visor_sacabampapis0002
+  - first:
+      213: 21300008
+    second: 2024_paws_beans_visor_parrotBeak0001
+  - first:
+      213: 21300010
+    second: 2024_fuzzy_beans_visor_sacabampapis0001
+  - first:
+      213: 21300012
+    second: 2024_fuzzy_beans_visor_carrot0003
+  - first:
+      213: 21300014
+    second: 2024_fuzzy_beans_visor_carrot0002
+  - first:
+      213: 21300016
+    second: 2024_paws_beans_visor_raccoon0003
+  - first:
+      213: 21300018
+    second: 2024_paws_beans_visor_parrotBeak0002
+  - first:
+      213: 21300020
+    second: 2024_paws_beans_visor_holdingBone0003
+  - first:
+      213: 21300022
+    second: 2024_paws_beans_visor_raccoon0002
+  - first:
+      213: 21300024
+    second: 2024_paws_beans_visor_holdingBone0002
+  - first:
+      213: 21300026
+    second: 2024_paws_beans_visor_raccoon0001
+  - first:
+      213: 21300028
+    second: 2024_paws_beans_visor_parrotBeak0003
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2024_fuzzy_beans_visor_carrot0004
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 68
+        width: 120.92388
+        height: 53
+      alignment: 9
+      pivot: {x: 0.34732592, y: 1.3962264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -35.46194, y: 24.500002}
+        - {x: 35.538055, y: 26.5}
+        - {x: 65.538055, y: -13.5}
+        - {x: -36.46194, y: -26.5}
+        - {x: -60.46194, y: -2.5}
+      physicsShape:
+      - - {x: 59.53806, y: -26.5}
+        - {x: 59.53806, y: -24.5}
+        - {x: 56.53806, y: -23.5}
+        - {x: 54.53805, y: -26.5}
+      - - {x: 57.53806, y: -4.5}
+        - {x: 55.53806, y: 1.5000038}
+        - {x: 35.538055, y: 25.5}
+        - {x: 31.53806, y: 25.5}
+        - {x: 17.53806, y: 24.500002}
+        - {x: 10.538059, y: 16.5}
+        - {x: 2.5380592, y: 25.5}
+        - {x: -2.4619408, y: 25.5}
+        - {x: -9.461941, y: 21.5}
+        - {x: -36.46194, y: 22.5}
+        - {x: -46.46194, y: 12.5}
+        - {x: -49.46194, y: -1.4999962}
+        - {x: -49.46194, y: -9.5}
+        - {x: -48.461937, y: -15.5}
+        - {x: -38.461937, y: -23.5}
+        - {x: -13.461941, y: -23.5}
+        - {x: -5.461941, y: -20.5}
+        - {x: 54.53805, y: -15.5}
+        - {x: 57.53806, y: -12.499996}
+      - - {x: -60.46194, y: 26.5}
+        - {x: -60.46194, y: 12.5}
+        - {x: -57.46194, y: 12.5}
+        - {x: -49.46194, y: 23.5}
+        - {x: -49.46194, y: 26.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93d090a5f2e4e979ed3206dc1646e05
+      internalID: 21300000
+      vertices:
+      - {x: 144.46194, y: -34.5}
+      - {x: 42.46194, y: -47.5}
+      - {x: 18.46194, y: -23.5}
+      - {x: 43.46194, y: 3.500002}
+      - {x: 114.46194, y: 5.5}
+      indices: 010000000300000004000000010000000200000003000000000000000100000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_fuzzy_beans_visor_carrot0001
+      rect:
+        serializedVersion: 2
+        x: 359.0477
+        y: 21.051317
+        width: 106.95229
+        height: 50.872562
+      alignment: 9
+      pivot: {x: 0.03695387, y: 1.4142926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 53.476154, y: -29.487595}
+        - {x: -60.523846, y: -14.487595}
+        - {x: -35.523846, y: 25.512405}
+        - {x: 53.476154, y: 24.512405}
+      physicsShape:
+      - - {x: 40.476154, y: 20.512405}
+        - {x: 29.476154, y: 20.512405}
+        - {x: 17.476147, y: 17.512405}
+        - {x: 7.4761543, y: 24.512405}
+        - {x: -14.523846, y: 24.512405}
+        - {x: -20.523846, y: 15.512405}
+        - {x: -30.523846, y: 24.512405}
+        - {x: -37.523846, y: 22.512405}
+        - {x: -44.523846, y: 7.5124054}
+        - {x: -52.523846, y: -1.4875946}
+        - {x: -52.523846, y: -10.487595}
+        - {x: -50.523846, y: -17.487595}
+        - {x: -4.5238457, y: -20.487587}
+        - {x: 12.476154, y: -19.487595}
+        - {x: 20.476154, y: -24.487595}
+        - {x: 50.476154, y: -24.487595}
+        - {x: 53.476154, y: -16.487595}
+        - {x: 53.476154, y: 3.5124092}
+        - {x: 50.476154, y: 11.512405}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27534f476164e48b308bdce18fa7f05
+      internalID: 21300002
+      vertices:
+      - {x: 156.47615, y: 3.4362812}
+      - {x: 156.47615, y: -50.56372}
+      - {x: 42.476147, y: -35.56372}
+      - {x: 67.47615, y: 4.436281}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_paws_beans_visor_holdingBone0001
+      rect:
+        serializedVersion: 2
+        x: 2.026751
+        y: 27
+        width: 113.89713
+        height: 66.92388
+      alignment: 9
+      pivot: {x: 0.18414204, y: 1.1804456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -55.97532, y: 32.53806}
+        - {x: -3.975319, y: 21.53806}
+        - {x: 39.02468, y: 37.53806}
+        - {x: 66.02468, y: 15.538061}
+        - {x: 47.02468, y: -20.46194}
+        - {x: -8.975321, y: -17.46194}
+        - {x: -57.97532, y: -33.46194}
+      physicsShape:
+      - - {x: -16.975319, y: -23.46194}
+        - {x: -25.975319, y: -30.46194}
+        - {x: -25.975319, y: -33.46194}
+        - {x: 12.024681, y: -33.46194}
+        - {x: 12.024681, y: -30.46194}
+        - {x: 3.024681, y: -23.46194}
+      - - {x: 40.02468, y: -25.46194}
+        - {x: 37.024673, y: -30.46194}
+        - {x: 38.02468, y: -33.46194}
+        - {x: 54.02468, y: -33.46194}
+        - {x: 56.024673, y: -31.46194}
+        - {x: 56.024673, y: -28.46194}
+        - {x: 54.02468, y: -25.46194}
+      - - {x: 52.02468, y: -12.461941}
+        - {x: 53.02468, y: -8.461937}
+        - {x: 53.02468, y: 23.53806}
+        - {x: 46.02468, y: 32.53806}
+        - {x: 27.024681, y: 32.53806}
+        - {x: 15.024681, y: 24.53806}
+        - {x: 4.0246773, y: 23.53806}
+        - {x: -13.975319, y: 21.53806}
+        - {x: -31.975319, y: 27.53806}
+        - {x: -47.97532, y: 27.53806}
+        - {x: -55.97532, y: 20.53806}
+        - {x: -55.97532, y: 3.5380592}
+        - {x: -52.97532, y: -19.46194}
+        - {x: -46.97532, y: -23.46194}
+        - {x: -22.975319, y: -23.46194}
+        - {x: 17.024677, y: -7.461937}
+        - {x: 19.024681, y: -16.46194}
+        - {x: 42.02468, y: -22.46194}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d0e522634347e198dc625060081dd1
+      internalID: 21300004
+      vertices:
+      - {x: 158.94856, y: 3.4619427}
+      - {x: 139.94856, y: -32.53806}
+      - {x: 83.94856, y: -29.53806}
+      - {x: 34.948566, y: -45.53806}
+      - {x: 36.94857, y: 20.46194}
+      - {x: 88.94856, y: 9.461941}
+      - {x: 131.94856, y: 25.46194}
+      indices: 020000000400000005000000010000000500000006000000020000000300000004000000010000000200000005000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_fuzzy_beans_visor_sacabampapis0002
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 11
+        width: 69
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5072464, y: 0.2962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23.499998, y: -13.5}
+        - {x: -34.5, y: -7.5}
+        - {x: -13.5, y: 13.5}
+        - {x: 34.5, y: 0.5}
+      physicsShape:
+      - - {x: 14.5, y: 1.5}
+        - {x: 9.5, y: -0.5000005}
+        - {x: 9.5, y: -5.5}
+        - {x: 18.5, y: -12.5}
+        - {x: 24.5, y: -12.5}
+        - {x: 29.5, y: -8.5}
+        - {x: 29.5, y: 1.5}
+      - - {x: -20.5, y: 5.5}
+        - {x: -19.499998, y: 2.5}
+        - {x: -22.499998, y: 2.5}
+        - {x: -24.5, y: 0.5}
+        - {x: -24.5, y: -2.5}
+        - {x: -0.5, y: -11.5}
+        - {x: 6.5, y: -11.5}
+        - {x: 7.5, y: -10.5}
+        - {x: 7.5, y: -3.5}
+        - {x: -3.5, y: 10.5}
+        - {x: -17.5, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a38798ff53f4176948dc18b771aefc4
+      internalID: 21300006
+      vertices:
+      - {x: 68.5, y: 19.5}
+      - {x: 57.5, y: 5.5}
+      - {x: -0.5, y: 11.5}
+      - {x: 20.5, y: 32.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_paws_beans_visor_parrotBeak0001
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 81
+        width: 64
+        height: 70
+      alignment: 9
+      pivot: {x: -0.296875, y: 0.7714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -32, y: -34.999996}
+        - {x: -32, y: 35}
+        - {x: 32, y: 35}
+        - {x: 32, y: -34.999996}
+      physicsShape:
+      - - {x: 11, y: 35}
+        - {x: -21.000002, y: 35}
+        - {x: -32, y: 25}
+        - {x: -32, y: -23}
+        - {x: -24.000002, y: -34.999996}
+        - {x: 32, y: -34.999996}
+        - {x: 32, y: 20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c4bb41b0a04382a7e26ad9bd547685
+      internalID: 21300008
+      vertices:
+      - {x: 115, y: -18.999996}
+      - {x: 51, y: -18.999996}
+      - {x: 51, y: 51}
+      - {x: 115, y: 51}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_fuzzy_beans_visor_sacabampapis0001
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 6
+        width: 48
+        height: 26
+      alignment: 9
+      pivot: {x: -0.20833333, y: 1.4230769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -24, y: -13}
+        - {x: -24, y: 13}
+        - {x: 24, y: 13}
+        - {x: 24, y: -13}
+      physicsShape:
+      - - {x: 14, y: 13}
+        - {x: 11, y: 10}
+        - {x: 11, y: 5}
+        - {x: -5, y: 1.0000019}
+        - {x: -8, y: 7}
+        - {x: -12, y: 11}
+        - {x: -21, y: 12}
+        - {x: -24, y: 7}
+        - {x: -24, y: 0}
+        - {x: -19, y: -5}
+        - {x: -9, y: -13}
+        - {x: 5.999996, y: -13}
+        - {x: 24, y: -2.999998}
+        - {x: 24, y: 10}
+        - {x: 22, y: 13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9329b36269f24837818816ce3a68455b
+      internalID: 21300010
+      vertices:
+      - {x: 82, y: -24}
+      - {x: 34, y: -24}
+      - {x: 34, y: 2}
+      - {x: 82, y: 2}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_fuzzy_beans_visor_carrot0003
+      rect:
+        serializedVersion: 2
+        x: 282.02676
+        y: 89
+        width: 116.97325
+        height: 60.943626
+      alignment: 9
+      pivot: {x: 0.6238455, y: -0.45944098}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -4.5133896, y: 13.528187}
+        - {x: -57.51339, y: -30.471813}
+        - {x: -59.51339, y: 31.528187}
+        - {x: 29.48661, y: 29.528187}
+        - {x: 58.48661, y: 13.528187}
+        - {x: 42.48661, y: 3.5281868}
+      physicsShape:
+      - - {x: 36.48661, y: 0.528183}
+        - {x: 28.48661, y: -2.4718132}
+        - {x: 21.48661, y: 0.528183}
+        - {x: 7.4866104, y: 0.528183}
+        - {x: -18.51339, y: -2.4718132}
+        - {x: -28.513386, y: -12.471817}
+        - {x: -31.513386, y: -30.471813}
+        - {x: 58.48661, y: -30.471813}
+        - {x: 58.48661, y: -1.4718132}
+        - {x: 54.486607, y: 0.528183}
+      - - {x: 38.48661, y: 0.528183}
+        - {x: 50.48661, y: 7.528187}
+        - {x: 50.48661, y: 18.528187}
+        - {x: 32.48661, y: 26.528187}
+        - {x: 26.48661, y: 27.52818}
+        - {x: 11.48661, y: 30.528187}
+        - {x: -22.51339, y: 30.528187}
+        - {x: -52.513382, y: 29.528187}
+        - {x: -58.513382, y: 11.528187}
+        - {x: -58.513382, y: -12.471817}
+        - {x: -50.51339, y: -16.471813}
+        - {x: -38.513386, y: -16.471813}
+        - {x: -28.513386, y: -0.4718132}
+        - {x: -10.51339, y: 11.528187}
+        - {x: 32.48661, y: 7.528187}
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd7a17a4d464adca2201b33ff29aafe
+      internalID: 21300012
+      vertices:
+      - {x: 73.486626, y: 118.47182}
+      - {x: 102.486626, y: 102.47182}
+      - {x: 86.486626, y: 92.47182}
+      - {x: 39.486626, y: 102.47182}
+      - {x: -13.513374, y: 58.471813}
+      - {x: -15.513374, y: 120.47182}
+      indices: 030000000400000005000000000000000100000002000000000000000200000003000000000000000300000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_fuzzy_beans_visor_carrot0002
+      rect:
+        serializedVersion: 2
+        x: 13.051316
+        y: 100
+        width: 140.94868
+        height: 49.963715
+      alignment: 9
+      pivot: {x: 0.45370188, y: 0.420305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 4.4743423, y: -24.981857}
+        - {x: -82.52566, y: -5.9818573}
+        - {x: -50.525658, y: 26.01814}
+        - {x: -5.5256577, y: 24.018143}
+        - {x: 70.47434, y: -1.9818573}
+        - {x: 70.47434, y: -24.981857}
+      physicsShape:
+      - - {x: 33.47434, y: 0.0181427}
+        - {x: 33.47434, y: -18.981857}
+        - {x: 44.474342, y: -24.981857}
+        - {x: 65.47434, y: -24.981857}
+        - {x: 70.47434, y: -18.981857}
+        - {x: 70.47434, y: 0.0181427}
+      - - {x: 6.4743423, y: 18.018143}
+        - {x: -1.5256581, y: 23.01814}
+        - {x: -10.525658, y: 24.018143}
+        - {x: -34.525658, y: 24.018143}
+        - {x: -47.525658, y: 20.018143}
+        - {x: -59.525654, y: 17.018143}
+        - {x: -70.52566, y: 4.0181427}
+        - {x: -70.52566, y: -1.9818573}
+        - {x: -66.52565, y: -6.9818573}
+        - {x: -57.525658, y: -10.981857}
+        - {x: -21.525658, y: -17.981857}
+        - {x: -5.5256577, y: -22.981857}
+        - {x: -1.5256581, y: -23.981855}
+        - {x: 15.474342, y: -23.981855}
+        - {x: 34.474342, y: -5.9818573}
+        - {x: 34.474342, y: 9.018143}
+        - {x: 33.47434, y: 14.018143}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62745ddd59334493b9c1f372788022b6
+      internalID: 21300014
+      vertices:
+      - {x: 71.47434, y: 52.981857}
+      - {x: 147.47433, y: 26.981857}
+      - {x: 147.47433, y: 3.9818573}
+      - {x: 81.47434, y: 3.9818573}
+      - {x: -5.5256577, y: 22.981857}
+      - {x: 26.474342, y: 54.981857}
+      indices: 030000000400000005000000030000000000000001000000030000000100000002000000000000000300000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_paws_beans_visor_raccoon0003
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 38.076122
+        width: 59.923878
+        height: 40.923878
+      alignment: 9
+      pivot: {x: 0.61745, y: -1.6634818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -29.961939, y: -18.538063}
+        - {x: -29.961939, y: 20.461937}
+        - {x: 8.038061, y: 20.461937}
+        - {x: 35.038063, y: 5.461937}
+        - {x: 24.038061, y: -20.538063}
+      physicsShape:
+      - - {x: 26.038061, y: 11.461937}
+        - {x: 14.038061, y: 14.461937}
+        - {x: 10.038061, y: 20.461937}
+        - {x: -7.961938, y: 20.461937}
+        - {x: -12.961937, y: 15.461937}
+        - {x: -25.961939, y: 12.461937}
+        - {x: -29.961939, y: 5.461937}
+        - {x: -29.961939, y: -9.538063}
+        - {x: -24.961939, y: -19.538063}
+        - {x: 4.038061, y: -19.538063}
+        - {x: 9.038061, y: -18.538063}
+        - {x: 17.03806, y: -19.538063}
+        - {x: 23.038061, y: -19.538063}
+        - {x: 30.03806, y: -9.538063}
+        - {x: 30.03806, y: 0.46193695}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b38d1fb139c4aa099b3fc4013decc46
+      internalID: 21300016
+      vertices:
+      - {x: 57.961937, y: 114.46194}
+      - {x: 46.961937, y: 88.46194}
+      - {x: -7.038061, y: 90.46194}
+      - {x: -7.038061, y: 129.46194}
+      - {x: 30.961939, y: 129.46194}
+      indices: 020000000300000004000000010000000200000004000000000000000100000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_paws_beans_visor_parrotBeak0002
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 35.07612
+        width: 93
+        height: 55.92388
+      alignment: 9
+      pivot: {x: 0.5483871, y: 0.4456751}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -31.5, y: 16.961939}
+        - {x: -1.5, y: 27.96194}
+        - {x: 37.5, y: 16.961939}
+        - {x: 46.5, y: -19.03806}
+        - {x: -11.5, y: -34.03806}
+        - {x: -46.5, y: -7.038059}
+      physicsShape:
+      - - {x: 38.5, y: 10.961941}
+        - {x: 26.5, y: 21.96194}
+        - {x: -13.5, y: 21.96194}
+        - {x: -20.5, y: 20.96194}
+        - {x: -27.5, y: 16.961939}
+        - {x: -40.5, y: 0.96194077}
+        - {x: -40.5, y: -9.038059}
+        - {x: -29.5, y: -17.03806}
+        - {x: -17.5, y: -27.03806}
+        - {x: 18.5, y: -27.03806}
+        - {x: 29.5, y: -22.03806}
+        - {x: 39.5, y: -10.038059}
+        - {x: 39.5, y: 2.9619408}
+      - - {x: -45.5, y: 27.96194}
+        - {x: -45.5, y: 23.961939}
+        - {x: -20.5, y: 23.961939}
+        - {x: -20.5, y: 27.96194}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3972db040f4934af7e116f863b8976
+      internalID: 21300018
+      vertices:
+      - {x: 79.5, y: 47.961937}
+      - {x: 88.5, y: 11.961941}
+      - {x: 30.5, y: -3.0380592}
+      - {x: -4.5, y: 23.96194}
+      - {x: 10.5, y: 47.961937}
+      - {x: 40.5, y: 58.96194}
+      indices: 020000000400000005000000020000000300000004000000000000000100000002000000000000000200000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_paws_beans_visor_holdingBone0003
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 34
+        width: 122
+        height: 52
+      alignment: 9
+      pivot: {x: 0.56557375, y: -1.0961539}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -61, y: -26}
+        - {x: -61, y: 26}
+        - {x: 60.999996, y: 26}
+        - {x: 60.999996, y: -26}
+      physicsShape:
+      - - {x: 60.999996, y: 4}
+        - {x: 55, y: 19}
+        - {x: 43, y: 26}
+        - {x: 26, y: 26}
+        - {x: 15, y: 14}
+        - {x: -23, y: 26}
+        - {x: -44, y: 26}
+        - {x: -53, y: 20}
+        - {x: -61, y: -1}
+        - {x: -61, y: -11}
+        - {x: -54, y: -22}
+        - {x: -34, y: -26}
+        - {x: 50.999996, y: -26}
+        - {x: 60, y: -21}
+        - {x: 60.999996, y: -16.000008}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428241ae83c7431680d83ba2f3f257b2
+      internalID: 21300020
+      vertices:
+      - {x: 114, y: 83}
+      - {x: -8, y: 83}
+      - {x: -8, y: 135}
+      - {x: 114, y: 135}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_paws_beans_visor_raccoon0002
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 87
+        width: 85.92388
+        height: 57.923878
+      alignment: 9
+      pivot: {x: 0.616825, y: 0.20716844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -42.96194, y: -8.961939}
+        - {x: 15.038059, y: 35.038063}
+        - {x: 54.03806, y: -3.9619389}
+        - {x: 29.038057, y: -28.961939}
+        - {x: -42.96194, y: -28.961939}
+      physicsShape:
+      - - {x: 25.038055, y: 28.038061}
+        - {x: 8.038055, y: 28.038061}
+        - {x: 2.0380554, y: 27.038061}
+        - {x: -6.9619446, y: -3.9619389}
+        - {x: -18.961945, y: -3.9619389}
+        - {x: -38.96194, y: -4.961939}
+        - {x: -42.96194, y: -8.961939}
+        - {x: -42.96194, y: -16.961939}
+        - {x: -13.961945, y: -28.961939}
+        - {x: 30.038054, y: -28.961939}
+        - {x: 42.038055, y: -15.961939}
+        - {x: 42.038055, y: -6.96194}
+        - {x: 28.038055, y: 23.038057}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8811b344ad1045c69b928f66866f85ad
+      internalID: 21300022
+      vertices:
+      - {x: 86.961945, y: 41.961937}
+      - {x: 61.961945, y: 16.961939}
+      - {x: -10.038055, y: 16.961939}
+      - {x: -10.038055, y: 36.961937}
+      - {x: 47.961945, y: 80.96194}
+      indices: 010000000300000004000000010000000200000003000000000000000100000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_paws_beans_visor_holdingBone0002
+      rect:
+        serializedVersion: 2
+        x: 162.07613
+        y: 89.02675
+        width: 116.92388
+        height: 56.946495
+      alignment: 9
+      pivot: {x: 0.4953981, y: 0.43853888}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 38.46193, y: -30.499994}
+        - {x: -64.53806, y: -17.499996}
+        - {x: -48.538067, y: 33.500004}
+        - {x: 58.461933, y: 20.500004}
+        - {x: 58.461933, y: -10.499996}
+      physicsShape:
+      - - {x: 42.461926, y: 26.500002}
+        - {x: 18.46193, y: 16.500002}
+        - {x: -3.5380707, y: 15.500004}
+        - {x: -13.538071, y: 26.500002}
+        - {x: -19.53807, y: 27.500004}
+        - {x: -37.53807, y: 27.500004}
+        - {x: -39.53807, y: 26.500002}
+        - {x: -57.53807, y: 8.500004}
+        - {x: -57.53807, y: -9.499996}
+        - {x: -49.538067, y: -17.499996}
+        - {x: -32.53807, y: -19.499996}
+        - {x: -22.53807, y: -11.499996}
+        - {x: 4.461929, y: -13.499995}
+        - {x: 15.461929, y: -27.499996}
+        - {x: 41.46193, y: -27.499996}
+        - {x: 48.461926, y: -20.499996}
+        - {x: 58.461926, y: -6.499996}
+        - {x: 58.461926, y: 14.500004}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d35b7132a94a3a92cb03fc4d261789
+      internalID: 21300024
+      vertices:
+      - {x: 117.461945, y: 52.473248}
+      - {x: 117.461945, y: 21.473248}
+      - {x: 97.461945, y: 1.4732494}
+      - {x: -5.5380516, y: 14.473248}
+      - {x: 10.461945, y: 65.47325}
+      indices: 020000000300000004000000000000000100000002000000000000000200000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_paws_beans_visor_raccoon0001
+      rect:
+        serializedVersion: 2
+        x: 259.0761
+        y: 2
+        width: 93.84776
+        height: 62.923878
+      alignment: 9
+      pivot: {x: 0.073777884, y: 0.8899642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -43.999992, y: -2.461937}
+        - {x: -53.999992, y: 28.538061}
+        - {x: 33, y: 32.538063}
+        - {x: 52, y: -31.461939}
+        - {x: -11.999992, y: -31.461939}
+      physicsShape:
+      - - {x: 46, y: -11.461939}
+        - {x: 37.000008, y: 6.538061}
+        - {x: 36.000008, y: 24.538061}
+        - {x: 26.000008, y: 30.538061}
+        - {x: 4.0000076, y: 30.538061}
+        - {x: -6.9999924, y: 29.538061}
+        - {x: -37.999992, y: 28.538061}
+        - {x: -45.999992, y: 20.538061}
+        - {x: -45.999992, y: 0.53806114}
+        - {x: -33.999992, y: -8.461939}
+        - {x: -14.999992, y: -29.461935}
+        - {x: -8.999992, y: -31.461939}
+        - {x: 13.000004, y: -31.461939}
+        - {x: 29.000008, y: -23.461939}
+        - {x: 39.000008, y: -29.461935}
+        - {x: 46, y: -21.461935}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15058b4a137e4e39943b5619b35f6e4b
+      internalID: 21300026
+      vertices:
+      - {x: 138.92387, y: -24.538061}
+      - {x: 74.92388, y: -24.538061}
+      - {x: 42.92388, y: 4.461941}
+      - {x: 32.92388, y: 35.461937}
+      - {x: 119.923874, y: 39.461937}
+      indices: 020000000300000004000000010000000200000004000000000000000100000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_paws_beans_visor_parrotBeak0003
+      rect:
+        serializedVersion: 2
+        x: 15.149349
+        y: 3.0129125
+        width: 66.736435
+        height: 35.987087
+      alignment: 9
+      pivot: {x: 0.6570721, y: -1.8065622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -7.5175667, y: 15.993538}
+        - {x: 23.482433, y: 17.993546}
+        - {x: 35.482433, y: -19.006454}
+        - {x: -40.517567, y: -17.006454}
+      physicsShape:
+      - - {x: 32.482433, y: -7.0064545}
+        - {x: 28.482433, y: 6.9935455}
+        - {x: 15.482433, y: 15.993538}
+        - {x: -3.5175667, y: 15.993538}
+        - {x: -12.517565, y: 13.993546}
+        - {x: -20.517567, y: 2.993538}
+        - {x: -25.517567, y: -7.0064545}
+        - {x: -25.517567, y: -14.006454}
+        - {x: -24.517567, y: -16.006462}
+        - {x: -15.517567, y: -16.006462}
+        - {x: 9.482433, y: -12.006454}
+        - {x: 24.482433, y: -16.006462}
+        - {x: 32.482433, y: -16.006462}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd0c1de9b284236ac667164b0fc9a25
+      internalID: 21300028
+      vertices:
+      - {x: 58.368217, y: 81.993546}
+      - {x: -17.631783, y: 83.993546}
+      - {x: 15.368217, y: 116.99354}
+      - {x: 46.368217, y: 118.993546}
+      indices: 000000000200000003000000000000000100000002000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      2024_fuzzy_beans_visor_carrot0001: 21300002
+      2024_fuzzy_beans_visor_carrot0002: 21300014
+      2024_fuzzy_beans_visor_carrot0003: 21300012
+      2024_fuzzy_beans_visor_carrot0004: 21300000
+      2024_fuzzy_beans_visor_sacabampapis0001: 21300010
+      2024_fuzzy_beans_visor_sacabampapis0002: 21300006
+      2024_paws_beans_visor_holdingBone0001: 21300004
+      2024_paws_beans_visor_holdingBone0002: 21300024
+      2024_paws_beans_visor_holdingBone0003: 21300020
+      2024_paws_beans_visor_parrotBeak0001: 21300008
+      2024_paws_beans_visor_parrotBeak0002: 21300018
+      2024_paws_beans_visor_parrotBeak0003: 21300028
+      2024_paws_beans_visor_raccoon0001: 21300026
+      2024_paws_beans_visor_raccoon0002: 21300022
+      2024_paws_beans_visor_raccoon0003: 21300016
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

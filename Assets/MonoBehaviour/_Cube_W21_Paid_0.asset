@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 825ac4e4914361a3d7ea08f1b54d9d4f, type: 3}
+  m_Name: _Cube_W21_Paid
+  m_EditorClassIdentifier:
+  StoreImageRef:
+    m_AssetGUID: 43d3f849b621f4a01b433802fa29b49d
+    m_SubObjectName: cosmicube_holiday2021_Paid
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  CosmicubePrefabRef:
+    m_AssetGUID: 685b1f9ffd266e1489a2cef99b592820
+    m_SubObjectName:
+    m_SubObjectType:
+  podIconRef:
+    m_AssetGUID: c464b10dda69848f28ec3e0e0d5ef1b6
+    m_SubObjectName: UI_Currency_holiday21_paid
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  DateCreated:
+  allUnlockables:
+  - {fileID: 11400000, guid: abac6d267e1a02448a964ba0527d0772, type: 2}
+  - {fileID: 11400000, guid: dde0676fc1887c144901f695d829f8da, type: 2}
+  - {fileID: 11400000, guid: 2546e4fe226a5984caf464a389803420, type: 2}
+  - {fileID: 11400000, guid: 024c1114b353a7246888ede629900b7f, type: 2}
+  - {fileID: 11400000, guid: 5a76aff237b2a2044bfc5d178d90af7f, type: 2}
+  - {fileID: 11400000, guid: bf7dc5115aa15b045b4550641507613e, type: 2}
+  - {fileID: 11400000, guid: e91fb2e0fef5fd74b863ab2a57778cc3, type: 2}
+  - {fileID: 11400000, guid: 4dedbd2a5cde59a4f947dfda48bbc7c6, type: 2}
+  - {fileID: 11400000, guid: c7dc6a699551111499ddbc5263e556f7, type: 2}
+  - {fileID: 11400000, guid: bee59744133f3704f9c81519fed9decb, type: 2}
+  - {fileID: 11400000, guid: c4b97a0816747ed499f5b677c77c3df2, type: 2}
+  - {fileID: 11400000, guid: 313c669206891bc45b4f1dc9894e4dd0, type: 2}
+  - {fileID: 11400000, guid: c258de38467004e4bb27a61b2b7aee43, type: 2}
+  - {fileID: 11400000, guid: 2a32594e04c099746acddb61b9a33c29, type: 2}
+  - {fileID: 11400000, guid: 4d07104de4e9d234b8ae0e915b37c541, type: 2}
+  - {fileID: 11400000, guid: d5cbd7e67a2593d499ac3e93fcea63c7, type: 2}
+  - {fileID: 11400000, guid: d869d523c9849bc47a103584a4626380, type: 2}
+  - {fileID: 11400000, guid: 4b251772334cd5b4db5a959812dc0493, type: 2}
+  - {fileID: 11400000, guid: 56b04c075fc491143855e091170b0b8d, type: 2}
+  - {fileID: 11400000, guid: 069860ae595970349870732ae56a76d5, type: 2}
+  - {fileID: 11400000, guid: 5dd593a91b300c545a61a666542efa88, type: 2}
+  - {fileID: 11400000, guid: 2ec63fe0f355147409ccae838ccbd5a6, type: 2}
+  - {fileID: 11400000, guid: 1090eb8c2927502449f7b0d54a558d77, type: 2}
+  starCost: 60
+  beanCost: 0
+  Order: 0
+  Free: 0
+  NotInStore: 0
+  XRange:
+    min: -0.4
+    max: 0.4
+  YRange:
+    min: -0.5
+    max: 0.57
+  podId: w21_paid
+  productId: cube_w21_paid
+  cosmicubeName: Snowflake
+  limitedTime:
+    timeStart:
+      limitedYear: 2025
+      limitedMonth: 12
+      limitedDay: 1
+      limitedHour: 17
+      limitedMinute: 0
+    timeEnd:
+      limitedYear: 2025
+      limitedMonth: 12
+      limitedDay: 31
+      limitedHour: 17
+      limitedMinute: 0
+  epicId:

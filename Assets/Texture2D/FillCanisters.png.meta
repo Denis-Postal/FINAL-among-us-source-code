@@ -1,0 +1,371 @@
+fileFormatVersion: 2
+guid: dce66ba1024a43c4d9d396cde3b877fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: panel_o2fill_cannister
+  - first:
+      213: 21300002
+    second: panel_o2fill_bar
+  - first:
+      213: 21300004
+    second: panel_o2fill_plug
+  - first:
+      213: 21300006
+    second: panel_o2fill_bg
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: panel_o2fill_cannister
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 470
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -138, y: 93}
+        - {x: 209.99998, y: 93}
+        - {x: 234.99998, y: 51}
+        - {x: 234.99998, y: -93}
+        - {x: -117.99999, y: -93}
+        - {x: -144, y: -88}
+        - {x: -182, y: -64}
+        - {x: -204, y: -26.999998}
+        - {x: -234.99998, y: -26.999998}
+        - {x: -234.99998, y: 22.999998}
+      physicsShape:
+      - - {x: 234.99998, y: 47}
+        - {x: 220, y: 79}
+        - {x: 202, y: 91}
+        - {x: 195, y: 93}
+        - {x: -117.99999, y: 93}
+        - {x: -128, y: 91}
+        - {x: -155, y: 78}
+        - {x: -167, y: 72}
+        - {x: -187, y: 52.999996}
+        - {x: -195, y: 37}
+        - {x: -208, y: 22}
+        - {x: -232, y: 28}
+        - {x: -234.99998, y: 22.999998}
+        - {x: -234.99998, y: -24}
+        - {x: -232, y: -26.999998}
+        - {x: -219, y: -28}
+        - {x: -216.99998, y: -24}
+        - {x: -203, y: -22.999998}
+        - {x: -189, y: -50}
+        - {x: -176, y: -65}
+        - {x: -155, y: -79.99999}
+        - {x: -122, y: -93}
+        - {x: 208.99998, y: -93}
+        - {x: 212.99998, y: -91}
+        - {x: 226, y: -79}
+        - {x: 234.99998, y: -56}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f21113a61024650b45f6219864bf9f6
+      internalID: 21300000
+      vertices:
+      - {x: 470, y: 144}
+      - {x: 470, y: 0}
+      - {x: 117.00001, y: 0}
+      - {x: 91, y: 5}
+      - {x: 53, y: 29}
+      - {x: 31, y: 66}
+      - {x: 0.000015258789, y: 66}
+      - {x: 0.000015258789, y: 116}
+      - {x: 97, y: 186}
+      - {x: 445, y: 186}
+      indices: 020000000800000009000000070000000500000006000000070000000800000005000000050000000300000004000000050000000800000003000000020000000300000008000000010000000200000009000000000000000100000009000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_o2fill_bar
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 104
+        width: 301
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 150.5, y: -22.5}
+        - {x: -150.5, y: -22.5}
+        - {x: -150.5, y: 22.5}
+        - {x: 150.5, y: 22.5}
+      physicsShape:
+      - - {x: -147.5, y: 22.5}
+        - {x: -150.5, y: 19.5}
+        - {x: -150.5, y: -21.499998}
+        - {x: -147.5, y: -22.5}
+        - {x: 147.5, y: -22.5}
+        - {x: 150.5, y: -16.5}
+        - {x: 150.5, y: 18.5}
+        - {x: 147.5, y: 22.5}
+      - - {x: -134.5, y: -2.4999998}
+        - {x: -135.5, y: 6.5}
+        - {x: -134.5, y: 7.4999995}
+        - {x: -134.5, y: 8.5}
+        - {x: 134.5, y: 8.5}
+        - {x: 134.5, y: 7.4999995}
+        - {x: 135.5, y: 6.5}
+        - {x: 135.5, y: -3.5}
+        - {x: 134.5, y: -5.5}
+        - {x: -134.5, y: -5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0e711650cb4f028087bd61d81c7f42
+      internalID: 21300002
+      vertices:
+      - {x: 301, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 45}
+      - {x: 301, y: 45}
+      - {x: 19, y: 32}
+      - {x: 19, y: 16}
+      - {x: 282, y: 16}
+      - {x: 283, y: 32}
+      indices: 050000000000000001000000050000000100000002000000040000000500000002000000040000000200000003000000070000000400000003000000060000000700000003000000000000000500000006000000030000000000000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_o2fill_plug
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 151
+        width: 158
+        height: 336
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 32, y: -45}
+        - {x: 6, y: -114}
+        - {x: -56, y: -168}
+        - {x: -79, y: -168}
+        - {x: -79, y: 168}
+        - {x: -51, y: 168}
+        - {x: 3, y: 130}
+        - {x: 26, y: 51}
+        - {x: 79, y: 35}
+        - {x: 79, y: -53.999996}
+      physicsShape:
+      - - {x: 14.999999, y: -94}
+        - {x: 28, y: -52}
+        - {x: 45, y: -41}
+        - {x: 51, y: -48}
+        - {x: 66.99999, y: -51}
+        - {x: 79, y: -42}
+        - {x: 79, y: 38}
+        - {x: 48.999996, y: 42}
+        - {x: 33, y: 29.999998}
+        - {x: 33, y: 44}
+        - {x: 18, y: 85}
+        - {x: 13, y: 91}
+        - {x: 11, y: 100}
+        - {x: 6, y: 109}
+        - {x: 2, y: 116}
+        - {x: -13, y: 131}
+        - {x: -35, y: 157}
+        - {x: -52, y: 168}
+        - {x: -78, y: 168}
+        - {x: -79, y: 167}
+        - {x: -79, y: -166}
+        - {x: -77, y: -168}
+        - {x: -59.999996, y: -168}
+        - {x: -42.999996, y: -157}
+        - {x: 0, y: -117.99999}
+        - {x: 8, y: -105.99999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c879f3fb59c46e8832672d4fe28902c
+      internalID: 21300004
+      vertices:
+      - {x: 82, y: 298}
+      - {x: 105, y: 219}
+      - {x: 158, y: 203}
+      - {x: 158, y: 114}
+      - {x: 111, y: 123}
+      - {x: 85, y: 54}
+      - {x: 23, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 336}
+      - {x: 28, y: 336}
+      indices: 070000000400000005000000010000000400000007000000070000000500000006000000010000000700000008000000040000000100000002000000040000000200000003000000000000000100000008000000000000000800000009000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_o2fill_bg
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 191
+        width: 628
+        height: 296
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -314, y: -148}
+        - {x: -314, y: 148}
+        - {x: 314, y: 148}
+        - {x: 314, y: -148}
+      physicsShape:
+      - - {x: -314, y: 148}
+        - {x: -314, y: -148}
+        - {x: 306, y: -148}
+        - {x: 314, y: -136}
+        - {x: 314, y: 148}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275b331caebd4448be739d44f24efb5b
+      internalID: 21300006
+      vertices:
+      - {x: 628, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 296}
+      - {x: 628, y: 296}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      panel_o2fill_bar: 21300002
+      panel_o2fill_bg: 21300006
+      panel_o2fill_cannister: 21300000
+      panel_o2fill_plug: 21300004
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

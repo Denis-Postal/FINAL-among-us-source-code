@@ -1,0 +1,1043 @@
+fileFormatVersion: 2
+guid: 1a49f551367f36b449f6fbbb5f784931
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: buttonIcons_PS5_R2
+  - first:
+      213: 21300002
+    second: buttonIcons_PS5_Square
+  - first:
+      213: 21300004
+    second: buttonIcons_PS5_L2
+  - first:
+      213: 21300006
+    second: buttonIcons_PS5_Touchpad
+  - first:
+      213: 21300008
+    second: buttonIcons_PS5_DPadLeft
+  - first:
+      213: 21300010
+    second: buttonIcons_PS5_L3
+  - first:
+      213: 21300012
+    second: buttonIcons_PS5_Triangle
+  - first:
+      213: 21300014
+    second: buttonIcons_PS5_DPadRight
+  - first:
+      213: 21300016
+    second: buttonIcons_PS5_Circle
+  - first:
+      213: 21300018
+    second: buttonIcons_PS5_Cross
+  - first:
+      213: 21300020
+    second: buttonIcons_PS5_RightStick
+  - first:
+      213: 21300022
+    second: buttonIcons_PS5_LeftStick
+  - first:
+      213: 21300024
+    second: buttonIcons_PS5_DPadUp
+  - first:
+      213: 21300026
+    second: buttonIcons_PS5_DPadDown
+  - first:
+      213: 21300028
+    second: buttonIcons_PS5_L1
+  - first:
+      213: 21300030
+    second: buttonIcons_PS5_Options
+  - first:
+      213: 21300032
+    second: buttonIcons_PS5_R3
+  - first:
+      213: 21300034
+    second: buttonIcons_PS5_R1
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: buttonIcons_PS5_R2
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 35
+        width: 77
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 38.5, y: -22.5}
+        - {x: -38.5, y: -22.5}
+        - {x: -38.5, y: 15.5}
+        - {x: -32.5, y: 22.5}
+        - {x: 32.5, y: 22.5}
+        - {x: 38.5, y: 16.5}
+      physicsShape:
+      - - {x: -31.5, y: 22.5}
+        - {x: -38.5, y: 15.5}
+        - {x: -38.5, y: -22.5}
+        - {x: 38.5, y: -22.5}
+        - {x: 38.5, y: 16.5}
+        - {x: 32.5, y: 22.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d89c7a731a445aab2bd98f1584a362
+      internalID: 21300000
+      vertices:
+      - {x: 71, y: 45}
+      - {x: 77, y: 0}
+      - {x: 77, y: 39}
+      - {x: 6, y: 45}
+      - {x: 0, y: 38}
+      - {x: 0, y: 0}
+      indices: 050000000400000001000000030000000100000004000000000000000100000003000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_PS5_Square
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 247
+        width: 65
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -28.5, y: -32.5}
+        - {x: -32.5, y: -22.5}
+        - {x: -32.5, y: 30.5}
+        - {x: -24.5, y: 32.5}
+        - {x: 21.5, y: 32.5}
+        - {x: 32.5, y: 16.5}
+        - {x: 32.5, y: -15.5}
+        - {x: 30.5, y: -21.5}
+        - {x: 18.5, y: -32.5}
+      physicsShape:
+      - - {x: 15.5, y: 32.5}
+        - {x: -20.5, y: 32.5}
+        - {x: -32.5, y: 26.499998}
+        - {x: -32.5, y: -31.5}
+        - {x: -30.5, y: -32.5}
+        - {x: 20.5, y: -32.5}
+        - {x: 32.5, y: -28.5}
+        - {x: 32.5, y: 15.5}
+        - {x: 22.5, y: 31.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372032815413416cb8650aca7dcea88b
+      internalID: 21300002
+      vertices:
+      - {x: 65, y: 49}
+      - {x: 63, y: 11}
+      - {x: 65, y: 17}
+      - {x: 54, y: 65}
+      - {x: 51, y: 0}
+      - {x: 8, y: 65}
+      - {x: 4, y: 0}
+      - {x: 0, y: 63}
+      - {x: 0, y: 10}
+      indices: 080000000700000006000000050000000600000007000000040000000600000005000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_PS5_L2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 97
+        width: 78
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 39, y: -23}
+        - {x: -39, y: -23}
+        - {x: -39, y: 15.000001}
+        - {x: -34, y: 23}
+        - {x: 31, y: 23}
+        - {x: 37, y: 17}
+        - {x: 39, y: 14}
+      physicsShape:
+      - - {x: -34, y: 22.999998}
+        - {x: -39, y: 16}
+        - {x: -39, y: -22.999998}
+        - {x: 39, y: -22.999998}
+        - {x: 39, y: 14}
+        - {x: 34, y: 22.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ef057250bd438f966fc7324bfa9c65
+      internalID: 21300004
+      vertices:
+      - {x: 76, y: 40}
+      - {x: 78, y: 0}
+      - {x: 78, y: 37}
+      - {x: 70, y: 46}
+      - {x: 5, y: 46}
+      - {x: 0, y: 38}
+      - {x: 0, y: 0}
+      indices: 060000000500000001000000040000000100000005000000030000000100000004000000000000000100000003000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_PS5_Touchpad
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 245
+        width: 83
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -40.5, y: -29}
+        - {x: -41.5, y: -22}
+        - {x: -41.5, y: 28}
+        - {x: -34.5, y: 34}
+        - {x: 38.5, y: 34}
+        - {x: 41.5, y: 29}
+        - {x: 41.5, y: -34}
+        - {x: -36.5, y: -34}
+      physicsShape:
+      - - {x: 32.5, y: 34}
+        - {x: -33.499996, y: 34}
+        - {x: -41.5, y: 26.999998}
+        - {x: -41.5, y: -13}
+        - {x: -37.5, y: -28}
+        - {x: -29.499998, y: -34}
+        - {x: 31.5, y: -34}
+        - {x: 40.5, y: -24}
+        - {x: 41.5, y: -11}
+        - {x: 41.5, y: 25}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef148c332534de8bab1ff93c5346cdd
+      internalID: 21300006
+      vertices:
+      - {x: 80, y: 68}
+      - {x: 83, y: 0}
+      - {x: 83, y: 63}
+      - {x: 7, y: 68}
+      - {x: 5, y: 0}
+      - {x: 1, y: 5}
+      - {x: 0, y: 62}
+      - {x: 0, y: 12}
+      indices: 070000000600000005000000030000000500000006000000040000000500000003000000010000000400000003000000000000000100000003000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_PS5_DPadLeft
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 165
+        width: 66
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -12, y: -33.5}
+        - {x: -33, y: -10.5}
+        - {x: -33, y: 13.500001}
+        - {x: -13, y: 33.5}
+        - {x: 12, y: 33.5}
+        - {x: 33, y: 22.5}
+        - {x: 33, y: -12.5}
+        - {x: 23, y: -33.5}
+      physicsShape:
+      - - {x: 14.999999, y: 33.499996}
+        - {x: -16, y: 33.499996}
+        - {x: -33, y: 16.5}
+        - {x: -33, y: -26.499998}
+        - {x: -19.999998, y: -33.499996}
+        - {x: 28, y: -33.499996}
+        - {x: 33, y: -25.5}
+        - {x: 33, y: 13.499999}
+        - {x: 32, y: 15.5}
+      - - {x: -1, y: 1.5}
+        - {x: -1, y: 0.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa15bda181484161b89506edab621898
+      internalID: 21300008
+      vertices:
+      - {x: 66, y: 56}
+      - {x: 56, y: 0}
+      - {x: 66, y: 21}
+      - {x: 45, y: 67}
+      - {x: 21, y: 0}
+      - {x: 20, y: 67}
+      - {x: 0, y: 47}
+      - {x: 0, y: 23}
+      indices: 070000000600000004000000050000000400000006000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_PS5_L3
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 72
+        width: 65
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -29.499998, y: -38.5}
+        - {x: -32.5, y: -26.499998}
+        - {x: -32.5, y: 36.5}
+        - {x: -31.5, y: 38.5}
+        - {x: 32.5, y: 38.5}
+        - {x: 32.5, y: -26.499998}
+        - {x: 22.5, y: -36.5}
+        - {x: 18.5, y: -38.5}
+      physicsShape:
+      - - {x: 22.5, y: 28.5}
+        - {x: 12.5, y: 38.5}
+        - {x: -19.5, y: 38.5}
+        - {x: -26.499998, y: 37.5}
+        - {x: -32.5, y: 18.5}
+        - {x: -32.5, y: -25.5}
+        - {x: -17.5, y: -38.5}
+        - {x: 16.5, y: -38.5}
+        - {x: 31.5, y: -28.5}
+        - {x: 32.5, y: -24.499998}
+        - {x: 32.5, y: 13.499999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf238be1139e44348194c263448de9c1
+      internalID: 21300010
+      vertices:
+      - {x: 65, y: 77}
+      - {x: 55, y: 2}
+      - {x: 65, y: 12.000002}
+      - {x: 51, y: 0}
+      - {x: 3.000002, y: 0}
+      - {x: 1, y: 77}
+      - {x: 0, y: 75}
+      - {x: 0, y: 12.000002}
+      indices: 070000000600000004000000050000000400000006000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_PS5_Triangle
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 246
+        width: 65
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -18.5, y: -32.5}
+        - {x: -32.5, y: -18.5}
+        - {x: -32.5, y: 17.5}
+        - {x: -22.5, y: 32.5}
+        - {x: 22.5, y: 32.5}
+        - {x: 32.5, y: 25.5}
+        - {x: 32.5, y: -19.5}
+        - {x: 28.5, y: -32.5}
+      physicsShape:
+      - - {x: -30.5, y: 32.5}
+        - {x: -32.5, y: 30.5}
+        - {x: -32.5, y: -25.5}
+        - {x: -16.5, y: -32.5}
+        - {x: 18.5, y: -32.5}
+        - {x: 32.5, y: -16.5}
+        - {x: 32.5, y: 28.5}
+        - {x: 19.5, y: 32.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3b4c6680254413a44f314567880b07
+      internalID: 21300012
+      vertices:
+      - {x: 65, y: 58}
+      - {x: 61, y: 0}
+      - {x: 65, y: 13}
+      - {x: 55, y: 65}
+      - {x: 14, y: 0}
+      - {x: 10, y: 65}
+      - {x: 0, y: 50}
+      - {x: 0, y: 14}
+      indices: 070000000600000004000000050000000400000006000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_PS5_DPadRight
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 164
+        width: 66
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -12, y: -33.5}
+        - {x: -33, y: -10.5}
+        - {x: -33, y: 13.500001}
+        - {x: -13, y: 33.5}
+        - {x: 12, y: 33.5}
+        - {x: 33, y: 22.5}
+        - {x: 33, y: -12.5}
+        - {x: 23, y: -33.5}
+      physicsShape:
+      - - {x: 14.999999, y: 33.499996}
+        - {x: -16, y: 33.499996}
+        - {x: -33, y: 16.5}
+        - {x: -33, y: -26.499998}
+        - {x: -19.999998, y: -33.499996}
+        - {x: 28, y: -33.499996}
+        - {x: 33, y: -25.5}
+        - {x: 33, y: 13.499999}
+        - {x: 32, y: 15.5}
+      - - {x: -1, y: 1.5}
+        - {x: -1, y: 0.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcdee9910d249fca62a26754b205943
+      internalID: 21300014
+      vertices:
+      - {x: 66, y: 56}
+      - {x: 56, y: 0}
+      - {x: 66, y: 21}
+      - {x: 45, y: 67}
+      - {x: 21, y: 0}
+      - {x: 20, y: 67}
+      - {x: 0, y: 47}
+      - {x: 0, y: 23}
+      indices: 070000000600000004000000050000000400000006000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_PS5_Circle
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 247
+        width: 65
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -28.5, y: -32.5}
+        - {x: -32.5, y: -22.5}
+        - {x: -32.5, y: 30.5}
+        - {x: -24.5, y: 32.5}
+        - {x: 21.5, y: 32.5}
+        - {x: 32.5, y: 16.5}
+        - {x: 32.5, y: -15.5}
+        - {x: 30.5, y: -21.5}
+        - {x: 18.5, y: -32.5}
+      physicsShape:
+      - - {x: -32.5, y: 32.5}
+        - {x: -32.5, y: -21.499998}
+        - {x: -20.5, y: -32.5}
+        - {x: 18.5, y: -32.5}
+        - {x: 32.5, y: -28.5}
+        - {x: 32.5, y: 18.5}
+        - {x: 28.5, y: 32.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d61dc5262f4294a6492f3a18c615a2
+      internalID: 21300016
+      vertices:
+      - {x: 65, y: 49}
+      - {x: 63, y: 11}
+      - {x: 65, y: 17}
+      - {x: 54, y: 65}
+      - {x: 51, y: 0}
+      - {x: 8, y: 65}
+      - {x: 4, y: 0}
+      - {x: 0, y: 63}
+      - {x: 0, y: 10}
+      indices: 080000000700000006000000050000000600000007000000040000000600000005000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_PS5_Cross
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 247
+        width: 65
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -28.5, y: -32.5}
+        - {x: -32.5, y: -22.5}
+        - {x: -32.5, y: 30.5}
+        - {x: -24.5, y: 32.5}
+        - {x: 21.5, y: 32.5}
+        - {x: 32.5, y: 16.5}
+        - {x: 32.5, y: -15.5}
+        - {x: 30.5, y: -21.5}
+        - {x: 18.5, y: -32.5}
+      physicsShape:
+      - - {x: 15.5, y: 32.5}
+        - {x: -20.5, y: 32.5}
+        - {x: -32.5, y: 26.499998}
+        - {x: -32.5, y: -31.5}
+        - {x: -30.5, y: -32.5}
+        - {x: 20.5, y: -32.5}
+        - {x: 32.5, y: -28.5}
+        - {x: 32.5, y: 15.5}
+        - {x: 22.5, y: 31.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6256f167844419a81bc55415dde27ff
+      internalID: 21300018
+      vertices:
+      - {x: 65, y: 49}
+      - {x: 63, y: 11}
+      - {x: 65, y: 17}
+      - {x: 54, y: 65}
+      - {x: 51, y: 0}
+      - {x: 8, y: 65}
+      - {x: 4, y: 0}
+      - {x: 0, y: 63}
+      - {x: 0, y: 10}
+      indices: 080000000700000006000000050000000600000007000000040000000600000005000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_PS5_RightStick
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 8
+        width: 65
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -25.5, y: -32.5}
+        - {x: -32.5, y: -23.5}
+        - {x: -32.5, y: 22.5}
+        - {x: -24.5, y: 32.5}
+        - {x: 21.5, y: 32.5}
+        - {x: 32.5, y: 29.499998}
+        - {x: 32.5, y: -28.5}
+        - {x: 21.5, y: -32.5}
+      physicsShape:
+      - - {x: -21.499998, y: 32.5}
+        - {x: -32.5, y: 21.499998}
+        - {x: -32.5, y: -27.5}
+        - {x: -18.5, y: -32.5}
+        - {x: 29.499998, y: -32.5}
+        - {x: 32.5, y: -28.5}
+        - {x: 32.5, y: 23.5}
+        - {x: 29.499998, y: 32.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ea9c3778834e7a9c21f70ec84b7592
+      internalID: 21300020
+      vertices:
+      - {x: 54, y: 65}
+      - {x: 65, y: 4}
+      - {x: 65, y: 62}
+      - {x: 54, y: 0}
+      - {x: 8, y: 65}
+      - {x: 7, y: 0}
+      - {x: 0, y: 55}
+      - {x: 0, y: 9}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_PS5_LeftStick
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 87
+        width: 65
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -25.5, y: -32.5}
+        - {x: -32.5, y: -23.5}
+        - {x: -32.5, y: 22.5}
+        - {x: -24.5, y: 32.5}
+        - {x: 21.5, y: 32.5}
+        - {x: 32.5, y: 29.499998}
+        - {x: 32.5, y: -28.5}
+        - {x: 21.5, y: -32.5}
+      physicsShape:
+      - - {x: -21.499998, y: 32.5}
+        - {x: -32.5, y: 21.499998}
+        - {x: -32.5, y: -27.5}
+        - {x: -18.5, y: -32.5}
+        - {x: 29.499998, y: -32.5}
+        - {x: 32.5, y: -28.5}
+        - {x: 32.5, y: 23.5}
+        - {x: 29.499998, y: 32.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d37455bb4b48ee8768f7a41fef7013
+      internalID: 21300022
+      vertices:
+      - {x: 54, y: 65}
+      - {x: 65, y: 4}
+      - {x: 65, y: 62}
+      - {x: 54, y: 0}
+      - {x: 8, y: 65}
+      - {x: 7, y: 0}
+      - {x: 0, y: 55}
+      - {x: 0, y: 9}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_PS5_DPadUp
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 164
+        width: 66
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -22, y: -33.5}
+        - {x: -33, y: -24.5}
+        - {x: -33, y: 33.5}
+        - {x: 18, y: 33.5}
+        - {x: 33, y: 28.5}
+        - {x: 33, y: -20.5}
+        - {x: 26, y: -33.5}
+      physicsShape:
+      - - {x: -16, y: 33.499996}
+        - {x: -33, y: 15.5}
+        - {x: -33, y: -10.5}
+        - {x: -29, y: -14.5}
+        - {x: -14.999999, y: -33.499996}
+        - {x: 14, y: -33.499996}
+        - {x: 33, y: -15.5}
+        - {x: 33, y: 15.5}
+        - {x: 16, y: 33.499996}
+      - - {x: -1, y: 0.5}
+        - {x: -1, y: -0.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99887f594b647b78fd19b05469279fc
+      internalID: 21300024
+      vertices:
+      - {x: 66, y: 62}
+      - {x: 59, y: 0}
+      - {x: 66, y: 13}
+      - {x: 51, y: 67}
+      - {x: 11, y: 0}
+      - {x: 0, y: 67}
+      - {x: 0, y: 9}
+      indices: 060000000500000004000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_PS5_DPadDown
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 166
+        width: 66
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -17, y: -33.5}
+        - {x: -33, y: -16.5}
+        - {x: -33, y: 11.5}
+        - {x: -11, y: 33.5}
+        - {x: 26, y: 33.5}
+        - {x: 33, y: 21.5}
+        - {x: 33, y: -28.5}
+        - {x: 23, y: -33.5}
+      physicsShape:
+      - - {x: -14.999999, y: 33.499996}
+        - {x: -33, y: 17.5}
+        - {x: -33, y: -16.5}
+        - {x: -17, y: -32.5}
+        - {x: -14, y: -33.499996}
+        - {x: 18, y: -33.499996}
+        - {x: 33, y: -16.5}
+        - {x: 33, y: 16.5}
+        - {x: 17, y: 33.499996}
+      - - {x: 0, y: 0.5}
+        - {x: 0, y: -0.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ae38c41e7145d2acee2f3f7201f172
+      internalID: 21300026
+      vertices:
+      - {x: 59, y: 67}
+      - {x: 66, y: 5}
+      - {x: 66, y: 55}
+      - {x: 56, y: 0}
+      - {x: 22, y: 67}
+      - {x: 16, y: 0}
+      - {x: 0, y: 45}
+      - {x: 0, y: 17}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_PS5_L1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 97
+        width: 77
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -34.5, y: -22.5}
+        - {x: -38.5, y: -13.500001}
+        - {x: -38.5, y: 22.5}
+        - {x: 38.5, y: 22.5}
+        - {x: 38.5, y: -13.500001}
+        - {x: 36.5, y: -16.5}
+        - {x: 31.5, y: -22.5}
+      physicsShape:
+      - - {x: -38.5, y: 22.5}
+        - {x: -38.5, y: -16.5}
+        - {x: -29.499998, y: -22.5}
+        - {x: 32.5, y: -22.5}
+        - {x: 38.5, y: -13.499999}
+        - {x: 38.5, y: 22.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbda8513f7f240329b94cf0f1359cfbd
+      internalID: 21300028
+      vertices:
+      - {x: 77, y: 45}
+      - {x: 75, y: 6}
+      - {x: 77, y: 8.999999}
+      - {x: 70, y: 0}
+      - {x: 4, y: 0}
+      - {x: 0, y: 45}
+      - {x: 0, y: 8.999999}
+      indices: 060000000500000004000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_PS5_Options
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 158
+        width: 36.923878
+        height: 71.92388
+      alignment: 9
+      pivot: {x: 0.54165494, y: 0.507481}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -16.461939, y: -35.96194}
+        - {x: -18.461939, y: -33.96194}
+        - {x: -18.461939, y: -2.9619408}
+        - {x: -15.461939, y: 36.03806}
+        - {x: 16.538063, y: 36.03806}
+        - {x: 18.538061, y: 26.03806}
+        - {x: 18.538061, y: -34.96194}
+        - {x: 14.538061, y: -35.96194}
+      physicsShape:
+      - - {x: -13.461938, y: 17.03806}
+        - {x: -14.461939, y: 14.038058}
+        - {x: -18.461937, y: -6.9619403}
+        - {x: -18.461937, y: -32.961937}
+        - {x: -17.461939, y: -34.96194}
+        - {x: -14.461939, y: -35.961937}
+        - {x: 13.538061, y: -35.961937}
+        - {x: 16.53806, y: -16.96194}
+        - {x: 16.53806, y: 15.038059}
+        - {x: 7.538061, y: 17.03806}
+      - - {x: -11.461939, y: 36.03806}
+        - {x: -11.461939, y: 19.03806}
+        - {x: -10.461939, y: 17.03806}
+        - {x: 13.538061, y: 17.03806}
+        - {x: 16.53806, y: 19.03806}
+        - {x: 16.53806, y: 36.03806}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9b7736dc8445e08ae6ac5ff8681891
+      internalID: 21300030
+      vertices:
+      - {x: 33.46194, y: 71.461945}
+      - {x: 35.461937, y: 0.46194077}
+      - {x: 35.461937, y: 61.46194}
+      - {x: 31.461939, y: -0.53805923}
+      - {x: 1.4619389, y: 71.461945}
+      - {x: 0.46193886, y: -0.53805923}
+      - {x: -1.5380611, y: 32.46194}
+      - {x: -1.5380611, y: 1.4619408}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_PS5_R3
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 72
+        width: 65
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -29.499998, y: -38.5}
+        - {x: -32.5, y: -26.499998}
+        - {x: -32.5, y: 36.5}
+        - {x: -31.5, y: 38.5}
+        - {x: 32.5, y: 38.5}
+        - {x: 32.5, y: -26.499998}
+        - {x: 22.5, y: -36.5}
+        - {x: 18.5, y: -38.5}
+      physicsShape:
+      - - {x: 22.5, y: 28.5}
+        - {x: 12.5, y: 38.5}
+        - {x: -19.5, y: 38.5}
+        - {x: -26.499998, y: 37.5}
+        - {x: -32.5, y: 18.5}
+        - {x: -32.5, y: -25.5}
+        - {x: -17.5, y: -38.5}
+        - {x: 16.5, y: -38.5}
+        - {x: 31.5, y: -28.5}
+        - {x: 32.5, y: -24.499998}
+        - {x: 32.5, y: 13.499999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5c1c79d62a48aab15ce8f36f4bad96
+      internalID: 21300032
+      vertices:
+      - {x: 65, y: 77}
+      - {x: 55, y: 2}
+      - {x: 65, y: 12.000002}
+      - {x: 51, y: 0}
+      - {x: 3.000002, y: 0}
+      - {x: 1, y: 77}
+      - {x: 0, y: 75}
+      - {x: 0, y: 12.000002}
+      indices: 070000000600000004000000050000000400000006000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_PS5_R1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 35
+        width: 77
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -37.5, y: -22.5}
+        - {x: -38.5, y: -20.5}
+        - {x: -38.5, y: 22.5}
+        - {x: 38.5, y: 22.5}
+        - {x: 38.5, y: -22.5}
+      physicsShape:
+      - - {x: -38.5, y: 22.5}
+        - {x: -38.5, y: -20.5}
+        - {x: -32.5, y: -22.5}
+        - {x: 32.5, y: -22.5}
+        - {x: 38.5, y: -14.5}
+        - {x: 38.5, y: 22.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23b48e049464cd590628510495f7a77
+      internalID: 21300034
+      vertices:
+      - {x: 77, y: 45}
+      - {x: 1, y: 0}
+      - {x: 77, y: 0}
+      - {x: 0, y: 45}
+      - {x: 0, y: 2}
+      indices: 040000000300000001000000000000000100000003000000020000000100000000000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      buttonIcons_PS5_Circle: 21300016
+      buttonIcons_PS5_Cross: 21300018
+      buttonIcons_PS5_DPadDown: 21300026
+      buttonIcons_PS5_DPadLeft: 21300008
+      buttonIcons_PS5_DPadRight: 21300014
+      buttonIcons_PS5_DPadUp: 21300024
+      buttonIcons_PS5_L1: 21300028
+      buttonIcons_PS5_L2: 21300004
+      buttonIcons_PS5_L3: 21300010
+      buttonIcons_PS5_LeftStick: 21300022
+      buttonIcons_PS5_Options: 21300030
+      buttonIcons_PS5_R1: 21300034
+      buttonIcons_PS5_R2: 21300000
+      buttonIcons_PS5_R3: 21300032
+      buttonIcons_PS5_RightStick: 21300020
+      buttonIcons_PS5_Square: 21300002
+      buttonIcons_PS5_Touchpad: 21300006
+      buttonIcons_PS5_Triangle: 21300012
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

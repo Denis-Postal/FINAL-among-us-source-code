@@ -1,0 +1,1126 @@
+fileFormatVersion: 2
+guid: cd0566e8979fc2b4187961603623a88c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: 2024_store_beans_visor_booboo0003
+  - first:
+      213: 21300002
+    second: 2024_store_beans_visor_booboo0001
+  - first:
+      213: 21300004
+    second: 2024_store_beans_visor_stickynotefrown0002
+  - first:
+      213: 21300006
+    second: 2024_store_beans_visor_sunglassesstarpurple0001
+  - first:
+      213: 21300008
+    second: 2024_store_beans_visor_stickynotefrown0001
+  - first:
+      213: 21300010
+    second: 2024_store_beans_visor_booboo0002
+  - first:
+      213: 21300012
+    second: 2024_store_beans_visor_sunglassesheartred0002
+  - first:
+      213: 21300014
+    second: 2024_store_beans_visor_stickynotesmile0003
+  - first:
+      213: 21300016
+    second: 2024_store_beans_visor_stickynotefrown0003
+  - first:
+      213: 21300018
+    second: 2024_store_beans_visor_stickynotesmile0002
+  - first:
+      213: 21300020
+    second: 2024_store_beans_visor_sunglassesstarpurple0002
+  - first:
+      213: 21300022
+    second: 2024_store_beans_visor_sunglassesheartred0001
+  - first:
+      213: 21300024
+    second: 2024_store_beans_visor_sunglassesstarpurple0003
+  - first:
+      213: 21300026
+    second: 2024_store_beans_visor_stickynotesmile0001
+  - first:
+      213: 21300028
+    second: 2024_store_beans_visor_booboo0004
+  - first:
+      213: 21300030
+    second: 2024_store_beans_visor_sunglassesheartred0003
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2024_store_beans_visor_booboo0003
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 148
+        width: 36
+        height: 31
+      alignment: 9
+      pivot: {x: -0.027777778, y: -1.6129032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -18, y: -15.5}
+        - {x: -18, y: 15.5}
+        - {x: 18, y: 15.5}
+        - {x: 18, y: -15.5}
+      physicsShape:
+      - - {x: -16, y: 15.5}
+        - {x: -18, y: 10.5}
+        - {x: -18, y: 5.5}
+        - {x: -2, y: -14.5}
+        - {x: 3.999998, y: -15.5}
+        - {x: 15, y: -15.5}
+        - {x: 18, y: -11.500004}
+        - {x: 18, y: 5.5}
+        - {x: 3, y: 15.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d28cf9bf66f4404a321397c3151928c
+      internalID: 21300000
+      vertices:
+      - {x: 55, y: 65.5}
+      - {x: 19, y: 65.5}
+      - {x: 19, y: 96.5}
+      - {x: 55, y: 96.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_store_beans_visor_booboo0001
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 58
+        width: 59.973248
+        height: 58.923878
+      alignment: 9
+      pivot: {x: 0.20008922, y: 0.74672616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 17.013376, y: 22.538061}
+        - {x: 35.013374, y: -4.461939}
+        - {x: 21.013376, y: -29.461939}
+        - {x: -29.986624, y: -0.4619379}
+        - {x: -28.986624, y: 38.538063}
+      physicsShape:
+      - - {x: -23.986624, y: 28.538061}
+        - {x: -28.986624, y: 26.538061}
+        - {x: -28.986624, y: 8.538061}
+        - {x: 1.0133762, y: -18.461939}
+        - {x: 8.013376, y: -21.461939}
+        - {x: 24.013376, y: -21.461939}
+        - {x: 30.013376, y: -14.461939}
+        - {x: 30.013376, y: 7.538061}
+        - {x: 7.013376, y: 28.538061}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd315e4cdee4c44a432932f4190e988
+      internalID: 21300002
+      vertices:
+      - {x: 64.986626, y: 37.461937}
+      - {x: 82.98662, y: 10.461939}
+      - {x: 68.986626, y: -14.538061}
+      - {x: 17.986624, y: 14.46194}
+      - {x: 18.986624, y: 53.461937}
+      indices: 000000000100000002000000000000000200000003000000000000000300000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_store_beans_visor_stickynotefrown0002
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 5
+        width: 61
+        height: 45
+      alignment: 9
+      pivot: {x: 0.3442623, y: 0.42222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -30.5, y: -22.5}
+        - {x: -30.5, y: 22.5}
+        - {x: 30.499996, y: 22.5}
+        - {x: 30.499996, y: -22.5}
+      physicsShape:
+      - - {x: 20.499998, y: 22.5}
+        - {x: 7.5, y: 22.5}
+        - {x: 3.5, y: 20.5}
+        - {x: -26.5, y: 21.5}
+        - {x: -29.499998, y: 15.5}
+        - {x: -30.5, y: 0.5}
+        - {x: -30.5, y: -16.5}
+        - {x: -12.5, y: -22.5}
+        - {x: 24.5, y: -22.5}
+        - {x: 30.499996, y: -19.5}
+        - {x: 30.499996, y: -4.5}
+        - {x: 26.5, y: 20.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6c726dfe7e4e7dba7f63f8de58e3b3
+      internalID: 21300004
+      vertices:
+      - {x: 70.5, y: 3.5}
+      - {x: 9.5, y: 3.5}
+      - {x: 9.5, y: 48.5}
+      - {x: 70.5, y: 48.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_store_beans_visor_sunglassesstarpurple0001
+      rect:
+        serializedVersion: 2
+        x: 302.02676
+        y: 22.036285
+        width: 145.97325
+        height: 72.963715
+      alignment: 9
+      pivot: {x: 0.29439116, y: 0.7395966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -35.013393, y: -36.51814}
+        - {x: -84.01339, y: -1.5181427}
+        - {x: -14.013393, y: 36.481857}
+        - {x: 3.9866066, y: 12.481857}
+        - {x: 32.986607, y: 34.481857}
+        - {x: 72.9866, y: -5.518141}
+        - {x: 48.986607, y: -28.518139}
+      physicsShape:
+      - - {x: 38.986607, y: -26.518143}
+        - {x: 48.986607, y: -29.518143}
+        - {x: 53.986607, y: -23.518143}
+        - {x: 58.986607, y: 0.4818573}
+        - {x: 58.986607, y: 7.4818583}
+        - {x: 45.986607, y: 19.481857}
+        - {x: 35.986607, y: 32.481857}
+        - {x: 30.986607, y: 33.481857}
+        - {x: 20.986607, y: 16.481857}
+        - {x: -1.0133934, y: 12.481857}
+        - {x: -10.013395, y: 32.481857}
+        - {x: -15.013394, y: 34.481857}
+        - {x: -20.013393, y: 34.481857}
+        - {x: -24.013393, y: 27.481857}
+        - {x: -32.013393, y: 14.481857}
+        - {x: -69.0134, y: 10.481857}
+        - {x: -72.0134, y: 3.4818573}
+        - {x: -72.0134, y: -8.518143}
+        - {x: -65.0134, y: -15.518143}
+        - {x: -57.01339, y: -11.518143}
+        - {x: -49.013393, y: -2.5181408}
+        - {x: -42.013393, y: -9.518141}
+        - {x: -38.013393, y: -33.518143}
+        - {x: -36.013393, y: -35.51814}
+        - {x: -18.013393, y: -35.51814}
+        - {x: 1.9866066, y: -33.518143}
+        - {x: 4.9866066, y: -27.518143}
+        - {x: 4.9866066, y: -13.518143}
+        - {x: 17.986607, y: -30.518143}
+      - - {x: 58.986607, y: 36.481857}
+        - {x: 58.986607, y: 25.481857}
+        - {x: 65.9866, y: 13.481857}
+        - {x: 70.9866, y: 6.4818573}
+        - {x: 72.9866, y: 6.4818573}
+        - {x: 72.9866, y: 36.481857}
+      - - {x: -70.01339, y: 36.481857}
+        - {x: -71.0134, y: 34.481857}
+        - {x: -71.0134, y: 25.481857}
+        - {x: -70.01339, y: 23.481857}
+        - {x: -65.0134, y: 23.481857}
+        - {x: -61.013393, y: 26.481857}
+        - {x: -60.01339, y: 29.481857}
+        - {x: -60.01339, y: 36.481857}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fb81a6c3ff4492831d9db24a405a30
+      internalID: 21300006
+      vertices:
+      - {x: 106.986626, y: 31.481857}
+      - {x: 135.98663, y: 53.481857}
+      - {x: 175.98663, y: 13.481859}
+      - {x: 151.98663, y: -9.518139}
+      - {x: 67.986626, y: -17.518139}
+      - {x: 18.98663, y: 17.481857}
+      - {x: 88.986626, y: 55.481857}
+      indices: 040000000500000006000000030000000000000001000000030000000100000002000000000000000300000004000000060000000000000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_store_beans_visor_stickynotefrown0001
+      rect:
+        serializedVersion: 2
+        x: 43.07612
+        y: 48
+        width: 89.65413
+        height: 72
+      alignment: 9
+      pivot: {x: -0.0008490236, y: 0.7361111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -23.903183, y: -35.999996}
+        - {x: -55.903183, y: 28}
+        - {x: 15.096813, y: 36}
+        - {x: 50.096817, y: -12}
+      physicsShape:
+      - - {x: 21.096817, y: 34}
+        - {x: -18.903183, y: 34}
+        - {x: -41.903183, y: 30}
+        - {x: -43.903183, y: 26}
+        - {x: -43.903183, y: 7.000001}
+        - {x: -36.903183, y: -15}
+        - {x: -22.903183, y: -28}
+        - {x: -17.903185, y: -31}
+        - {x: -7.903183, y: -31}
+        - {x: 38.096817, y: -17}
+        - {x: 43.096817, y: -12.999998}
+        - {x: 43.096817, y: -5}
+      - - {x: 34.096817, y: 36}
+        - {x: 32.096817, y: 29}
+        - {x: 32.096817, y: 20}
+        - {x: 38.096817, y: 12}
+        - {x: 41.09681, y: 12}
+        - {x: 43.096817, y: 13}
+        - {x: 44.096817, y: 26}
+        - {x: 44.096817, y: 36}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5892a361c143759c718f121f40ea31
+      internalID: 21300008
+      vertices:
+      - {x: 139.82706, y: 7}
+      - {x: 65.827065, y: -16.999996}
+      - {x: 33.827065, y: 47}
+      - {x: 104.82706, y: 55}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_store_beans_visor_booboo0002
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 67
+        height: 35
+      alignment: 9
+      pivot: {x: 0.58208954, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -33.5, y: -17.5}
+        - {x: -33.5, y: 17.5}
+        - {x: 33.5, y: 17.5}
+        - {x: 33.5, y: -17.5}
+      physicsShape:
+      - - {x: -25.5, y: 17.5}
+        - {x: -33.5, y: 10.5}
+        - {x: -33.5, y: -4.5}
+        - {x: -29.5, y: -13.499999}
+        - {x: -12.5, y: -17.5}
+        - {x: 17.5, y: -17.5}
+        - {x: 33.5, y: -8.5}
+        - {x: 33.5, y: 15.5}
+        - {x: 27.5, y: 17.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3eafe7f79ea4835a689fe0de54bc081
+      internalID: 21300010
+      vertices:
+      - {x: 61.5, y: 3.5}
+      - {x: -5.5, y: 3.5}
+      - {x: -5.5, y: 38.5}
+      - {x: 61.5, y: 38.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_store_beans_visor_sunglassesheartred0002
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 90
+        width: 147.92387
+        height: 89
+      alignment: 9
+      pivot: {x: 0.6422222, y: 0.30337077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -21.961933, y: 16.499998}
+        - {x: 45.038063, y: 18.499998}
+        - {x: 47.038063, y: 44.5}
+        - {x: 65.03806, y: 43.5}
+        - {x: 80.038055, y: -7.5}
+        - {x: 17.038063, y: -44.5}
+        - {x: -73.96194, y: -13.5}
+      physicsShape:
+      - - {x: -14.961937, y: -43.5}
+        - {x: -14.961937, y: -44.5}
+        - {x: -5.961935, y: -44.5}
+        - {x: -5.961935, y: -43.5}
+        - {x: -8.961935, y: -40.5}
+        - {x: -11.961937, y: -40.5}
+      - - {x: 53.038063, y: -34.5}
+        - {x: 49.038063, y: -39.5}
+        - {x: 49.038063, y: -44.5}
+        - {x: 73.03806, y: -44.5}
+        - {x: 73.03806, y: -36.5}
+        - {x: 69.03806, y: -34.5}
+      - - {x: 53.038063, y: -22.500002}
+        - {x: 71.03806, y: -9.500002}
+        - {x: 73.03806, y: -0.5000019}
+        - {x: 73.03806, y: 18.499998}
+        - {x: 68.03806, y: 35.499992}
+        - {x: 63.038063, y: 42.499992}
+        - {x: 51.038063, y: 42.499992}
+        - {x: 45.038063, y: 33.5}
+        - {x: 58.038063, y: 26.499998}
+        - {x: 54.038063, y: 14.499998}
+        - {x: 34.038063, y: 16.499998}
+        - {x: 4.038063, y: 17.499998}
+        - {x: -20.961937, y: 18.499998}
+        - {x: -34.961937, y: 8.499998}
+        - {x: -55.961937, y: -3.500002}
+        - {x: -55.961937, y: -12.500002}
+        - {x: -54.961937, y: -16.500002}
+        - {x: -42.961937, y: -25.500002}
+        - {x: -39.961937, y: -14.500002}
+        - {x: -25.961937, y: -18.500002}
+        - {x: -8.961935, y: -33.5}
+        - {x: -4.961937, y: -36.5}
+        - {x: 0.03806305, y: -36.5}
+        - {x: 3.038063, y: -35.5}
+        - {x: 16.038063, y: -21.500002}
+        - {x: 31.038063, y: -32.5}
+        - {x: 35.038063, y: -32.5}
+      - - {x: -73.96194, y: 44.5}
+        - {x: -73.96194, y: 33.5}
+        - {x: -68.96194, y: 21.499998}
+        - {x: -54.961937, y: 13.499998}
+        - {x: -46.961937, y: 13.499998}
+        - {x: -40.961937, y: 15.499998}
+        - {x: -40.961937, y: 32.5}
+        - {x: -46.961937, y: 44.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b7b2baea0a46119ddea5d79314dde4
+      internalID: 21300012
+      vertices:
+      - {x: 117.96194, y: 105.5}
+      - {x: 132.96193, y: 54.5}
+      - {x: 69.96194, y: 17.500002}
+      - {x: -21.038063, y: 48.5}
+      - {x: 30.96194, y: 78.5}
+      - {x: 97.96194, y: 80.5}
+      - {x: 99.96194, y: 106.5}
+      indices: 020000000400000005000000020000000300000004000000010000000200000005000000000000000100000005000000000000000500000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_store_beans_visor_stickynotesmile0003
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 13
+        width: 70
+        height: 47
+      alignment: 9
+      pivot: {x: 0.6142857, y: -1.0851064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -34.999996, y: -23.5}
+        - {x: -34.999996, y: 23.499992}
+        - {x: 35, y: 23.499992}
+        - {x: 35, y: -23.5}
+      physicsShape:
+      - - {x: 35, y: 10.5}
+        - {x: 30, y: 23.499992}
+        - {x: -27, y: 23.499992}
+        - {x: -33, y: 18.5}
+        - {x: -34.999996, y: 7.5}
+        - {x: -34.999996, y: -16.5}
+        - {x: -29, y: -23.5}
+        - {x: -20, y: -23.5}
+        - {x: 20, y: -20.500004}
+        - {x: 32, y: -23.5}
+        - {x: 33, y: -23.5}
+        - {x: 35, y: -21.500004}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562ceb06428944a19dd80f78153ff902
+      internalID: 21300014
+      vertices:
+      - {x: 62, y: 74.5}
+      - {x: -7.999996, y: 74.5}
+      - {x: -7.999996, y: 121.49999}
+      - {x: 62, y: 121.49999}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_store_beans_visor_stickynotefrown0003
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 132
+        width: 70
+        height: 47
+      alignment: 9
+      pivot: {x: 0.6142857, y: -1.0851064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -34.999996, y: -23.5}
+        - {x: -34.999996, y: 23.499992}
+        - {x: 35, y: 23.499992}
+        - {x: 35, y: -23.5}
+      physicsShape:
+      - - {x: 35, y: 10.5}
+        - {x: 30, y: 23.499992}
+        - {x: -27, y: 23.499992}
+        - {x: -33, y: 18.5}
+        - {x: -34.999996, y: 7.5}
+        - {x: -34.999996, y: -16.5}
+        - {x: -29, y: -23.5}
+        - {x: -20, y: -23.5}
+        - {x: 20, y: -20.500004}
+        - {x: 32, y: -23.5}
+        - {x: 33, y: -23.5}
+        - {x: 35, y: -21.500004}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d43d76c83c48858f9b44c056aaedf3
+      internalID: 21300016
+      vertices:
+      - {x: 62, y: 74.5}
+      - {x: -7.999996, y: 74.5}
+      - {x: -7.999996, y: 121.49999}
+      - {x: 62, y: 121.49999}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_store_beans_visor_stickynotesmile0002
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 10
+        width: 61
+        height: 45
+      alignment: 9
+      pivot: {x: 0.3442623, y: 0.42222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -30.5, y: -22.5}
+        - {x: -30.5, y: 22.5}
+        - {x: 30.499996, y: 22.5}
+        - {x: 30.499996, y: -22.5}
+      physicsShape:
+      - - {x: 20.499998, y: 22.5}
+        - {x: 7.5, y: 22.5}
+        - {x: 3.5, y: 20.5}
+        - {x: -26.5, y: 21.5}
+        - {x: -29.499998, y: 15.5}
+        - {x: -30.5, y: 0.5}
+        - {x: -30.5, y: -16.5}
+        - {x: -12.5, y: -22.5}
+        - {x: 24.5, y: -22.5}
+        - {x: 30.499996, y: -19.5}
+        - {x: 30.499996, y: -4.5}
+        - {x: 26.5, y: 20.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4e987dae2f42119667eeb918ad2b1f
+      internalID: 21300018
+      vertices:
+      - {x: 70.5, y: 3.5}
+      - {x: 9.5, y: 3.5}
+      - {x: 9.5, y: 48.5}
+      - {x: 70.5, y: 48.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_store_beans_visor_sunglassesstarpurple0002
+      rect:
+        serializedVersion: 2
+        x: 151.02675
+        y: 24.042908
+        width: 137.97325
+        height: 97.95709
+      alignment: 9
+      pivot: {x: 0.55063754, y: 0.23435865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -18.013374, y: 23.978546}
+        - {x: 20.986626, y: 1.9785461}
+        - {x: 68.986626, y: 48.978546}
+        - {x: 68.986626, y: -18.021454}
+        - {x: 42.986626, y: -44.021454}
+        - {x: -37.013374, y: -49.021454}
+        - {x: -73.01337, y: -35.021454}
+        - {x: -63.013374, y: -11.021455}
+      physicsShape:
+      - - {x: 46.98662, y: -41.021454}
+        - {x: 68.986626, y: -16.021454}
+        - {x: 68.986626, y: -2.0214539}
+        - {x: 66.98662, y: 22.978542}
+        - {x: 65.98662, y: 26.978542}
+        - {x: 46.98662, y: 26.978542}
+        - {x: 37.986626, y: 23.978546}
+        - {x: 41.986626, y: 16.978542}
+        - {x: 45.986626, y: 12.978546}
+        - {x: 48.986626, y: 12.978546}
+        - {x: 45.986626, y: 12.978546}
+        - {x: 42.986626, y: 11.978546}
+        - {x: 33.986626, y: 5.978546}
+        - {x: 2.9866257, y: -2.0214539}
+        - {x: -14.013374, y: 24.978546}
+        - {x: -28.013374, y: 16.978542}
+        - {x: -51.013374, y: -4.021454}
+        - {x: -53.01337, y: -7.021454}
+        - {x: -69.013374, y: -24.021454}
+        - {x: -69.013374, y: -37.021454}
+        - {x: -49.013374, y: -40.021454}
+        - {x: -47.01337, y: -35.021454}
+        - {x: -46.01337, y: -30.021454}
+        - {x: -43.013374, y: -44.021454}
+        - {x: -37.013374, y: -48.021454}
+        - {x: 0.9866257, y: -48.021454}
+        - {x: 1.9866261, y: -42.021454}
+        - {x: 8.986626, y: -43.021454}
+      - - {x: -35.013374, y: 48.978546}
+        - {x: -35.013374, y: 47.978546}
+        - {x: -34.013374, y: 41.978546}
+        - {x: -13.013372, y: 24.978546}
+        - {x: -5.0133743, y: 24.978546}
+        - {x: -4.0133743, y: 25.978546}
+        - {x: 28.986626, y: 24.978546}
+        - {x: 54.986626, y: 44.978546}
+        - {x: 54.986626, y: 48.978546}
+      - - {x: -62.013374, y: 48.978546}
+        - {x: -61.013374, y: 44.978546}
+        - {x: -54.013374, y: 38.978546}
+        - {x: -50.013374, y: 38.978546}
+        - {x: -49.013374, y: 41.978546}
+        - {x: -49.013374, y: 47.978546}
+        - {x: -50.013374, y: 48.978546}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2e2a72d6ee461790abca00c7a55b52
+      internalID: 21300020
+      vertices:
+      - {x: 130.98663, y: 56.978546}
+      - {x: 104.986626, y: 30.978546}
+      - {x: 24.986626, y: 25.978548}
+      - {x: -11.013367, y: 39.978546}
+      - {x: -1.0133743, y: 63.978546}
+      - {x: 43.986626, y: 98.978546}
+      - {x: 82.986626, y: 76.978546}
+      - {x: 130.98663, y: 123.978546}
+      indices: 020000000500000006000000020000000400000005000000020000000300000004000000010000000200000006000000000000000600000007000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_store_beans_visor_sunglassesheartred0001
+      rect:
+        serializedVersion: 2
+        x: 431.02676
+        y: 125.02675
+        width: 124.97325
+        height: 53.973248
+      alignment: 9
+      pivot: {x: 0.33585778, y: 0.8332508}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -40.51339, y: 26.986628}
+        - {x: 62.486614, y: 26.986628}
+        - {x: 62.486614, y: -3.0133724}
+        - {x: 40.48661, y: -28.013369}
+        - {x: 13.48661, y: -17.013372}
+        - {x: -8.51339, y: -28.013369}
+        - {x: -74.51339, y: -7.0133724}
+      physicsShape:
+      - - {x: 44.486614, y: -23.013372}
+        - {x: 60.486614, y: -7.0133724}
+        - {x: 62.486614, y: 0.9866276}
+        - {x: 62.486614, y: 21.986628}
+        - {x: 57.486614, y: 26.986628}
+        - {x: -4.513386, y: 26.986628}
+        - {x: -8.513386, y: 24.986628}
+        - {x: -15.513386, y: 26.986628}
+        - {x: -32.513386, y: 26.986628}
+        - {x: -39.513386, y: 15.986628}
+        - {x: -56.513386, y: 9.986628}
+        - {x: -62.513386, y: 4.9866276}
+        - {x: -62.513386, y: -3.0133724}
+        - {x: -55.513386, y: -14.013372}
+        - {x: -45.513386, y: -12.0133705}
+        - {x: -49.513386, y: -2.0133705}
+        - {x: -27.513386, y: -15.013372}
+        - {x: -12.513386, y: -26.013372}
+        - {x: -4.513386, y: -26.013372}
+        - {x: 9.486612, y: -14.013372}
+        - {x: 22.48661, y: -10.013372}
+        - {x: 35.486614, y: -25.013369}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c3eac4fa744de6a8d12e33b8bedbd2
+      internalID: 21300022
+      vertices:
+      - {x: 145.48663, y: 5.986624}
+      - {x: 123.48662, y: -19.013372}
+      - {x: 96.48662, y: -8.013376}
+      - {x: 74.48662, y: -19.013372}
+      - {x: 8.486622, y: 1.9866238}
+      - {x: 42.48662, y: 35.986626}
+      - {x: 145.48663, y: 35.986626}
+      indices: 020000000500000006000000030000000400000005000000020000000300000005000000000000000200000006000000000000000100000002000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_store_beans_visor_sunglassesstarpurple0003
+      rect:
+        serializedVersion: 2
+        x: 1.026751
+        y: 47
+        width: 139.97325
+        height: 130.92387
+      alignment: 9
+      pivot: {x: 0.5570582, y: 0.22150277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -70.013374, y: 27.538063}
+        - {x: -33.013374, y: 64.53806}
+        - {x: -7.0133734, y: 38.538063}
+        - {x: -38.01337, y: 12.538059}
+        - {x: -57.013374, y: -65.46194}
+      - - {x: 20.986626, y: 30.538055}
+        - {x: 1.9866257, y: 36.538055}
+        - {x: 31.986626, y: 66.53806}
+        - {x: 69.986626, y: 26.538063}
+        - {x: 56.98662, y: -22.461937}
+      physicsShape:
+      - - {x: 55.986626, y: -65.46194}
+        - {x: 54.986626, y: -62.461937}
+        - {x: 48.986626, y: -62.461937}
+        - {x: 47.98662, y: -65.46194}
+      - - {x: 32.986626, y: 5.538063}
+        - {x: 9.986626, y: 5.538063}
+        - {x: -25.013374, y: 1.538063}
+        - {x: -27.013374, y: -0.46193695}
+        - {x: -27.013374, y: -17.461937}
+        - {x: -26.013374, y: -30.461937}
+        - {x: -14.013374, y: -48.461937}
+        - {x: -7.0133734, y: -57.461937}
+        - {x: -1.0133743, y: -59.461937}
+        - {x: 12.986626, y: -59.461937}
+        - {x: 54.986626, y: -44.461937}
+        - {x: 59.986626, y: -38.461937}
+        - {x: 59.986626, y: -31.461937}
+      - - {x: -10.013374, y: 39.538063}
+        - {x: -13.013374, y: 42.538063}
+        - {x: -29.013374, y: 60.538063}
+        - {x: -37.013374, y: 60.538063}
+        - {x: -56.013374, y: 37.538063}
+        - {x: -69.013374, y: 29.538063}
+        - {x: -69.013374, y: 23.53806}
+        - {x: -68.013374, y: 20.538063}
+        - {x: -65.01337, y: -4.461937}
+        - {x: -62.013374, y: -35.461937}
+        - {x: -61.013374, y: -36.461937}
+        - {x: -51.01337, y: -36.461937}
+        - {x: -49.013374, y: -35.461937}
+        - {x: -45.01337, y: -19.461937}
+        - {x: -40.013374, y: 15.538063}
+        - {x: -10.013374, y: 37.538063}
+      - - {x: 20.986626, y: 61.538055}
+        - {x: 5.9866257, y: 39.538063}
+        - {x: 5.9866257, y: 38.538063}
+        - {x: 6.9866257, y: 35.538063}
+        - {x: 14.986626, y: 34.538063}
+        - {x: 47.98662, y: 5.538063}
+        - {x: 50.98662, y: 6.538059}
+        - {x: 50.98662, y: 13.538063}
+        - {x: 50.98662, y: 3.5380592}
+        - {x: 49.986626, y: 3.5380592}
+        - {x: 47.98662, y: -7.461937}
+        - {x: 54.986626, y: -16.461939}
+        - {x: 57.986626, y: -16.461939}
+        - {x: 59.986626, y: -15.461937}
+        - {x: 62.986626, y: -0.46193695}
+        - {x: 62.986626, y: 41.538063}
+        - {x: 36.986626, y: 61.538055}
+      - - {x: -54.013374, y: 10.538063}
+        - {x: -55.013374, y: 10.538063}
+        - {x: -55.013374, y: 7.538063}
+        - {x: -54.013374, y: 7.538063}
+      - - {x: 64.986626, y: 61.538055}
+        - {x: 64.986626, y: 59.538063}
+        - {x: 68.986626, y: 56.538063}
+        - {x: 69.986626, y: 56.538063}
+        - {x: 69.986626, y: 65.53806}
+        - {x: 68.986626, y: 65.53806}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c601792366dc4fcab9a0a6f39090a352
+      internalID: 21300024
+      vertices:
+      - {x: 54.986626, y: 140.46194}
+      - {x: 23.98663, y: 114.46193}
+      - {x: 4.9866257, y: 36.461937}
+      - {x: -8.013374, y: 129.46194}
+      - {x: 28.986626, y: 166.46194}
+      - {x: 131.98663, y: 128.46194}
+      - {x: 118.98662, y: 79.46194}
+      - {x: 82.986626, y: 132.46193}
+      - {x: 63.986626, y: 138.46193}
+      - {x: 93.986626, y: 168.46194}
+      indices: 010000000300000004000000010000000200000003000000000000000100000004000000070000000800000009000000050000000600000007000000050000000700000009000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_store_beans_visor_stickynotesmile0001
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 50
+        width: 106
+        height: 70.92388
+      alignment: 9
+      pivot: {x: 0.10377359, y: 0.74728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -21, y: -35.461937}
+        - {x: -53, y: 28.53806}
+        - {x: 17.999996, y: 36.53806}
+        - {x: 53, y: -11.461941}
+      physicsShape:
+      - - {x: -53, y: -14.461941}
+        - {x: -53, y: -35.461937}
+        - {x: -45, y: -35.461937}
+        - {x: -39, y: -30.46194}
+        - {x: -39, y: -20.46194}
+        - {x: -40, y: -15.461941}
+      - - {x: 24, y: -32.46194}
+        - {x: 24, y: -35.461937}
+        - {x: 53, y: -35.461937}
+        - {x: 53, y: -25.461937}
+        - {x: 30.999992, y: -26.46194}
+      - - {x: 24, y: 34.53806}
+        - {x: -16, y: 34.53806}
+        - {x: -39, y: 30.53806}
+        - {x: -41, y: 26.53806}
+        - {x: -41, y: 7.53806}
+        - {x: -34, y: -14.461941}
+        - {x: -20, y: -27.46194}
+        - {x: -15.000002, y: -30.46194}
+        - {x: -5, y: -30.46194}
+        - {x: 41, y: -16.46194}
+        - {x: 46, y: -12.461939}
+        - {x: 46, y: -4.461941}
+      - - {x: 49, y: 26.53806}
+        - {x: 48, y: 20.53806}
+        - {x: 48, y: 11.538059}
+        - {x: 52, y: 8.538059}
+        - {x: 53, y: 8.538059}
+        - {x: 53, y: 26.53806}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1879ec19fbcf4864b5798e0adaf62f91
+      internalID: 21300026
+      vertices:
+      - {x: 148, y: 6.461941}
+      - {x: 74, y: -17.538055}
+      - {x: 42, y: 46.46194}
+      - {x: 113, y: 54.46194}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_store_beans_visor_booboo0004
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 104
+        width: 40
+        height: 42
+      alignment: 9
+      pivot: {x: -0.975, y: 0.7619048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -20, y: -21}
+        - {x: -20, y: 21}
+        - {x: 20, y: 21}
+        - {x: 20, y: -21}
+      physicsShape:
+      - - {x: 10, y: 21}
+        - {x: -0.0000038146973, y: 21}
+        - {x: -6.000004, y: 20}
+        - {x: -20, y: 8}
+        - {x: -20, y: -21}
+        - {x: 13, y: -21}
+        - {x: 20, y: -6}
+        - {x: 20, y: 14}
+        - {x: 19, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8324dd5bb48b40c089244ffbfca27719
+      internalID: 21300028
+      vertices:
+      - {x: 99, y: -11}
+      - {x: 59, y: -11}
+      - {x: 59, y: 31}
+      - {x: 99, y: 31}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_store_beans_visor_sunglassesheartred0003
+      rect:
+        serializedVersion: 2
+        x: 291.02676
+        y: 76
+        width: 125.97325
+        height: 101.948685
+      alignment: 9
+      pivot: {x: 0.6030902, y: 0.07847085}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -23.01339, y: 21.025658}
+        - {x: -39.01339, y: -0.97434235}
+        - {x: -39.01339, y: -40.974342}
+        - {x: -49.01339, y: -50.974342}
+        - {x: -65.01339, y: 32.025658}
+        - {x: -39.01339, y: 52.025658}
+        - {x: 62.98661, y: 50.025658}
+        - {x: 62.98661, y: -36.974342}
+        - {x: 26.98661, y: 24.02565}
+      physicsShape:
+      - - {x: -2.0133886, y: -33.974342}
+        - {x: -7.0133877, y: -45.974342}
+        - {x: -7.0133877, y: -50.974342}
+        - {x: 16.98661, y: -50.974342}
+        - {x: 16.98661, y: -39.974342}
+        - {x: 7.986611, y: -33.974342}
+      - - {x: 51.98661, y: -36.974342}
+        - {x: 45.98661, y: -40.974342}
+        - {x: 44.98661, y: -48.974342}
+        - {x: 44.98661, y: -50.974342}
+        - {x: 62.98661, y: -50.974342}
+        - {x: 62.98661, y: -44.974342}
+        - {x: 57.98661, y: -36.974342}
+      - - {x: -37.01339, y: 10.025654}
+        - {x: -0.013389587, y: 32.025658}
+        - {x: -0.013389587, y: 39.025658}
+        - {x: -10.013388, y: 47.025658}
+        - {x: -22.01339, y: 47.025658}
+        - {x: -27.013386, y: 45.025658}
+        - {x: -51.01339, y: 42.025658}
+        - {x: -59.01339, y: 35.025658}
+        - {x: -62.01339, y: 29.025658}
+        - {x: -62.01339, y: 19.025658}
+        - {x: -51.01339, y: -25.974342}
+        - {x: -52.01339, y: -37.974342}
+        - {x: -50.01339, y: -44.974342}
+        - {x: -43.01339, y: -44.974342}
+        - {x: -37.01339, y: -39.974342}
+        - {x: -45.01339, y: 1.0256577}
+        - {x: -43.01339, y: 1.0256577}
+      - - {x: -0.013389587, y: 19.025658}
+        - {x: -15.01339, y: 11.025654}
+        - {x: -15.01339, y: -15.974344}
+        - {x: -13.01339, y: -18.974342}
+        - {x: -9.01339, y: -23.974342}
+        - {x: 7.986611, y: -23.974342}
+        - {x: 25.98661, y: -11.974342}
+        - {x: 26.98661, y: -6.9743423}
+        - {x: 26.98661, y: 9.025658}
+        - {x: 19.98661, y: 19.025658}
+      - - {x: 5.9866104, y: 50.025658}
+        - {x: 2.9866114, y: 42.025658}
+        - {x: 1.9866104, y: 40.025658}
+        - {x: 1.9866104, y: 32.025658}
+        - {x: 2.9866114, y: 29.025658}
+        - {x: 32.98661, y: 20.025658}
+        - {x: 50.98661, y: -12.974344}
+        - {x: 56.98661, y: -15.974344}
+        - {x: 60.98661, y: -15.974344}
+        - {x: 62.98661, y: -8.974342}
+        - {x: 62.98661, y: 50.025658}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f637bf86f6e43ffab5468f048d3fa7e
+      internalID: 21300030
+      vertices:
+      - {x: 112.986626, y: 143.97433}
+      - {x: 112.986626, y: 56.974342}
+      - {x: 76.986626, y: 117.974335}
+      - {x: 26.986626, y: 114.97434}
+      - {x: 10.986626, y: 92.97434}
+      - {x: 10.986626, y: 52.974342}
+      - {x: 0.9866257, y: 42.974342}
+      - {x: -15.013374, y: 125.97434}
+      - {x: 10.986626, y: 145.97433}
+      indices: 030000000400000007000000040000000500000006000000040000000600000007000000030000000700000008000000020000000300000008000000000000000100000002000000080000000000000002000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      2024_store_beans_visor_booboo0001: 21300002
+      2024_store_beans_visor_booboo0002: 21300010
+      2024_store_beans_visor_booboo0003: 21300000
+      2024_store_beans_visor_booboo0004: 21300028
+      2024_store_beans_visor_stickynotefrown0001: 21300008
+      2024_store_beans_visor_stickynotefrown0002: 21300004
+      2024_store_beans_visor_stickynotefrown0003: 21300016
+      2024_store_beans_visor_stickynotesmile0001: 21300026
+      2024_store_beans_visor_stickynotesmile0002: 21300018
+      2024_store_beans_visor_stickynotesmile0003: 21300014
+      2024_store_beans_visor_sunglassesheartred0001: 21300022
+      2024_store_beans_visor_sunglassesheartred0002: 21300012
+      2024_store_beans_visor_sunglassesheartred0003: 21300030
+      2024_store_beans_visor_sunglassesstarpurple0001: 21300006
+      2024_store_beans_visor_sunglassesstarpurple0002: 21300020
+      2024_store_beans_visor_sunglassesstarpurple0003: 21300024
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

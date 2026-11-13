@@ -1,0 +1,4451 @@
+fileFormatVersion: 2
+guid: c646e62650ec82543a1b86f56288f186
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: W2021JHat_candycane-Bubblegum0003
+  - first:
+      213: 21300002
+    second: vis_NY2122_HNYglasses0004
+  - first:
+      213: 21300004
+    second: W2021Hat_Snowman-RednGreen0002
+  - first:
+      213: 21300006
+    second: W2021Hat_Elf-Swe0002
+  - first:
+      213: 21300008
+    second: W2021Hat_Snowman-RednGreen0001
+  - first:
+      213: 21300010
+    second: W2021Hat_Snowman-bluenYellow0002
+  - first:
+      213: 21300012
+    second: W2021Hat_Snowman-bluenYellow0001
+  - first:
+      213: 21300014
+    second: W2021Hat_Santa-Evil0001
+  - first:
+      213: 21300016
+    second: W2021Hat_Santa-Pink0002
+  - first:
+      213: 21300018
+    second: W2021Hat_Present-RedBlack0001
+  - first:
+      213: 21300020
+    second: W2021Hat_Present-RedWhite0002
+  - first:
+      213: 21300022
+    second: W2021JHat_candycane-ChocolateMint0003
+  - first:
+      213: 21300024
+    second: W2021Hat_Lights-White0001
+  - first:
+      213: 21300026
+    second: W2021JHat_candycane-Blueberry0002
+  - first:
+      213: 21300028
+    second: W2021Hat_Lights-Yellow0003
+  - first:
+      213: 21300030
+    second: W2021Hat_Santa-Evil0002
+  - first:
+      213: 21300032
+    second: W2021JHat_candycane-ChocolateMint0002
+  - first:
+      213: 21300034
+    second: W2021Hat_Present-RedBlack0003
+  - first:
+      213: 21300036
+    second: W2021Hat_Santa-Mint0003
+  - first:
+      213: 21300038
+    second: W2021Hat_Santa-Evil0003
+  - first:
+      213: 21300040
+    second: W2021Hat_Elf-Pink0002
+  - first:
+      213: 21300042
+    second: W2021Hat_Snowman-Evil0002
+  - first:
+      213: 21300044
+    second: W2021JHat_candycane-Bubblegum0002
+  - first:
+      213: 21300046
+    second: W2021Hat_Santa-Mint0001
+  - first:
+      213: 21300048
+    second: W2021Hat_Elf-Swe0001
+  - first:
+      213: 21300050
+    second: W2021Hat_Santa-Gold0003
+  - first:
+      213: 21300052
+    second: W2021Hat_Snowman-RednGreen0003
+  - first:
+      213: 21300054
+    second: W2021Hat_Elf-Pink0001
+  - first:
+      213: 21300056
+    second: W2021Hat_Snowman-Greenhat0001
+  - first:
+      213: 21300058
+    second: W2021Hat_Present-RedWhite0003
+  - first:
+      213: 21300060
+    second: W2021Hat_Snowman-bluenYellow0003
+  - first:
+      213: 21300062
+    second: W2021Hat-GreenYellow0001
+  - first:
+      213: 21300064
+    second: W2021JHat_candycane-Bubblegum0001
+  - first:
+      213: 21300066
+    second: W2021JHat_candycane-Blueberry0003
+  - first:
+      213: 21300068
+    second: W2021Hat_Santa-Green0003
+  - first:
+      213: 21300070
+    second: W2021Hat_Santa-Gold0001
+  - first:
+      213: 21300072
+    second: W2021Hat_Lights-White0002
+  - first:
+      213: 21300074
+    second: W2021Hat_Snowman-Evil0001
+  - first:
+      213: 21300076
+    second: W2021JHat_candycane-Mint0003
+  - first:
+      213: 21300078
+    second: W2021Hat_Santa-Mint0002
+  - first:
+      213: 21300080
+    second: vis_NY2122_HNYglasses0001
+  - first:
+      213: 21300082
+    second: W2021Hat_Santa-Pink0003
+  - first:
+      213: 21300084
+    second: W2021Hat_Santa-Green0002
+  - first:
+      213: 21300086
+    second: W2021Hat_Lights-Yellow0002
+  - first:
+      213: 21300088
+    second: W2021Hat_Present-RedWhite0001
+  - first:
+      213: 21300090
+    second: W2021Hat_Lights-Yellow0001
+  - first:
+      213: 21300092
+    second: vis_NY2122_HNYglasses0002
+  - first:
+      213: 21300094
+    second: W2021Hat_Snowman-Greenhat0002
+  - first:
+      213: 21300096
+    second: W2021Hat_Santa-Spearmint0002
+  - first:
+      213: 21300098
+    second: W2021Hat_Snowman-Greenhat0003
+  - first:
+      213: 21300100
+    second: W2021Hat_Lights-White0003
+  - first:
+      213: 21300102
+    second: W2021JHat_candycane-ChocolateMint0001
+  - first:
+      213: 21300104
+    second: W2021Hat_Present-WhiteBlue0002
+  - first:
+      213: 21300106
+    second: W2021Hat_Santa-Gold0002
+  - first:
+      213: 21300108
+    second: W2021Hat_Elf-Pink0003
+  - first:
+      213: 21300110
+    second: W2021Hat_Present-WhiteBlue0001
+  - first:
+      213: 21300112
+    second: W2021Hat-GreenYellow0002
+  - first:
+      213: 21300114
+    second: W2021Hat_Snowman-Evil0003
+  - first:
+      213: 21300116
+    second: W2021Hat_Santa-Spearmint0001
+  - first:
+      213: 21300118
+    second: W2021Hat_Elf-Swe0003
+  - first:
+      213: 21300120
+    second: W2021Hat_Santa-Pink0001
+  - first:
+      213: 21300122
+    second: W2021Hat_Present-RedBlack0002
+  - first:
+      213: 21300124
+    second: W2021JHat_candycane-Mint0002
+  - first:
+      213: 21300126
+    second: W2021Hat_Santa-Spearmint0003
+  - first:
+      213: 21300128
+    second: W2021JHat_candycane-Mint0001
+  - first:
+      213: 21300130
+    second: W2021JHat_candycane-Blueberry0001
+  - first:
+      213: 21300132
+    second: W2021Hat_Present-WhiteBlue0003
+  - first:
+      213: 21300134
+    second: W2021Hat-GreenYellow0003
+  - first:
+      213: 21300136
+    second: W2021Hat_Santa-Green0001
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: W2021JHat_candycane-Bubblegum0003
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 38
+        width: 111
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5675676, y: -0.33846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -55.499996, y: -32.5}
+        - {x: -55.499996, y: 32.5}
+        - {x: 55.500004, y: 32.5}
+        - {x: 55.500004, y: -32.5}
+      physicsShape:
+      - - {x: 55.500004, y: 30.5}
+        - {x: 49.500004, y: 32.5}
+        - {x: 16.500004, y: 32.5}
+        - {x: 0.5000038, y: 8.5}
+        - {x: -10.499996, y: -1.5000038}
+        - {x: -3.4999962, y: 12.499992}
+        - {x: -9.499996, y: 18.499992}
+        - {x: -24.499996, y: 32.5}
+        - {x: -43.499996, y: 32.5}
+        - {x: -48.499996, y: 31.499992}
+        - {x: -55.499996, y: 22.5}
+        - {x: -55.499996, y: 7.5}
+        - {x: -53.499996, y: -1.5000038}
+        - {x: -39.499996, y: -32.5}
+        - {x: 37.5, y: -32.5}
+        - {x: 38.500004, y: -29.5}
+        - {x: 55.500004, y: 0.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f420e4f1004e2fb64681c22581b383
+      internalID: 21300000
+      vertices:
+      - {x: -7.5, y: 119.5}
+      - {x: 103.5, y: 119.5}
+      - {x: -7.5, y: 54.5}
+      - {x: 103.5, y: 54.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vis_NY2122_HNYglasses0004
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 507
+        width: 164
+        height: 76
+      alignment: 9
+      pivot: {x: 0.33536586, y: 0.46052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -38}
+        - {x: -82, y: 38}
+        - {x: 82, y: 38}
+        - {x: 82, y: -38}
+      physicsShape:
+      - - {x: 76, y: -1}
+        - {x: 80.99999, y: 6}
+        - {x: 80.99999, y: 11}
+        - {x: 77, y: 13}
+        - {x: 67, y: 36.999996}
+        - {x: 63, y: 36.999996}
+        - {x: 56, y: 33}
+        - {x: 39, y: 36}
+        - {x: 32.999996, y: 33}
+        - {x: 31, y: 16.999998}
+        - {x: -16, y: 19}
+        - {x: -20, y: 36.999996}
+        - {x: -25, y: 36.999996}
+        - {x: -34, y: 30}
+        - {x: -47, y: 36.999996}
+        - {x: -53, y: 36.999996}
+        - {x: -54, y: 36}
+        - {x: -57, y: 14}
+        - {x: -73, y: 14}
+        - {x: -80, y: 9}
+        - {x: -82, y: 8}
+        - {x: -82, y: -7.9999995}
+        - {x: -77, y: -19}
+        - {x: -41, y: -21}
+        - {x: -39, y: -38}
+        - {x: 52, y: -38}
+        - {x: 54, y: -35}
+        - {x: 56, y: -15}
+        - {x: 76, y: -19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bc04b776a3435eb851d0038bae38ac
+      internalID: 21300002
+      vertices:
+      - {x: 27, y: 79}
+      - {x: 191, y: 79}
+      - {x: 27, y: 3}
+      - {x: 191, y: 3}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021Hat_Snowman-RednGreen0002
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 738
+        width: 191
+        height: 85
+      alignment: 9
+      pivot: {x: 0.43979058, y: 0.32941177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -95.5, y: -42.5}
+        - {x: -95.5, y: 42.5}
+        - {x: 95.50001, y: 42.5}
+        - {x: 95.50001, y: -42.5}
+      physicsShape:
+      - - {x: 89.5, y: -23.5}
+        - {x: 95.49999, y: -13.5}
+        - {x: 95.49999, y: 3.5}
+        - {x: 94.49999, y: 4.5}
+        - {x: 77.5, y: 8.499998}
+        - {x: 79.5, y: 18.5}
+        - {x: 67.5, y: 22.5}
+        - {x: 49.5, y: 17.5}
+        - {x: 30.5, y: 32.5}
+        - {x: 22.5, y: 32.5}
+        - {x: 19.5, y: 16.5}
+        - {x: 22.5, y: 13.5}
+        - {x: 30.5, y: 11.5}
+        - {x: 14.5, y: -12.5}
+        - {x: 14.5, y: -24.5}
+        - {x: 20.5, y: -33.5}
+        - {x: 29.5, y: -36.5}
+        - {x: 36.5, y: -37.5}
+        - {x: 60.5, y: -42.5}
+        - {x: 82.5, y: -42.5}
+        - {x: 85.5, y: -39.5}
+        - {x: 83.5, y: -32.5}
+        - {x: 72.5, y: -25.5}
+      - - {x: -10.5, y: 13.5}
+        - {x: -12.5, y: 19.5}
+        - {x: -16.5, y: 30.5}
+        - {x: -39.5, y: 30.5}
+        - {x: -46.5, y: 39.499996}
+        - {x: -62.5, y: 40.5}
+        - {x: -74.5, y: 33.5}
+        - {x: -85.5, y: 42.5}
+        - {x: -92.5, y: 42.5}
+        - {x: -95.5, y: 37.5}
+        - {x: -95.5, y: 25.499996}
+        - {x: -94.5, y: 24.5}
+        - {x: -76.5, y: 17.5}
+        - {x: -84.49999, y: 10.5}
+        - {x: -93.5, y: -6.5}
+        - {x: -88.5, y: -25.5}
+        - {x: -75.5, y: -31.5}
+        - {x: -36.5, y: -31.5}
+        - {x: -27.5, y: -28.5}
+        - {x: -11.5, y: -19.5}
+        - {x: -10.5, y: -10.5}
+      - - {x: 11.499998, y: -2.5}
+        - {x: 0.5, y: -2.5}
+        - {x: -5.5, y: -8.5}
+        - {x: -8.5, y: -19.5}
+        - {x: -8.5, y: -22.5}
+        - {x: -6.5000005, y: -24.5}
+        - {x: 10.5, y: -24.5}
+        - {x: 14.5, y: -15.5}
+        - {x: 14.5, y: -6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041d2bc45fe54e2589a5fa3c17e1ff2f
+      internalID: 21300004
+      vertices:
+      - {x: 11.5, y: 99.5}
+      - {x: 202.5, y: 99.5}
+      - {x: 11.5, y: 14.5}
+      - {x: 202.5, y: 14.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021Hat_Elf-Swe0002
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 225
+        width: 158
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5506329, y: 0.23809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -79, y: -52.5}
+        - {x: -79, y: 52.5}
+        - {x: 79, y: 52.5}
+        - {x: 79, y: -52.5}
+      physicsShape:
+      - - {x: 79, y: -25.5}
+        - {x: 79, y: -15.5}
+        - {x: 68, y: -7.500002}
+        - {x: 47.999996, y: 28.5}
+        - {x: 32, y: 44.5}
+        - {x: 17, y: 52.499992}
+        - {x: 11, y: 52.499992}
+        - {x: 1, y: 47.5}
+        - {x: -23, y: 23.5}
+        - {x: -37.999996, y: 3.5}
+        - {x: -50.999996, y: -0.5000019}
+        - {x: -61, y: -0.5000019}
+        - {x: -79, y: -12.500001}
+        - {x: -79, y: -24.5}
+        - {x: -75, y: -29.5}
+        - {x: -42, y: -45.5}
+        - {x: -36, y: -47.5}
+        - {x: -14, y: -52.5}
+        - {x: 21, y: -52.5}
+        - {x: 32, y: -50.5}
+        - {x: 59, y: -46.5}
+        - {x: 72, y: -37.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a4327d226b4d3cbe3c156e355de90f
+      internalID: 21300006
+      vertices:
+      - {x: -8, y: 132.5}
+      - {x: 150, y: 132.5}
+      - {x: -8, y: 27.5}
+      - {x: 150, y: 27.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021Hat_Snowman-RednGreen0001
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 833
+        width: 102
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5588235, y: -0.11818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -51, y: -55}
+        - {x: -51, y: 55}
+        - {x: 51, y: 55}
+        - {x: 51, y: -55}
+      physicsShape:
+      - - {x: 48.999996, y: 2}
+        - {x: 51, y: 4.9999924}
+        - {x: 51, y: 15}
+        - {x: 48, y: 20}
+        - {x: 41, y: 23.999992}
+        - {x: 28, y: 6}
+        - {x: 21, y: 34}
+        - {x: 13, y: 46}
+        - {x: 9, y: 55}
+        - {x: -8.999999, y: 55}
+        - {x: -16, y: 54}
+        - {x: -23.999998, y: 47}
+        - {x: -22, y: 41}
+        - {x: -25, y: 25}
+        - {x: -20.999998, y: 15}
+        - {x: -31, y: 3}
+        - {x: -38, y: 23}
+        - {x: -46.999996, y: 19}
+        - {x: -51, y: 8}
+        - {x: -51, y: 2}
+        - {x: -39, y: -9.000004}
+        - {x: -30, y: -15.000004}
+        - {x: -35, y: -22.000004}
+        - {x: -33.999996, y: -43}
+        - {x: -18, y: -55}
+        - {x: 28.999998, y: -55}
+        - {x: 47, y: -43}
+        - {x: 47, y: -17}
+        - {x: 34, y: -3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f925ae909e594f7dbb6c0dfc79aea8dc
+      internalID: 21300008
+      vertices:
+      - {x: -6, y: 178}
+      - {x: 96, y: 178}
+      - {x: -6, y: 68}
+      - {x: 96, y: 68}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021Hat_Snowman-bluenYellow0002
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 852
+        width: 191
+        height: 84
+      alignment: 9
+      pivot: {x: 0.43979058, y: 0.32142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -95.5, y: -42}
+        - {x: -95.5, y: 42}
+        - {x: 95.50001, y: 42}
+        - {x: 95.50001, y: -42}
+      physicsShape:
+      - - {x: 95.49999, y: 3}
+        - {x: 80.49999, y: 10}
+        - {x: 76.5, y: 24}
+        - {x: 48.499996, y: 17}
+        - {x: 30.5, y: 33}
+        - {x: 26.5, y: 33}
+        - {x: 23.5, y: 32}
+        - {x: 17.5, y: 16}
+        - {x: 31.499996, y: 13}
+        - {x: 14.5, y: -6}
+        - {x: 14.5, y: -26}
+        - {x: 17.5, y: -37}
+        - {x: 37.499996, y: -40}
+        - {x: 44.5, y: -29}
+        - {x: 60.5, y: -42}
+        - {x: 83.5, y: -42}
+        - {x: 86.49999, y: -35}
+        - {x: 87.49999, y: -23}
+        - {x: 95.49999, y: -13}
+      - - {x: -10.5, y: 11}
+        - {x: -15.5, y: 30}
+        - {x: -44.5, y: 36}
+        - {x: -48.5, y: 41}
+        - {x: -67.5, y: 37}
+        - {x: -79.5, y: 42}
+        - {x: -93.5, y: 42}
+        - {x: -95.5, y: 35}
+        - {x: -95.5, y: 24}
+        - {x: -77.5, y: 17}
+        - {x: -88.5, y: 4.999998}
+        - {x: -92.5, y: -7}
+        - {x: -89.5, y: -21}
+        - {x: -83.5, y: -26}
+        - {x: -78.49999, y: -28}
+        - {x: -69.5, y: -32}
+        - {x: -37.5, y: -32}
+        - {x: -17.5, y: -25}
+        - {x: -10.5, y: -14}
+      - - {x: -2.5, y: -3}
+        - {x: -8.5, y: -16}
+        - {x: -8.5, y: -25}
+        - {x: 12.5, y: -25}
+        - {x: 14.5, y: -17}
+        - {x: 14.5, y: -4}
+        - {x: 13.5, y: -3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29bfd5ca6244e2da7a51060c87fb20b
+      internalID: 21300010
+      vertices:
+      - {x: 11.5, y: 99}
+      - {x: 202.5, y: 99}
+      - {x: 11.5, y: 14.999998}
+      - {x: 202.5, y: 14.999998}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021Hat_Snowman-bluenYellow0001
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 307
+        width: 102
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5588235, y: -0.11818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -51, y: -55}
+        - {x: -51, y: 55}
+        - {x: 51, y: 55}
+        - {x: 51, y: -55}
+      physicsShape:
+      - - {x: 35, y: -2}
+        - {x: 38, y: 3}
+        - {x: 48.999996, y: 4.9999924}
+        - {x: 51, y: 7}
+        - {x: 51, y: 11.999992}
+        - {x: 45.999996, y: 23}
+        - {x: 41, y: 23}
+        - {x: 28, y: 7}
+        - {x: 22, y: 36}
+        - {x: 14, y: 41}
+        - {x: 11, y: 52.999992}
+        - {x: 8, y: 55}
+        - {x: -8.999999, y: 55}
+        - {x: -15, y: 54}
+        - {x: -23.999998, y: 47}
+        - {x: -26, y: 29.999992}
+        - {x: -22, y: 14}
+        - {x: -25, y: 1}
+        - {x: -38, y: 19}
+        - {x: -47.999996, y: 17.999992}
+        - {x: -51, y: 11.999992}
+        - {x: -51, y: 0}
+        - {x: -39.999996, y: -10}
+        - {x: -30, y: -13}
+        - {x: -33, y: -18}
+        - {x: -35, y: -36}
+        - {x: -26, y: -50}
+        - {x: -16, y: -54}
+        - {x: -7, y: -55}
+        - {x: 19, y: -55}
+        - {x: 38, y: -49}
+        - {x: 45.999996, y: -40}
+        - {x: 47, y: -21}
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed552c13bda48fb99ca7632400b296c
+      internalID: 21300012
+      vertices:
+      - {x: -6, y: 178}
+      - {x: 96, y: 178}
+      - {x: -6, y: 68}
+      - {x: 96, y: 68}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021Hat_Santa-Evil0001
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 118
+        width: 156
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5576923, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -78, y: -52.5}
+        - {x: -78, y: 52.5}
+        - {x: 78, y: 52.5}
+        - {x: 78, y: -52.5}
+      physicsShape:
+      - - {x: 41, y: -34.5}
+        - {x: 65, y: -36.5}
+        - {x: 77, y: -28.5}
+        - {x: 78, y: -26.5}
+        - {x: 78, y: -8.5}
+        - {x: 77, y: -2.5000038}
+        - {x: 61, y: 20.5}
+        - {x: 28, y: 41.5}
+        - {x: 3, y: 52.499992}
+        - {x: -17, y: 52.499992}
+        - {x: -39.999996, y: 38.5}
+        - {x: -69, y: 19.5}
+        - {x: -76, y: 12.5}
+        - {x: -78, y: 7.499996}
+        - {x: -78, y: -6.5}
+        - {x: -70.99999, y: -25.500002}
+        - {x: -61, y: -34.5}
+        - {x: -43, y: -52.5}
+        - {x: -26, y: -52.5}
+        - {x: -10.999998, y: -49.5}
+        - {x: 1, y: -40.5}
+        - {x: 17, y: -39.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a47dd770364c328e784426a3f0b922
+      internalID: 21300014
+      vertices:
+      - {x: -9, y: 150.5}
+      - {x: 147, y: 150.5}
+      - {x: -9, y: 45.5}
+      - {x: 147, y: 45.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021Hat_Santa-Pink0002
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 419
+        width: 155
+        height: 102
+      alignment: 9
+      pivot: {x: 0.4967742, y: 0.3627451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -77.5, y: -51}
+        - {x: -77.5, y: 51}
+        - {x: 77.5, y: 51}
+        - {x: 77.5, y: -51}
+      physicsShape:
+      - - {x: 77.5, y: -5}
+        - {x: 77.5, y: 5.999998}
+        - {x: 70.5, y: 15.999998}
+        - {x: 51.5, y: 27}
+        - {x: 34.5, y: 42}
+        - {x: 15.5, y: 51}
+        - {x: -2.5, y: 51}
+        - {x: -23.499998, y: 41}
+        - {x: -65.5, y: 15.999998}
+        - {x: -72.5, y: 8.999998}
+        - {x: -77.5, y: 0}
+        - {x: -77.5, y: -24}
+        - {x: -62.5, y: -38}
+        - {x: -47.5, y: -47}
+        - {x: -10.499999, y: -46}
+        - {x: 2.5, y: -51}
+        - {x: 17.5, y: -51}
+        - {x: 23.5, y: -50}
+        - {x: 37.5, y: -40}
+        - {x: 64.5, y: -29}
+        - {x: 73.5, y: -19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fc16ba38c04438bb409ce59edfc242
+      internalID: 21300016
+      vertices:
+      - {x: 0.5, y: 116}
+      - {x: 155.5, y: 116}
+      - {x: 0.5, y: 14}
+      - {x: 155.5, y: 14}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021Hat_Present-RedBlack0001
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 123
+        width: 110
+        height: 100
+      alignment: 9
+      pivot: {x: 0.46363637, y: -0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -55, y: -50}
+        - {x: -55, y: 49.999992}
+        - {x: 54.999996, y: 49.999992}
+        - {x: 54.999996, y: -50}
+      physicsShape:
+      - - {x: 54.999996, y: 9}
+        - {x: 53, y: 13}
+        - {x: 49.999996, y: 27}
+        - {x: 38, y: 23.999992}
+        - {x: 35.999996, y: 33}
+        - {x: 32, y: 35}
+        - {x: 0.9999995, y: 36.999992}
+        - {x: -4, y: 32}
+        - {x: -17, y: 49.999992}
+        - {x: -22, y: 49.999992}
+        - {x: -23, y: 48.999992}
+        - {x: -26, y: 41}
+        - {x: -42, y: 44}
+        - {x: -43.999996, y: 42}
+        - {x: -55, y: 17}
+        - {x: -55, y: 2}
+        - {x: -43.999996, y: -4}
+        - {x: -46.999996, y: -9.000004}
+        - {x: -49, y: -15.000004}
+        - {x: -36, y: -43}
+        - {x: -32, y: -50}
+        - {x: -17, y: -50}
+        - {x: 27, y: -47}
+        - {x: 31, y: -41}
+        - {x: 48.999996, y: -4}
+        - {x: 54.999996, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b932941f95d441f590dac3e9f556bed5
+      internalID: 21300018
+      vertices:
+      - {x: 4, y: 168}
+      - {x: 114, y: 168}
+      - {x: 4, y: 68}
+      - {x: 114, y: 68}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021Hat_Present-RedWhite0002
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 429
+        width: 108
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2371134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -54.000004, y: -48.5}
+        - {x: -54.000004, y: 48.5}
+        - {x: 54.000004, y: 48.5}
+        - {x: 54.000004, y: -48.5}
+      physicsShape:
+      - - {x: 53.999996, y: -0.5}
+        - {x: 52.999996, y: 5.5}
+        - {x: 25, y: 5.5}
+        - {x: 29.999998, y: 11.5}
+        - {x: 29.999998, y: 15.5}
+        - {x: 17, y: 43.5}
+        - {x: 4.9999995, y: 48.5}
+        - {x: -12, y: 48.5}
+        - {x: -22.999998, y: 47.499992}
+        - {x: -25, y: 41.499992}
+        - {x: -31, y: 16.5}
+        - {x: -48, y: 8.5}
+        - {x: -52, y: 2.5}
+        - {x: -53.999996, y: -13.5}
+        - {x: -53.999996, y: -29.5}
+        - {x: -47, y: -46.5}
+        - {x: -44, y: -48.5}
+        - {x: 29.999998, y: -48.5}
+        - {x: 53.999996, y: -25.5}
+        - {x: 53.999996, y: -10.500001}
+        - {x: 52, y: -5.500002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edb558c50dd42a49c2f5bbc6e6149d2
+      internalID: 21300020
+      vertices:
+      - {x: -0.0000038146973, y: 122.5}
+      - {x: 108, y: 122.5}
+      - {x: -0.0000038146973, y: 25.5}
+      - {x: 108, y: 25.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021JHat_candycane-ChocolateMint0003
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 182
+        width: 111
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5675676, y: -0.33846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -55.499996, y: -32.5}
+        - {x: -55.499996, y: 32.5}
+        - {x: 55.500004, y: 32.5}
+        - {x: 55.500004, y: -32.5}
+      physicsShape:
+      - - {x: 55.500004, y: 30.5}
+        - {x: 49.500004, y: 32.5}
+        - {x: 16.500004, y: 32.5}
+        - {x: 0.5000038, y: 8.5}
+        - {x: -10.499996, y: -1.5000038}
+        - {x: -3.4999962, y: 12.499992}
+        - {x: -9.499996, y: 18.499992}
+        - {x: -24.499996, y: 32.5}
+        - {x: -43.499996, y: 32.5}
+        - {x: -48.499996, y: 31.499992}
+        - {x: -55.499996, y: 22.5}
+        - {x: -55.499996, y: 7.5}
+        - {x: -53.499996, y: -1.5000038}
+        - {x: -39.499996, y: -32.5}
+        - {x: 37.5, y: -32.5}
+        - {x: 38.500004, y: -29.5}
+        - {x: 55.500004, y: 0.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814cbb1c5994449b959751332b4b8df6
+      internalID: 21300022
+      vertices:
+      - {x: -7.5, y: 119.5}
+      - {x: 103.5, y: 119.5}
+      - {x: -7.5, y: 54.5}
+      - {x: 103.5, y: 54.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021Hat_Lights-White0001
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 754
+        width: 163
+        height: 103
+      alignment: 9
+      pivot: {x: 0.45398772, y: 0.058252428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -81.5, y: -51.5}
+        - {x: -81.5, y: 51.5}
+        - {x: 81.5, y: 51.5}
+        - {x: 81.5, y: -51.5}
+      physicsShape:
+      - - {x: 49.5, y: -46.5}
+        - {x: 71.5, y: -45.5}
+        - {x: 73.5, y: -37.5}
+        - {x: 73.5, y: -22.500002}
+        - {x: 67.5, y: -19.5}
+        - {x: 57.5, y: -28.5}
+        - {x: 68.5, y: -17.5}
+        - {x: 70.5, y: 5.5}
+        - {x: 63.5, y: 26.5}
+        - {x: 59.499992, y: 32.5}
+        - {x: 37.5, y: 26.5}
+        - {x: 23.5, y: 9.5}
+        - {x: 22.499998, y: 20.5}
+        - {x: 19.499998, y: 27.499992}
+        - {x: 5.5, y: 46.499992}
+        - {x: -6.5, y: 46.499992}
+        - {x: -22.5, y: 30.5}
+        - {x: -26.5, y: 18.5}
+        - {x: -25.5, y: 3.4999962}
+        - {x: -22.5, y: -3.5}
+        - {x: -26.5, y: 4.5}
+        - {x: -34.5, y: 13.499996}
+        - {x: -49.5, y: 19.5}
+        - {x: -69.5, y: 20.5}
+        - {x: -74.49999, y: 18.5}
+        - {x: -74.49999, y: -15.500002}
+        - {x: -70.5, y: -27.5}
+        - {x: -74.49999, y: -32.5}
+        - {x: -74.49999, y: -44.5}
+        - {x: -67.5, y: -51.5}
+        - {x: -44.5, y: -51.5}
+        - {x: -24.5, y: -25.500002}
+        - {x: 2.499999, y: -19.5}
+        - {x: 10.5, y: -22.500002}
+      - - {x: 14.5, y: -6.5}
+        - {x: 19.499998, y: -2.5000038}
+        - {x: 20.5, y: 4.5}
+        - {x: 18.5, y: 1.5}
+        - {x: 18.5, y: -7.5}
+        - {x: 17.5, y: -6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: acca84f65fc54acdbcd4f75517be5013
+      internalID: 21300024
+      vertices:
+      - {x: 7.5, y: 148.5}
+      - {x: 170.5, y: 148.5}
+      - {x: 7.5, y: 45.5}
+      - {x: 170.5, y: 45.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021JHat_candycane-Blueberry0002
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 859
+        width: 187
+        height: 78
+      alignment: 9
+      pivot: {x: 0.53475934, y: 0.20512821}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -93.5, y: -39}
+        - {x: -93.5, y: 39}
+        - {x: 93.5, y: 39}
+        - {x: 93.5, y: -39}
+      physicsShape:
+      - - {x: 42.5, y: -31}
+        - {x: 44.5, y: -34}
+        - {x: 65.5, y: -34}
+        - {x: 82.5, y: -37}
+        - {x: 93.5, y: -34}
+        - {x: 93.5, y: -1}
+        - {x: 74.5, y: 19}
+        - {x: 50.5, y: 19}
+        - {x: 43.5, y: 15}
+        - {x: 27.5, y: -3.000002}
+        - {x: 24.5, y: 6.999998}
+        - {x: -0.5, y: 10}
+        - {x: -2.5, y: 9}
+        - {x: -2.5, y: -29}
+        - {x: 26.499998, y: -34}
+        - {x: 31.5, y: -39}
+        - {x: 37.5, y: -39}
+        - {x: 42.5, y: -34}
+        - {x: 42.5, y: -30}
+        - {x: 41.5, y: -28}
+      - - {x: -28.5, y: -24}
+        - {x: -31.5, y: -27}
+        - {x: -31.5, y: -31}
+        - {x: -27.5, y: -33}
+        - {x: -22.5, y: -33}
+        - {x: -21.5, y: -30}
+        - {x: -21.5, y: -26}
+        - {x: -23.499998, y: -24}
+      - - {x: -6.5, y: -17}
+        - {x: -13.499998, y: -17}
+        - {x: -19.5, y: -22}
+        - {x: -19.5, y: -30}
+        - {x: -15.5, y: -31}
+        - {x: -4.5, y: -31}
+        - {x: -3.499999, y: -30}
+        - {x: -3.499999, y: -21}
+      - - {x: -51.5, y: 38}
+        - {x: -58.5, y: 39}
+        - {x: -85.49999, y: 39}
+        - {x: -90.5, y: 32}
+        - {x: -93.5, y: 21}
+        - {x: -93.5, y: 2}
+        - {x: -90.5, y: -5}
+        - {x: -80.5, y: -26}
+        - {x: -71.5, y: -29}
+        - {x: -43.5, y: -29}
+        - {x: -42.499996, y: -28}
+        - {x: -36.499996, y: -16}
+        - {x: -36.499996, y: -5}
+        - {x: -45.5, y: 24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed7c68fb8c5487aa66c6fe3ecaea54f
+      internalID: 21300026
+      vertices:
+      - {x: -6.5, y: 101}
+      - {x: 180.5, y: 101}
+      - {x: -6.5, y: 23}
+      - {x: 180.5, y: 23}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021Hat_Lights-Yellow0003
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 316
+        width: 164
+        height: 103
+      alignment: 9
+      pivot: {x: 0.54268295, y: -0.116504855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -51.5}
+        - {x: -82, y: 51.5}
+        - {x: 82, y: 51.5}
+        - {x: 82, y: -51.5}
+      physicsShape:
+      - - {x: 8, y: -20.500004}
+        - {x: 26.999998, y: -30.5}
+        - {x: 49, y: -45.5}
+        - {x: 68, y: -43.5}
+        - {x: 73, y: -35.5}
+        - {x: 73, y: -26.5}
+        - {x: 71, y: -19.5}
+        - {x: 59, y: -24.5}
+        - {x: 59.999996, y: -23.500004}
+        - {x: 69, y: -10.500004}
+        - {x: 70, y: -0.5}
+        - {x: 64, y: 27.5}
+        - {x: 59, y: 30.5}
+        - {x: 46.999996, y: 29.5}
+        - {x: 34, y: 21.5}
+        - {x: 23, y: 9.499992}
+        - {x: 23, y: 16.499992}
+        - {x: 24, y: 21.5}
+        - {x: 7, y: 46.5}
+        - {x: -7, y: 46.5}
+        - {x: -22.999998, y: 27.5}
+        - {x: -26, y: 16.499992}
+        - {x: -26, y: 4.5}
+        - {x: -24, y: -0.5}
+        - {x: -28, y: 6.5}
+        - {x: -32.999996, y: 12.5}
+        - {x: -50, y: 19.5}
+        - {x: -68, y: 21.5}
+        - {x: -75, y: 16.499992}
+        - {x: -75, y: -7.5}
+        - {x: -68, y: -24.5}
+        - {x: -72.99999, y: -27.5}
+        - {x: -75, y: -33.5}
+        - {x: -75, y: -44.5}
+        - {x: -69, y: -50.5}
+        - {x: -63, y: -51.5}
+        - {x: -49, y: -51.5}
+        - {x: -44, y: -49.5}
+        - {x: -26, y: -26.5}
+        - {x: -11, y: -21.5}
+      - - {x: 15, y: -6.5}
+        - {x: 20, y: -0.5}
+        - {x: 20, y: 3.4999924}
+        - {x: 18, y: 0.5}
+        - {x: 19, y: -7.5}
+        - {x: 18, y: -6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75efeecd5adc42b49c90b5090da1263b
+      internalID: 21300028
+      vertices:
+      - {x: -7, y: 166.5}
+      - {x: 157, y: 166.5}
+      - {x: -7, y: 63.5}
+      - {x: 157, y: 63.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021Hat_Santa-Evil0002
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 627
+        width: 155
+        height: 102
+      alignment: 9
+      pivot: {x: 0.4967742, y: 0.3627451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -77.5, y: -51}
+        - {x: -77.5, y: 51}
+        - {x: 77.5, y: 51}
+        - {x: 77.5, y: -51}
+      physicsShape:
+      - - {x: 77.5, y: -5}
+        - {x: 77.5, y: 5.999998}
+        - {x: 70.5, y: 15.999998}
+        - {x: 51.5, y: 27}
+        - {x: 34.5, y: 42}
+        - {x: 15.5, y: 51}
+        - {x: -2.5, y: 51}
+        - {x: -23.499998, y: 41}
+        - {x: -65.5, y: 15.999998}
+        - {x: -72.5, y: 8.999998}
+        - {x: -77.5, y: 0}
+        - {x: -77.5, y: -24}
+        - {x: -62.5, y: -38}
+        - {x: -47.5, y: -47}
+        - {x: -10.499999, y: -46}
+        - {x: 2.5, y: -51}
+        - {x: 17.5, y: -51}
+        - {x: 23.5, y: -50}
+        - {x: 37.5, y: -40}
+        - {x: 64.5, y: -29}
+        - {x: 73.5, y: -19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985e2d25e3b340eb8cc6e1dde69642da
+      internalID: 21300030
+      vertices:
+      - {x: 0.5, y: 116}
+      - {x: 155.5, y: 116}
+      - {x: 0.5, y: 14}
+      - {x: 155.5, y: 14}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021JHat_candycane-ChocolateMint0002
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 945
+        width: 187
+        height: 78
+      alignment: 9
+      pivot: {x: 0.53475934, y: 0.20512821}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -93.5, y: -39}
+        - {x: -93.5, y: 39}
+        - {x: 93.5, y: 39}
+        - {x: 93.5, y: -39}
+      physicsShape:
+      - - {x: 42.5, y: -31}
+        - {x: 44.5, y: -34}
+        - {x: 65.5, y: -34}
+        - {x: 82.5, y: -37}
+        - {x: 93.5, y: -34}
+        - {x: 93.5, y: -1}
+        - {x: 74.5, y: 19}
+        - {x: 50.5, y: 19}
+        - {x: 43.5, y: 15}
+        - {x: 27.5, y: -3.000002}
+        - {x: 24.5, y: 6.999998}
+        - {x: -0.5, y: 10}
+        - {x: -2.5, y: 9}
+        - {x: -2.5, y: -29}
+        - {x: 26.499998, y: -34}
+        - {x: 31.5, y: -39}
+        - {x: 37.5, y: -39}
+        - {x: 42.5, y: -34}
+        - {x: 42.5, y: -30}
+        - {x: 41.5, y: -28}
+      - - {x: -28.5, y: -24}
+        - {x: -31.5, y: -27}
+        - {x: -31.5, y: -31}
+        - {x: -27.5, y: -33}
+        - {x: -22.5, y: -33}
+        - {x: -21.5, y: -30}
+        - {x: -21.5, y: -26}
+        - {x: -23.499998, y: -24}
+      - - {x: -6.5, y: -17}
+        - {x: -13.499998, y: -17}
+        - {x: -19.5, y: -22}
+        - {x: -19.5, y: -30}
+        - {x: -15.5, y: -31}
+        - {x: -4.5, y: -31}
+        - {x: -3.499999, y: -30}
+        - {x: -3.499999, y: -21}
+      - - {x: -51.5, y: 38}
+        - {x: -58.5, y: 39}
+        - {x: -85.49999, y: 39}
+        - {x: -90.5, y: 32}
+        - {x: -93.5, y: 21}
+        - {x: -93.5, y: 2}
+        - {x: -90.5, y: -5}
+        - {x: -80.5, y: -26}
+        - {x: -71.5, y: -29}
+        - {x: -43.5, y: -29}
+        - {x: -42.499996, y: -28}
+        - {x: -36.499996, y: -16}
+        - {x: -36.499996, y: -5}
+        - {x: -45.5, y: 24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f181865be4a439f9207c42420431d8c
+      internalID: 21300032
+      vertices:
+      - {x: -6.5, y: 101}
+      - {x: 180.5, y: 101}
+      - {x: -6.5, y: 23}
+      - {x: 180.5, y: 23}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021Hat_Present-RedBlack0003
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1
+        width: 121
+        height: 95
+      alignment: 9
+      pivot: {x: 0.36363637, y: -0.16842106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -60.5, y: -47.5}
+        - {x: -60.5, y: 47.5}
+        - {x: 60.5, y: 47.5}
+        - {x: 60.5, y: -47.5}
+      physicsShape:
+      - - {x: 60.5, y: -17.500004}
+        - {x: 60.5, y: 0.5}
+        - {x: 54.5, y: 25.5}
+        - {x: 49.5, y: 44.499992}
+        - {x: 46.5, y: 47.5}
+        - {x: 36.499996, y: 47.5}
+        - {x: 29.499996, y: 46.5}
+        - {x: 13.499998, y: 28.499992}
+        - {x: 2.5, y: 23.5}
+        - {x: -13.5, y: 38.5}
+        - {x: -23.5, y: 43.499992}
+        - {x: -36.5, y: 41.499992}
+        - {x: -44.5, y: 32.5}
+        - {x: -45.5, y: 18.5}
+        - {x: -59.499996, y: 16.499992}
+        - {x: -60.5, y: 14.5}
+        - {x: -60.5, y: 8.5}
+        - {x: -53.5, y: -12.5}
+        - {x: -54.5, y: -15.5}
+        - {x: -28.5, y: -46.5}
+        - {x: -5.5, y: -47.5}
+        - {x: 20.5, y: -47.5}
+        - {x: 23.499996, y: -45.5}
+        - {x: 40.5, y: -32.5}
+        - {x: 54.5, y: -24.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf07edd54013459ebffb7601040a20cb
+      internalID: 21300034
+      vertices:
+      - {x: 16.5, y: 158.5}
+      - {x: 137.5, y: 158.5}
+      - {x: 16.5, y: 63.5}
+      - {x: 137.5, y: 63.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021Hat_Santa-Mint0003
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 398
+        width: 160
+        height: 107
+      alignment: 9
+      pivot: {x: 0.4375, y: -0.037383176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -80, y: -53.5}
+        - {x: -80, y: 53.5}
+        - {x: 80, y: 53.5}
+        - {x: 80, y: -53.5}
+      physicsShape:
+      - - {x: 67, y: -1.5}
+        - {x: 58, y: 10.5}
+        - {x: 49.999996, y: 29.5}
+        - {x: 32.999996, y: 49.499992}
+        - {x: 25, y: 53.5}
+        - {x: 1, y: 53.5}
+        - {x: -22, y: 37.5}
+        - {x: -33, y: 26.5}
+        - {x: -47, y: 20.5}
+        - {x: -60, y: 19.5}
+        - {x: -75, y: 3.5}
+        - {x: -80, y: -5.5}
+        - {x: -80, y: -23.5}
+        - {x: -61, y: -44.5}
+        - {x: -55, y: -46.5}
+        - {x: -7, y: -51.5}
+        - {x: 14, y: -49.5}
+        - {x: 25, y: -53.5}
+        - {x: 61, y: -53.5}
+        - {x: 80, y: -41.5}
+        - {x: 80, y: -23.5}
+        - {x: 74, y: -6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: db02801cfcf245458a4b631880c9f834
+      internalID: 21300036
+      vertices:
+      - {x: 10, y: 164.5}
+      - {x: 170, y: 164.5}
+      - {x: 10, y: 57.5}
+      - {x: 170, y: 57.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021Hat_Santa-Evil0003
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 207
+        width: 160
+        height: 107
+      alignment: 9
+      pivot: {x: 0.4375, y: -0.037383176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -80, y: -53.5}
+        - {x: -80, y: 53.5}
+        - {x: 80, y: 53.5}
+        - {x: 80, y: -53.5}
+      physicsShape:
+      - - {x: 67, y: -1.5}
+        - {x: 58, y: 10.5}
+        - {x: 49.999996, y: 29.5}
+        - {x: 32.999996, y: 49.499992}
+        - {x: 25, y: 53.5}
+        - {x: 1, y: 53.5}
+        - {x: -22, y: 37.5}
+        - {x: -33, y: 26.5}
+        - {x: -47, y: 20.5}
+        - {x: -60, y: 19.5}
+        - {x: -75, y: 3.5}
+        - {x: -80, y: -5.5}
+        - {x: -80, y: -23.5}
+        - {x: -61, y: -44.5}
+        - {x: -55, y: -46.5}
+        - {x: -7, y: -51.5}
+        - {x: 14, y: -49.5}
+        - {x: 25, y: -53.5}
+        - {x: 61, y: -53.5}
+        - {x: 80, y: -41.5}
+        - {x: 80, y: -23.5}
+        - {x: 74, y: -6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3725ec2c109747d2a215cff20135fad7
+      internalID: 21300038
+      vertices:
+      - {x: 10, y: 164.5}
+      - {x: 170, y: 164.5}
+      - {x: 10, y: 57.5}
+      - {x: 170, y: 57.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021Hat_Elf-Pink0002
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 332
+        width: 158
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5506329, y: 0.23809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -79, y: -52.5}
+        - {x: -79, y: 52.5}
+        - {x: 79, y: 52.5}
+        - {x: 79, y: -52.5}
+      physicsShape:
+      - - {x: 79, y: -25.5}
+        - {x: 79, y: -15.5}
+        - {x: 68, y: -7.500002}
+        - {x: 47.999996, y: 28.5}
+        - {x: 32, y: 44.5}
+        - {x: 17, y: 52.499992}
+        - {x: 11, y: 52.499992}
+        - {x: 1, y: 47.5}
+        - {x: -23, y: 23.5}
+        - {x: -37.999996, y: 3.5}
+        - {x: -50.999996, y: -0.5000019}
+        - {x: -61, y: -0.5000019}
+        - {x: -79, y: -12.500001}
+        - {x: -79, y: -24.5}
+        - {x: -75, y: -29.5}
+        - {x: -42, y: -45.5}
+        - {x: -36, y: -47.5}
+        - {x: -14, y: -52.5}
+        - {x: 21, y: -52.5}
+        - {x: 32, y: -50.5}
+        - {x: 59, y: -46.5}
+        - {x: 72, y: -37.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969fc2a4f06f41a6b21f42461ec59abe
+      internalID: 21300040
+      vertices:
+      - {x: -8, y: 132.5}
+      - {x: 150, y: 132.5}
+      - {x: -8, y: 27.5}
+      - {x: 150, y: 27.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021Hat_Snowman-Evil0002
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 938
+        width: 191
+        height: 85
+      alignment: 9
+      pivot: {x: 0.43979058, y: 0.32941177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -95.5, y: -42.5}
+        - {x: -95.5, y: 42.5}
+        - {x: 95.50001, y: 42.5}
+        - {x: 95.50001, y: -42.5}
+      physicsShape:
+      - - {x: 89.5, y: -23.5}
+        - {x: 95.49999, y: -13.5}
+        - {x: 95.49999, y: 3.5}
+        - {x: 94.49999, y: 4.5}
+        - {x: 77.5, y: 8.499998}
+        - {x: 79.5, y: 18.5}
+        - {x: 67.5, y: 22.5}
+        - {x: 49.5, y: 17.5}
+        - {x: 30.5, y: 32.5}
+        - {x: 22.5, y: 32.5}
+        - {x: 19.5, y: 16.5}
+        - {x: 22.5, y: 13.5}
+        - {x: 30.5, y: 11.5}
+        - {x: 14.5, y: -12.5}
+        - {x: 14.5, y: -24.5}
+        - {x: 20.5, y: -33.5}
+        - {x: 29.5, y: -36.5}
+        - {x: 36.5, y: -37.5}
+        - {x: 60.5, y: -42.5}
+        - {x: 82.5, y: -42.5}
+        - {x: 85.5, y: -39.5}
+        - {x: 83.5, y: -32.5}
+        - {x: 72.5, y: -25.5}
+      - - {x: -10.5, y: 13.5}
+        - {x: -12.5, y: 19.5}
+        - {x: -16.5, y: 30.5}
+        - {x: -39.5, y: 30.5}
+        - {x: -46.5, y: 39.499996}
+        - {x: -62.5, y: 40.5}
+        - {x: -74.5, y: 33.5}
+        - {x: -85.5, y: 42.5}
+        - {x: -92.5, y: 42.5}
+        - {x: -95.5, y: 37.5}
+        - {x: -95.5, y: 25.499996}
+        - {x: -94.5, y: 24.5}
+        - {x: -76.5, y: 17.5}
+        - {x: -84.49999, y: 10.5}
+        - {x: -93.5, y: -6.5}
+        - {x: -88.5, y: -25.5}
+        - {x: -75.5, y: -31.5}
+        - {x: -36.5, y: -31.5}
+        - {x: -27.5, y: -28.5}
+        - {x: -11.5, y: -19.5}
+        - {x: -10.5, y: -10.5}
+      - - {x: 11.499998, y: -2.5}
+        - {x: 0.5, y: -2.5}
+        - {x: -5.5, y: -8.5}
+        - {x: -8.5, y: -19.5}
+        - {x: -8.5, y: -22.5}
+        - {x: -6.5000005, y: -24.5}
+        - {x: 10.5, y: -24.5}
+        - {x: 14.5, y: -15.5}
+        - {x: 14.5, y: -6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01a41c8081c46438c424fc7d6d45af7
+      internalID: 21300042
+      vertices:
+      - {x: 11.5, y: 99.5}
+      - {x: 202.5, y: 99.5}
+      - {x: 11.5, y: 14.5}
+      - {x: 202.5, y: 14.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021JHat_candycane-Bubblegum0002
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 945
+        width: 187
+        height: 78
+      alignment: 9
+      pivot: {x: 0.53475934, y: 0.20512821}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -93.5, y: -39}
+        - {x: -93.5, y: 39}
+        - {x: 93.5, y: 39}
+        - {x: 93.5, y: -39}
+      physicsShape:
+      - - {x: 42.5, y: -31}
+        - {x: 44.5, y: -34}
+        - {x: 65.5, y: -34}
+        - {x: 82.5, y: -37}
+        - {x: 93.5, y: -34}
+        - {x: 93.5, y: -1}
+        - {x: 74.5, y: 19}
+        - {x: 50.5, y: 19}
+        - {x: 43.5, y: 15}
+        - {x: 27.5, y: -3.000002}
+        - {x: 24.5, y: 6.999998}
+        - {x: -0.5, y: 10}
+        - {x: -2.5, y: 9}
+        - {x: -2.5, y: -29}
+        - {x: 26.499998, y: -34}
+        - {x: 31.5, y: -39}
+        - {x: 37.5, y: -39}
+        - {x: 42.5, y: -34}
+        - {x: 42.5, y: -30}
+        - {x: 41.5, y: -28}
+      - - {x: -28.5, y: -24}
+        - {x: -31.5, y: -27}
+        - {x: -31.5, y: -31}
+        - {x: -27.5, y: -33}
+        - {x: -22.5, y: -33}
+        - {x: -21.5, y: -30}
+        - {x: -21.5, y: -26}
+        - {x: -23.499998, y: -24}
+      - - {x: -6.5, y: -17}
+        - {x: -13.499998, y: -17}
+        - {x: -19.5, y: -22}
+        - {x: -19.5, y: -30}
+        - {x: -15.5, y: -31}
+        - {x: -4.5, y: -31}
+        - {x: -3.499999, y: -30}
+        - {x: -3.499999, y: -21}
+      - - {x: -51.5, y: 38}
+        - {x: -58.5, y: 39}
+        - {x: -85.49999, y: 39}
+        - {x: -90.5, y: 32}
+        - {x: -93.5, y: 21}
+        - {x: -93.5, y: 2}
+        - {x: -90.5, y: -5}
+        - {x: -80.5, y: -26}
+        - {x: -71.5, y: -29}
+        - {x: -43.5, y: -29}
+        - {x: -42.499996, y: -28}
+        - {x: -36.499996, y: -16}
+        - {x: -36.499996, y: -5}
+        - {x: -45.5, y: 24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c5202c90e64bf8a66043498bcd9456
+      internalID: 21300044
+      vertices:
+      - {x: -6.5, y: 101}
+      - {x: 180.5, y: 101}
+      - {x: -6.5, y: 23}
+      - {x: 180.5, y: 23}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021Hat_Santa-Mint0001
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 838
+        width: 156
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5576923, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -78, y: -52.5}
+        - {x: -78, y: 52.5}
+        - {x: 78, y: 52.5}
+        - {x: 78, y: -52.5}
+      physicsShape:
+      - - {x: 41, y: -34.5}
+        - {x: 65, y: -36.5}
+        - {x: 77, y: -28.5}
+        - {x: 78, y: -26.5}
+        - {x: 78, y: -8.5}
+        - {x: 77, y: -2.5000038}
+        - {x: 61, y: 20.5}
+        - {x: 28, y: 41.5}
+        - {x: 3, y: 52.499992}
+        - {x: -17, y: 52.499992}
+        - {x: -39.999996, y: 38.5}
+        - {x: -69, y: 19.5}
+        - {x: -76, y: 12.5}
+        - {x: -78, y: 7.499996}
+        - {x: -78, y: -6.5}
+        - {x: -70.99999, y: -25.500002}
+        - {x: -61, y: -34.5}
+        - {x: -43, y: -52.5}
+        - {x: -26, y: -52.5}
+        - {x: -10.999998, y: -49.5}
+        - {x: 1, y: -40.5}
+        - {x: 17, y: -39.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46db28d9a05a4da8b63461d613d688ce
+      internalID: 21300046
+      vertices:
+      - {x: -9, y: 150.5}
+      - {x: 147, y: 150.5}
+      - {x: -9, y: 45.5}
+      - {x: 147, y: 45.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021Hat_Elf-Swe0001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 526
+        width: 167
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5928144, y: -0.067307696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -83.5, y: -52}
+        - {x: -83.5, y: 52}
+        - {x: 83.5, y: 52}
+        - {x: 83.5, y: -52}
+      physicsShape:
+      - - {x: 64.5, y: -39}
+        - {x: 79.5, y: -23}
+        - {x: 83.5, y: -13.000004}
+        - {x: 83.5, y: -2}
+        - {x: 80.5, y: 4}
+        - {x: 53.5, y: 2}
+        - {x: 40.5, y: 12}
+        - {x: 30.5, y: 28}
+        - {x: 8.5, y: 50}
+        - {x: 0.50000095, y: 52}
+        - {x: -3.5, y: 52}
+        - {x: -23.5, y: 38}
+        - {x: -30.499996, y: 50}
+        - {x: -51.499992, y: 47.999992}
+        - {x: -57.499992, y: 52}
+        - {x: -71.5, y: 52}
+        - {x: -76.49999, y: 48.999992}
+        - {x: -83.49999, y: 35}
+        - {x: -83.49999, y: 20.999992}
+        - {x: -75.5, y: 11}
+        - {x: -53.5, y: 5}
+        - {x: -47.5, y: 12}
+        - {x: -38.499996, y: -5.000004}
+        - {x: -60.5, y: -4}
+        - {x: -63.5, y: -8}
+        - {x: -66.5, y: -20}
+        - {x: -59.5, y: -34}
+        - {x: -37.499996, y: -50}
+        - {x: -24.499996, y: -52}
+        - {x: -18.5, y: -52}
+        - {x: 6.5, y: -41}
+        - {x: 12.5, y: -37}
+        - {x: 52.5, y: -43}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4260363d0447c4a5d8f8f6e84a6090
+      internalID: 21300048
+      vertices:
+      - {x: -15.5, y: 163}
+      - {x: 151.5, y: 163}
+      - {x: -15.5, y: 59}
+      - {x: 151.5, y: 59}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021Hat_Santa-Gold0003
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 98
+        width: 160
+        height: 107
+      alignment: 9
+      pivot: {x: 0.4375, y: -0.037383176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -80, y: -53.5}
+        - {x: -80, y: 53.5}
+        - {x: 80, y: 53.5}
+        - {x: 80, y: -53.5}
+      physicsShape:
+      - - {x: 67, y: -1.5}
+        - {x: 58, y: 10.5}
+        - {x: 49.999996, y: 29.5}
+        - {x: 32.999996, y: 49.499992}
+        - {x: 25, y: 53.5}
+        - {x: 1, y: 53.5}
+        - {x: -22, y: 37.5}
+        - {x: -33, y: 26.5}
+        - {x: -47, y: 20.5}
+        - {x: -60, y: 19.5}
+        - {x: -75, y: 3.5}
+        - {x: -80, y: -5.5}
+        - {x: -80, y: -23.5}
+        - {x: -61, y: -44.5}
+        - {x: -55, y: -46.5}
+        - {x: -7, y: -51.5}
+        - {x: 14, y: -49.5}
+        - {x: 25, y: -53.5}
+        - {x: 61, y: -53.5}
+        - {x: 80, y: -41.5}
+        - {x: 80, y: -23.5}
+        - {x: 74, y: -6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c73beb7dabb477dabff121649ba0db7
+      internalID: 21300050
+      vertices:
+      - {x: 10, y: 164.5}
+      - {x: 170, y: 164.5}
+      - {x: 10, y: 57.5}
+      - {x: 170, y: 57.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021Hat_Snowman-RednGreen0003
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 249
+        width: 90
+        height: 93
+      alignment: 9
+      pivot: {x: 0.37777779, y: -0.15053764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -45, y: -46.5}
+        - {x: -45, y: 46.500008}
+        - {x: 45, y: 46.500008}
+        - {x: 45, y: -46.5}
+      physicsShape:
+      - - {x: 45, y: 6.4999924}
+        - {x: 45, y: 21.5}
+        - {x: 40, y: 22.5}
+        - {x: 31.999996, y: 24.5}
+        - {x: 31, y: 21.5}
+        - {x: 28.999996, y: 20.5}
+        - {x: 31.999996, y: 24.5}
+        - {x: 30, y: 36.5}
+        - {x: 21, y: 46.499992}
+        - {x: 6, y: 46.499992}
+        - {x: -4, y: 43.5}
+        - {x: -8, y: 40.5}
+        - {x: -17, y: 29.5}
+        - {x: -35, y: 35.5}
+        - {x: -40, y: 36.5}
+        - {x: -45, y: 25.499992}
+        - {x: -45, y: 20.5}
+        - {x: -44, y: 17.5}
+        - {x: -28, y: 4.5}
+        - {x: -42, y: -10.5}
+        - {x: -40, y: -25.5}
+        - {x: -24, y: -40.5}
+        - {x: -11, y: -45.5}
+        - {x: -8, y: -46.5}
+        - {x: 27, y: -46.5}
+        - {x: 37, y: -41.5}
+        - {x: 39, y: -35.5}
+        - {x: 34.999996, y: -9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2c4334235342e08f53c5d0ac2c17b3
+      internalID: 21300052
+      vertices:
+      - {x: 11, y: 153.5}
+      - {x: 101, y: 153.5}
+      - {x: 11, y: 60.5}
+      - {x: 101, y: 60.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021Hat_Elf-Pink0001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 632
+        width: 167
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5928144, y: -0.067307696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -83.5, y: -52}
+        - {x: -83.5, y: 52}
+        - {x: 83.5, y: 52}
+        - {x: 83.5, y: -52}
+      physicsShape:
+      - - {x: 64.5, y: -39}
+        - {x: 79.5, y: -23}
+        - {x: 83.5, y: -13.000004}
+        - {x: 83.5, y: -2}
+        - {x: 80.5, y: 4}
+        - {x: 53.5, y: 2}
+        - {x: 40.5, y: 12}
+        - {x: 30.5, y: 28}
+        - {x: 8.5, y: 50}
+        - {x: 0.50000095, y: 52}
+        - {x: -3.5, y: 52}
+        - {x: -23.5, y: 38}
+        - {x: -30.499996, y: 50}
+        - {x: -51.499992, y: 47.999992}
+        - {x: -57.499992, y: 52}
+        - {x: -71.5, y: 52}
+        - {x: -76.49999, y: 48.999992}
+        - {x: -83.49999, y: 35}
+        - {x: -83.49999, y: 20.999992}
+        - {x: -75.5, y: 11}
+        - {x: -53.5, y: 5}
+        - {x: -47.5, y: 12}
+        - {x: -38.499996, y: -5.000004}
+        - {x: -60.5, y: -4}
+        - {x: -63.5, y: -8}
+        - {x: -66.5, y: -20}
+        - {x: -59.5, y: -34}
+        - {x: -37.499996, y: -50}
+        - {x: -24.499996, y: -52}
+        - {x: -18.5, y: -52}
+        - {x: 6.5, y: -41}
+        - {x: 12.5, y: -37}
+        - {x: 52.5, y: -43}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b08142962c34c609e2c681dad087b7c
+      internalID: 21300054
+      vertices:
+      - {x: -15.5, y: 163}
+      - {x: 151.5, y: 163}
+      - {x: -15.5, y: 59}
+      - {x: 151.5, y: 59}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021Hat_Snowman-Greenhat0001
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 11
+        width: 102
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5588235, y: -0.11818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -51, y: -55}
+        - {x: -51, y: 55}
+        - {x: 51, y: 55}
+        - {x: 51, y: -55}
+      physicsShape:
+      - - {x: 35, y: -2}
+        - {x: 38, y: 3}
+        - {x: 48.999996, y: 4.9999924}
+        - {x: 51, y: 7}
+        - {x: 51, y: 11.999992}
+        - {x: 45.999996, y: 23}
+        - {x: 41, y: 23}
+        - {x: 28, y: 7}
+        - {x: 22, y: 36}
+        - {x: 14, y: 41}
+        - {x: 11, y: 52.999992}
+        - {x: 8, y: 55}
+        - {x: -8.999999, y: 55}
+        - {x: -15, y: 54}
+        - {x: -23.999998, y: 47}
+        - {x: -26, y: 29.999992}
+        - {x: -22, y: 14}
+        - {x: -25, y: 1}
+        - {x: -38, y: 19}
+        - {x: -47.999996, y: 17.999992}
+        - {x: -51, y: 11.999992}
+        - {x: -51, y: 0}
+        - {x: -39.999996, y: -10}
+        - {x: -30, y: -13}
+        - {x: -33, y: -18}
+        - {x: -35, y: -36}
+        - {x: -26, y: -50}
+        - {x: -16, y: -54}
+        - {x: -7, y: -55}
+        - {x: 19, y: -55}
+        - {x: 38, y: -49}
+        - {x: 45.999996, y: -40}
+        - {x: 47, y: -21}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4e5708a8764939a93834319ac24211
+      internalID: 21300056
+      vertices:
+      - {x: -6, y: 178}
+      - {x: 96, y: 178}
+      - {x: -6, y: 68}
+      - {x: 96, y: 68}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021Hat_Present-RedWhite0003
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 322
+        width: 121
+        height: 95
+      alignment: 9
+      pivot: {x: 0.36363637, y: -0.16842106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -60.5, y: -47.5}
+        - {x: -60.5, y: 47.5}
+        - {x: 60.5, y: 47.5}
+        - {x: 60.5, y: -47.5}
+      physicsShape:
+      - - {x: 60.5, y: -17.500004}
+        - {x: 60.5, y: 0.5}
+        - {x: 54.5, y: 25.5}
+        - {x: 49.5, y: 44.499992}
+        - {x: 46.5, y: 47.5}
+        - {x: 36.499996, y: 47.5}
+        - {x: 29.499996, y: 46.5}
+        - {x: 13.499998, y: 28.499992}
+        - {x: 2.5, y: 23.5}
+        - {x: -13.5, y: 38.5}
+        - {x: -23.5, y: 43.499992}
+        - {x: -36.5, y: 41.499992}
+        - {x: -44.5, y: 32.5}
+        - {x: -45.5, y: 18.5}
+        - {x: -59.499996, y: 16.499992}
+        - {x: -60.5, y: 14.5}
+        - {x: -60.5, y: 8.5}
+        - {x: -53.5, y: -12.5}
+        - {x: -54.5, y: -15.5}
+        - {x: -28.5, y: -46.5}
+        - {x: -5.5, y: -47.5}
+        - {x: 20.5, y: -47.5}
+        - {x: 23.499996, y: -45.5}
+        - {x: 40.5, y: -32.5}
+        - {x: 54.5, y: -24.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab80169ba224859a6dc4735ac155172
+      internalID: 21300058
+      vertices:
+      - {x: 16.5, y: 158.5}
+      - {x: 137.5, y: 158.5}
+      - {x: 16.5, y: 63.5}
+      - {x: 137.5, y: 63.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021Hat_Snowman-bluenYellow0003
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 534
+        width: 90
+        height: 93
+      alignment: 9
+      pivot: {x: 0.37777779, y: -0.15053764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -45, y: -46.5}
+        - {x: -45, y: 46.500008}
+        - {x: 45, y: 46.500008}
+        - {x: 45, y: -46.5}
+      physicsShape:
+      - - {x: 33, y: -8.5}
+        - {x: 37.999996, y: -0.5000038}
+        - {x: 45, y: 11.5}
+        - {x: 45, y: 20.5}
+        - {x: 31.999996, y: 26.5}
+        - {x: 31, y: 35.5}
+        - {x: 25, y: 43.5}
+        - {x: 22, y: 46.499992}
+        - {x: -3, y: 46.499992}
+        - {x: -7, y: 45.499992}
+        - {x: -17, y: 29.5}
+        - {x: -35, y: 37.499992}
+        - {x: -43, y: 35.5}
+        - {x: -45, y: 29.5}
+        - {x: -45, y: 20.5}
+        - {x: -43, y: 18.5}
+        - {x: -27, y: 9.5}
+        - {x: -42, y: -10.5}
+        - {x: -36, y: -30.500002}
+        - {x: -28, y: -36.5}
+        - {x: -13, y: -43.5}
+        - {x: 0, y: -46.5}
+        - {x: 23, y: -46.5}
+        - {x: 31.999996, y: -43.5}
+        - {x: 37, y: -35.5}
+        - {x: 36, y: -19.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f15492d71464a4398c1683ae2c925d1
+      internalID: 21300060
+      vertices:
+      - {x: 11, y: 153.5}
+      - {x: 101, y: 153.5}
+      - {x: 11, y: 60.5}
+      - {x: 101, y: 60.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021Hat-GreenYellow0001
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 2
+        width: 110
+        height: 100
+      alignment: 9
+      pivot: {x: 0.46363637, y: -0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -55, y: -50}
+        - {x: -55, y: 49.999992}
+        - {x: 54.999996, y: 49.999992}
+        - {x: 54.999996, y: -50}
+      physicsShape:
+      - - {x: 54.999996, y: 9}
+        - {x: 53, y: 13}
+        - {x: 49.999996, y: 27}
+        - {x: 38, y: 23.999992}
+        - {x: 35.999996, y: 33}
+        - {x: 32, y: 35}
+        - {x: 0.9999995, y: 36.999992}
+        - {x: -4, y: 32}
+        - {x: -17, y: 49.999992}
+        - {x: -22, y: 49.999992}
+        - {x: -23, y: 48.999992}
+        - {x: -26, y: 41}
+        - {x: -42, y: 44}
+        - {x: -43.999996, y: 42}
+        - {x: -55, y: 17}
+        - {x: -55, y: 2}
+        - {x: -43.999996, y: -4}
+        - {x: -46.999996, y: -9.000004}
+        - {x: -49, y: -15.000004}
+        - {x: -36, y: -43}
+        - {x: -32, y: -50}
+        - {x: -17, y: -50}
+        - {x: 27, y: -47}
+        - {x: 31, y: -41}
+        - {x: 48.999996, y: -4}
+        - {x: 54.999996, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6de2ff4e2e48b3914b13a61fdbe64d
+      internalID: 21300062
+      vertices:
+      - {x: 4, y: 168}
+      - {x: 114, y: 168}
+      - {x: 4, y: 68}
+      - {x: 114, y: 68}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021JHat_candycane-Bubblegum0001
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 6
+        width: 112
+        height: 74
+      alignment: 9
+      pivot: {x: 0.41964287, y: -0.22972973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -56, y: -37}
+        - {x: -56, y: 37}
+        - {x: 56, y: 37}
+        - {x: 56, y: -37}
+      physicsShape:
+      - - {x: 55, y: -17}
+        - {x: 56, y: -11.000004}
+        - {x: 56, y: 23}
+        - {x: 49, y: 30}
+        - {x: 28, y: 33}
+        - {x: 15, y: 31.999992}
+        - {x: 0, y: -1.0000038}
+        - {x: 0, y: -18}
+        - {x: -15, y: -7}
+        - {x: -2, y: 1}
+        - {x: 0, y: 11}
+        - {x: -15, y: 35}
+        - {x: -20, y: 37}
+        - {x: -48, y: 37}
+        - {x: -56, y: 24}
+        - {x: -56, y: 1}
+        - {x: -46, y: -27.000002}
+        - {x: -43, y: -37}
+        - {x: -13, y: -37}
+        - {x: 3, y: -32}
+        - {x: 29, y: -34}
+        - {x: 36.999996, y: -17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4871775587cb422583178a95f1d272dc
+      internalID: 21300064
+      vertices:
+      - {x: 9, y: 128}
+      - {x: 121, y: 128}
+      - {x: 9, y: 54}
+      - {x: 121, y: 54}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021JHat_candycane-Blueberry0003
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 263
+        width: 111
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5675676, y: -0.33846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -55.499996, y: -32.5}
+        - {x: -55.499996, y: 32.5}
+        - {x: 55.500004, y: 32.5}
+        - {x: 55.500004, y: -32.5}
+      physicsShape:
+      - - {x: 55.500004, y: 30.5}
+        - {x: 49.500004, y: 32.5}
+        - {x: 16.500004, y: 32.5}
+        - {x: 0.5000038, y: 8.5}
+        - {x: -10.499996, y: -1.5000038}
+        - {x: -3.4999962, y: 12.499992}
+        - {x: -9.499996, y: 18.499992}
+        - {x: -24.499996, y: 32.5}
+        - {x: -43.499996, y: 32.5}
+        - {x: -48.499996, y: 31.499992}
+        - {x: -55.499996, y: 22.5}
+        - {x: -55.499996, y: 7.5}
+        - {x: -53.499996, y: -1.5000038}
+        - {x: -39.499996, y: -32.5}
+        - {x: 37.5, y: -32.5}
+        - {x: 38.500004, y: -29.5}
+        - {x: 55.500004, y: 0.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09766b15eae4efc803b55066e296413
+      internalID: 21300066
+      vertices:
+      - {x: -7.5, y: 119.5}
+      - {x: 103.5, y: 119.5}
+      - {x: -7.5, y: 54.5}
+      - {x: 103.5, y: 54.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021Hat_Santa-Green0003
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 585
+        width: 160
+        height: 107
+      alignment: 9
+      pivot: {x: 0.4375, y: -0.037383176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -80, y: -53.5}
+        - {x: -80, y: 53.5}
+        - {x: 80, y: 53.5}
+        - {x: 80, y: -53.5}
+      physicsShape:
+      - - {x: 67, y: -1.5}
+        - {x: 58, y: 10.5}
+        - {x: 49.999996, y: 29.5}
+        - {x: 32.999996, y: 49.499992}
+        - {x: 25, y: 53.5}
+        - {x: 1, y: 53.5}
+        - {x: -22, y: 37.5}
+        - {x: -33, y: 26.5}
+        - {x: -47, y: 20.5}
+        - {x: -60, y: 19.5}
+        - {x: -75, y: 3.5}
+        - {x: -80, y: -5.5}
+        - {x: -80, y: -23.5}
+        - {x: -61, y: -44.5}
+        - {x: -55, y: -46.5}
+        - {x: -7, y: -51.5}
+        - {x: 14, y: -49.5}
+        - {x: 25, y: -53.5}
+        - {x: 61, y: -53.5}
+        - {x: 80, y: -41.5}
+        - {x: 80, y: -23.5}
+        - {x: 74, y: -6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad790011ff84211beaf050fcb3e3666
+      internalID: 21300068
+      vertices:
+      - {x: 10, y: 164.5}
+      - {x: 170, y: 164.5}
+      - {x: 10, y: 57.5}
+      - {x: 170, y: 57.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021Hat_Santa-Gold0001
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 11
+        width: 156
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5576923, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -78, y: -52.5}
+        - {x: -78, y: 52.5}
+        - {x: 78, y: 52.5}
+        - {x: 78, y: -52.5}
+      physicsShape:
+      - - {x: 41, y: -34.5}
+        - {x: 65, y: -36.5}
+        - {x: 77, y: -28.5}
+        - {x: 78, y: -26.5}
+        - {x: 78, y: -8.5}
+        - {x: 77, y: -2.5000038}
+        - {x: 61, y: 20.5}
+        - {x: 28, y: 41.5}
+        - {x: 3, y: 52.499992}
+        - {x: -17, y: 52.499992}
+        - {x: -39.999996, y: 38.5}
+        - {x: -69, y: 19.5}
+        - {x: -76, y: 12.5}
+        - {x: -78, y: 7.499996}
+        - {x: -78, y: -6.5}
+        - {x: -70.99999, y: -25.500002}
+        - {x: -61, y: -34.5}
+        - {x: -43, y: -52.5}
+        - {x: -26, y: -52.5}
+        - {x: -10.999998, y: -49.5}
+        - {x: 1, y: -40.5}
+        - {x: 17, y: -39.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770aae7bf3114de2a61a376a0fb45790
+      internalID: 21300070
+      vertices:
+      - {x: -9, y: 150.5}
+      - {x: 147, y: 150.5}
+      - {x: -9, y: 45.5}
+      - {x: 147, y: 45.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021Hat_Lights-White0002
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 925
+        width: 195
+        height: 98
+      alignment: 9
+      pivot: {x: 0.4871795, y: 0.3469388}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -97.5, y: -49}
+        - {x: -97.5, y: 49}
+        - {x: 97.5, y: 49}
+        - {x: 97.5, y: -49}
+      physicsShape:
+      - - {x: 44.5, y: -28}
+        - {x: 49.5, y: -24}
+        - {x: 60.5, y: -6}
+        - {x: 60.5, y: 22}
+        - {x: 31.5, y: 29}
+        - {x: 15.5, y: 10}
+        - {x: 12.499999, y: 7}
+        - {x: 10.5, y: 2}
+        - {x: 12.499999, y: 7}
+        - {x: 12.499999, y: 27}
+        - {x: -3.5, y: 49}
+        - {x: -16.5, y: 49}
+        - {x: -20.5, y: 47}
+        - {x: -35.5, y: 24}
+        - {x: -35.5, y: 9}
+        - {x: -34.5, y: 7.999998}
+        - {x: -34.5, y: 6}
+        - {x: -32.5, y: 1}
+        - {x: -33.5, y: 3}
+        - {x: -34.5, y: 4}
+        - {x: -34.5, y: 6}
+        - {x: -36.5, y: 11}
+        - {x: -41.5, y: 17}
+        - {x: -49.5, y: 24.999996}
+        - {x: -59.5, y: 30.999996}
+        - {x: -73.5, y: 33}
+        - {x: -89.5, y: 4}
+        - {x: -90.5, y: 1}
+        - {x: -90.5, y: -35}
+        - {x: -89.5, y: -36}
+        - {x: -77.5, y: -45}
+        - {x: -68.5, y: -44}
+        - {x: -23.5, y: -18}
+        - {x: 26.5, y: -49}
+        - {x: 47.5, y: -49}
+        - {x: 57.499996, y: -42}
+        - {x: 58.5, y: -30}
+        - {x: 54.5, y: -25}
+      - - {x: -14.5, y: 23}
+        - {x: -15.5, y: 23}
+        - {x: -17.5, y: 21}
+        - {x: -17.5, y: 17}
+        - {x: -16.5, y: 17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1d4b17f395468dab867e03e3bc9340
+      internalID: 21300072
+      vertices:
+      - {x: 2.5, y: 113}
+      - {x: 197.5, y: 113}
+      - {x: 2.5, y: 15}
+      - {x: 197.5, y: 15}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021Hat_Snowman-Evil0001
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 307
+        width: 102
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5588235, y: -0.11818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -51, y: -55}
+        - {x: -51, y: 55}
+        - {x: 51, y: 55}
+        - {x: 51, y: -55}
+      physicsShape:
+      - - {x: 48.999996, y: 2}
+        - {x: 51, y: 4.9999924}
+        - {x: 51, y: 15}
+        - {x: 48, y: 20}
+        - {x: 41, y: 23.999992}
+        - {x: 28, y: 6}
+        - {x: 21, y: 34}
+        - {x: 13, y: 46}
+        - {x: 9, y: 55}
+        - {x: -8.999999, y: 55}
+        - {x: -16, y: 54}
+        - {x: -23.999998, y: 47}
+        - {x: -22, y: 41}
+        - {x: -25, y: 25}
+        - {x: -20.999998, y: 15}
+        - {x: -31, y: 3}
+        - {x: -38, y: 23}
+        - {x: -46.999996, y: 19}
+        - {x: -51, y: 8}
+        - {x: -51, y: 2}
+        - {x: -39, y: -9.000004}
+        - {x: -30, y: -15.000004}
+        - {x: -35, y: -22.000004}
+        - {x: -33.999996, y: -43}
+        - {x: -18, y: -55}
+        - {x: 28.999998, y: -55}
+        - {x: 47, y: -43}
+        - {x: 47, y: -17}
+        - {x: 34, y: -3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2875d670bf0459ab2c3fff170e59994
+      internalID: 21300074
+      vertices:
+      - {x: -6, y: 178}
+      - {x: 96, y: 178}
+      - {x: -6, y: 68}
+      - {x: 96, y: 68}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021JHat_candycane-Mint0003
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 115
+        width: 111
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5675676, y: -0.33846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -55.499996, y: -32.5}
+        - {x: -55.499996, y: 32.5}
+        - {x: 55.500004, y: 32.5}
+        - {x: 55.500004, y: -32.5}
+      physicsShape:
+      - - {x: 55.500004, y: 30.5}
+        - {x: 49.500004, y: 32.5}
+        - {x: 16.500004, y: 32.5}
+        - {x: 0.5000038, y: 8.5}
+        - {x: -10.499996, y: -1.5000038}
+        - {x: -3.4999962, y: 12.499992}
+        - {x: -9.499996, y: 18.499992}
+        - {x: -24.499996, y: 32.5}
+        - {x: -43.499996, y: 32.5}
+        - {x: -48.499996, y: 31.499992}
+        - {x: -55.499996, y: 22.5}
+        - {x: -55.499996, y: 7.5}
+        - {x: -53.499996, y: -1.5000038}
+        - {x: -39.499996, y: -32.5}
+        - {x: 37.5, y: -32.5}
+        - {x: 38.500004, y: -29.5}
+        - {x: 55.500004, y: 0.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d126b6ae8587471997548765bc35c2bb
+      internalID: 21300076
+      vertices:
+      - {x: -7.5, y: 119.5}
+      - {x: 103.5, y: 119.5}
+      - {x: -7.5, y: 54.5}
+      - {x: 103.5, y: 54.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021Hat_Santa-Mint0002
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 523
+        width: 155
+        height: 102
+      alignment: 9
+      pivot: {x: 0.4967742, y: 0.3627451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -77.5, y: -51}
+        - {x: -77.5, y: 51}
+        - {x: 77.5, y: 51}
+        - {x: 77.5, y: -51}
+      physicsShape:
+      - - {x: 77.5, y: -5}
+        - {x: 77.5, y: 5.999998}
+        - {x: 70.5, y: 15.999998}
+        - {x: 51.5, y: 27}
+        - {x: 34.5, y: 42}
+        - {x: 15.5, y: 51}
+        - {x: -2.5, y: 51}
+        - {x: -23.499998, y: 41}
+        - {x: -65.5, y: 15.999998}
+        - {x: -72.5, y: 8.999998}
+        - {x: -77.5, y: 0}
+        - {x: -77.5, y: -24}
+        - {x: -62.5, y: -38}
+        - {x: -47.5, y: -47}
+        - {x: -10.499999, y: -46}
+        - {x: 2.5, y: -51}
+        - {x: 17.5, y: -51}
+        - {x: 23.5, y: -50}
+        - {x: 37.5, y: -40}
+        - {x: 64.5, y: -29}
+        - {x: 73.5, y: -19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4777cd7f18a24ae880489d35f436e368
+      internalID: 21300078
+      vertices:
+      - {x: 0.5, y: 116}
+      - {x: 155.5, y: 116}
+      - {x: 0.5, y: 14}
+      - {x: 155.5, y: 14}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vis_NY2122_HNYglasses0001
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 694
+        width: 164
+        height: 76
+      alignment: 9
+      pivot: {x: 0.33536586, y: 0.46052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -38}
+        - {x: -82, y: 38}
+        - {x: 82, y: 38}
+        - {x: 82, y: -38}
+      physicsShape:
+      - - {x: 80.99999, y: 1.9999995}
+        - {x: 80.99999, y: 13}
+        - {x: 69, y: 21}
+        - {x: 68, y: 36.999996}
+        - {x: 58, y: 36.999996}
+        - {x: 48, y: 30}
+        - {x: 36, y: 36.999996}
+        - {x: 35, y: 36.999996}
+        - {x: 34, y: 32}
+        - {x: 31.999996, y: 16.999998}
+        - {x: -19, y: 16.999998}
+        - {x: -20, y: 32}
+        - {x: -23, y: 35}
+        - {x: -25, y: 35}
+        - {x: -32, y: 36.999996}
+        - {x: -54, y: 36.999996}
+        - {x: -59, y: 16.999998}
+        - {x: -73, y: 14}
+        - {x: -80, y: 9}
+        - {x: -82, y: 4}
+        - {x: -82, y: -7.9999995}
+        - {x: -74, y: -14}
+        - {x: -41, y: -19}
+        - {x: -40, y: -33}
+        - {x: -39, y: -38}
+        - {x: 54, y: -38}
+        - {x: 55, y: -36}
+        - {x: 56, y: -15}
+        - {x: 76, y: -18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa86ee0576c4b6c88183e5b68f23f64
+      internalID: 21300080
+      vertices:
+      - {x: 27, y: 79}
+      - {x: 191, y: 79}
+      - {x: 27, y: 3}
+      - {x: 191, y: 3}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021Hat_Santa-Pink0003
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 188
+        width: 160
+        height: 107
+      alignment: 9
+      pivot: {x: 0.4375, y: -0.037383176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -80, y: -53.5}
+        - {x: -80, y: 53.5}
+        - {x: 80, y: 53.5}
+        - {x: 80, y: -53.5}
+      physicsShape:
+      - - {x: 67, y: -1.5}
+        - {x: 58, y: 10.5}
+        - {x: 49.999996, y: 29.5}
+        - {x: 32.999996, y: 49.499992}
+        - {x: 25, y: 53.5}
+        - {x: 1, y: 53.5}
+        - {x: -22, y: 37.5}
+        - {x: -33, y: 26.5}
+        - {x: -47, y: 20.5}
+        - {x: -60, y: 19.5}
+        - {x: -75, y: 3.5}
+        - {x: -80, y: -5.5}
+        - {x: -80, y: -23.5}
+        - {x: -61, y: -44.5}
+        - {x: -55, y: -46.5}
+        - {x: -7, y: -51.5}
+        - {x: 14, y: -49.5}
+        - {x: 25, y: -53.5}
+        - {x: 61, y: -53.5}
+        - {x: 80, y: -41.5}
+        - {x: 80, y: -23.5}
+        - {x: 74, y: -6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea45503e386243b9b849d3563ac933dd
+      internalID: 21300082
+      vertices:
+      - {x: 10, y: 164.5}
+      - {x: 170, y: 164.5}
+      - {x: 10, y: 57.5}
+      - {x: 170, y: 57.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021Hat_Santa-Green0002
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 523
+        width: 155
+        height: 102
+      alignment: 9
+      pivot: {x: 0.4967742, y: 0.3627451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -77.5, y: -51}
+        - {x: -77.5, y: 51}
+        - {x: 77.5, y: 51}
+        - {x: 77.5, y: -51}
+      physicsShape:
+      - - {x: 77.5, y: -5}
+        - {x: 77.5, y: 5.999998}
+        - {x: 70.5, y: 15.999998}
+        - {x: 51.5, y: 27}
+        - {x: 34.5, y: 42}
+        - {x: 15.5, y: 51}
+        - {x: -2.5, y: 51}
+        - {x: -23.499998, y: 41}
+        - {x: -65.5, y: 15.999998}
+        - {x: -72.5, y: 8.999998}
+        - {x: -77.5, y: 0}
+        - {x: -77.5, y: -24}
+        - {x: -62.5, y: -38}
+        - {x: -47.5, y: -47}
+        - {x: -10.499999, y: -46}
+        - {x: 2.5, y: -51}
+        - {x: 17.5, y: -51}
+        - {x: 23.5, y: -50}
+        - {x: 37.5, y: -40}
+        - {x: 64.5, y: -29}
+        - {x: 73.5, y: -19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52977525c3e43c5a0886b336de65728
+      internalID: 21300084
+      vertices:
+      - {x: 0.5, y: 116}
+      - {x: 155.5, y: 116}
+      - {x: 0.5, y: 14}
+      - {x: 155.5, y: 14}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021Hat_Lights-Yellow0002
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 825
+        width: 195
+        height: 98
+      alignment: 9
+      pivot: {x: 0.4871795, y: 0.3469388}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -97.5, y: -49}
+        - {x: -97.5, y: 49}
+        - {x: 97.5, y: 49}
+        - {x: 97.5, y: -49}
+      physicsShape:
+      - - {x: 44.5, y: -28}
+        - {x: 49.5, y: -24}
+        - {x: 60.5, y: -6}
+        - {x: 60.5, y: 22}
+        - {x: 31.5, y: 29}
+        - {x: 15.5, y: 10}
+        - {x: 12.499999, y: 7}
+        - {x: 10.5, y: 2}
+        - {x: 12.499999, y: 7}
+        - {x: 12.499999, y: 27}
+        - {x: -3.5, y: 49}
+        - {x: -16.5, y: 49}
+        - {x: -20.5, y: 47}
+        - {x: -35.5, y: 24}
+        - {x: -35.5, y: 9}
+        - {x: -34.5, y: 7.999998}
+        - {x: -34.5, y: 6}
+        - {x: -32.5, y: 1}
+        - {x: -33.5, y: 3}
+        - {x: -34.5, y: 4}
+        - {x: -34.5, y: 6}
+        - {x: -36.5, y: 11}
+        - {x: -41.5, y: 17}
+        - {x: -49.5, y: 24.999996}
+        - {x: -59.5, y: 30.999996}
+        - {x: -73.5, y: 33}
+        - {x: -89.5, y: 4}
+        - {x: -90.5, y: 1}
+        - {x: -90.5, y: -35}
+        - {x: -89.5, y: -36}
+        - {x: -77.5, y: -45}
+        - {x: -68.5, y: -44}
+        - {x: -23.5, y: -18}
+        - {x: 26.5, y: -49}
+        - {x: 47.5, y: -49}
+        - {x: 57.499996, y: -42}
+        - {x: 58.5, y: -30}
+        - {x: 54.5, y: -25}
+      - - {x: -14.5, y: 23}
+        - {x: -15.5, y: 23}
+        - {x: -17.5, y: 21}
+        - {x: -17.5, y: 17}
+        - {x: -16.5, y: 17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccc5f214e024dcaafdbdc0d7caa840e
+      internalID: 21300086
+      vertices:
+      - {x: 2.5, y: 113}
+      - {x: 197.5, y: 113}
+      - {x: 2.5, y: 15}
+      - {x: 197.5, y: 15}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021Hat_Present-RedWhite0001
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 731
+        width: 110
+        height: 100
+      alignment: 9
+      pivot: {x: 0.46363637, y: -0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -55, y: -50}
+        - {x: -55, y: 49.999992}
+        - {x: 54.999996, y: 49.999992}
+        - {x: 54.999996, y: -50}
+      physicsShape:
+      - - {x: 54.999996, y: 9}
+        - {x: 53, y: 13}
+        - {x: 49.999996, y: 27}
+        - {x: 38, y: 23.999992}
+        - {x: 35.999996, y: 33}
+        - {x: 32, y: 35}
+        - {x: 0.9999995, y: 36.999992}
+        - {x: -4, y: 32}
+        - {x: -17, y: 49.999992}
+        - {x: -22, y: 49.999992}
+        - {x: -23, y: 48.999992}
+        - {x: -26, y: 41}
+        - {x: -42, y: 44}
+        - {x: -43.999996, y: 42}
+        - {x: -55, y: 17}
+        - {x: -55, y: 2}
+        - {x: -43.999996, y: -4}
+        - {x: -46.999996, y: -9.000004}
+        - {x: -49, y: -15.000004}
+        - {x: -36, y: -43}
+        - {x: -32, y: -50}
+        - {x: -17, y: -50}
+        - {x: 27, y: -47}
+        - {x: 31, y: -41}
+        - {x: 48.999996, y: -4}
+        - {x: 54.999996, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4da1cd1410a4b97af50911ab837a1dd
+      internalID: 21300088
+      vertices:
+      - {x: 4, y: 168}
+      - {x: 114, y: 168}
+      - {x: 4, y: 68}
+      - {x: 114, y: 68}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021Hat_Lights-Yellow0001
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 649
+        width: 163
+        height: 103
+      alignment: 9
+      pivot: {x: 0.45398772, y: 0.058252428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -81.5, y: -51.5}
+        - {x: -81.5, y: 51.5}
+        - {x: 81.5, y: 51.5}
+        - {x: 81.5, y: -51.5}
+      physicsShape:
+      - - {x: 49.5, y: -46.5}
+        - {x: 71.5, y: -45.5}
+        - {x: 73.5, y: -37.5}
+        - {x: 73.5, y: -22.500002}
+        - {x: 67.5, y: -19.5}
+        - {x: 57.5, y: -28.5}
+        - {x: 68.5, y: -17.5}
+        - {x: 70.5, y: 5.5}
+        - {x: 63.5, y: 26.5}
+        - {x: 59.499992, y: 32.5}
+        - {x: 37.5, y: 26.5}
+        - {x: 23.5, y: 9.5}
+        - {x: 22.499998, y: 20.5}
+        - {x: 19.499998, y: 27.499992}
+        - {x: 5.5, y: 46.499992}
+        - {x: -6.5, y: 46.499992}
+        - {x: -22.5, y: 30.5}
+        - {x: -26.5, y: 18.5}
+        - {x: -25.5, y: 3.4999962}
+        - {x: -22.5, y: -3.5}
+        - {x: -26.5, y: 4.5}
+        - {x: -34.5, y: 13.499996}
+        - {x: -49.5, y: 19.5}
+        - {x: -69.5, y: 20.5}
+        - {x: -74.49999, y: 18.5}
+        - {x: -74.49999, y: -15.500002}
+        - {x: -70.5, y: -27.5}
+        - {x: -74.49999, y: -32.5}
+        - {x: -74.49999, y: -44.5}
+        - {x: -67.5, y: -51.5}
+        - {x: -44.5, y: -51.5}
+        - {x: -24.5, y: -25.500002}
+        - {x: 2.499999, y: -19.5}
+        - {x: 10.5, y: -22.500002}
+      - - {x: 14.5, y: -6.5}
+        - {x: 19.499998, y: -2.5000038}
+        - {x: 20.5, y: 4.5}
+        - {x: 18.5, y: 1.5}
+        - {x: 18.5, y: -7.5}
+        - {x: 17.5, y: -6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8514dd63cd48d8abfa653287d9dea5
+      internalID: 21300090
+      vertices:
+      - {x: 7.5, y: 148.5}
+      - {x: 170.5, y: 148.5}
+      - {x: 7.5, y: 45.5}
+      - {x: 170.5, y: 45.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vis_NY2122_HNYglasses0002
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 104
+        width: 156
+        height: 82
+      alignment: 9
+      pivot: {x: 0.49358973, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -78, y: -41}
+        - {x: -78, y: 41}
+        - {x: 78, y: 41}
+        - {x: 78, y: -41}
+      physicsShape:
+      - - {x: 38, y: -41}
+        - {x: 64, y: -41}
+        - {x: 71, y: -39}
+        - {x: 67, y: -27}
+        - {x: 78, y: -15}
+        - {x: 77, y: -12}
+        - {x: 64, y: -9}
+        - {x: 67, y: 6}
+        - {x: 62, y: 7.999996}
+        - {x: 47.999996, y: 0}
+        - {x: 35, y: 12.999996}
+        - {x: 21, y: 37}
+        - {x: 13.999999, y: 41}
+        - {x: 3.9999995, y: 41}
+        - {x: -9, y: 31}
+        - {x: -33, y: 17.999996}
+        - {x: -38, y: 25}
+        - {x: -46, y: 29}
+        - {x: -48, y: 14}
+        - {x: -69, y: 14}
+        - {x: -71, y: 12.999996}
+        - {x: -67, y: 4}
+        - {x: -59, y: -4}
+        - {x: -78, y: -17}
+        - {x: -78, y: -34}
+        - {x: -72, y: -41}
+        - {x: -58, y: -41}
+        - {x: -30.999998, y: -27}
+        - {x: -22, y: -41}
+        - {x: -12, y: -41}
+        - {x: 3, y: -31}
+        - {x: 12, y: -41}
+        - {x: 28.999998, y: -39}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c66531e3a346bba854b722166f041d
+      internalID: 21300092
+      vertices:
+      - {x: 1, y: 123}
+      - {x: 157, y: 123}
+      - {x: 1, y: 41}
+      - {x: 157, y: 41}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021Hat_Snowman-Greenhat0002
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 939
+        width: 191
+        height: 84
+      alignment: 9
+      pivot: {x: 0.43979058, y: 0.32142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -95.5, y: -42}
+        - {x: -95.5, y: 42}
+        - {x: 95.50001, y: 42}
+        - {x: 95.50001, y: -42}
+      physicsShape:
+      - - {x: 95.49999, y: 3}
+        - {x: 80.49999, y: 10}
+        - {x: 76.5, y: 24}
+        - {x: 48.499996, y: 17}
+        - {x: 30.5, y: 33}
+        - {x: 26.5, y: 33}
+        - {x: 23.5, y: 32}
+        - {x: 17.5, y: 16}
+        - {x: 31.499996, y: 13}
+        - {x: 14.5, y: -6}
+        - {x: 14.5, y: -26}
+        - {x: 17.5, y: -37}
+        - {x: 37.499996, y: -40}
+        - {x: 44.5, y: -29}
+        - {x: 60.5, y: -42}
+        - {x: 83.5, y: -42}
+        - {x: 86.49999, y: -35}
+        - {x: 87.49999, y: -23}
+        - {x: 95.49999, y: -13}
+      - - {x: -10.5, y: 11}
+        - {x: -15.5, y: 30}
+        - {x: -44.5, y: 36}
+        - {x: -48.5, y: 41}
+        - {x: -67.5, y: 37}
+        - {x: -79.5, y: 42}
+        - {x: -93.5, y: 42}
+        - {x: -95.5, y: 35}
+        - {x: -95.5, y: 24}
+        - {x: -77.5, y: 17}
+        - {x: -88.5, y: 4.999998}
+        - {x: -92.5, y: -7}
+        - {x: -89.5, y: -21}
+        - {x: -83.5, y: -26}
+        - {x: -78.49999, y: -28}
+        - {x: -69.5, y: -32}
+        - {x: -37.5, y: -32}
+        - {x: -17.5, y: -25}
+        - {x: -10.5, y: -14}
+      - - {x: -2.5, y: -3}
+        - {x: -8.5, y: -16}
+        - {x: -8.5, y: -25}
+        - {x: 12.5, y: -25}
+        - {x: 14.5, y: -17}
+        - {x: 14.5, y: -4}
+        - {x: 13.5, y: -3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b0d3944ed0442ba40b61776b99c349
+      internalID: 21300094
+      vertices:
+      - {x: 11.5, y: 99}
+      - {x: 202.5, y: 99}
+      - {x: 11.5, y: 14.999998}
+      - {x: 202.5, y: 14.999998}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021Hat_Santa-Spearmint0002
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 419
+        width: 155
+        height: 102
+      alignment: 9
+      pivot: {x: 0.4967742, y: 0.3627451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -77.5, y: -51}
+        - {x: -77.5, y: 51}
+        - {x: 77.5, y: 51}
+        - {x: 77.5, y: -51}
+      physicsShape:
+      - - {x: 77.5, y: -5}
+        - {x: 77.5, y: 5.999998}
+        - {x: 70.5, y: 15.999998}
+        - {x: 51.5, y: 27}
+        - {x: 34.5, y: 42}
+        - {x: 15.5, y: 51}
+        - {x: -2.5, y: 51}
+        - {x: -23.499998, y: 41}
+        - {x: -65.5, y: 15.999998}
+        - {x: -72.5, y: 8.999998}
+        - {x: -77.5, y: 0}
+        - {x: -77.5, y: -24}
+        - {x: -62.5, y: -38}
+        - {x: -47.5, y: -47}
+        - {x: -10.499999, y: -46}
+        - {x: 2.5, y: -51}
+        - {x: 17.5, y: -51}
+        - {x: 23.5, y: -50}
+        - {x: 37.5, y: -40}
+        - {x: 64.5, y: -29}
+        - {x: 73.5, y: -19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea68ad4c66d640daa16f098aaf70ae63
+      internalID: 21300096
+      vertices:
+      - {x: 0.5, y: 116}
+      - {x: 155.5, y: 116}
+      - {x: 0.5, y: 14}
+      - {x: 155.5, y: 14}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021Hat_Snowman-Greenhat0003
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 344
+        width: 90
+        height: 93
+      alignment: 9
+      pivot: {x: 0.37777779, y: -0.15053764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -45, y: -46.5}
+        - {x: -45, y: 46.500008}
+        - {x: 45, y: 46.500008}
+        - {x: 45, y: -46.5}
+      physicsShape:
+      - - {x: 33, y: -8.5}
+        - {x: 37.999996, y: -0.5000038}
+        - {x: 45, y: 11.5}
+        - {x: 45, y: 20.5}
+        - {x: 31.999996, y: 26.5}
+        - {x: 31, y: 35.5}
+        - {x: 25, y: 43.5}
+        - {x: 22, y: 46.499992}
+        - {x: -3, y: 46.499992}
+        - {x: -7, y: 45.499992}
+        - {x: -17, y: 29.5}
+        - {x: -35, y: 37.499992}
+        - {x: -43, y: 35.5}
+        - {x: -45, y: 29.5}
+        - {x: -45, y: 20.5}
+        - {x: -43, y: 18.5}
+        - {x: -27, y: 9.5}
+        - {x: -42, y: -10.5}
+        - {x: -36, y: -30.500002}
+        - {x: -28, y: -36.5}
+        - {x: -13, y: -43.5}
+        - {x: 0, y: -46.5}
+        - {x: 23, y: -46.5}
+        - {x: 31.999996, y: -43.5}
+        - {x: 37, y: -35.5}
+        - {x: 36, y: -19.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0d4443defb4f07961e8d1a801ff76e
+      internalID: 21300098
+      vertices:
+      - {x: 11, y: 153.5}
+      - {x: 101, y: 153.5}
+      - {x: 11, y: 60.5}
+      - {x: 101, y: 60.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021Hat_Lights-White0003
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 421
+        width: 164
+        height: 103
+      alignment: 9
+      pivot: {x: 0.54268295, y: -0.116504855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -82, y: -51.5}
+        - {x: -82, y: 51.5}
+        - {x: 82, y: 51.5}
+        - {x: 82, y: -51.5}
+      physicsShape:
+      - - {x: 8, y: -20.500004}
+        - {x: 26.999998, y: -30.5}
+        - {x: 49, y: -45.5}
+        - {x: 68, y: -43.5}
+        - {x: 73, y: -35.5}
+        - {x: 73, y: -26.5}
+        - {x: 71, y: -19.5}
+        - {x: 59, y: -24.5}
+        - {x: 59.999996, y: -23.500004}
+        - {x: 69, y: -10.500004}
+        - {x: 70, y: -0.5}
+        - {x: 64, y: 27.5}
+        - {x: 59, y: 30.5}
+        - {x: 46.999996, y: 29.5}
+        - {x: 34, y: 21.5}
+        - {x: 23, y: 9.499992}
+        - {x: 23, y: 16.499992}
+        - {x: 24, y: 21.5}
+        - {x: 7, y: 46.5}
+        - {x: -7, y: 46.5}
+        - {x: -22.999998, y: 27.5}
+        - {x: -26, y: 16.499992}
+        - {x: -26, y: 4.5}
+        - {x: -24, y: -0.5}
+        - {x: -28, y: 6.5}
+        - {x: -32.999996, y: 12.5}
+        - {x: -50, y: 19.5}
+        - {x: -68, y: 21.5}
+        - {x: -75, y: 16.499992}
+        - {x: -75, y: -7.5}
+        - {x: -68, y: -24.5}
+        - {x: -72.99999, y: -27.5}
+        - {x: -75, y: -33.5}
+        - {x: -75, y: -44.5}
+        - {x: -69, y: -50.5}
+        - {x: -63, y: -51.5}
+        - {x: -49, y: -51.5}
+        - {x: -44, y: -49.5}
+        - {x: -26, y: -26.5}
+        - {x: -11, y: -21.5}
+      - - {x: 15, y: -6.5}
+        - {x: 20, y: -0.5}
+        - {x: 20, y: 3.4999924}
+        - {x: 18, y: 0.5}
+        - {x: 19, y: -7.5}
+        - {x: 18, y: -6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7108a2f1884372b184e5465c78a9d5
+      internalID: 21300100
+      vertices:
+      - {x: -7, y: 166.5}
+      - {x: 157, y: 166.5}
+      - {x: -7, y: 63.5}
+      - {x: 157, y: 63.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021JHat_candycane-ChocolateMint0001
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 181
+        width: 112
+        height: 74
+      alignment: 9
+      pivot: {x: 0.41964287, y: -0.22972973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -56, y: -37}
+        - {x: -56, y: 37}
+        - {x: 56, y: 37}
+        - {x: 56, y: -37}
+      physicsShape:
+      - - {x: 55, y: -17}
+        - {x: 56, y: -11.000004}
+        - {x: 56, y: 23}
+        - {x: 49, y: 30}
+        - {x: 28, y: 33}
+        - {x: 15, y: 31.999992}
+        - {x: 0, y: -1.0000038}
+        - {x: 0, y: -18}
+        - {x: -15, y: -7}
+        - {x: -2, y: 1}
+        - {x: 0, y: 11}
+        - {x: -15, y: 35}
+        - {x: -20, y: 37}
+        - {x: -48, y: 37}
+        - {x: -56, y: 24}
+        - {x: -56, y: 1}
+        - {x: -46, y: -27.000002}
+        - {x: -43, y: -37}
+        - {x: -13, y: -37}
+        - {x: 3, y: -32}
+        - {x: 29, y: -34}
+        - {x: 36.999996, y: -17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86e353d72c84e679e01daee034bcf1f
+      internalID: 21300102
+      vertices:
+      - {x: 9, y: 128}
+      - {x: 121, y: 128}
+      - {x: 9, y: 54}
+      - {x: 121, y: 54}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021Hat_Present-WhiteBlue0002
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 330
+        width: 108
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2371134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -54.000004, y: -48.5}
+        - {x: -54.000004, y: 48.5}
+        - {x: 54.000004, y: 48.5}
+        - {x: 54.000004, y: -48.5}
+      physicsShape:
+      - - {x: 53.999996, y: -0.5}
+        - {x: 52.999996, y: 5.5}
+        - {x: 25, y: 5.5}
+        - {x: 29.999998, y: 11.5}
+        - {x: 29.999998, y: 15.5}
+        - {x: 17, y: 43.5}
+        - {x: 4.9999995, y: 48.5}
+        - {x: -12, y: 48.5}
+        - {x: -22.999998, y: 47.499992}
+        - {x: -25, y: 41.499992}
+        - {x: -31, y: 16.5}
+        - {x: -48, y: 8.5}
+        - {x: -52, y: 2.5}
+        - {x: -53.999996, y: -13.5}
+        - {x: -53.999996, y: -29.5}
+        - {x: -47, y: -46.5}
+        - {x: -44, y: -48.5}
+        - {x: 29.999998, y: -48.5}
+        - {x: 53.999996, y: -25.5}
+        - {x: 53.999996, y: -10.500001}
+        - {x: 52, y: -5.500002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe99e21bd3845d4b5fcda30b194dc61
+      internalID: 21300104
+      vertices:
+      - {x: -0.0000038146973, y: 122.5}
+      - {x: 108, y: 122.5}
+      - {x: -0.0000038146973, y: 25.5}
+      - {x: 108, y: 25.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021Hat_Santa-Gold0002
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 627
+        width: 155
+        height: 102
+      alignment: 9
+      pivot: {x: 0.4967742, y: 0.3627451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -77.5, y: -51}
+        - {x: -77.5, y: 51}
+        - {x: 77.5, y: 51}
+        - {x: 77.5, y: -51}
+      physicsShape:
+      - - {x: 77.5, y: -5}
+        - {x: 77.5, y: 5.999998}
+        - {x: 70.5, y: 15.999998}
+        - {x: 51.5, y: 27}
+        - {x: 34.5, y: 42}
+        - {x: 15.5, y: 51}
+        - {x: -2.5, y: 51}
+        - {x: -23.499998, y: 41}
+        - {x: -65.5, y: 15.999998}
+        - {x: -72.5, y: 8.999998}
+        - {x: -77.5, y: 0}
+        - {x: -77.5, y: -24}
+        - {x: -62.5, y: -38}
+        - {x: -47.5, y: -47}
+        - {x: -10.499999, y: -46}
+        - {x: 2.5, y: -51}
+        - {x: 17.5, y: -51}
+        - {x: 23.5, y: -50}
+        - {x: 37.5, y: -40}
+        - {x: 64.5, y: -29}
+        - {x: 73.5, y: -19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3040a5fd6af46e1850ebc9c4ae4e34c
+      internalID: 21300106
+      vertices:
+      - {x: 0.5, y: 116}
+      - {x: 155.5, y: 116}
+      - {x: 0.5, y: 14}
+      - {x: 155.5, y: 14}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021Hat_Elf-Pink0003
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 297
+        width: 160
+        height: 99
+      alignment: 9
+      pivot: {x: 0.43125, y: -0.14141414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -80, y: -49.5}
+        - {x: -80, y: 49.5}
+        - {x: 80, y: 49.5}
+        - {x: 80, y: -49.5}
+      physicsShape:
+      - - {x: 59, y: -20.500004}
+        - {x: 74.99999, y: -8.5}
+        - {x: 80, y: 3.4999924}
+        - {x: 80, y: 16.499992}
+        - {x: 76, y: 23.5}
+        - {x: 60, y: 31.5}
+        - {x: 54, y: 32.5}
+        - {x: 31, y: 16.499992}
+        - {x: 18.999998, y: 45.5}
+        - {x: 14, y: 49.5}
+        - {x: -1.000001, y: 49.5}
+        - {x: -15, y: 40.5}
+        - {x: -50, y: 4.5}
+        - {x: -58, y: 7.5}
+        - {x: -77.99999, y: 8.5}
+        - {x: -80, y: 5.5}
+        - {x: -80, y: -8.5}
+        - {x: -59.999996, y: -34.5}
+        - {x: -50, y: -42.5}
+        - {x: -40, y: -48.5}
+        - {x: -33, y: -49.5}
+        - {x: 11, y: -49.5}
+        - {x: 28.999996, y: -43.5}
+        - {x: 46, y: -32.5}
+      - - {x: 40, y: -4.500004}
+        - {x: 39, y: -5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede76792a31a452abf5aedc9180a2e5b
+      internalID: 21300108
+      vertices:
+      - {x: 11, y: 162.5}
+      - {x: 171, y: 162.5}
+      - {x: 11, y: 63.5}
+      - {x: 171, y: 63.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021Hat_Present-WhiteBlue0001
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 629
+        width: 110
+        height: 100
+      alignment: 9
+      pivot: {x: 0.46363637, y: -0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -55, y: -50}
+        - {x: -55, y: 49.999992}
+        - {x: 54.999996, y: 49.999992}
+        - {x: 54.999996, y: -50}
+      physicsShape:
+      - - {x: 54.999996, y: 9}
+        - {x: 53, y: 13}
+        - {x: 49.999996, y: 27}
+        - {x: 38, y: 23.999992}
+        - {x: 35.999996, y: 33}
+        - {x: 32, y: 35}
+        - {x: 0.9999995, y: 36.999992}
+        - {x: -4, y: 32}
+        - {x: -17, y: 49.999992}
+        - {x: -22, y: 49.999992}
+        - {x: -23, y: 48.999992}
+        - {x: -26, y: 41}
+        - {x: -42, y: 44}
+        - {x: -43.999996, y: 42}
+        - {x: -55, y: 17}
+        - {x: -55, y: 2}
+        - {x: -43.999996, y: -4}
+        - {x: -46.999996, y: -9.000004}
+        - {x: -49, y: -15.000004}
+        - {x: -36, y: -43}
+        - {x: -32, y: -50}
+        - {x: -17, y: -50}
+        - {x: 27, y: -47}
+        - {x: 31, y: -41}
+        - {x: 48.999996, y: -4}
+        - {x: 54.999996, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8ab32f8b2c4b20add8dd9d6a75d184
+      internalID: 21300110
+      vertices:
+      - {x: 4, y: 168}
+      - {x: 114, y: 168}
+      - {x: 4, y: 68}
+      - {x: 114, y: 68}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021Hat-GreenYellow0002
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 82
+        width: 108
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2371134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -54.000004, y: -48.5}
+        - {x: -54.000004, y: 48.5}
+        - {x: 54.000004, y: 48.5}
+        - {x: 54.000004, y: -48.5}
+      physicsShape:
+      - - {x: 53.999996, y: -0.5}
+        - {x: 52.999996, y: 5.5}
+        - {x: 25, y: 5.5}
+        - {x: 29.999998, y: 11.5}
+        - {x: 29.999998, y: 15.5}
+        - {x: 17, y: 43.5}
+        - {x: 4.9999995, y: 48.5}
+        - {x: -12, y: 48.5}
+        - {x: -22.999998, y: 47.499992}
+        - {x: -25, y: 41.499992}
+        - {x: -31, y: 16.5}
+        - {x: -48, y: 8.5}
+        - {x: -52, y: 2.5}
+        - {x: -53.999996, y: -13.5}
+        - {x: -53.999996, y: -29.5}
+        - {x: -47, y: -46.5}
+        - {x: -44, y: -48.5}
+        - {x: 29.999998, y: -48.5}
+        - {x: 53.999996, y: -25.5}
+        - {x: 53.999996, y: -10.500001}
+        - {x: 52, y: -5.500002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a35de8882d47d386906f299a1ff491
+      internalID: 21300112
+      vertices:
+      - {x: -0.0000038146973, y: 122.5}
+      - {x: 108, y: 122.5}
+      - {x: -0.0000038146973, y: 25.5}
+      - {x: 108, y: 25.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021Hat_Snowman-Evil0003
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 439
+        width: 90
+        height: 93
+      alignment: 9
+      pivot: {x: 0.37777779, y: -0.15053764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -45, y: -46.5}
+        - {x: -45, y: 46.500008}
+        - {x: 45, y: 46.500008}
+        - {x: 45, y: -46.5}
+      physicsShape:
+      - - {x: 45, y: 6.4999924}
+        - {x: 45, y: 21.5}
+        - {x: 40, y: 22.5}
+        - {x: 31.999996, y: 24.5}
+        - {x: 31, y: 21.5}
+        - {x: 28.999996, y: 20.5}
+        - {x: 31.999996, y: 24.5}
+        - {x: 30, y: 36.5}
+        - {x: 21, y: 46.499992}
+        - {x: 6, y: 46.499992}
+        - {x: -4, y: 43.5}
+        - {x: -8, y: 40.5}
+        - {x: -17, y: 29.5}
+        - {x: -35, y: 35.5}
+        - {x: -40, y: 36.5}
+        - {x: -45, y: 25.499992}
+        - {x: -45, y: 20.5}
+        - {x: -44, y: 17.5}
+        - {x: -28, y: 4.5}
+        - {x: -42, y: -10.5}
+        - {x: -40, y: -25.5}
+        - {x: -24, y: -40.5}
+        - {x: -11, y: -45.5}
+        - {x: -8, y: -46.5}
+        - {x: 27, y: -46.5}
+        - {x: 37, y: -41.5}
+        - {x: 39, y: -35.5}
+        - {x: 34.999996, y: -9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590fe21a0acf44dcb6b26e0a6c43009e
+      internalID: 21300114
+      vertices:
+      - {x: 11, y: 153.5}
+      - {x: 101, y: 153.5}
+      - {x: 11, y: 60.5}
+      - {x: 101, y: 60.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021Hat_Santa-Spearmint0001
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 731
+        width: 156
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5576923, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -78, y: -52.5}
+        - {x: -78, y: 52.5}
+        - {x: 78, y: 52.5}
+        - {x: 78, y: -52.5}
+      physicsShape:
+      - - {x: 41, y: -34.5}
+        - {x: 65, y: -36.5}
+        - {x: 77, y: -28.5}
+        - {x: 78, y: -26.5}
+        - {x: 78, y: -8.5}
+        - {x: 77, y: -2.5000038}
+        - {x: 61, y: 20.5}
+        - {x: 28, y: 41.5}
+        - {x: 3, y: 52.499992}
+        - {x: -17, y: 52.499992}
+        - {x: -39.999996, y: 38.5}
+        - {x: -69, y: 19.5}
+        - {x: -76, y: 12.5}
+        - {x: -78, y: 7.499996}
+        - {x: -78, y: -6.5}
+        - {x: -70.99999, y: -25.500002}
+        - {x: -61, y: -34.5}
+        - {x: -43, y: -52.5}
+        - {x: -26, y: -52.5}
+        - {x: -10.999998, y: -49.5}
+        - {x: 1, y: -40.5}
+        - {x: 17, y: -39.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8833ab09a04aafa11724b9fc0bdeca
+      internalID: 21300116
+      vertices:
+      - {x: -9, y: 150.5}
+      - {x: 147, y: 150.5}
+      - {x: -9, y: 45.5}
+      - {x: 147, y: 45.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021Hat_Elf-Swe0003
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 439
+        width: 160
+        height: 99
+      alignment: 9
+      pivot: {x: 0.43125, y: -0.14141414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -80, y: -49.5}
+        - {x: -80, y: 49.5}
+        - {x: 80, y: 49.5}
+        - {x: 80, y: -49.5}
+      physicsShape:
+      - - {x: 59, y: -20.500004}
+        - {x: 74.99999, y: -8.5}
+        - {x: 80, y: 3.4999924}
+        - {x: 80, y: 16.499992}
+        - {x: 76, y: 23.5}
+        - {x: 60, y: 31.5}
+        - {x: 54, y: 32.5}
+        - {x: 31, y: 16.499992}
+        - {x: 18.999998, y: 45.5}
+        - {x: 14, y: 49.5}
+        - {x: -1.000001, y: 49.5}
+        - {x: -15, y: 40.5}
+        - {x: -50, y: 4.5}
+        - {x: -58, y: 7.5}
+        - {x: -77.99999, y: 8.5}
+        - {x: -80, y: 5.5}
+        - {x: -80, y: -8.5}
+        - {x: -59.999996, y: -34.5}
+        - {x: -50, y: -42.5}
+        - {x: -40, y: -48.5}
+        - {x: -33, y: -49.5}
+        - {x: 11, y: -49.5}
+        - {x: 28.999996, y: -43.5}
+        - {x: 46, y: -32.5}
+      - - {x: 40, y: -4.500004}
+        - {x: 39, y: -5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60efc147beff4284aa13bd40bceb0704
+      internalID: 21300118
+      vertices:
+      - {x: 11, y: 162.5}
+      - {x: 171, y: 162.5}
+      - {x: 11, y: 63.5}
+      - {x: 171, y: 63.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021Hat_Santa-Pink0001
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 731
+        width: 156
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5576923, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -78, y: -52.5}
+        - {x: -78, y: 52.5}
+        - {x: 78, y: 52.5}
+        - {x: 78, y: -52.5}
+      physicsShape:
+      - - {x: 41, y: -34.5}
+        - {x: 65, y: -36.5}
+        - {x: 77, y: -28.5}
+        - {x: 78, y: -26.5}
+        - {x: 78, y: -8.5}
+        - {x: 77, y: -2.5000038}
+        - {x: 61, y: 20.5}
+        - {x: 28, y: 41.5}
+        - {x: 3, y: 52.499992}
+        - {x: -17, y: 52.499992}
+        - {x: -39.999996, y: 38.5}
+        - {x: -69, y: 19.5}
+        - {x: -76, y: 12.5}
+        - {x: -78, y: 7.499996}
+        - {x: -78, y: -6.5}
+        - {x: -70.99999, y: -25.500002}
+        - {x: -61, y: -34.5}
+        - {x: -43, y: -52.5}
+        - {x: -26, y: -52.5}
+        - {x: -10.999998, y: -49.5}
+        - {x: 1, y: -40.5}
+        - {x: 17, y: -39.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e518441b8c5d4c07ba2a141e912ac9a2
+      internalID: 21300120
+      vertices:
+      - {x: -9, y: 150.5}
+      - {x: 147, y: 150.5}
+      - {x: -9, y: 45.5}
+      - {x: 147, y: 45.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021Hat_Present-RedBlack0002
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 528
+        width: 108
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2371134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -54.000004, y: -48.5}
+        - {x: -54.000004, y: 48.5}
+        - {x: 54.000004, y: 48.5}
+        - {x: 54.000004, y: -48.5}
+      physicsShape:
+      - - {x: 53.999996, y: -0.5}
+        - {x: 52.999996, y: 5.5}
+        - {x: 25, y: 5.5}
+        - {x: 29.999998, y: 11.5}
+        - {x: 29.999998, y: 15.5}
+        - {x: 17, y: 43.5}
+        - {x: 4.9999995, y: 48.5}
+        - {x: -12, y: 48.5}
+        - {x: -22.999998, y: 47.499992}
+        - {x: -25, y: 41.499992}
+        - {x: -31, y: 16.5}
+        - {x: -48, y: 8.5}
+        - {x: -52, y: 2.5}
+        - {x: -53.999996, y: -13.5}
+        - {x: -53.999996, y: -29.5}
+        - {x: -47, y: -46.5}
+        - {x: -44, y: -48.5}
+        - {x: 29.999998, y: -48.5}
+        - {x: 53.999996, y: -25.5}
+        - {x: 53.999996, y: -10.500001}
+        - {x: 52, y: -5.500002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db71e6821ad4115a2d7f5f662644441
+      internalID: 21300122
+      vertices:
+      - {x: -0.0000038146973, y: 122.5}
+      - {x: 108, y: 122.5}
+      - {x: -0.0000038146973, y: 25.5}
+      - {x: 108, y: 25.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021JHat_candycane-Mint0002
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 772
+        width: 187
+        height: 78
+      alignment: 9
+      pivot: {x: 0.53475934, y: 0.20512821}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -93.5, y: -39}
+        - {x: -93.5, y: 39}
+        - {x: 93.5, y: 39}
+        - {x: 93.5, y: -39}
+      physicsShape:
+      - - {x: 42.5, y: -31}
+        - {x: 44.5, y: -34}
+        - {x: 65.5, y: -34}
+        - {x: 82.5, y: -37}
+        - {x: 93.5, y: -34}
+        - {x: 93.5, y: -1}
+        - {x: 74.5, y: 19}
+        - {x: 50.5, y: 19}
+        - {x: 43.5, y: 15}
+        - {x: 27.5, y: -3.000002}
+        - {x: 24.5, y: 6.999998}
+        - {x: -0.5, y: 10}
+        - {x: -2.5, y: 9}
+        - {x: -2.5, y: -29}
+        - {x: 26.499998, y: -34}
+        - {x: 31.5, y: -39}
+        - {x: 37.5, y: -39}
+        - {x: 42.5, y: -34}
+        - {x: 42.5, y: -30}
+        - {x: 41.5, y: -28}
+      - - {x: -28.5, y: -24}
+        - {x: -31.5, y: -27}
+        - {x: -31.5, y: -31}
+        - {x: -27.5, y: -33}
+        - {x: -22.5, y: -33}
+        - {x: -21.5, y: -30}
+        - {x: -21.5, y: -26}
+        - {x: -23.499998, y: -24}
+      - - {x: -6.5, y: -17}
+        - {x: -13.499998, y: -17}
+        - {x: -19.5, y: -22}
+        - {x: -19.5, y: -30}
+        - {x: -15.5, y: -31}
+        - {x: -4.5, y: -31}
+        - {x: -3.499999, y: -30}
+        - {x: -3.499999, y: -21}
+      - - {x: -51.5, y: 38}
+        - {x: -58.5, y: 39}
+        - {x: -85.49999, y: 39}
+        - {x: -90.5, y: 32}
+        - {x: -93.5, y: 21}
+        - {x: -93.5, y: 2}
+        - {x: -90.5, y: -5}
+        - {x: -80.5, y: -26}
+        - {x: -71.5, y: -29}
+        - {x: -43.5, y: -29}
+        - {x: -42.499996, y: -28}
+        - {x: -36.499996, y: -16}
+        - {x: -36.499996, y: -5}
+        - {x: -45.5, y: 24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7de97ff20bc417597ac7283370c1ec8
+      internalID: 21300124
+      vertices:
+      - {x: -6.5, y: 101}
+      - {x: 180.5, y: 101}
+      - {x: -6.5, y: 23}
+      - {x: 180.5, y: 23}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021Hat_Santa-Spearmint0003
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 540
+        width: 160
+        height: 107
+      alignment: 9
+      pivot: {x: 0.4375, y: -0.037383176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -80, y: -53.5}
+        - {x: -80, y: 53.5}
+        - {x: 80, y: 53.5}
+        - {x: 80, y: -53.5}
+      physicsShape:
+      - - {x: 67, y: -1.5}
+        - {x: 58, y: 10.5}
+        - {x: 49.999996, y: 29.5}
+        - {x: 32.999996, y: 49.499992}
+        - {x: 25, y: 53.5}
+        - {x: 1, y: 53.5}
+        - {x: -22, y: 37.5}
+        - {x: -33, y: 26.5}
+        - {x: -47, y: 20.5}
+        - {x: -60, y: 19.5}
+        - {x: -75, y: 3.5}
+        - {x: -80, y: -5.5}
+        - {x: -80, y: -23.5}
+        - {x: -61, y: -44.5}
+        - {x: -55, y: -46.5}
+        - {x: -7, y: -51.5}
+        - {x: 14, y: -49.5}
+        - {x: 25, y: -53.5}
+        - {x: 61, y: -53.5}
+        - {x: 80, y: -41.5}
+        - {x: 80, y: -23.5}
+        - {x: 74, y: -6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2efba340c1b458e9789484719baeb89
+      internalID: 21300126
+      vertices:
+      - {x: 10, y: 164.5}
+      - {x: 170, y: 164.5}
+      - {x: 10, y: 57.5}
+      - {x: 170, y: 57.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021JHat_candycane-Mint0001
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 105
+        width: 112
+        height: 74
+      alignment: 9
+      pivot: {x: 0.41964287, y: -0.22972973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -56, y: -37}
+        - {x: -56, y: 37}
+        - {x: 56, y: 37}
+        - {x: 56, y: -37}
+      physicsShape:
+      - - {x: 55, y: -17}
+        - {x: 56, y: -11.000004}
+        - {x: 56, y: 23}
+        - {x: 49, y: 30}
+        - {x: 28, y: 33}
+        - {x: 15, y: 31.999992}
+        - {x: 0, y: -1.0000038}
+        - {x: 0, y: -18}
+        - {x: -15, y: -7}
+        - {x: -2, y: 1}
+        - {x: 0, y: 11}
+        - {x: -15, y: 35}
+        - {x: -20, y: 37}
+        - {x: -48, y: 37}
+        - {x: -56, y: 24}
+        - {x: -56, y: 1}
+        - {x: -46, y: -27.000002}
+        - {x: -43, y: -37}
+        - {x: -13, y: -37}
+        - {x: 3, y: -32}
+        - {x: 29, y: -34}
+        - {x: 36.999996, y: -17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9214a154ae74fb0943f02239e28d783
+      internalID: 21300128
+      vertices:
+      - {x: 9, y: 128}
+      - {x: 121, y: 128}
+      - {x: 9, y: 54}
+      - {x: 121, y: 54}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021JHat_candycane-Blueberry0001
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 181
+        width: 112
+        height: 74
+      alignment: 9
+      pivot: {x: 0.41964287, y: -0.22972973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -56, y: -37}
+        - {x: -56, y: 37}
+        - {x: 56, y: 37}
+        - {x: 56, y: -37}
+      physicsShape:
+      - - {x: 55, y: -17}
+        - {x: 56, y: -11.000004}
+        - {x: 56, y: 23}
+        - {x: 49, y: 30}
+        - {x: 28, y: 33}
+        - {x: 15, y: 31.999992}
+        - {x: 0, y: -1.0000038}
+        - {x: 0, y: -18}
+        - {x: -15, y: -7}
+        - {x: -2, y: 1}
+        - {x: 0, y: 11}
+        - {x: -15, y: 35}
+        - {x: -20, y: 37}
+        - {x: -48, y: 37}
+        - {x: -56, y: 24}
+        - {x: -56, y: 1}
+        - {x: -46, y: -27.000002}
+        - {x: -43, y: -37}
+        - {x: -13, y: -37}
+        - {x: 3, y: -32}
+        - {x: 29, y: -34}
+        - {x: 36.999996, y: -17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909e28ecae2448f5a70e3a9632cea45d
+      internalID: 21300130
+      vertices:
+      - {x: 9, y: 128}
+      - {x: 121, y: 128}
+      - {x: 9, y: 54}
+      - {x: 121, y: 54}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021Hat_Present-WhiteBlue0003
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 225
+        width: 121
+        height: 95
+      alignment: 9
+      pivot: {x: 0.36363637, y: -0.16842106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -60.5, y: -47.5}
+        - {x: -60.5, y: 47.5}
+        - {x: 60.5, y: 47.5}
+        - {x: 60.5, y: -47.5}
+      physicsShape:
+      - - {x: 60.5, y: -17.500004}
+        - {x: 60.5, y: 0.5}
+        - {x: 54.5, y: 25.5}
+        - {x: 49.5, y: 44.499992}
+        - {x: 46.5, y: 47.5}
+        - {x: 36.499996, y: 47.5}
+        - {x: 29.499996, y: 46.5}
+        - {x: 13.499998, y: 28.499992}
+        - {x: 2.5, y: 23.5}
+        - {x: -13.5, y: 38.5}
+        - {x: -23.5, y: 43.499992}
+        - {x: -36.5, y: 41.499992}
+        - {x: -44.5, y: 32.5}
+        - {x: -45.5, y: 18.5}
+        - {x: -59.499996, y: 16.499992}
+        - {x: -60.5, y: 14.5}
+        - {x: -60.5, y: 8.5}
+        - {x: -53.5, y: -12.5}
+        - {x: -54.5, y: -15.5}
+        - {x: -28.5, y: -46.5}
+        - {x: -5.5, y: -47.5}
+        - {x: 20.5, y: -47.5}
+        - {x: 23.499996, y: -45.5}
+        - {x: 40.5, y: -32.5}
+        - {x: 54.5, y: -24.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3441e40a7f994fbb8896e6860328f7aa
+      internalID: 21300132
+      vertices:
+      - {x: 16.5, y: 158.5}
+      - {x: 137.5, y: 158.5}
+      - {x: 16.5, y: 63.5}
+      - {x: 137.5, y: 63.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021Hat-GreenYellow0003
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 121
+        height: 95
+      alignment: 9
+      pivot: {x: 0.36363637, y: -0.16842106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -60.5, y: -47.5}
+        - {x: -60.5, y: 47.5}
+        - {x: 60.5, y: 47.5}
+        - {x: 60.5, y: -47.5}
+      physicsShape:
+      - - {x: 60.5, y: -17.500004}
+        - {x: 60.5, y: 0.5}
+        - {x: 54.5, y: 25.5}
+        - {x: 49.5, y: 44.499992}
+        - {x: 46.5, y: 47.5}
+        - {x: 36.499996, y: 47.5}
+        - {x: 29.499996, y: 46.5}
+        - {x: 13.499998, y: 28.499992}
+        - {x: 2.5, y: 23.5}
+        - {x: -13.5, y: 38.5}
+        - {x: -23.5, y: 43.499992}
+        - {x: -36.5, y: 41.499992}
+        - {x: -44.5, y: 32.5}
+        - {x: -45.5, y: 18.5}
+        - {x: -59.499996, y: 16.499992}
+        - {x: -60.5, y: 14.5}
+        - {x: -60.5, y: 8.5}
+        - {x: -53.5, y: -12.5}
+        - {x: -54.5, y: -15.5}
+        - {x: -28.5, y: -46.5}
+        - {x: -5.5, y: -47.5}
+        - {x: 20.5, y: -47.5}
+        - {x: 23.499996, y: -45.5}
+        - {x: 40.5, y: -32.5}
+        - {x: 54.5, y: -24.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944988332ab94d30b6ee3cbae83dfa23
+      internalID: 21300134
+      vertices:
+      - {x: 16.5, y: 158.5}
+      - {x: 137.5, y: 158.5}
+      - {x: 16.5, y: 63.5}
+      - {x: 137.5, y: 63.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W2021Hat_Santa-Green0001
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 838
+        width: 156
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5576923, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -78, y: -52.5}
+        - {x: -78, y: 52.5}
+        - {x: 78, y: 52.5}
+        - {x: 78, y: -52.5}
+      physicsShape:
+      - - {x: 41, y: -34.5}
+        - {x: 65, y: -36.5}
+        - {x: 77, y: -28.5}
+        - {x: 78, y: -26.5}
+        - {x: 78, y: -8.5}
+        - {x: 77, y: -2.5000038}
+        - {x: 61, y: 20.5}
+        - {x: 28, y: 41.5}
+        - {x: 3, y: 52.499992}
+        - {x: -17, y: 52.499992}
+        - {x: -39.999996, y: 38.5}
+        - {x: -69, y: 19.5}
+        - {x: -76, y: 12.5}
+        - {x: -78, y: 7.499996}
+        - {x: -78, y: -6.5}
+        - {x: -70.99999, y: -25.500002}
+        - {x: -61, y: -34.5}
+        - {x: -43, y: -52.5}
+        - {x: -26, y: -52.5}
+        - {x: -10.999998, y: -49.5}
+        - {x: 1, y: -40.5}
+        - {x: 17, y: -39.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5e4e57b8794e70a5ed84749a20550d
+      internalID: 21300136
+      vertices:
+      - {x: -9, y: 150.5}
+      - {x: 147, y: 150.5}
+      - {x: -9, y: 45.5}
+      - {x: 147, y: 45.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      W2021Hat-GreenYellow0001: 21300062
+      W2021Hat-GreenYellow0002: 21300112
+      W2021Hat-GreenYellow0003: 21300134
+      W2021Hat_Elf-Pink0001: 21300054
+      W2021Hat_Elf-Pink0002: 21300040
+      W2021Hat_Elf-Pink0003: 21300108
+      W2021Hat_Elf-Swe0001: 21300048
+      W2021Hat_Elf-Swe0002: 21300006
+      W2021Hat_Elf-Swe0003: 21300118
+      W2021Hat_Lights-White0001: 21300024
+      W2021Hat_Lights-White0002: 21300072
+      W2021Hat_Lights-White0003: 21300100
+      W2021Hat_Lights-Yellow0001: 21300090
+      W2021Hat_Lights-Yellow0002: 21300086
+      W2021Hat_Lights-Yellow0003: 21300028
+      W2021Hat_Present-RedBlack0001: 21300018
+      W2021Hat_Present-RedBlack0002: 21300122
+      W2021Hat_Present-RedBlack0003: 21300034
+      W2021Hat_Present-RedWhite0001: 21300088
+      W2021Hat_Present-RedWhite0002: 21300020
+      W2021Hat_Present-RedWhite0003: 21300058
+      W2021Hat_Present-WhiteBlue0001: 21300110
+      W2021Hat_Present-WhiteBlue0002: 21300104
+      W2021Hat_Present-WhiteBlue0003: 21300132
+      W2021Hat_Santa-Evil0001: 21300014
+      W2021Hat_Santa-Evil0002: 21300030
+      W2021Hat_Santa-Evil0003: 21300038
+      W2021Hat_Santa-Gold0001: 21300070
+      W2021Hat_Santa-Gold0002: 21300106
+      W2021Hat_Santa-Gold0003: 21300050
+      W2021Hat_Santa-Green0001: 21300136
+      W2021Hat_Santa-Green0002: 21300084
+      W2021Hat_Santa-Green0003: 21300068
+      W2021Hat_Santa-Mint0001: 21300046
+      W2021Hat_Santa-Mint0002: 21300078
+      W2021Hat_Santa-Mint0003: 21300036
+      W2021Hat_Santa-Pink0001: 21300120
+      W2021Hat_Santa-Pink0002: 21300016
+      W2021Hat_Santa-Pink0003: 21300082
+      W2021Hat_Santa-Spearmint0001: 21300116
+      W2021Hat_Santa-Spearmint0002: 21300096
+      W2021Hat_Santa-Spearmint0003: 21300126
+      W2021Hat_Snowman-Evil0001: 21300074
+      W2021Hat_Snowman-Evil0002: 21300042
+      W2021Hat_Snowman-Evil0003: 21300114
+      W2021Hat_Snowman-Greenhat0001: 21300056
+      W2021Hat_Snowman-Greenhat0002: 21300094
+      W2021Hat_Snowman-Greenhat0003: 21300098
+      W2021Hat_Snowman-RednGreen0001: 21300008
+      W2021Hat_Snowman-RednGreen0002: 21300004
+      W2021Hat_Snowman-RednGreen0003: 21300052
+      W2021Hat_Snowman-bluenYellow0001: 21300012
+      W2021Hat_Snowman-bluenYellow0002: 21300010
+      W2021Hat_Snowman-bluenYellow0003: 21300060
+      W2021JHat_candycane-Blueberry0001: 21300130
+      W2021JHat_candycane-Blueberry0002: 21300026
+      W2021JHat_candycane-Blueberry0003: 21300066
+      W2021JHat_candycane-Bubblegum0001: 21300064
+      W2021JHat_candycane-Bubblegum0002: 21300044
+      W2021JHat_candycane-Bubblegum0003: 21300000
+      W2021JHat_candycane-ChocolateMint0001: 21300102
+      W2021JHat_candycane-ChocolateMint0002: 21300032
+      W2021JHat_candycane-ChocolateMint0003: 21300022
+      W2021JHat_candycane-Mint0001: 21300128
+      W2021JHat_candycane-Mint0002: 21300124
+      W2021JHat_candycane-Mint0003: 21300076
+      vis_NY2122_HNYglasses0001: 21300080
+      vis_NY2122_HNYglasses0002: 21300092
+      vis_NY2122_HNYglasses0004: 21300002
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

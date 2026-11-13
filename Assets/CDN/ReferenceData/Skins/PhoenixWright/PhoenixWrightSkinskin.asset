@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b31f4d0f23be9455bcc9a941106296fd, type: 3}
+  m_Name: PhoenixWrightSkinskin
+  m_EditorClassIdentifier:
+  unlockOnSelectPlatforms:
+  freeRedeemableCosmetic: 1
+  redeemPopUpColor: -1
+  epicId:
+  BundleId:
+  ProductId: skin_phoenix_wright
+  ChipOffset: {x: 0, y: 0}
+  beanCost: 0
+  starCost: 0
+  paidOnMobile: 0
+  limitedTime:
+    timeStart:
+      limitedYear: 2026
+      limitedMonth: 2
+      limitedDay: 17
+      limitedHour: 18
+      limitedMinute: 0
+    timeEnd:
+      limitedYear: 2026
+      limitedMonth: 3
+      limitedDay: 17
+      limitedHour: 18
+      limitedMinute: 0
+  displayOrder: 0
+  NotInStore: 1
+  Free: 0
+  PreviewData:
+    m_AssetGUID: 4e529953b64db41b588690065ed3b554
+    m_SubObjectName:
+    m_SubObjectType:
+  PreviewCrewmateColor: 0
+  ViewDataRef:
+    m_AssetGUID: e876946257662429cb98013c6b30c92d
+    m_SubObjectName:
+    m_SubObjectType:
+  StoreName:

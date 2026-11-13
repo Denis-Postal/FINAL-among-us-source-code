@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 825ac4e4914361a3d7ea08f1b54d9d4f, type: 3}
+  m_Name: _Cube_MIRA
+  m_EditorClassIdentifier:
+  StoreImageRef:
+    m_AssetGUID: 890cc9fedddfe4bc5ba14938ea49f776
+    m_SubObjectName: cosmicube_MIRA
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  CosmicubePrefabRef:
+    m_AssetGUID: ef289b4af30c6e84798711cebb81e204
+    m_SubObjectName:
+    m_SubObjectType:
+  podIconRef:
+    m_AssetGUID: d71b1c0e41c744871ae23eb4cc99edc8
+    m_SubObjectName: UI_Currency_MIRA
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  DateCreated:
+  allUnlockables:
+  - {fileID: 11400000, guid: 6f6fcfcb3a382464d912c56a4b3ccb8f, type: 2}
+  - {fileID: 11400000, guid: aad7c6260081b264180ebc73259306ac, type: 2}
+  - {fileID: 11400000, guid: b59c8a9e916d36d49982aca56a0d1675, type: 2}
+  - {fileID: 11400000, guid: 6ac301182be2b2e478afc1eaef143fec, type: 2}
+  - {fileID: 11400000, guid: f7521a02cc78350419edbda4751c2937, type: 2}
+  - {fileID: 11400000, guid: 4cae60b68a262a44ea61b8dee5731829, type: 2}
+  - {fileID: 11400000, guid: 6d1d176a244370c42b039209e94221da, type: 2}
+  - {fileID: 11400000, guid: a6c4179323f0f5242bae451bbc33ac00, type: 2}
+  - {fileID: 11400000, guid: 61659d9eccaf35146a8d047dbf6a3fb4, type: 2}
+  - {fileID: 11400000, guid: 43dafe7f2edd2e04dbfd4462aaf987a3, type: 2}
+  - {fileID: 11400000, guid: 01a62acfbde4c4b4f8e6d5513bede294, type: 2}
+  - {fileID: 11400000, guid: 39b3d071a0fe60d49be0f498aa63fe19, type: 2}
+  - {fileID: 11400000, guid: c72ff495b8ea70f4d99de6e80600cd32, type: 2}
+  - {fileID: 11400000, guid: 32c4403021fded142a6013a2de18ff3b, type: 2}
+  - {fileID: 11400000, guid: ff1a89eecb1f0ee4bbc440092e757fe6, type: 2}
+  - {fileID: 11400000, guid: 677e9ed8020198d4da4152137850ae58, type: 2}
+  - {fileID: 11400000, guid: 2e29d61e7c4449946a0cf3113707ce4a, type: 2}
+  - {fileID: 11400000, guid: 94147c51623c45d4b909699c7089ec3e, type: 2}
+  - {fileID: 11400000, guid: 34b9d9e1c4f2daf4aa179491e0bc1bc4, type: 2}
+  - {fileID: 11400000, guid: 2feed02ed7632cf42a66ed7c5cef58cd, type: 2}
+  - {fileID: 11400000, guid: 9aa707447d2bdee428eb0589959817e9, type: 2}
+  - {fileID: 11400000, guid: a74d9a09a95a2464688febe4a1166d30, type: 2}
+  - {fileID: 11400000, guid: 0edf7daac84de7445ac79dfe05d29dd7, type: 2}
+  - {fileID: 11400000, guid: 024bafd03e0729e47b883a02b7ed0b09, type: 2}
+  - {fileID: 11400000, guid: b5807aeea6ce71243b89fec5f060523c, type: 2}
+  - {fileID: 11400000, guid: c76d92cb612a8164d92aa45ec4a31286, type: 2}
+  - {fileID: 11400000, guid: c8b038406de23854fa225a7547c09070, type: 2}
+  - {fileID: 11400000, guid: b4aad29a7d1767143bea757f80903a68, type: 2}
+  - {fileID: 11400000, guid: 2afb5432bc1e8684d888485a7e53c9f8, type: 2}
+  - {fileID: 11400000, guid: 3d8b2a215096cf04f9ee17ce69d72a8c, type: 2}
+  - {fileID: 11400000, guid: d12ff0ba99bbb544ea2ff6a90f173413, type: 2}
+  - {fileID: 11400000, guid: 71185eb6c90f7574baefbb7ff433cdc5, type: 2}
+  - {fileID: 11400000, guid: 8f753efd6f9d3a7419e344630cd97b3a, type: 2}
+  - {fileID: 11400000, guid: 3a8e2c33696f5f64598afb36e453e341, type: 2}
+  - {fileID: 11400000, guid: 67e813deaba27ad42bdc71b3e76fed83, type: 2}
+  - {fileID: 11400000, guid: 132d3f983d8ac6f4c8a2ff10d828c426, type: 2}
+  - {fileID: 11400000, guid: 728396700caa079479c819453b1b8140, type: 2}
+  starCost: 0
+  beanCost: 0
+  Order: 0
+  Free: 1
+  NotInStore: 1
+  XRange:
+    min: -1.4
+    max: 1.4
+  YRange:
+    min: -0.3
+    max: 0.57
+  podId: mira
+  productId: cube_mira
+  cosmicubeName: MIRA
+  limitedTime:
+    timeStart:
+      limitedYear: 0
+      limitedMonth: 0
+      limitedDay: 0
+      limitedHour: 0
+      limitedMinute: 0
+    timeEnd:
+      limitedYear: 0
+      limitedMonth: 0
+      limitedDay: 0
+      limitedHour: 0
+      limitedMinute: 0
+  epicId:

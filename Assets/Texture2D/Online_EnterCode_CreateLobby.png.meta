@@ -1,0 +1,527 @@
+fileFormatVersion: 2
+guid: 01ecc6ca6c90ad44485a84d68f3ced86
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: IMAGE-FindGame-Click
+  - first:
+      213: 21300002
+    second: IMAGE-ErrorPrompt
+  - first:
+      213: 21300004
+    second: IMAGE-CreateLobby-Click
+  - first:
+      213: 21300006
+    second: IMAGE-EnterCode-Inactive
+  - first:
+      213: 21300008
+    second: IMAGE-EnterCode-Click
+  - first:
+      213: 21300010
+    second: IMAGE-FindGame-Inactive
+  - first:
+      213: 21300012
+    second: IMAGE-EnterCode-Hover
+  - first:
+      213: 21300014
+    second: IMAGE-CreateLobby-Hover
+  - first:
+      213: 21300016
+    second: IMAGE-CreateLobby-Inactive
+  - first:
+      213: 21300018
+    second: IMAGE-FindGame-Hover
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IMAGE-FindGame-Click
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 240
+        width: 450
+        height: 528
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -225, y: -264}
+        - {x: -225, y: 264}
+        - {x: 225, y: 264}
+        - {x: 225, y: -264}
+      physicsShape:
+      - - {x: 223, y: 264}
+        - {x: -223, y: 264}
+        - {x: -223, y: -258}
+        - {x: 223, y: -258}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c407596731f4f559d3ca39b2fc8843f
+      internalID: 21300000
+      vertices:
+      - {x: 450, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 528}
+      - {x: 450, y: 528}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMAGE-ErrorPrompt
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 770
+        width: 1317.9238
+        height: 557
+      alignment: 9
+      pivot: {x: 0.5007877, y: 0.5}
+      border: {x: 53, y: 61, z: 53.92383, w: 41}
+      customData: 
+      outline:
+      - - {x: 661.0381, y: -278.5}
+        - {x: -658.9619, y: -278.5}
+        - {x: -658.9619, y: 278.5}
+        - {x: 661.0381, y: 278.5}
+      physicsShape:
+      - - {x: 654.0381, y: 252.49998}
+        - {x: 635.038, y: 276.5}
+        - {x: 621.0381, y: 278.5}
+        - {x: -622.9619, y: 278.5}
+        - {x: -637.9619, y: 271.5}
+        - {x: -647.9619, y: 261.5}
+        - {x: -655.9619, y: 245.5}
+        - {x: -655.9619, y: -229.49998}
+        - {x: -651.9619, y: -253.49998}
+        - {x: -627.9619, y: -273.5}
+        - {x: -624.9619, y: -273.5}
+        - {x: -613.9619, y: -271.5}
+        - {x: 0.038085938, y: -273.5}
+        - {x: 586.0381, y: -273.5}
+        - {x: 618.0381, y: -271.5}
+        - {x: 637.038, y: -264.5}
+        - {x: 654.0381, y: -239.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4007a29d764d8ba4878a6079513038
+      internalID: 21300002
+      vertices:
+      - {x: -1.0380859, y: 0}
+      - {x: 1318.9619, y: 0}
+      - {x: -1.0380859, y: 557}
+      - {x: 1318.9619, y: 557}
+      indices: 000000000200000001000000010000000200000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMAGE-CreateLobby-Click
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 1
+        width: 378
+        height: 264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -189, y: -132}
+        - {x: -189, y: 132}
+        - {x: 189, y: 132}
+        - {x: 189, y: -132}
+      physicsShape:
+      - - {x: -187, y: 132}
+        - {x: -187, y: -126}
+        - {x: 187, y: -126}
+        - {x: 187, y: 132}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f999a8fcfd14d6ba09c38c2c776d172
+      internalID: 21300004
+      vertices:
+      - {x: 378, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 264}
+      - {x: 378, y: 264}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMAGE-EnterCode-Inactive
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 504
+        width: 378
+        height: 264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -189, y: -132}
+        - {x: -189, y: 132}
+        - {x: 189, y: 132}
+        - {x: 189, y: -132}
+      physicsShape:
+      - - {x: -181, y: 132}
+        - {x: -187, y: 125}
+        - {x: -187, y: -126}
+        - {x: 187, y: -126}
+        - {x: 187, y: 132}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf98516984a474a8087dff04db1217a
+      internalID: 21300006
+      vertices:
+      - {x: 378, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 264}
+      - {x: 378, y: 264}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMAGE-EnterCode-Click
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 533
+        width: 378
+        height: 264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -189, y: -132}
+        - {x: -189, y: 132}
+        - {x: 189, y: 132}
+        - {x: 189, y: -132}
+      physicsShape:
+      - - {x: -187, y: 132}
+        - {x: -187, y: -126}
+        - {x: 187, y: -126}
+        - {x: 187, y: 132}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1ca29c53f54ba38b11a20a94e98228
+      internalID: 21300008
+      vertices:
+      - {x: 378, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 264}
+      - {x: 378, y: 264}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMAGE-FindGame-Inactive
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 799
+        width: 450
+        height: 528
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -225, y: -264}
+        - {x: -225, y: 264}
+        - {x: 225, y: 264}
+        - {x: 225, y: -264}
+      physicsShape:
+      - - {x: -223, y: 264}
+        - {x: -223, y: -258}
+        - {x: 223, y: -258}
+        - {x: 223, y: 264}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376e260aa4514aaa9253aac3d2bac809
+      internalID: 21300010
+      vertices:
+      - {x: 450, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 528}
+      - {x: 450, y: 528}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMAGE-EnterCode-Hover
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 238
+        width: 378
+        height: 264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -189, y: -132}
+        - {x: -189, y: 132}
+        - {x: 189, y: 132}
+        - {x: 189, y: -132}
+      physicsShape:
+      - - {x: -187, y: 132}
+        - {x: -187, y: -126}
+        - {x: 187, y: -126}
+        - {x: 187, y: 132}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598dff49f2fc41f9b9f9524b701fb3cf
+      internalID: 21300012
+      vertices:
+      - {x: 378, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 264}
+      - {x: 378, y: 264}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMAGE-CreateLobby-Hover
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 267
+        width: 378
+        height: 264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -189, y: -132}
+        - {x: -189, y: 132}
+        - {x: 189, y: 132}
+        - {x: 189, y: -132}
+      physicsShape:
+      - - {x: -187, y: 132}
+        - {x: -187, y: -126}
+        - {x: 187, y: -126}
+        - {x: 187, y: 132}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9264519eb943e4a18f93c7c6e381bc
+      internalID: 21300014
+      vertices:
+      - {x: 378, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 264}
+      - {x: 378, y: 264}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMAGE-CreateLobby-Inactive
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 267
+        width: 378
+        height: 264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -189, y: -132}
+        - {x: -189, y: 132}
+        - {x: 189, y: 132}
+        - {x: 189, y: -132}
+      physicsShape:
+      - - {x: -181, y: 132}
+        - {x: -187, y: 125}
+        - {x: -187, y: -126}
+        - {x: 187, y: -126}
+        - {x: 187, y: 132}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4ca37bbc7c4207945fd3acbaf2a8c9
+      internalID: 21300016
+      vertices:
+      - {x: 378, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 264}
+      - {x: 378, y: 264}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMAGE-FindGame-Hover
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 240
+        width: 450
+        height: 528
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -225, y: -264}
+        - {x: -225, y: 264}
+        - {x: 225, y: 264}
+        - {x: 225, y: -264}
+      physicsShape:
+      - - {x: 223, y: 264}
+        - {x: -223, y: 264}
+        - {x: -223, y: -258}
+        - {x: 223, y: -258}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d697071dbf0347148c10c9d048d2970b
+      internalID: 21300018
+      vertices:
+      - {x: 450, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 528}
+      - {x: 450, y: 528}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      IMAGE-CreateLobby-Click: 21300004
+      IMAGE-CreateLobby-Hover: 21300014
+      IMAGE-CreateLobby-Inactive: 21300016
+      IMAGE-EnterCode-Click: 21300008
+      IMAGE-EnterCode-Hover: 21300012
+      IMAGE-EnterCode-Inactive: 21300006
+      IMAGE-ErrorPrompt: 21300002
+      IMAGE-FindGame-Click: 21300000
+      IMAGE-FindGame-Hover: 21300018
+      IMAGE-FindGame-Inactive: 21300010
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

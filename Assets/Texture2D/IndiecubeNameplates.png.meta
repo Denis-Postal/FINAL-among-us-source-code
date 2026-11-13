@@ -1,0 +1,601 @@
+fileFormatVersion: 2
+guid: e20ac028811d2364c96700e937b0c54f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: 2023_indie_bean_nameplate_battlefield
+  - first:
+      213: 21300002
+    second: 2023_indie_bean_nameplate_honk
+  - first:
+      213: 21300004
+    second: 2023_indie_bean_nameplate_dungeonFloor
+  - first:
+      213: 21300006
+    second: 2023_indie_bean_nameplate_hominid
+  - first:
+      213: 21300008
+    second: 2023_indie_bean_nameplate_hourglass
+  - first:
+      213: 21300010
+    second: 2023_indie_bean_nameplate_shadows
+  - first:
+      213: 21300012
+    second: 2023_indie_bean_nameplate_torch
+  - first:
+      213: 21300014
+    second: 2023_indie_bean_nameplate_flyingStrawberry
+  - first:
+      213: 21300016
+    second: 2023_indie_bean_nameplate_flowers
+  - first:
+      213: 21300018
+    second: 2023_indie_bean_nameplate_knife
+  - first:
+      213: 21300020
+    second: 2023_indie_bean_nameplate_Celeste
+  - first:
+      213: 21300022
+    second: 2023_indie_bean_nameplate_fight
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2023_indie_bean_nameplate_battlefield
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 138
+        width: 273
+        height: 65
+      alignment: 9
+      pivot: {x: 0.50183153, y: 0.4923077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -136.5, y: -32.5}
+        - {x: -136.5, y: 32.5}
+        - {x: 136.5, y: 32.5}
+        - {x: 136.5, y: -32.5}
+      physicsShape:
+      - - {x: -134.5, y: 32.5}
+        - {x: -136.5, y: 28.5}
+        - {x: -136.5, y: -32.5}
+        - {x: 136.5, y: -32.5}
+        - {x: 136.5, y: 32.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688739252f6f4abfa3f1466deb41095f
+      internalID: 21300000
+      vertices:
+      - {x: 272.5, y: 0.5}
+      - {x: -0.50001526, y: 0.5}
+      - {x: -0.50001526, y: 65.5}
+      - {x: 272.5, y: 65.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2023_indie_bean_nameplate_honk
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 341
+        width: 273
+        height: 66
+      alignment: 9
+      pivot: {x: 0.50183153, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -136.5, y: -33}
+        - {x: -136.5, y: 33}
+        - {x: 136.5, y: 33}
+        - {x: 136.5, y: -33}
+      physicsShape:
+      - - {x: -136.5, y: 33}
+        - {x: -136.5, y: -24}
+        - {x: -135.5, y: -33}
+        - {x: 136.5, y: -33}
+        - {x: 136.5, y: 33}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4954df400964b98a726f9e114361615
+      internalID: 21300002
+      vertices:
+      - {x: 272.5, y: 0}
+      - {x: -0.50001526, y: 0}
+      - {x: -0.50001526, y: 66}
+      - {x: 272.5, y: 66}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2023_indie_bean_nameplate_dungeonFloor
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 681
+        width: 276
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -138, y: -33.5}
+        - {x: -138, y: 33.5}
+        - {x: 138, y: 33.5}
+        - {x: 138, y: -33.5}
+      physicsShape:
+      - - {x: 135, y: 33.5}
+        - {x: -138, y: 33.5}
+        - {x: -138, y: -33.5}
+        - {x: 137, y: -33.5}
+        - {x: 138, y: -29.5}
+        - {x: 138, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3931231dddc41acb01ce66a520c5e64
+      internalID: 21300004
+      vertices:
+      - {x: 276, y: 0.5}
+      - {x: 0, y: 0.5}
+      - {x: 0, y: 67.5}
+      - {x: 276, y: 67.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2023_indie_bean_nameplate_hominid
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 409
+        width: 273
+        height: 66
+      alignment: 9
+      pivot: {x: 0.50183153, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -136.5, y: -33}
+        - {x: -136.5, y: 33}
+        - {x: 136.5, y: 33}
+        - {x: 136.5, y: -33}
+      physicsShape:
+      - - {x: -136.5, y: 33}
+        - {x: -136.5, y: -24}
+        - {x: -135.5, y: -33}
+        - {x: 136.5, y: -33}
+        - {x: 136.5, y: 33}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2de53b74f14432a8b1a4da1bd1e16ac
+      internalID: 21300006
+      vertices:
+      - {x: 272.5, y: 0}
+      - {x: -0.50001526, y: 0}
+      - {x: -0.50001526, y: 66}
+      - {x: 272.5, y: 66}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2023_indie_bean_nameplate_hourglass
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 273
+        width: 273
+        height: 66
+      alignment: 9
+      pivot: {x: 0.50183153, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -136.5, y: -33}
+        - {x: -136.5, y: 33}
+        - {x: 136.5, y: 33}
+        - {x: 136.5, y: -33}
+      physicsShape:
+      - - {x: -136.5, y: 33}
+        - {x: -136.5, y: -24}
+        - {x: -135.5, y: -33}
+        - {x: 136.5, y: -33}
+        - {x: 136.5, y: 33}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496a2d7a37d440829d405927db287def
+      internalID: 21300008
+      vertices:
+      - {x: 272.5, y: 0}
+      - {x: -0.50001526, y: 0}
+      - {x: -0.50001526, y: 66}
+      - {x: 272.5, y: 66}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2023_indie_bean_nameplate_shadows
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 205
+        width: 273
+        height: 66
+      alignment: 9
+      pivot: {x: 0.50183153, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -136.5, y: -33}
+        - {x: -136.5, y: 33}
+        - {x: 136.5, y: 33}
+        - {x: 136.5, y: -33}
+      physicsShape:
+      - - {x: -136.5, y: 33}
+        - {x: -136.5, y: -24}
+        - {x: -135.5, y: -33}
+        - {x: 136.5, y: -33}
+        - {x: 136.5, y: 33}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71147da36e024aa9954d25d635a0f5f5
+      internalID: 21300010
+      vertices:
+      - {x: 272.5, y: 0}
+      - {x: -0.50001526, y: 0}
+      - {x: -0.50001526, y: 66}
+      - {x: 272.5, y: 66}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2023_indie_bean_nameplate_torch
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4
+        width: 273
+        height: 65
+      alignment: 9
+      pivot: {x: 0.50183153, y: 0.4923077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -136.5, y: -32.5}
+        - {x: -136.5, y: 32.5}
+        - {x: 136.5, y: 32.5}
+        - {x: 136.5, y: -32.5}
+      physicsShape:
+      - - {x: -134.5, y: 32.5}
+        - {x: -136.5, y: 28.5}
+        - {x: -136.5, y: -32.5}
+        - {x: 136.5, y: -32.5}
+        - {x: 136.5, y: 32.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4bc166fa62421b828846d0392c0ee4
+      internalID: 21300012
+      vertices:
+      - {x: 272.5, y: 0.5}
+      - {x: -0.50001526, y: 0.5}
+      - {x: -0.50001526, y: 65.5}
+      - {x: 272.5, y: 65.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2023_indie_bean_nameplate_flyingStrawberry
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 477
+        width: 273
+        height: 66
+      alignment: 9
+      pivot: {x: 0.50183153, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -136.5, y: -33}
+        - {x: -136.5, y: 33}
+        - {x: 136.5, y: 33}
+        - {x: 136.5, y: -33}
+      physicsShape:
+      - - {x: -136.5, y: 33}
+        - {x: -136.5, y: -24}
+        - {x: -135.5, y: -33}
+        - {x: 136.5, y: -33}
+        - {x: 136.5, y: 33}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8ed6ab2e5f4823b468a6f9bc9bbb8c
+      internalID: 21300014
+      vertices:
+      - {x: 272.5, y: 0}
+      - {x: -0.50001526, y: 0}
+      - {x: -0.50001526, y: 66}
+      - {x: 272.5, y: 66}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2023_indie_bean_nameplate_flowers
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 750
+        width: 276
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5072464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -138, y: -34.5}
+        - {x: -138, y: 34.5}
+        - {x: 138, y: 34.5}
+        - {x: 138, y: -34.5}
+      physicsShape:
+      - - {x: -138, y: 34.5}
+        - {x: -138, y: -26.499998}
+        - {x: -133, y: -34.5}
+        - {x: 138, y: -34.5}
+        - {x: 138, y: 34.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5f55938b0f4517a1fee25a09d29b6f
+      internalID: 21300016
+      vertices:
+      - {x: 276, y: -0.5}
+      - {x: 0, y: -0.5}
+      - {x: 0, y: 68.5}
+      - {x: 276, y: 68.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2023_indie_bean_nameplate_knife
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 71
+        width: 273
+        height: 65
+      alignment: 9
+      pivot: {x: 0.50183153, y: 0.4923077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -136.5, y: -32.5}
+        - {x: -136.5, y: 32.5}
+        - {x: 136.5, y: 32.5}
+        - {x: 136.5, y: -32.5}
+      physicsShape:
+      - - {x: -134.5, y: 32.5}
+        - {x: -136.5, y: 28.5}
+        - {x: -136.5, y: -32.5}
+        - {x: 136.5, y: -32.5}
+        - {x: 136.5, y: 32.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f585cb2a447b4064adf9e9e6e2f32dc0
+      internalID: 21300018
+      vertices:
+      - {x: 272.5, y: 0.5}
+      - {x: -0.50001526, y: 0.5}
+      - {x: -0.50001526, y: 65.5}
+      - {x: 272.5, y: 65.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2023_indie_bean_nameplate_Celeste
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 613
+        width: 273
+        height: 66
+      alignment: 9
+      pivot: {x: 0.50183153, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -136.5, y: -33}
+        - {x: -136.5, y: 33}
+        - {x: 136.5, y: 33}
+        - {x: 136.5, y: -33}
+      physicsShape:
+      - - {x: -136.5, y: 33}
+        - {x: -136.5, y: -24}
+        - {x: -135.5, y: -33}
+        - {x: 136.5, y: -33}
+        - {x: 136.5, y: 33}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cd51338b5244a98f1b6d73d5beed61
+      internalID: 21300020
+      vertices:
+      - {x: 272.5, y: 0}
+      - {x: -0.50001526, y: 0}
+      - {x: -0.50001526, y: 66}
+      - {x: 272.5, y: 66}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2023_indie_bean_nameplate_fight
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 545
+        width: 273
+        height: 66
+      alignment: 9
+      pivot: {x: 0.50183153, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -136.5, y: -33}
+        - {x: -136.5, y: 33}
+        - {x: 136.5, y: 33}
+        - {x: 136.5, y: -33}
+      physicsShape:
+      - - {x: -136.5, y: 33}
+        - {x: -136.5, y: -24}
+        - {x: -135.5, y: -33}
+        - {x: 136.5, y: -33}
+        - {x: 136.5, y: 33}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf470fd99674d3d8c5cb8104d2624f8
+      internalID: 21300022
+      vertices:
+      - {x: 272.5, y: 0}
+      - {x: -0.50001526, y: 0}
+      - {x: -0.50001526, y: 66}
+      - {x: 272.5, y: 66}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      2023_indie_bean_nameplate_Celeste: 21300020
+      2023_indie_bean_nameplate_battlefield: 21300000
+      2023_indie_bean_nameplate_dungeonFloor: 21300004
+      2023_indie_bean_nameplate_fight: 21300022
+      2023_indie_bean_nameplate_flowers: 21300016
+      2023_indie_bean_nameplate_flyingStrawberry: 21300014
+      2023_indie_bean_nameplate_hominid: 21300006
+      2023_indie_bean_nameplate_honk: 21300002
+      2023_indie_bean_nameplate_hourglass: 21300008
+      2023_indie_bean_nameplate_knife: 21300018
+      2023_indie_bean_nameplate_shadows: 21300010
+      2023_indie_bean_nameplate_torch: 21300012
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

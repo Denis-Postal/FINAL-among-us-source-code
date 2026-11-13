@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e682920d06ace206449b8bffeed2bc08, type: 3}
+  m_Name: DetectiveNotes
+  m_EditorClassIdentifier:
+  Image: {fileID: 21300006, guid: 8833a359ba8d06a4fae28965f072cff0, type: 3}
+  SecondImage: {fileID: 21300008, guid: 8833a359ba8d06a4fae28965f072cff0, type: 3}
+  Text: 4002
+  FontMaterial: {fileID: 2100000, guid: 2956e54bc136f104aa118ccc411f7c9e, type: 2}
+  AbilityType: 2

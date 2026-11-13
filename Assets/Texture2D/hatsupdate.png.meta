@@ -1,0 +1,553 @@
+fileFormatVersion: 2
+guid: 9ca03a237d934bd458f11f163b2d70c4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: hat_pack03_Stickynote0004
+  - first:
+      213: 21300002
+    second: hat_pack02_Tengallon0002
+  - first:
+      213: 21300004
+    second: hat_pack02_Tengallon0001
+  - first:
+      213: 21300006
+    second: hat_pack01_Astronaut0001
+  - first:
+      213: 21300008
+    second: hat_pack04_Geoffmask0001
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 25
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hat_pack03_Stickynote0004
+      rect:
+        serializedVersion: 2
+        x: 485.0761
+        y: 1789
+        width: 102.92388
+        height: 68.92388
+      alignment: 9
+      pivot: {x: -0.00073948666, y: 0.7399467}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -46.53805, y: -10.461939}
+        - {x: -53.53805, y: 28.53806}
+        - {x: 7.4619446, y: 35.53806}
+        - {x: 51.46195, y: -8.461941}
+        - {x: -25.538052, y: -34.46194}
+      physicsShape:
+      - - {x: 36.46195, y: -32.461937}
+        - {x: 36.46195, y: -34.46194}
+        - {x: 51.46195, y: -34.46194}
+        - {x: 51.46195, y: -23.461937}
+        - {x: 47.46194, y: -24.46194}
+      - - {x: 36.46195, y: -5.461941}
+        - {x: 9.461948, y: 33.53806}
+        - {x: 6.4619484, y: 34.53806}
+        - {x: -2.5380554, y: 34.53806}
+        - {x: -47.53805, y: 28.53806}
+        - {x: -50.53805, y: 27.53806}
+        - {x: -50.53805, y: 11.538059}
+        - {x: -49.53805, y: -2.4619408}
+        - {x: -36.53805, y: -21.46194}
+        - {x: -25.538052, y: -31.46194}
+        - {x: -15.538052, y: -31.46194}
+        - {x: -10.538052, y: -30.46194}
+        - {x: 14.461948, y: -20.46194}
+        - {x: 30.461948, y: -16.46194}
+        - {x: 36.46195, y: -11.461941}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae6b08fc77243e3a0e236d38ed72609
+      internalID: 21300000
+      vertices:
+      - {x: 154.46194, y: 9.461941}
+      - {x: 77.461945, y: -16.53806}
+      - {x: 56.46194, y: 7.4619427}
+      - {x: 49.46194, y: 46.46194}
+      - {x: 110.46194, y: 53.46194}
+      indices: 020000000300000004000000010000000200000004000000000000000100000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pack02_Tengallon0002
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 989
+        width: 188
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5265958, y: 0.3181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -32, y: 50}
+        - {x: 3, y: 66}
+        - {x: 34, y: 50}
+        - {x: 46, y: 15.999996}
+        - {x: 94, y: -9.000001}
+        - {x: 68, y: -60}
+        - {x: -2, y: -66}
+        - {x: -84, y: -51}
+        - {x: -94, y: -4.000002}
+        - {x: -48, y: 18}
+      physicsShape:
+      - - {x: 89.00001, y: -42}
+        - {x: 78, y: -49}
+        - {x: 74.00001, y: -59}
+        - {x: 73.00001, y: -63.999996}
+        - {x: 73.00001, y: -66}
+        - {x: 94.00001, y: -66}
+        - {x: 94.00001, y: -42}
+      - - {x: 85, y: -25}
+        - {x: 85, y: -9.000001}
+        - {x: 81.00001, y: -5}
+        - {x: 67.00001, y: 4}
+        - {x: 44.000008, y: 4}
+        - {x: 45.000004, y: 15.999996}
+        - {x: 36.000008, y: 47}
+        - {x: 22.000008, y: 57}
+        - {x: 7.0000076, y: 58}
+        - {x: -14.99999, y: 58}
+        - {x: -26.999992, y: 52}
+        - {x: -33.999992, y: 45}
+        - {x: -40.99999, y: 28.999996}
+        - {x: -41.999992, y: -5}
+        - {x: -51.999992, y: 1}
+        - {x: -60.999992, y: 4}
+        - {x: -73.99999, y: 5.999998}
+        - {x: -87.99999, y: -5}
+        - {x: -88.99999, y: -9.000001}
+        - {x: -88.99999, y: -29}
+        - {x: -76.99999, y: -43}
+        - {x: -61.999985, y: -52}
+        - {x: -21.99999, y: -63}
+        - {x: 35.000008, y: -63}
+        - {x: 52.000008, y: -58}
+        - {x: 70.00001, y: -47}
+        - {x: 84.00001, y: -33}
+      - - {x: -93.999985, y: 66}
+        - {x: -93.999985, y: 10}
+        - {x: -84.99999, y: 10}
+        - {x: -79.99999, y: 23}
+        - {x: -79.99999, y: 64}
+        - {x: -82.99999, y: 66}
+      - - {x: 24.000008, y: 66}
+        - {x: 24.000008, y: 64}
+        - {x: 25.000006, y: 53}
+        - {x: 66.00001, y: 53}
+        - {x: 74.00001, y: 61.999992}
+        - {x: 74.00001, y: 66}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d19ccbb5e554d0fa0177473efb19314
+      internalID: 21300002
+      vertices:
+      - {x: 122.99999, y: 140}
+      - {x: 135, y: 106}
+      - {x: 183, y: 81}
+      - {x: 157, y: 30}
+      - {x: 86.99999, y: 24}
+      - {x: 4.9999924, y: 39}
+      - {x: -5.0000076, y: 86}
+      - {x: 40.999992, y: 108}
+      - {x: 56.999992, y: 140}
+      - {x: 91.99999, y: 156}
+      indices: 000000000800000009000000050000000600000007000000080000000000000001000000040000000500000007000000010000000300000004000000010000000200000003000000010000000400000007000000080000000100000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pack02_Tengallon0001
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 1721
+        width: 191
+        height: 138
+      alignment: 9
+      pivot: {x: 0.565445, y: 0.06521739}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -46.5, y: 25}
+        - {x: -38.5, y: 65}
+        - {x: 22.5, y: 69}
+        - {x: 53.499996, y: 16}
+        - {x: 95.5, y: 16}
+        - {x: 84.5, y: -43}
+        - {x: -10.5, y: -69}
+        - {x: -95.5, y: -43}
+        - {x: -78.5, y: -9}
+      physicsShape:
+      - - {x: -88.50001, y: -60}
+        - {x: -95.5, y: -66}
+        - {x: -95.5, y: -69}
+        - {x: -42.500008, y: -69}
+        - {x: -42.500008, y: -66}
+        - {x: -49.500008, y: -60}
+      - - {x: 57.499992, y: -54}
+        - {x: 39.499992, y: -58}
+        - {x: 31.499992, y: -68}
+        - {x: 31.499992, y: -69}
+        - {x: 95.49999, y: -69}
+        - {x: 95.49999, y: -60}
+        - {x: 89.49999, y: -54}
+      - - {x: 89.49999, y: -19}
+        - {x: 89.49999, y: -0.0000038146973}
+        - {x: 88.49999, y: 6}
+        - {x: 74.49999, y: 16}
+        - {x: 58.49999, y: 17}
+        - {x: 45.499992, y: 14}
+        - {x: 37.499992, y: 44.999992}
+        - {x: 30.499992, y: 56}
+        - {x: 16.499992, y: 67}
+        - {x: -5.5000076, y: 67}
+        - {x: -21.500008, y: 66}
+        - {x: -37.500008, y: 51}
+        - {x: -42.500008, y: 42}
+        - {x: -44.500008, y: 30}
+        - {x: -41.500004, y: -7.000004}
+        - {x: -57.500008, y: -2}
+        - {x: -66.50001, y: -1.0000038}
+        - {x: -78.50001, y: -8}
+        - {x: -82.50001, y: -19}
+        - {x: -82.50001, y: -32}
+        - {x: -80.50001, y: -37}
+        - {x: -80.50001, y: -42}
+        - {x: -56.500008, y: -57}
+        - {x: -47.500004, y: -56}
+        - {x: -27.500004, y: -59}
+        - {x: 20.499992, y: -59}
+        - {x: 52.49999, y: -51}
+        - {x: 70.49999, y: -41}
+        - {x: 85.499985, y: -25}
+      - - {x: -85.5, y: 56.999992}
+        - {x: -95.5, y: 56.999992}
+        - {x: -95.5, y: 12}
+        - {x: -70.50001, y: 12}
+        - {x: -67.5, y: 16}
+        - {x: -67.5, y: 30}
+        - {x: -74.50001, y: 54}
+      - - {x: 65.499985, y: 69}
+        - {x: 58.49999, y: 60.999992}
+        - {x: 58.49999, y: 27}
+        - {x: 60.499992, y: 22}
+        - {x: 85.499985, y: 22}
+        - {x: 95.49999, y: 25.999992}
+        - {x: 95.49999, y: 69}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c326d1b965834a97802ed8d66f7733f6
+      internalID: 21300004
+      vertices:
+      - {x: 136.5, y: 145}
+      - {x: 178.5, y: 145}
+      - {x: 167.5, y: 86}
+      - {x: 72.50001, y: 60}
+      - {x: -12.499992, y: 86}
+      - {x: 4.5000076, y: 120}
+      - {x: 36.500008, y: 154}
+      - {x: 44.500008, y: 194}
+      - {x: 105.50001, y: 198}
+      indices: 060000000700000008000000000000000600000008000000030000000500000006000000030000000400000005000000000000000200000003000000000000000100000002000000000000000300000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pack01_Astronaut0001
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 698
+        width: 130
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5769231, y: 0.042016808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -32, y: 52.499992}
+        - {x: 20, y: 59.5}
+        - {x: 65, y: 37.499992}
+        - {x: 65, y: -35.5}
+        - {x: 24, y: -38.5}
+        - {x: -34, y: -59.5}
+        - {x: -65, y: 4.499996}
+      physicsShape:
+      - - {x: -61, y: -17.5}
+        - {x: -65, y: -16.5}
+        - {x: -65, y: -59.5}
+        - {x: -49.999996, y: -59.5}
+        - {x: -49.999996, y: -36.5}
+        - {x: -54, y: -24.500002}
+      - - {x: 7, y: -50.5}
+        - {x: 7, y: -59.5}
+        - {x: 65, y: -59.5}
+        - {x: 65, y: -50.5}
+      - - {x: 58.999996, y: -33.5}
+        - {x: 62.999996, y: -6.5}
+        - {x: 65, y: -0.5000038}
+        - {x: 65, y: 15.5}
+        - {x: 62, y: 29.5}
+        - {x: 58.999996, y: 37.499992}
+        - {x: 36, y: 54.5}
+        - {x: 27, y: 55.5}
+        - {x: -7, y: 55.5}
+        - {x: -16.999998, y: 54.5}
+        - {x: -28, y: 49.5}
+        - {x: -45, y: 34.5}
+        - {x: -56, y: 13.5}
+        - {x: -56, y: -10.5}
+        - {x: -55, y: -17.5}
+        - {x: -32.999996, y: -55.5}
+        - {x: -27, y: -55.5}
+        - {x: -6, y: -44.5}
+        - {x: 21, y: -35.5}
+        - {x: 55.999996, y: -35.5}
+      - - {x: -65, y: 59.5}
+        - {x: -65, y: 52.499992}
+        - {x: -55, y: 52.499992}
+        - {x: -48, y: 57.5}
+        - {x: -48, y: 59.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0e3c2b5b89407ab47ffb93518df87d
+      internalID: 21300006
+      vertices:
+      - {x: 120, y: 151.5}
+      - {x: 120, y: 78.5}
+      - {x: 79, y: 75.5}
+      - {x: 21, y: 54.5}
+      - {x: -10, y: 118.5}
+      - {x: 23, y: 166.5}
+      - {x: 75, y: 173.5}
+      indices: 020000000500000006000000040000000200000003000000040000000500000002000000000000000100000002000000000000000200000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pack04_Geoffmask0001
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 1319
+        width: 153
+        height: 141
+      alignment: 9
+      pivot: {x: 0.41830066, y: 0.4822695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -38.5, y: 4.5}
+        - {x: -25.5, y: 65.5}
+        - {x: 15.5, y: 70.49999}
+        - {x: 55.5, y: 64.49999}
+        - {x: 76.5, y: 4.5}
+        - {x: 53.5, y: -51.499996}
+        - {x: 26.5, y: -70.5}
+        - {x: -8.5, y: -60.5}
+        - {x: -22.5, y: -34.5}
+        - {x: -76.5, y: -10.5}
+        - {x: -75.5, y: 14.5}
+      physicsShape:
+      - - {x: -74.5, y: -48.499996}
+        - {x: -76.5, y: -49.5}
+        - {x: -76.5, y: -70.5}
+        - {x: -16.5, y: -70.5}
+        - {x: -16.5, y: -63.5}
+        - {x: -36.5, y: -48.499996}
+      - - {x: 68.5, y: 22.5}
+        - {x: 66.5, y: 38.5}
+        - {x: 61.5, y: 46.499996}
+        - {x: 44.5, y: 65.5}
+        - {x: 25.5, y: 69.5}
+        - {x: 7.499998, y: 69.5}
+        - {x: -3.5, y: 66.5}
+        - {x: -14.5, y: 60.5}
+        - {x: -30.5, y: 40.499996}
+        - {x: -32.5, y: -4.5}
+        - {x: -51.5, y: 0.5}
+        - {x: -63.5, y: 11.5}
+        - {x: -71.5, y: 10.5}
+        - {x: -74.5, y: 7.499999}
+        - {x: -75.5, y: 5.5}
+        - {x: -76.5, y: 1.5}
+        - {x: -76.5, y: -6.5}
+        - {x: -73.5, y: -10.5}
+        - {x: -61.499996, y: -17.5}
+        - {x: -29.5, y: -19.5}
+        - {x: -27.5, y: -24.5}
+        - {x: -15.5, y: -48.499996}
+        - {x: 8.5, y: -66.5}
+        - {x: 28.5, y: -66.5}
+        - {x: 37.5, y: -63.5}
+        - {x: 58.5, y: -43.5}
+        - {x: 68.5, y: -10.5}
+      - - {x: 73.49999, y: -46.5}
+        - {x: 70.5, y: -50.5}
+        - {x: 70.5, y: -59.5}
+        - {x: 71.5, y: -61.499996}
+        - {x: 76.5, y: -61.499996}
+        - {x: 76.5, y: -46.5}
+      - - {x: 69.5, y: -35.5}
+        - {x: 69.5, y: -39.5}
+        - {x: 72.5, y: -41.5}
+        - {x: 76.5, y: -41.5}
+        - {x: 76.5, y: -30.5}
+        - {x: 72.5, y: -31.5}
+      - - {x: -76.5, y: 70.49999}
+        - {x: -76.5, y: 55.5}
+        - {x: -55.499996, y: 55.5}
+        - {x: -35.5, y: 64.49999}
+        - {x: -35.5, y: 70.49999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63276e6e1fa049f88ea52b0bc1acc8ed
+      internalID: 21300008
+      vertices:
+      - {x: 144.5, y: 137.5}
+      - {x: 165.5, y: 77.5}
+      - {x: 142.5, y: 21.500004}
+      - {x: 115.5, y: 2.5}
+      - {x: 80.5, y: 12.5}
+      - {x: 66.5, y: 38.5}
+      - {x: 12.5, y: 62.5}
+      - {x: 13.5, y: 87.5}
+      - {x: 50.5, y: 77.5}
+      - {x: 63.5, y: 138.5}
+      - {x: 104.5, y: 143.5}
+      indices: 08000000090000000a00000006000000070000000800000005000000060000000800000001000000080000000a00000004000000020000000300000004000000050000000200000001000000020000000500000001000000050000000800000000000000010000000a000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hat_pack01_Astronaut0001: 21300006
+      hat_pack02_Tengallon0001: 21300004
+      hat_pack02_Tengallon0002: 21300002
+      hat_pack03_Stickynote0004: 21300000
+      hat_pack04_Geoffmask0001: 21300008
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

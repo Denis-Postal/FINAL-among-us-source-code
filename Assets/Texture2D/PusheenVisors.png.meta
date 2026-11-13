@@ -1,0 +1,849 @@
+fileFormatVersion: 2
+guid: 9f53245d5c50b724c9da32072478855c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: 2022_pusheen_visor_pusheenSmile0002
+  - first:
+      213: 21300002
+    second: 2022_pusheen_visor_pusheenKissy0001
+  - first:
+      213: 21300004
+    second: 2022_pusheen_visor_pusheenOmNomNom0001
+  - first:
+      213: 21300006
+    second: 2022_pusheen_visor_pusheenKissy0002
+  - first:
+      213: 21300008
+    second: 2022_pusheen_visor_pusheenKoolKat0001
+  - first:
+      213: 21300010
+    second: 2022_pusheen_visor_pusheenGorgeous0001
+  - first:
+      213: 21300012
+    second: 2022_pusheen_visor_pusheenKoolKat0002
+  - first:
+      213: 21300014
+    second: 2022_pusheen_visor_pusheenSmile0001
+  - first:
+      213: 21300016
+    second: 2022_pusheen_visor_pusheenOmNomNom0002
+  - first:
+      213: 21300018
+    second: 2022_pusheen_visor_pusheenYaaaaaay0002
+  - first:
+      213: 21300020
+    second: 2022_pusheen_visor_pusheenYaaaaaay0001
+  - first:
+      213: 21300022
+    second: 2022_pusheen_visor_pusheenGorgeous0002
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2022_pusheen_visor_pusheenSmile0002
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 97
+        width: 104
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5576923, y: 0.05263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -52, y: -9.5}
+        - {x: -52, y: 9.5}
+        - {x: 51.999996, y: 9.5}
+        - {x: 51.999996, y: -9.5}
+      physicsShape:
+      - - {x: -8.999999, y: -9.5}
+        - {x: 11, y: -9.5}
+        - {x: 11, y: 5.5}
+        - {x: -3, y: 5.5}
+        - {x: -8.999999, y: 3.5}
+      - - {x: -25, y: 0.5}
+        - {x: -23.999998, y: 2.5}
+        - {x: -23.999998, y: 6.499999}
+        - {x: -27, y: 9.5}
+        - {x: -42, y: 9.5}
+        - {x: -47.999996, y: 7.5}
+        - {x: -52, y: -4.5}
+        - {x: -52, y: -7.5}
+        - {x: -50, y: -8.5}
+        - {x: -31, y: -8.5}
+        - {x: -28, y: -6.5}
+        - {x: -26, y: -2.5}
+      - - {x: 32, y: 9.5}
+        - {x: 25, y: 1.499999}
+        - {x: 25, y: -8.5}
+        - {x: 48, y: -8.5}
+        - {x: 51.999996, y: -0.5}
+        - {x: 51.999996, y: 9.5}
+      - - {x: -8, y: 4.5}
+        - {x: -16.999998, y: 4.5}
+        - {x: -23, y: 1.499999}
+        - {x: -23, y: -4.5}
+        - {x: -20, y: -7.5}
+        - {x: -13.999998, y: -7.5}
+        - {x: -8.999999, y: -4.5}
+        - {x: -8, y: -1.5}
+      - - {x: 15.999999, y: 4.5}
+        - {x: 11, y: -0.5}
+        - {x: 11, y: -5.5}
+        - {x: 12, y: -7.5}
+        - {x: 20, y: -7.5}
+        - {x: 25, y: -6.5}
+        - {x: 25, y: 3.5}
+        - {x: 22, y: 4.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33185c6cf73242e883d574b61b538d83
+      internalID: 21300000
+      vertices:
+      - {x: 98, y: 8.5}
+      - {x: -6, y: 8.5}
+      - {x: -6, y: 27.5}
+      - {x: 98, y: 27.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_pusheen_visor_pusheenKissy0001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 139
+        width: 104
+        height: 26
+      alignment: 9
+      pivot: {x: 0.21153846, y: 1.2307693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -52, y: 13}
+        - {x: 52, y: 13}
+        - {x: 52, y: -5}
+        - {x: 3, y: -13}
+        - {x: -52, y: -7}
+      physicsShape:
+      - - {x: 52, y: -2}
+        - {x: 52, y: 11}
+        - {x: 51, y: 13}
+        - {x: 29.999996, y: 13}
+        - {x: 21, y: 8}
+        - {x: 11, y: 12}
+        - {x: 8, y: 13}
+        - {x: 2, y: 13}
+        - {x: -3.000002, y: 8}
+        - {x: -3.000002, y: -9}
+        - {x: 1, y: -10.999998}
+        - {x: 12.999996, y: -10.999998}
+        - {x: 15.999996, y: -7}
+        - {x: 36, y: -7}
+        - {x: 49.999992, y: -6}
+      - - {x: -31, y: 11}
+        - {x: -52, y: 11}
+        - {x: -52, y: -6}
+        - {x: -50, y: -7}
+        - {x: -29, y: -7}
+        - {x: -27, y: -5}
+        - {x: -27, y: 10}
+      - - {x: -21, y: 6}
+        - {x: -22, y: 5}
+        - {x: -22, y: 0}
+        - {x: -19, y: -5}
+        - {x: -6, y: -5}
+        - {x: -3.000002, y: 0}
+        - {x: -3.000002, y: 5}
+        - {x: -4, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1c24cce7bf4312abac507f49c0fcf7
+      internalID: 21300002
+      vertices:
+      - {x: 134, y: -11}
+      - {x: 85, y: -19}
+      - {x: 30, y: -13}
+      - {x: 30, y: 7}
+      - {x: 134, y: 7}
+      indices: 010000000300000004000000010000000200000003000000000000000100000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_pusheen_visor_pusheenOmNomNom0001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 47
+        width: 103
+        height: 21
+      alignment: 9
+      pivot: {x: 0.2038835, y: 1.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -51.5, y: -10.499998}
+        - {x: -51.5, y: 10.5}
+        - {x: 51.5, y: 10.5}
+        - {x: 51.5, y: -10.499998}
+      physicsShape:
+      - - {x: 19.5, y: 7.5}
+        - {x: -9.5, y: 7.5}
+        - {x: -9.5, y: -10.499998}
+        - {x: 26.5, y: -10.499998}
+        - {x: 27.5, y: -3.499998}
+        - {x: 27.5, y: 1.500001}
+        - {x: 24.5, y: 6.500001}
+      - - {x: -51.5, y: 8.5}
+        - {x: -51.5, y: -6.499998}
+        - {x: -49.5, y: -9.5}
+        - {x: -28.5, y: -9.5}
+        - {x: -26.5, y: -7.5}
+        - {x: -26.5, y: 7.5}
+        - {x: -30.5, y: 8.5}
+      - - {x: -21.5, y: 5.5}
+        - {x: -22.5, y: 4.5}
+        - {x: -22.5, y: -3.499998}
+        - {x: -20.5, y: -7.5}
+        - {x: -10.500002, y: -7.5}
+        - {x: -9.5, y: -3.499998}
+        - {x: -9.5, y: 5.5}
+      - - {x: 30.5, y: 10.5}
+        - {x: 27.5, y: 7.5}
+        - {x: 27.5, y: -7.5}
+        - {x: 51.5, y: -7.5}
+        - {x: 51.5, y: 7.5}
+        - {x: 50.5, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57e4fc39c504aab80d9a56532f40839
+      internalID: 21300004
+      vertices:
+      - {x: 133.5, y: -16.499998}
+      - {x: 30.5, y: -16.499998}
+      - {x: 30.5, y: 4.5}
+      - {x: 133.5, y: 4.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_pusheen_visor_pusheenKissy0002
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 249
+        width: 109
+        height: 22
+      alignment: 9
+      pivot: {x: 0.57798165, y: 0.045454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -54.5, y: -11}
+        - {x: -54.5, y: 11}
+        - {x: 54.499996, y: 11}
+        - {x: 54.499996, y: -11}
+      physicsShape:
+      - - {x: 22.5, y: -7}
+        - {x: 47.5, y: -8}
+        - {x: 54.499996, y: -1}
+        - {x: 54.499996, y: 11}
+        - {x: 36.5, y: 11}
+        - {x: 28.499998, y: 8}
+        - {x: 18.5, y: 11}
+        - {x: 1.5, y: 11}
+        - {x: -5.5, y: 1}
+        - {x: -5.5, y: -11}
+        - {x: 7.5, y: -11}
+        - {x: 10.5, y: -7}
+        - {x: 11.5, y: -4}
+        - {x: 16.5, y: -6}
+      - - {x: -47.5, y: 9}
+        - {x: -54.5, y: 1}
+        - {x: -54.5, y: -7}
+        - {x: -53.5, y: -8}
+        - {x: -30.5, y: -8}
+        - {x: -26.5, y: -6}
+        - {x: -25.5, y: -2}
+        - {x: -25.5, y: 9}
+      - - {x: -17.5, y: 4.999999}
+        - {x: -21.499998, y: 2}
+        - {x: -21.499998, y: -2}
+        - {x: -18.499998, y: -6}
+        - {x: -7.5, y: -6}
+        - {x: -3.5, y: -2}
+        - {x: -3.5, y: 2}
+        - {x: -4.5, y: 4.999999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f271453f73e548ef802e8bf6db2acb64
+      internalID: 21300006
+      vertices:
+      - {x: 100.5, y: 10}
+      - {x: -8.5, y: 10}
+      - {x: -8.5, y: 32}
+      - {x: 100.5, y: 32}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_pusheen_visor_pusheenKoolKat0001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 70
+        width: 103
+        height: 25
+      alignment: 9
+      pivot: {x: 0.2038835, y: 1.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -51.5, y: 12.5}
+        - {x: 51.5, y: 12.5}
+        - {x: 51.5, y: -5.5}
+        - {x: 0.5, y: -12.5}
+        - {x: -51.5, y: -8.499998}
+      physicsShape:
+      - - {x: 51.5, y: 11.5}
+        - {x: 50.5, y: 12.5}
+        - {x: -20.5, y: 12.5}
+        - {x: -26.5, y: 8.500001}
+        - {x: -26.5, y: -5.5}
+        - {x: -14.5, y: -10.5}
+        - {x: 11.5, y: -10.5}
+        - {x: 49.499992, y: -7.5}
+        - {x: 51.5, y: -3.5}
+      - - {x: -50.5, y: 9.5}
+        - {x: -51.5, y: 8.500001}
+        - {x: -51.5, y: -8.499998}
+        - {x: -45.5, y: -9.5}
+        - {x: -27.5, y: -9.5}
+        - {x: -26.5, y: -8.499998}
+        - {x: -26.5, y: 5.5}
+        - {x: -29.5, y: 9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69072ec4a5240219e4e9abd072089b5
+      internalID: 21300008
+      vertices:
+      - {x: 133.5, y: -11.5}
+      - {x: 82.5, y: -18.5}
+      - {x: 30.5, y: -14.499998}
+      - {x: 30.5, y: 6.5}
+      - {x: 133.5, y: 6.5}
+      indices: 010000000300000004000000010000000200000003000000000000000100000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_pusheen_visor_pusheenGorgeous0001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 118
+        width: 104
+        height: 19
+      alignment: 9
+      pivot: {x: 0.21153846, y: 1.4210526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -52, y: -9.5}
+        - {x: -52, y: 9.5}
+        - {x: 52, y: 9.5}
+        - {x: 52, y: -9.5}
+      physicsShape:
+      - - {x: -52, y: 8.499998}
+        - {x: -52, y: -6.500002}
+        - {x: -50, y: -9.5}
+        - {x: -29, y: -9.5}
+        - {x: -27, y: -7.500002}
+        - {x: -27, y: 4.499998}
+        - {x: -30, y: 8.499998}
+      - - {x: 36.999992, y: 9.499998}
+        - {x: 12, y: 6.499998}
+        - {x: 2, y: 9.499998}
+        - {x: -0.0000019073486, y: 9.499998}
+        - {x: -3.000002, y: 5.499998}
+        - {x: -10.000002, y: 8.499998}
+        - {x: -14, y: 4.499998}
+        - {x: -21, y: 6.499998}
+        - {x: -23, y: 4.499998}
+        - {x: -23, y: -7.500002}
+        - {x: -18, y: -9.5}
+        - {x: 1, y: -9.5}
+        - {x: 11, y: -8.500002}
+        - {x: 21, y: -9.5}
+        - {x: 52, y: -9.5}
+        - {x: 52, y: 6.499998}
+        - {x: 51, y: 9.499998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96dcba193dda457ba433672f09f3c1ae
+      internalID: 21300010
+      vertices:
+      - {x: 134, y: -17.499998}
+      - {x: 30, y: -17.499998}
+      - {x: 30, y: 1.5000024}
+      - {x: 134, y: 1.5000024}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_pusheen_visor_pusheenKoolKat0002
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 227
+        width: 109
+        height: 20
+      alignment: 9
+      pivot: {x: 0.57798165, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -54.5, y: -10}
+        - {x: -54.5, y: 9.999998}
+        - {x: 54.499996, y: 9.999998}
+        - {x: 54.499996, y: -10}
+      physicsShape:
+      - - {x: 54.499996, y: 9.999998}
+        - {x: -4.5, y: 9.999998}
+        - {x: -21.499998, y: 8}
+        - {x: -25.5, y: 6}
+        - {x: -25.5, y: -6}
+        - {x: -23.5, y: -10}
+        - {x: 10.5, y: -10}
+        - {x: 20.5, y: -9}
+        - {x: 27.5, y: -10}
+        - {x: 30.5, y: -10}
+        - {x: 52.5, y: -6}
+        - {x: 54.499996, y: -3}
+      - - {x: -45.499996, y: 7}
+        - {x: -52.5, y: 6}
+        - {x: -54.5, y: -1}
+        - {x: -54.5, y: -9}
+        - {x: -50.499996, y: -10}
+        - {x: -29.5, y: -10}
+        - {x: -25.5, y: -8}
+        - {x: -25.5, y: 6}
+        - {x: -26.5, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca95fd8a5c7a40899e441c3354da0c8c
+      internalID: 21300012
+      vertices:
+      - {x: 100.5, y: 10}
+      - {x: -8.5, y: 10}
+      - {x: -8.5, y: 29.999998}
+      - {x: 100.5, y: 29.999998}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_pusheen_visor_pusheenSmile0001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 100
+        height: 21
+      alignment: 9
+      pivot: {x: 0.18, y: 1.1904762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -50, y: -10.5}
+        - {x: -50, y: 10.5}
+        - {x: 50, y: 10.5}
+        - {x: 50, y: -10.5}
+      physicsShape:
+      - - {x: 24, y: 5.5}
+        - {x: -4, y: 5.5}
+        - {x: -6, y: 1.5}
+        - {x: -6, y: -10.5}
+        - {x: 16.999996, y: -10.5}
+        - {x: 20.999996, y: -8.499998}
+        - {x: 25, y: -4.5}
+        - {x: 25, y: 0.5}
+      - - {x: -46, y: 10.5}
+        - {x: -50, y: 9.5}
+        - {x: -50, y: -6.5}
+        - {x: -49, y: -9.5}
+        - {x: -28, y: -9.5}
+        - {x: -26, y: -4.5}
+        - {x: -26, y: 7.5}
+        - {x: -29, y: 10.5}
+      - - {x: 32, y: 10.5}
+        - {x: 26, y: 4.500001}
+        - {x: 26, y: -8.499998}
+        - {x: 29, y: -9.5}
+        - {x: 44, y: -9.5}
+        - {x: 50, y: -8.499998}
+        - {x: 50, y: 9.5}
+        - {x: 47, y: 10.5}
+      - - {x: -12.000002, y: 4.500001}
+        - {x: -18, y: 4.500001}
+        - {x: -22, y: 1.5}
+        - {x: -22, y: -3.5}
+        - {x: -20, y: -8.499998}
+        - {x: -12.000002, y: -8.499998}
+        - {x: -8, y: -4.5}
+        - {x: -8, y: -0.49999905}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb5ec1306774a2abb942dc6f1b51b10
+      internalID: 21300014
+      vertices:
+      - {x: 132, y: -14.5}
+      - {x: 32, y: -14.5}
+      - {x: 32, y: 6.5}
+      - {x: 132, y: 6.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_pusheen_visor_pusheenOmNomNom0002
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 167
+        width: 106
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5660377, y: 0.05263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -53, y: -9.5}
+        - {x: -53, y: 9.5}
+        - {x: 53, y: 9.5}
+        - {x: 53, y: -9.5}
+      physicsShape:
+      - - {x: 23, y: 7.5}
+        - {x: -8, y: 7.5}
+        - {x: -12, y: 0.5}
+        - {x: -12, y: -9.5}
+        - {x: 25, y: -9.5}
+        - {x: 28, y: -3.5000005}
+        - {x: 28, y: 4.5}
+        - {x: 25.999998, y: 6.499999}
+      - - {x: -46, y: 8.5}
+        - {x: -50.999996, y: 4.5}
+        - {x: -53, y: 0.5}
+        - {x: -53, y: -8.5}
+        - {x: -29, y: -8.5}
+        - {x: -23.999998, y: -2.5}
+        - {x: -23.999998, y: 8.5}
+      - - {x: -19, y: 5.5}
+        - {x: -23, y: 1.499999}
+        - {x: -23, y: -6.5}
+        - {x: -14, y: -6.5}
+        - {x: -8.999999, y: -2.5}
+        - {x: -8.999999, y: 4.5}
+        - {x: -12, y: 5.5}
+      - - {x: 34, y: 9.5}
+        - {x: 27, y: 8.5}
+        - {x: 27, y: -6.5}
+        - {x: 48, y: -6.5}
+        - {x: 51.999996, y: -4.5}
+        - {x: 53, y: -1.5}
+        - {x: 53, y: 9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65b7d3796ee4d869fd83ac43378a4ac
+      internalID: 21300016
+      vertices:
+      - {x: 99, y: 8.5}
+      - {x: -6.999996, y: 8.5}
+      - {x: -6.999996, y: 27.5}
+      - {x: 99, y: 27.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_pusheen_visor_pusheenYaaaaaay0002
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 188
+        width: 107
+        height: 18
+      alignment: 9
+      pivot: {x: 0.57009345, y: 0.055555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -53.5, y: -9}
+        - {x: -53.5, y: 9}
+        - {x: 53.499996, y: 9}
+        - {x: 53.499996, y: -9}
+      physicsShape:
+      - - {x: 53.499996, y: -1}
+        - {x: 53.499996, y: 8}
+        - {x: 51.5, y: 9}
+        - {x: 20.5, y: 9}
+        - {x: 4.5, y: 8}
+        - {x: -21.5, y: 4}
+        - {x: -21.5, y: -4}
+        - {x: -20.5, y: -5}
+        - {x: -7.499999, y: -9}
+        - {x: 8.5, y: -9}
+        - {x: 15.5, y: -6}
+        - {x: 31.5, y: -9}
+        - {x: 49.5, y: -9}
+      - - {x: -48.5, y: 8}
+        - {x: -53.5, y: 1.999999}
+        - {x: -53.5, y: -9}
+        - {x: -24.5, y: -9}
+        - {x: -24.5, y: 6}
+        - {x: -25.5, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5b18a40e5647ddabddbb17221df17c
+      internalID: 21300018
+      vertices:
+      - {x: 99.5, y: 8}
+      - {x: -7.5, y: 8}
+      - {x: -7.5, y: 26}
+      - {x: 99.5, y: 26}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_pusheen_visor_pusheenYaaaaaay0001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 24
+        width: 102
+        height: 21
+      alignment: 9
+      pivot: {x: 0.19607843, y: 1.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -51, y: -10.499998}
+        - {x: -51, y: 10.5}
+        - {x: 51, y: 10.5}
+        - {x: 51, y: -10.499998}
+      physicsShape:
+      - - {x: 28.999996, y: 10.5}
+        - {x: 2, y: 9.5}
+        - {x: -20, y: 5.5}
+        - {x: -22, y: 1.500001}
+        - {x: -22, y: -1.5}
+        - {x: -20, y: -6.499998}
+        - {x: -5, y: -10.499998}
+        - {x: 43, y: -10.499998}
+        - {x: 51, y: -7.5}
+        - {x: 51, y: 7.5}
+        - {x: 47, y: 10.5}
+      - - {x: -51, y: 8.5}
+        - {x: -51, y: -9.5}
+        - {x: -26, y: -9.5}
+        - {x: -26, y: 7.5}
+        - {x: -30, y: 8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ae168729864ebcba026853755634a3
+      internalID: 21300020
+      vertices:
+      - {x: 133, y: -16.499998}
+      - {x: 31.000002, y: -16.499998}
+      - {x: 31.000002, y: 4.5}
+      - {x: 133, y: 4.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_pusheen_visor_pusheenGorgeous0002
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 208
+        width: 108
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5740741, y: 0.05882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -54, y: -8.5}
+        - {x: -54, y: 8.5}
+        - {x: 53.999996, y: 8.5}
+        - {x: 53.999996, y: -8.5}
+      physicsShape:
+      - - {x: -49, y: 7.499999}
+        - {x: -51.999996, y: 3.5}
+        - {x: -54, y: -3.5}
+        - {x: -54, y: -8.5}
+        - {x: -31.999996, y: -8.5}
+        - {x: -26, y: -7.5}
+        - {x: -25, y: -4.5}
+        - {x: -25, y: 7.499999}
+      - - {x: 53, y: -7.5}
+        - {x: 53.999996, y: -4.5}
+        - {x: 53.999996, y: 8.5}
+        - {x: 29, y: 8.5}
+        - {x: 26, y: 5.5}
+        - {x: 10, y: 8.5}
+        - {x: 3.0000005, y: 8.5}
+        - {x: 0, y: 4.5}
+        - {x: -9, y: 6.5}
+        - {x: -18, y: 5.5}
+        - {x: -24, y: 3.5}
+        - {x: -24, y: -8.5}
+        - {x: 50, y: -8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7d256366254511afa7342735a2ef40
+      internalID: 21300022
+      vertices:
+      - {x: 100, y: 7.5}
+      - {x: -8, y: 7.5}
+      - {x: -8, y: 24.5}
+      - {x: 100, y: 24.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      2022_pusheen_visor_pusheenGorgeous0001: 21300010
+      2022_pusheen_visor_pusheenGorgeous0002: 21300022
+      2022_pusheen_visor_pusheenKissy0001: 21300002
+      2022_pusheen_visor_pusheenKissy0002: 21300006
+      2022_pusheen_visor_pusheenKoolKat0001: 21300008
+      2022_pusheen_visor_pusheenKoolKat0002: 21300012
+      2022_pusheen_visor_pusheenOmNomNom0001: 21300004
+      2022_pusheen_visor_pusheenOmNomNom0002: 21300016
+      2022_pusheen_visor_pusheenSmile0001: 21300014
+      2022_pusheen_visor_pusheenSmile0002: 21300000
+      2022_pusheen_visor_pusheenYaaaaaay0001: 21300020
+      2022_pusheen_visor_pusheenYaaaaaay0002: 21300018
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

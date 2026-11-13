@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 825ac4e4914361a3d7ea08f1b54d9d4f, type: 3}
+  m_Name: _Cube_HW21_Free
+  m_EditorClassIdentifier:
+  StoreImageRef:
+    m_AssetGUID: 163f298a70e59492b8790cddecfb3f7b
+    m_SubObjectName: cosmicube_freehalloween
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  CosmicubePrefabRef:
+    m_AssetGUID: 8b7e152e718064657b21d7bfc418b95f
+    m_SubObjectName:
+    m_SubObjectType:
+  podIconRef:
+    m_AssetGUID: e9a5e0f753151476585c93e6a1e18af8
+    m_SubObjectName: UI_currency_Halloween
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  DateCreated:
+  allUnlockables:
+  - {fileID: 11400000, guid: 1b0a40818eafef845bc6dbd81a8f28a6, type: 2}
+  - {fileID: 11400000, guid: 33fc0cf8fd125eb47a31c0fbaeab5608, type: 2}
+  - {fileID: 11400000, guid: 231c099488d26b34bab6822f1cae2969, type: 2}
+  - {fileID: 11400000, guid: d799d9ef1de765743ae2cc30aa46f181, type: 2}
+  - {fileID: 11400000, guid: 6ac078b4de3aea94a93ddc1a5da1ef50, type: 2}
+  - {fileID: 11400000, guid: a574b3497d894ff42b1f8a08dc969993, type: 2}
+  - {fileID: 11400000, guid: 8492cced5390e0944ae7de5529d10c63, type: 2}
+  - {fileID: 11400000, guid: eedea9d00ac163b4cafec22389fb7c3f, type: 2}
+  - {fileID: 11400000, guid: 47042f7a54c0afd4db7aaabbad0c7b9d, type: 2}
+  - {fileID: 11400000, guid: e1857d6dbb68cd543a26eb2d47830318, type: 2}
+  - {fileID: 11400000, guid: eaf7d0a2f77da124ea3c58ce84aefc71, type: 2}
+  - {fileID: 11400000, guid: 9d83afc246680f44089f76aa03850c25, type: 2}
+  - {fileID: 11400000, guid: 3ce350a14ff495e40a08ddb44d201509, type: 2}
+  - {fileID: 11400000, guid: 0afa59f132398a64dbd3243075158f55, type: 2}
+  - {fileID: 11400000, guid: e1304541d3ab5624c92412d827d8b76f, type: 2}
+  - {fileID: 11400000, guid: 949e7a1eaa49fa041bd1f2f96f2ba0a1, type: 2}
+  - {fileID: 11400000, guid: 489e65c4d98e1654aa930cd3dc342b24, type: 2}
+  - {fileID: 11400000, guid: 2b5585b639067d84cacc74d3c291cdf1, type: 2}
+  - {fileID: 11400000, guid: 48c975b299c13d5449cb6dc62b1f5598, type: 2}
+  - {fileID: 11400000, guid: 70af8549709dccc4890512815b6ef1bb, type: 2}
+  - {fileID: 11400000, guid: 959fc742199014e4bacc6cfb264e1b60, type: 2}
+  - {fileID: 11400000, guid: 1b66968945a10de41aa9a946fa7355ec, type: 2}
+  - {fileID: 11400000, guid: 983949b8448133b43bc6863697f43e14, type: 2}
+  - {fileID: 11400000, guid: 65d153616dad8354fb3e7cf40f628834, type: 2}
+  - {fileID: 11400000, guid: cb15de4cf098c9c4d8108c45e0cc3fe7, type: 2}
+  - {fileID: 11400000, guid: 833fc3f0a12176946808b0baf8e54879, type: 2}
+  - {fileID: 11400000, guid: af95f1aed4a0f984e961bc1603fa4219, type: 2}
+  starCost: 0
+  beanCost: 2600
+  Order: 0
+  Free: 0
+  NotInStore: 0
+  XRange:
+    min: -0.45
+    max: 0.45
+  YRange:
+    min: -0.3
+    max: 0.5
+  podId: hw21_free
+  productId: cube_hw21_free
+  cosmicubeName: Treat
+  limitedTime:
+    timeStart:
+      limitedYear: 2026
+      limitedMonth: 10
+      limitedDay: 1
+      limitedHour: 7
+      limitedMinute: 0
+    timeEnd:
+      limitedYear: 2026
+      limitedMonth: 11
+      limitedDay: 1
+      limitedHour: 7
+      limitedMinute: 0
+  epicId:

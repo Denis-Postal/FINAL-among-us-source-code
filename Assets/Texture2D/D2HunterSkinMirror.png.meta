@@ -1,0 +1,5193 @@
+fileFormatVersion: 2
+guid: 271d8eba5cd816a45b0c7d63e182b39b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0041
+  - first:
+      213: 21300002
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0019
+  - first:
+      213: 21300004
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0049
+  - first:
+      213: 21300006
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0024
+  - first:
+      213: 21300008
+    second: 2022_d2_beans_skin_hunter_VententerMirror0009
+  - first:
+      213: 21300010
+    second: 2022_d2_beans_skin_hunter_VententerMirror0004
+  - first:
+      213: 21300012
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0014
+  - first:
+      213: 21300014
+    second: 2022_d2_beans_skin_hunter_VententerMirror0003
+  - first:
+      213: 21300016
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0027
+  - first:
+      213: 21300018
+    second: 2022_d2_beans_skin_hunter_WalkMirror0012
+  - first:
+      213: 21300020
+    second: 2022_d2_beans_skin_hunter_WalkMirror0011
+  - first:
+      213: 21300022
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0013
+  - first:
+      213: 21300024
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0035
+  - first:
+      213: 21300026
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0042
+  - first:
+      213: 21300028
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0010
+  - first:
+      213: 21300030
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0015
+  - first:
+      213: 21300032
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0026
+  - first:
+      213: 21300034
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0009
+  - first:
+      213: 21300036
+    second: 2022_d2_beans_skin_hunter_WalkMirror0010
+  - first:
+      213: 21300038
+    second: 2022_d2_beans_skin_hunter_WalkMirror0004
+  - first:
+      213: 21300040
+    second: 2022_d2_beans_skin_hunter_WalkMirror0007
+  - first:
+      213: 21300042
+    second: 2022_d2_beans_skin_hunter_IdleMirror
+  - first:
+      213: 21300044
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0025
+  - first:
+      213: 21300046
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0033
+  - first:
+      213: 21300048
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0020
+  - first:
+      213: 21300050
+    second: 2022_d2_beans_skin_hunter_WalkMirror0003
+  - first:
+      213: 21300052
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0023
+  - first:
+      213: 21300054
+    second: 2022_d2_beans_skin_hunter_WalkMirror0002
+  - first:
+      213: 21300056
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0017
+  - first:
+      213: 21300058
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0003
+  - first:
+      213: 21300060
+    second: 2022_d2_beans_skin_hunter_VententerMirror0007
+  - first:
+      213: 21300062
+    second: 2022_d2_beans_skin_hunter_WalkMirror0006
+  - first:
+      213: 21300064
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0051
+  - first:
+      213: 21300066
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0005
+  - first:
+      213: 21300068
+    second: 2022_d2_beans_skin_hunter_VententerMirror0002
+  - first:
+      213: 21300070
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0054
+  - first:
+      213: 21300072
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0048
+  - first:
+      213: 21300074
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0018
+  - first:
+      213: 21300076
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0001
+  - first:
+      213: 21300078
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0052
+  - first:
+      213: 21300080
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0030
+  - first:
+      213: 21300082
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0055
+  - first:
+      213: 21300084
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0011
+  - first:
+      213: 21300086
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0039
+  - first:
+      213: 21300088
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0004
+  - first:
+      213: 21300090
+    second: 2022_d2_beans_skin_hunter_WalkMirror0008
+  - first:
+      213: 21300092
+    second: 2022_d2_beans_skin_hunter_WalkMirror0009
+  - first:
+      213: 21300094
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0022
+  - first:
+      213: 21300096
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0002
+  - first:
+      213: 21300098
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0046
+  - first:
+      213: 21300100
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0045
+  - first:
+      213: 21300102
+    second: 2022_d2_beans_skin_hunter_VententerMirror0008
+  - first:
+      213: 21300104
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0028
+  - first:
+      213: 21300106
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0007
+  - first:
+      213: 21300108
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0012
+  - first:
+      213: 21300110
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0008
+  - first:
+      213: 21300112
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0036
+  - first:
+      213: 21300114
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0047
+  - first:
+      213: 21300116
+    second: 2022_d2_beans_skin_hunter_WalkMirror0005
+  - first:
+      213: 21300118
+    second: 2022_d2_beans_skin_hunter_WalkMirror0001
+  - first:
+      213: 21300120
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0043
+  - first:
+      213: 21300122
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0021
+  - first:
+      213: 21300124
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0032
+  - first:
+      213: 21300126
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0038
+  - first:
+      213: 21300128
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0029
+  - first:
+      213: 21300130
+    second: 2022_d2_beans_skin_hunter_VententerMirror0001
+  - first:
+      213: 21300132
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0037
+  - first:
+      213: 21300134
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0034
+  - first:
+      213: 21300136
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0053
+  - first:
+      213: 21300138
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0031
+  - first:
+      213: 21300140
+    second: 2022_d2_beans_skin_hunter_VententerMirror0005
+  - first:
+      213: 21300142
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0006
+  - first:
+      213: 21300144
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0040
+  - first:
+      213: 21300146
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0016
+  - first:
+      213: 21300148
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0044
+  - first:
+      213: 21300150
+    second: 2022_d2_beans_skin_hunter_SpawnMirror0050
+  - first:
+      213: 21300152
+    second: 2022_d2_beans_skin_hunter_VententerMirror0006
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0041
+      rect:
+        serializedVersion: 2
+        x: 245.07613
+        y: 1809.0762
+        width: 213.84775
+        height: 92.84776
+      alignment: 9
+      pivot: {x: 0.1516213, y: 0.79618317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -68, y: 44.499947}
+        - {x: 63, y: 47.499947}
+        - {x: 75, y: 8.499947}
+        - {x: 121.999985, y: -8.500053}
+        - {x: -28, y: -48.500053}
+        - {x: -109, y: -34.500053}
+        - {x: -106, y: 2.4999466}
+      physicsShape:
+      - - {x: 106, y: -4.5000534}
+        - {x: 105, y: -2.5000515}
+        - {x: 82, y: 1.4999466}
+        - {x: 70, y: 16.499947}
+        - {x: 64, y: 41.499947}
+        - {x: 61, y: 45.499947}
+        - {x: 30.999992, y: 45.499947}
+        - {x: -3, y: 42.499947}
+        - {x: -67, y: 44.499947}
+        - {x: -71, y: 37.499947}
+        - {x: -77, y: 28.499947}
+        - {x: -77, y: 19.499947}
+        - {x: -92, y: 14.499947}
+        - {x: -105, y: 3.4999466}
+        - {x: -106, y: -0.5000534}
+        - {x: -106, y: -22.500053}
+        - {x: -103, y: -28.500053}
+        - {x: -84, y: -38.500053}
+        - {x: -60, y: -36.500053}
+        - {x: -47, y: -45.500046}
+        - {x: -13, y: -45.500046}
+        - {x: 45.999992, y: -19.500053}
+        - {x: 90, y: -19.500053}
+        - {x: 106, y: -11.500053}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4559e3a75c94c46ada7d3316a096eaa
+      internalID: 21300000
+      vertices:
+      - {x: 256.4239, y: 27.423882}
+      - {x: 303.42386, y: 10.423882}
+      - {x: 153.42387, y: -29.576118}
+      - {x: 72.423874, y: -15.576118}
+      - {x: 75.423874, y: 21.423882}
+      - {x: 113.423874, y: 63.42388}
+      - {x: 244.42387, y: 66.42388}
+      indices: 020000000500000006000000020000000400000005000000020000000300000004000000000000000100000002000000060000000000000002000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0019
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1036.0762
+        width: 200.98099
+        height: 114.92388
+      alignment: 9
+      pivot: {x: 0.106975295, y: 0.71285295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -63.490494, y: 57.461887}
+        - {x: 60.509506, y: 57.461887}
+        - {x: 70.50951, y: 9.461888}
+        - {x: 115.50951, y: -13.538113}
+        - {x: -23.490494, y: -60.538113}
+        - {x: -100.49049, y: -43.538113}
+        - {x: -100.49049, y: 5.4618874}
+      physicsShape:
+      - - {x: 94.50951, y: -21.538109}
+        - {x: 98.50951, y: -13.538113}
+        - {x: 98.50951, y: -8.538113}
+        - {x: 96.50951, y: -6.5381126}
+        - {x: 76.50951, y: -1.5381126}
+        - {x: 67.50949, y: 11.461887}
+        - {x: 61.509506, y: 49.461887}
+        - {x: 55.509506, y: 56.461887}
+        - {x: 37.509506, y: 56.461887}
+        - {x: 19.509499, y: 53.461887}
+        - {x: -29.490498, y: 54.461884}
+        - {x: -47.490494, y: 56.461887}
+        - {x: -62.490494, y: 56.461887}
+        - {x: -70.49049, y: 42.461887}
+        - {x: -72.49049, y: 26.461887}
+        - {x: -83.49049, y: 21.461887}
+        - {x: -93.49049, y: 11.461887}
+        - {x: -99.49049, y: -1.5381126}
+        - {x: -99.49049, y: -21.538109}
+        - {x: -93.49049, y: -31.538113}
+        - {x: -85.49049, y: -39.538113}
+        - {x: -73.49049, y: -44.538113}
+        - {x: -57.490494, y: -43.538113}
+        - {x: -44.490494, y: -55.538105}
+        - {x: -16.490494, y: -55.538105}
+        - {x: 4.509506, y: -45.538113}
+        - {x: 42.5095, y: -23.538113}
+        - {x: 70.50951, y: -24.538109}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5344f459600743f6a18f36b8752f014f
+      internalID: 21300002
+      vertices:
+      - {x: 249.9905, y: 42.46194}
+      - {x: 294.99048, y: 19.46194}
+      - {x: 155.9905, y: -27.53806}
+      - {x: 78.99049, y: -10.538059}
+      - {x: 78.99049, y: 38.46194}
+      - {x: 115.99049, y: 90.461945}
+      - {x: 239.9905, y: 90.461945}
+      indices: 000000000500000006000000040000000200000003000000040000000500000002000000000000000100000002000000000000000200000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0049
+      rect:
+        serializedVersion: 2
+        x: 827.02673
+        y: 693.0761
+        width: 181.9465
+        height: 100.880974
+      alignment: 9
+      pivot: {x: 0.9644223, y: 1.5456223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -49.999985, y: -46.5166}
+        - {x: -89.999985, y: -6.5166016}
+        - {x: -91.999985, y: 52.483402}
+        - {x: 53.000015, y: 48.4834}
+        - {x: 95.000015, y: -35.5166}
+        - {x: 55.000015, y: -51.5166}
+      physicsShape:
+      - - {x: 90.000015, y: -30.516602}
+        - {x: 73.000015, y: -6.5166016}
+        - {x: 59.000015, y: 24.483398}
+        - {x: 56.000015, y: 44.4834}
+        - {x: 52.000015, y: 48.4834}
+        - {x: 32.00002, y: 49.4834}
+        - {x: 27.000015, y: 49.4834}
+        - {x: -13.999977, y: 46.483402}
+        - {x: -60.999985, y: 49.4834}
+        - {x: -80.999985, y: 49.4834}
+        - {x: -90.999985, y: 33.4834}
+        - {x: -88.999985, y: 23.483398}
+        - {x: -82.999985, y: 14.483398}
+        - {x: -90.999985, y: 7.483406}
+        - {x: -90.999985, y: -2.516594}
+        - {x: -82.999985, y: -6.5166016}
+        - {x: -63.999985, y: -34.5166}
+        - {x: -52.999985, y: -41.516586}
+        - {x: -19.999977, y: -41.516586}
+        - {x: -0.9999771, y: -43.5166}
+        - {x: 12.000015, y: -49.5166}
+        - {x: 43.000015, y: -49.5166}
+        - {x: 56.000015, y: -43.5166}
+        - {x: 84.000015, y: -40.516586}
+        - {x: 90.000015, y: -36.5166}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc1a2a739164ea38610fe08c35a35b8
+      internalID: 21300004
+      vertices:
+      - {x: 59.47325, y: -6.559513}
+      - {x: 101.47325, y: -90.55951}
+      - {x: 61.47325, y: -106.55951}
+      - {x: -43.52675, y: -101.55951}
+      - {x: -83.52675, y: -61.559513}
+      - {x: -85.52675, y: -2.5595093}
+      indices: 000000000300000004000000000000000200000003000000000000000100000002000000000000000400000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0024
+      rect:
+        serializedVersion: 2
+        x: 3.0761204
+        y: 1234.0762
+        width: 196.91502
+        height: 111.84776
+      alignment: 9
+      pivot: {x: 0.10371926, y: 0.7056362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -100.53363, y: -2.0000534}
+        - {x: -65.53363, y: 56.999947}
+        - {x: 57.46637, y: 53.999947}
+        - {x: 82.46637, y: -2.0000534}
+        - {x: 117.46637, y: -14.000053}
+        - {x: -28.533634, y: -58.000053}
+        - {x: -94.53363, y: -38.000053}
+      physicsShape:
+      - - {x: 88.46637, y: -23.00005}
+        - {x: 97.46637, y: -17.00005}
+        - {x: 97.46637, y: -11.000053}
+        - {x: 95.46637, y: -7.0000515}
+        - {x: 70.46637, y: 2.9999485}
+        - {x: 62.46637, y: 28.999947}
+        - {x: 61.46637, y: 45.999947}
+        - {x: 55.466354, y: 54.999947}
+        - {x: 39.466362, y: 54.999947}
+        - {x: -0.5336304, y: 51.999947}
+        - {x: -4.533638, y: 50.999947}
+        - {x: -49.53363, y: 54.999947}
+        - {x: -61.53363, y: 54.999947}
+        - {x: -71.53363, y: 36.999947}
+        - {x: -91.53363, y: 10.999947}
+        - {x: -97.53363, y: -0.000051498413}
+        - {x: -97.53363, y: -21.000053}
+        - {x: -94.53363, y: -27.000053}
+        - {x: -84.53363, y: -40.000053}
+        - {x: -74.53363, y: -44.000046}
+        - {x: -55.53363, y: -45.000053}
+        - {x: -42.53363, y: -55.000053}
+        - {x: -19.533634, y: -55.000053}
+        - {x: -11.53363, y: -54.000053}
+        - {x: 14.466362, y: -40.000053}
+        - {x: 42.466362, y: -24.000053}
+        - {x: 70.46637, y: -25.000053}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23780ced8fd84e3ca6b89e1a0043f75d
+      internalID: 21300006
+      vertices:
+      - {x: 233.95752, y: 86.92388}
+      - {x: 258.95752, y: 30.923882}
+      - {x: 293.95752, y: 18.923882}
+      - {x: 147.9575, y: -25.076118}
+      - {x: 81.95751, y: -5.0761185}
+      - {x: 75.95751, y: 30.923882}
+      - {x: 110.95751, y: 89.92388}
+      indices: 030000000500000006000000030000000400000005000000010000000200000003000000000000000100000003000000000000000300000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_VententerMirror0009
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1903
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 115, y: -189}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -0.5, y: 0.5}
+        - {x: 0.5, y: 0.5}
+        - {x: 0.5, y: -0.5}
+        - {x: -0.5, y: -0.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8003211045d42faa27860bea6f25fd5
+      internalID: 21300008
+      vertices:
+      - {x: -114.5, y: 190.5}
+      - {x: -113.5, y: 190.5}
+      - {x: -113.5, y: 189.5}
+      - {x: -114.5, y: 189.5}
+      indices: 000000000100000002000000000000000200000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_VententerMirror0004
+      rect:
+        serializedVersion: 2
+        x: 375.0761
+        y: 568.0761
+        width: 168.86285
+        height: 103.89191
+      alignment: 9
+      pivot: {x: 0.45554063, y: 0.39390835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -77.50754, y: 40.977936}
+        - {x: 17.492462, y: 41.977932}
+        - {x: 60.492462, y: 55.97793}
+        - {x: 88.49246, y: -17.022064}
+        - {x: 76.49246, y: -42.022064}
+        - {x: -15.507538, y: -53.022064}
+        - {x: -75.50754, y: -42.022064}
+        - {x: -87.50753, y: -16.022064}
+      physicsShape:
+      - - {x: 72.492455, y: -45.022064}
+        - {x: 80.49246, y: -36.022064}
+        - {x: 83.49246, y: -24.022064}
+        - {x: 83.49246, y: -5.022064}
+        - {x: 78.492455, y: 6.977936}
+        - {x: 67.49246, y: 22.977936}
+        - {x: 58.492462, y: 47.977932}
+        - {x: 55.492462, y: 50.977936}
+        - {x: 49.492462, y: 50.977936}
+        - {x: 17.492462, y: 41.977932}
+        - {x: -10.507538, y: 36.977936}
+        - {x: -53.507534, y: 40.977936}
+        - {x: -63.507538, y: 38.977936}
+        - {x: -80.50753, y: 19.977936}
+        - {x: -83.50754, y: 1.9779358}
+        - {x: -84.50754, y: -2.0220642}
+        - {x: -84.50754, y: -24.022064}
+        - {x: -80.50753, y: -33.022064}
+        - {x: -66.50754, y: -44.022064}
+        - {x: -48.507538, y: -43.022064}
+        - {x: -41.507538, y: -40.022064}
+        - {x: -34.507538, y: -43.022064}
+        - {x: -23.507538, y: -51.02206}
+        - {x: -5.507538, y: -51.02206}
+        - {x: 2.4924612, y: -48.022064}
+        - {x: 20.492462, y: -36.022064}
+        - {x: 50.492462, y: -37.022064}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29fc7a3f11474e50a6ee9a03bb2cfe17
+      internalID: 21300010
+      vertices:
+      - {x: 180.43143, y: 45.945953}
+      - {x: 168.43143, y: 20.945953}
+      - {x: 76.43143, y: 9.945953}
+      - {x: 16.431427, y: 20.945953}
+      - {x: 4.4314346, y: 46.945953}
+      - {x: 14.431427, y: 103.94595}
+      - {x: 109.43143, y: 104.94595}
+      - {x: 152.43143, y: 118.945946}
+      indices: 020000000500000006000000000000000100000006000000040000000200000003000000020000000400000005000000010000000200000006000000000000000600000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0014
+      rect:
+        serializedVersion: 2
+        x: 228.06464
+        y: 1403.0762
+        width: 212.90862
+        height: 124.880974
+      alignment: 9
+      pivot: {x: 0.13355665, y: 0.70406103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -108.51894, y: -0.5166588}
+        - {x: -70.51894, y: 63.48334}
+        - {x: 65.48106, y: 61.48334}
+        - {x: 75.48106, y: 13.483341}
+        - {x: 113.48106, y: -9.516659}
+        - {x: 100.48106, y: -24.516659}
+        - {x: -26.518944, y: -64.51666}
+        - {x: -101.518936, y: -45.51666}
+      physicsShape:
+      - - {x: 92.48106, y: -23.516655}
+        - {x: 102.48106, y: -14.516655}
+        - {x: 102.48106, y: -12.516659}
+        - {x: 100.48106, y: -8.516659}
+        - {x: 73.48106, y: 4.483341}
+        - {x: 62.481056, y: 53.48334}
+        - {x: 56.481056, y: 58.48334}
+        - {x: 51.481056, y: 58.48334}
+        - {x: 20.481049, y: 55.483337}
+        - {x: -27.518944, y: 55.483337}
+        - {x: -51.518944, y: 58.48334}
+        - {x: -61.518944, y: 58.48334}
+        - {x: -64.51894, y: 55.483337}
+        - {x: -72.51894, y: 40.48334}
+        - {x: -85.51894, y: 21.483341}
+        - {x: -95.51894, y: 11.483341}
+        - {x: -101.51894, y: -1.5166569}
+        - {x: -101.51894, y: -22.516659}
+        - {x: -96.51894, y: -32.51666}
+        - {x: -81.51894, y: -45.51666}
+        - {x: -61.518944, y: -45.51666}
+        - {x: -49.518944, y: -52.51666}
+        - {x: -40.518944, y: -56.51666}
+        - {x: -38.518944, y: -57.51666}
+        - {x: -16.518944, y: -57.51666}
+        - {x: 15.481056, y: -41.51665}
+        - {x: 44.481056, y: -24.516659}
+        - {x: 74.48106, y: -25.516659}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b99905c636421889fb685c852619f2
+      internalID: 21300012
+      vertices:
+      - {x: 249.95432, y: 98.44049}
+      - {x: 259.9543, y: 50.440487}
+      - {x: 297.9543, y: 27.440487}
+      - {x: 284.9543, y: 12.440487}
+      - {x: 157.95432, y: -27.559513}
+      - {x: 82.954315, y: -8.559513}
+      - {x: 75.95431, y: 36.440487}
+      - {x: 113.95431, y: 100.44049}
+      indices: 040000000600000007000000040000000500000006000000010000000300000004000000010000000200000003000000010000000400000007000000000000000100000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_VententerMirror0003
+      rect:
+        serializedVersion: 2
+        x: 375.0761
+        y: 568.0761
+        width: 168.86285
+        height: 103.89191
+      alignment: 9
+      pivot: {x: 0.45554063, y: 0.39390835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -77.50754, y: 40.977936}
+        - {x: 17.492462, y: 41.977932}
+        - {x: 60.492462, y: 55.97793}
+        - {x: 88.49246, y: -17.022064}
+        - {x: 76.49246, y: -42.022064}
+        - {x: -15.507538, y: -53.022064}
+        - {x: -75.50754, y: -42.022064}
+        - {x: -87.50753, y: -16.022064}
+      physicsShape:
+      - - {x: 72.492455, y: -45.022064}
+        - {x: 80.49246, y: -36.022064}
+        - {x: 83.49246, y: -24.022064}
+        - {x: 83.49246, y: -5.022064}
+        - {x: 78.492455, y: 6.977936}
+        - {x: 67.49246, y: 22.977936}
+        - {x: 58.492462, y: 47.977932}
+        - {x: 55.492462, y: 50.977936}
+        - {x: 49.492462, y: 50.977936}
+        - {x: 17.492462, y: 41.977932}
+        - {x: -10.507538, y: 36.977936}
+        - {x: -53.507534, y: 40.977936}
+        - {x: -63.507538, y: 38.977936}
+        - {x: -80.50753, y: 19.977936}
+        - {x: -83.50754, y: 1.9779358}
+        - {x: -84.50754, y: -2.0220642}
+        - {x: -84.50754, y: -24.022064}
+        - {x: -80.50753, y: -33.022064}
+        - {x: -66.50754, y: -44.022064}
+        - {x: -48.507538, y: -43.022064}
+        - {x: -41.507538, y: -40.022064}
+        - {x: -34.507538, y: -43.022064}
+        - {x: -23.507538, y: -51.02206}
+        - {x: -5.507538, y: -51.02206}
+        - {x: 2.4924612, y: -48.022064}
+        - {x: 20.492462, y: -36.022064}
+        - {x: 50.492462, y: -37.022064}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05b6eb15aee489caa4237e205dd5eb8
+      internalID: 21300014
+      vertices:
+      - {x: 180.43143, y: 45.945953}
+      - {x: 168.43143, y: 20.945953}
+      - {x: 76.43143, y: 9.945953}
+      - {x: 16.431427, y: 20.945953}
+      - {x: 4.4314346, y: 46.945953}
+      - {x: 14.431427, y: 103.94595}
+      - {x: 109.43143, y: 104.94595}
+      - {x: 152.43143, y: 118.945946}
+      indices: 020000000500000006000000000000000100000006000000040000000200000003000000020000000400000005000000010000000200000006000000000000000600000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0027
+      rect:
+        serializedVersion: 2
+        x: 223.07613
+        y: 1169.0762
+        width: 196.91502
+        height: 111.84776
+      alignment: 9
+      pivot: {x: 0.10371923, y: 0.7056362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -100.53364, y: -2.0000534}
+        - {x: -65.53364, y: 56.999947}
+        - {x: 57.466362, y: 53.999947}
+        - {x: 82.46636, y: -2.0000534}
+        - {x: 117.46636, y: -14.000053}
+        - {x: -28.533642, y: -58.000053}
+        - {x: -94.53364, y: -38.000053}
+      physicsShape:
+      - - {x: 88.46636, y: -23.00005}
+        - {x: 97.46636, y: -17.00005}
+        - {x: 97.46636, y: -11.000053}
+        - {x: 95.46636, y: -7.0000515}
+        - {x: 70.46636, y: 2.9999485}
+        - {x: 62.466362, y: 28.999947}
+        - {x: 61.466362, y: 45.999947}
+        - {x: 55.466347, y: 54.999947}
+        - {x: 39.466354, y: 54.999947}
+        - {x: -0.533638, y: 51.999947}
+        - {x: -4.5336456, y: 50.999947}
+        - {x: -49.533638, y: 54.999947}
+        - {x: -61.533638, y: 54.999947}
+        - {x: -71.53364, y: 36.999947}
+        - {x: -91.53364, y: 10.999947}
+        - {x: -97.53364, y: -0.000051498413}
+        - {x: -97.53364, y: -21.000053}
+        - {x: -94.53364, y: -27.000053}
+        - {x: -84.53364, y: -40.000053}
+        - {x: -74.53364, y: -44.000046}
+        - {x: -55.533638, y: -45.000053}
+        - {x: -42.533638, y: -55.000053}
+        - {x: -19.533642, y: -55.000053}
+        - {x: -11.533638, y: -54.000053}
+        - {x: 14.466354, y: -40.000053}
+        - {x: 42.466354, y: -24.000053}
+        - {x: 70.46636, y: -25.000053}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af36569ecc04d57944cd5946231b2de
+      internalID: 21300016
+      vertices:
+      - {x: 233.95752, y: 86.92388}
+      - {x: 258.95752, y: 30.923882}
+      - {x: 293.95752, y: 18.923882}
+      - {x: 147.9575, y: -25.076118}
+      - {x: 81.95751, y: -5.0761185}
+      - {x: 75.95751, y: 30.923882}
+      - {x: 110.95751, y: 89.92388}
+      indices: 030000000500000006000000030000000400000005000000010000000200000003000000000000000100000003000000000000000300000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_WalkMirror0012
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 562.02673
+        width: 176.92387
+        height: 114.95098
+      alignment: 9
+      pivot: {x: 0.4041286, y: 0.8784028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -88.46194, y: -4.502224}
+        - {x: -88.46194, y: 45.497776}
+        - {x: -12.461937, y: 45.497776}
+        - {x: 44.538063, y: 61.497776}
+        - {x: 90.538055, y: -19.502224}
+        - {x: 79.53806, y: -30.502224}
+        - {x: -35.461937, y: -64.50221}
+      physicsShape:
+      - - {x: 77.53806, y: -30.502224}
+        - {x: 87.538055, y: -24.502224}
+        - {x: 87.538055, y: -16.50222}
+        - {x: 85.53806, y: -10.50222}
+        - {x: 66.53806, y: -1.502224}
+        - {x: 61.538063, y: 26.497776}
+        - {x: 59.538063, y: 31.497776}
+        - {x: 54.538063, y: 42.497776}
+        - {x: 43.53806, y: 53.497776}
+        - {x: 39.538063, y: 56.497776}
+        - {x: 31.538063, y: 56.497776}
+        - {x: -1.461937, y: 46.497776}
+        - {x: -28.461937, y: 43.497776}
+        - {x: -58.461937, y: 43.497776}
+        - {x: -71.46194, y: 45.497776}
+        - {x: -83.46194, y: 45.497776}
+        - {x: -87.46194, y: 36.497776}
+        - {x: -88.46194, y: 22.497776}
+        - {x: -88.46194, y: -7.502224}
+        - {x: -75.46193, y: -11.502224}
+        - {x: -69.46193, y: -16.50222}
+        - {x: -49.461937, y: -35.502224}
+        - {x: -50.461933, y: -46.502224}
+        - {x: -37.461937, y: -57.502224}
+        - {x: -11.461937, y: -57.502224}
+        - {x: 0.53806305, y: -49.502224}
+        - {x: 7.538061, y: -37.502224}
+        - {x: 46.538063, y: -39.502224}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8852b1f04f7473c9d4fca7d54766e6e
+      internalID: 21300018
+      vertices:
+      - {x: 195.96193, y: -5.5245094}
+      - {x: 184.96194, y: -16.52451}
+      - {x: 69.96194, y: -50.5245}
+      - {x: 16.961937, y: 9.475491}
+      - {x: 16.961937, y: 59.47549}
+      - {x: 92.96194, y: 59.47549}
+      - {x: 149.96194, y: 75.475494}
+      indices: 030000000400000005000000010000000500000006000000020000000300000005000000010000000200000005000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_WalkMirror0011
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 562.02673
+        width: 176.92387
+        height: 114.95098
+      alignment: 9
+      pivot: {x: 0.4041286, y: 0.8784028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -88.46194, y: -4.502224}
+        - {x: -88.46194, y: 45.497776}
+        - {x: -12.461937, y: 45.497776}
+        - {x: 44.538063, y: 61.497776}
+        - {x: 90.538055, y: -19.502224}
+        - {x: 79.53806, y: -30.502224}
+        - {x: -35.461937, y: -64.50221}
+      physicsShape:
+      - - {x: 77.53806, y: -30.502224}
+        - {x: 87.538055, y: -24.502224}
+        - {x: 87.538055, y: -16.50222}
+        - {x: 85.53806, y: -10.50222}
+        - {x: 66.53806, y: -1.502224}
+        - {x: 61.538063, y: 26.497776}
+        - {x: 59.538063, y: 31.497776}
+        - {x: 54.538063, y: 42.497776}
+        - {x: 43.53806, y: 53.497776}
+        - {x: 39.538063, y: 56.497776}
+        - {x: 31.538063, y: 56.497776}
+        - {x: -1.461937, y: 46.497776}
+        - {x: -28.461937, y: 43.497776}
+        - {x: -58.461937, y: 43.497776}
+        - {x: -71.46194, y: 45.497776}
+        - {x: -83.46194, y: 45.497776}
+        - {x: -87.46194, y: 36.497776}
+        - {x: -88.46194, y: 22.497776}
+        - {x: -88.46194, y: -7.502224}
+        - {x: -75.46193, y: -11.502224}
+        - {x: -69.46193, y: -16.50222}
+        - {x: -49.461937, y: -35.502224}
+        - {x: -50.461933, y: -46.502224}
+        - {x: -37.461937, y: -57.502224}
+        - {x: -11.461937, y: -57.502224}
+        - {x: 0.53806305, y: -49.502224}
+        - {x: 7.538061, y: -37.502224}
+        - {x: 46.538063, y: -39.502224}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a04606140645248494945938a2f366
+      internalID: 21300020
+      vertices:
+      - {x: 195.96193, y: -5.5245094}
+      - {x: 184.96194, y: -16.52451}
+      - {x: 69.96194, y: -50.5245}
+      - {x: 16.961937, y: 9.475491}
+      - {x: 16.961937, y: 59.47549}
+      - {x: 92.96194, y: 59.47549}
+      - {x: 149.96194, y: 75.475494}
+      indices: 030000000400000005000000010000000500000006000000020000000300000005000000010000000200000005000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0013
+      rect:
+        serializedVersion: 2
+        x: 721.0761
+        y: 1644.0762
+        width: 214.89713
+        height: 126.847755
+      alignment: 9
+      pivot: {x: 0.13692081, y: 0.701028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -112.52467, y: -2.5000496}
+        - {x: -67.52467, y: 64.499954}
+        - {x: 65.47533, y: 62.49995}
+        - {x: 83.47533, y: 6.4999504}
+        - {x: 115.47533, y: -9.50005}
+        - {x: 101.47533, y: -25.50005}
+        - {x: -27.524673, y: -65.500046}
+        - {x: -99.52467, y: -48.50005}
+      physicsShape:
+      - - {x: 93.47531, y: -23.500046}
+        - {x: 102.47533, y: -17.500046}
+        - {x: 102.47533, y: -11.50005}
+        - {x: 100.47533, y: -7.5000496}
+        - {x: 80.47531, y: -2.5000496}
+        - {x: 71.47533, y: 9.49995}
+        - {x: 65.47533, y: 44.49995}
+        - {x: 62.475327, y: 52.499947}
+        - {x: 57.475327, y: 58.49995}
+        - {x: -26.524673, y: 54.49995}
+        - {x: -44.524677, y: 58.49995}
+        - {x: -62.524673, y: 58.49995}
+        - {x: -65.52467, y: 57.49995}
+        - {x: -73.52467, y: 38.49995}
+        - {x: -73.52467, y: 27.49995}
+        - {x: -87.52467, y: 21.49995}
+        - {x: -98.52467, y: 8.49995}
+        - {x: -102.52467, y: -3.5000496}
+        - {x: -102.52467, y: -23.500046}
+        - {x: -89.52467, y: -42.50005}
+        - {x: -83.52467, y: -45.50005}
+        - {x: -64.52467, y: -46.50005}
+        - {x: -56.524673, y: -46.50005}
+        - {x: -46.524673, y: -56.50005}
+        - {x: -37.524673, y: -58.50005}
+        - {x: -16.524673, y: -58.50005}
+        - {x: 29.475319, y: -34.500046}
+        - {x: 42.47532, y: -24.50005}
+        - {x: 84.47533, y: -24.50005}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16601947b7d4cdab6ffdce4638b90bb
+      internalID: 21300022
+      vertices:
+      - {x: 250.94856, y: 100.423874}
+      - {x: 268.94855, y: 44.423878}
+      - {x: 300.94855, y: 28.423878}
+      - {x: 286.94855, y: 12.423878}
+      - {x: 157.94856, y: -27.576122}
+      - {x: 85.94856, y: -10.576122}
+      - {x: 72.94856, y: 35.423878}
+      - {x: 117.94856, y: 102.423874}
+      indices: 040000000600000007000000040000000500000006000000010000000300000004000000010000000200000003000000000000000100000004000000000000000400000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0035
+      rect:
+        serializedVersion: 2
+        x: 224.07613
+        y: 935.0761
+        width: 195.84775
+        height: 111.84776
+      alignment: 9
+      pivot: {x: 0.10428444, y: 0.70563674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -101, y: 3.0000095}
+        - {x: -65, y: 57.000008}
+        - {x: 58, y: 54.000008}
+        - {x: 74, y: 4.0000076}
+        - {x: 113, y: -15.999992}
+        - {x: -29, y: -57.999992}
+        - {x: -94, y: -37.999992}
+      physicsShape:
+      - - {x: 80.999985, y: -23.999992}
+        - {x: 92, y: -19.999989}
+        - {x: 98, y: -12.999992}
+        - {x: 96, y: -7.9999924}
+        - {x: 70, y: 4.0000076}
+        - {x: 61, y: 47.000008}
+        - {x: 55.999985, y: 55.000008}
+        - {x: 11, y: 54.000008}
+        - {x: -29, y: 55.000008}
+        - {x: -60, y: 55.000008}
+        - {x: -70, y: 36.000008}
+        - {x: -73, y: 25.000008}
+        - {x: -82, y: 21.000008}
+        - {x: -97, y: 4.0000076}
+        - {x: -97, y: -18.999992}
+        - {x: -93, y: -29.999989}
+        - {x: -79, y: -42.999992}
+        - {x: -59, y: -43.999985}
+        - {x: -48, y: -48.999992}
+        - {x: -43, y: -54.999992}
+        - {x: -16, y: -54.999992}
+        - {x: -10, y: -52.999992}
+        - {x: 28.999992, y: -31.999992}
+        - {x: 40.999992, y: -22.999989}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a620279cf2b47f797ab144916d8b641
+      internalID: 21300024
+      vertices:
+      - {x: 233.42387, y: 86.92388}
+      - {x: 249.42387, y: 36.92388}
+      - {x: 288.4239, y: 16.923882}
+      - {x: 146.42387, y: -25.076118}
+      - {x: 81.423874, y: -5.0761185}
+      - {x: 74.423874, y: 35.92388}
+      - {x: 110.423874, y: 89.92388}
+      indices: 030000000500000006000000030000000400000005000000010000000200000003000000000000000100000003000000000000000300000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0042
+      rect:
+        serializedVersion: 2
+        x: 245.07613
+        y: 1809.0762
+        width: 213.84775
+        height: 92.84776
+      alignment: 9
+      pivot: {x: 0.1516213, y: 0.79618317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -68, y: 44.499947}
+        - {x: 63, y: 47.499947}
+        - {x: 75, y: 8.499947}
+        - {x: 121.999985, y: -8.500053}
+        - {x: -28, y: -48.500053}
+        - {x: -109, y: -34.500053}
+        - {x: -106, y: 2.4999466}
+      physicsShape:
+      - - {x: 106, y: -4.5000534}
+        - {x: 105, y: -2.5000515}
+        - {x: 82, y: 1.4999466}
+        - {x: 70, y: 16.499947}
+        - {x: 64, y: 41.499947}
+        - {x: 61, y: 45.499947}
+        - {x: 30.999992, y: 45.499947}
+        - {x: -3, y: 42.499947}
+        - {x: -67, y: 44.499947}
+        - {x: -71, y: 37.499947}
+        - {x: -77, y: 28.499947}
+        - {x: -77, y: 19.499947}
+        - {x: -92, y: 14.499947}
+        - {x: -105, y: 3.4999466}
+        - {x: -106, y: -0.5000534}
+        - {x: -106, y: -22.500053}
+        - {x: -103, y: -28.500053}
+        - {x: -84, y: -38.500053}
+        - {x: -60, y: -36.500053}
+        - {x: -47, y: -45.500046}
+        - {x: -13, y: -45.500046}
+        - {x: 45.999992, y: -19.500053}
+        - {x: 90, y: -19.500053}
+        - {x: 106, y: -11.500053}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e2952520294168aa65bbedd8a68d44
+      internalID: 21300026
+      vertices:
+      - {x: 256.4239, y: 27.423882}
+      - {x: 303.42386, y: 10.423882}
+      - {x: 153.42387, y: -29.576118}
+      - {x: 72.423874, y: -15.576118}
+      - {x: 75.423874, y: 21.423882}
+      - {x: 113.423874, y: 63.42388}
+      - {x: 244.42387, y: 66.42388}
+      indices: 020000000500000006000000020000000400000005000000020000000300000004000000000000000100000002000000060000000000000002000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0010
+      rect:
+        serializedVersion: 2
+        x: 9.07612
+        y: 1633.0762
+        width: 219.92387
+        height: 130.84775
+      alignment: 9
+      pivot: {x: 0.1474323, y: 0.7025251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -69.038055, y: 64.499954}
+        - {x: 68.96193, y: 66.499954}
+        - {x: 81.96193, y: 10.499954}
+        - {x: 109.961945, y: -3.5000439}
+        - {x: 109.961945, y: -26.500042}
+        - {x: -26.038055, y: -68.500046}
+        - {x: -100.038055, y: -52.500046}
+        - {x: -118.038055, y: 3.4999561}
+      physicsShape:
+      - - {x: 100.961945, y: -22.500042}
+        - {x: 104.961945, y: -14.500046}
+        - {x: 104.961945, y: -8.500046}
+        - {x: 100.961945, y: -6.500046}
+        - {x: 75.961945, y: 4.499954}
+        - {x: 67.961945, y: 30.499954}
+        - {x: 65.961945, y: 52.499954}
+        - {x: 59.961945, y: 59.499954}
+        - {x: 55.96193, y: 59.499954}
+        - {x: 26.961937, y: 57.499954}
+        - {x: 11.961945, y: 57.499954}
+        - {x: -32.038055, y: 56.499954}
+        - {x: -44.03806, y: 59.499954}
+        - {x: -62.038055, y: 59.499954}
+        - {x: -67.038055, y: 58.499954}
+        - {x: -75.038055, y: 40.499954}
+        - {x: -98.038055, y: 11.499955}
+        - {x: -103.038055, y: -1.5000458}
+        - {x: -103.038055, y: -20.500046}
+        - {x: -99.038055, y: -31.500046}
+        - {x: -90.038055, y: -40.50004}
+        - {x: -78.038055, y: -46.50004}
+        - {x: -57.038055, y: -46.50004}
+        - {x: -50.038055, y: -54.500046}
+        - {x: -43.038055, y: -58.500046}
+        - {x: -14.038055, y: -58.500046}
+        - {x: -10.038055, y: -57.500046}
+        - {x: 30.961937, y: -34.500046}
+        - {x: 43.961937, y: -24.500046}
+        - {x: 87.961945, y: -24.500046}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3204f29bec2a4b0292c636d72efad187
+      internalID: 21300028
+      vertices:
+      - {x: 269.4619, y: 49.423874}
+      - {x: 297.46194, y: 35.423874}
+      - {x: 297.46194, y: 12.423878}
+      - {x: 161.46194, y: -29.576126}
+      - {x: 87.46194, y: -13.576126}
+      - {x: 69.46194, y: 42.423874}
+      - {x: 118.46194, y: 103.423874}
+      - {x: 256.4619, y: 105.423874}
+      indices: 000000000600000007000000050000000300000004000000050000000600000003000000000000000100000002000000000000000200000003000000000000000300000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0015
+      rect:
+        serializedVersion: 2
+        x: 2.0761204
+        y: 1351.0762
+        width: 209.84775
+        height: 123.84776
+      alignment: 9
+      pivot: {x: 0.1259193, y: 0.7018603}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -103.99999, y: 4.9999485}
+        - {x: -66.99999, y: 61.999947}
+        - {x: 64.00001, y: 59.999947}
+        - {x: 72.00001, y: 23.999947}
+        - {x: 116.00001, y: -20.000053}
+        - {x: -27.999992, y: -64.00005}
+        - {x: -105.99999, y: -43.000053}
+      physicsShape:
+      - - {x: 83.00001, y: -25.000053}
+        - {x: 97.00001, y: -21.00005}
+        - {x: 101.00001, y: -18.00005}
+        - {x: 101.00001, y: -9.000053}
+        - {x: 98.00001, y: -4.0000534}
+        - {x: 90.00001, y: -6.0000534}
+        - {x: 66.00001, y: 19.999947}
+        - {x: 64.00001, y: 39.999947}
+        - {x: 62.000008, y: 52.999947}
+        - {x: 54.999992, y: 57.999947}
+        - {x: 45.000008, y: 56.999947}
+        - {x: 0.0000076293945, y: 53.999947}
+        - {x: -28.999996, y: 53.999947}
+        - {x: -49.999992, y: 57.999947}
+        - {x: -61.999992, y: 57.999947}
+        - {x: -73.99999, y: 38.999947}
+        - {x: -73.99999, y: 25.999947}
+        - {x: -83.99999, y: 21.999947}
+        - {x: -93.99999, y: 12.999947}
+        - {x: -98.99999, y: 3.9999466}
+        - {x: -100.99999, y: -4.0000534}
+        - {x: -100.99999, y: -24.00005}
+        - {x: -89.99999, y: -41.000053}
+        - {x: -72.99999, y: -45.000053}
+        - {x: -49.999992, y: -53.000053}
+        - {x: -39.999992, y: -57.000053}
+        - {x: -17.999996, y: -57.000053}
+        - {x: 12.000008, y: -44.000053}
+        - {x: 32.000008, y: -31.000053}
+        - {x: 48.000008, y: -24.00005}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebe9d125f7f464282f5524af030ef8d
+      internalID: 21300030
+      vertices:
+      - {x: 247.42387, y: 96.92388}
+      - {x: 255.42387, y: 60.92388}
+      - {x: 299.4239, y: 16.923882}
+      - {x: 155.42387, y: -27.076118}
+      - {x: 77.423874, y: -6.0761185}
+      - {x: 79.423874, y: 41.92388}
+      - {x: 116.423874, y: 98.92388}
+      indices: 030000000500000006000000030000000400000005000000010000000200000003000000010000000300000006000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0026
+      rect:
+        serializedVersion: 2
+        x: 447.0761
+        y: 1272.0762
+        width: 196.91502
+        height: 111.84776
+      alignment: 9
+      pivot: {x: 0.1037193, y: 0.7056362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -100.53362, y: -2.0000534}
+        - {x: -65.53362, y: 56.999947}
+        - {x: 57.466377, y: 53.999947}
+        - {x: 82.46638, y: -2.0000534}
+        - {x: 117.46638, y: -14.000053}
+        - {x: -28.533627, y: -58.000053}
+        - {x: -94.53362, y: -38.000053}
+      physicsShape:
+      - - {x: 88.46638, y: -23.00005}
+        - {x: 97.46638, y: -17.00005}
+        - {x: 97.46638, y: -11.000053}
+        - {x: 95.46638, y: -7.0000515}
+        - {x: 70.46638, y: 2.9999485}
+        - {x: 62.466377, y: 28.999947}
+        - {x: 61.466377, y: 45.999947}
+        - {x: 55.466362, y: 54.999947}
+        - {x: 39.46637, y: 54.999947}
+        - {x: -0.53362274, y: 51.999947}
+        - {x: -4.5336304, y: 50.999947}
+        - {x: -49.533623, y: 54.999947}
+        - {x: -61.533623, y: 54.999947}
+        - {x: -71.53362, y: 36.999947}
+        - {x: -91.53362, y: 10.999947}
+        - {x: -97.53362, y: -0.000051498413}
+        - {x: -97.53362, y: -21.000053}
+        - {x: -94.53362, y: -27.000053}
+        - {x: -84.53362, y: -40.000053}
+        - {x: -74.53362, y: -44.000046}
+        - {x: -55.533623, y: -45.000053}
+        - {x: -42.533623, y: -55.000053}
+        - {x: -19.533627, y: -55.000053}
+        - {x: -11.533623, y: -54.000053}
+        - {x: 14.46637, y: -40.000053}
+        - {x: 42.46637, y: -24.000053}
+        - {x: 70.46638, y: -25.000053}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21cb2397c3a4be1b38986a4b01e51f0
+      internalID: 21300032
+      vertices:
+      - {x: 233.95752, y: 86.92388}
+      - {x: 258.95752, y: 30.923882}
+      - {x: 293.95752, y: 18.923882}
+      - {x: 147.9575, y: -25.076118}
+      - {x: 81.95751, y: -5.0761185}
+      - {x: 75.95751, y: 30.923882}
+      - {x: 110.95751, y: 89.92388}
+      indices: 030000000500000006000000030000000400000005000000010000000200000003000000000000000100000003000000000000000300000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0009
+      rect:
+        serializedVersion: 2
+        x: 457.0761
+        y: 1508.0762
+        width: 221.92387
+        height: 132.89713
+      alignment: 9
+      pivot: {x: 0.1506097, y: 0.69921625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -111.03804, y: 9.4752655}
+        - {x: -72.03805, y: 66.475266}
+        - {x: 67.96195, y: 64.475266}
+        - {x: 92.96195, y: 6.4752674}
+        - {x: 110.96195, y: -3.5247326}
+        - {x: 110.96195, y: -26.52473}
+        - {x: -30.038048, y: -70.524734}
+        - {x: -110.03805, y: -44.524734}
+      physicsShape:
+      - - {x: 57.961952, y: -26.52473}
+        - {x: 94.96194, y: -25.524734}
+        - {x: 104.96195, y: -17.524734}
+        - {x: 104.96195, y: -8.5247345}
+        - {x: 82.96195, y: -0.5247326}
+        - {x: 71.96195, y: 14.4752655}
+        - {x: 65.96195, y: 49.475266}
+        - {x: 63.961952, y: 54.475266}
+        - {x: 59.961952, y: 59.475266}
+        - {x: 34.961952, y: 58.475266}
+        - {x: -4.0380554, y: 56.475266}
+        - {x: -32.038048, y: 57.475266}
+        - {x: -53.038048, y: 59.475266}
+        - {x: -63.038048, y: 59.475266}
+        - {x: -66.03805, y: 56.475266}
+        - {x: -88.03805, y: 22.475266}
+        - {x: -97.03805, y: 12.4752655}
+        - {x: -101.03805, y: 4.4752655}
+        - {x: -104.03805, y: -3.5247326}
+        - {x: -104.03805, y: -24.524734}
+        - {x: -92.03805, y: -42.524734}
+        - {x: -84.03805, y: -45.524734}
+        - {x: -64.03805, y: -47.524734}
+        - {x: -49.038048, y: -55.524734}
+        - {x: -41.03805, y: -59.524727}
+        - {x: -17.038052, y: -59.524727}
+        - {x: 11.961952, y: -45.524734}
+        - {x: 31.961952, y: -33.52473}
+        - {x: 34.961952, y: -30.524734}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac5e2bbea8c458499efca4ff495e76e
+      internalID: 21300034
+      vertices:
+      - {x: 256.46194, y: 104.44856}
+      - {x: 281.46194, y: 46.448563}
+      - {x: 299.46194, y: 36.448563}
+      - {x: 299.46194, y: 13.448566}
+      - {x: 158.46194, y: -30.551437}
+      - {x: 78.46194, y: -4.5514374}
+      - {x: 77.461945, y: 49.448563}
+      - {x: 116.46194, y: 106.44856}
+      indices: 040000000600000007000000040000000500000006000000010000000300000004000000010000000200000003000000000000000100000004000000000000000400000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_WalkMirror0010
+      rect:
+        serializedVersion: 2
+        x: 2.0761204
+        y: 649.0761
+        width: 175.89713
+        height: 115.84776
+      alignment: 9
+      pivot: {x: 0.45722112, y: 0.7762247}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -87.02467, y: -43.999992}
+        - {x: -89.02468, y: 53.000008}
+        - {x: -3.024681, y: 50.000008}
+        - {x: 43.97532, y: 61.000008}
+        - {x: 96.97531, y: -15.999992}
+        - {x: 83.97532, y: -36.999992}
+        - {x: 16.975317, y: -36.999992}
+        - {x: -67.02467, y: -63.999992}
+      physicsShape:
+      - - {x: 18.975317, y: -39.999992}
+        - {x: 82.97532, y: -37.999992}
+        - {x: 86.97532, y: -32.999992}
+        - {x: 86.97532, y: -8.999992}
+        - {x: 78.97532, y: 8.000008}
+        - {x: 67.97532, y: 20.000008}
+        - {x: 50.975315, y: 42.000008}
+        - {x: 47.97532, y: 53.000008}
+        - {x: 44.975315, y: 57.000008}
+        - {x: 32.97532, y: 57.000008}
+        - {x: -4.024681, y: 51.000008}
+        - {x: -23.024681, y: 46.000008}
+        - {x: -61.024677, y: 51.000008}
+        - {x: -73.02468, y: 51.000008}
+        - {x: -82.02468, y: 36.000008}
+        - {x: -79.02468, y: 3.0000076}
+        - {x: -79.02468, y: -6.9999924}
+        - {x: -87.02467, y: -23.999992}
+        - {x: -87.02467, y: -40.999985}
+        - {x: -86.02468, y: -47.999985}
+        - {x: -73.02468, y: -56.999992}
+        - {x: -48.02468, y: -56.999992}
+        - {x: -40.02468, y: -52.999992}
+        - {x: -17.024681, y: -26.999989}
+        - {x: -15.024681, y: -33.999992}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e778db9cce4b16b0cdd8995e5f2a87
+      internalID: 21300036
+      vertices:
+      - {x: 192.44855, y: 9.923882}
+      - {x: 179.44856, y: -11.076118}
+      - {x: 112.44856, y: -11.076118}
+      - {x: 28.448566, y: -38.07612}
+      - {x: 8.44857, y: -18.076118}
+      - {x: 6.4485626, y: 78.92388}
+      - {x: 92.44856, y: 75.92388}
+      - {x: 139.44856, y: 86.92388}
+      indices: 040000000500000006000000020000000600000007000000040000000200000003000000040000000600000002000000000000000100000002000000000000000200000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_WalkMirror0004
+      rect:
+        serializedVersion: 2
+        x: 433.0761
+        y: 801.02673
+        width: 191.87256
+        height: 103.89713
+      alignment: 9
+      pivot: {x: 0.47127056, y: 0.76011014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -69.01239, y: 47.024696}
+        - {x: 15.987608, y: 44.0247}
+        - {x: 45.98761, y: 54.024696}
+        - {x: 93.98761, y: -3.9752998}
+        - {x: 97.98761, y: -33.9753}
+        - {x: 37.98761, y: -50.9753}
+        - {x: -19.01239, y: -32.975296}
+        - {x: -86.01239, y: -61.9753}
+        - {x: -101.01239, y: -11.9753}
+      physicsShape:
+      - - {x: 30.987606, y: -48.9753}
+        - {x: 44.98761, y: -46.9753}
+        - {x: 57.98761, y: -45.975292}
+        - {x: 69.98761, y: -32.975296}
+        - {x: 86.9876, y: -34.9753}
+        - {x: 91.98761, y: -34.9753}
+        - {x: 94.98761, y: -30.9753}
+        - {x: 94.98761, y: -19.9753}
+        - {x: 92.9876, y: -10.9753}
+        - {x: 88.98761, y: 1.0247002}
+        - {x: 72.98761, y: 18.0247}
+        - {x: 53.987606, y: 36.0247}
+        - {x: 49.98761, y: 50.024696}
+        - {x: 47.987606, y: 52.0247}
+        - {x: 41.98761, y: 52.0247}
+        - {x: 20.987608, y: 45.0247}
+        - {x: -1.0123901, y: 42.0247}
+        - {x: -5.01239, y: 40.0247}
+        - {x: -40.01239, y: 41.0247}
+        - {x: -45.01239, y: 43.0247}
+        - {x: -67.01239, y: 46.0247}
+        - {x: -70.01239, y: 42.0247}
+        - {x: -74.01239, y: 31.0247}
+        - {x: -86.01239, y: 17.0247}
+        - {x: -86.01239, y: 7.024702}
+        - {x: -90.01239, y: 0.024702072}
+        - {x: -95.01239, y: -12.975296}
+        - {x: -95.01239, y: -31.975296}
+        - {x: -94.01239, y: -37.9753}
+        - {x: -82.01239, y: -46.9753}
+        - {x: -74.01239, y: -50.9753}
+        - {x: -58.012386, y: -50.9753}
+        - {x: -34.01239, y: -32.975296}
+        - {x: 3.9876099, y: -35.9753}
+        - {x: 21.98761, y: -47.9753}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47ea6049d744a9eb61356cda9fc85a6
+      internalID: 21300038
+      vertices:
+      - {x: 195.43628, y: 20.948566}
+      - {x: 199.43628, y: -9.051434}
+      - {x: 139.43628, y: -26.051434}
+      - {x: 82.43628, y: -8.05143}
+      - {x: 15.436279, y: -37.051434}
+      - {x: 0.4362793, y: 12.948566}
+      - {x: 32.43628, y: 71.94856}
+      - {x: 117.43628, y: 68.94856}
+      - {x: 147.43628, y: 78.94856}
+      indices: 030000000600000007000000000000000700000008000000050000000300000004000000030000000500000006000000020000000300000007000000000000000100000002000000000000000200000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_WalkMirror0007
+      rect:
+        serializedVersion: 2
+        x: 827.0761
+        y: 571.0761
+        width: 175.89713
+        height: 115.84776
+      alignment: 9
+      pivot: {x: 0.45722118, y: 0.5863202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -87.024666, y: -43.99999}
+        - {x: -89.02467, y: 53.000004}
+        - {x: -3.0246735, y: 50.000004}
+        - {x: 43.975327, y: 61.000008}
+        - {x: 96.97532, y: -15.999992}
+        - {x: 83.97533, y: -36.999992}
+        - {x: 16.975325, y: -36.999992}
+        - {x: -67.02467, y: -63.999992}
+      physicsShape:
+      - - {x: 18.975325, y: -39.999992}
+        - {x: 82.97533, y: -37.999992}
+        - {x: 86.97533, y: -32.99999}
+        - {x: 86.97533, y: -8.999992}
+        - {x: 78.97533, y: 8.000008}
+        - {x: 67.97533, y: 20.000008}
+        - {x: 50.975323, y: 42.000008}
+        - {x: 47.975327, y: 53.000004}
+        - {x: 44.975323, y: 57.000008}
+        - {x: 32.975327, y: 57.000008}
+        - {x: -4.0246735, y: 51.000008}
+        - {x: -23.024673, y: 46.000008}
+        - {x: -61.02467, y: 51.000008}
+        - {x: -73.02467, y: 51.000008}
+        - {x: -82.02467, y: 36.000008}
+        - {x: -79.02467, y: 3.0000076}
+        - {x: -79.02467, y: -6.9999924}
+        - {x: -87.024666, y: -23.999992}
+        - {x: -87.024666, y: -40.999992}
+        - {x: -86.02467, y: -47.999992}
+        - {x: -73.02467, y: -56.999985}
+        - {x: -48.024673, y: -56.999985}
+        - {x: -40.024673, y: -52.999992}
+        - {x: -17.024673, y: -26.999992}
+        - {x: -15.024673, y: -33.999992}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4723aa6e1b494a1bbe22f340c93f89c5
+      internalID: 21300040
+      vertices:
+      - {x: 192.44855, y: 31.923882}
+      - {x: 179.44856, y: 10.923882}
+      - {x: 112.44856, y: 10.923882}
+      - {x: 28.448566, y: -16.076118}
+      - {x: 8.44857, y: 3.9238853}
+      - {x: 6.4485626, y: 100.923874}
+      - {x: 92.44856, y: 97.923874}
+      - {x: 139.44856, y: 108.92388}
+      indices: 040000000500000006000000020000000600000007000000040000000200000003000000040000000600000002000000000000000100000002000000000000000200000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_IdleMirror
+      rect:
+        serializedVersion: 2
+        x: 356.02676
+        y: 452.0761
+        width: 158.9465
+        height: 111.89713
+      alignment: 9
+      pivot: {x: 0.4968542, y: 0.90193456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -79.500015, y: -1.0246735}
+        - {x: -74.500015, y: 55.975323}
+        - {x: 51.499985, y: 56.975323}
+        - {x: 82.499985, y: -42.024677}
+        - {x: 12.499985, y: -61.02467}
+        - {x: -53.50001, y: -45.024677}
+      physicsShape:
+      - - {x: 78.499985, y: -29.024677}
+        - {x: 68.499985, y: -15.024673}
+        - {x: 55.499985, y: 31.975323}
+        - {x: 52.49998, y: 51.975323}
+        - {x: 48.49998, y: 55.975323}
+        - {x: 24.499985, y: 54.975323}
+        - {x: -9.500015, y: 51.975323}
+        - {x: -30.500013, y: 51.975323}
+        - {x: -47.500015, y: 55.975323}
+        - {x: -70.500015, y: 55.975323}
+        - {x: -76.500015, y: 38.975323}
+        - {x: -75.500015, y: 26.975323}
+        - {x: -72.500015, y: 14.975325}
+        - {x: -79.500015, y: 6.9753227}
+        - {x: -79.500015, y: -6.0246773}
+        - {x: -67.50001, y: -15.024673}
+        - {x: -57.500015, y: -38.024677}
+        - {x: -51.500015, y: -46.024677}
+        - {x: -19.500015, y: -48.024677}
+        - {x: -1.5000153, y: -50.024677}
+        - {x: 8.499985, y: -55.024677}
+        - {x: 36.499985, y: -55.024677}
+        - {x: 48.49998, y: -46.024677}
+        - {x: 76.499985, y: -45.024677}
+        - {x: 78.499985, y: -40.024677}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222bce9caaf44685b31ef53bab4b4c69
+      internalID: 21300042
+      vertices:
+      - {x: 162.47325, y: -31.051434}
+      - {x: 92.47325, y: -50.051426}
+      - {x: 26.473255, y: -34.051434}
+      - {x: 0.47325134, y: 9.94857}
+      - {x: 5.4732513, y: 66.94856}
+      - {x: 131.47325, y: 67.94856}
+      indices: 030000000400000005000000020000000300000005000000010000000200000005000000000000000100000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0025
+      rect:
+        serializedVersion: 2
+        x: 672.0761
+        y: 1275.0762
+        width: 196.91502
+        height: 111.84776
+      alignment: 9
+      pivot: {x: 0.1037193, y: 0.7056362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -100.53362, y: -2.0000534}
+        - {x: -65.53362, y: 56.999947}
+        - {x: 57.466377, y: 53.999947}
+        - {x: 82.46638, y: -2.0000534}
+        - {x: 117.46638, y: -14.000053}
+        - {x: -28.533627, y: -58.000053}
+        - {x: -94.53362, y: -38.000053}
+      physicsShape:
+      - - {x: 88.46638, y: -23.00005}
+        - {x: 97.46638, y: -17.00005}
+        - {x: 97.46638, y: -11.000053}
+        - {x: 95.46638, y: -7.0000515}
+        - {x: 70.46638, y: 2.9999485}
+        - {x: 62.466377, y: 28.999947}
+        - {x: 61.466377, y: 45.999947}
+        - {x: 55.466362, y: 54.999947}
+        - {x: 39.46637, y: 54.999947}
+        - {x: -0.53362274, y: 51.999947}
+        - {x: -4.5336304, y: 50.999947}
+        - {x: -49.533623, y: 54.999947}
+        - {x: -61.533623, y: 54.999947}
+        - {x: -71.53362, y: 36.999947}
+        - {x: -91.53362, y: 10.999947}
+        - {x: -97.53362, y: -0.000051498413}
+        - {x: -97.53362, y: -21.000053}
+        - {x: -94.53362, y: -27.000053}
+        - {x: -84.53362, y: -40.000053}
+        - {x: -74.53362, y: -44.000046}
+        - {x: -55.533623, y: -45.000053}
+        - {x: -42.533623, y: -55.000053}
+        - {x: -19.533627, y: -55.000053}
+        - {x: -11.533623, y: -54.000053}
+        - {x: 14.46637, y: -40.000053}
+        - {x: 42.46637, y: -24.000053}
+        - {x: 70.46638, y: -25.000053}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bcb521777e434f80fecd7f395025be
+      internalID: 21300044
+      vertices:
+      - {x: 233.95752, y: 86.92388}
+      - {x: 258.95752, y: 30.923882}
+      - {x: 293.95752, y: 18.923882}
+      - {x: 147.9575, y: -25.076118}
+      - {x: 81.95751, y: -5.0761185}
+      - {x: 75.95751, y: 30.923882}
+      - {x: 110.95751, y: 89.92388}
+      indices: 030000000500000006000000030000000400000005000000010000000200000003000000000000000100000003000000000000000300000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0033
+      rect:
+        serializedVersion: 2
+        x: 663.0761
+        y: 1041.0762
+        width: 196.91502
+        height: 111.84776
+      alignment: 9
+      pivot: {x: 0.1037193, y: 0.7056362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -100.53362, y: -2.0000534}
+        - {x: -65.53362, y: 56.999947}
+        - {x: 57.466377, y: 53.999947}
+        - {x: 82.46638, y: -2.0000534}
+        - {x: 117.46638, y: -14.000053}
+        - {x: -28.533627, y: -58.000053}
+        - {x: -94.53362, y: -38.000053}
+      physicsShape:
+      - - {x: 88.46638, y: -23.00005}
+        - {x: 97.46638, y: -17.00005}
+        - {x: 97.46638, y: -11.000053}
+        - {x: 95.46638, y: -7.0000515}
+        - {x: 70.46638, y: 2.9999485}
+        - {x: 62.466377, y: 28.999947}
+        - {x: 61.466377, y: 45.999947}
+        - {x: 55.466362, y: 54.999947}
+        - {x: 39.46637, y: 54.999947}
+        - {x: -0.53362274, y: 51.999947}
+        - {x: -4.5336304, y: 50.999947}
+        - {x: -49.533623, y: 54.999947}
+        - {x: -61.533623, y: 54.999947}
+        - {x: -71.53362, y: 36.999947}
+        - {x: -91.53362, y: 10.999947}
+        - {x: -97.53362, y: -0.000051498413}
+        - {x: -97.53362, y: -21.000053}
+        - {x: -94.53362, y: -27.000053}
+        - {x: -84.53362, y: -40.000053}
+        - {x: -74.53362, y: -44.000046}
+        - {x: -55.533623, y: -45.000053}
+        - {x: -42.533623, y: -55.000053}
+        - {x: -19.533627, y: -55.000053}
+        - {x: -11.533623, y: -54.000053}
+        - {x: 14.46637, y: -40.000053}
+        - {x: 42.46637, y: -24.000053}
+        - {x: 70.46638, y: -25.000053}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7116c63a04fb4715bcf11857be130534
+      internalID: 21300046
+      vertices:
+      - {x: 233.95752, y: 86.92388}
+      - {x: 258.95752, y: 30.923882}
+      - {x: 293.95752, y: 18.923882}
+      - {x: 147.9575, y: -25.076118}
+      - {x: 81.95751, y: -5.0761185}
+      - {x: 75.95751, y: 30.923882}
+      - {x: 110.95751, y: 89.92388}
+      indices: 030000000500000006000000030000000400000005000000010000000200000003000000000000000100000003000000000000000300000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0020
+      rect:
+        serializedVersion: 2
+        x: 482.0761
+        y: 1645.0762
+        width: 199.9092
+        height: 114.89713
+      alignment: 9
+      pivot: {x: 0.1071681, y: 0.7043155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -86.03071, y: -45.52474}
+        - {x: -110.03071, y: -9.524738}
+        - {x: -63.03071, y: 58.47526}
+        - {x: 59.96929, y: 56.47526}
+        - {x: 70.96929, y: 6.4752617}
+        - {x: 114.96929, y: -15.524738}
+        - {x: -27.030708, y: -59.52474}
+      physicsShape:
+      - - {x: 45.96929, y: -23.524738}
+        - {x: 87.96929, y: -23.524738}
+        - {x: 97.96929, y: -16.524734}
+        - {x: 97.96929, y: -11.524738}
+        - {x: 95.96929, y: -7.5247383}
+        - {x: 71.96929, y: 2.4752617}
+        - {x: 61.96929, y: 48.47526}
+        - {x: 55.96929, y: 55.47526}
+        - {x: 38.969284, y: 55.47526}
+        - {x: -4.0307083, y: 52.47526}
+        - {x: -37.03071, y: 55.47526}
+        - {x: -62.03071, y: 55.47526}
+        - {x: -72.03071, y: 38.47526}
+        - {x: -84.03071, y: 21.475262}
+        - {x: -99.03071, y: 2.4752617}
+        - {x: -99.03071, y: -23.524738}
+        - {x: -91.03071, y: -41.52474}
+        - {x: -57.03071, y: -46.52474}
+        - {x: -45.030712, y: -55.52474}
+        - {x: -17.030708, y: -55.52474}
+        - {x: 17.969292, y: -38.52474}
+        - {x: 25.969284, y: -33.52474}
+        - {x: 34.96929, y: -27.524738}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315b0861a87346eab7d15dd85a259c21
+      internalID: 21300048
+      vertices:
+      - {x: 238.45459, y: 90.44856}
+      - {x: 249.45459, y: 40.448566}
+      - {x: 293.4546, y: 18.448566}
+      - {x: 151.45459, y: -25.551434}
+      - {x: 92.4546, y: -11.551434}
+      - {x: 68.4546, y: 24.448566}
+      - {x: 115.4546, y: 92.44856}
+      indices: 040000000500000006000000030000000400000006000000010000000200000003000000010000000300000006000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_WalkMirror0003
+      rect:
+        serializedVersion: 2
+        x: 6.0761204
+        y: 780.02673
+        width: 191.87256
+        height: 103.89713
+      alignment: 9
+      pivot: {x: 0.47127053, y: 0.6638611}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -69.0124, y: 47.024696}
+        - {x: 15.9876, y: 44.024696}
+        - {x: 45.987602, y: 54.0247}
+        - {x: 93.9876, y: -3.9752998}
+        - {x: 97.9876, y: -33.9753}
+        - {x: 37.987602, y: -50.9753}
+        - {x: -19.012398, y: -32.9753}
+        - {x: -86.0124, y: -61.9753}
+        - {x: -101.0124, y: -11.9753}
+      physicsShape:
+      - - {x: 30.987598, y: -48.9753}
+        - {x: 44.987602, y: -46.9753}
+        - {x: 57.987602, y: -45.9753}
+        - {x: 69.9876, y: -32.9753}
+        - {x: 86.987595, y: -34.9753}
+        - {x: 91.9876, y: -34.9753}
+        - {x: 94.9876, y: -30.9753}
+        - {x: 94.9876, y: -19.9753}
+        - {x: 92.987595, y: -10.9753}
+        - {x: 88.9876, y: 1.0247002}
+        - {x: 72.9876, y: 18.0247}
+        - {x: 53.9876, y: 36.0247}
+        - {x: 49.987602, y: 50.0247}
+        - {x: 47.9876, y: 52.0247}
+        - {x: 41.987602, y: 52.0247}
+        - {x: 20.9876, y: 45.0247}
+        - {x: -1.0123978, y: 42.0247}
+        - {x: -5.012398, y: 40.024696}
+        - {x: -40.012398, y: 41.0247}
+        - {x: -45.012398, y: 43.0247}
+        - {x: -67.0124, y: 46.0247}
+        - {x: -70.0124, y: 42.0247}
+        - {x: -74.0124, y: 31.0247}
+        - {x: -86.0124, y: 17.0247}
+        - {x: -86.0124, y: 7.024701}
+        - {x: -90.0124, y: 0.024700165}
+        - {x: -95.0124, y: -12.975298}
+        - {x: -95.0124, y: -31.975296}
+        - {x: -94.0124, y: -37.9753}
+        - {x: -82.0124, y: -46.9753}
+        - {x: -74.0124, y: -50.9753}
+        - {x: -58.012394, y: -50.9753}
+        - {x: -34.012398, y: -32.9753}
+        - {x: 3.9876022, y: -35.975296}
+        - {x: 21.987602, y: -47.9753}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c61be466664261a48e2f5d91aa5811
+      internalID: 21300050
+      vertices:
+      - {x: 195.43628, y: 30.948566}
+      - {x: 199.43628, y: 0.94856644}
+      - {x: 139.43628, y: -16.051434}
+      - {x: 82.43628, y: 1.9485664}
+      - {x: 15.436279, y: -27.051434}
+      - {x: 0.4362793, y: 22.948566}
+      - {x: 32.43628, y: 81.94856}
+      - {x: 117.43628, y: 78.94856}
+      - {x: 147.43628, y: 88.94856}
+      indices: 030000000600000007000000000000000700000008000000050000000300000004000000030000000500000006000000020000000300000007000000000000000100000002000000000000000200000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0023
+      rect:
+        serializedVersion: 2
+        x: 227.07613
+        y: 1286.0762
+        width: 196.91502
+        height: 111.84776
+      alignment: 9
+      pivot: {x: 0.10371923, y: 0.7056362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -100.53364, y: -2.0000534}
+        - {x: -65.53364, y: 56.999947}
+        - {x: 57.466362, y: 53.999947}
+        - {x: 82.46636, y: -2.0000534}
+        - {x: 117.46636, y: -14.000053}
+        - {x: -28.533642, y: -58.000053}
+        - {x: -94.53364, y: -38.000053}
+      physicsShape:
+      - - {x: 88.46636, y: -23.00005}
+        - {x: 97.46636, y: -17.00005}
+        - {x: 97.46636, y: -11.000053}
+        - {x: 95.46636, y: -7.0000515}
+        - {x: 70.46636, y: 2.9999485}
+        - {x: 62.466362, y: 28.999947}
+        - {x: 61.466362, y: 45.999947}
+        - {x: 55.466347, y: 54.999947}
+        - {x: 39.466354, y: 54.999947}
+        - {x: -0.533638, y: 51.999947}
+        - {x: -4.5336456, y: 50.999947}
+        - {x: -49.533638, y: 54.999947}
+        - {x: -61.533638, y: 54.999947}
+        - {x: -71.53364, y: 36.999947}
+        - {x: -91.53364, y: 10.999947}
+        - {x: -97.53364, y: -0.000051498413}
+        - {x: -97.53364, y: -21.000053}
+        - {x: -94.53364, y: -27.000053}
+        - {x: -84.53364, y: -40.000053}
+        - {x: -74.53364, y: -44.000046}
+        - {x: -55.533638, y: -45.000053}
+        - {x: -42.533638, y: -55.000053}
+        - {x: -19.533642, y: -55.000053}
+        - {x: -11.533638, y: -54.000053}
+        - {x: 14.466354, y: -40.000053}
+        - {x: 42.466354, y: -24.000053}
+        - {x: 70.46636, y: -25.000053}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3365ea5708d848489edf0114b6d99758
+      internalID: 21300052
+      vertices:
+      - {x: 233.95752, y: 86.92388}
+      - {x: 258.95752, y: 30.923882}
+      - {x: 293.95752, y: 18.923882}
+      - {x: 147.9575, y: -25.076118}
+      - {x: 81.95751, y: -5.0761185}
+      - {x: 75.95751, y: 30.923882}
+      - {x: 110.95751, y: 89.92388}
+      indices: 030000000500000006000000030000000400000005000000010000000200000003000000000000000100000003000000000000000300000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_WalkMirror0002
+      rect:
+        serializedVersion: 2
+        x: 655.0761
+        y: 813.02673
+        width: 191.87256
+        height: 103.89713
+      alignment: 9
+      pivot: {x: 0.47127056, y: 0.6061117}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -69.01239, y: 47.0247}
+        - {x: 15.987608, y: 44.0247}
+        - {x: 45.98761, y: 54.024696}
+        - {x: 93.98761, y: -3.975299}
+        - {x: 97.98761, y: -33.9753}
+        - {x: 37.98761, y: -50.9753}
+        - {x: -19.01239, y: -32.9753}
+        - {x: -86.01239, y: -61.975292}
+        - {x: -101.01239, y: -11.975298}
+      physicsShape:
+      - - {x: 30.987606, y: -48.975296}
+        - {x: 44.98761, y: -46.9753}
+        - {x: 57.98761, y: -45.9753}
+        - {x: 69.98761, y: -32.9753}
+        - {x: 86.9876, y: -34.975296}
+        - {x: 91.98761, y: -34.975296}
+        - {x: 94.98761, y: -30.9753}
+        - {x: 94.98761, y: -19.9753}
+        - {x: 92.9876, y: -10.9753}
+        - {x: 88.98761, y: 1.0247011}
+        - {x: 72.98761, y: 18.0247}
+        - {x: 53.987606, y: 36.0247}
+        - {x: 49.98761, y: 50.0247}
+        - {x: 47.987606, y: 52.0247}
+        - {x: 41.98761, y: 52.0247}
+        - {x: 20.987608, y: 45.0247}
+        - {x: -1.0123901, y: 42.0247}
+        - {x: -5.01239, y: 40.0247}
+        - {x: -40.01239, y: 41.024696}
+        - {x: -45.01239, y: 43.0247}
+        - {x: -67.01239, y: 46.0247}
+        - {x: -70.01239, y: 42.0247}
+        - {x: -74.01239, y: 31.024698}
+        - {x: -86.01239, y: 17.0247}
+        - {x: -86.01239, y: 7.0247}
+        - {x: -90.01239, y: 0.024700165}
+        - {x: -95.01239, y: -12.9753}
+        - {x: -95.01239, y: -31.975296}
+        - {x: -94.01239, y: -37.975296}
+        - {x: -82.01239, y: -46.9753}
+        - {x: -74.01239, y: -50.9753}
+        - {x: -58.012386, y: -50.9753}
+        - {x: -34.01239, y: -32.9753}
+        - {x: 3.9876099, y: -35.9753}
+        - {x: 21.98761, y: -47.975296}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ddf2c091c7424f985075e79ccae7ab
+      internalID: 21300054
+      vertices:
+      - {x: 195.43628, y: 36.948566}
+      - {x: 199.43628, y: 6.9485664}
+      - {x: 139.43628, y: -10.051434}
+      - {x: 82.43628, y: 7.9485664}
+      - {x: 15.436279, y: -21.051426}
+      - {x: 0.4362793, y: 28.948568}
+      - {x: 32.43628, y: 87.94856}
+      - {x: 117.43628, y: 84.94856}
+      - {x: 147.43628, y: 94.94856}
+      indices: 030000000600000007000000000000000700000008000000050000000300000004000000030000000500000006000000020000000300000007000000000000000100000002000000000000000200000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0017
+      rect:
+        serializedVersion: 2
+        x: 683.0761
+        y: 1394.0762
+        width: 206.84775
+        height: 119.84776
+      alignment: 9
+      pivot: {x: 0.122911125, y: 0.7002536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -105.499985, y: -4.0000534}
+        - {x: -69.499985, y: 59.999947}
+        - {x: 62.500015, y: 58.999947}
+        - {x: 76.500015, y: 3.9999485}
+        - {x: 114.500015, y: -11.000053}
+        - {x: 95.500015, y: -24.000053}
+        - {x: 15.500015, y: -44.000053}
+        - {x: -24.499989, y: -64.00005}
+        - {x: -98.499985, y: -43.000046}
+      physicsShape:
+      - - {x: 90.500015, y: -25.00005}
+        - {x: 100.500015, y: -16.00005}
+        - {x: 100.500015, y: -10.000053}
+        - {x: 72.500015, y: 2.9999466}
+        - {x: 61.500015, y: 48.999947}
+        - {x: 57.500015, y: 55.999947}
+        - {x: 37.500015, y: 55.999947}
+        - {x: 30.500008, y: 54.999947}
+        - {x: -25.499989, y: 52.999947}
+        - {x: -45.499985, y: 55.999947}
+        - {x: -61.499985, y: 55.999947}
+        - {x: -70.499985, y: 41.999947}
+        - {x: -72.499985, y: 32.999947}
+        - {x: -93.499985, y: 10.999947}
+        - {x: -99.499985, y: -0.00005340576}
+        - {x: -99.499985, y: -23.000053}
+        - {x: -96.499985, y: -30.00005}
+        - {x: -81.499985, y: -46.000053}
+        - {x: -61.499985, y: -46.000053}
+        - {x: -49.499985, y: -51.000053}
+        - {x: -44.49999, y: -57.000053}
+        - {x: -16.499985, y: -57.000053}
+        - {x: 17.500015, y: -40.000053}
+        - {x: 34.500015, y: -29.00005}
+        - {x: 46.500015, y: -25.00005}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d441a1dd788481a9d7dd6cce9c91354
+      internalID: 21300056
+      vertices:
+      - {x: 243.92387, y: 94.92388}
+      - {x: 257.9239, y: 39.92388}
+      - {x: 295.9239, y: 24.923882}
+      - {x: 276.9239, y: 11.923882}
+      - {x: 196.92387, y: -8.076118}
+      - {x: 156.92387, y: -28.076118}
+      - {x: 82.923874, y: -7.076111}
+      - {x: 75.923874, y: 31.923882}
+      - {x: 111.923874, y: 95.92388}
+      indices: 050000000700000008000000050000000600000007000000040000000500000008000000010000000300000004000000010000000200000003000000000000000100000004000000000000000400000008000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0003
+      rect:
+        serializedVersion: 2
+        x: 486.0761
+        y: 1766.0762
+        width: 227.92387
+        height: 137.84775
+      alignment: 9
+      pivot: {x: 0.15980725, y: 0.69586796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -117.03805, y: 6.999956}
+        - {x: -72.03805, y: 69.999954}
+        - {x: 69.96195, y: 67.999954}
+        - {x: 93.96194, y: 7.999954}
+        - {x: 113.96195, y: -3.0000439}
+        - {x: 113.96195, y: -29.000046}
+        - {x: 39.961945, y: -47.000046}
+        - {x: -22.038048, y: -72.00004}
+        - {x: -109.03805, y: -57.000046}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea90b90ee3bc478192fcf5e63a3e7dab
+      internalID: 21300058
+      vertices:
+      - {x: 261.46194, y: 109.923874}
+      - {x: 285.4619, y: 49.923874}
+      - {x: 305.46194, y: 38.923874}
+      - {x: 305.46194, y: 12.923874}
+      - {x: 231.46193, y: -5.076126}
+      - {x: 169.46194, y: -30.076118}
+      - {x: 82.46194, y: -15.076126}
+      - {x: 74.46194, y: 48.923874}
+      - {x: 119.46194, y: 111.923874}
+      indices: 050000000700000008000000050000000600000007000000040000000500000008000000010000000300000004000000010000000200000003000000000000000100000004000000000000000400000008000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_VententerMirror0007
+      rect:
+        serializedVersion: 2
+        x: 186.04291
+        y: 501.0761
+        width: 162.9208
+        height: 63.897125
+      alignment: 9
+      pivot: {x: 0.45394504, y: 2.8784375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -67.50331, y: 20.975327}
+        - {x: 16.496689, y: 21.975327}
+        - {x: 59.49668, y: 35.975327}
+        - {x: 86.49669, y: -32.02466}
+        - {x: -59.50331, y: -31.024673}
+        - {x: -83.50331, y: -7.024658}
+      physicsShape:
+      - - {x: 68.49669, y: 1.9753265}
+        - {x: 57.49669, y: 31.975334}
+        - {x: 52.496685, y: 31.975334}
+        - {x: 27.496689, y: 22.975327}
+        - {x: 0.49668884, y: 19.975327}
+        - {x: -5.503311, y: 16.975327}
+        - {x: -50.503307, y: 20.975327}
+        - {x: -63.50331, y: 17.975342}
+        - {x: -78.50331, y: 3.9753265}
+        - {x: -80.5033, y: -6.0246735}
+        - {x: -80.5033, y: -11.024673}
+        - {x: -64.50331, y: -26.024673}
+        - {x: -55.50331, y: -31.024673}
+        - {x: 48.49669, y: -31.024673}
+        - {x: 80.49669, y: -22.024673}
+        - {x: 80.49669, y: -17.024673}
+        - {x: 77.49669, y: -9.024673}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c56560d0da44ca389288d793e34b99f
+      internalID: 21300060
+      vertices:
+      - {x: 175.4604, y: -152.05142}
+      - {x: 29.460403, y: -151.05144}
+      - {x: 5.4604034, y: -127.05142}
+      - {x: 21.460407, y: -99.05144}
+      - {x: 105.4604, y: -98.05144}
+      - {x: 148.46039, y: -84.05144}
+      indices: 010000000300000004000000010000000200000003000000000000000400000005000000000000000100000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_WalkMirror0006
+      rect:
+        serializedVersion: 2
+        x: 189.07613
+        y: 571.02673
+        width: 180.92387
+        height: 109.89713
+      alignment: 9
+      pivot: {x: 0.40582743, y: 0.8733009}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -90.538055, y: -1.975296}
+        - {x: -87.53806, y: 47.0247}
+        - {x: -0.53806305, y: 47.0247}
+        - {x: 47.461937, y: 58.0247}
+        - {x: 90.46193, y: -1.975296}
+        - {x: 90.46193, y: -14.9753}
+        - {x: 12.461935, y: -53.9753}
+        - {x: -59.538063, y: -54.9753}
+      physicsShape:
+      - - {x: 84.46194, y: -18.975296}
+        - {x: 90.46193, y: -10.9753}
+        - {x: 90.46193, y: -1.975296}
+        - {x: 85.46194, y: 2.0247002}
+        - {x: 70.46194, y: 10.0247}
+        - {x: 66.46194, y: 29.0247}
+        - {x: 54.461937, y: 48.0247}
+        - {x: 45.461937, y: 54.0247}
+        - {x: 27.461937, y: 54.0247}
+        - {x: -4.538063, y: 46.0247}
+        - {x: -22.538063, y: 44.0247}
+        - {x: -54.538063, y: 44.0247}
+        - {x: -81.53806, y: 48.0247}
+        - {x: -89.53806, y: 27.0247}
+        - {x: -89.53806, y: -7.975296}
+        - {x: -70.538055, y: -18.975296}
+        - {x: -65.53806, y: -44.975292}
+        - {x: -57.538063, y: -49.9753}
+        - {x: -30.538063, y: -50.975292}
+        - {x: -18.538063, y: -49.9753}
+        - {x: -10.538063, y: -53.9753}
+        - {x: 5.461937, y: -53.9753}
+        - {x: 24.461937, y: -50.975292}
+        - {x: 36.461933, y: -37.9753}
+        - {x: 35.461933, y: -30.9753}
+        - {x: 58.461937, y: -28.9753}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7799220683754b80acd3f64fcd8c17c7
+      internalID: 21300062
+      vertices:
+      - {x: 197.96193, y: 11.94857}
+      - {x: 197.96193, y: -1.0514336}
+      - {x: 119.96194, y: -40.051434}
+      - {x: 47.961937, y: -41.051434}
+      - {x: 16.961945, y: 11.94857}
+      - {x: 19.961937, y: 60.948566}
+      - {x: 106.96194, y: 60.948566}
+      - {x: 154.96194, y: 71.94856}
+      indices: 040000000500000006000000020000000000000001000000030000000400000006000000020000000300000006000000020000000600000000000000000000000600000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0051
+      rect:
+        serializedVersion: 2
+        x: 10.026751
+        y: 532.0761
+        width: 167.92194
+        height: 108.92388
+      alignment: 9
+      pivot: {x: 0.9913729, y: 1.4314941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -71.98772, y: 54.461945}
+        - {x: 53.012283, y: 54.461945}
+        - {x: 88.01228, y: -41.538055}
+        - {x: 26.012283, y: -56.538055}
+        - {x: -54.987717, y: -44.53804}
+        - {x: -92.98772, y: 12.461945}
+      physicsShape:
+      - - {x: 84.01228, y: -33.538055}
+        - {x: 69.01228, y: -7.5380554}
+        - {x: 57.012283, y: 45.461945}
+        - {x: 52.012283, y: 54.461945}
+        - {x: 13.012283, y: 54.461945}
+        - {x: -37.98771, y: 52.46195}
+        - {x: -56.987717, y: 54.461945}
+        - {x: -71.98772, y: 54.461945}
+        - {x: -79.98772, y: 37.461945}
+        - {x: -79.98772, y: 27.461945}
+        - {x: -78.98772, y: 24.461945}
+        - {x: -75.9877, y: 14.461945}
+        - {x: -82.98772, y: 10.461945}
+        - {x: -82.98772, y: -0.5380554}
+        - {x: -80.98772, y: -7.5380554}
+        - {x: -65.98772, y: -25.538055}
+        - {x: -54.987717, y: -43.538055}
+        - {x: -45.987717, y: -46.538055}
+        - {x: -15.987709, y: -45.53804}
+        - {x: 4.0122833, y: -54.538055}
+        - {x: 40.012283, y: -54.538055}
+        - {x: 46.012287, y: -49.538055}
+        - {x: 77.01228, y: -44.53804}
+        - {x: 84.01228, y: -39.538055}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8842db1490fc49269615c62b7f9dab75
+      internalID: 21300064
+      vertices:
+      - {x: 89.46097, y: -88.538055}
+      - {x: 27.460968, y: -103.538055}
+      - {x: -53.539032, y: -91.53804}
+      - {x: -91.53903, y: -34.53806}
+      - {x: -70.53903, y: 7.461941}
+      - {x: 54.460968, y: 7.461941}
+      indices: 020000000400000005000000020000000300000004000000010000000200000005000000000000000100000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0005
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1903
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 196.5, y: -200}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -0.49998474, y: 0.5}
+        - {x: 0.5, y: 0.5}
+        - {x: 0.5, y: -0.5}
+        - {x: -0.49998474, y: -0.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8f901891dc4a5b8e623ba28c42571e
+      internalID: 21300066
+      vertices:
+      - {x: -195.99998, y: 201.5}
+      - {x: -195, y: 201.5}
+      - {x: -195, y: 200.5}
+      - {x: -195.99998, y: 200.5}
+      indices: 000000000100000002000000000000000200000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_VententerMirror0002
+      rect:
+        serializedVersion: 2
+        x: 5.0761204
+        y: 414.02676
+        width: 156.84775
+        height: 111.936966
+      alignment: 9
+      pivot: {x: 0.45218298, y: 0.5179097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -73.49999, y: 43.004753}
+        - {x: 8.500008, y: 43.004753}
+        - {x: 53.500008, y: 58.00475}
+        - {x: 82.50001, y: -12.995247}
+        - {x: 72.5, y: -45.995243}
+        - {x: -14.499992, y: -55.995247}
+        - {x: -82.49999, y: -42.995243}
+      physicsShape:
+      - - {x: 57.500008, y: -41.995243}
+        - {x: 63.500008, y: -46.99524}
+        - {x: 72.5, y: -43.99524}
+        - {x: 77.50001, y: -28.995243}
+        - {x: 77.50001, y: -6.995243}
+        - {x: 74.50001, y: 7.0047565}
+        - {x: 56.500008, y: 43.004757}
+        - {x: 56.500008, y: 54.004757}
+        - {x: 51.500004, y: 55.004753}
+        - {x: 45.500004, y: 55.004753}
+        - {x: 35.500004, y: 49.004757}
+        - {x: 16.500008, y: 46.004757}
+        - {x: -27.49999, y: 41.004757}
+        - {x: -41.499992, y: 44.004757}
+        - {x: -53.49999, y: 42.004753}
+        - {x: -64.49999, y: 35.004757}
+        - {x: -73.49999, y: 17.004757}
+        - {x: -76.49999, y: 10.004757}
+        - {x: -77.49999, y: -6.995243}
+        - {x: -77.49999, y: -29.995243}
+        - {x: -66.499985, y: -44.995243}
+        - {x: -57.499992, y: -47.995243}
+        - {x: -43.499992, y: -46.99524}
+        - {x: -33.499992, y: -43.99524}
+        - {x: -20.499992, y: -54.995243}
+        - {x: -4.4999924, y: -54.995243}
+        - {x: 7.5000067, y: -46.99524}
+        - {x: 11.500008, y: -38.995243}
+        - {x: 33.500008, y: -37.99524}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b38dcfff0f4c5aa871d7b74f258615
+      internalID: 21300068
+      vertices:
+      - {x: 168.42387, y: 40.96848}
+      - {x: 158.42386, y: 7.968483}
+      - {x: 71.423874, y: -2.0315208}
+      - {x: 3.423874, y: 10.968483}
+      - {x: 12.423874, y: 96.968475}
+      - {x: 94.423874, y: 96.968475}
+      - {x: 139.42387, y: 111.968475}
+      indices: 020000000400000005000000020000000000000001000000020000000300000004000000020000000500000000000000000000000500000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0054
+      rect:
+        serializedVersion: 2
+        x: 859.02673
+        y: 800.02673
+        width: 158.9465
+        height: 111.91224
+      alignment: 9
+      pivot: {x: 1.0096055, y: 1.3937105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -67.499985, y: 55.01715}
+        - {x: 51.500015, y: 56.01715}
+        - {x: 82.500015, y: -42.98285}
+        - {x: 23.500015, y: -57.98285}
+        - {x: -57.499985, y: -44.98285}
+        - {x: -87.499985, y: 15.017151}
+      physicsShape:
+      - - {x: 78.500015, y: -28.98285}
+        - {x: 67.500015, y: -13.982849}
+        - {x: 55.500015, y: 31.01715}
+        - {x: 52.500015, y: 51.017155}
+        - {x: 48.500015, y: 55.01715}
+        - {x: 4.5000153, y: 55.01715}
+        - {x: -26.499977, y: 53.01715}
+        - {x: -51.499985, y: 55.01715}
+        - {x: -67.499985, y: 55.01715}
+        - {x: -75.499985, y: 38.01715}
+        - {x: -76.499985, y: 27.017159}
+        - {x: -68.499985, y: 14.0171585}
+        - {x: -79.499985, y: 11.017151}
+        - {x: -79.499985, y: -1.9828491}
+        - {x: -75.499985, y: -5.9828415}
+        - {x: -72.499985, y: -7.9828415}
+        - {x: -64.499985, y: -16.982841}
+        - {x: -62.499985, y: -30.98285}
+        - {x: -50.499985, y: -45.982834}
+        - {x: -43.499985, y: -47.98285}
+        - {x: -16.499985, y: -46.982834}
+        - {x: 2.5000153, y: -51.98285}
+        - {x: 6.5000153, y: -54.98285}
+        - {x: 11.500015, y: -55.98285}
+        - {x: 27.50002, y: -55.98285}
+        - {x: 37.500015, y: -54.98285}
+        - {x: 45.500015, y: -48.98285}
+        - {x: 75.500015, y: -46.982834}
+        - {x: 78.500015, y: -39.98285}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341abb60ae4143b6928eeae0b9f1e1cd
+      internalID: 21300070
+      vertices:
+      - {x: 80.97325, y: -87.043884}
+      - {x: 21.973251, y: -102.043884}
+      - {x: -59.02675, y: -89.043884}
+      - {x: -89.02675, y: -29.04388}
+      - {x: -69.02675, y: 10.95612}
+      - {x: 49.97325, y: 11.95612}
+      indices: 020000000400000005000000020000000300000004000000010000000200000005000000000000000100000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0048
+      rect:
+        serializedVersion: 2
+        x: 14.07612
+        y: 1486.0267
+        width: 202.89713
+        height: 139.9465
+      alignment: 9
+      pivot: {x: 0.67237955, y: 0.40710747}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -30.524689, y: -78.999985}
+        - {x: -114.52469, y: -38.999985}
+        - {x: -65.52469, y: 72.000015}
+        - {x: 57.47531, y: 56.000015}
+        - {x: 61.47531, y: 25.000015}
+        - {x: 108.4753, y: 23.000015}
+        - {x: 88.47531, y: -8.999985}
+        - {x: 30.475311, y: -25.999985}
+      physicsShape:
+      - - {x: 37.47531, y: -11.999985}
+        - {x: 68.47531, y: -13.999985}
+        - {x: 85.47531, y: -7.999985}
+        - {x: 94.47531, y: 2.0000143}
+        - {x: 100.47531, y: 9.000015}
+        - {x: 100.47531, y: 20.000015}
+        - {x: 98.47531, y: 27.000011}
+        - {x: 77.47531, y: 22.000015}
+        - {x: 58.47531, y: 26.000015}
+        - {x: 58.47531, y: 54.000008}
+        - {x: 53.47531, y: 57.000015}
+        - {x: -10.524689, y: 60.000008}
+        - {x: -54.52469, y: 70.000015}
+        - {x: -59.52469, y: 70.000015}
+        - {x: -67.52469, y: 62.000015}
+        - {x: -73.52468, y: 53.000015}
+        - {x: -74.52469, y: 43.000015}
+        - {x: -68.52469, y: 32.000015}
+        - {x: -86.52468, y: 15.000015}
+        - {x: -99.52469, y: -3.9999847}
+        - {x: -100.52469, y: -13.999985}
+        - {x: -100.52469, y: -34.999985}
+        - {x: -92.52469, y: -47.999985}
+        - {x: -77.52469, y: -53.999985}
+        - {x: -67.52469, y: -52.99998}
+        - {x: -53.52469, y: -66.999985}
+        - {x: -47.52469, y: -68.999985}
+        - {x: -24.524685, y: -68.999985}
+        - {x: -10.524689, y: -61.99998}
+        - {x: 0.47531128, y: -51.999985}
+        - {x: 31.475311, y: -18.999985}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063cef1ffe3b4837a66139427f597e0b
+      internalID: 21300072
+      vertices:
+      - {x: 123.94856, y: 138.97325}
+      - {x: 127.94856, y: 107.97325}
+      - {x: 174.94855, y: 105.97325}
+      - {x: 154.94856, y: 73.97325}
+      - {x: 96.94856, y: 56.97325}
+      - {x: 35.948563, y: 3.9732513}
+      - {x: -48.051437, y: 43.97325}
+      - {x: 0.9485626, y: 154.97325}
+      indices: 050000000600000007000000040000000500000007000000010000000300000004000000010000000200000003000000000000000100000004000000000000000400000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0018
+      rect:
+        serializedVersion: 2
+        x: 437.02676
+        y: 913.0761
+        width: 203.9465
+        height: 117.880974
+      alignment: 9
+      pivot: {x: 0.115095064, y: 0.7034544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -102.000015, y: 6.9834023}
+        - {x: -64.000015, y: 58.983402}
+        - {x: 59.999985, y: 56.983402}
+        - {x: 83.999985, y: -0.016597748}
+        - {x: 108.999985, y: -9.016598}
+        - {x: 95.999985, y: -22.016594}
+        - {x: -26.00002, y: -63.016598}
+        - {x: -101.000015, y: -40.016598}
+      physicsShape:
+      - - {x: 90.999985, y: -25.016594}
+        - {x: 98.999985, y: -17.016598}
+        - {x: 98.999985, y: -9.016598}
+        - {x: 76.999985, y: -1.0165977}
+        - {x: 67.99997, y: 10.983402}
+        - {x: 61.999985, y: 49.983402}
+        - {x: 54.99997, y: 55.983402}
+        - {x: 36.999985, y: 55.983402}
+        - {x: 19.999977, y: 52.983402}
+        - {x: -28.000015, y: 53.9834}
+        - {x: -50.000015, y: 55.983402}
+        - {x: -63.000015, y: 55.983402}
+        - {x: -72.000015, y: 36.983402}
+        - {x: -94.000015, y: 11.983402}
+        - {x: -100.000015, y: -2.0165977}
+        - {x: -100.000015, y: -18.016598}
+        - {x: -95.000015, y: -32.016598}
+        - {x: -83.000015, y: -43.01659}
+        - {x: -61.000015, y: -45.016598}
+        - {x: -47.000015, y: -53.016598}
+        - {x: -36.000015, y: -57.016598}
+        - {x: -18.00002, y: -57.016598}
+        - {x: 6.999977, y: -45.016598}
+        - {x: 28.999977, y: -33.016598}
+        - {x: 40.999977, y: -24.016598}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6f226f8495450ebc7c54e8ee860d2d
+      internalID: 21300074
+      vertices:
+      - {x: 240.47325, y: 91.94049}
+      - {x: 264.47327, y: 34.940487}
+      - {x: 289.47327, y: 25.940487}
+      - {x: 276.47327, y: 12.940491}
+      - {x: 154.47325, y: -28.059513}
+      - {x: 79.47325, y: -5.059513}
+      - {x: 78.47325, y: 41.940487}
+      - {x: 116.47325, y: 93.94049}
+      indices: 040000000600000007000000040000000500000006000000010000000300000004000000010000000200000003000000000000000100000004000000000000000400000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0001
+      rect:
+        serializedVersion: 2
+        x: 486.0761
+        y: 1766.0762
+        width: 227.92387
+        height: 137.84775
+      alignment: 9
+      pivot: {x: 0.15980725, y: 0.69586796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -117.03805, y: 6.999956}
+        - {x: -72.03805, y: 69.999954}
+        - {x: 69.96195, y: 67.999954}
+        - {x: 93.96194, y: 7.999954}
+        - {x: 113.96195, y: -3.0000439}
+        - {x: 113.96195, y: -29.000046}
+        - {x: 39.961945, y: -47.000046}
+        - {x: -22.038048, y: -72.00004}
+        - {x: -109.03805, y: -57.000046}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fd3b39a4f24728ade378eb48cde960
+      internalID: 21300076
+      vertices:
+      - {x: 261.46194, y: 109.923874}
+      - {x: 285.4619, y: 49.923874}
+      - {x: 305.46194, y: 38.923874}
+      - {x: 305.46194, y: 12.923874}
+      - {x: 231.46193, y: -5.076126}
+      - {x: 169.46194, y: -30.076118}
+      - {x: 82.46194, y: -15.076126}
+      - {x: 74.46194, y: 48.923874}
+      - {x: 119.46194, y: 111.923874}
+      indices: 050000000700000008000000050000000600000007000000040000000500000008000000010000000300000004000000010000000200000003000000000000000100000004000000000000000400000008000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0052
+      rect:
+        serializedVersion: 2
+        x: 859.02673
+        y: 800.02673
+        width: 158.9465
+        height: 111.91224
+      alignment: 9
+      pivot: {x: 1.0096055, y: 1.3937105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -67.499985, y: 55.01715}
+        - {x: 51.500015, y: 56.01715}
+        - {x: 82.500015, y: -42.98285}
+        - {x: 23.500015, y: -57.98285}
+        - {x: -57.499985, y: -44.98285}
+        - {x: -87.499985, y: 15.017151}
+      physicsShape:
+      - - {x: 78.500015, y: -28.98285}
+        - {x: 67.500015, y: -13.982849}
+        - {x: 55.500015, y: 31.01715}
+        - {x: 52.500015, y: 51.017155}
+        - {x: 48.500015, y: 55.01715}
+        - {x: 4.5000153, y: 55.01715}
+        - {x: -26.499977, y: 53.01715}
+        - {x: -51.499985, y: 55.01715}
+        - {x: -67.499985, y: 55.01715}
+        - {x: -75.499985, y: 38.01715}
+        - {x: -76.499985, y: 27.017159}
+        - {x: -68.499985, y: 14.0171585}
+        - {x: -79.499985, y: 11.017151}
+        - {x: -79.499985, y: -1.9828491}
+        - {x: -75.499985, y: -5.9828415}
+        - {x: -72.499985, y: -7.9828415}
+        - {x: -64.499985, y: -16.982841}
+        - {x: -62.499985, y: -30.98285}
+        - {x: -50.499985, y: -45.982834}
+        - {x: -43.499985, y: -47.98285}
+        - {x: -16.499985, y: -46.982834}
+        - {x: 2.5000153, y: -51.98285}
+        - {x: 6.5000153, y: -54.98285}
+        - {x: 11.500015, y: -55.98285}
+        - {x: 27.50002, y: -55.98285}
+        - {x: 37.500015, y: -54.98285}
+        - {x: 45.500015, y: -48.98285}
+        - {x: 75.500015, y: -46.982834}
+        - {x: 78.500015, y: -39.98285}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883777a6e9894a2dbacdc91852f724d7
+      internalID: 21300078
+      vertices:
+      - {x: 80.97325, y: -87.043884}
+      - {x: 21.973251, y: -102.043884}
+      - {x: -59.02675, y: -89.043884}
+      - {x: -89.02675, y: -29.04388}
+      - {x: -69.02675, y: 10.95612}
+      - {x: 49.97325, y: 11.95612}
+      indices: 020000000400000005000000020000000300000004000000010000000200000005000000000000000100000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0030
+      rect:
+        serializedVersion: 2
+        x: 443.0761
+        y: 1155.0762
+        width: 196.91502
+        height: 111.84776
+      alignment: 9
+      pivot: {x: 0.1037193, y: 0.7056362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -100.53362, y: -2.0000534}
+        - {x: -65.53362, y: 56.999947}
+        - {x: 57.466377, y: 53.999947}
+        - {x: 82.46638, y: -2.0000534}
+        - {x: 117.46638, y: -14.000053}
+        - {x: -28.533627, y: -58.000053}
+        - {x: -94.53362, y: -38.000053}
+      physicsShape:
+      - - {x: 88.46638, y: -23.00005}
+        - {x: 97.46638, y: -17.00005}
+        - {x: 97.46638, y: -11.000053}
+        - {x: 95.46638, y: -7.0000515}
+        - {x: 70.46638, y: 2.9999485}
+        - {x: 62.466377, y: 28.999947}
+        - {x: 61.466377, y: 45.999947}
+        - {x: 55.466362, y: 54.999947}
+        - {x: 39.46637, y: 54.999947}
+        - {x: -0.53362274, y: 51.999947}
+        - {x: -4.5336304, y: 50.999947}
+        - {x: -49.533623, y: 54.999947}
+        - {x: -61.533623, y: 54.999947}
+        - {x: -71.53362, y: 36.999947}
+        - {x: -91.53362, y: 10.999947}
+        - {x: -97.53362, y: -0.000051498413}
+        - {x: -97.53362, y: -21.000053}
+        - {x: -94.53362, y: -27.000053}
+        - {x: -84.53362, y: -40.000053}
+        - {x: -74.53362, y: -44.000046}
+        - {x: -55.533623, y: -45.000053}
+        - {x: -42.533623, y: -55.000053}
+        - {x: -19.533627, y: -55.000053}
+        - {x: -11.533623, y: -54.000053}
+        - {x: 14.46637, y: -40.000053}
+        - {x: 42.46637, y: -24.000053}
+        - {x: 70.46638, y: -25.000053}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffd6a26ecb5424a9b8b366694cc7ee2
+      internalID: 21300080
+      vertices:
+      - {x: 233.95752, y: 86.92388}
+      - {x: 258.95752, y: 30.923882}
+      - {x: 293.95752, y: 18.923882}
+      - {x: 147.9575, y: -25.076118}
+      - {x: 81.95751, y: -5.0761185}
+      - {x: 75.95751, y: 30.923882}
+      - {x: 110.95751, y: 89.92388}
+      indices: 030000000500000006000000030000000400000005000000010000000200000003000000000000000100000003000000000000000300000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0055
+      rect:
+        serializedVersion: 2
+        x: 859.02673
+        y: 800.02673
+        width: 158.9465
+        height: 111.91224
+      alignment: 9
+      pivot: {x: 1.0096055, y: 1.3937105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -67.499985, y: 55.01715}
+        - {x: 51.500015, y: 56.01715}
+        - {x: 82.500015, y: -42.98285}
+        - {x: 23.500015, y: -57.98285}
+        - {x: -57.499985, y: -44.98285}
+        - {x: -87.499985, y: 15.017151}
+      physicsShape:
+      - - {x: 78.500015, y: -28.98285}
+        - {x: 67.500015, y: -13.982849}
+        - {x: 55.500015, y: 31.01715}
+        - {x: 52.500015, y: 51.017155}
+        - {x: 48.500015, y: 55.01715}
+        - {x: 4.5000153, y: 55.01715}
+        - {x: -26.499977, y: 53.01715}
+        - {x: -51.499985, y: 55.01715}
+        - {x: -67.499985, y: 55.01715}
+        - {x: -75.499985, y: 38.01715}
+        - {x: -76.499985, y: 27.017159}
+        - {x: -68.499985, y: 14.0171585}
+        - {x: -79.499985, y: 11.017151}
+        - {x: -79.499985, y: -1.9828491}
+        - {x: -75.499985, y: -5.9828415}
+        - {x: -72.499985, y: -7.9828415}
+        - {x: -64.499985, y: -16.982841}
+        - {x: -62.499985, y: -30.98285}
+        - {x: -50.499985, y: -45.982834}
+        - {x: -43.499985, y: -47.98285}
+        - {x: -16.499985, y: -46.982834}
+        - {x: 2.5000153, y: -51.98285}
+        - {x: 6.5000153, y: -54.98285}
+        - {x: 11.500015, y: -55.98285}
+        - {x: 27.50002, y: -55.98285}
+        - {x: 37.500015, y: -54.98285}
+        - {x: 45.500015, y: -48.98285}
+        - {x: 75.500015, y: -46.982834}
+        - {x: 78.500015, y: -39.98285}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8a776a2bf846279658d9718be1204b
+      internalID: 21300082
+      vertices:
+      - {x: 80.97325, y: -87.043884}
+      - {x: 21.973251, y: -102.043884}
+      - {x: -59.02675, y: -89.043884}
+      - {x: -89.02675, y: -29.04388}
+      - {x: -69.02675, y: 10.95612}
+      - {x: 49.97325, y: 11.95612}
+      indices: 020000000400000005000000020000000300000004000000010000000200000005000000000000000100000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0011
+      rect:
+        serializedVersion: 2
+        x: 237.07613
+        y: 1534.0762
+        width: 217.92387
+        height: 129.89713
+      alignment: 9
+      pivot: {x: 0.14419657, y: 0.699968}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -69.03806, y: 64.975266}
+        - {x: 67.96194, y: 64.975266}
+        - {x: 86.96194, y: 5.9752674}
+        - {x: 108.96194, y: -5.0247345}
+        - {x: 108.96194, y: -26.024734}
+        - {x: -29.038063, y: -68.024734}
+        - {x: -105.03806, y: -46.024734}
+        - {x: -115.03806, y: -1.0247326}
+      physicsShape:
+      - - {x: 96.96194, y: -23.02473}
+        - {x: 103.96194, y: -17.02473}
+        - {x: 103.96194, y: -11.0247345}
+        - {x: 100.96194, y: -6.0247345}
+        - {x: 74.96194, y: 3.9752655}
+        - {x: 66.96194, y: 30.975266}
+        - {x: 65.96194, y: 48.975266}
+        - {x: 59.961937, y: 58.975266}
+        - {x: 49.961937, y: 58.975266}
+        - {x: 34.961937, y: 57.975266}
+        - {x: 28.96193, y: 55.975266}
+        - {x: -2.038063, y: 54.975266}
+        - {x: -34.038063, y: 55.975266}
+        - {x: -54.038063, y: 58.975266}
+        - {x: -64.03806, y: 58.975266}
+        - {x: -75.03806, y: 39.975266}
+        - {x: -73.03806, y: 27.975266}
+        - {x: -85.03806, y: 22.975266}
+        - {x: -95.03806, y: 14.9752655}
+        - {x: -102.03806, y: 2.9752674}
+        - {x: -103.03806, y: -4.0247326}
+        - {x: -103.03806, y: -20.02473}
+        - {x: -97.03806, y: -34.02473}
+        - {x: -86.03806, y: -44.024734}
+        - {x: -79.03806, y: -46.024734}
+        - {x: -56.038063, y: -50.024734}
+        - {x: -44.038067, y: -58.024734}
+        - {x: -39.038063, y: -59.024734}
+        - {x: -18.038067, y: -59.024734}
+        - {x: 10.961937, y: -45.024734}
+        - {x: 44.961937, y: -25.024734}
+        - {x: 75.96194, y: -26.024734}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf517d5f675541c1b881185d63ec3a8c
+      internalID: 21300084
+      vertices:
+      - {x: 273.46194, y: 44.948563}
+      - {x: 295.46194, y: 33.948563}
+      - {x: 295.46194, y: 12.948563}
+      - {x: 157.46194, y: -29.051437}
+      - {x: 81.46194, y: -7.0514374}
+      - {x: 71.46194, y: 37.948563}
+      - {x: 117.46194, y: 103.94856}
+      - {x: 254.46194, y: 103.94856}
+      indices: 030000000600000007000000050000000300000004000000050000000600000003000000000000000100000002000000000000000200000003000000070000000000000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0039
+      rect:
+        serializedVersion: 2
+        x: 634.0761
+        y: 684.0761
+        width: 181.84775
+        height: 115.86751
+      alignment: 9
+      pivot: {x: 0.051822968, y: 0.5258065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -87.999985, y: -25.00986}
+        - {x: -95.999985, y: 15.990139}
+        - {x: -32.999985, y: 58.990135}
+        - {x: 74.000015, y: 25.990139}
+        - {x: 74.000015, y: -30.009861}
+        - {x: 99.000015, y: -55.009857}
+        - {x: -40.999985, y: -59.00986}
+      physicsShape:
+      - - {x: 65, y: -55.009865}
+        - {x: 83.000015, y: -56.00986}
+        - {x: 88.000015, y: -54.009865}
+        - {x: 90, y: -50.00986}
+        - {x: 90, y: -44.009865}
+        - {x: 73.000015, y: -33.009865}
+        - {x: 69.000015, y: -25.009865}
+        - {x: 74.000015, y: 11.990135}
+        - {x: 74.000015, y: 21.990135}
+        - {x: 69.000015, y: 26.990135}
+        - {x: 61.000015, y: 29.990133}
+        - {x: -22.999989, y: 54.990135}
+        - {x: -26.999985, y: 56.99013}
+        - {x: -33.999985, y: 56.99013}
+        - {x: -46.999985, y: 43.990135}
+        - {x: -48.999985, y: 38.990135}
+        - {x: -60.999985, y: 31.990135}
+        - {x: -75.999985, y: 25.990133}
+        - {x: -82.999985, y: 16.990135}
+        - {x: -89.999985, y: 1.9901352}
+        - {x: -89.999985, y: -17.009863}
+        - {x: -85.999985, y: -25.009865}
+        - {x: -71.999985, y: -36.009865}
+        - {x: -55.999985, y: -45.009865}
+        - {x: -48.999985, y: -52.009865}
+        - {x: -38.999985, y: -57.00986}
+        - {x: -12.999985, y: -57.00986}
+        - {x: 20.000015, y: -50.00986}
+        - {x: 35.000015, y: -44.009865}
+        - {x: 43.000015, y: -48.009865}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661dbc9a2f054f89bf206d8880c862b5
+      internalID: 21300086
+      vertices:
+      - {x: 246.42387, y: 80.93376}
+      - {x: 246.42387, y: 24.933758}
+      - {x: 271.4239, y: -0.0662384}
+      - {x: 131.42387, y: -4.066242}
+      - {x: 84.423874, y: 29.93376}
+      - {x: 76.423874, y: 70.93376}
+      - {x: 139.42387, y: 113.933754}
+      indices: 040000000500000006000000030000000400000006000000010000000200000003000000010000000300000006000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0004
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1903
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 196.5, y: -200}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -0.49998474, y: 0.5}
+        - {x: 0.5, y: 0.5}
+        - {x: 0.5, y: -0.5}
+        - {x: -0.49998474, y: -0.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12be7da613224300a5fa151a40b6b7d9
+      internalID: 21300088
+      vertices:
+      - {x: -195.99998, y: 201.5}
+      - {x: -195, y: 201.5}
+      - {x: -195, y: 200.5}
+      - {x: -195.99998, y: 200.5}
+      indices: 000000000100000002000000000000000200000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_WalkMirror0008
+      rect:
+        serializedVersion: 2
+        x: 203.07613
+        y: 692.0761
+        width: 175.89713
+        height: 115.84776
+      alignment: 9
+      pivot: {x: 0.4572211, y: 0.5604242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -87.02468, y: -43.999992}
+        - {x: -89.02469, y: 53.000004}
+        - {x: -3.0246887, y: 50.000004}
+        - {x: 43.97531, y: 61.000004}
+        - {x: 96.9753, y: -15.99999}
+        - {x: 83.97531, y: -36.999992}
+        - {x: 16.97531, y: -36.999992}
+        - {x: -67.02469, y: -63.999992}
+      physicsShape:
+      - - {x: 18.97531, y: -39.999992}
+        - {x: 82.97531, y: -37.999992}
+        - {x: 86.97531, y: -32.99999}
+        - {x: 86.97531, y: -8.999992}
+        - {x: 78.97531, y: 8.000008}
+        - {x: 67.97531, y: 20.000008}
+        - {x: 50.975307, y: 42.000008}
+        - {x: 47.97531, y: 53.000004}
+        - {x: 44.975307, y: 57.000008}
+        - {x: 32.97531, y: 57.000008}
+        - {x: -4.0246887, y: 51.000008}
+        - {x: -23.024689, y: 46.000008}
+        - {x: -61.024685, y: 51.000008}
+        - {x: -73.02469, y: 51.000008}
+        - {x: -82.02469, y: 36.000008}
+        - {x: -79.02469, y: 3.0000076}
+        - {x: -79.02469, y: -6.9999924}
+        - {x: -87.02468, y: -23.999992}
+        - {x: -87.02468, y: -40.999992}
+        - {x: -86.02469, y: -47.999992}
+        - {x: -73.02469, y: -56.999992}
+        - {x: -48.02469, y: -56.999992}
+        - {x: -40.02469, y: -52.99999}
+        - {x: -17.024689, y: -26.999992}
+        - {x: -15.024689, y: -33.999992}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc1ae0df2a94e6bbca80973b7f62cae
+      internalID: 21300090
+      vertices:
+      - {x: 192.44855, y: 34.92388}
+      - {x: 179.44856, y: 13.923882}
+      - {x: 112.44856, y: 13.923882}
+      - {x: 28.448566, y: -13.076118}
+      - {x: 8.44857, y: 6.9238815}
+      - {x: 6.4485626, y: 103.923874}
+      - {x: 92.44856, y: 100.923874}
+      - {x: 139.44856, y: 111.923874}
+      indices: 040000000500000006000000020000000600000007000000040000000200000003000000040000000600000002000000000000000100000002000000000000000200000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_WalkMirror0009
+      rect:
+        serializedVersion: 2
+        x: 827.0761
+        y: 571.0761
+        width: 175.89713
+        height: 115.84776
+      alignment: 9
+      pivot: {x: 0.45722118, y: 0.6122163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -87.024666, y: -43.999992}
+        - {x: -89.02467, y: 53.000004}
+        - {x: -3.0246735, y: 50.000008}
+        - {x: 43.975327, y: 61.000008}
+        - {x: 96.97532, y: -15.999992}
+        - {x: 83.97533, y: -36.999992}
+        - {x: 16.975325, y: -36.999992}
+        - {x: -67.02467, y: -63.999992}
+      physicsShape:
+      - - {x: 18.975325, y: -39.99999}
+        - {x: 82.97533, y: -37.999992}
+        - {x: 86.97533, y: -32.99999}
+        - {x: 86.97533, y: -8.999992}
+        - {x: 78.97533, y: 8.000008}
+        - {x: 67.97533, y: 20.000008}
+        - {x: 50.975323, y: 42.000008}
+        - {x: 47.975327, y: 53.000004}
+        - {x: 44.975323, y: 57.000008}
+        - {x: 32.975327, y: 57.000008}
+        - {x: -4.0246735, y: 51.000008}
+        - {x: -23.024673, y: 46.000008}
+        - {x: -61.02467, y: 51.000008}
+        - {x: -73.02467, y: 51.000008}
+        - {x: -82.02467, y: 36.000008}
+        - {x: -79.02467, y: 3.0000086}
+        - {x: -79.02467, y: -6.9999905}
+        - {x: -87.024666, y: -23.999992}
+        - {x: -87.024666, y: -40.99999}
+        - {x: -86.02467, y: -47.999992}
+        - {x: -73.02467, y: -56.999992}
+        - {x: -48.024673, y: -56.999992}
+        - {x: -40.024673, y: -52.999992}
+        - {x: -17.024673, y: -26.999989}
+        - {x: -15.024673, y: -33.999992}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfd7d24d6d74de6bf3af44b412281ad
+      internalID: 21300092
+      vertices:
+      - {x: 192.44855, y: 28.923882}
+      - {x: 179.44856, y: 7.9238815}
+      - {x: 112.44856, y: 7.9238815}
+      - {x: 28.448566, y: -19.076118}
+      - {x: 8.44857, y: 0.92388153}
+      - {x: 6.4485626, y: 97.923874}
+      - {x: 92.44856, y: 94.92388}
+      - {x: 139.44856, y: 105.92388}
+      indices: 040000000500000006000000020000000600000007000000040000000200000003000000040000000600000002000000000000000100000002000000000000000200000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0022
+      rect:
+        serializedVersion: 2
+        x: 452.0761
+        y: 1389.0762
+        width: 196.91502
+        height: 111.84776
+      alignment: 9
+      pivot: {x: 0.1037193, y: 0.7056362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -100.53362, y: -2.0000534}
+        - {x: -65.53362, y: 56.999947}
+        - {x: 57.466377, y: 53.999947}
+        - {x: 82.46638, y: -2.0000534}
+        - {x: 117.46638, y: -14.000053}
+        - {x: -28.533627, y: -58.000053}
+        - {x: -94.53362, y: -38.000053}
+      physicsShape:
+      - - {x: 88.46638, y: -23.00005}
+        - {x: 97.46638, y: -17.00005}
+        - {x: 97.46638, y: -11.000053}
+        - {x: 95.46638, y: -7.0000515}
+        - {x: 70.46638, y: 2.9999485}
+        - {x: 62.466377, y: 28.999947}
+        - {x: 61.466377, y: 45.999947}
+        - {x: 55.466362, y: 54.999947}
+        - {x: 39.46637, y: 54.999947}
+        - {x: -0.53362274, y: 51.999947}
+        - {x: -4.5336304, y: 50.999947}
+        - {x: -49.533623, y: 54.999947}
+        - {x: -61.533623, y: 54.999947}
+        - {x: -71.53362, y: 36.999947}
+        - {x: -91.53362, y: 10.999947}
+        - {x: -97.53362, y: -0.000051498413}
+        - {x: -97.53362, y: -21.000053}
+        - {x: -94.53362, y: -27.000053}
+        - {x: -84.53362, y: -40.000053}
+        - {x: -74.53362, y: -44.000046}
+        - {x: -55.533623, y: -45.000053}
+        - {x: -42.533623, y: -55.000053}
+        - {x: -19.533627, y: -55.000053}
+        - {x: -11.533623, y: -54.000053}
+        - {x: 14.46637, y: -40.000053}
+        - {x: 42.46637, y: -24.000053}
+        - {x: 70.46638, y: -25.000053}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a5d9505c7044e7a948a53470d1db8d
+      internalID: 21300094
+      vertices:
+      - {x: 233.95752, y: 86.92388}
+      - {x: 258.95752, y: 30.923882}
+      - {x: 293.95752, y: 18.923882}
+      - {x: 147.9575, y: -25.076118}
+      - {x: 81.95751, y: -5.0761185}
+      - {x: 75.95751, y: 30.923882}
+      - {x: 110.95751, y: 89.92388}
+      indices: 030000000500000006000000030000000400000005000000010000000200000003000000000000000100000003000000000000000300000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0002
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1903
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 196.5, y: -200}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -0.49998474, y: 0.5}
+        - {x: 0.5, y: 0.5}
+        - {x: 0.5, y: -0.5}
+        - {x: -0.49998474, y: -0.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e17cb11fe224226baae73134bff7b19
+      internalID: 21300096
+      vertices:
+      - {x: -195.99998, y: 201.5}
+      - {x: -195, y: 201.5}
+      - {x: -195, y: 200.5}
+      - {x: -195.99998, y: 200.5}
+      indices: 000000000100000002000000000000000200000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0046
+      rect:
+        serializedVersion: 2
+        x: 11.07612
+        y: 1771.0267
+        width: 212.88097
+        height: 131.93976
+      alignment: 9
+      pivot: {x: 0.62675345, y: 0.25749075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -94.5166, y: 23.003387}
+        - {x: -62.51661, y: 67.00338}
+        - {x: 55.48339, y: 51.003387}
+        - {x: 73.48339, y: 16.003387}
+        - {x: 120.48339, y: -6.9966125}
+        - {x: -43.51661, y: -69.99661}
+        - {x: -116.51661, y: -46.996613}
+      physicsShape:
+      - - {x: 23.48339, y: -28.996613}
+        - {x: 57.48339, y: -27.996613}
+        - {x: 77.48339, y: -23.996613}
+        - {x: 100.48338, y: -12.996613}
+        - {x: 105.48339, y: -9.996613}
+        - {x: 105.48339, y: -2.9966125}
+        - {x: 103.48339, y: 3.0033875}
+        - {x: 78.48339, y: 10.003387}
+        - {x: 59.48339, y: 42.003387}
+        - {x: 54.48339, y: 52.003387}
+        - {x: 9.483391, y: 54.00338}
+        - {x: -31.516605, y: 59.003387}
+        - {x: -54.51661, y: 65.00339}
+        - {x: -60.51661, y: 65.00339}
+        - {x: -72.51661, y: 53.003387}
+        - {x: -74.51661, y: 36.003387}
+        - {x: -69.51661, y: 25.003387}
+        - {x: -78.5166, y: 21.003384}
+        - {x: -98.51661, y: 2.0033875}
+        - {x: -106.516594, y: -16.996613}
+        - {x: -106.516594, y: -31.996613}
+        - {x: -105.51661, y: -37.996613}
+        - {x: -95.51661, y: -49.996613}
+        - {x: -83.51661, y: -54.996613}
+        - {x: -67.51661, y: -54.996613}
+        - {x: -53.51661, y: -64.99661}
+        - {x: -29.51661, y: -64.99661}
+        - {x: -15.516609, y: -58.996613}
+        - {x: -0.5166092, y: -47.996613}
+        - {x: 12.483391, y: -36.996613}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21045ba13e3141e1a8cba94b7239334c
+      internalID: 21300098
+      vertices:
+      - {x: 134.94049, y: 148.96988}
+      - {x: 152.94049, y: 113.96988}
+      - {x: 199.94049, y: 90.96988}
+      - {x: 35.940483, y: 27.96988}
+      - {x: -37.059517, y: 50.96988}
+      - {x: -15.059509, y: 120.96988}
+      - {x: 16.940483, y: 164.96988}
+      indices: 030000000500000006000000030000000400000005000000010000000200000003000000000000000100000003000000000000000300000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0045
+      rect:
+        serializedVersion: 2
+        x: 12.07612
+        y: 1910.0762
+        width: 214.8991
+        height: 132.89713
+      alignment: 9
+      pivot: {x: 0.5929475, y: 0.052099157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -92.52567, y: 36.475266}
+        - {x: -26.525673, y: 70.475266}
+        - {x: 79.47432, y: 12.4752655}
+        - {x: 86.47433, y: -33.524734}
+        - {x: 122.47433, y: -70.524734}
+        - {x: -61.525673, y: -56.524734}
+        - {x: -118.52567, y: 10.4752655}
+      physicsShape:
+      - - {x: 86.47433, y: -36.524734}
+        - {x: 81.47433, y: -22.524734}
+        - {x: 79.47432, y: 8.4752655}
+        - {x: 76.47433, y: 14.4752655}
+        - {x: 57.474327, y: 22.475266}
+        - {x: 37.474327, y: 32.475258}
+        - {x: 18.474327, y: 41.475266}
+        - {x: -17.525673, y: 65.475266}
+        - {x: -27.525673, y: 65.475266}
+        - {x: -43.525673, y: 52.475266}
+        - {x: -45.525673, y: 44.475266}
+        - {x: -72.525665, y: 44.475266}
+        - {x: -84.525665, y: 41.475266}
+        - {x: -94.52567, y: 35.475266}
+        - {x: -102.52567, y: 26.475258}
+        - {x: -106.52567, y: 19.475266}
+        - {x: -106.52567, y: 7.475258}
+        - {x: -105.52567, y: -0.5247383}
+        - {x: -100.525665, y: -7.5247345}
+        - {x: -91.52567, y: -16.524738}
+        - {x: -76.52567, y: -22.524734}
+        - {x: -76.52567, y: -35.524734}
+        - {x: -65.525665, y: -50.524734}
+        - {x: -47.525673, y: -57.524734}
+        - {x: -10.525673, y: -56.524734}
+        - {x: 20.474327, y: -50.524734}
+        - {x: 25.474327, y: -54.524734}
+        - {x: 52.474327, y: -63.524734}
+        - {x: 68.47433, y: -65.524734}
+        - {x: 97.47433, y: -65.524734}
+        - {x: 106.47433, y: -62.524734}
+        - {x: 106.47433, y: -53.524734}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe151baa4ecc4c2ca77a05a129157f3c
+      internalID: 21300100
+      vertices:
+      - {x: 166.94954, y: 138.44856}
+      - {x: 173.94955, y: 92.44856}
+      - {x: 209.94955, y: 55.448563}
+      - {x: 25.949547, y: 69.44856}
+      - {x: -31.050453, y: 136.44856}
+      - {x: -5.050453, y: 162.44856}
+      - {x: 60.949547, y: 196.44856}
+      indices: 030000000500000006000000030000000400000005000000010000000200000003000000000000000100000003000000000000000300000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_VententerMirror0008
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1903
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 115, y: -189}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -0.5, y: 0.5}
+        - {x: 0.5, y: 0.5}
+        - {x: 0.5, y: -0.5}
+        - {x: -0.5, y: -0.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eacd4da4826a47519cd1a0612ac5574f
+      internalID: 21300102
+      vertices:
+      - {x: -114.5, y: 190.5}
+      - {x: -113.5, y: 190.5}
+      - {x: -113.5, y: 189.5}
+      - {x: -114.5, y: 189.5}
+      indices: 000000000100000002000000000000000200000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0028
+      rect:
+        serializedVersion: 2
+        x: 3.0761204
+        y: 1117.0762
+        width: 196.91502
+        height: 111.84776
+      alignment: 9
+      pivot: {x: 0.10371926, y: 0.7056362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -100.53363, y: -2.0000534}
+        - {x: -65.53363, y: 56.999947}
+        - {x: 57.46637, y: 53.999947}
+        - {x: 82.46637, y: -2.0000534}
+        - {x: 117.46637, y: -14.000053}
+        - {x: -28.533634, y: -58.000053}
+        - {x: -94.53363, y: -38.000053}
+      physicsShape:
+      - - {x: 88.46637, y: -23.00005}
+        - {x: 97.46637, y: -17.00005}
+        - {x: 97.46637, y: -11.000053}
+        - {x: 95.46637, y: -7.0000515}
+        - {x: 70.46637, y: 2.9999485}
+        - {x: 62.46637, y: 28.999947}
+        - {x: 61.46637, y: 45.999947}
+        - {x: 55.466354, y: 54.999947}
+        - {x: 39.466362, y: 54.999947}
+        - {x: -0.5336304, y: 51.999947}
+        - {x: -4.533638, y: 50.999947}
+        - {x: -49.53363, y: 54.999947}
+        - {x: -61.53363, y: 54.999947}
+        - {x: -71.53363, y: 36.999947}
+        - {x: -91.53363, y: 10.999947}
+        - {x: -97.53363, y: -0.000051498413}
+        - {x: -97.53363, y: -21.000053}
+        - {x: -94.53363, y: -27.000053}
+        - {x: -84.53363, y: -40.000053}
+        - {x: -74.53363, y: -44.000046}
+        - {x: -55.53363, y: -45.000053}
+        - {x: -42.53363, y: -55.000053}
+        - {x: -19.533634, y: -55.000053}
+        - {x: -11.53363, y: -54.000053}
+        - {x: 14.466362, y: -40.000053}
+        - {x: 42.466362, y: -24.000053}
+        - {x: 70.46637, y: -25.000053}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4657c0675e4c4594da34f57397ab0c
+      internalID: 21300104
+      vertices:
+      - {x: 233.95752, y: 86.92388}
+      - {x: 258.95752, y: 30.923882}
+      - {x: 293.95752, y: 18.923882}
+      - {x: 147.9575, y: -25.076118}
+      - {x: 81.95751, y: -5.0761185}
+      - {x: 75.95751, y: 30.923882}
+      - {x: 110.95751, y: 89.92388}
+      indices: 030000000500000006000000030000000400000005000000010000000200000003000000000000000100000003000000000000000300000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0007
+      rect:
+        serializedVersion: 2
+        x: 727.0761
+        y: 1909.0762
+        width: 225.92387
+        height: 136.84775
+      alignment: 9
+      pivot: {x: 0.15679568, y: 0.69364554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -120.03805, y: 3.4999561}
+        - {x: -72.03805, y: 69.499954}
+        - {x: 69.96195, y: 66.499954}
+        - {x: 92.96195, y: 8.499954}
+        - {x: 112.96195, y: -3.5000439}
+        - {x: 112.96195, y: -29.500046}
+        - {x: -27.038048, y: -71.50004}
+        - {x: -106.03805, y: -51.500046}
+      physicsShape:
+      - - {x: 60.961952, y: -27.500042}
+        - {x: 89.96195, y: -26.500042}
+        - {x: 102.96195, y: -21.500046}
+        - {x: 106.96194, y: -17.500046}
+        - {x: 106.96194, y: -11.500046}
+        - {x: 102.96195, y: -6.500046}
+        - {x: 83.96195, y: -2.5000458}
+        - {x: 76.96195, y: 4.499954}
+        - {x: 65.96195, y: 54.499954}
+        - {x: 58.961952, y: 60.499954}
+        - {x: 53.961952, y: 60.499954}
+        - {x: 21.961952, y: 56.499954}
+        - {x: -28.038052, y: 56.499954}
+        - {x: -51.038048, y: 60.499954}
+        - {x: -64.03805, y: 60.499954}
+        - {x: -73.03805, y: 43.499954}
+        - {x: -76.03805, y: 37.499954}
+        - {x: -89.03805, y: 21.499954}
+        - {x: -100.03805, y: 11.499955}
+        - {x: -105.03805, y: -1.5000458}
+        - {x: -105.03805, y: -21.500046}
+        - {x: -98.03805, y: -36.500046}
+        - {x: -89.03805, y: -44.500046}
+        - {x: -81.03805, y: -47.500046}
+        - {x: -59.038048, y: -48.500046}
+        - {x: -49.038048, y: -56.500046}
+        - {x: -42.038048, y: -60.500046}
+        - {x: -21.038048, y: -60.500046}
+        - {x: -12.038048, y: -57.500046}
+        - {x: 16.961952, y: -43.500046}
+        - {x: 48.961952, y: -25.500046}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f13de7d505648ff8a3ddeaca1a10774
+      internalID: 21300106
+      vertices:
+      - {x: 260.46194, y: 108.423874}
+      - {x: 283.46194, y: 50.423874}
+      - {x: 303.46194, y: 38.423874}
+      - {x: 303.46194, y: 12.423874}
+      - {x: 163.46194, y: -29.576118}
+      - {x: 84.46194, y: -9.576126}
+      - {x: 70.46194, y: 45.423874}
+      - {x: 118.46194, y: 111.423874}
+      indices: 040000000600000007000000040000000500000006000000010000000300000004000000010000000200000003000000000000000100000004000000000000000400000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0012
+      rect:
+        serializedVersion: 2
+        x: 718.0761
+        y: 1778.0762
+        width: 216.84775
+        height: 125.92388
+      alignment: 9
+      pivot: {x: 0.14030069, y: 0.7061713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -73.499985, y: 62.961887}
+        - {x: 65.500015, y: 62.961887}
+        - {x: 86.500015, y: 8.961887}
+        - {x: 117.500015, y: -10.038113}
+        - {x: 102.500015, y: -26.038113}
+        - {x: -28.499989, y: -67.03812}
+        - {x: -106.499985, y: -45.038113}
+        - {x: -110.499985, y: 0.96188736}
+      physicsShape:
+      - - {x: 92.500015, y: -24.038113}
+        - {x: 103.500015, y: -17.038109}
+        - {x: 103.500015, y: -10.038113}
+        - {x: 102.500015, y: -8.038113}
+        - {x: 81.5, y: -2.0381126}
+        - {x: 68.5, y: 17.961887}
+        - {x: 65.500015, y: 48.961884}
+        - {x: 58.500015, y: 58.961887}
+        - {x: 56.500015, y: 58.961887}
+        - {x: 43.500008, y: 57.961887}
+        - {x: -1.4999847, y: 54.961887}
+        - {x: -24.499989, y: 54.961887}
+        - {x: -43.499985, y: 57.961887}
+        - {x: -50.499985, y: 58.961887}
+        - {x: -64.499985, y: 58.961887}
+        - {x: -81.499985, y: 26.961887}
+        - {x: -96.499985, y: 12.961887}
+        - {x: -102.499985, y: 3.9618874}
+        - {x: -102.499985, y: -25.038113}
+        - {x: -95.499985, y: -34.03811}
+        - {x: -88.499985, y: -41.038105}
+        - {x: -77.499985, y: -46.038113}
+        - {x: -62.499985, y: -45.038113}
+        - {x: -48.499985, y: -54.038105}
+        - {x: -39.499985, y: -58.038113}
+        - {x: -16.499985, y: -58.038113}
+        - {x: 28.500008, y: -35.038113}
+        - {x: 42.500008, y: -24.038113}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50ec27c728b425e9c71b7a0ce20ddc9
+      internalID: 21300108
+      vertices:
+      - {x: 272.9239, y: 45.96194}
+      - {x: 303.9239, y: 26.96194}
+      - {x: 288.9239, y: 10.961941}
+      - {x: 157.92387, y: -30.03806}
+      - {x: 79.923874, y: -8.038059}
+      - {x: 75.923874, y: 37.96194}
+      - {x: 112.923874, y: 99.961945}
+      - {x: 251.92387, y: 99.961945}
+      indices: 030000000600000007000000050000000300000004000000050000000600000003000000000000000100000002000000000000000200000003000000070000000000000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0008
+      rect:
+        serializedVersion: 2
+        x: 246.07613
+        y: 1669.0762
+        width: 223.92387
+        height: 134.84775
+      alignment: 9
+      pivot: {x: 0.15373026, y: 0.6965176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -108.03806, y: 12.499954}
+        - {x: -71.03806, y: 68.499954}
+        - {x: 68.96192, y: 66.499954}
+        - {x: 94.96192, y: 5.499954}
+        - {x: 111.96194, y: -3.5000439}
+        - {x: 111.96194, y: -27.500042}
+        - {x: 33.961937, y: -47.500046}
+        - {x: -24.038067, y: -70.500046}
+        - {x: -86.03806, y: -58.500046}
+        - {x: -118.03806, y: -26.500042}
+      physicsShape:
+      - - {x: 84.96194, y: -25.500046}
+        - {x: 98.96194, y: -22.500042}
+        - {x: 104.96194, y: -17.500046}
+        - {x: 105.96192, y: -15.500046}
+        - {x: 105.96192, y: -9.500046}
+        - {x: 83.96194, y: -1.5000458}
+        - {x: 73.96194, y: 10.499954}
+        - {x: 68.96192, y: 38.499954}
+        - {x: 64.96194, y: 56.499954}
+        - {x: 59.961937, y: 59.499954}
+        - {x: 43.96193, y: 59.499954}
+        - {x: 23.961937, y: 57.499954}
+        - {x: -14.038063, y: 55.499954}
+        - {x: -47.038063, y: 59.499954}
+        - {x: -65.03806, y: 59.499954}
+        - {x: -76.03806, y: 40.499954}
+        - {x: -74.03806, y: 28.499954}
+        - {x: -87.03806, y: 22.499954}
+        - {x: -101.03806, y: 8.499954}
+        - {x: -104.03806, y: -0.50004387}
+        - {x: -104.03806, y: -24.500046}
+        - {x: -100.03806, y: -33.500042}
+        - {x: -83.03806, y: -48.500046}
+        - {x: -64.03806, y: -47.500046}
+        - {x: -43.038063, y: -59.50004}
+        - {x: -18.038067, y: -59.50004}
+        - {x: 26.96193, y: -39.500046}
+        - {x: 43.96193, y: -25.500046}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471b0e0e1700413995eed770af30aa49
+      internalID: 21300110
+      vertices:
+      - {x: 258.4619, y: 107.423874}
+      - {x: 284.4619, y: 46.423874}
+      - {x: 301.46194, y: 37.423874}
+      - {x: 301.46194, y: 13.423878}
+      - {x: 223.46194, y: -6.576126}
+      - {x: 165.46193, y: -29.576126}
+      - {x: 103.46194, y: -17.576126}
+      - {x: 71.46194, y: 14.423878}
+      - {x: 81.46194, y: 53.423874}
+      - {x: 118.46194, y: 109.423874}
+      indices: 050000000800000009000000060000000700000008000000050000000600000008000000040000000500000009000000010000000300000004000000010000000200000003000000000000000100000004000000000000000400000009000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0036
+      rect:
+        serializedVersion: 2
+        x: 10.026751
+        y: 890.0761
+        width: 195.89713
+        height: 105.92388
+      alignment: 9
+      pivot: {x: 0.09940548, y: 0.7262186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -63.97531, y: 52.96195}
+        - {x: 55.024673, y: 52.96195}
+        - {x: 73.02469, y: 6.9619484}
+        - {x: 107.02467, y: -14.038052}
+        - {x: -27.975311, y: -55.03805}
+        - {x: -84.97531, y: -38.03805}
+        - {x: -106.97531, y: -7.0380516}
+      physicsShape:
+      - - {x: 82.02469, y: -21.038052}
+        - {x: 93.02467, y: -20.038052}
+        - {x: 97.02469, y: -12.038052}
+        - {x: 97.02469, y: -8.038052}
+        - {x: 94.02467, y: -7.0380516}
+        - {x: 68.02467, y: 5.9619484}
+        - {x: 62.02469, y: 38.96195}
+        - {x: 54.02469, y: 52.96195}
+        - {x: 29.024681, y: 52.96195}
+        - {x: -22.975311, y: 49.96195}
+        - {x: -41.975315, y: 52.96195}
+        - {x: -63.97531, y: 52.96195}
+        - {x: -72.97531, y: 37.96195}
+        - {x: -92.97531, y: 11.961948}
+        - {x: -97.97531, y: -0.038051605}
+        - {x: -97.97531, y: -19.038048}
+        - {x: -84.97531, y: -37.03805}
+        - {x: -72.97531, y: -41.03805}
+        - {x: -54.97531, y: -40.03805}
+        - {x: -43.97531, y: -50.03805}
+        - {x: -38.97531, y: -52.03805}
+        - {x: -16.975311, y: -52.03805}
+        - {x: -8.975311, y: -51.03805}
+        - {x: 16.024689, y: -37.03805}
+        - {x: 32.02469, y: -27.038052}
+        - {x: 38.02469, y: -21.038052}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b88ca058af488eb748f3b54ff3994b
+      internalID: 21300112
+      vertices:
+      - {x: 249.44856, y: 35.96194}
+      - {x: 283.44855, y: 14.961941}
+      - {x: 148.44856, y: -26.03806}
+      - {x: 91.44856, y: -9.038059}
+      - {x: 69.44856, y: 21.96194}
+      - {x: 112.44856, y: 81.961945}
+      - {x: 231.44855, y: 81.961945}
+      indices: 020000000500000006000000030000000400000005000000020000000300000005000000000000000100000002000000060000000000000002000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0047
+      rect:
+        serializedVersion: 2
+        x: 11.07612
+        y: 1771.0267
+        width: 212.88097
+        height: 131.93976
+      alignment: 9
+      pivot: {x: 0.62675345, y: 0.25749075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -94.5166, y: 23.003387}
+        - {x: -62.51661, y: 67.00338}
+        - {x: 55.48339, y: 51.003387}
+        - {x: 73.48339, y: 16.003387}
+        - {x: 120.48339, y: -6.9966125}
+        - {x: -43.51661, y: -69.99661}
+        - {x: -116.51661, y: -46.996613}
+      physicsShape:
+      - - {x: 23.48339, y: -28.996613}
+        - {x: 57.48339, y: -27.996613}
+        - {x: 77.48339, y: -23.996613}
+        - {x: 100.48338, y: -12.996613}
+        - {x: 105.48339, y: -9.996613}
+        - {x: 105.48339, y: -2.9966125}
+        - {x: 103.48339, y: 3.0033875}
+        - {x: 78.48339, y: 10.003387}
+        - {x: 59.48339, y: 42.003387}
+        - {x: 54.48339, y: 52.003387}
+        - {x: 9.483391, y: 54.00338}
+        - {x: -31.516605, y: 59.003387}
+        - {x: -54.51661, y: 65.00339}
+        - {x: -60.51661, y: 65.00339}
+        - {x: -72.51661, y: 53.003387}
+        - {x: -74.51661, y: 36.003387}
+        - {x: -69.51661, y: 25.003387}
+        - {x: -78.5166, y: 21.003384}
+        - {x: -98.51661, y: 2.0033875}
+        - {x: -106.516594, y: -16.996613}
+        - {x: -106.516594, y: -31.996613}
+        - {x: -105.51661, y: -37.996613}
+        - {x: -95.51661, y: -49.996613}
+        - {x: -83.51661, y: -54.996613}
+        - {x: -67.51661, y: -54.996613}
+        - {x: -53.51661, y: -64.99661}
+        - {x: -29.51661, y: -64.99661}
+        - {x: -15.516609, y: -58.996613}
+        - {x: -0.5166092, y: -47.996613}
+        - {x: 12.483391, y: -36.996613}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d97f53019f44774bf9a30550bf33a29
+      internalID: 21300114
+      vertices:
+      - {x: 134.94049, y: 148.96988}
+      - {x: 152.94049, y: 113.96988}
+      - {x: 199.94049, y: 90.96988}
+      - {x: 35.940483, y: 27.96988}
+      - {x: -37.059517, y: 50.96988}
+      - {x: -15.059509, y: 120.96988}
+      - {x: 16.940483, y: 164.96988}
+      indices: 030000000500000006000000030000000400000005000000010000000200000003000000000000000100000003000000000000000300000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_WalkMirror0005
+      rect:
+        serializedVersion: 2
+        x: 189.07613
+        y: 571.02673
+        width: 180.92387
+        height: 109.89713
+      alignment: 9
+      pivot: {x: 0.40582743, y: 0.8733009}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -90.538055, y: -1.975296}
+        - {x: -87.53806, y: 47.0247}
+        - {x: -0.53806305, y: 47.0247}
+        - {x: 47.461937, y: 58.0247}
+        - {x: 90.46193, y: -1.975296}
+        - {x: 90.46193, y: -14.9753}
+        - {x: 12.461935, y: -53.9753}
+        - {x: -59.538063, y: -54.9753}
+      physicsShape:
+      - - {x: 84.46194, y: -18.975296}
+        - {x: 90.46193, y: -10.9753}
+        - {x: 90.46193, y: -1.975296}
+        - {x: 85.46194, y: 2.0247002}
+        - {x: 70.46194, y: 10.0247}
+        - {x: 66.46194, y: 29.0247}
+        - {x: 54.461937, y: 48.0247}
+        - {x: 45.461937, y: 54.0247}
+        - {x: 27.461937, y: 54.0247}
+        - {x: -4.538063, y: 46.0247}
+        - {x: -22.538063, y: 44.0247}
+        - {x: -54.538063, y: 44.0247}
+        - {x: -81.53806, y: 48.0247}
+        - {x: -89.53806, y: 27.0247}
+        - {x: -89.53806, y: -7.975296}
+        - {x: -70.538055, y: -18.975296}
+        - {x: -65.53806, y: -44.975292}
+        - {x: -57.538063, y: -49.9753}
+        - {x: -30.538063, y: -50.975292}
+        - {x: -18.538063, y: -49.9753}
+        - {x: -10.538063, y: -53.9753}
+        - {x: 5.461937, y: -53.9753}
+        - {x: 24.461937, y: -50.975292}
+        - {x: 36.461933, y: -37.9753}
+        - {x: 35.461933, y: -30.9753}
+        - {x: 58.461937, y: -28.9753}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40adb89e33e4e9bab8c6936bbfc43dc
+      internalID: 21300116
+      vertices:
+      - {x: 197.96193, y: 11.94857}
+      - {x: 197.96193, y: -1.0514336}
+      - {x: 119.96194, y: -40.051434}
+      - {x: 47.961937, y: -41.051434}
+      - {x: 16.961945, y: 11.94857}
+      - {x: 19.961937, y: 60.948566}
+      - {x: 106.96194, y: 60.948566}
+      - {x: 154.96194, y: 71.94856}
+      indices: 040000000500000006000000020000000000000001000000030000000400000006000000020000000300000006000000020000000600000000000000000000000600000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_WalkMirror0001
+      rect:
+        serializedVersion: 2
+        x: 6.0761204
+        y: 780.02673
+        width: 191.87256
+        height: 103.89713
+      alignment: 9
+      pivot: {x: 0.47127053, y: 0.6542362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -69.0124, y: 47.0247}
+        - {x: 15.9876, y: 44.0247}
+        - {x: 45.987602, y: 54.0247}
+        - {x: 93.9876, y: -3.975298}
+        - {x: 97.9876, y: -33.9753}
+        - {x: 37.987602, y: -50.975292}
+        - {x: -19.012398, y: -32.975296}
+        - {x: -86.0124, y: -61.9753}
+        - {x: -101.0124, y: -11.9753}
+      physicsShape:
+      - - {x: 30.987598, y: -48.9753}
+        - {x: 44.987602, y: -46.9753}
+        - {x: 57.987602, y: -45.9753}
+        - {x: 69.9876, y: -32.975296}
+        - {x: 86.987595, y: -34.9753}
+        - {x: 91.9876, y: -34.9753}
+        - {x: 94.9876, y: -30.9753}
+        - {x: 94.9876, y: -19.9753}
+        - {x: 92.987595, y: -10.975298}
+        - {x: 88.9876, y: 1.0247011}
+        - {x: 72.9876, y: 18.0247}
+        - {x: 53.9876, y: 36.024696}
+        - {x: 49.987602, y: 50.0247}
+        - {x: 47.9876, y: 52.0247}
+        - {x: 41.987602, y: 52.0247}
+        - {x: 20.9876, y: 45.0247}
+        - {x: -1.0123978, y: 42.0247}
+        - {x: -5.012398, y: 40.0247}
+        - {x: -40.012398, y: 41.0247}
+        - {x: -45.012398, y: 43.024696}
+        - {x: -67.0124, y: 46.024696}
+        - {x: -70.0124, y: 42.0247}
+        - {x: -74.0124, y: 31.0247}
+        - {x: -86.0124, y: 17.0247}
+        - {x: -86.0124, y: 7.0247}
+        - {x: -90.0124, y: 0.024700165}
+        - {x: -95.0124, y: -12.9753}
+        - {x: -95.0124, y: -31.9753}
+        - {x: -94.0124, y: -37.975296}
+        - {x: -82.0124, y: -46.9753}
+        - {x: -74.0124, y: -50.975292}
+        - {x: -58.012394, y: -50.975292}
+        - {x: -34.012398, y: -32.975296}
+        - {x: 3.9876022, y: -35.9753}
+        - {x: 21.987602, y: -47.9753}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4fc742ba8749fd926130cd01e020bf
+      internalID: 21300118
+      vertices:
+      - {x: 195.43628, y: 31.948568}
+      - {x: 199.43628, y: 1.9485664}
+      - {x: 139.43628, y: -15.051426}
+      - {x: 82.43628, y: 2.9485703}
+      - {x: 15.436279, y: -26.051434}
+      - {x: 0.4362793, y: 23.948566}
+      - {x: 32.43628, y: 82.94856}
+      - {x: 117.43628, y: 79.94856}
+      - {x: 147.43628, y: 89.94856}
+      indices: 030000000600000007000000000000000700000008000000050000000300000004000000030000000500000006000000020000000300000007000000000000000100000002000000000000000200000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0043
+      rect:
+        serializedVersion: 2
+        x: 264.02676
+        y: 1906.0762
+        width: 207.89713
+        height: 138.86751
+      alignment: 9
+      pivot: {x: 0.49771369, y: 0.17227808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -62.975327, y: -53.509926}
+        - {x: -123.97532, y: 34.490067}
+        - {x: -14.975326, y: 71.49007}
+        - {x: 81.024666, y: 9.490074}
+        - {x: 88.02467, y: -42.509926}
+        - {x: 113.024666, y: -68.509926}
+        - {x: 66.02467, y: -70.509926}
+        - {x: -3.9753263, y: -51.509926}
+      physicsShape:
+      - - {x: 82.02468, y: 3.4900703}
+        - {x: 82.02468, y: 8.49007}
+        - {x: 72.02468, y: 15.490074}
+        - {x: 48.02468, y: 25.490074}
+        - {x: 38.02468, y: 33.490074}
+        - {x: 19.024681, y: 43.490074}
+        - {x: -10.975319, y: 69.490074}
+        - {x: -19.975319, y: 69.490074}
+        - {x: -31.975319, y: 63.490074}
+        - {x: -40.97532, y: 52.490067}
+        - {x: -82.97532, y: 49.490074}
+        - {x: -99.97532, y: 35.490074}
+        - {x: -103.97532, y: 25.490074}
+        - {x: -103.97532, y: 9.490074}
+        - {x: -94.97532, y: -4.509926}
+        - {x: -76.97532, y: -15.509928}
+        - {x: -72.97532, y: -38.509926}
+        - {x: -61.97532, y: -46.509926}
+        - {x: -46.97532, y: -52.509926}
+        - {x: -15.975319, y: -53.509926}
+        - {x: -1.9753189, y: -51.509926}
+        - {x: 17.024681, y: -49.509926}
+        - {x: 38.02468, y: -60.509926}
+        - {x: 60.024677, y: -67.509926}
+        - {x: 78.02468, y: -69.509926}
+        - {x: 99.02468, y: -69.509926}
+        - {x: 104.02467, y: -65.509926}
+        - {x: 104.02467, y: -58.509926}
+        - {x: 81.02468, y: -24.509926}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae8a140eacd49548efc69bcc7c77604
+      internalID: 21300120
+      vertices:
+      - {x: 185.44855, y: 124.433754}
+      - {x: 192.44855, y: 72.433754}
+      - {x: 217.44855, y: 46.433754}
+      - {x: 170.44855, y: 44.433754}
+      - {x: 100.448555, y: 63.433754}
+      - {x: 41.448555, y: 61.433754}
+      - {x: -19.551437, y: 149.43375}
+      - {x: 89.448555, y: 186.43375}
+      indices: 050000000600000007000000040000000500000007000000010000000300000004000000010000000200000003000000000000000100000004000000000000000400000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0021
+      rect:
+        serializedVersion: 2
+        x: 660.0761
+        y: 923.0761
+        width: 196.84775
+        height: 112.84776
+      alignment: 9
+      pivot: {x: 0.10375475, y: 0.7082452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -97.499985, y: 1.5000076}
+        - {x: -63.499985, y: 57.500008}
+        - {x: 58.500015, y: 54.500008}
+        - {x: 71.500015, y: 5.5000076}
+        - {x: 113.500015, y: -14.499992}
+        - {x: -27.499985, y: -58.499992}
+        - {x: -99.499985, y: -37.499992}
+      physicsShape:
+      - - {x: 89.500015, y: -22.499989}
+        - {x: 98.500015, y: -17.499992}
+        - {x: 98.500015, y: -11.499992}
+        - {x: 97.500015, y: -6.4999905}
+        - {x: 70.500015, y: 3.5000095}
+        - {x: 60.500015, y: 50.500008}
+        - {x: 55.5, y: 55.500008}
+        - {x: 32.500015, y: 54.500008}
+        - {x: -2.4999847, y: 51.500008}
+        - {x: -40.499985, y: 53.500008}
+        - {x: -48.499985, y: 55.500008}
+        - {x: -61.499985, y: 55.500008}
+        - {x: -71.499985, y: 36.500008}
+        - {x: -70.499985, y: 25.500008}
+        - {x: -83.499985, y: 20.500008}
+        - {x: -97.499985, y: 3.5000095}
+        - {x: -97.499985, y: -26.499992}
+        - {x: -80.499985, y: -43.499985}
+        - {x: -62.499985, y: -43.499985}
+        - {x: -49.499985, y: -50.499992}
+        - {x: -40.499985, y: -55.499992}
+        - {x: -17.499989, y: -55.499992}
+        - {x: -10.499985, y: -54.499992}
+        - {x: 15.500015, y: -39.499992}
+        - {x: 40.500008, y: -23.499992}
+        - {x: 78.500015, y: -23.499992}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afbe87f8f304f6fb7398cd6cc4ea9ab
+      internalID: 21300122
+      vertices:
+      - {x: 234.92387, y: 87.42388}
+      - {x: 247.92387, y: 38.42388}
+      - {x: 289.9239, y: 18.423882}
+      - {x: 148.92387, y: -25.576118}
+      - {x: 76.923874, y: -4.5761185}
+      - {x: 78.923874, y: 34.42388}
+      - {x: 112.923874, y: 90.42388}
+      indices: 030000000500000006000000030000000400000005000000010000000200000003000000000000000100000003000000000000000300000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0032
+      rect:
+        serializedVersion: 2
+        x: 3.0761204
+        y: 1000.0761
+        width: 196.91502
+        height: 111.84776
+      alignment: 9
+      pivot: {x: 0.10371926, y: 0.70563674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -100.53363, y: -1.9999924}
+        - {x: -65.53363, y: 57.000008}
+        - {x: 57.46637, y: 54.000008}
+        - {x: 82.46637, y: -1.9999924}
+        - {x: 117.46637, y: -13.999992}
+        - {x: -28.533634, y: -57.999992}
+        - {x: -94.53363, y: -37.999992}
+      physicsShape:
+      - - {x: 88.46637, y: -22.999989}
+        - {x: 97.46637, y: -16.999989}
+        - {x: 97.46637, y: -10.999992}
+        - {x: 95.46637, y: -6.9999905}
+        - {x: 70.46637, y: 3.0000095}
+        - {x: 62.46637, y: 29.000008}
+        - {x: 61.46637, y: 46.000008}
+        - {x: 55.466354, y: 55.000008}
+        - {x: 39.466362, y: 55.000008}
+        - {x: -0.5336304, y: 52.000008}
+        - {x: -4.533638, y: 51.000008}
+        - {x: -49.53363, y: 55.000008}
+        - {x: -61.53363, y: 55.000008}
+        - {x: -71.53363, y: 37.000008}
+        - {x: -91.53363, y: 11.000008}
+        - {x: -97.53363, y: 0.000009536743}
+        - {x: -97.53363, y: -20.999992}
+        - {x: -94.53363, y: -26.999992}
+        - {x: -84.53363, y: -39.999992}
+        - {x: -74.53363, y: -43.999985}
+        - {x: -55.53363, y: -44.999992}
+        - {x: -42.53363, y: -54.999992}
+        - {x: -19.533634, y: -54.999992}
+        - {x: -11.53363, y: -53.999992}
+        - {x: 14.466362, y: -39.999992}
+        - {x: 42.466362, y: -23.999992}
+        - {x: 70.46637, y: -24.999992}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed761fea7ecc4f42b85aaab5f323ebc1
+      internalID: 21300124
+      vertices:
+      - {x: 233.95752, y: 86.92388}
+      - {x: 258.95752, y: 30.923882}
+      - {x: 293.95752, y: 18.923882}
+      - {x: 147.9575, y: -25.076118}
+      - {x: 81.95751, y: -5.0761185}
+      - {x: 75.95751, y: 30.923882}
+      - {x: 110.95751, y: 89.92388}
+      indices: 030000000500000006000000030000000400000005000000010000000200000003000000000000000100000003000000000000000300000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0038
+      rect:
+        serializedVersion: 2
+        x: 221.06102
+        y: 814.0761
+        width: 191.86285
+        height: 115.84776
+      alignment: 9
+      pivot: {x: 0.08568089, y: 0.5517922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -91.99245, y: -28.999989}
+        - {x: -99.99245, y: 9.000011}
+        - {x: -41.992447, y: 59.000008}
+        - {x: 72.00755, y: 32.00001}
+        - {x: 76.00755, y: -25.999989}
+        - {x: 109.00755, y: -48.99999}
+        - {x: -38.992447, y: -58.99999}
+      physicsShape:
+      - - {x: 67.00754, y: -49.99999}
+        - {x: 87.00755, y: -50.99999}
+        - {x: 95.00755, y: -44.99999}
+        - {x: 95.00755, y: -39.999985}
+        - {x: 74.00755, y: -25.999989}
+        - {x: 71.00755, y: -14.999989}
+        - {x: 73.00755, y: 7.0000114}
+        - {x: 73.00755, y: 30.000011}
+        - {x: 68.00755, y: 33.000008}
+        - {x: 28.007545, y: 38.00001}
+        - {x: 23.007553, y: 40.00001}
+        - {x: -20.99245, y: 51.00001}
+        - {x: -35.992447, y: 58.00001}
+        - {x: -42.99245, y: 58.00001}
+        - {x: -54.992447, y: 44.00001}
+        - {x: -59.992447, y: 31.000011}
+        - {x: -72.99245, y: 30.000011}
+        - {x: -88.99245, y: 16.000011}
+        - {x: -93.99245, y: 5.0000114}
+        - {x: -94.99245, y: 0.000011444092}
+        - {x: -94.99245, y: -12.999989}
+        - {x: -88.99245, y: -25.999989}
+        - {x: -83.99245, y: -30.999989}
+        - {x: -54.992447, y: -46.999985}
+        - {x: -47.992447, y: -53.999985}
+        - {x: -36.992447, y: -56.99999}
+        - {x: -12.992447, y: -56.99999}
+        - {x: -1.9924469, y: -54.99999}
+        - {x: 27.007545, y: -45.99999}
+        - {x: 44.007553, y: -43.99999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa5c2f74d07426782e3b82b17f10474
+      internalID: 21300126
+      vertices:
+      - {x: 247.43143, y: 83.92388}
+      - {x: 251.43143, y: 25.923882}
+      - {x: 284.43143, y: 2.9238815}
+      - {x: 136.43143, y: -7.0761185}
+      - {x: 83.43143, y: 22.923882}
+      - {x: 75.43143, y: 60.92388}
+      - {x: 133.43143, y: 110.923874}
+      indices: 040000000500000006000000030000000400000006000000010000000200000003000000000000000100000003000000000000000300000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0029
+      rect:
+        serializedVersion: 2
+        x: 667.0761
+        y: 1158.0762
+        width: 196.91502
+        height: 111.84776
+      alignment: 9
+      pivot: {x: 0.1037193, y: 0.7056362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -100.53362, y: -2.0000534}
+        - {x: -65.53362, y: 56.999947}
+        - {x: 57.466377, y: 53.999947}
+        - {x: 82.46638, y: -2.0000534}
+        - {x: 117.46638, y: -14.000053}
+        - {x: -28.533627, y: -58.000053}
+        - {x: -94.53362, y: -38.000053}
+      physicsShape:
+      - - {x: 88.46638, y: -23.00005}
+        - {x: 97.46638, y: -17.00005}
+        - {x: 97.46638, y: -11.000053}
+        - {x: 95.46638, y: -7.0000515}
+        - {x: 70.46638, y: 2.9999485}
+        - {x: 62.466377, y: 28.999947}
+        - {x: 61.466377, y: 45.999947}
+        - {x: 55.466362, y: 54.999947}
+        - {x: 39.46637, y: 54.999947}
+        - {x: -0.53362274, y: 51.999947}
+        - {x: -4.5336304, y: 50.999947}
+        - {x: -49.533623, y: 54.999947}
+        - {x: -61.533623, y: 54.999947}
+        - {x: -71.53362, y: 36.999947}
+        - {x: -91.53362, y: 10.999947}
+        - {x: -97.53362, y: -0.000051498413}
+        - {x: -97.53362, y: -21.000053}
+        - {x: -94.53362, y: -27.000053}
+        - {x: -84.53362, y: -40.000053}
+        - {x: -74.53362, y: -44.000046}
+        - {x: -55.533623, y: -45.000053}
+        - {x: -42.533623, y: -55.000053}
+        - {x: -19.533627, y: -55.000053}
+        - {x: -11.533623, y: -54.000053}
+        - {x: 14.46637, y: -40.000053}
+        - {x: 42.46637, y: -24.000053}
+        - {x: 70.46638, y: -25.000053}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b14e950fb57477ba23fb07fbe2965ce
+      internalID: 21300128
+      vertices:
+      - {x: 233.95752, y: 86.92388}
+      - {x: 258.95752, y: 30.923882}
+      - {x: 293.95752, y: 18.923882}
+      - {x: 147.9575, y: -25.076118}
+      - {x: 81.95751, y: -5.0761185}
+      - {x: 75.95751, y: 30.923882}
+      - {x: 110.95751, y: 89.92388}
+      indices: 030000000500000006000000030000000400000005000000010000000200000003000000000000000100000003000000000000000300000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_VententerMirror0001
+      rect:
+        serializedVersion: 2
+        x: 879.0761
+        y: 918.02673
+        width: 136.84775
+        height: 115.91688
+      alignment: 9
+      pivot: {x: 0.4451947, y: 0.9055909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -64.499985, y: 45.014828}
+        - {x: 11.500015, y: 46.014828}
+        - {x: 45.50001, y: 61.014828}
+        - {x: 72.50001, y: -9.985172}
+        - {x: 62.500015, y: -50.985165}
+        - {x: 28.500015, y: -40.985172}
+        - {x: -13.499985, y: -61.985172}
+        - {x: -73.499985, y: -42.985172}
+      physicsShape:
+      - - {x: 54.500015, y: -48.985172}
+        - {x: 63.500015, y: -44.985165}
+        - {x: 67.500015, y: -27.985172}
+        - {x: 67.500015, y: -4.9851723}
+        - {x: 63.500015, y: 11.014828}
+        - {x: 53.500015, y: 30.014828}
+        - {x: 49.500015, y: 55.014828}
+        - {x: 45.50001, y: 57.014828}
+        - {x: 37.500015, y: 57.014828}
+        - {x: 18.500015, y: 47.014828}
+        - {x: 14.500015, y: 48.014828}
+        - {x: -7.4999847, y: 41.014828}
+        - {x: -40.499985, y: 46.014828}
+        - {x: -50.49998, y: 41.014828}
+        - {x: -59.499985, y: 32.014828}
+        - {x: -66.499985, y: 14.014828}
+        - {x: -67.499985, y: 4.0148315}
+        - {x: -67.499985, y: -29.985172}
+        - {x: -63.499985, y: -39.985172}
+        - {x: -52.499985, y: -48.985172}
+        - {x: -28.499985, y: -46.985172}
+        - {x: -19.499985, y: -56.985172}
+        - {x: -4.4999847, y: -56.985172}
+        - {x: -0.49998474, y: -55.985172}
+        - {x: 6.5000153, y: -47.985172}
+        - {x: 31.500015, y: -38.985165}
+        - {x: 47.500015, y: -41.985172}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f00491b5c404892a6f3ee8ae13b205b
+      internalID: 21300130
+      vertices:
+      - {x: 148.42386, y: 0.9584389}
+      - {x: 138.42387, y: -40.041553}
+      - {x: 104.423874, y: -30.041561}
+      - {x: 62.423874, y: -51.04156}
+      - {x: 2.423874, y: -32.04156}
+      - {x: 11.423874, y: 55.95844}
+      - {x: 87.423874, y: 56.95844}
+      - {x: 121.423874, y: 71.958435}
+      indices: 030000000500000006000000000000000600000007000000030000000400000005000000020000000300000006000000000000000100000002000000000000000200000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0037
+      rect:
+        serializedVersion: 2
+        x: 221.06102
+        y: 814.0761
+        width: 191.86285
+        height: 115.84776
+      alignment: 9
+      pivot: {x: 0.08568089, y: 0.5517922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -91.99245, y: -28.999989}
+        - {x: -99.99245, y: 9.000011}
+        - {x: -41.992447, y: 59.000008}
+        - {x: 72.00755, y: 32.00001}
+        - {x: 76.00755, y: -25.999989}
+        - {x: 109.00755, y: -48.99999}
+        - {x: -38.992447, y: -58.99999}
+      physicsShape:
+      - - {x: 67.00754, y: -49.99999}
+        - {x: 87.00755, y: -50.99999}
+        - {x: 95.00755, y: -44.99999}
+        - {x: 95.00755, y: -39.999985}
+        - {x: 74.00755, y: -25.999989}
+        - {x: 71.00755, y: -14.999989}
+        - {x: 73.00755, y: 7.0000114}
+        - {x: 73.00755, y: 30.000011}
+        - {x: 68.00755, y: 33.000008}
+        - {x: 28.007545, y: 38.00001}
+        - {x: 23.007553, y: 40.00001}
+        - {x: -20.99245, y: 51.00001}
+        - {x: -35.992447, y: 58.00001}
+        - {x: -42.99245, y: 58.00001}
+        - {x: -54.992447, y: 44.00001}
+        - {x: -59.992447, y: 31.000011}
+        - {x: -72.99245, y: 30.000011}
+        - {x: -88.99245, y: 16.000011}
+        - {x: -93.99245, y: 5.0000114}
+        - {x: -94.99245, y: 0.000011444092}
+        - {x: -94.99245, y: -12.999989}
+        - {x: -88.99245, y: -25.999989}
+        - {x: -83.99245, y: -30.999989}
+        - {x: -54.992447, y: -46.999985}
+        - {x: -47.992447, y: -53.999985}
+        - {x: -36.992447, y: -56.99999}
+        - {x: -12.992447, y: -56.99999}
+        - {x: -1.9924469, y: -54.99999}
+        - {x: 27.007545, y: -45.99999}
+        - {x: 44.007553, y: -43.99999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7426865f83fa4b51b94631963e35f6be
+      internalID: 21300132
+      vertices:
+      - {x: 247.43143, y: 83.92388}
+      - {x: 251.43143, y: 25.923882}
+      - {x: 284.43143, y: 2.9238815}
+      - {x: 136.43143, y: -7.0761185}
+      - {x: 83.43143, y: 22.923882}
+      - {x: 75.43143, y: 60.92388}
+      - {x: 133.43143, y: 110.923874}
+      indices: 040000000500000006000000030000000400000006000000010000000200000003000000000000000100000003000000000000000300000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0034
+      rect:
+        serializedVersion: 2
+        x: 224.07613
+        y: 935.0761
+        width: 195.84775
+        height: 111.84776
+      alignment: 9
+      pivot: {x: 0.10428444, y: 0.70563674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -101, y: 3.0000095}
+        - {x: -65, y: 57.000008}
+        - {x: 58, y: 54.000008}
+        - {x: 74, y: 4.0000076}
+        - {x: 113, y: -15.999992}
+        - {x: -29, y: -57.999992}
+        - {x: -94, y: -37.999992}
+      physicsShape:
+      - - {x: 80.999985, y: -23.999992}
+        - {x: 92, y: -19.999989}
+        - {x: 98, y: -12.999992}
+        - {x: 96, y: -7.9999924}
+        - {x: 70, y: 4.0000076}
+        - {x: 61, y: 47.000008}
+        - {x: 55.999985, y: 55.000008}
+        - {x: 11, y: 54.000008}
+        - {x: -29, y: 55.000008}
+        - {x: -60, y: 55.000008}
+        - {x: -70, y: 36.000008}
+        - {x: -73, y: 25.000008}
+        - {x: -82, y: 21.000008}
+        - {x: -97, y: 4.0000076}
+        - {x: -97, y: -18.999992}
+        - {x: -93, y: -29.999989}
+        - {x: -79, y: -42.999992}
+        - {x: -59, y: -43.999985}
+        - {x: -48, y: -48.999992}
+        - {x: -43, y: -54.999992}
+        - {x: -16, y: -54.999992}
+        - {x: -10, y: -52.999992}
+        - {x: 28.999992, y: -31.999992}
+        - {x: 40.999992, y: -22.999989}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1505d87f94f7424db150874010ae8efa
+      internalID: 21300134
+      vertices:
+      - {x: 233.42387, y: 86.92388}
+      - {x: 249.42387, y: 36.92388}
+      - {x: 288.4239, y: 16.923882}
+      - {x: 146.42387, y: -25.076118}
+      - {x: 81.423874, y: -5.0761185}
+      - {x: 74.423874, y: 35.92388}
+      - {x: 110.423874, y: 89.92388}
+      indices: 030000000500000006000000030000000400000005000000010000000200000003000000000000000100000003000000000000000300000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0053
+      rect:
+        serializedVersion: 2
+        x: 859.02673
+        y: 800.02673
+        width: 158.9465
+        height: 111.91224
+      alignment: 9
+      pivot: {x: 1.0096055, y: 1.3937105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -67.499985, y: 55.01715}
+        - {x: 51.500015, y: 56.01715}
+        - {x: 82.500015, y: -42.98285}
+        - {x: 23.500015, y: -57.98285}
+        - {x: -57.499985, y: -44.98285}
+        - {x: -87.499985, y: 15.017151}
+      physicsShape:
+      - - {x: 78.500015, y: -28.98285}
+        - {x: 67.500015, y: -13.982849}
+        - {x: 55.500015, y: 31.01715}
+        - {x: 52.500015, y: 51.017155}
+        - {x: 48.500015, y: 55.01715}
+        - {x: 4.5000153, y: 55.01715}
+        - {x: -26.499977, y: 53.01715}
+        - {x: -51.499985, y: 55.01715}
+        - {x: -67.499985, y: 55.01715}
+        - {x: -75.499985, y: 38.01715}
+        - {x: -76.499985, y: 27.017159}
+        - {x: -68.499985, y: 14.0171585}
+        - {x: -79.499985, y: 11.017151}
+        - {x: -79.499985, y: -1.9828491}
+        - {x: -75.499985, y: -5.9828415}
+        - {x: -72.499985, y: -7.9828415}
+        - {x: -64.499985, y: -16.982841}
+        - {x: -62.499985, y: -30.98285}
+        - {x: -50.499985, y: -45.982834}
+        - {x: -43.499985, y: -47.98285}
+        - {x: -16.499985, y: -46.982834}
+        - {x: 2.5000153, y: -51.98285}
+        - {x: 6.5000153, y: -54.98285}
+        - {x: 11.500015, y: -55.98285}
+        - {x: 27.50002, y: -55.98285}
+        - {x: 37.500015, y: -54.98285}
+        - {x: 45.500015, y: -48.98285}
+        - {x: 75.500015, y: -46.982834}
+        - {x: 78.500015, y: -39.98285}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a685de3ad3494736b833efb15e2ff57d
+      internalID: 21300136
+      vertices:
+      - {x: 80.97325, y: -87.043884}
+      - {x: 21.973251, y: -102.043884}
+      - {x: -59.02675, y: -89.043884}
+      - {x: -89.02675, y: -29.04388}
+      - {x: -69.02675, y: 10.95612}
+      - {x: 49.97325, y: 11.95612}
+      indices: 020000000400000005000000020000000300000004000000010000000200000005000000000000000100000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0031
+      rect:
+        serializedVersion: 2
+        x: 223.07613
+        y: 1052.0762
+        width: 196.91502
+        height: 111.84776
+      alignment: 9
+      pivot: {x: 0.10371923, y: 0.7056362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -100.53364, y: -2.0000534}
+        - {x: -65.53364, y: 56.999947}
+        - {x: 57.466362, y: 53.999947}
+        - {x: 82.46636, y: -2.0000534}
+        - {x: 117.46636, y: -14.000053}
+        - {x: -28.533642, y: -58.000053}
+        - {x: -94.53364, y: -38.000053}
+      physicsShape:
+      - - {x: 88.46636, y: -23.00005}
+        - {x: 97.46636, y: -17.00005}
+        - {x: 97.46636, y: -11.000053}
+        - {x: 95.46636, y: -7.0000515}
+        - {x: 70.46636, y: 2.9999485}
+        - {x: 62.466362, y: 28.999947}
+        - {x: 61.466362, y: 45.999947}
+        - {x: 55.466347, y: 54.999947}
+        - {x: 39.466354, y: 54.999947}
+        - {x: -0.533638, y: 51.999947}
+        - {x: -4.5336456, y: 50.999947}
+        - {x: -49.533638, y: 54.999947}
+        - {x: -61.533638, y: 54.999947}
+        - {x: -71.53364, y: 36.999947}
+        - {x: -91.53364, y: 10.999947}
+        - {x: -97.53364, y: -0.000051498413}
+        - {x: -97.53364, y: -21.000053}
+        - {x: -94.53364, y: -27.000053}
+        - {x: -84.53364, y: -40.000053}
+        - {x: -74.53364, y: -44.000046}
+        - {x: -55.533638, y: -45.000053}
+        - {x: -42.533638, y: -55.000053}
+        - {x: -19.533642, y: -55.000053}
+        - {x: -11.533638, y: -54.000053}
+        - {x: 14.466354, y: -40.000053}
+        - {x: 42.466354, y: -24.000053}
+        - {x: 70.46636, y: -25.000053}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5642693402eb44e08235ca9369d6a3a3
+      internalID: 21300138
+      vertices:
+      - {x: 233.95752, y: 86.92388}
+      - {x: 258.95752, y: 30.923882}
+      - {x: 293.95752, y: 18.923882}
+      - {x: 147.9575, y: -25.076118}
+      - {x: 81.95751, y: -5.0761185}
+      - {x: 75.95751, y: 30.923882}
+      - {x: 110.95751, y: 89.92388}
+      indices: 030000000500000006000000030000000400000005000000010000000200000003000000000000000100000003000000000000000300000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_VententerMirror0005
+      rect:
+        serializedVersion: 2
+        x: 375.0761
+        y: 568.0761
+        width: 168.86285
+        height: 103.89191
+      alignment: 9
+      pivot: {x: 0.45554063, y: 0.5671654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -77.50754, y: 40.97794}
+        - {x: 17.492462, y: 41.97794}
+        - {x: 60.492462, y: 55.977936}
+        - {x: 88.49246, y: -17.02206}
+        - {x: 76.49246, y: -42.022057}
+        - {x: -15.507538, y: -53.022057}
+        - {x: -75.50754, y: -42.022057}
+        - {x: -87.50753, y: -16.022058}
+      physicsShape:
+      - - {x: 72.492455, y: -45.02206}
+        - {x: 80.49246, y: -36.022057}
+        - {x: 83.49246, y: -24.02206}
+        - {x: 83.49246, y: -5.0220604}
+        - {x: 78.492455, y: 6.9779396}
+        - {x: 67.49246, y: 22.97794}
+        - {x: 58.492462, y: 47.97794}
+        - {x: 55.492462, y: 50.97794}
+        - {x: 49.492462, y: 50.97794}
+        - {x: 17.492462, y: 41.97794}
+        - {x: -10.507538, y: 36.977936}
+        - {x: -53.507534, y: 40.97794}
+        - {x: -63.507538, y: 38.97794}
+        - {x: -80.50753, y: 19.97794}
+        - {x: -83.50754, y: 1.9779401}
+        - {x: -84.50754, y: -2.0220604}
+        - {x: -84.50754, y: -24.02206}
+        - {x: -80.50753, y: -33.022057}
+        - {x: -66.50754, y: -44.02206}
+        - {x: -48.507538, y: -43.02206}
+        - {x: -41.507538, y: -40.02206}
+        - {x: -34.507538, y: -43.02206}
+        - {x: -23.507538, y: -51.02206}
+        - {x: -5.507538, y: -51.02206}
+        - {x: 2.4924612, y: -48.02206}
+        - {x: 20.492462, y: -36.022057}
+        - {x: 50.492462, y: -37.02206}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e3dcefb96e4c548cc0d24f5725339b
+      internalID: 21300140
+      vertices:
+      - {x: 180.43143, y: 27.945953}
+      - {x: 168.43143, y: 2.9459572}
+      - {x: 76.43143, y: -8.054043}
+      - {x: 16.431427, y: 2.9459572}
+      - {x: 4.4314346, y: 28.945955}
+      - {x: 14.431427, y: 85.94595}
+      - {x: 109.43143, y: 86.94595}
+      - {x: 152.43143, y: 100.94595}
+      indices: 020000000500000006000000000000000100000006000000040000000200000003000000020000000400000005000000010000000200000006000000000000000600000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0006
+      rect:
+        serializedVersion: 2
+        x: 491.0761
+        y: 1910.0762
+        width: 226.92387
+        height: 136.92387
+      alignment: 9
+      pivot: {x: 0.15610473, y: 0.7005632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -73.53805, y: 68.46189}
+        - {x: 72.46195, y: 68.46189}
+        - {x: 81.46194, y: 18.461891}
+        - {x: 113.46195, y: -2.538107}
+        - {x: 113.46195, y: -28.538109}
+        - {x: -27.538048, y: -71.5381}
+        - {x: -97.53805, y: -54.53811}
+        - {x: -121.53805, y: -17.538109}
+        - {x: -108.53805, y: 20.461891}
+      physicsShape:
+      - - {x: 99.46195, y: -22.538109}
+        - {x: 105.46194, y: -17.538109}
+        - {x: 106.46194, y: -14.538109}
+        - {x: 106.46194, y: -9.538109}
+        - {x: 101.46195, y: -6.538109}
+        - {x: 77.46195, y: 5.461891}
+        - {x: 66.46195, y: 52.46189}
+        - {x: 61.461952, y: 60.46189}
+        - {x: 44.461952, y: 61.46189}
+        - {x: 30.461945, y: 58.46189}
+        - {x: -2.5380478, y: 57.46189}
+        - {x: -26.538048, y: 58.46189}
+        - {x: -55.538048, y: 61.46189}
+        - {x: -64.53805, y: 61.46189}
+        - {x: -66.53805, y: 59.46189}
+        - {x: -76.53805, y: 40.46189}
+        - {x: -75.53805, y: 31.461891}
+        - {x: -88.53805, y: 23.461891}
+        - {x: -99.53805, y: 12.461892}
+        - {x: -106.53805, y: -1.5381088}
+        - {x: -106.53805, y: -17.538109}
+        - {x: -105.53805, y: -23.538109}
+        - {x: -99.53805, y: -33.53811}
+        - {x: -90.53805, y: -42.53811}
+        - {x: -80.53805, y: -47.53811}
+        - {x: -61.538048, y: -46.53811}
+        - {x: -50.538048, y: -56.53811}
+        - {x: -41.53805, y: -60.53811}
+        - {x: -18.538052, y: -60.53811}
+        - {x: 16.461952, y: -43.53811}
+        - {x: 29.461945, y: -35.53811}
+        - {x: 84.46195, y: -25.538105}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7371bfa782e8446c8318b9be11500b09
+      internalID: 21300142
+      vertices:
+      - {x: 272.9619, y: 59.461937}
+      - {x: 304.96194, y: 38.461937}
+      - {x: 304.96194, y: 12.461937}
+      - {x: 163.96194, y: -30.538055}
+      - {x: 93.96194, y: -13.538063}
+      - {x: 69.96194, y: 23.461937}
+      - {x: 82.96194, y: 61.461937}
+      - {x: 117.96194, y: 109.46194}
+      - {x: 263.96194, y: 109.46194}
+      indices: 000000000700000008000000060000000300000004000000040000000500000006000000060000000700000003000000000000000100000002000000000000000200000003000000000000000300000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0040
+      rect:
+        serializedVersion: 2
+        x: 634.0761
+        y: 684.0761
+        width: 181.84775
+        height: 115.86751
+      alignment: 9
+      pivot: {x: 0.051822968, y: 0.5258065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -87.999985, y: -25.00986}
+        - {x: -95.999985, y: 15.990139}
+        - {x: -32.999985, y: 58.990135}
+        - {x: 74.000015, y: 25.990139}
+        - {x: 74.000015, y: -30.009861}
+        - {x: 99.000015, y: -55.009857}
+        - {x: -40.999985, y: -59.00986}
+      physicsShape:
+      - - {x: 65, y: -55.009865}
+        - {x: 83.000015, y: -56.00986}
+        - {x: 88.000015, y: -54.009865}
+        - {x: 90, y: -50.00986}
+        - {x: 90, y: -44.009865}
+        - {x: 73.000015, y: -33.009865}
+        - {x: 69.000015, y: -25.009865}
+        - {x: 74.000015, y: 11.990135}
+        - {x: 74.000015, y: 21.990135}
+        - {x: 69.000015, y: 26.990135}
+        - {x: 61.000015, y: 29.990133}
+        - {x: -22.999989, y: 54.990135}
+        - {x: -26.999985, y: 56.99013}
+        - {x: -33.999985, y: 56.99013}
+        - {x: -46.999985, y: 43.990135}
+        - {x: -48.999985, y: 38.990135}
+        - {x: -60.999985, y: 31.990135}
+        - {x: -75.999985, y: 25.990133}
+        - {x: -82.999985, y: 16.990135}
+        - {x: -89.999985, y: 1.9901352}
+        - {x: -89.999985, y: -17.009863}
+        - {x: -85.999985, y: -25.009865}
+        - {x: -71.999985, y: -36.009865}
+        - {x: -55.999985, y: -45.009865}
+        - {x: -48.999985, y: -52.009865}
+        - {x: -38.999985, y: -57.00986}
+        - {x: -12.999985, y: -57.00986}
+        - {x: 20.000015, y: -50.00986}
+        - {x: 35.000015, y: -44.009865}
+        - {x: 43.000015, y: -48.009865}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d44214acda4f53bcb544fdb7019428
+      internalID: 21300144
+      vertices:
+      - {x: 246.42387, y: 80.93376}
+      - {x: 246.42387, y: 24.933758}
+      - {x: 271.4239, y: -0.0662384}
+      - {x: 131.42387, y: -4.066242}
+      - {x: 84.423874, y: 29.93376}
+      - {x: 76.423874, y: 70.93376}
+      - {x: 139.42387, y: 113.933754}
+      indices: 040000000500000006000000030000000400000006000000010000000200000003000000010000000300000006000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0016
+      rect:
+        serializedVersion: 2
+        x: 686.0761
+        y: 1519.0762
+        width: 207.84775
+        height: 120.89713
+      alignment: 9
+      pivot: {x: 0.12231978, y: 0.702447}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -73.999985, y: 59.47526}
+        - {x: 63.000015, y: 60.47526}
+        - {x: 76.000015, y: 6.4752617}
+        - {x: 112.000015, y: -9.524738}
+        - {x: 97.000015, y: -24.524734}
+        - {x: -29.999985, y: -63.52474}
+        - {x: -93.999985, y: -43.52474}
+        - {x: -108.999985, y: -10.524738}
+      physicsShape:
+      - - {x: 80, y: -25.524738}
+        - {x: 94, y: -23.524738}
+        - {x: 101.000015, y: -14.524738}
+        - {x: 101.000015, y: -10.524738}
+        - {x: 99.000015, y: -8.524738}
+        - {x: 73.000015, y: 2.4752617}
+        - {x: 66.000015, y: 27.475262}
+        - {x: 62.000015, y: 51.475258}
+        - {x: 55, y: 56.47526}
+        - {x: 44.000015, y: 56.47526}
+        - {x: 20.000008, y: 54.475258}
+        - {x: -25.999989, y: 53.47526}
+        - {x: -26.999985, y: 54.475258}
+        - {x: -43.999985, y: 56.47526}
+        - {x: -62.999985, y: 56.47526}
+        - {x: -72.999985, y: 37.47526}
+        - {x: -72.999985, y: 31.475262}
+        - {x: -95.999985, y: 10.475262}
+        - {x: -100.999985, y: 2.4752617}
+        - {x: -100.999985, y: -22.524738}
+        - {x: -95.999985, y: -34.524734}
+        - {x: -76.999985, y: -46.52474}
+        - {x: -57.999985, y: -44.52474}
+        - {x: -43.999985, y: -56.52474}
+        - {x: -38.999985, y: -57.52474}
+        - {x: -20.999985, y: -57.52474}
+        - {x: -8.999985, y: -53.52474}
+        - {x: 13.000015, y: -42.52473}
+        - {x: 43.000008, y: -24.524734}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973b356a7cbc4133ac596b2b911b358c
+      internalID: 21300146
+      vertices:
+      - {x: 258.4239, y: 42.448566}
+      - {x: 294.4239, y: 26.448566}
+      - {x: 279.4239, y: 11.44857}
+      - {x: 152.42387, y: -27.551434}
+      - {x: 88.423874, y: -7.5514336}
+      - {x: 73.423874, y: 25.448566}
+      - {x: 108.423874, y: 95.44856}
+      - {x: 245.42387, y: 96.44856}
+      indices: 000000000600000007000000050000000300000004000000050000000600000003000000000000000100000002000000000000000200000003000000000000000300000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0044
+      rect:
+        serializedVersion: 2
+        x: 12.07612
+        y: 1910.0762
+        width: 214.8991
+        height: 132.89713
+      alignment: 9
+      pivot: {x: 0.5929475, y: 0.052099157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -92.52567, y: 36.475266}
+        - {x: -26.525673, y: 70.475266}
+        - {x: 79.47432, y: 12.4752655}
+        - {x: 86.47433, y: -33.524734}
+        - {x: 122.47433, y: -70.524734}
+        - {x: -61.525673, y: -56.524734}
+        - {x: -118.52567, y: 10.4752655}
+      physicsShape:
+      - - {x: 86.47433, y: -36.524734}
+        - {x: 81.47433, y: -22.524734}
+        - {x: 79.47432, y: 8.4752655}
+        - {x: 76.47433, y: 14.4752655}
+        - {x: 57.474327, y: 22.475266}
+        - {x: 37.474327, y: 32.475258}
+        - {x: 18.474327, y: 41.475266}
+        - {x: -17.525673, y: 65.475266}
+        - {x: -27.525673, y: 65.475266}
+        - {x: -43.525673, y: 52.475266}
+        - {x: -45.525673, y: 44.475266}
+        - {x: -72.525665, y: 44.475266}
+        - {x: -84.525665, y: 41.475266}
+        - {x: -94.52567, y: 35.475266}
+        - {x: -102.52567, y: 26.475258}
+        - {x: -106.52567, y: 19.475266}
+        - {x: -106.52567, y: 7.475258}
+        - {x: -105.52567, y: -0.5247383}
+        - {x: -100.525665, y: -7.5247345}
+        - {x: -91.52567, y: -16.524738}
+        - {x: -76.52567, y: -22.524734}
+        - {x: -76.52567, y: -35.524734}
+        - {x: -65.525665, y: -50.524734}
+        - {x: -47.525673, y: -57.524734}
+        - {x: -10.525673, y: -56.524734}
+        - {x: 20.474327, y: -50.524734}
+        - {x: 25.474327, y: -54.524734}
+        - {x: 52.474327, y: -63.524734}
+        - {x: 68.47433, y: -65.524734}
+        - {x: 97.47433, y: -65.524734}
+        - {x: 106.47433, y: -62.524734}
+        - {x: 106.47433, y: -53.524734}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2603a354fc04f4ebe453783a305ee7a
+      internalID: 21300148
+      vertices:
+      - {x: 166.94954, y: 138.44856}
+      - {x: 173.94955, y: 92.44856}
+      - {x: 209.94955, y: 55.448563}
+      - {x: 25.949547, y: 69.44856}
+      - {x: -31.050453, y: 136.44856}
+      - {x: -5.050453, y: 162.44856}
+      - {x: 60.949547, y: 196.44856}
+      indices: 030000000500000006000000030000000400000005000000010000000200000003000000000000000100000003000000000000000300000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_SpawnMirror0050
+      rect:
+        serializedVersion: 2
+        x: 827.02673
+        y: 693.0761
+        width: 181.9465
+        height: 100.880974
+      alignment: 9
+      pivot: {x: 0.9644223, y: 1.5456223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -49.999985, y: -46.5166}
+        - {x: -89.999985, y: -6.5166016}
+        - {x: -91.999985, y: 52.483402}
+        - {x: 53.000015, y: 48.4834}
+        - {x: 95.000015, y: -35.5166}
+        - {x: 55.000015, y: -51.5166}
+      physicsShape:
+      - - {x: 90.000015, y: -30.516602}
+        - {x: 73.000015, y: -6.5166016}
+        - {x: 59.000015, y: 24.483398}
+        - {x: 56.000015, y: 44.4834}
+        - {x: 52.000015, y: 48.4834}
+        - {x: 32.00002, y: 49.4834}
+        - {x: 27.000015, y: 49.4834}
+        - {x: -13.999977, y: 46.483402}
+        - {x: -60.999985, y: 49.4834}
+        - {x: -80.999985, y: 49.4834}
+        - {x: -90.999985, y: 33.4834}
+        - {x: -88.999985, y: 23.483398}
+        - {x: -82.999985, y: 14.483398}
+        - {x: -90.999985, y: 7.483406}
+        - {x: -90.999985, y: -2.516594}
+        - {x: -82.999985, y: -6.5166016}
+        - {x: -63.999985, y: -34.5166}
+        - {x: -52.999985, y: -41.516586}
+        - {x: -19.999977, y: -41.516586}
+        - {x: -0.9999771, y: -43.5166}
+        - {x: 12.000015, y: -49.5166}
+        - {x: 43.000015, y: -49.5166}
+        - {x: 56.000015, y: -43.5166}
+        - {x: 84.000015, y: -40.516586}
+        - {x: 90.000015, y: -36.5166}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2ca5c1139641c8a599729d5eea9400
+      internalID: 21300150
+      vertices:
+      - {x: 59.47325, y: -6.559513}
+      - {x: 101.47325, y: -90.55951}
+      - {x: 61.47325, y: -106.55951}
+      - {x: -43.52675, y: -101.55951}
+      - {x: -83.52675, y: -61.559513}
+      - {x: -85.52675, y: -2.5595093}
+      indices: 000000000300000004000000000000000200000003000000000000000100000002000000000000000400000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_d2_beans_skin_hunter_VententerMirror0006
+      rect:
+        serializedVersion: 2
+        x: 398.0761
+        y: 681.0761
+        width: 168.84775
+        height: 104.89713
+      alignment: 9
+      pivot: {x: 0.45558137, y: 1.2576501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -78.499985, y: 41.475327}
+        - {x: 9.500015, y: 40.475327}
+        - {x: 57.500015, y: 55.475327}
+        - {x: 89.500015, y: -16.524673}
+        - {x: 74.500015, y: -45.524673}
+        - {x: 35.50001, y: -34.524673}
+        - {x: -15.499985, y: -55.524673}
+        - {x: -92.499985, y: -40.524666}
+      physicsShape:
+      - - {x: 32.50001, y: -34.524673}
+        - {x: 73.500015, y: -44.524673}
+        - {x: 78.50001, y: -37.524666}
+        - {x: 83.500015, y: -25.524666}
+        - {x: 83.500015, y: -4.5246735}
+        - {x: 76.500015, y: 10.475327}
+        - {x: 61.500015, y: 36.47533}
+        - {x: 58.500015, y: 49.475327}
+        - {x: 56.500015, y: 51.475327}
+        - {x: 51.50001, y: 51.475327}
+        - {x: 25.500015, y: 43.475327}
+        - {x: -28.499985, y: 36.47533}
+        - {x: -29.499985, y: 38.475327}
+        - {x: -52.499985, y: 41.475327}
+        - {x: -70.499985, y: 32.475327}
+        - {x: -81.499985, y: 15.475327}
+        - {x: -84.499985, y: 8.475327}
+        - {x: -84.499985, y: -24.524673}
+        - {x: -79.499985, y: -34.524673}
+        - {x: -65.499985, y: -45.524673}
+        - {x: -39.499985, y: -41.524666}
+        - {x: -27.499983, y: -48.524673}
+        - {x: -21.499985, y: -51.524673}
+        - {x: -9.499985, y: -51.524673}
+        - {x: -1.4999847, y: -49.524673}
+        - {x: 8.500015, y: -42.524673}
+        - {x: 11.500015, y: -36.524673}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ef96c20d0e4356adce358ee5049a68
+      internalID: 21300152
+      vertices:
+      - {x: 181.42387, y: -43.551434}
+      - {x: 166.42387, y: -72.55144}
+      - {x: 127.423874, y: -61.551434}
+      - {x: 76.423874, y: -82.55144}
+      - {x: -0.5761261, y: -67.55142}
+      - {x: 13.423874, y: 14.448566}
+      - {x: 101.423874, y: 13.448566}
+      - {x: 149.42387, y: 28.448566}
+      indices: 030000000500000006000000020000000600000007000000030000000400000005000000020000000300000006000000000000000100000002000000000000000200000007000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      2022_d2_beans_skin_hunter_IdleMirror: 21300042
+      2022_d2_beans_skin_hunter_SpawnMirror0001: 21300076
+      2022_d2_beans_skin_hunter_SpawnMirror0002: 21300096
+      2022_d2_beans_skin_hunter_SpawnMirror0003: 21300058
+      2022_d2_beans_skin_hunter_SpawnMirror0004: 21300088
+      2022_d2_beans_skin_hunter_SpawnMirror0005: 21300066
+      2022_d2_beans_skin_hunter_SpawnMirror0006: 21300142
+      2022_d2_beans_skin_hunter_SpawnMirror0007: 21300106
+      2022_d2_beans_skin_hunter_SpawnMirror0008: 21300110
+      2022_d2_beans_skin_hunter_SpawnMirror0009: 21300034
+      2022_d2_beans_skin_hunter_SpawnMirror0010: 21300028
+      2022_d2_beans_skin_hunter_SpawnMirror0011: 21300084
+      2022_d2_beans_skin_hunter_SpawnMirror0012: 21300108
+      2022_d2_beans_skin_hunter_SpawnMirror0013: 21300022
+      2022_d2_beans_skin_hunter_SpawnMirror0014: 21300012
+      2022_d2_beans_skin_hunter_SpawnMirror0015: 21300030
+      2022_d2_beans_skin_hunter_SpawnMirror0016: 21300146
+      2022_d2_beans_skin_hunter_SpawnMirror0017: 21300056
+      2022_d2_beans_skin_hunter_SpawnMirror0018: 21300074
+      2022_d2_beans_skin_hunter_SpawnMirror0019: 21300002
+      2022_d2_beans_skin_hunter_SpawnMirror0020: 21300048
+      2022_d2_beans_skin_hunter_SpawnMirror0021: 21300122
+      2022_d2_beans_skin_hunter_SpawnMirror0022: 21300094
+      2022_d2_beans_skin_hunter_SpawnMirror0023: 21300052
+      2022_d2_beans_skin_hunter_SpawnMirror0024: 21300006
+      2022_d2_beans_skin_hunter_SpawnMirror0025: 21300044
+      2022_d2_beans_skin_hunter_SpawnMirror0026: 21300032
+      2022_d2_beans_skin_hunter_SpawnMirror0027: 21300016
+      2022_d2_beans_skin_hunter_SpawnMirror0028: 21300104
+      2022_d2_beans_skin_hunter_SpawnMirror0029: 21300128
+      2022_d2_beans_skin_hunter_SpawnMirror0030: 21300080
+      2022_d2_beans_skin_hunter_SpawnMirror0031: 21300138
+      2022_d2_beans_skin_hunter_SpawnMirror0032: 21300124
+      2022_d2_beans_skin_hunter_SpawnMirror0033: 21300046
+      2022_d2_beans_skin_hunter_SpawnMirror0034: 21300134
+      2022_d2_beans_skin_hunter_SpawnMirror0035: 21300024
+      2022_d2_beans_skin_hunter_SpawnMirror0036: 21300112
+      2022_d2_beans_skin_hunter_SpawnMirror0037: 21300132
+      2022_d2_beans_skin_hunter_SpawnMirror0038: 21300126
+      2022_d2_beans_skin_hunter_SpawnMirror0039: 21300086
+      2022_d2_beans_skin_hunter_SpawnMirror0040: 21300144
+      2022_d2_beans_skin_hunter_SpawnMirror0041: 21300000
+      2022_d2_beans_skin_hunter_SpawnMirror0042: 21300026
+      2022_d2_beans_skin_hunter_SpawnMirror0043: 21300120
+      2022_d2_beans_skin_hunter_SpawnMirror0044: 21300148
+      2022_d2_beans_skin_hunter_SpawnMirror0045: 21300100
+      2022_d2_beans_skin_hunter_SpawnMirror0046: 21300098
+      2022_d2_beans_skin_hunter_SpawnMirror0047: 21300114
+      2022_d2_beans_skin_hunter_SpawnMirror0048: 21300072
+      2022_d2_beans_skin_hunter_SpawnMirror0049: 21300004
+      2022_d2_beans_skin_hunter_SpawnMirror0050: 21300150
+      2022_d2_beans_skin_hunter_SpawnMirror0051: 21300064
+      2022_d2_beans_skin_hunter_SpawnMirror0052: 21300078
+      2022_d2_beans_skin_hunter_SpawnMirror0053: 21300136
+      2022_d2_beans_skin_hunter_SpawnMirror0054: 21300070
+      2022_d2_beans_skin_hunter_SpawnMirror0055: 21300082
+      2022_d2_beans_skin_hunter_VententerMirror0001: 21300130
+      2022_d2_beans_skin_hunter_VententerMirror0002: 21300068
+      2022_d2_beans_skin_hunter_VententerMirror0003: 21300014
+      2022_d2_beans_skin_hunter_VententerMirror0004: 21300010
+      2022_d2_beans_skin_hunter_VententerMirror0005: 21300140
+      2022_d2_beans_skin_hunter_VententerMirror0006: 21300152
+      2022_d2_beans_skin_hunter_VententerMirror0007: 21300060
+      2022_d2_beans_skin_hunter_VententerMirror0008: 21300102
+      2022_d2_beans_skin_hunter_VententerMirror0009: 21300008
+      2022_d2_beans_skin_hunter_WalkMirror0001: 21300118
+      2022_d2_beans_skin_hunter_WalkMirror0002: 21300054
+      2022_d2_beans_skin_hunter_WalkMirror0003: 21300050
+      2022_d2_beans_skin_hunter_WalkMirror0004: 21300038
+      2022_d2_beans_skin_hunter_WalkMirror0005: 21300116
+      2022_d2_beans_skin_hunter_WalkMirror0006: 21300062
+      2022_d2_beans_skin_hunter_WalkMirror0007: 21300040
+      2022_d2_beans_skin_hunter_WalkMirror0008: 21300090
+      2022_d2_beans_skin_hunter_WalkMirror0009: 21300092
+      2022_d2_beans_skin_hunter_WalkMirror0010: 21300036
+      2022_d2_beans_skin_hunter_WalkMirror0011: 21300020
+      2022_d2_beans_skin_hunter_WalkMirror0012: 21300018
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

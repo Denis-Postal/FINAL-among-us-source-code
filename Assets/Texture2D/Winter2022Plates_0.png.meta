@@ -1,0 +1,1039 @@
+fileFormatVersion: 2
+guid: b37b7e0d49ec9cb488b5d4d6d111513e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: 2022_store_bean_nameplate_flagGendQ
+  - first:
+      213: 21300002
+    second: 2022_store_bean_nameplate_seeker
+  - first:
+      213: 21300004
+    second: 2022_store_bean_nameplate_flagBi
+  - first:
+      213: 21300006
+    second: 2022_store_bean_nameplate_flagLesbian
+  - first:
+      213: 21300008
+    second: 2022_store_bean_nameplate_ejected
+  - first:
+      213: 21300010
+    second: 2022_store_bean_nameplate_ripple
+  - first:
+      213: 21300012
+    second: 2022_store_bean_nameplate_ballPit
+  - first:
+      213: 21300014
+    second: 2022_store_bean_nameplate_shhh
+  - first:
+      213: 21300016
+    second: 2022_store_bean_nameplate_flashlight
+  - first:
+      213: 21300018
+    second: 2022_store_bean_nameplate_flagPan
+  - first:
+      213: 21300020
+    second: 2022_store_bean_nameplate_flagAce
+  - first:
+      213: 21300022
+    second: 2022_store_bean_nameplate_flagPride
+  - first:
+      213: 21300024
+    second: 2022_store_bean_nameplate_flagGendF
+  - first:
+      213: 21300026
+    second: 2022_store_bean_nameplate_deadbodyfound
+  - first:
+      213: 21300028
+    second: 2022_store_bean_nameplate_polus
+  - first:
+      213: 21300030
+    second: 2022_store_bean_nameplate_flagRainbow
+  - first:
+      213: 21300032
+    second: 2022_store_bean_nameplate_flagNonbinary
+  - first:
+      213: 21300034
+    second: 2022_store_bean_nameplate_cafeteria
+  - first:
+      213: 21300036
+    second: 2022_store_bean_nameplate_reactor
+  - first:
+      213: 21300038
+    second: 2022_store_bean_nameplate_ninjas
+  - first:
+      213: 21300040
+    second: 2022_store_bean_nameplate_flagAgend
+  - first:
+      213: 21300042
+    second: 2022_store_bean_nameplate_impostor
+  - first:
+      213: 21300044
+    second: 2022_store_bean_nameplate_flagTrans
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2022_store_bean_nameplate_flagGendQ
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 968
+        width: 276
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -138, y: -33.5}
+        - {x: -138, y: 33.5}
+        - {x: 138, y: 33.5}
+        - {x: 138, y: -33.5}
+      physicsShape:
+      - - {x: -138, y: 33.5}
+        - {x: -138, y: -33.5}
+        - {x: 138, y: -33.5}
+        - {x: 138, y: 29.499998}
+        - {x: 136, y: 33.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d686f8198a846fb93658ab6247efefe
+      internalID: 21300000
+      vertices:
+      - {x: 276, y: 0.5}
+      - {x: 0, y: 0.5}
+      - {x: 0, y: 67.5}
+      - {x: 276, y: 67.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_nameplate_seeker
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 140
+        width: 276
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -138, y: -33.5}
+        - {x: -138, y: 33.5}
+        - {x: 138, y: 33.5}
+        - {x: 138, y: -33.5}
+      physicsShape:
+      - - {x: -138, y: 33.5}
+        - {x: -138, y: -33.5}
+        - {x: 138, y: -33.5}
+        - {x: 138, y: 29.499998}
+        - {x: 136, y: 33.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc37703e128348f086cb79fe21d0c6f2
+      internalID: 21300002
+      vertices:
+      - {x: 276, y: 0.5}
+      - {x: 0, y: 0.5}
+      - {x: 0, y: 67.5}
+      - {x: 276, y: 67.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_nameplate_flagBi
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1106
+        width: 276
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -138, y: -33.5}
+        - {x: -138, y: 33.5}
+        - {x: 138, y: 33.5}
+        - {x: 138, y: -33.5}
+      physicsShape:
+      - - {x: 136, y: 33.5}
+        - {x: -138, y: 33.5}
+        - {x: -138, y: -33.5}
+        - {x: 137, y: -33.5}
+        - {x: 138, y: -32.5}
+        - {x: 138, y: 27.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafe833805dd4b99b6805afcb8a41176
+      internalID: 21300004
+      vertices:
+      - {x: 276, y: 0.5}
+      - {x: 0, y: 0.5}
+      - {x: 0, y: 67.5}
+      - {x: 276, y: 67.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_nameplate_flagLesbian
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 274
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -137, y: -33}
+        - {x: -137, y: 33}
+        - {x: 137, y: 33}
+        - {x: 137, y: -33}
+      physicsShape:
+      - - {x: -137, y: -28}
+        - {x: -135, y: -33}
+        - {x: 137, y: -33}
+        - {x: 137, y: 28}
+        - {x: 136, y: 33}
+        - {x: -133, y: 33}
+        - {x: -137, y: 29}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ade1ed910474e6eac2d9b6dec3842de
+      internalID: 21300006
+      vertices:
+      - {x: 274, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 66}
+      - {x: 274, y: 66}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_nameplate_ejected
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1313
+        width: 276
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -138, y: -33.5}
+        - {x: -138, y: 33.5}
+        - {x: 138, y: 33.5}
+        - {x: 138, y: -33.5}
+      physicsShape:
+      - - {x: -138, y: 33.5}
+        - {x: -138, y: -33.5}
+        - {x: 138, y: -33.5}
+        - {x: 138, y: 29.499998}
+        - {x: 136, y: 33.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2c517767f249ad8292ae96a696a5ae
+      internalID: 21300008
+      vertices:
+      - {x: 276, y: 0.5}
+      - {x: 0, y: 0.5}
+      - {x: 0, y: 67.5}
+      - {x: 276, y: 67.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_nameplate_ripple
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 209
+        width: 276
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -138, y: -33.5}
+        - {x: -138, y: 33.5}
+        - {x: 138, y: 33.5}
+        - {x: 138, y: -33.5}
+      physicsShape:
+      - - {x: 136, y: 33.5}
+        - {x: -138, y: 33.5}
+        - {x: -138, y: -33.5}
+        - {x: 137, y: -33.5}
+        - {x: 138, y: -32.5}
+        - {x: 138, y: 27.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f3270c388244f0ae168f63becebc91
+      internalID: 21300010
+      vertices:
+      - {x: 276, y: 0.5}
+      - {x: 0, y: 0.5}
+      - {x: 0, y: 67.5}
+      - {x: 276, y: 67.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_nameplate_ballPit
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1520
+        width: 276
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -138, y: -33.5}
+        - {x: -138, y: 33.5}
+        - {x: 138, y: 33.5}
+        - {x: 138, y: -33.5}
+      physicsShape:
+      - - {x: -138, y: 33.5}
+        - {x: -138, y: -33.5}
+        - {x: 138, y: -33.5}
+        - {x: 138, y: 29.499998}
+        - {x: 136, y: 33.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773521c758b44a6bbb43f8445e74eb27
+      internalID: 21300012
+      vertices:
+      - {x: 276, y: 0.5}
+      - {x: 0, y: 0.5}
+      - {x: 0, y: 67.5}
+      - {x: 276, y: 67.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_nameplate_shhh
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 71
+        width: 276
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -138, y: -33.5}
+        - {x: -138, y: 33.5}
+        - {x: 138, y: 33.5}
+        - {x: 138, y: -33.5}
+      physicsShape:
+      - - {x: 136, y: 33.5}
+        - {x: -138, y: 33.5}
+        - {x: -138, y: -33.5}
+        - {x: 137, y: -33.5}
+        - {x: 138, y: -32.5}
+        - {x: 138, y: 27.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bc20b7ab784d52aee7f626f347cacd
+      internalID: 21300014
+      vertices:
+      - {x: 276, y: 0.5}
+      - {x: 0, y: 0.5}
+      - {x: 0, y: 67.5}
+      - {x: 276, y: 67.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_nameplate_flashlight
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 554
+        width: 276
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -138, y: -33.5}
+        - {x: -138, y: 33.5}
+        - {x: 138, y: 33.5}
+        - {x: 138, y: -33.5}
+      physicsShape:
+      - - {x: -138, y: 33.5}
+        - {x: -138, y: -33.5}
+        - {x: 138, y: -33.5}
+        - {x: 138, y: 29.499998}
+        - {x: 136, y: 33.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3488c0d10dec4b1fa6f607fe5d6652f3
+      internalID: 21300016
+      vertices:
+      - {x: 276, y: 0.5}
+      - {x: 0, y: 0.5}
+      - {x: 0, y: 67.5}
+      - {x: 276, y: 67.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_nameplate_flagPan
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 830
+        width: 276
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -138, y: -33.5}
+        - {x: -138, y: 33.5}
+        - {x: 138, y: 33.5}
+        - {x: 138, y: -33.5}
+      physicsShape:
+      - - {x: -138, y: 33.5}
+        - {x: -138, y: -33.5}
+        - {x: 138, y: -33.5}
+        - {x: 138, y: 29.499998}
+        - {x: 136, y: 33.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c330cf8a07147ffa654dec6e9108f6c
+      internalID: 21300018
+      vertices:
+      - {x: 276, y: 0.5}
+      - {x: 0, y: 0.5}
+      - {x: 0, y: 67.5}
+      - {x: 276, y: 67.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_nameplate_flagAce
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1244
+        width: 276
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -138, y: -33.5}
+        - {x: -138, y: 33.5}
+        - {x: 138, y: 33.5}
+        - {x: 138, y: -33.5}
+      physicsShape:
+      - - {x: 136, y: 33.5}
+        - {x: -138, y: 33.5}
+        - {x: -138, y: -33.5}
+        - {x: 137, y: -33.5}
+        - {x: 138, y: -32.5}
+        - {x: 138, y: 27.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3289bcc627bf4ae28692e16f5c92168d
+      internalID: 21300020
+      vertices:
+      - {x: 276, y: 0.5}
+      - {x: 0, y: 0.5}
+      - {x: 0, y: 67.5}
+      - {x: 276, y: 67.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_nameplate_flagPride
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 761
+        width: 276
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -138, y: -33.5}
+        - {x: -138, y: 33.5}
+        - {x: 138, y: 33.5}
+        - {x: 138, y: -33.5}
+      physicsShape:
+      - - {x: -138, y: 33.5}
+        - {x: -138, y: -33.5}
+        - {x: 138, y: -33.5}
+        - {x: 138, y: 29.499998}
+        - {x: 136, y: 33.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815d1e9d76074305bd9954d1bb992b23
+      internalID: 21300022
+      vertices:
+      - {x: 276, y: 0.5}
+      - {x: 0, y: 0.5}
+      - {x: 0, y: 67.5}
+      - {x: 276, y: 67.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_nameplate_flagGendF
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1037
+        width: 276
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -138, y: -33.5}
+        - {x: -138, y: 33.5}
+        - {x: 138, y: 33.5}
+        - {x: 138, y: -33.5}
+      physicsShape:
+      - - {x: -138, y: 33.5}
+        - {x: -138, y: -33.5}
+        - {x: 138, y: -33.5}
+        - {x: 138, y: 29.499998}
+        - {x: 136, y: 33.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42cd2b572a144cf7be508c5f0c956f47
+      internalID: 21300024
+      vertices:
+      - {x: 276, y: 0.5}
+      - {x: 0, y: 0.5}
+      - {x: 0, y: 67.5}
+      - {x: 276, y: 67.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_nameplate_deadbodyfound
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1382
+        width: 276
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -138, y: -33.5}
+        - {x: -138, y: 33.5}
+        - {x: 138, y: 33.5}
+        - {x: 138, y: -33.5}
+      physicsShape:
+      - - {x: -138, y: 33.5}
+        - {x: -138, y: -33.5}
+        - {x: 138, y: -33.5}
+        - {x: 138, y: 29.499998}
+        - {x: 136, y: 33.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365b18cbdda64bf2b34b120a190839c2
+      internalID: 21300026
+      vertices:
+      - {x: 276, y: 0.5}
+      - {x: 0, y: 0.5}
+      - {x: 0, y: 67.5}
+      - {x: 276, y: 67.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_nameplate_polus
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 347
+        width: 276
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -138, y: -33.5}
+        - {x: -138, y: 33.5}
+        - {x: 138, y: 33.5}
+        - {x: 138, y: -33.5}
+      physicsShape:
+      - - {x: -138, y: 33.5}
+        - {x: -138, y: -33.5}
+        - {x: 138, y: -33.5}
+        - {x: 138, y: 29.499998}
+        - {x: 136, y: 33.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07876eb308f44e829531e1fd3695e403
+      internalID: 21300028
+      vertices:
+      - {x: 276, y: 0.5}
+      - {x: 0, y: 0.5}
+      - {x: 0, y: 67.5}
+      - {x: 276, y: 67.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_nameplate_flagRainbow
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 692
+        width: 276
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -138, y: -33.5}
+        - {x: -138, y: 33.5}
+        - {x: 138, y: 33.5}
+        - {x: 138, y: -33.5}
+      physicsShape:
+      - - {x: 136, y: 33.5}
+        - {x: -138, y: 33.5}
+        - {x: -138, y: -33.5}
+        - {x: 137, y: -33.5}
+        - {x: 138, y: -32.5}
+        - {x: 138, y: 27.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da49b3bb02a40779a197ef238996eba
+      internalID: 21300030
+      vertices:
+      - {x: 276, y: 0.5}
+      - {x: 0, y: 0.5}
+      - {x: 0, y: 67.5}
+      - {x: 276, y: 67.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_nameplate_flagNonbinary
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 899
+        width: 276
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -138, y: -33.5}
+        - {x: -138, y: 33.5}
+        - {x: 138, y: 33.5}
+        - {x: 138, y: -33.5}
+      physicsShape:
+      - - {x: 136, y: 33.5}
+        - {x: -138, y: 33.5}
+        - {x: -138, y: -33.5}
+        - {x: 137, y: -33.5}
+        - {x: 138, y: -32.5}
+        - {x: 138, y: 27.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1db5742cb947ebbae555370db27933
+      internalID: 21300032
+      vertices:
+      - {x: 276, y: 0.5}
+      - {x: 0, y: 0.5}
+      - {x: 0, y: 67.5}
+      - {x: 276, y: 67.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_nameplate_cafeteria
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1451
+        width: 276
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -138, y: -33.5}
+        - {x: -138, y: 33.5}
+        - {x: 138, y: 33.5}
+        - {x: 138, y: -33.5}
+      physicsShape:
+      - - {x: -138, y: 33.5}
+        - {x: -138, y: -33.5}
+        - {x: 138, y: -33.5}
+        - {x: 138, y: 29.499998}
+        - {x: 136, y: 33.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61413614315f417fa84580e7f697f0b3
+      internalID: 21300034
+      vertices:
+      - {x: 276, y: 0.5}
+      - {x: 0, y: 0.5}
+      - {x: 0, y: 67.5}
+      - {x: 276, y: 67.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_nameplate_reactor
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 278
+        width: 276
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -138, y: -33.5}
+        - {x: -138, y: 33.5}
+        - {x: 138, y: 33.5}
+        - {x: 138, y: -33.5}
+      physicsShape:
+      - - {x: -138, y: 33.5}
+        - {x: -138, y: -33.5}
+        - {x: 138, y: -33.5}
+        - {x: 138, y: 29.499998}
+        - {x: 136, y: 33.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ff2c5f8d514c419c1d207feeff3cdb
+      internalID: 21300036
+      vertices:
+      - {x: 276, y: 0.5}
+      - {x: 0, y: 0.5}
+      - {x: 0, y: 67.5}
+      - {x: 276, y: 67.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_nameplate_ninjas
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 416
+        width: 276
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -138, y: -33.5}
+        - {x: -138, y: 33.5}
+        - {x: 138, y: 33.5}
+        - {x: 138, y: -33.5}
+      physicsShape:
+      - - {x: -138, y: 33.5}
+        - {x: -138, y: -33.5}
+        - {x: 138, y: -33.5}
+        - {x: 138, y: 29.499998}
+        - {x: 136, y: 33.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121acaaae50240e59a912a96457b4cc0
+      internalID: 21300038
+      vertices:
+      - {x: 276, y: 0.5}
+      - {x: 0, y: 0.5}
+      - {x: 0, y: 67.5}
+      - {x: 276, y: 67.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_nameplate_flagAgend
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1175
+        width: 276
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -138, y: -33.5}
+        - {x: -138, y: 33.5}
+        - {x: 138, y: 33.5}
+        - {x: 138, y: -33.5}
+      physicsShape:
+      - - {x: 136, y: 33.5}
+        - {x: -138, y: 33.5}
+        - {x: -138, y: -33.5}
+        - {x: 137, y: -33.5}
+        - {x: 138, y: -32.5}
+        - {x: 138, y: 27.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb8cb9c57494e0caf41847dd8683905
+      internalID: 21300040
+      vertices:
+      - {x: 276, y: 0.5}
+      - {x: 0, y: 0.5}
+      - {x: 0, y: 67.5}
+      - {x: 276, y: 67.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_nameplate_impostor
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 485
+        width: 276
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -138, y: -33.5}
+        - {x: -138, y: 33.5}
+        - {x: 138, y: 33.5}
+        - {x: 138, y: -33.5}
+      physicsShape:
+      - - {x: 136, y: 33.5}
+        - {x: -138, y: 33.5}
+        - {x: -138, y: -33.5}
+        - {x: 137, y: -33.5}
+        - {x: 138, y: -32.5}
+        - {x: 138, y: 27.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7e65772ddf42aba470f6d1c901e7c2
+      internalID: 21300042
+      vertices:
+      - {x: 276, y: 0.5}
+      - {x: 0, y: 0.5}
+      - {x: 0, y: 67.5}
+      - {x: 276, y: 67.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_nameplate_flagTrans
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 623
+        width: 276
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -138, y: -33.5}
+        - {x: -138, y: 33.5}
+        - {x: 138, y: 33.5}
+        - {x: 138, y: -33.5}
+      physicsShape:
+      - - {x: -138, y: 33.5}
+        - {x: -138, y: -33.5}
+        - {x: 138, y: -33.5}
+        - {x: 138, y: 29.499998}
+        - {x: 136, y: 33.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f9a2d49361475f8ee2a8a28b104606
+      internalID: 21300044
+      vertices:
+      - {x: 276, y: 0.5}
+      - {x: 0, y: 0.5}
+      - {x: 0, y: 67.5}
+      - {x: 276, y: 67.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      2022_store_bean_nameplate_ballPit: 21300012
+      2022_store_bean_nameplate_cafeteria: 21300034
+      2022_store_bean_nameplate_deadbodyfound: 21300026
+      2022_store_bean_nameplate_ejected: 21300008
+      2022_store_bean_nameplate_flagAce: 21300020
+      2022_store_bean_nameplate_flagAgend: 21300040
+      2022_store_bean_nameplate_flagBi: 21300004
+      2022_store_bean_nameplate_flagGendF: 21300024
+      2022_store_bean_nameplate_flagGendQ: 21300000
+      2022_store_bean_nameplate_flagLesbian: 21300006
+      2022_store_bean_nameplate_flagNonbinary: 21300032
+      2022_store_bean_nameplate_flagPan: 21300018
+      2022_store_bean_nameplate_flagPride: 21300022
+      2022_store_bean_nameplate_flagRainbow: 21300030
+      2022_store_bean_nameplate_flagTrans: 21300044
+      2022_store_bean_nameplate_flashlight: 21300016
+      2022_store_bean_nameplate_impostor: 21300042
+      2022_store_bean_nameplate_ninjas: 21300038
+      2022_store_bean_nameplate_polus: 21300028
+      2022_store_bean_nameplate_reactor: 21300036
+      2022_store_bean_nameplate_ripple: 21300010
+      2022_store_bean_nameplate_seeker: 21300002
+      2022_store_bean_nameplate_shhh: 21300014
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,342 @@
+fileFormatVersion: 2
+guid: b18cffeb4f1c8824485a53e7e1e7a5ad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: 2025_InnerslothTenYears_beans_visor_slothmask0002
+  - first:
+      213: 21300002
+    second: 2025_InnerslothTenYears_beans_visor_slothmask0001
+  - first:
+      213: 21300004
+    second: 2025_InnerslothTenYears_beans_visor_slothmask0003
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2025_InnerslothTenYears_beans_visor_slothmask0002
+      rect:
+        serializedVersion: 2
+        x: 28.07612
+        y: 5.0761204
+        width: 143.92387
+        height: 49.92388
+      alignment: 9
+      pivot: {x: 0.59700924, y: 0.49923757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -0.03805542, y: -29.03806}
+        - {x: -99.038055, y: -7.0380607}
+        - {x: 3.9619455, y: 24.961937}
+        - {x: 71.961945, y: 4.961939}
+        - {x: 71.961945, y: -19.038061}
+      physicsShape:
+      - - {x: 71.961945, y: 3.9619389}
+        - {x: 66.961945, y: 6.9619384}
+        - {x: 39.961945, y: 13.961939}
+        - {x: 23.961945, y: 18.961939}
+        - {x: -11.038055, y: 18.961939}
+        - {x: -24.038055, y: 15.961939}
+        - {x: -43.038055, y: 5.961939}
+        - {x: -63.038055, y: 3.9619389}
+        - {x: -71.038055, y: -3.0380611}
+        - {x: -72.03805, y: -5.0380607}
+        - {x: -72.03805, y: -9.038061}
+        - {x: -68.038055, y: -15.038061}
+        - {x: -54.038055, y: -17.038061}
+        - {x: -10.038055, y: -24.038061}
+        - {x: 38.961945, y: -24.038061}
+        - {x: 56.96194, y: -20.038061}
+        - {x: 69.961945, y: -9.038061}
+        - {x: 71.961945, y: -2.0380611}
+      - - {x: -43.038055, y: -5.0380607}
+        - {x: -40.03805, y: -5.0380607}
+        - {x: -46.03805, y: -5.0380607}
+        - {x: -45.03805, y: -6.038061}
+      - - {x: 61.961945, y: 18.961939}
+        - {x: 64.961945, y: 19.961939}
+        - {x: 65.961945, y: 24.961937}
+        - {x: 57.961945, y: 24.961937}
+        - {x: 57.961945, y: 23.961937}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287bdf3be2a640c8a54aa53f665026d9
+      internalID: 21300000
+      vertices:
+      - {x: 129.96194, y: 29.961943}
+      - {x: 129.96194, y: 5.9619427}
+      - {x: 57.961937, y: -4.0380554}
+      - {x: -41.038063, y: 17.961943}
+      - {x: 61.961937, y: 49.96194}
+      indices: 020000000300000004000000000000000100000002000000000000000200000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2025_InnerslothTenYears_beans_visor_slothmask0001
+      rect:
+        serializedVersion: 2
+        x: 16.07612
+        y: 51
+        width: 146.92387
+        height: 95.92388
+      alignment: 9
+      pivot: {x: 0.3806317, y: 0.70889544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -18.538055, y: -33.961937}
+        - {x: -88.538055, y: 24.03806}
+        - {x: 32.461945, y: 56.03806}
+        - {x: 73.461945, y: 0.038061142}
+        - {x: 41.46194, y: -47.96194}
+      physicsShape:
+      - - {x: 67.461945, y: -13.961941}
+        - {x: 65.461945, y: -20.96194}
+        - {x: 65.461945, y: -47.96194}
+        - {x: 73.461945, y: -47.96194}
+        - {x: 73.461945, y: -13.961941}
+      - - {x: 66.461945, y: 1.0380592}
+        - {x: 57.461945, y: 22.03806}
+        - {x: 55.461937, y: 30.03806}
+        - {x: 32.461945, y: 47.038055}
+        - {x: 7.4619446, y: 47.038055}
+        - {x: -6.5380554, y: 44.03806}
+        - {x: -20.538055, y: 35.03806}
+        - {x: -38.538055, y: 13.038059}
+        - {x: -58.538055, y: 28.03806}
+        - {x: -66.538055, y: 31.03806}
+        - {x: -72.538055, y: 19.03806}
+        - {x: -72.538055, y: 13.038059}
+        - {x: -39.538055, y: -0.96194077}
+        - {x: -41.538055, y: -9.961939}
+        - {x: -20.538055, y: -34.96194}
+        - {x: -0.5380554, y: -38.961937}
+        - {x: 34.461945, y: -38.961937}
+        - {x: 50.461945, y: -29.96194}
+        - {x: 64.461945, y: -13.961941}
+        - {x: 66.461945, y: -7.961941}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf0da38104341b6b4d51f44a12774af
+      internalID: 21300002
+      vertices:
+      - {x: 164.46194, y: 27.961943}
+      - {x: 132.46193, y: -20.03806}
+      - {x: 72.46194, y: -6.0380554}
+      - {x: 2.461937, y: 51.96194}
+      - {x: 123.46194, y: 83.961945}
+      indices: 020000000300000004000000000000000100000002000000000000000200000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2025_InnerslothTenYears_beans_visor_slothmask0003
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 28
+        width: 119.92388
+        height: 92
+      alignment: 9
+      pivot: {x: 0.6253967, y: -0.04347826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -25.96194, y: 38}
+        - {x: 25.03806, y: 46}
+        - {x: 63.03806, y: -3}
+        - {x: 51.03806, y: -46}
+        - {x: -22.96194, y: -45}
+        - {x: -59.96194, y: -8}
+      physicsShape:
+      - - {x: -59.96194, y: -32}
+        - {x: -59.96194, y: -46}
+        - {x: -31.96194, y: -46}
+        - {x: -31.96194, y: -39}
+        - {x: -47.96194, y: -32}
+      - - {x: 50.03806, y: 9.999996}
+        - {x: 45.038055, y: 11}
+        - {x: 46.03806, y: -14}
+        - {x: 37.03806, y: -27.000002}
+        - {x: 9.038059, y: -34}
+        - {x: -14.961939, y: -24}
+        - {x: -31.96194, y: 7}
+        - {x: -24.961937, y: 12}
+        - {x: -5.961941, y: 22.999992}
+        - {x: 21.03806, y: 21}
+        - {x: 40.03806, y: 12}
+        - {x: 44.03806, y: 11}
+        - {x: 46.03806, y: 14}
+        - {x: 41.03806, y: 22.999992}
+        - {x: 30.03806, y: 35}
+        - {x: 16.03806, y: 41}
+        - {x: -5.961941, y: 41}
+        - {x: -14.961939, y: 40}
+        - {x: -29.96194, y: 29.999992}
+        - {x: -40.96194, y: 16}
+        - {x: -48.96194, y: -1.0000038}
+        - {x: -48.96194, y: -18}
+        - {x: -41.96194, y: -25}
+        - {x: -38.961937, y: -24}
+        - {x: -14.961939, y: -41}
+        - {x: -4.961939, y: -45}
+        - {x: 30.03806, y: -45}
+        - {x: 35.038055, y: -44}
+        - {x: 54.03806, y: -28}
+        - {x: 59.03806, y: -16}
+        - {x: 59.03806, y: -1.0000038}
+      - - {x: -58.96194, y: 46}
+        - {x: -59.96194, y: 46}
+        - {x: -59.96194, y: 2}
+        - {x: -56.96194, y: 2}
+        - {x: -47.96194, y: 11}
+        - {x: -47.96194, y: 27}
+        - {x: -52.96194, y: 43}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ff7ac7b027499bb0098b25834d9021
+      internalID: 21300004
+      vertices:
+      - {x: 107.961945, y: 93}
+      - {x: 95.961945, y: 50}
+      - {x: 21.96194, y: 51}
+      - {x: -15.038059, y: 88}
+      - {x: 18.96194, y: 134}
+      - {x: 69.96194, y: 142}
+      - {x: 15.961941, y: 96}
+      - {x: 33.96194, y: 71}
+      - {x: 63.96194, y: 62}
+      - {x: 88.961945, y: 101}
+      - {x: 38.96194, y: 118}
+      indices: 0a0000000400000005000000090000000000000001000000080000000100000002000000070000000800000002000000060000000700000002000000060000000200000003000000040000000a00000006000000040000000600000003000000090000000a00000005000000090000000100000008000000050000000000000009000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      2025_InnerslothTenYears_beans_visor_slothmask0001: 21300002
+      2025_InnerslothTenYears_beans_visor_slothmask0002: 21300000
+      2025_InnerslothTenYears_beans_visor_slothmask0003: 21300004
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fbdf57f19df93d09b0c77f4c0195892, type: 3}
+  m_Name: Hololive Cube
+  m_EditorClassIdentifier:
+  ids:
+  - hat_hl_fubuki
+  - hat_hl_gura
+  - hat_hl_korone
+  - hat_hl_marine
+  - hat_hl_mio
+  - hat_hl_moona
+  - hat_hl_okayu
+  - hat_hl_pekora
+  - hat_hl_risu
+  - hat_hl_watson
+  - skin_hl_fubuki
+  - skin_hl_gura
+  - skin_hl_korone
+  - skin_hl_marine
+  - skin_hl_mio
+  - skin_hl_moona
+  - skin_hl_okayu
+  - skin_hl_pekora
+  - skin_hl_risu
+  - skin_hl_watson
+  - visor_hl_ah
+  - visor_hl_bored
+  - visor_hl_hmph
+  - visor_hl_marine
+  - visor_hl_nothoughts
+  - visor_hl_nudge
+  - visor_hl_smug
+  - visor_hl_sweepy
+  - visor_hl_teehee
+  - visor_hl_wrong
+  date: 2022-09-20

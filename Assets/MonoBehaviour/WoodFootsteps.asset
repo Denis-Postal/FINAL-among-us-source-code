@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6633565c32bcb2522138b426775ef120, type: 3}
+  m_Name: WoodFootsteps
+  m_EditorClassIdentifier:
+  Clips:
+  - {fileID: 8300000, guid: b18eb5de650abe64d8e7bd3d6c3cbe54, type: 3}
+  - {fileID: 8300000, guid: 57b2100031cc2864a8e7b8ece3f355b8, type: 3}
+  - {fileID: 8300000, guid: de7ebf215b375274486772441284e367, type: 3}
+  - {fileID: 8300000, guid: 8ff0c28b9eed33440b3c773904e66337, type: 3}
+  - {fileID: 8300000, guid: c94f6112423ffec498867f2541c60606, type: 3}
+  - {fileID: 8300000, guid: ef8c911d7ad86ab4da8ed554728b305e, type: 3}
+  - {fileID: 8300000, guid: 3a0c61a37fcd8234fb1fa86418fb42ad, type: 3}

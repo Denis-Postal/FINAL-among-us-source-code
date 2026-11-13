@@ -1,0 +1,565 @@
+fileFormatVersion: 2
+guid: b524bbf1487ebc947b25d79c792c8c22
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: admin_BG
+  - first:
+      213: 21300002
+    second: admin_Card
+  - first:
+      213: 21300004
+    second: admin_walletFront
+  - first:
+      213: 21300006
+    second: admin_sliderTop
+  - first:
+      213: 21300008
+    second: admin_sliderBottom
+  - first:
+      213: 21300010
+    second: admin_lightRed
+  - first:
+      213: 21300012
+    second: admin_lightGreen
+  - first:
+      213: 21300014
+    second: admin_textBar
+  - first:
+      213: 21300016
+    second: admin_Wallet
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: admin_BG
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 500
+        height: 500
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -250, y: -250}
+        - {x: -250, y: 250}
+        - {x: 250, y: 250}
+        - {x: 250, y: -250}
+      physicsShape:
+      - - {x: -250, y: 250}
+        - {x: -250, y: -250}
+        - {x: 250, y: -250}
+        - {x: 250, y: 250}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4853a4d4a4e14060bcf607dbd35f27e0
+      internalID: 21300000
+      vertices:
+      - {x: 500, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 500}
+      - {x: 500, y: 500}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: admin_Card
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 192
+        width: 227
+        height: 138
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -113.5, y: -69}
+        - {x: -113.5, y: 69}
+        - {x: 113.5, y: 69}
+        - {x: 113.5, y: -69}
+      physicsShape:
+      - - {x: -113.5, y: 69}
+        - {x: -113.5, y: -63}
+        - {x: -108.49999, y: -69}
+        - {x: 113.5, y: -69}
+        - {x: 113.5, y: 69}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4f6e1199694714942264b35cb654e4
+      internalID: 21300002
+      vertices:
+      - {x: 227, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 138}
+      - {x: 227, y: 138}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: admin_walletFront
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 332
+        width: 247
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -123.5, y: 2.4999998}
+        - {x: -123.5, y: 42.5}
+        - {x: 38.5, y: 42.5}
+        - {x: 123.5, y: 16.5}
+        - {x: 123.5, y: -42.5}
+        - {x: -114.5, y: -42.5}
+      physicsShape:
+      - - {x: 122.5, y: -4.5}
+        - {x: 121.49999, y: 15.5}
+        - {x: 116.5, y: 18.5}
+        - {x: 103.5, y: 21.499998}
+        - {x: 56.5, y: 32.5}
+        - {x: 38.5, y: 36.499996}
+        - {x: 10.5, y: 41.5}
+        - {x: 2.4999998, y: 42.5}
+        - {x: -84.5, y: 42.5}
+        - {x: -92.49999, y: 41.5}
+        - {x: -103.5, y: 39.5}
+        - {x: -119.49999, y: 34.5}
+        - {x: -123.5, y: 32.5}
+        - {x: -123.5, y: 15.5}
+        - {x: -119.49999, y: -18.5}
+        - {x: -114.5, y: -40.5}
+        - {x: -113.5, y: -42.5}
+        - {x: 123.5, y: -42.5}
+        - {x: 123.5, y: -17.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50fe98ac7e04622b8d8a6a67bd74f9e
+      internalID: 21300004
+      vertices:
+      - {x: 247, y: 59}
+      - {x: 247, y: 0}
+      - {x: 9, y: 0}
+      - {x: 0, y: 45}
+      - {x: 0, y: 85}
+      - {x: 162, y: 85}
+      indices: 030000000400000005000000020000000300000005000000010000000200000005000000000000000100000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: admin_sliderTop
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 332
+        width: 500
+        height: 171
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -250, y: -85.49999}
+        - {x: -250, y: 85.49999}
+        - {x: 250, y: 85.49999}
+        - {x: 250, y: -85.49999}
+      physicsShape:
+      - - {x: -250, y: 85.49999}
+        - {x: -250, y: -70.5}
+        - {x: -229, y: -82.5}
+        - {x: 250, y: -82.5}
+        - {x: 250, y: 85.49999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2ad9f579f7436094d3bb6ca4d2c253
+      internalID: 21300006
+      vertices:
+      - {x: 500, y: 0.0000076293945}
+      - {x: 0, y: 0.0000076293945}
+      - {x: 0, y: 171}
+      - {x: 500, y: 171}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: admin_sliderBottom
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 51
+        width: 500
+        height: 123
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -250, y: 61.5}
+        - {x: -245, y: 61.5}
+        - {x: -219, y: 27.5}
+        - {x: 244, y: 27.5}
+        - {x: 250, y: 33.499996}
+        - {x: 250, y: -61.5}
+        - {x: -250, y: -61.5}
+      physicsShape:
+      - - {x: -107.99999, y: 61.5}
+        - {x: -250, y: 61.5}
+        - {x: -250, y: -61.5}
+        - {x: 250, y: -61.5}
+        - {x: 250, y: 30.5}
+      - - {x: -233, y: 61.5}
+        - {x: -233, y: 48.5}
+        - {x: 223, y: 48.5}
+        - {x: 224, y: 52.499996}
+        - {x: 225, y: 61.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544c7528f8444491857d9920b58dc9ed
+      internalID: 21300008
+      vertices:
+      - {x: 31, y: 89}
+      - {x: 494, y: 89}
+      - {x: 500, y: 95}
+      - {x: 500, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 123}
+      - {x: 5, y: 123}
+      indices: 000000000500000006000000010000000200000003000000000000000100000003000000000000000300000004000000000000000400000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: admin_lightRed
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 469
+        width: 34
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -17, y: -17}
+        - {x: -17, y: 17}
+        - {x: 17, y: 17}
+        - {x: 17, y: -17}
+      physicsShape:
+      - - {x: -16, y: 17}
+        - {x: -17, y: 13}
+        - {x: -17, y: -14}
+        - {x: -14, y: -17}
+        - {x: 14.999999, y: -17}
+        - {x: 17, y: -12}
+        - {x: 17, y: 13}
+        - {x: 11, y: 17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550379ff5210486f8616555b8a6337d5
+      internalID: 21300010
+      vertices:
+      - {x: 34, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 34}
+      - {x: 34, y: 34}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: admin_lightGreen
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 419
+        width: 34
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -17, y: -17}
+        - {x: -17, y: 17}
+        - {x: 17, y: 17}
+        - {x: 17, y: -17}
+      physicsShape:
+      - - {x: -16, y: 17}
+        - {x: -17, y: 13}
+        - {x: -17, y: -14}
+        - {x: -14, y: -17}
+        - {x: 14.999999, y: -17}
+        - {x: 17, y: -12}
+        - {x: 17, y: 13}
+        - {x: 11, y: 17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d64c19443f49ebb69135df3fde7faa
+      internalID: 21300012
+      vertices:
+      - {x: 34, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 34}
+      - {x: 34, y: 34}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: admin_textBar
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 10
+        width: 421
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -210.5, y: -19.5}
+        - {x: -210.5, y: 19.5}
+        - {x: 210.5, y: 19.5}
+        - {x: 210.5, y: -19.5}
+      physicsShape:
+      - - {x: -210.5, y: 19.5}
+        - {x: -210.5, y: -19.5}
+        - {x: 210.5, y: -19.5}
+        - {x: 210.5, y: 19.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc49cca657e4e77b168fe0f05bb0745
+      internalID: 21300014
+      vertices:
+      - {x: 421, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 39}
+      - {x: 421, y: 39}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: admin_Wallet
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 162
+        width: 478
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -180, y: 66.99999}
+        - {x: -170.99998, y: 84}
+        - {x: -164, y: 84}
+        - {x: -103, y: 75}
+        - {x: 18, y: 76}
+        - {x: 91, y: 70}
+        - {x: 120.99999, y: 84}
+        - {x: 158, y: 69}
+        - {x: 238.99998, y: 81}
+        - {x: 238.99998, y: -84}
+        - {x: -222, y: -84}
+        - {x: -238.99998, y: 28}
+        - {x: -238.99998, y: 45.999996}
+      physicsShape:
+      - - {x: -238.99998, y: -84}
+        - {x: -233, y: -84}
+        - {x: -233, y: -72.99999}
+        - {x: -234.99998, y: -71}
+        - {x: -238.99998, y: -71}
+      - - {x: 238.99998, y: 81}
+        - {x: 221, y: 79}
+        - {x: 193, y: 72}
+        - {x: 141, y: 68}
+        - {x: 137, y: 74}
+        - {x: 124, y: 82}
+        - {x: 119.99999, y: 83}
+        - {x: 110, y: 76}
+        - {x: 91, y: 69}
+        - {x: 42.999996, y: 72.99999}
+        - {x: 14, y: 75}
+        - {x: -98.99999, y: 75}
+        - {x: -116.99999, y: 74}
+        - {x: -143, y: 71}
+        - {x: -152, y: 75}
+        - {x: -164, y: 84}
+        - {x: -170, y: 84}
+        - {x: -174, y: 77}
+        - {x: -177, y: 64}
+        - {x: -195.99998, y: 59.999996}
+        - {x: -237.99998, y: 47}
+        - {x: -238.99998, y: 45}
+        - {x: -238.99998, y: 21}
+        - {x: -230, y: -26}
+        - {x: -225, y: -59.999996}
+        - {x: -220, y: -82}
+        - {x: -218, y: -84}
+        - {x: 232, y: -84}
+        - {x: 234.99998, y: -81}
+        - {x: 236.99998, y: -76}
+        - {x: 238.99998, y: -42.999996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d2984feab747d4a1c08138af525a8c
+      internalID: 21300016
+      vertices:
+      - {x: 136, y: 159}
+      - {x: 257, y: 160}
+      - {x: 330, y: 154}
+      - {x: 360, y: 168}
+      - {x: 397, y: 153}
+      - {x: 478, y: 165}
+      - {x: 478, y: 0}
+      - {x: 17, y: 0}
+      - {x: 0.000015258789, y: 112}
+      - {x: 0.000015258789, y: 130}
+      - {x: 59, y: 151}
+      - {x: 68.000015, y: 168}
+      - {x: 75, y: 168}
+      indices: 0a0000000b0000000c00000008000000090000000a00000007000000080000000a000000000000000a0000000c00000007000000000000000100000004000000050000000600000002000000040000000600000002000000030000000400000001000000020000000600000007000000010000000600000000000000070000000a000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      admin_BG: 21300000
+      admin_Card: 21300002
+      admin_Wallet: 21300016
+      admin_lightGreen: 21300012
+      admin_lightRed: 21300010
+      admin_sliderBottom: 21300008
+      admin_sliderTop: 21300006
+      admin_textBar: 21300014
+      admin_walletFront: 21300004
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

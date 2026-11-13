@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fbdf57f19df93d09b0c77f4c0195892, type: 3}
+  m_Name: Food Cube - Beans
+  m_EditorClassIdentifier:
+  ids:
+  - hat_BananaGreen
+  - hat_BananaPurple
+  - hat_cheeseBleu
+  - hat_cheeseMoldy
+  - hat_cheeseSwiss
+  - hat_ChefWhiteBlue
+  - hat_cherryOrange
+  - hat_cherryPink
+  - hat_chocolateCandy
+  - hat_chocolateMatcha
+  - hat_chocolateVanillaStrawb
+  - hat_croissant
+  - hat_eggGreen
+  - hat_eggYellow
+  - hat_IceCreamMatcha
+  - hat_IceCreamMint
+  - hat_IceCreamNeo
+  - hat_IceCreamStrawberry
+  - hat_IceCreamUbe
+  - hat_IceCreamVanilla
+  - hat_sausage
+  - nameplate_Croissant
+  - nameplate_Lemon
+  - nameplate_Orange
+  - skin_ApronGreen
+  - skin_ChefBlue
+  - skin_ChefRed
+  - visor_lollipopCrew
+  - visor_lollipopLemon
+  - visor_lollipopLime
+  date: 2022-07-19

@@ -1,0 +1,11 @@
+namespace Epic.OnlineServices.Sanctions
+{
+	public struct CreatePlayerSanctionAppealOptions
+	{
+		public ProductUserId LocalUserId { get; set; }
+
+		public SanctionAppealReason Reason { get; set; }
+
+		public Utf8String ReferenceId { get; set; }
+	}
+}

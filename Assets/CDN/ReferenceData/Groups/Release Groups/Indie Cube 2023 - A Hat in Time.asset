@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fbdf57f19df93d09b0c77f4c0195892, type: 3}
+  m_Name: Indie Cube 2023 - A Hat in Time
+  m_EditorClassIdentifier:
+  ids:
+  - hat_bowkid
+  - hat_conductor
+  - hat_hatkid
+  - hat_mustachegirl
+  - nameplate_hourglass
+  - nameplate_shadows
+  - pet_Crow
+  - skin_BowKidskin
+  - skin_Conductorskin
+  - skin_HatKidSkinskin
+  - skin_MoustacheKidSkinskin
+  - visor_mustachegirl
+  date: 2023-11-28-6

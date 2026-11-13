@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6633565c32bcb2522138b426775ef120, type: 3}
+  m_Name: DirtFootsteps
+  m_EditorClassIdentifier:
+  Clips:
+  - {fileID: 8300000, guid: 153e7310d94394840939111c676acd10, type: 3}
+  - {fileID: 8300000, guid: e78033fe724990442b87e330afb75caf, type: 3}
+  - {fileID: 8300000, guid: 1bbc5a7a3a374674f81f6daad0ec8a8b, type: 3}
+  - {fileID: 8300000, guid: 1845791c5ea42a644a2817a0f164dd1b, type: 3}
+  - {fileID: 8300000, guid: 1fda9fc53314b8a44832046c0d2a2d31, type: 3}
+  - {fileID: 8300000, guid: 7439695657d505546a3ecd1fdaa12071, type: 3}
+  - {fileID: 8300000, guid: 1147c2658dfffd0418fcf8d49f50dda5, type: 3}

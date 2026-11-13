@@ -1,0 +1,4707 @@
+fileFormatVersion: 2
+guid: 344ac8437cfa0454cb8f2e130c38789c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: 2022_store_bean_pet_Yulegoat_Petted0022
+  - first:
+      213: 21300002
+    second: 2022_store_bean_pet_Yulegoat_Petted0007
+  - first:
+      213: 21300004
+    second: 2022_store_bean_pet_Yulegoat_Petted0044
+  - first:
+      213: 21300006
+    second: 2022_store_bean_pet_Yulegoat_Petted0008
+  - first:
+      213: 21300008
+    second: 2022_store_bean_pet_Yulegoat_Petted0041
+  - first:
+      213: 21300010
+    second: 2022_store_bean_pet_Yulegoat_Sad0006
+  - first:
+      213: 21300012
+    second: 2022_store_bean_pet_Yulegoat_Petted0037
+  - first:
+      213: 21300014
+    second: 2022_store_bean_pet_Yulegoat_Walk0002
+  - first:
+      213: 21300016
+    second: 2022_store_bean_pet_Yulegoat_Petted0031
+  - first:
+      213: 21300018
+    second: 2022_store_bean_pet_Yulegoat_Petted0027
+  - first:
+      213: 21300020
+    second: 2022_store_bean_pet_Yulegoat_Sad0007
+  - first:
+      213: 21300022
+    second: 2022_store_bean_pet_Yulegoat_Walk0008
+  - first:
+      213: 21300024
+    second: 2022_store_bean_pet_Yulegoat_Petted0010
+  - first:
+      213: 21300026
+    second: 2022_store_bean_pet_Yulegoat_Petted0005
+  - first:
+      213: 21300028
+    second: 2022_store_bean_pet_Yulegoat_Idle
+  - first:
+      213: 21300030
+    second: 2022_store_bean_pet_Yulegoat_Scared0002
+  - first:
+      213: 21300032
+    second: 2022_store_bean_pet_Yulegoat_Petted0045
+  - first:
+      213: 21300034
+    second: 2022_store_bean_pet_Yulegoat_Petted0018
+  - first:
+      213: 21300036
+    second: 2022_store_bean_pet_Yulegoat_Petted0033
+  - first:
+      213: 21300038
+    second: 2022_store_bean_pet_Yulegoat_Petted0038
+  - first:
+      213: 21300040
+    second: 2022_store_bean_pet_Yulegoat_Petted0017
+  - first:
+      213: 21300042
+    second: 2022_store_bean_pet_Yulegoat_Petted0021
+  - first:
+      213: 21300044
+    second: 2022_store_bean_pet_Yulegoat_Petted0042
+  - first:
+      213: 21300046
+    second: 2022_store_bean_pet_Yulegoat_Walk0003
+  - first:
+      213: 21300048
+    second: 2022_store_bean_pet_Yulegoat_Petted0046
+  - first:
+      213: 21300050
+    second: 2022_store_bean_pet_Yulegoat_Sad0001
+  - first:
+      213: 21300052
+    second: 2022_store_bean_pet_Yulegoat_Petted0020
+  - first:
+      213: 21300054
+    second: 2022_store_bean_pet_Yulegoat_Sad0005
+  - first:
+      213: 21300056
+    second: 2022_store_bean_pet_Yulegoat_Petted0016
+  - first:
+      213: 21300058
+    second: 2022_store_bean_pet_Yulegoat_Petted0002
+  - first:
+      213: 21300060
+    second: 2022_store_bean_pet_Yulegoat_Petted0029
+  - first:
+      213: 21300062
+    second: 2022_store_bean_pet_Yulegoat_Sad0004
+  - first:
+      213: 21300064
+    second: 2022_store_bean_pet_Yulegoat_Petted0028
+  - first:
+      213: 21300066
+    second: 2022_store_bean_pet_Yulegoat_Petted0001
+  - first:
+      213: 21300068
+    second: 2022_store_bean_pet_Yulegoat_Scared0004
+  - first:
+      213: 21300070
+    second: 2022_store_bean_pet_Yulegoat_Walk0007
+  - first:
+      213: 21300072
+    second: 2022_store_bean_pet_Yulegoat_Petted0019
+  - first:
+      213: 21300074
+    second: 2022_store_bean_pet_Yulegoat_Petted0039
+  - first:
+      213: 21300076
+    second: 2022_store_bean_pet_Yulegoat_Walk0005
+  - first:
+      213: 21300078
+    second: 2022_store_bean_pet_Yulegoat_Scared0001
+  - first:
+      213: 21300080
+    second: 2022_store_bean_pet_Yulegoat_Petted0003
+  - first:
+      213: 21300082
+    second: 2022_store_bean_pet_Yulegoat_Petted0006
+  - first:
+      213: 21300084
+    second: 2022_store_bean_pet_Yulegoat_Petted0035
+  - first:
+      213: 21300086
+    second: 2022_store_bean_pet_Yulegoat_Walk0006
+  - first:
+      213: 21300088
+    second: 2022_store_bean_pet_Yulegoat_Walk0001
+  - first:
+      213: 21300090
+    second: 2022_store_bean_pet_Yulegoat_Petted0024
+  - first:
+      213: 21300092
+    second: 2022_store_bean_pet_Yulegoat_Petted0048
+  - first:
+      213: 21300094
+    second: 2022_store_bean_pet_Yulegoat_Sad0008
+  - first:
+      213: 21300096
+    second: 2022_store_bean_pet_Yulegoat_Petted0026
+  - first:
+      213: 21300098
+    second: 2022_store_bean_pet_Yulegoat_Petted0034
+  - first:
+      213: 21300100
+    second: 2022_store_bean_pet_Yulegoat_Scared0003
+  - first:
+      213: 21300102
+    second: 2022_store_bean_pet_Yulegoat_Petted0040
+  - first:
+      213: 21300104
+    second: 2022_store_bean_pet_Yulegoat_Petted0032
+  - first:
+      213: 21300106
+    second: 2022_store_bean_pet_Yulegoat_Petted0047
+  - first:
+      213: 21300108
+    second: 2022_store_bean_pet_Yulegoat_Petted0025
+  - first:
+      213: 21300110
+    second: 2022_store_bean_pet_Yulegoat_Petted0030
+  - first:
+      213: 21300112
+    second: 2022_store_bean_pet_Yulegoat_Petted0004
+  - first:
+      213: 21300114
+    second: 2022_store_bean_pet_Yulegoat_Petted0011
+  - first:
+      213: 21300116
+    second: 2022_store_bean_pet_Yulegoat_Petted0043
+  - first:
+      213: 21300118
+    second: 2022_store_bean_pet_Yulegoat_Petted0036
+  - first:
+      213: 21300120
+    second: 2022_store_bean_pet_Yulegoat_Sad0003
+  - first:
+      213: 21300122
+    second: 2022_store_bean_pet_Yulegoat_Petted0009
+  - first:
+      213: 21300124
+    second: 2022_store_bean_pet_Yulegoat_Walk0004
+  - first:
+      213: 21300126
+    second: 2022_store_bean_pet_Yulegoat_Petted0015
+  - first:
+      213: 21300128
+    second: 2022_store_bean_pet_Yulegoat_Petted0014
+  - first:
+      213: 21300130
+    second: 2022_store_bean_pet_Yulegoat_Petted0023
+  - first:
+      213: 21300132
+    second: 2022_store_bean_pet_Yulegoat_Sad0002
+  - first:
+      213: 21300134
+    second: 2022_store_bean_pet_Yulegoat_Petted0012
+  - first:
+      213: 21300136
+    second: 2022_store_bean_pet_Yulegoat_Petted0013
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Petted0022
+      rect:
+        serializedVersion: 2
+        x: 111.07612
+        y: 116.02675
+        width: 110.86568
+        height: 99.89713
+      alignment: 9
+      pivot: {x: 0.34207055, y: 0.73048395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -24.508957, y: 41.024685}
+        - {x: 30.491043, y: 61.024685}
+        - {x: 65.49104, y: 4.024685}
+        - {x: 11.491043, y: -46.975315}
+        - {x: -56.508957, y: -51.975315}
+        - {x: -55.508957, y: 0.024686813}
+      physicsShape:
+      - - {x: 35.49104, y: -11.975315}
+        - {x: 43.491043, y: -11.975315}
+        - {x: 54.491043, y: 0.024686813}
+        - {x: 54.491043, y: 18.024685}
+        - {x: 53.491043, y: 23.024685}
+        - {x: 37.491043, y: 48.024685}
+        - {x: 29.491043, y: 49.024685}
+        - {x: -5.508957, y: 49.024685}
+        - {x: -13.508957, y: 46.02468}
+        - {x: -32.508957, y: 32.024685}
+        - {x: -50.508957, y: 6.024685}
+        - {x: -54.508957, y: -6.975313}
+        - {x: -54.508957, y: -33.975315}
+        - {x: -52.508957, y: -45.975315}
+        - {x: -48.508957, y: -48.975315}
+        - {x: -2.5089579, y: -48.975315}
+        - {x: 9.491041, y: -47.975315}
+        - {x: 18.491043, y: -40.975315}
+        - {x: 25.49104, y: -31.975315}
+      - - {x: -11.508957, y: 16.024685}
+        - {x: -8.508957, y: 19.024685}
+        - {x: -5.508957, y: 21.024685}
+        - {x: 1.4910431, y: 21.024685}
+        - {x: 5.491041, y: 16.024685}
+        - {x: 4.491043, y: 11.024685}
+        - {x: 3.491043, y: 11.024685}
+        - {x: 2.4910412, y: 10.024685}
+        - {x: -10.508957, y: 10.024685}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22b3c1c2fd242998410b6f679117e93
+      internalID: 21300000
+      vertices:
+      - {x: 138.43283, y: 30.948566}
+      - {x: 84.43284, y: -20.051434}
+      - {x: 16.432838, y: -25.051434}
+      - {x: 17.432838, y: 26.948568}
+      - {x: 48.43284, y: 67.94856}
+      - {x: 103.43284, y: 87.94856}
+      indices: 000000000400000005000000010000000300000004000000010000000200000003000000000000000100000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Petted0007
+      rect:
+        serializedVersion: 2
+        x: 120.07612
+        y: 230.07613
+        width: 106.84776
+        height: 102.92388
+      alignment: 9
+      pivot: {x: 0.33621556, y: 0.7085224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -1.5, y: 51.46193}
+        - {x: 39.5, y: 51.46193}
+        - {x: 63.5, y: 2.4619331}
+        - {x: 10.5, y: -48.538067}
+        - {x: -50.5, y: -52.538067}
+        - {x: -54.5, y: -16.538067}
+        - {x: -36.5, y: 34.461933}
+      physicsShape:
+      - - {x: 39.5, y: -12.538067}
+        - {x: 48.5, y: -6.538067}
+        - {x: 52.5, y: 7.461933}
+        - {x: 53.5, y: 11.461934}
+        - {x: 53.5, y: 22.461933}
+        - {x: 44.5, y: 41.46193}
+        - {x: 34.5, y: 51.46193}
+        - {x: -0.5, y: 51.46193}
+        - {x: -11.5, y: 50.461933}
+        - {x: -27.5, y: 34.461933}
+        - {x: -45.5, y: 7.461933}
+        - {x: -52.5, y: -15.538067}
+        - {x: -52.5, y: -31.538063}
+        - {x: -50.5, y: -44.538067}
+        - {x: -46.5, y: -50.538067}
+        - {x: -7.500001, y: -50.538067}
+        - {x: 8.5, y: -48.538067}
+        - {x: 14.5, y: -44.538067}
+        - {x: 26.5, y: -30.538067}
+      - - {x: -8.5, y: 17.461933}
+        - {x: -7.500001, y: 18.461933}
+        - {x: -4.5, y: 22.461933}
+        - {x: 3.5, y: 22.461933}
+        - {x: 6.5, y: 17.461933}
+        - {x: 6.5, y: 12.461933}
+        - {x: 4.5, y: 11.461934}
+        - {x: -8.5, y: 11.461934}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e29ae6a4034b7a8a1a5240f8873574
+      internalID: 21300002
+      vertices:
+      - {x: 134.42389, y: 32.46194}
+      - {x: 81.42388, y: -18.53806}
+      - {x: 20.423882, y: -22.53806}
+      - {x: 16.423882, y: 13.461941}
+      - {x: 34.42388, y: 64.461945}
+      - {x: 69.42388, y: 81.46194}
+      - {x: 110.42388, y: 81.46194}
+      indices: 000000000500000006000000040000000100000003000000040000000500000001000000010000000200000003000000000000000100000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Petted0044
+      rect:
+        serializedVersion: 2
+        x: 235.07613
+        y: 10.07612
+        width: 106.84776
+        height: 102.92388
+      alignment: 9
+      pivot: {x: 0.3362155, y: 0.70852244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -1.5000076, y: 51.461937}
+        - {x: 39.499992, y: 51.461937}
+        - {x: 63.499992, y: 2.4619408}
+        - {x: 10.499992, y: -48.53806}
+        - {x: -50.500008, y: -52.53806}
+        - {x: -54.500008, y: -16.53806}
+        - {x: -36.500008, y: 34.46194}
+      physicsShape:
+      - - {x: 39.499992, y: -12.538059}
+        - {x: 48.499992, y: -6.538059}
+        - {x: 52.499992, y: 7.461941}
+        - {x: 53.499992, y: 11.461942}
+        - {x: 53.499992, y: 22.46194}
+        - {x: 44.499992, y: 41.461937}
+        - {x: 34.499992, y: 51.461937}
+        - {x: -0.5000076, y: 51.461937}
+        - {x: -11.500008, y: 50.46194}
+        - {x: -27.500008, y: 34.46194}
+        - {x: -45.500008, y: 7.461941}
+        - {x: -52.500008, y: -15.538059}
+        - {x: -52.500008, y: -31.538055}
+        - {x: -50.500008, y: -44.53806}
+        - {x: -46.500008, y: -50.53806}
+        - {x: -7.5000086, y: -50.53806}
+        - {x: 8.499992, y: -48.53806}
+        - {x: 14.499992, y: -44.53806}
+        - {x: 26.499992, y: -30.53806}
+      - - {x: -8.500008, y: 17.46194}
+        - {x: -7.5000086, y: 18.46194}
+        - {x: -4.5000076, y: 22.46194}
+        - {x: 3.4999924, y: 22.46194}
+        - {x: 6.4999924, y: 17.46194}
+        - {x: 6.4999924, y: 12.461941}
+        - {x: 4.4999924, y: 11.461942}
+        - {x: -8.500008, y: 11.461942}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664156f916b84f1999e34ae8b008b13c
+      internalID: 21300004
+      vertices:
+      - {x: 134.42389, y: 32.46194}
+      - {x: 81.42388, y: -18.53806}
+      - {x: 20.423882, y: -22.53806}
+      - {x: 16.423882, y: 13.461941}
+      - {x: 34.42388, y: 64.461945}
+      - {x: 69.42388, y: 81.46194}
+      - {x: 110.42388, y: 81.46194}
+      indices: 000000000500000006000000040000000100000003000000040000000500000001000000010000000200000003000000000000000100000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Petted0008
+      rect:
+        serializedVersion: 2
+        x: 120.07612
+        y: 230.07613
+        width: 106.84776
+        height: 102.92388
+      alignment: 9
+      pivot: {x: 0.33621556, y: 0.7085224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -1.5, y: 51.46193}
+        - {x: 39.5, y: 51.46193}
+        - {x: 63.5, y: 2.4619331}
+        - {x: 10.5, y: -48.538067}
+        - {x: -50.5, y: -52.538067}
+        - {x: -54.5, y: -16.538067}
+        - {x: -36.5, y: 34.461933}
+      physicsShape:
+      - - {x: 39.5, y: -12.538067}
+        - {x: 48.5, y: -6.538067}
+        - {x: 52.5, y: 7.461933}
+        - {x: 53.5, y: 11.461934}
+        - {x: 53.5, y: 22.461933}
+        - {x: 44.5, y: 41.46193}
+        - {x: 34.5, y: 51.46193}
+        - {x: -0.5, y: 51.46193}
+        - {x: -11.5, y: 50.461933}
+        - {x: -27.5, y: 34.461933}
+        - {x: -45.5, y: 7.461933}
+        - {x: -52.5, y: -15.538067}
+        - {x: -52.5, y: -31.538063}
+        - {x: -50.5, y: -44.538067}
+        - {x: -46.5, y: -50.538067}
+        - {x: -7.500001, y: -50.538067}
+        - {x: 8.5, y: -48.538067}
+        - {x: 14.5, y: -44.538067}
+        - {x: 26.5, y: -30.538067}
+      - - {x: -8.5, y: 17.461933}
+        - {x: -7.500001, y: 18.461933}
+        - {x: -4.5, y: 22.461933}
+        - {x: 3.5, y: 22.461933}
+        - {x: 6.5, y: 17.461933}
+        - {x: 6.5, y: 12.461933}
+        - {x: 4.5, y: 11.461934}
+        - {x: -8.5, y: 11.461934}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a2cea076864e30a6e840d08b50681f
+      internalID: 21300006
+      vertices:
+      - {x: 134.42389, y: 32.46194}
+      - {x: 81.42388, y: -18.53806}
+      - {x: 20.423882, y: -22.53806}
+      - {x: 16.423882, y: 13.461941}
+      - {x: 34.42388, y: 64.461945}
+      - {x: 69.42388, y: 81.46194}
+      - {x: 110.42388, y: 81.46194}
+      indices: 000000000500000006000000040000000100000003000000040000000500000001000000010000000200000003000000000000000100000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Petted0041
+      rect:
+        serializedVersion: 2
+        x: 241.07613
+        y: 337.0761
+        width: 108.84776
+        height: 106.89713
+      alignment: 9
+      pivot: {x: 0.32085064, y: 0.6821875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -15.500008, y: 50.475323}
+        - {x: 36.499992, y: 62.47532}
+        - {x: 63.499992, y: 5.4753227}
+        - {x: 7.4999905, y: -50.524677}
+        - {x: -53.500008, y: -54.524677}
+        - {x: -55.500008, y: -3.5246754}
+      physicsShape:
+      - - {x: 31.499992, y: -15.524677}
+        - {x: 45.499992, y: -9.524677}
+        - {x: 51.499992, y: 0.47532272}
+        - {x: 53.499985, y: 10.475323}
+        - {x: 53.499985, y: 22.475323}
+        - {x: 44.499992, y: 45.475323}
+        - {x: 34.49999, y: 53.475323}
+        - {x: 2.4999924, y: 53.475323}
+        - {x: -2.5000076, y: 52.475323}
+        - {x: -20.500008, y: 42.47532}
+        - {x: -31.500008, y: 26.475323}
+        - {x: -46.500008, y: 10.475323}
+        - {x: -53.500008, y: -15.524677}
+        - {x: -53.500008, y: -46.524677}
+        - {x: -48.500008, y: -52.524677}
+        - {x: -32.500008, y: -52.524677}
+        - {x: -24.500008, y: -51.524677}
+        - {x: 8.499992, y: -50.524677}
+        - {x: 25.499992, y: -31.524677}
+      - - {x: -8.500008, y: 14.475323}
+        - {x: -9.500009, y: 15.475323}
+        - {x: -8.500008, y: 16.475323}
+        - {x: -7.5000076, y: 20.475323}
+        - {x: -5.5000076, y: 21.475323}
+        - {x: -2.5000076, y: 23.475323}
+        - {x: 3.4999905, y: 23.475323}
+        - {x: 5.4999924, y: 20.475323}
+        - {x: 6.4999924, y: 19.475323}
+        - {x: 6.4999924, y: 16.475323}
+        - {x: 7.4999905, y: 15.475323}
+        - {x: 5.4999924, y: 12.475323}
+        - {x: 4.4999924, y: 11.475323}
+        - {x: -8.500008, y: 11.475323}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca215abf20c44a85b1a4872a36ca7ddd
+      internalID: 21300008
+      vertices:
+      - {x: 137.42389, y: 39.448566}
+      - {x: 81.42388, y: -16.551434}
+      - {x: 20.423882, y: -20.551434}
+      - {x: 18.423882, y: 30.448568}
+      - {x: 58.42388, y: 84.44856}
+      - {x: 110.42388, y: 96.44856}
+      indices: 000000000400000005000000010000000400000000000000010000000200000003000000010000000300000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Sad0006
+      rect:
+        serializedVersion: 2
+        x: 368.0761
+        y: 105.07612
+        width: 94.89713
+        height: 49.872562
+      alignment: 9
+      pivot: {x: 0.47339565, y: 1.5023066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -20.524677, y: -25.012398}
+        - {x: -57.524677, y: -14.012398}
+        - {x: -8.524677, y: 32.987602}
+        - {x: 58.475323, y: -7.012398}
+        - {x: 26.475323, y: -23.01239}
+      physicsShape:
+      - - {x: 9.475323, y: 22.987604}
+        - {x: 4.4753227, y: 23.987602}
+        - {x: -8.524677, y: 23.987602}
+        - {x: -36.524677, y: 4.987602}
+        - {x: -47.524677, y: -6.012398}
+        - {x: -47.524677, y: -14.012398}
+        - {x: -43.524677, y: -17.01239}
+        - {x: -26.524677, y: -24.012398}
+        - {x: 28.475323, y: -24.012398}
+        - {x: 43.47532, y: -19.012398}
+        - {x: 46.47532, y: -12.012398}
+        - {x: 46.47532, y: 1.9876022}
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2d1154665748f5a1b9ca817ae74f02
+      internalID: 21300010
+      vertices:
+      - {x: 108.44856, y: -32.06372}
+      - {x: 76.44856, y: -48.063713}
+      - {x: 29.448566, y: -50.06372}
+      - {x: -7.5514336, y: -39.06372}
+      - {x: 41.448566, y: 7.936281}
+      indices: 020000000300000004000000010000000200000004000000000000000100000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Petted0037
+      rect:
+        serializedVersion: 2
+        x: 239.02675
+        y: 116.02675
+        width: 104.89713
+        height: 97.89713
+      alignment: 9
+      pivot: {x: 0.4096704, y: 0.74540746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -31.475315, y: 44.02468}
+        - {x: 18.524685, y: 55.024685}
+        - {x: 64.52469, y: 9.024686}
+        - {x: 20.524683, y: -45.975315}
+        - {x: -45.475315, y: -49.975315}
+        - {x: -57.475315, y: -1.9753151}
+      physicsShape:
+      - - {x: 30.524681, y: -32.975315}
+        - {x: 42.524685, y: -11.975315}
+        - {x: 49.52468, y: -5.975313}
+        - {x: 51.524685, y: 1.0246868}
+        - {x: 51.524685, y: 18.024685}
+        - {x: 35.524685, y: 39.024685}
+        - {x: 23.524685, y: 48.024685}
+        - {x: -13.475315, y: 48.024685}
+        - {x: -27.475315, y: 42.024685}
+        - {x: -35.475315, y: 33.024685}
+        - {x: -52.47531, y: 5.024685}
+        - {x: -52.47531, y: -25.975315}
+        - {x: -45.475315, y: -44.975315}
+        - {x: -39.47531, y: -47.975315}
+        - {x: -21.475315, y: -47.975315}
+        - {x: -11.475315, y: -44.975315}
+        - {x: -1.4753151, y: -46.975315}
+        - {x: 18.524685, y: -46.975315}
+      - - {x: -15.475315, y: 14.024686}
+        - {x: -15.475315, y: 17.024685}
+        - {x: -10.475315, y: 21.024685}
+        - {x: -6.475315, y: 21.024685}
+        - {x: -5.475315, y: 20.024685}
+        - {x: -1.4753151, y: 19.024685}
+        - {x: 0.52468395, y: 16.024685}
+        - {x: 2.524685, y: 14.024686}
+        - {x: 1.5246849, y: 11.024685}
+        - {x: 0.52468395, y: 10.024685}
+        - {x: -13.475315, y: 10.024685}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2781350f8563439d9d62060017fe2787
+      internalID: 21300012
+      vertices:
+      - {x: 126.44856, y: 33.948566}
+      - {x: 82.44856, y: -21.051434}
+      - {x: 16.448566, y: -25.051434}
+      - {x: 4.4485664, y: 22.948566}
+      - {x: 30.448566, y: 68.94856}
+      - {x: 80.44856, y: 79.94856}
+      indices: 010000000400000005000000010000000300000004000000010000000200000003000000000000000100000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Walk0002
+      rect:
+        serializedVersion: 2
+        x: 138.02675
+        y: 457.02676
+        width: 96.9465
+        height: 103.9465
+      alignment: 9
+      pivot: {x: 0.48452756, y: 0.2787322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 24.5, y: 50.999985}
+        - {x: 56.5, y: 6.9999847}
+        - {x: 20.5, y: -53.000015}
+        - {x: -38.5, y: -51.000015}
+        - {x: -56.5, y: -10.000015}
+        - {x: -28.499998, y: 53.999985}
+      physicsShape:
+      - - {x: 19.5, y: -51.000015}
+        - {x: 31.5, y: -34.000015}
+        - {x: 48.5, y: -5.0000134}
+        - {x: 48.5, y: 17.999987}
+        - {x: 38.499996, y: 25.999983}
+        - {x: 35.5, y: 34.999985}
+        - {x: 25.499998, y: 47.999985}
+        - {x: 18.499998, y: 50.999985}
+        - {x: -19.5, y: 50.999985}
+        - {x: -33.5, y: 38.999985}
+        - {x: -37.5, y: 27.999987}
+        - {x: -48.5, y: 9.999987}
+        - {x: -48.5, y: -24.000013}
+        - {x: -40.5, y: -48.000015}
+        - {x: -34.5, y: -52.000015}
+        - {x: -22.5, y: -52.000015}
+        - {x: -12.5, y: -51.000015}
+        - {x: -5.5, y: -43.00001}
+        - {x: -0.5, y: -52.000015}
+        - {x: 4.5, y: -52.000015}
+      - - {x: -14.5, y: 13.999987}
+        - {x: -14.5, y: 19.999983}
+        - {x: -12.5, y: 21.999987}
+        - {x: -4.5, y: 21.999987}
+        - {x: -2.5, y: 20.999987}
+        - {x: -2.5, y: 19.999983}
+        - {x: 0.5, y: 15.999987}
+        - {x: 1.5, y: 14.999987}
+        - {x: 1.5, y: 10.999987}
+        - {x: -12.5, y: 10.999987}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40ff9e997d8460da980c67e586a55fc
+      internalID: 21300014
+      vertices:
+      - {x: 74.47325, y: 125.97325}
+      - {x: 106.47325, y: 81.97325}
+      - {x: 70.47325, y: 21.97325}
+      - {x: 11.473251, y: 23.973251}
+      - {x: -6.5267487, y: 64.97325}
+      - {x: 21.473253, y: 128.97325}
+      indices: 000000000100000002000000020000000300000004000000000000000200000004000000000000000400000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Petted0031
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 376.02676
+        width: 99.97325
+        height: 106.9465
+      alignment: 9
+      pivot: {x: 0.6901846, y: 0.682334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -49.986626, y: -10.500013}
+        - {x: -49.986626, y: 46.499985}
+        - {x: -12.986626, y: 66.499985}
+        - {x: 52.013374, y: 11.499985}
+        - {x: 44.013374, y: -53.500008}
+        - {x: -15.986626, y: -52.500015}
+      physicsShape:
+      - - {x: 42.013374, y: -13.500015}
+        - {x: 50.013374, y: -8.500015}
+        - {x: 50.013374, y: 3.4999847}
+        - {x: 38.013374, y: 24.499985}
+        - {x: 26.013374, y: 26.499985}
+        - {x: 19.013374, y: 37.499985}
+        - {x: 8.013374, y: 48.499985}
+        - {x: -2.9866257, y: 53.499985}
+        - {x: -36.986626, y: 53.499985}
+        - {x: -47.986618, y: 45.499985}
+        - {x: -49.986626, y: 41.499985}
+        - {x: -49.986626, y: 4.4999857}
+        - {x: -43.986626, y: -12.500015}
+        - {x: -37.986626, y: -25.500015}
+        - {x: -14.986626, y: -51.500015}
+        - {x: -11.986626, y: -52.500015}
+        - {x: 4.0133753, y: -52.500015}
+        - {x: 40.013374, y: -50.500015}
+        - {x: 44.013374, y: -45.500015}
+        - {x: 46.013374, y: -29.500011}
+      - - {x: -20.986622, y: 16.499985}
+        - {x: -22.986626, y: 19.499985}
+        - {x: -22.986626, y: 22.499985}
+        - {x: -21.986626, y: 23.499985}
+        - {x: -15.986626, y: 23.499985}
+        - {x: -12.986626, y: 21.499985}
+        - {x: -8.986626, y: 18.499985}
+        - {x: -7.986624, y: 18.499985}
+        - {x: -3.9866238, y: 14.499985}
+        - {x: -3.9866238, y: 12.499985}
+        - {x: -2.9866257, y: 11.499985}
+        - {x: -16.986626, y: 11.499985}
+        - {x: -16.986626, y: 12.499985}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4c61242a0746e9a749c70b3b497c2c
+      internalID: 21300016
+      vertices:
+      - {x: 82.986626, y: 45.47325}
+      - {x: 74.986626, y: -19.526741}
+      - {x: 14.986626, y: -18.526749}
+      - {x: -19.013374, y: 23.473253}
+      - {x: -19.013374, y: 80.47325}
+      - {x: 17.986626, y: 100.47325}
+      indices: 030000000400000005000000000000000300000005000000000000000100000002000000000000000200000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Petted0027
+      rect:
+        serializedVersion: 2
+        x: 2.026751
+        y: 170.02675
+        width: 103.89713
+        height: 97.9465
+      alignment: 9
+      pivot: {x: 0.47136283, y: 0.7450317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -52.97532, y: 14.000001}
+        - {x: -31.975319, y: 45}
+        - {x: 10.024681, y: 54}
+        - {x: 47.02468, y: 29}
+        - {x: 54.02468, y: -2}
+        - {x: 25.024681, y: -48.999992}
+        - {x: -48.975315, y: -48.999992}
+      physicsShape:
+      - - {x: 38.02468, y: -14}
+        - {x: 47.02468, y: -11}
+        - {x: 51.024677, y: -7}
+        - {x: 51.024677, y: 12}
+        - {x: 49.02468, y: 22}
+        - {x: 38.02468, y: 24}
+        - {x: 33.02468, y: 38}
+        - {x: 19.024681, y: 48}
+        - {x: -18.975319, y: 48}
+        - {x: -31.975319, y: 42}
+        - {x: -37.97532, y: 36}
+        - {x: -42.975315, y: 24}
+        - {x: -50.97532, y: 9.000001}
+        - {x: -50.97532, y: -24}
+        - {x: -35.97532, y: -48}
+        - {x: -10.975319, y: -48}
+        - {x: -5.975319, y: -45}
+        - {x: 24.02468, y: -48}
+        - {x: 37.024677, y: -31}
+      - - {x: -16.975319, y: 14.000001}
+        - {x: -16.975319, y: 18}
+        - {x: -9.975319, y: 20}
+        - {x: -8.975319, y: 20}
+        - {x: -4.975319, y: 19}
+        - {x: 1.0246811, y: 11}
+        - {x: -13.975319, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdc4edf5b3f43bd81e10b3f4db9d79a
+      internalID: 21300018
+      vertices:
+      - {x: 101.94856, y: 53.97325}
+      - {x: 108.94856, y: 22.973251}
+      - {x: 79.94856, y: -24.026741}
+      - {x: 5.9485703, y: -24.026741}
+      - {x: 1.9485664, y: 38.97325}
+      - {x: 22.948566, y: 69.97325}
+      - {x: 64.94856, y: 78.97325}
+      indices: 040000000500000006000000010000000200000004000000020000000300000004000000010000000400000006000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Sad0007
+      rect:
+        serializedVersion: 2
+        x: 368.0761
+        y: 105.07612
+        width: 94.89713
+        height: 49.872562
+      alignment: 9
+      pivot: {x: 0.47339565, y: 1.5023066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -20.524677, y: -25.012398}
+        - {x: -57.524677, y: -14.012398}
+        - {x: -8.524677, y: 32.987602}
+        - {x: 58.475323, y: -7.012398}
+        - {x: 26.475323, y: -23.01239}
+      physicsShape:
+      - - {x: 9.475323, y: 22.987604}
+        - {x: 4.4753227, y: 23.987602}
+        - {x: -8.524677, y: 23.987602}
+        - {x: -36.524677, y: 4.987602}
+        - {x: -47.524677, y: -6.012398}
+        - {x: -47.524677, y: -14.012398}
+        - {x: -43.524677, y: -17.01239}
+        - {x: -26.524677, y: -24.012398}
+        - {x: 28.475323, y: -24.012398}
+        - {x: 43.47532, y: -19.012398}
+        - {x: 46.47532, y: -12.012398}
+        - {x: 46.47532, y: 1.9876022}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625eaeebc8e5441d81fbbc03c2328265
+      internalID: 21300020
+      vertices:
+      - {x: 108.44856, y: -32.06372}
+      - {x: 76.44856, y: -48.063713}
+      - {x: 29.448566, y: -50.06372}
+      - {x: -7.5514336, y: -39.06372}
+      - {x: 41.448566, y: 7.936281}
+      indices: 020000000300000004000000010000000200000004000000000000000100000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Walk0008
+      rect:
+        serializedVersion: 2
+        x: 2.0761204
+        y: 278.0621
+        width: 108.89713
+        height: 98.86176
+      alignment: 9
+      pivot: {x: 0.4676329, y: 0.7478917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 60.475315, y: 12.507015}
+        - {x: 32.475315, y: -43.492985}
+        - {x: -51.524685, y: -52.492985}
+        - {x: -55.524685, y: 16.507015}
+        - {x: -30.524683, y: 42.507015}
+        - {x: 15.475315, y: 57.507015}
+      physicsShape:
+      - - {x: 38.475315, y: -19.492985}
+        - {x: 47.475315, y: -7.492985}
+        - {x: 54.475315, y: -2.4929829}
+        - {x: 54.475315, y: 14.507016}
+        - {x: 53.475315, y: 23.507015}
+        - {x: 42.47531, y: 27.507015}
+        - {x: 27.475315, y: 45.507015}
+        - {x: 20.475315, y: 48.507015}
+        - {x: 0.4753151, y: 48.507015}
+        - {x: -15.524685, y: 46.507015}
+        - {x: -32.524685, y: 40.507015}
+        - {x: -43.52468, y: 28.507015}
+        - {x: -53.524685, y: 5.507015}
+        - {x: -53.524685, y: -9.492985}
+        - {x: -52.52468, y: -25.492985}
+        - {x: -47.524685, y: -38.492985}
+        - {x: -38.524685, y: -48.492977}
+        - {x: -19.524685, y: -48.492977}
+        - {x: -5.524685, y: -45.492985}
+        - {x: 25.475315, y: -43.492985}
+        - {x: 30.475315, y: -37.492985}
+        - {x: 36.47531, y: -26.492985}
+      - - {x: -18.524685, y: 15.507015}
+        - {x: -15.524685, y: 19.507015}
+        - {x: -13.524684, y: 19.507015}
+        - {x: -12.524685, y: 20.507015}
+        - {x: -7.524685, y: 20.507015}
+        - {x: -6.524685, y: 19.507015}
+        - {x: -4.524685, y: 19.507015}
+        - {x: 0.4753151, y: 14.507016}
+        - {x: 1.4753146, y: 11.507015}
+        - {x: -1.5246849, y: 11.507015}
+        - {x: -2.524685, y: 10.507015}
+        - {x: -13.524684, y: 10.507015}
+        - {x: -15.524685, y: 9.507016}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4055205a1e0e4fa99b48a015c5d02c8c
+      internalID: 21300022
+      vertices:
+      - {x: 118.44856, y: 37.43088}
+      - {x: 90.44856, y: -18.569118}
+      - {x: 6.4485664, y: -27.569118}
+      - {x: 2.4485664, y: 41.43088}
+      - {x: 27.448568, y: 67.43088}
+      - {x: 73.44856, y: 82.43088}
+      indices: 000000000100000004000000030000000100000002000000030000000400000001000000000000000400000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Petted0010
+      rect:
+        serializedVersion: 2
+        x: 2.026751
+        y: 170.02675
+        width: 103.89713
+        height: 97.9465
+      alignment: 9
+      pivot: {x: 0.47136283, y: 0.7450317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -52.97532, y: 14.000001}
+        - {x: -31.975319, y: 45}
+        - {x: 10.024681, y: 54}
+        - {x: 47.02468, y: 29}
+        - {x: 54.02468, y: -2}
+        - {x: 25.024681, y: -48.999992}
+        - {x: -48.975315, y: -48.999992}
+      physicsShape:
+      - - {x: 38.02468, y: -14}
+        - {x: 47.02468, y: -11}
+        - {x: 51.024677, y: -7}
+        - {x: 51.024677, y: 12}
+        - {x: 49.02468, y: 22}
+        - {x: 38.02468, y: 24}
+        - {x: 33.02468, y: 38}
+        - {x: 19.024681, y: 48}
+        - {x: -18.975319, y: 48}
+        - {x: -31.975319, y: 42}
+        - {x: -37.97532, y: 36}
+        - {x: -42.975315, y: 24}
+        - {x: -50.97532, y: 9.000001}
+        - {x: -50.97532, y: -24}
+        - {x: -35.97532, y: -48}
+        - {x: -10.975319, y: -48}
+        - {x: -5.975319, y: -45}
+        - {x: 24.02468, y: -48}
+        - {x: 37.024677, y: -31}
+      - - {x: -16.975319, y: 14.000001}
+        - {x: -16.975319, y: 18}
+        - {x: -9.975319, y: 20}
+        - {x: -8.975319, y: 20}
+        - {x: -4.975319, y: 19}
+        - {x: 1.0246811, y: 11}
+        - {x: -13.975319, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd767e74761147caac25a49c8dcb6613
+      internalID: 21300024
+      vertices:
+      - {x: 101.94856, y: 53.97325}
+      - {x: 108.94856, y: 22.973251}
+      - {x: 79.94856, y: -24.026741}
+      - {x: 5.9485703, y: -24.026741}
+      - {x: 1.9485664, y: 38.97325}
+      - {x: 22.948566, y: 69.97325}
+      - {x: 64.94856, y: 78.97325}
+      indices: 040000000500000006000000010000000200000004000000020000000300000004000000010000000400000006000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Petted0005
+      rect:
+        serializedVersion: 2
+        x: 120.07612
+        y: 336.0761
+        width: 108.84776
+        height: 106.89713
+      alignment: 9
+      pivot: {x: 0.3208507, y: 0.6821875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 42.5, y: 49.47532}
+        - {x: 63.5, y: 5.4753227}
+        - {x: 7.499998, y: -50.524677}
+        - {x: -53.5, y: -54.524677}
+        - {x: -55.5, y: -3.5246754}
+        - {x: -21.5, y: 40.475323}
+        - {x: 11.5, y: 64.47533}
+      physicsShape:
+      - - {x: 8.5, y: -49.524677}
+        - {x: 24.5, y: -31.524677}
+        - {x: 39.499996, y: -11.524677}
+        - {x: 45.5, y: -9.524677}
+        - {x: 51.5, y: 0.47532272}
+        - {x: 53.499992, y: 10.475323}
+        - {x: 53.499992, y: 22.475323}
+        - {x: 48.5, y: 41.475323}
+        - {x: 36.5, y: 53.475323}
+        - {x: -5.5, y: 53.475323}
+        - {x: -29.5, y: 33.475323}
+        - {x: -45.5, y: 6.4753227}
+        - {x: -53.5, y: -12.524677}
+        - {x: -53.5, y: -46.524677}
+        - {x: -48.5, y: -52.524677}
+        - {x: -25.5, y: -52.524677}
+        - {x: -18.5, y: -49.524677}
+        - {x: 5.5, y: -52.524677}
+      - - {x: -8.5, y: 14.475323}
+        - {x: -9.500001, y: 15.475323}
+        - {x: -8.5, y: 16.475323}
+        - {x: -7.5, y: 20.475323}
+        - {x: -5.5, y: 21.475323}
+        - {x: -2.5, y: 23.475323}
+        - {x: 3.499998, y: 23.475323}
+        - {x: 5.5, y: 20.475323}
+        - {x: 7.499998, y: 15.475323}
+        - {x: 5.5, y: 12.475323}
+        - {x: 4.5, y: 11.475323}
+        - {x: -8.5, y: 11.475323}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2672f66ae918431090b7a1703406f38e
+      internalID: 21300026
+      vertices:
+      - {x: 116.42388, y: 83.44856}
+      - {x: 137.42389, y: 39.448566}
+      - {x: 81.42388, y: -16.551434}
+      - {x: 20.423882, y: -20.551434}
+      - {x: 18.423882, y: 30.448568}
+      - {x: 52.42388, y: 74.44856}
+      - {x: 85.42388, y: 98.44856}
+      indices: 000000000100000005000000040000000200000003000000040000000500000002000000010000000200000005000000000000000500000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Idle
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 270.0761
+        width: 95.92388
+        height: 103.92388
+      alignment: 9
+      pivot: {x: 0.4169973, y: 0.7017048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -15.961941, y: 51.96195}
+        - {x: 24.03806, y: 51.96195}
+        - {x: 60.03806, y: 1.9619484}
+        - {x: 20.03806, y: -50.03805}
+        - {x: -47.961937, y: -54.03805}
+        - {x: -47.961937, y: 35.96195}
+      physicsShape:
+      - - {x: 31.03806, y: -33.038048}
+        - {x: 40.03806, y: -12.038052}
+        - {x: 47.03806, y: -7.0380516}
+        - {x: 47.03806, y: 17.961948}
+        - {x: 44.03806, y: 22.961948}
+        - {x: 32.038055, y: 40.961945}
+        - {x: 20.03806, y: 51.96195}
+        - {x: -17.96194, y: 51.96195}
+        - {x: -26.96194, y: 48.96195}
+        - {x: -41.96194, y: 27.961948}
+        - {x: -47.961937, y: 12.961948}
+        - {x: -47.961937, y: -23.038052}
+        - {x: -46.96194, y: -37.03805}
+        - {x: -36.96194, y: -51.03805}
+        - {x: -13.961941, y: -51.03805}
+        - {x: -8.961941, y: -46.038044}
+        - {x: 0.038059235, y: -51.03805}
+        - {x: 24.03806, y: -48.03805}
+      - - {x: -13.961941, y: 13.961948}
+        - {x: -15.961941, y: 16.961948}
+        - {x: -15.961941, y: 18.961948}
+        - {x: -14.961941, y: 19.961948}
+        - {x: -12.961941, y: 22.961948}
+        - {x: -4.961941, y: 22.961948}
+        - {x: -1.9619408, y: 19.961948}
+        - {x: -1.9619408, y: 18.961948}
+        - {x: 1.0380592, y: 14.961948}
+        - {x: 1.0380592, y: 11.961948}
+        - {x: -13.961941, y: 11.961948}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128940c52b31405a902cbff6194715d7
+      internalID: 21300028
+      vertices:
+      - {x: 115.961945, y: 32.96194}
+      - {x: 75.961945, y: -19.03806}
+      - {x: 7.9619446, y: -23.03806}
+      - {x: 7.9619446, y: 66.96194}
+      - {x: 39.96194, y: 82.961945}
+      - {x: 79.961945, y: 82.961945}
+      indices: 010000000400000005000000030000000100000002000000030000000400000001000000000000000100000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Scared0002
+      rect:
+        serializedVersion: 2
+        x: 8.026751
+        y: 564.0761
+        width: 113.9465
+        height: 168.88759
+      alignment: 9
+      pivot: {x: 0.76328146, y: 0.43178952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -39, y: -15.519905}
+        - {x: -64, y: 73.480095}
+        - {x: -40, y: 94.48009}
+        - {x: 63, y: -3.519905}
+        - {x: 48, y: -84.5199}
+        - {x: -3, y: -84.5199}
+      physicsShape:
+      - - {x: 50, y: -75.519905}
+        - {x: 52, y: -63.519905}
+        - {x: 51, y: -44.519905}
+        - {x: 57, y: -33.519905}
+        - {x: 57, y: -24.519905}
+        - {x: 55, y: -10.519905}
+        - {x: 51, y: -0.5199051}
+        - {x: 40, y: 8.480093}
+        - {x: 30, y: 27.480095}
+        - {x: 15.000001, y: 38.480095}
+        - {x: 7.000002, y: 36.480095}
+        - {x: -4, y: 58.480095}
+        - {x: -8, y: 58.480095}
+        - {x: -11, y: 57.480095}
+        - {x: -11, y: 38.480095}
+        - {x: -28, y: 83.480095}
+        - {x: -28.999996, y: 83.480095}
+        - {x: -36, y: 81.480095}
+        - {x: -33, y: 65.480095}
+        - {x: -41, y: 83.480095}
+        - {x: -46, y: 83.480095}
+        - {x: -48, y: 81.480095}
+        - {x: -47, y: 70.480095}
+        - {x: -36.999992, y: 34.48009}
+        - {x: -34, y: 17.480095}
+        - {x: -39, y: 33.480095}
+        - {x: -39, y: 39.480095}
+        - {x: -42, y: 52.480095}
+        - {x: -47, y: 67.480095}
+        - {x: -52, y: 80.48009}
+        - {x: -54, y: 79.480095}
+        - {x: -57, y: 77.480095}
+        - {x: -57, y: 69.480095}
+        - {x: -55.999992, y: 54.480095}
+        - {x: -51, y: 36.480095}
+        - {x: -53, y: 28.480091}
+        - {x: -44, y: 8.480093}
+        - {x: -40, y: -11.519905}
+        - {x: -35, y: -22.519905}
+        - {x: -28, y: -29.519905}
+        - {x: -22, y: -45.519905}
+        - {x: -6, y: -78.5199}
+        - {x: 2, y: -83.519905}
+        - {x: 21, y: -83.519905}
+        - {x: 22, y: -80.519905}
+        - {x: 31, y: -81.519905}
+        - {x: 46, y: -82.519905}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec73da21892493486146451e2006156
+      internalID: 21300030
+      vertices:
+      - {x: 89.97325, y: 92.443794}
+      - {x: 74.97325, y: 11.443802}
+      - {x: 23.973251, y: 11.443802}
+      - {x: -12.026749, y: 80.443794}
+      - {x: -37.02675, y: 169.44379}
+      - {x: -13.026749, y: 190.44379}
+      indices: 030000000400000005000000000000000100000002000000000000000200000003000000000000000300000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Petted0045
+      rect:
+        serializedVersion: 2
+        x: 111.02675
+        y: 14.026751
+        width: 107.921936
+        height: 93.9465
+      alignment: 9
+      pivot: {x: 0.37039042, y: 0.77675325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 50.012283, y: -9}
+        - {x: 15.012283, y: -44}
+        - {x: -47.987717, y: -48}
+        - {x: -60.987717, y: -6}
+        - {x: -27.987717, y: 40}
+        - {x: 15.012283, y: 51}
+        - {x: 61.012283, y: 32}
+      physicsShape:
+      - - {x: 28.012283, y: -30}
+        - {x: 38.012283, y: -13}
+        - {x: 51.012283, y: -8}
+        - {x: 53.012276, y: -3}
+        - {x: 53.012276, y: 17}
+        - {x: 52.012283, y: 22}
+        - {x: 36.012283, y: 42}
+        - {x: 28.012283, y: 46}
+        - {x: -7.9877167, y: 46}
+        - {x: -23.987717, y: 39}
+        - {x: -35.987717, y: 26}
+        - {x: -36.987717, y: 19}
+        - {x: -50.987717, y: 8}
+        - {x: -52.987717, y: -2}
+        - {x: -52.987717, y: -27.999996}
+        - {x: -51.987717, y: -39}
+        - {x: -46.987717, y: -46}
+        - {x: -19.987717, y: -46}
+        - {x: -13.987717, y: -40}
+        - {x: -3.9877176, y: -46}
+        - {x: 14.012283, y: -44}
+      - - {x: -12.987717, y: 15}
+        - {x: -8.987717, y: 19}
+        - {x: 0.012283325, y: 19}
+        - {x: 3.0122833, y: 16}
+        - {x: 5.0122833, y: 12}
+        - {x: 4.0122833, y: 10}
+        - {x: -11.987717, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: be24cb85584b40688bf045b858a2e916
+      internalID: 21300032
+      vertices:
+      - {x: 128.96097, y: 52.97325}
+      - {x: 117.96097, y: 11.973251}
+      - {x: 82.96097, y: -23.026749}
+      - {x: 19.960968, y: -27.026749}
+      - {x: 6.960968, y: 14.973251}
+      - {x: 39.960968, y: 60.97325}
+      - {x: 82.96097, y: 71.97325}
+      indices: 010000000200000005000000040000000200000003000000040000000500000002000000010000000500000006000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Petted0018
+      rect:
+        serializedVersion: 2
+        x: 366.02676
+        y: 168.02675
+        width: 103.89713
+        height: 93.89713
+      alignment: 9
+      pivot: {x: 0.6157363, y: 0.77716166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -56.97533, y: 19.024685}
+        - {x: -39.97533, y: 44.024685}
+        - {x: -2.9753294, y: 51.024685}
+        - {x: 42.024666, y: 30.024685}
+        - {x: 56.02467, y: -6.975315}
+        - {x: 37.02467, y: -43.975315}
+        - {x: -34.97533, y: -49.975315}
+      physicsShape:
+      - - {x: 43.02467, y: -30.975315}
+        - {x: 51.02467, y: -6.975315}
+        - {x: 51.02467, y: 8.024685}
+        - {x: 46.02467, y: 17.024685}
+        - {x: 30.02467, y: 32.024685}
+        - {x: 15.02467, y: 43.024685}
+        - {x: 5.0246696, y: 47.024685}
+        - {x: -30.975327, y: 47.024685}
+        - {x: -46.975327, y: 37.024685}
+        - {x: -50.97533, y: 20.024685}
+        - {x: -50.97533, y: -3.9753132}
+        - {x: -47.975327, y: -12.975315}
+        - {x: -35.97533, y: -32.97531}
+        - {x: -21.97533, y: -45.975315}
+        - {x: 30.02467, y: -45.975315}
+        - {x: 36.02467, y: -43.975315}
+        - {x: 40.02467, y: -37.975315}
+      - - {x: -18.97533, y: 14.024685}
+        - {x: -19.97533, y: 17.024685}
+        - {x: -20.97533, y: 18.024685}
+        - {x: -18.97533, y: 20.024685}
+        - {x: -11.97533, y: 20.024685}
+        - {x: -6.9753304, y: 17.024685}
+        - {x: -1.9753304, y: 12.024685}
+        - {x: -0.97533035, y: 10.024685}
+        - {x: -15.97533, y: 10.024685}
+        - {x: -15.97533, y: 11.024686}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8eb08cda50e4e039133127a37cb8228
+      internalID: 21300034
+      vertices:
+      - {x: 81.94856, y: 50.948566}
+      - {x: 95.94856, y: 13.948566}
+      - {x: 76.94856, y: -23.051434}
+      - {x: 4.9485664, y: -29.051434}
+      - {x: -17.051434, y: 39.948566}
+      - {x: -0.051433563, y: 64.94856}
+      - {x: 36.948566, y: 71.94856}
+      indices: 040000000500000006000000030000000400000006000000020000000300000006000000000000000100000002000000000000000200000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Petted0033
+      rect:
+        serializedVersion: 2
+        x: 373.02676
+        y: 500.02676
+        width: 99.97325
+        height: 102.9465
+      alignment: 9
+      pivot: {x: 0.66991156, y: 0.7088462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -27.01339, y: -53.500015}
+        - {x: -59.01339, y: 26.499985}
+        - {x: -29.013386, y: 61.49998}
+        - {x: 28.98661, y: 40.499985}
+        - {x: 49.98661, y: 5.4999847}
+        - {x: 49.98661, y: -48.500015}
+      physicsShape:
+      - - {x: 49.98661, y: -8.500013}
+        - {x: 49.98661, y: 6.4999857}
+        - {x: 36.98661, y: 23.499985}
+        - {x: 8.98661, y: 47.499985}
+        - {x: 3.9866104, y: 50.499985}
+        - {x: -40.01339, y: 50.499985}
+        - {x: -48.01339, y: 35.499985}
+        - {x: -49.01339, y: 23.499985}
+        - {x: -49.01339, y: -1.5000134}
+        - {x: -43.013386, y: -15.500015}
+        - {x: -33.01339, y: -32.50001}
+        - {x: -16.01339, y: -50.500015}
+        - {x: 26.98661, y: -50.500015}
+        - {x: 39.98661, y: -48.500015}
+        - {x: 43.98661, y: -45.500008}
+        - {x: 45.98661, y: -18.500011}
+      - - {x: -21.01339, y: 17.499985}
+        - {x: -21.01339, y: 21.499985}
+        - {x: -19.01339, y: 22.499985}
+        - {x: -17.01339, y: 22.499985}
+        - {x: -16.01339, y: 21.499985}
+        - {x: -13.013388, y: 21.499985}
+        - {x: -10.013388, y: 19.499985}
+        - {x: -2.0133896, y: 12.499985}
+        - {x: -2.0133896, y: 10.499985}
+        - {x: -16.01339, y: 10.499985}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86aa4f0512143338bf15b3fa05622a5
+      internalID: 21300036
+      vertices:
+      - {x: 61.986626, y: 70.47325}
+      - {x: 82.986626, y: 35.47325}
+      - {x: 82.986626, y: -18.526749}
+      - {x: 5.9866257, y: -23.526749}
+      - {x: -26.013374, y: 56.47325}
+      - {x: 3.9866295, y: 91.47325}
+      indices: 000000000300000004000000010000000200000003000000000000000100000003000000000000000400000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Petted0038
+      rect:
+        serializedVersion: 2
+        x: 239.02675
+        y: 116.02675
+        width: 104.89713
+        height: 97.89713
+      alignment: 9
+      pivot: {x: 0.4096704, y: 0.74540746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -31.475315, y: 44.02468}
+        - {x: 18.524685, y: 55.024685}
+        - {x: 64.52469, y: 9.024686}
+        - {x: 20.524683, y: -45.975315}
+        - {x: -45.475315, y: -49.975315}
+        - {x: -57.475315, y: -1.9753151}
+      physicsShape:
+      - - {x: 30.524681, y: -32.975315}
+        - {x: 42.524685, y: -11.975315}
+        - {x: 49.52468, y: -5.975313}
+        - {x: 51.524685, y: 1.0246868}
+        - {x: 51.524685, y: 18.024685}
+        - {x: 35.524685, y: 39.024685}
+        - {x: 23.524685, y: 48.024685}
+        - {x: -13.475315, y: 48.024685}
+        - {x: -27.475315, y: 42.024685}
+        - {x: -35.475315, y: 33.024685}
+        - {x: -52.47531, y: 5.024685}
+        - {x: -52.47531, y: -25.975315}
+        - {x: -45.475315, y: -44.975315}
+        - {x: -39.47531, y: -47.975315}
+        - {x: -21.475315, y: -47.975315}
+        - {x: -11.475315, y: -44.975315}
+        - {x: -1.4753151, y: -46.975315}
+        - {x: 18.524685, y: -46.975315}
+      - - {x: -15.475315, y: 14.024686}
+        - {x: -15.475315, y: 17.024685}
+        - {x: -10.475315, y: 21.024685}
+        - {x: -6.475315, y: 21.024685}
+        - {x: -5.475315, y: 20.024685}
+        - {x: -1.4753151, y: 19.024685}
+        - {x: 0.52468395, y: 16.024685}
+        - {x: 2.524685, y: 14.024686}
+        - {x: 1.5246849, y: 11.024685}
+        - {x: 0.52468395, y: 10.024685}
+        - {x: -13.475315, y: 10.024685}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74819613a2874b258d8e52b34c17d23c
+      internalID: 21300038
+      vertices:
+      - {x: 126.44856, y: 33.948566}
+      - {x: 82.44856, y: -21.051434}
+      - {x: 16.448566, y: -25.051434}
+      - {x: 4.4485664, y: 22.948566}
+      - {x: 30.448566, y: 68.94856}
+      - {x: 80.44856, y: 79.94856}
+      indices: 010000000400000005000000010000000300000004000000010000000200000003000000000000000100000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Petted0017
+      rect:
+        serializedVersion: 2
+        x: 366.02676
+        y: 168.02675
+        width: 103.89713
+        height: 93.89713
+      alignment: 9
+      pivot: {x: 0.6157363, y: 0.77716166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -56.97533, y: 19.024685}
+        - {x: -39.97533, y: 44.024685}
+        - {x: -2.9753294, y: 51.024685}
+        - {x: 42.024666, y: 30.024685}
+        - {x: 56.02467, y: -6.975315}
+        - {x: 37.02467, y: -43.975315}
+        - {x: -34.97533, y: -49.975315}
+      physicsShape:
+      - - {x: 43.02467, y: -30.975315}
+        - {x: 51.02467, y: -6.975315}
+        - {x: 51.02467, y: 8.024685}
+        - {x: 46.02467, y: 17.024685}
+        - {x: 30.02467, y: 32.024685}
+        - {x: 15.02467, y: 43.024685}
+        - {x: 5.0246696, y: 47.024685}
+        - {x: -30.975327, y: 47.024685}
+        - {x: -46.975327, y: 37.024685}
+        - {x: -50.97533, y: 20.024685}
+        - {x: -50.97533, y: -3.9753132}
+        - {x: -47.975327, y: -12.975315}
+        - {x: -35.97533, y: -32.97531}
+        - {x: -21.97533, y: -45.975315}
+        - {x: 30.02467, y: -45.975315}
+        - {x: 36.02467, y: -43.975315}
+        - {x: 40.02467, y: -37.975315}
+      - - {x: -18.97533, y: 14.024685}
+        - {x: -19.97533, y: 17.024685}
+        - {x: -20.97533, y: 18.024685}
+        - {x: -18.97533, y: 20.024685}
+        - {x: -11.97533, y: 20.024685}
+        - {x: -6.9753304, y: 17.024685}
+        - {x: -1.9753304, y: 12.024685}
+        - {x: -0.97533035, y: 10.024685}
+        - {x: -15.97533, y: 10.024685}
+        - {x: -15.97533, y: 11.024686}
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfe542d2b384cfa8fd50b954c09dbdc
+      internalID: 21300040
+      vertices:
+      - {x: 81.94856, y: 50.948566}
+      - {x: 95.94856, y: 13.948566}
+      - {x: 76.94856, y: -23.051434}
+      - {x: 4.9485664, y: -29.051434}
+      - {x: -17.051434, y: 39.948566}
+      - {x: -0.051433563, y: 64.94856}
+      - {x: 36.948566, y: 71.94856}
+      indices: 040000000500000006000000030000000400000006000000020000000300000006000000000000000100000002000000000000000200000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Petted0021
+      rect:
+        serializedVersion: 2
+        x: 111.07612
+        y: 116.02675
+        width: 110.86568
+        height: 99.89713
+      alignment: 9
+      pivot: {x: 0.34207055, y: 0.73048395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -24.508957, y: 41.024685}
+        - {x: 30.491043, y: 61.024685}
+        - {x: 65.49104, y: 4.024685}
+        - {x: 11.491043, y: -46.975315}
+        - {x: -56.508957, y: -51.975315}
+        - {x: -55.508957, y: 0.024686813}
+      physicsShape:
+      - - {x: 35.49104, y: -11.975315}
+        - {x: 43.491043, y: -11.975315}
+        - {x: 54.491043, y: 0.024686813}
+        - {x: 54.491043, y: 18.024685}
+        - {x: 53.491043, y: 23.024685}
+        - {x: 37.491043, y: 48.024685}
+        - {x: 29.491043, y: 49.024685}
+        - {x: -5.508957, y: 49.024685}
+        - {x: -13.508957, y: 46.02468}
+        - {x: -32.508957, y: 32.024685}
+        - {x: -50.508957, y: 6.024685}
+        - {x: -54.508957, y: -6.975313}
+        - {x: -54.508957, y: -33.975315}
+        - {x: -52.508957, y: -45.975315}
+        - {x: -48.508957, y: -48.975315}
+        - {x: -2.5089579, y: -48.975315}
+        - {x: 9.491041, y: -47.975315}
+        - {x: 18.491043, y: -40.975315}
+        - {x: 25.49104, y: -31.975315}
+      - - {x: -11.508957, y: 16.024685}
+        - {x: -8.508957, y: 19.024685}
+        - {x: -5.508957, y: 21.024685}
+        - {x: 1.4910431, y: 21.024685}
+        - {x: 5.491041, y: 16.024685}
+        - {x: 4.491043, y: 11.024685}
+        - {x: 3.491043, y: 11.024685}
+        - {x: 2.4910412, y: 10.024685}
+        - {x: -10.508957, y: 10.024685}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e022541424d49348c3b30efaf3efa4c
+      internalID: 21300042
+      vertices:
+      - {x: 138.43283, y: 30.948566}
+      - {x: 84.43284, y: -20.051434}
+      - {x: 16.432838, y: -25.051434}
+      - {x: 17.432838, y: 26.948568}
+      - {x: 48.43284, y: 67.94856}
+      - {x: 103.43284, y: 87.94856}
+      indices: 000000000400000005000000010000000300000004000000010000000200000003000000000000000100000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Petted0042
+      rect:
+        serializedVersion: 2
+        x: 241.07613
+        y: 337.0761
+        width: 108.84776
+        height: 106.89713
+      alignment: 9
+      pivot: {x: 0.32085064, y: 0.6821875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -15.500008, y: 50.475323}
+        - {x: 36.499992, y: 62.47532}
+        - {x: 63.499992, y: 5.4753227}
+        - {x: 7.4999905, y: -50.524677}
+        - {x: -53.500008, y: -54.524677}
+        - {x: -55.500008, y: -3.5246754}
+      physicsShape:
+      - - {x: 31.499992, y: -15.524677}
+        - {x: 45.499992, y: -9.524677}
+        - {x: 51.499992, y: 0.47532272}
+        - {x: 53.499985, y: 10.475323}
+        - {x: 53.499985, y: 22.475323}
+        - {x: 44.499992, y: 45.475323}
+        - {x: 34.49999, y: 53.475323}
+        - {x: 2.4999924, y: 53.475323}
+        - {x: -2.5000076, y: 52.475323}
+        - {x: -20.500008, y: 42.47532}
+        - {x: -31.500008, y: 26.475323}
+        - {x: -46.500008, y: 10.475323}
+        - {x: -53.500008, y: -15.524677}
+        - {x: -53.500008, y: -46.524677}
+        - {x: -48.500008, y: -52.524677}
+        - {x: -32.500008, y: -52.524677}
+        - {x: -24.500008, y: -51.524677}
+        - {x: 8.499992, y: -50.524677}
+        - {x: 25.499992, y: -31.524677}
+      - - {x: -8.500008, y: 14.475323}
+        - {x: -9.500009, y: 15.475323}
+        - {x: -8.500008, y: 16.475323}
+        - {x: -7.5000076, y: 20.475323}
+        - {x: -5.5000076, y: 21.475323}
+        - {x: -2.5000076, y: 23.475323}
+        - {x: 3.4999905, y: 23.475323}
+        - {x: 5.4999924, y: 20.475323}
+        - {x: 6.4999924, y: 19.475323}
+        - {x: 6.4999924, y: 16.475323}
+        - {x: 7.4999905, y: 15.475323}
+        - {x: 5.4999924, y: 12.475323}
+        - {x: 4.4999924, y: 11.475323}
+        - {x: -8.500008, y: 11.475323}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c474c52dc8ba4cd0af5fa63a65e9cd3b
+      internalID: 21300044
+      vertices:
+      - {x: 137.42389, y: 39.448566}
+      - {x: 81.42388, y: -16.551434}
+      - {x: 20.423882, y: -20.551434}
+      - {x: 18.423882, y: 30.448568}
+      - {x: 58.42388, y: 84.44856}
+      - {x: 110.42388, y: 96.44856}
+      indices: 000000000400000005000000010000000400000000000000010000000200000003000000010000000300000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Walk0003
+      rect:
+        serializedVersion: 2
+        x: 3.026751
+        y: 62
+        width: 98.97325
+        height: 103.92388
+      alignment: 9
+      pivot: {x: 0.454398, y: 0.34640738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -44.513374, y: 30.038055}
+        - {x: -12.513378, y: 54.03806}
+        - {x: 25.48662, y: 49.03806}
+        - {x: 49.486618, y: 25.03806}
+        - {x: 49.486618, y: -11.961941}
+        - {x: 16.486622, y: -51.96194}
+        - {x: -42.51338, y: -51.96194}
+        - {x: -51.51338, y: -21.96194}
+      physicsShape:
+      - - {x: 49.486618, y: -6.961941}
+        - {x: 49.486618, y: 14.038057}
+        - {x: 45.48662, y: 17.03806}
+        - {x: 40.48662, y: 33.038055}
+        - {x: 28.486622, y: 47.03806}
+        - {x: 23.486622, y: 50.03806}
+        - {x: 6.486622, y: 51.03805}
+        - {x: -17.513378, y: 51.03805}
+        - {x: -20.513378, y: 50.03806}
+        - {x: -37.51338, y: 29.03806}
+        - {x: -47.513374, y: 15.038059}
+        - {x: -49.51338, y: -0.9619417}
+        - {x: -49.51338, y: -32.96194}
+        - {x: -41.51338, y: -48.96194}
+        - {x: -11.513378, y: -51.96194}
+        - {x: 14.486622, y: -51.96194}
+        - {x: 27.486622, y: -38.961937}
+        - {x: 34.48662, y: -17.96194}
+        - {x: 42.48662, y: -18.96194}
+      - - {x: -10.513378, y: 12.038059}
+        - {x: -10.513378, y: 14.038057}
+        - {x: -11.513378, y: 21.03806}
+        - {x: -8.513378, y: 23.03806}
+        - {x: -2.5133781, y: 23.03806}
+        - {x: 0.48662138, y: 20.03806}
+        - {x: 4.486622, y: 13.038059}
+        - {x: 3.4866219, y: 12.038059}
+        - {x: 3.4866219, y: 11.038057}
+        - {x: -6.513378, y: 12.038059}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4625e46eb13b45b2b87523c05cb49264
+      internalID: 21300046
+      vertices:
+      - {x: 79.486626, y: 116.961945}
+      - {x: 103.48662, y: 92.961945}
+      - {x: 103.48662, y: 55.96194}
+      - {x: 70.486626, y: 15.961941}
+      - {x: 11.486626, y: 15.961941}
+      - {x: 2.4866257, y: 45.96194}
+      - {x: 9.4866295, y: 97.96194}
+      - {x: 41.486626, y: 121.961945}
+      indices: 020000000600000007000000020000000300000005000000030000000400000005000000020000000500000006000000000000000100000002000000000000000200000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Petted0046
+      rect:
+        serializedVersion: 2
+        x: 111.02675
+        y: 14.026751
+        width: 107.921936
+        height: 93.9465
+      alignment: 9
+      pivot: {x: 0.37039042, y: 0.77675325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 50.012283, y: -9}
+        - {x: 15.012283, y: -44}
+        - {x: -47.987717, y: -48}
+        - {x: -60.987717, y: -6}
+        - {x: -27.987717, y: 40}
+        - {x: 15.012283, y: 51}
+        - {x: 61.012283, y: 32}
+      physicsShape:
+      - - {x: 28.012283, y: -30}
+        - {x: 38.012283, y: -13}
+        - {x: 51.012283, y: -8}
+        - {x: 53.012276, y: -3}
+        - {x: 53.012276, y: 17}
+        - {x: 52.012283, y: 22}
+        - {x: 36.012283, y: 42}
+        - {x: 28.012283, y: 46}
+        - {x: -7.9877167, y: 46}
+        - {x: -23.987717, y: 39}
+        - {x: -35.987717, y: 26}
+        - {x: -36.987717, y: 19}
+        - {x: -50.987717, y: 8}
+        - {x: -52.987717, y: -2}
+        - {x: -52.987717, y: -27.999996}
+        - {x: -51.987717, y: -39}
+        - {x: -46.987717, y: -46}
+        - {x: -19.987717, y: -46}
+        - {x: -13.987717, y: -40}
+        - {x: -3.9877176, y: -46}
+        - {x: 14.012283, y: -44}
+      - - {x: -12.987717, y: 15}
+        - {x: -8.987717, y: 19}
+        - {x: 0.012283325, y: 19}
+        - {x: 3.0122833, y: 16}
+        - {x: 5.0122833, y: 12}
+        - {x: 4.0122833, y: 10}
+        - {x: -11.987717, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ed2d3d8cc54c21940bc8a0e2bcb261
+      internalID: 21300048
+      vertices:
+      - {x: 128.96097, y: 52.97325}
+      - {x: 117.96097, y: 11.973251}
+      - {x: 82.96097, y: -23.026749}
+      - {x: 19.960968, y: -27.026749}
+      - {x: 6.960968, y: 14.973251}
+      - {x: 39.960968, y: 60.97325}
+      - {x: 82.96097, y: 71.97325}
+      indices: 010000000200000005000000040000000200000003000000040000000500000002000000010000000500000006000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Sad0001
+      rect:
+        serializedVersion: 2
+        x: 368.0761
+        y: 105.07612
+        width: 94.89713
+        height: 49.872562
+      alignment: 9
+      pivot: {x: 0.47339565, y: 1.5023066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -20.524677, y: -25.012398}
+        - {x: -57.524677, y: -14.012398}
+        - {x: -8.524677, y: 32.987602}
+        - {x: 58.475323, y: -7.012398}
+        - {x: 26.475323, y: -23.01239}
+      physicsShape:
+      - - {x: 9.475323, y: 22.987604}
+        - {x: 4.4753227, y: 23.987602}
+        - {x: -8.524677, y: 23.987602}
+        - {x: -36.524677, y: 4.987602}
+        - {x: -47.524677, y: -6.012398}
+        - {x: -47.524677, y: -14.012398}
+        - {x: -43.524677, y: -17.01239}
+        - {x: -26.524677, y: -24.012398}
+        - {x: 28.475323, y: -24.012398}
+        - {x: 43.47532, y: -19.012398}
+        - {x: 46.47532, y: -12.012398}
+        - {x: 46.47532, y: 1.9876022}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e151c179ba694c2c991de33c3c6010bb
+      internalID: 21300050
+      vertices:
+      - {x: 108.44856, y: -32.06372}
+      - {x: 76.44856, y: -48.063713}
+      - {x: 29.448566, y: -50.06372}
+      - {x: -7.5514336, y: -39.06372}
+      - {x: 41.448566, y: 7.936281}
+      indices: 020000000300000004000000010000000200000004000000000000000100000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Petted0020
+      rect:
+        serializedVersion: 2
+        x: 239.02675
+        y: 116.02675
+        width: 104.89713
+        height: 97.89713
+      alignment: 9
+      pivot: {x: 0.4096704, y: 0.74540746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -31.475315, y: 44.02468}
+        - {x: 18.524685, y: 55.024685}
+        - {x: 64.52469, y: 9.024686}
+        - {x: 20.524683, y: -45.975315}
+        - {x: -45.475315, y: -49.975315}
+        - {x: -57.475315, y: -1.9753151}
+      physicsShape:
+      - - {x: 30.524681, y: -32.975315}
+        - {x: 42.524685, y: -11.975315}
+        - {x: 49.52468, y: -5.975313}
+        - {x: 51.524685, y: 1.0246868}
+        - {x: 51.524685, y: 18.024685}
+        - {x: 35.524685, y: 39.024685}
+        - {x: 23.524685, y: 48.024685}
+        - {x: -13.475315, y: 48.024685}
+        - {x: -27.475315, y: 42.024685}
+        - {x: -35.475315, y: 33.024685}
+        - {x: -52.47531, y: 5.024685}
+        - {x: -52.47531, y: -25.975315}
+        - {x: -45.475315, y: -44.975315}
+        - {x: -39.47531, y: -47.975315}
+        - {x: -21.475315, y: -47.975315}
+        - {x: -11.475315, y: -44.975315}
+        - {x: -1.4753151, y: -46.975315}
+        - {x: 18.524685, y: -46.975315}
+      - - {x: -15.475315, y: 14.024686}
+        - {x: -15.475315, y: 17.024685}
+        - {x: -10.475315, y: 21.024685}
+        - {x: -6.475315, y: 21.024685}
+        - {x: -5.475315, y: 20.024685}
+        - {x: -1.4753151, y: 19.024685}
+        - {x: 0.52468395, y: 16.024685}
+        - {x: 2.524685, y: 14.024686}
+        - {x: 1.5246849, y: 11.024685}
+        - {x: 0.52468395, y: 10.024685}
+        - {x: -13.475315, y: 10.024685}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2050439b3216452297aa51ab72344a34
+      internalID: 21300052
+      vertices:
+      - {x: 126.44856, y: 33.948566}
+      - {x: 82.44856, y: -21.051434}
+      - {x: 16.448566, y: -25.051434}
+      - {x: 4.4485664, y: 22.948566}
+      - {x: 30.448566, y: 68.94856}
+      - {x: 80.44856, y: 79.94856}
+      indices: 010000000400000005000000010000000300000004000000010000000200000003000000000000000100000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Sad0005
+      rect:
+        serializedVersion: 2
+        x: 368.0761
+        y: 105.07612
+        width: 94.89713
+        height: 49.872562
+      alignment: 9
+      pivot: {x: 0.47339565, y: 1.5023066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -20.524677, y: -25.012398}
+        - {x: -57.524677, y: -14.012398}
+        - {x: -8.524677, y: 32.987602}
+        - {x: 58.475323, y: -7.012398}
+        - {x: 26.475323, y: -23.01239}
+      physicsShape:
+      - - {x: 9.475323, y: 22.987604}
+        - {x: 4.4753227, y: 23.987602}
+        - {x: -8.524677, y: 23.987602}
+        - {x: -36.524677, y: 4.987602}
+        - {x: -47.524677, y: -6.012398}
+        - {x: -47.524677, y: -14.012398}
+        - {x: -43.524677, y: -17.01239}
+        - {x: -26.524677, y: -24.012398}
+        - {x: 28.475323, y: -24.012398}
+        - {x: 43.47532, y: -19.012398}
+        - {x: 46.47532, y: -12.012398}
+        - {x: 46.47532, y: 1.9876022}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18444d0278eb415d9af2bacd4b9bb87a
+      internalID: 21300054
+      vertices:
+      - {x: 108.44856, y: -32.06372}
+      - {x: 76.44856, y: -48.063713}
+      - {x: 29.448566, y: -50.06372}
+      - {x: -7.5514336, y: -39.06372}
+      - {x: 41.448566, y: 7.936281}
+      indices: 020000000300000004000000010000000200000004000000000000000100000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Petted0016
+      rect:
+        serializedVersion: 2
+        x: 373.02676
+        y: 500.02676
+        width: 99.97325
+        height: 102.9465
+      alignment: 9
+      pivot: {x: 0.66991156, y: 0.7088462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -27.01339, y: -53.500015}
+        - {x: -59.01339, y: 26.499985}
+        - {x: -29.013386, y: 61.49998}
+        - {x: 28.98661, y: 40.499985}
+        - {x: 49.98661, y: 5.4999847}
+        - {x: 49.98661, y: -48.500015}
+      physicsShape:
+      - - {x: 49.98661, y: -8.500013}
+        - {x: 49.98661, y: 6.4999857}
+        - {x: 36.98661, y: 23.499985}
+        - {x: 8.98661, y: 47.499985}
+        - {x: 3.9866104, y: 50.499985}
+        - {x: -40.01339, y: 50.499985}
+        - {x: -48.01339, y: 35.499985}
+        - {x: -49.01339, y: 23.499985}
+        - {x: -49.01339, y: -1.5000134}
+        - {x: -43.013386, y: -15.500015}
+        - {x: -33.01339, y: -32.50001}
+        - {x: -16.01339, y: -50.500015}
+        - {x: 26.98661, y: -50.500015}
+        - {x: 39.98661, y: -48.500015}
+        - {x: 43.98661, y: -45.500008}
+        - {x: 45.98661, y: -18.500011}
+      - - {x: -21.01339, y: 17.499985}
+        - {x: -21.01339, y: 21.499985}
+        - {x: -19.01339, y: 22.499985}
+        - {x: -17.01339, y: 22.499985}
+        - {x: -16.01339, y: 21.499985}
+        - {x: -13.013388, y: 21.499985}
+        - {x: -10.013388, y: 19.499985}
+        - {x: -2.0133896, y: 12.499985}
+        - {x: -2.0133896, y: 10.499985}
+        - {x: -16.01339, y: 10.499985}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfe546ee2434d80813d4a66947d6a97
+      internalID: 21300056
+      vertices:
+      - {x: 61.986626, y: 70.47325}
+      - {x: 82.986626, y: 35.47325}
+      - {x: 82.986626, y: -18.526749}
+      - {x: 5.9866257, y: -23.526749}
+      - {x: -26.013374, y: 56.47325}
+      - {x: 3.9866295, y: 91.47325}
+      indices: 000000000300000004000000010000000200000003000000000000000100000003000000000000000400000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Petted0002
+      rect:
+        serializedVersion: 2
+        x: 239.02675
+        y: 116.02675
+        width: 104.89713
+        height: 97.89713
+      alignment: 9
+      pivot: {x: 0.4096704, y: 0.74540746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -31.475315, y: 44.02468}
+        - {x: 18.524685, y: 55.024685}
+        - {x: 64.52469, y: 9.024686}
+        - {x: 20.524683, y: -45.975315}
+        - {x: -45.475315, y: -49.975315}
+        - {x: -57.475315, y: -1.9753151}
+      physicsShape:
+      - - {x: 30.524681, y: -32.975315}
+        - {x: 42.524685, y: -11.975315}
+        - {x: 49.52468, y: -5.975313}
+        - {x: 51.524685, y: 1.0246868}
+        - {x: 51.524685, y: 18.024685}
+        - {x: 35.524685, y: 39.024685}
+        - {x: 23.524685, y: 48.024685}
+        - {x: -13.475315, y: 48.024685}
+        - {x: -27.475315, y: 42.024685}
+        - {x: -35.475315, y: 33.024685}
+        - {x: -52.47531, y: 5.024685}
+        - {x: -52.47531, y: -25.975315}
+        - {x: -45.475315, y: -44.975315}
+        - {x: -39.47531, y: -47.975315}
+        - {x: -21.475315, y: -47.975315}
+        - {x: -11.475315, y: -44.975315}
+        - {x: -1.4753151, y: -46.975315}
+        - {x: 18.524685, y: -46.975315}
+      - - {x: -15.475315, y: 14.024686}
+        - {x: -15.475315, y: 17.024685}
+        - {x: -10.475315, y: 21.024685}
+        - {x: -6.475315, y: 21.024685}
+        - {x: -5.475315, y: 20.024685}
+        - {x: -1.4753151, y: 19.024685}
+        - {x: 0.52468395, y: 16.024685}
+        - {x: 2.524685, y: 14.024686}
+        - {x: 1.5246849, y: 11.024685}
+        - {x: 0.52468395, y: 10.024685}
+        - {x: -13.475315, y: 10.024685}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80452cbe4b8402db7cee56bb40bd3aa
+      internalID: 21300058
+      vertices:
+      - {x: 126.44856, y: 33.948566}
+      - {x: 82.44856, y: -21.051434}
+      - {x: 16.448566, y: -25.051434}
+      - {x: 4.4485664, y: 22.948566}
+      - {x: 30.448566, y: 68.94856}
+      - {x: 80.44856, y: 79.94856}
+      indices: 010000000400000005000000010000000300000004000000010000000200000003000000000000000100000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Petted0029
+      rect:
+        serializedVersion: 2
+        x: 247.05132
+        y: 456.02676
+        width: 105.89231
+        height: 101.89713
+      alignment: 9
+      pivot: {x: 0.6227901, y: 0.7161461}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -52.99747, y: -8.97533}
+        - {x: -52.99747, y: 44.02467}
+        - {x: -5.997471, y: 57.02467}
+        - {x: 61.00253, y: 12.024671}
+        - {x: 41.00253, y: -47.97533}
+        - {x: -22.99747, y: -51.97533}
+      physicsShape:
+      - - {x: 42.00253, y: -43.97533}
+        - {x: 47.00253, y: -33.97533}
+        - {x: 52.00253, y: -6.9753304}
+        - {x: 52.00253, y: 3.0246696}
+        - {x: 47.00253, y: 15.02467}
+        - {x: 39.00253, y: 23.02467}
+        - {x: 11.002529, y: 46.02467}
+        - {x: 1.0025291, y: 50.02467}
+        - {x: -30.99747, y: 50.02467}
+        - {x: -40.997467, y: 47.02467}
+        - {x: -48.99747, y: 41.02467}
+        - {x: -51.99747, y: 24.02467}
+        - {x: -52.99747, y: 19.02467}
+        - {x: -52.99747, y: -2.9753304}
+        - {x: -37.99747, y: -32.97533}
+        - {x: -22.99747, y: -48.97533}
+        - {x: -17.99747, y: -49.97533}
+        - {x: 3.00253, y: -49.97533}
+        - {x: 10.002529, y: -44.975323}
+        - {x: 19.00253, y: -47.97533}
+        - {x: 38.00253, y: -47.97533}
+      - - {x: -20.99747, y: 15.02467}
+        - {x: -22.99747, y: 20.02467}
+        - {x: -15.997471, y: 21.02467}
+        - {x: -14.997471, y: 21.02467}
+        - {x: -9.997469, y: 19.02467}
+        - {x: -1.9974699, y: 11.02467}
+        - {x: -5.997471, y: 11.02467}
+        - {x: -6.997469, y: 10.02467}
+        - {x: -16.997469, y: 11.02467}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5859b744354185bcecd65c1825936f
+      internalID: 21300060
+      vertices:
+      - {x: 100.94615, y: 40.948566}
+      - {x: 80.94615, y: -19.051434}
+      - {x: 16.946156, y: -23.051434}
+      - {x: -13.053844, y: 19.948566}
+      - {x: -13.053844, y: 72.94856}
+      - {x: 33.946156, y: 85.94856}
+      indices: 030000000400000005000000000000000300000005000000000000000100000002000000000000000200000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Sad0004
+      rect:
+        serializedVersion: 2
+        x: 368.0761
+        y: 105.07612
+        width: 94.89713
+        height: 49.872562
+      alignment: 9
+      pivot: {x: 0.47339565, y: 1.5023066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -20.524677, y: -25.012398}
+        - {x: -57.524677, y: -14.012398}
+        - {x: -8.524677, y: 32.987602}
+        - {x: 58.475323, y: -7.012398}
+        - {x: 26.475323, y: -23.01239}
+      physicsShape:
+      - - {x: 9.475323, y: 22.987604}
+        - {x: 4.4753227, y: 23.987602}
+        - {x: -8.524677, y: 23.987602}
+        - {x: -36.524677, y: 4.987602}
+        - {x: -47.524677, y: -6.012398}
+        - {x: -47.524677, y: -14.012398}
+        - {x: -43.524677, y: -17.01239}
+        - {x: -26.524677, y: -24.012398}
+        - {x: 28.475323, y: -24.012398}
+        - {x: 43.47532, y: -19.012398}
+        - {x: 46.47532, y: -12.012398}
+        - {x: 46.47532, y: 1.9876022}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b062582db644b198ba4d0d6be48f1e
+      internalID: 21300062
+      vertices:
+      - {x: 108.44856, y: -32.06372}
+      - {x: 76.44856, y: -48.063713}
+      - {x: 29.448566, y: -50.06372}
+      - {x: -7.5514336, y: -39.06372}
+      - {x: 41.448566, y: 7.936281}
+      indices: 020000000300000004000000010000000200000004000000000000000100000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Petted0028
+      rect:
+        serializedVersion: 2
+        x: 2.026751
+        y: 170.02675
+        width: 103.89713
+        height: 97.9465
+      alignment: 9
+      pivot: {x: 0.47136283, y: 0.7450317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -52.97532, y: 14.000001}
+        - {x: -31.975319, y: 45}
+        - {x: 10.024681, y: 54}
+        - {x: 47.02468, y: 29}
+        - {x: 54.02468, y: -2}
+        - {x: 25.024681, y: -48.999992}
+        - {x: -48.975315, y: -48.999992}
+      physicsShape:
+      - - {x: 38.02468, y: -14}
+        - {x: 47.02468, y: -11}
+        - {x: 51.024677, y: -7}
+        - {x: 51.024677, y: 12}
+        - {x: 49.02468, y: 22}
+        - {x: 38.02468, y: 24}
+        - {x: 33.02468, y: 38}
+        - {x: 19.024681, y: 48}
+        - {x: -18.975319, y: 48}
+        - {x: -31.975319, y: 42}
+        - {x: -37.97532, y: 36}
+        - {x: -42.975315, y: 24}
+        - {x: -50.97532, y: 9.000001}
+        - {x: -50.97532, y: -24}
+        - {x: -35.97532, y: -48}
+        - {x: -10.975319, y: -48}
+        - {x: -5.975319, y: -45}
+        - {x: 24.02468, y: -48}
+        - {x: 37.024677, y: -31}
+      - - {x: -16.975319, y: 14.000001}
+        - {x: -16.975319, y: 18}
+        - {x: -9.975319, y: 20}
+        - {x: -8.975319, y: 20}
+        - {x: -4.975319, y: 19}
+        - {x: 1.0246811, y: 11}
+        - {x: -13.975319, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759bb8a19d624710a813e82ca4c4f77d
+      internalID: 21300064
+      vertices:
+      - {x: 101.94856, y: 53.97325}
+      - {x: 108.94856, y: 22.973251}
+      - {x: 79.94856, y: -24.026741}
+      - {x: 5.9485703, y: -24.026741}
+      - {x: 1.9485664, y: 38.97325}
+      - {x: 22.948566, y: 69.97325}
+      - {x: 64.94856, y: 78.97325}
+      indices: 040000000500000006000000010000000200000004000000020000000300000004000000010000000400000006000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Petted0001
+      rect:
+        serializedVersion: 2
+        x: 239.02675
+        y: 116.02675
+        width: 104.89713
+        height: 97.89713
+      alignment: 9
+      pivot: {x: 0.4096704, y: 0.74540746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -31.475315, y: 44.02468}
+        - {x: 18.524685, y: 55.024685}
+        - {x: 64.52469, y: 9.024686}
+        - {x: 20.524683, y: -45.975315}
+        - {x: -45.475315, y: -49.975315}
+        - {x: -57.475315, y: -1.9753151}
+      physicsShape:
+      - - {x: 30.524681, y: -32.975315}
+        - {x: 42.524685, y: -11.975315}
+        - {x: 49.52468, y: -5.975313}
+        - {x: 51.524685, y: 1.0246868}
+        - {x: 51.524685, y: 18.024685}
+        - {x: 35.524685, y: 39.024685}
+        - {x: 23.524685, y: 48.024685}
+        - {x: -13.475315, y: 48.024685}
+        - {x: -27.475315, y: 42.024685}
+        - {x: -35.475315, y: 33.024685}
+        - {x: -52.47531, y: 5.024685}
+        - {x: -52.47531, y: -25.975315}
+        - {x: -45.475315, y: -44.975315}
+        - {x: -39.47531, y: -47.975315}
+        - {x: -21.475315, y: -47.975315}
+        - {x: -11.475315, y: -44.975315}
+        - {x: -1.4753151, y: -46.975315}
+        - {x: 18.524685, y: -46.975315}
+      - - {x: -15.475315, y: 14.024686}
+        - {x: -15.475315, y: 17.024685}
+        - {x: -10.475315, y: 21.024685}
+        - {x: -6.475315, y: 21.024685}
+        - {x: -5.475315, y: 20.024685}
+        - {x: -1.4753151, y: 19.024685}
+        - {x: 0.52468395, y: 16.024685}
+        - {x: 2.524685, y: 14.024686}
+        - {x: 1.5246849, y: 11.024685}
+        - {x: 0.52468395, y: 10.024685}
+        - {x: -13.475315, y: 10.024685}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7baee7ce84904ae9852d3f07d1e5723c
+      internalID: 21300066
+      vertices:
+      - {x: 126.44856, y: 33.948566}
+      - {x: 82.44856, y: -21.051434}
+      - {x: 16.448566, y: -25.051434}
+      - {x: 4.4485664, y: 22.948566}
+      - {x: 30.448566, y: 68.94856}
+      - {x: 80.44856, y: 79.94856}
+      indices: 010000000400000005000000010000000300000004000000010000000200000003000000000000000100000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Scared0004
+      rect:
+        serializedVersion: 2
+        x: 130.04291
+        y: 566.0761
+        width: 103.93034
+        height: 176.84775
+      alignment: 9
+      pivot: {x: 0.7597116, y: 0.41235408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -52.00808, y: 26.500015}
+        - {x: -44.00808, y: 87.500015}
+        - {x: -32.008076, y: 88.500015}
+        - {x: 62.99192, y: -28.499985}
+        - {x: 43.99192, y: -85.499985}
+        - {x: -5.0080795, y: -89.499985}
+        - {x: -40.00807, y: -30.499985}
+      physicsShape:
+      - - {x: 44.99192, y: -81.499985}
+        - {x: 48.99192, y: -68.499985}
+        - {x: 44.99192, y: -42.499985}
+        - {x: 50.99192, y: -40.499985}
+        - {x: 50.99192, y: -22.499985}
+        - {x: 43.99192, y: -3.4999847}
+        - {x: 33.99192, y: 2.5000153}
+        - {x: 23.99192, y: 21.500015}
+        - {x: 6.9919224, y: 34.500015}
+        - {x: -3.0080776, y: 36.500015}
+        - {x: -7.0080795, y: 48.500015}
+        - {x: -13.008076, y: 57.500008}
+        - {x: -20.00808, y: 53.500015}
+        - {x: -39.00808, y: 65.500015}
+        - {x: -44.00808, y: 65.500015}
+        - {x: -48.00808, y: 63.500015}
+        - {x: -47.00808, y: 59.500015}
+        - {x: -37.00808, y: 27.500011}
+        - {x: -46.00807, y: 31.500015}
+        - {x: -51.00808, y: 30.500011}
+        - {x: -51.00808, y: 20.500015}
+        - {x: -42.00808, y: -4.4999847}
+        - {x: -38.00808, y: -21.499985}
+        - {x: -43.00808, y: -26.499985}
+        - {x: -35.00808, y: -40.499985}
+        - {x: -27.008076, y: -42.499985}
+        - {x: -24.00808, y: -54.499985}
+        - {x: -8.00808, y: -81.499985}
+        - {x: -3.0080776, y: -87.499985}
+        - {x: 14.99192, y: -87.499985}
+        - {x: 17.99192, y: -82.49998}
+        - {x: 27.99192, y: -85.499985}
+        - {x: 40.99192, y: -85.499985}
+      - - {x: -38.00808, y: 88.500015}
+        - {x: -38.00808, y: 73.500015}
+        - {x: -28.00808, y: 55.500015}
+        - {x: -22.008076, y: 55.500015}
+        - {x: -22.008076, y: 67.500015}
+        - {x: -33.008076, y: 88.500015}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e5af4f82394f42af05349bf263a543
+      internalID: 21300068
+      vertices:
+      - {x: 87.96517, y: 75.423874}
+      - {x: 68.96517, y: 18.423874}
+      - {x: 19.965172, y: 14.423874}
+      - {x: -15.034821, y: 73.423874}
+      - {x: -27.034828, y: 130.42387}
+      - {x: -19.034828, y: 191.42387}
+      - {x: -7.0348244, y: 192.42387}
+      indices: 040000000500000006000000000000000400000006000000000000000100000002000000000000000200000003000000000000000300000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Walk0007
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 2
+        width: 110.97325
+        height: 89.95709
+      alignment: 9
+      pivot: {x: 0.42352548, y: 0.8003816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23.513374, y: -44.978546}
+        - {x: -55.486626, y: -44.978546}
+        - {x: -55.486626, y: 25.021454}
+        - {x: -6.4866257, y: 56.021454}
+        - {x: 30.513374, y: 40.021454}
+        - {x: 65.513374, y: 5.021454}
+      physicsShape:
+      - - {x: 36.513374, y: -27.978546}
+        - {x: 41.513374, y: -11.978546}
+        - {x: 49.513374, y: -10.978546}
+        - {x: 54.513374, y: -4.978546}
+        - {x: 54.513374, y: 19.021454}
+        - {x: 38.513374, y: 35.021454}
+        - {x: 23.513374, y: 44.021454}
+        - {x: -20.486626, y: 44.021454}
+        - {x: -29.486626, y: 41.021454}
+        - {x: -42.486626, y: 29.021454}
+        - {x: -55.486626, y: 7.021456}
+        - {x: -55.486626, y: -25.978542}
+        - {x: -43.486626, y: -44.978546}
+        - {x: -15.486626, y: -44.978546}
+        - {x: -10.486626, y: -39.97854}
+        - {x: 2.5133743, y: -44.978546}
+        - {x: 23.513374, y: -42.978546}
+      - - {x: -18.486626, y: 13.021454}
+        - {x: -18.486626, y: 16.021454}
+        - {x: -16.486626, y: 18.021454}
+        - {x: -14.486626, y: 18.021454}
+        - {x: -13.486626, y: 19.021454}
+        - {x: -9.486626, y: 19.021454}
+        - {x: -8.486626, y: 18.021454}
+        - {x: -5.4866257, y: 18.021454}
+        - {x: -2.4866257, y: 16.021454}
+        - {x: 1.5133734, y: 12.021455}
+        - {x: 1.5133734, y: 10.021454}
+        - {x: -3.4866261, y: 10.021454}
+        - {x: -4.4866257, y: 9.021454}
+        - {x: -15.486626, y: 9.021454}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448dec0e63a542489bb0a07857dc61e9
+      internalID: 21300070
+      vertices:
+      - {x: 94.486626, y: 57.978546}
+      - {x: 129.48663, y: 22.978546}
+      - {x: 87.486626, y: -27.021454}
+      - {x: 8.486626, y: -27.021454}
+      - {x: 8.486626, y: 42.978546}
+      - {x: 57.486626, y: 73.978546}
+      indices: 000000000200000004000000020000000300000004000000000000000100000002000000000000000400000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Petted0019
+      rect:
+        serializedVersion: 2
+        x: 239.02675
+        y: 116.02675
+        width: 104.89713
+        height: 97.89713
+      alignment: 9
+      pivot: {x: 0.4096704, y: 0.74540746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -31.475315, y: 44.02468}
+        - {x: 18.524685, y: 55.024685}
+        - {x: 64.52469, y: 9.024686}
+        - {x: 20.524683, y: -45.975315}
+        - {x: -45.475315, y: -49.975315}
+        - {x: -57.475315, y: -1.9753151}
+      physicsShape:
+      - - {x: 30.524681, y: -32.975315}
+        - {x: 42.524685, y: -11.975315}
+        - {x: 49.52468, y: -5.975313}
+        - {x: 51.524685, y: 1.0246868}
+        - {x: 51.524685, y: 18.024685}
+        - {x: 35.524685, y: 39.024685}
+        - {x: 23.524685, y: 48.024685}
+        - {x: -13.475315, y: 48.024685}
+        - {x: -27.475315, y: 42.024685}
+        - {x: -35.475315, y: 33.024685}
+        - {x: -52.47531, y: 5.024685}
+        - {x: -52.47531, y: -25.975315}
+        - {x: -45.475315, y: -44.975315}
+        - {x: -39.47531, y: -47.975315}
+        - {x: -21.475315, y: -47.975315}
+        - {x: -11.475315, y: -44.975315}
+        - {x: -1.4753151, y: -46.975315}
+        - {x: 18.524685, y: -46.975315}
+      - - {x: -15.475315, y: 14.024686}
+        - {x: -15.475315, y: 17.024685}
+        - {x: -10.475315, y: 21.024685}
+        - {x: -6.475315, y: 21.024685}
+        - {x: -5.475315, y: 20.024685}
+        - {x: -1.4753151, y: 19.024685}
+        - {x: 0.52468395, y: 16.024685}
+        - {x: 2.524685, y: 14.024686}
+        - {x: 1.5246849, y: 11.024685}
+        - {x: 0.52468395, y: 10.024685}
+        - {x: -13.475315, y: 10.024685}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a791036f930240c98c4f763e90f277fa
+      internalID: 21300072
+      vertices:
+      - {x: 126.44856, y: 33.948566}
+      - {x: 82.44856, y: -21.051434}
+      - {x: 16.448566, y: -25.051434}
+      - {x: 4.4485664, y: 22.948566}
+      - {x: 30.448566, y: 68.94856}
+      - {x: 80.44856, y: 79.94856}
+      indices: 010000000400000005000000010000000300000004000000010000000200000003000000000000000100000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Petted0039
+      rect:
+        serializedVersion: 2
+        x: 111.07612
+        y: 116.02675
+        width: 110.86568
+        height: 99.89713
+      alignment: 9
+      pivot: {x: 0.34207055, y: 0.73048395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -24.508957, y: 41.024685}
+        - {x: 30.491043, y: 61.024685}
+        - {x: 65.49104, y: 4.024685}
+        - {x: 11.491043, y: -46.975315}
+        - {x: -56.508957, y: -51.975315}
+        - {x: -55.508957, y: 0.024686813}
+      physicsShape:
+      - - {x: 35.49104, y: -11.975315}
+        - {x: 43.491043, y: -11.975315}
+        - {x: 54.491043, y: 0.024686813}
+        - {x: 54.491043, y: 18.024685}
+        - {x: 53.491043, y: 23.024685}
+        - {x: 37.491043, y: 48.024685}
+        - {x: 29.491043, y: 49.024685}
+        - {x: -5.508957, y: 49.024685}
+        - {x: -13.508957, y: 46.02468}
+        - {x: -32.508957, y: 32.024685}
+        - {x: -50.508957, y: 6.024685}
+        - {x: -54.508957, y: -6.975313}
+        - {x: -54.508957, y: -33.975315}
+        - {x: -52.508957, y: -45.975315}
+        - {x: -48.508957, y: -48.975315}
+        - {x: -2.5089579, y: -48.975315}
+        - {x: 9.491041, y: -47.975315}
+        - {x: 18.491043, y: -40.975315}
+        - {x: 25.49104, y: -31.975315}
+      - - {x: -11.508957, y: 16.024685}
+        - {x: -8.508957, y: 19.024685}
+        - {x: -5.508957, y: 21.024685}
+        - {x: 1.4910431, y: 21.024685}
+        - {x: 5.491041, y: 16.024685}
+        - {x: 4.491043, y: 11.024685}
+        - {x: 3.491043, y: 11.024685}
+        - {x: 2.4910412, y: 10.024685}
+        - {x: -10.508957, y: 10.024685}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11916ac286b41d6a5dd84c94ed11eb2
+      internalID: 21300074
+      vertices:
+      - {x: 138.43283, y: 30.948566}
+      - {x: 84.43284, y: -20.051434}
+      - {x: 16.432838, y: -25.051434}
+      - {x: 17.432838, y: 26.948568}
+      - {x: 48.43284, y: 67.94856}
+      - {x: 103.43284, y: 87.94856}
+      indices: 000000000400000005000000010000000300000004000000010000000200000003000000000000000100000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Walk0005
+      rect:
+        serializedVersion: 2
+        x: 247.02675
+        y: 224.02675
+        width: 107.96034
+        height: 104.89713
+      alignment: 9
+      pivot: {x: 0.44435993, y: 0.49546874}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 47.993076, y: 40.524685}
+        - {x: 57.99308, y: -20.475313}
+        - {x: -3.0069199, y: -54.47531}
+        - {x: -61.00692, y: -26.475315}
+        - {x: -42.00692, y: 26.524683}
+        - {x: 0.99308014, y: 57.524685}
+      physicsShape:
+      - - {x: 52.993076, y: -7.475315}
+        - {x: 52.993076, y: 6.524685}
+        - {x: 49.99308, y: 27.524685}
+        - {x: 40.99308, y: 39.52468}
+        - {x: 18.99308, y: 52.52468}
+        - {x: -6.00692, y: 52.52468}
+        - {x: -13.00692, y: 47.524685}
+        - {x: -38.00692, y: 27.524685}
+        - {x: -47.00692, y: 11.524685}
+        - {x: -52.006916, y: -2.475315}
+        - {x: -53.00692, y: -18.475315}
+        - {x: -53.00692, y: -33.475315}
+        - {x: -26.006918, y: -39.475315}
+        - {x: -21.00692, y: -43.47531}
+        - {x: -10.00692, y: -51.475315}
+        - {x: 5.99308, y: -51.475315}
+        - {x: 26.99308, y: -29.475315}
+        - {x: 40.99308, y: -29.475315}
+        - {x: 49.99308, y: -21.475315}
+      - - {x: -3.0069199, y: 15.524685}
+        - {x: -2.0069199, y: 16.524685}
+        - {x: -2.0069199, y: 21.524685}
+        - {x: 0.99308014, y: 24.524685}
+        - {x: 4.99308, y: 25.524685}
+        - {x: 7.99308, y: 23.524685}
+        - {x: 10.99308, y: 20.524685}
+        - {x: 11.99308, y: 12.524685}
+        - {x: 10.99308, y: 11.524685}
+        - {x: 10.99308, y: 10.524685}
+        - {x: 8.993079, y: 9.524684}
+        - {x: 8.993079, y: 10.524685}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f919b904f04fbbbf6095290eba9659
+      internalID: 21300076
+      vertices:
+      - {x: 107.98016, y: 93.44856}
+      - {x: 117.98017, y: 32.44857}
+      - {x: 56.98017, y: -1.5514297}
+      - {x: -1.0198288, y: 26.448566}
+      - {x: 17.980171, y: 79.44856}
+      - {x: 60.98017, y: 110.44856}
+      indices: 000000000100000004000000020000000300000004000000010000000200000004000000000000000400000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Scared0001
+      rect:
+        serializedVersion: 2
+        x: 250.07613
+        y: 566
+        width: 106.84776
+        height: 177
+      alignment: 9
+      pivot: {x: 0.77609366, y: 0.40677965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -48.500008, y: -12.5}
+        - {x: -56.5, y: 88.49999}
+        - {x: -41.500008, y: 88.49999}
+        - {x: 44.499992, y: 2.5}
+        - {x: 58.499992, y: -49.5}
+        - {x: 45.499992, y: -88.5}
+        - {x: -2.5000076, y: -88.5}
+      physicsShape:
+      - - {x: 50.499992, y: -43.5}
+        - {x: 52.499992, y: -37.5}
+        - {x: 52.499992, y: -22.5}
+        - {x: 48.499992, y: -12.5}
+        - {x: 40.499992, y: -1.500001}
+        - {x: 26.499992, y: 16.5}
+        - {x: 14.499993, y: 32.499996}
+        - {x: -14.500008, y: 53.5}
+        - {x: -15.500008, y: 59.5}
+        - {x: -23.500004, y: 72.5}
+        - {x: -29.500004, y: 69.49999}
+        - {x: -28.500008, y: 64.5}
+        - {x: -25.500008, y: 54.5}
+        - {x: -37.5, y: 81.49999}
+        - {x: -42.500008, y: 88.49999}
+        - {x: -46.500008, y: 88.49999}
+        - {x: -49.500008, y: 87.5}
+        - {x: -48.500008, y: 74.5}
+        - {x: -47.500008, y: 57.5}
+        - {x: -52.500008, y: 55.5}
+        - {x: -52.500008, y: 39.5}
+        - {x: -48.500008, y: 5.5}
+        - {x: -49.500008, y: -9.5}
+        - {x: -39.500008, y: -26.5}
+        - {x: -27.500008, y: -38.5}
+        - {x: -20.500008, y: -59.499996}
+        - {x: -5.5000076, y: -84.5}
+        - {x: -0.5000057, y: -88.5}
+        - {x: 17.499992, y: -88.5}
+        - {x: 44.499992, y: -86.5}
+        - {x: 47.499992, y: -82.5}
+        - {x: 49.499992, y: -69.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966a0f32e12f4f24b2f6dc19f6b79e60
+      internalID: 21300078
+      vertices:
+      - {x: 68.42388, y: 107.5}
+      - {x: 82.42388, y: 55.5}
+      - {x: 69.42388, y: 16.5}
+      - {x: 21.423882, y: 16.5}
+      - {x: -24.576118, y: 92.5}
+      - {x: -32.57611, y: 193.5}
+      - {x: -17.576118, y: 193.5}
+      indices: 040000000500000006000000010000000200000003000000000000000100000003000000000000000300000004000000000000000400000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Petted0003
+      rect:
+        serializedVersion: 2
+        x: 111.07612
+        y: 116.02675
+        width: 110.86568
+        height: 99.89713
+      alignment: 9
+      pivot: {x: 0.34207055, y: 0.73048395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -24.508957, y: 41.024685}
+        - {x: 30.491043, y: 61.024685}
+        - {x: 65.49104, y: 4.024685}
+        - {x: 11.491043, y: -46.975315}
+        - {x: -56.508957, y: -51.975315}
+        - {x: -55.508957, y: 0.024686813}
+      physicsShape:
+      - - {x: 35.49104, y: -11.975315}
+        - {x: 43.491043, y: -11.975315}
+        - {x: 54.491043, y: 0.024686813}
+        - {x: 54.491043, y: 18.024685}
+        - {x: 53.491043, y: 23.024685}
+        - {x: 37.491043, y: 48.024685}
+        - {x: 29.491043, y: 49.024685}
+        - {x: -5.508957, y: 49.024685}
+        - {x: -13.508957, y: 46.02468}
+        - {x: -32.508957, y: 32.024685}
+        - {x: -50.508957, y: 6.024685}
+        - {x: -54.508957, y: -6.975313}
+        - {x: -54.508957, y: -33.975315}
+        - {x: -52.508957, y: -45.975315}
+        - {x: -48.508957, y: -48.975315}
+        - {x: -2.5089579, y: -48.975315}
+        - {x: 9.491041, y: -47.975315}
+        - {x: 18.491043, y: -40.975315}
+        - {x: 25.49104, y: -31.975315}
+      - - {x: -11.508957, y: 16.024685}
+        - {x: -8.508957, y: 19.024685}
+        - {x: -5.508957, y: 21.024685}
+        - {x: 1.4910431, y: 21.024685}
+        - {x: 5.491041, y: 16.024685}
+        - {x: 4.491043, y: 11.024685}
+        - {x: 3.491043, y: 11.024685}
+        - {x: 2.4910412, y: 10.024685}
+        - {x: -10.508957, y: 10.024685}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed094343f77c4f698cff827ccde62636
+      internalID: 21300080
+      vertices:
+      - {x: 138.43283, y: 30.948566}
+      - {x: 84.43284, y: -20.051434}
+      - {x: 16.432838, y: -25.051434}
+      - {x: 17.432838, y: 26.948568}
+      - {x: 48.43284, y: 67.94856}
+      - {x: 103.43284, y: 87.94856}
+      indices: 000000000400000005000000010000000300000004000000010000000200000003000000000000000100000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Petted0006
+      rect:
+        serializedVersion: 2
+        x: 120.07612
+        y: 336.0761
+        width: 108.84776
+        height: 106.89713
+      alignment: 9
+      pivot: {x: 0.3208507, y: 0.6821875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 42.5, y: 49.47532}
+        - {x: 63.5, y: 5.4753227}
+        - {x: 7.499998, y: -50.524677}
+        - {x: -53.5, y: -54.524677}
+        - {x: -55.5, y: -3.5246754}
+        - {x: -21.5, y: 40.475323}
+        - {x: 11.5, y: 64.47533}
+      physicsShape:
+      - - {x: 8.5, y: -49.524677}
+        - {x: 24.5, y: -31.524677}
+        - {x: 39.499996, y: -11.524677}
+        - {x: 45.5, y: -9.524677}
+        - {x: 51.5, y: 0.47532272}
+        - {x: 53.499992, y: 10.475323}
+        - {x: 53.499992, y: 22.475323}
+        - {x: 48.5, y: 41.475323}
+        - {x: 36.5, y: 53.475323}
+        - {x: -5.5, y: 53.475323}
+        - {x: -29.5, y: 33.475323}
+        - {x: -45.5, y: 6.4753227}
+        - {x: -53.5, y: -12.524677}
+        - {x: -53.5, y: -46.524677}
+        - {x: -48.5, y: -52.524677}
+        - {x: -25.5, y: -52.524677}
+        - {x: -18.5, y: -49.524677}
+        - {x: 5.5, y: -52.524677}
+      - - {x: -8.5, y: 14.475323}
+        - {x: -9.500001, y: 15.475323}
+        - {x: -8.5, y: 16.475323}
+        - {x: -7.5, y: 20.475323}
+        - {x: -5.5, y: 21.475323}
+        - {x: -2.5, y: 23.475323}
+        - {x: 3.499998, y: 23.475323}
+        - {x: 5.5, y: 20.475323}
+        - {x: 7.499998, y: 15.475323}
+        - {x: 5.5, y: 12.475323}
+        - {x: 4.5, y: 11.475323}
+        - {x: -8.5, y: 11.475323}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e066bd71eb254797876ab656b0f225fb
+      internalID: 21300082
+      vertices:
+      - {x: 116.42388, y: 83.44856}
+      - {x: 137.42389, y: 39.448566}
+      - {x: 81.42388, y: -16.551434}
+      - {x: 20.423882, y: -20.551434}
+      - {x: 18.423882, y: 30.448568}
+      - {x: 52.42388, y: 74.44856}
+      - {x: 85.42388, y: 98.44856}
+      indices: 000000000100000005000000040000000200000003000000040000000500000002000000010000000200000005000000000000000500000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Petted0035
+      rect:
+        serializedVersion: 2
+        x: 366.02676
+        y: 168.02675
+        width: 103.89713
+        height: 93.89713
+      alignment: 9
+      pivot: {x: 0.6157363, y: 0.77716166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -56.97533, y: 19.024685}
+        - {x: -39.97533, y: 44.024685}
+        - {x: -2.9753294, y: 51.024685}
+        - {x: 42.024666, y: 30.024685}
+        - {x: 56.02467, y: -6.975315}
+        - {x: 37.02467, y: -43.975315}
+        - {x: -34.97533, y: -49.975315}
+      physicsShape:
+      - - {x: 43.02467, y: -30.975315}
+        - {x: 51.02467, y: -6.975315}
+        - {x: 51.02467, y: 8.024685}
+        - {x: 46.02467, y: 17.024685}
+        - {x: 30.02467, y: 32.024685}
+        - {x: 15.02467, y: 43.024685}
+        - {x: 5.0246696, y: 47.024685}
+        - {x: -30.975327, y: 47.024685}
+        - {x: -46.975327, y: 37.024685}
+        - {x: -50.97533, y: 20.024685}
+        - {x: -50.97533, y: -3.9753132}
+        - {x: -47.975327, y: -12.975315}
+        - {x: -35.97533, y: -32.97531}
+        - {x: -21.97533, y: -45.975315}
+        - {x: 30.02467, y: -45.975315}
+        - {x: 36.02467, y: -43.975315}
+        - {x: 40.02467, y: -37.975315}
+      - - {x: -18.97533, y: 14.024685}
+        - {x: -19.97533, y: 17.024685}
+        - {x: -20.97533, y: 18.024685}
+        - {x: -18.97533, y: 20.024685}
+        - {x: -11.97533, y: 20.024685}
+        - {x: -6.9753304, y: 17.024685}
+        - {x: -1.9753304, y: 12.024685}
+        - {x: -0.97533035, y: 10.024685}
+        - {x: -15.97533, y: 10.024685}
+        - {x: -15.97533, y: 11.024686}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f123d6dbd7354357933f0c4b2867bd18
+      internalID: 21300084
+      vertices:
+      - {x: 81.94856, y: 50.948566}
+      - {x: 95.94856, y: 13.948566}
+      - {x: 76.94856, y: -23.051434}
+      - {x: 4.9485664, y: -29.051434}
+      - {x: -17.051434, y: 39.948566}
+      - {x: -0.051433563, y: 64.94856}
+      - {x: 36.948566, y: 71.94856}
+      indices: 040000000500000006000000030000000400000006000000020000000300000006000000000000000100000002000000000000000200000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Walk0006
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 2
+        width: 110.97325
+        height: 89.95709
+      alignment: 9
+      pivot: {x: 0.42352548, y: 0.8003816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23.513374, y: -44.978546}
+        - {x: -55.486626, y: -44.978546}
+        - {x: -55.486626, y: 25.021454}
+        - {x: -6.4866257, y: 56.021454}
+        - {x: 30.513374, y: 40.021454}
+        - {x: 65.513374, y: 5.021454}
+      physicsShape:
+      - - {x: 36.513374, y: -27.978546}
+        - {x: 41.513374, y: -11.978546}
+        - {x: 49.513374, y: -10.978546}
+        - {x: 54.513374, y: -4.978546}
+        - {x: 54.513374, y: 19.021454}
+        - {x: 38.513374, y: 35.021454}
+        - {x: 23.513374, y: 44.021454}
+        - {x: -20.486626, y: 44.021454}
+        - {x: -29.486626, y: 41.021454}
+        - {x: -42.486626, y: 29.021454}
+        - {x: -55.486626, y: 7.021456}
+        - {x: -55.486626, y: -25.978542}
+        - {x: -43.486626, y: -44.978546}
+        - {x: -15.486626, y: -44.978546}
+        - {x: -10.486626, y: -39.97854}
+        - {x: 2.5133743, y: -44.978546}
+        - {x: 23.513374, y: -42.978546}
+      - - {x: -18.486626, y: 13.021454}
+        - {x: -18.486626, y: 16.021454}
+        - {x: -16.486626, y: 18.021454}
+        - {x: -14.486626, y: 18.021454}
+        - {x: -13.486626, y: 19.021454}
+        - {x: -9.486626, y: 19.021454}
+        - {x: -8.486626, y: 18.021454}
+        - {x: -5.4866257, y: 18.021454}
+        - {x: -2.4866257, y: 16.021454}
+        - {x: 1.5133734, y: 12.021455}
+        - {x: 1.5133734, y: 10.021454}
+        - {x: -3.4866261, y: 10.021454}
+        - {x: -4.4866257, y: 9.021454}
+        - {x: -15.486626, y: 9.021454}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c6c345985242b29700af9546a3078e
+      internalID: 21300086
+      vertices:
+      - {x: 94.486626, y: 57.978546}
+      - {x: 129.48663, y: 22.978546}
+      - {x: 87.486626, y: -27.021454}
+      - {x: 8.486626, y: -27.021454}
+      - {x: 8.486626, y: 42.978546}
+      - {x: 57.486626, y: 73.978546}
+      indices: 000000000200000004000000020000000300000004000000000000000100000002000000000000000400000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Walk0001
+      rect:
+        serializedVersion: 2
+        x: 372.02676
+        y: 622.02673
+        width: 94.97325
+        height: 112.89713
+      alignment: 9
+      pivot: {x: 0.5998872, y: 0.43378663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 47.48661, y: 42.5247}
+        - {x: 47.48661, y: -36.4753}
+        - {x: -31.51339, y: -63.4753}
+        - {x: -55.51339, y: 20.5247}
+        - {x: -11.51339, y: 64.524704}
+      physicsShape:
+      - - {x: 40.48661, y: -23.4753}
+        - {x: 47.48661, y: -0.47529984}
+        - {x: 47.48661, y: 22.524698}
+        - {x: 46.48661, y: 31.5247}
+        - {x: 17.48661, y: 52.524696}
+        - {x: 10.48661, y: 56.5247}
+        - {x: -3.5133896, y: 56.5247}
+        - {x: -22.51339, y: 51.524696}
+        - {x: -38.51339, y: 38.524696}
+        - {x: -42.51339, y: 29.5247}
+        - {x: -43.513386, y: 12.524698}
+        - {x: -46.51339, y: 5.5247}
+        - {x: -46.51339, y: -15.4753}
+        - {x: -43.513386, y: -25.4753}
+        - {x: -38.51339, y: -37.475296}
+        - {x: -21.51339, y: -55.4753}
+        - {x: -6.5133896, y: -55.4753}
+        - {x: 16.48661, y: -46.4753}
+        - {x: 32.48661, y: -41.4753}
+        - {x: 35.48661, y: -36.4753}
+      - - {x: -17.513388, y: 13.5247}
+        - {x: -18.51339, y: 17.5247}
+        - {x: -15.51339, y: 21.5247}
+        - {x: -14.51339, y: 22.524698}
+        - {x: -8.51339, y: 22.524698}
+        - {x: -4.5133896, y: 19.524698}
+        - {x: -3.5133896, y: 19.524698}
+        - {x: -1.5133896, y: 17.5247}
+        - {x: -1.5133896, y: 15.524698}
+        - {x: -0.51338863, y: 14.5247}
+        - {x: -1.5133896, y: 13.5247}
+        - {x: -3.5133896, y: 13.5247}
+        - {x: -4.5133896, y: 12.524698}
+        - {x: -6.5133896, y: 12.524698}
+        - {x: -7.5133896, y: 11.5247}
+        - {x: -9.51339, y: 11.5247}
+        - {x: -10.513388, y: 10.5247}
+        - {x: -14.51339, y: 9.5247}
+        - {x: -14.51339, y: 10.5247}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569bc1498a8342bd82d04ba1898791bc
+      internalID: 21300088
+      vertices:
+      - {x: 85.486626, y: 106.44856}
+      - {x: 85.486626, y: 27.448566}
+      - {x: 6.4866257, y: 0.44856644}
+      - {x: -17.513374, y: 84.44856}
+      - {x: 26.486626, y: 128.44856}
+      indices: 000000000100000003000000010000000200000003000000000000000300000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Petted0024
+      rect:
+        serializedVersion: 2
+        x: 241.07613
+        y: 337.0761
+        width: 108.84776
+        height: 106.89713
+      alignment: 9
+      pivot: {x: 0.32085064, y: 0.6821875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -15.500008, y: 50.475323}
+        - {x: 36.499992, y: 62.47532}
+        - {x: 63.499992, y: 5.4753227}
+        - {x: 7.4999905, y: -50.524677}
+        - {x: -53.500008, y: -54.524677}
+        - {x: -55.500008, y: -3.5246754}
+      physicsShape:
+      - - {x: 31.499992, y: -15.524677}
+        - {x: 45.499992, y: -9.524677}
+        - {x: 51.499992, y: 0.47532272}
+        - {x: 53.499985, y: 10.475323}
+        - {x: 53.499985, y: 22.475323}
+        - {x: 44.499992, y: 45.475323}
+        - {x: 34.49999, y: 53.475323}
+        - {x: 2.4999924, y: 53.475323}
+        - {x: -2.5000076, y: 52.475323}
+        - {x: -20.500008, y: 42.47532}
+        - {x: -31.500008, y: 26.475323}
+        - {x: -46.500008, y: 10.475323}
+        - {x: -53.500008, y: -15.524677}
+        - {x: -53.500008, y: -46.524677}
+        - {x: -48.500008, y: -52.524677}
+        - {x: -32.500008, y: -52.524677}
+        - {x: -24.500008, y: -51.524677}
+        - {x: 8.499992, y: -50.524677}
+        - {x: 25.499992, y: -31.524677}
+      - - {x: -8.500008, y: 14.475323}
+        - {x: -9.500009, y: 15.475323}
+        - {x: -8.500008, y: 16.475323}
+        - {x: -7.5000076, y: 20.475323}
+        - {x: -5.5000076, y: 21.475323}
+        - {x: -2.5000076, y: 23.475323}
+        - {x: 3.4999905, y: 23.475323}
+        - {x: 5.4999924, y: 20.475323}
+        - {x: 6.4999924, y: 19.475323}
+        - {x: 6.4999924, y: 16.475323}
+        - {x: 7.4999905, y: 15.475323}
+        - {x: 5.4999924, y: 12.475323}
+        - {x: 4.4999924, y: 11.475323}
+        - {x: -8.500008, y: 11.475323}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce6c6d95ee44d9d941e51da2f78588d
+      internalID: 21300090
+      vertices:
+      - {x: 137.42389, y: 39.448566}
+      - {x: 81.42388, y: -16.551434}
+      - {x: 20.423882, y: -20.551434}
+      - {x: 18.423882, y: 30.448568}
+      - {x: 58.42388, y: 84.44856}
+      - {x: 110.42388, y: 96.44856}
+      indices: 000000000400000005000000010000000400000000000000010000000200000003000000010000000300000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Petted0048
+      rect:
+        serializedVersion: 2
+        x: 239.02675
+        y: 116.02675
+        width: 104.89713
+        height: 97.89713
+      alignment: 9
+      pivot: {x: 0.4096704, y: 0.74540746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -31.475315, y: 44.02468}
+        - {x: 18.524685, y: 55.024685}
+        - {x: 64.52469, y: 9.024686}
+        - {x: 20.524683, y: -45.975315}
+        - {x: -45.475315, y: -49.975315}
+        - {x: -57.475315, y: -1.9753151}
+      physicsShape:
+      - - {x: 30.524681, y: -32.975315}
+        - {x: 42.524685, y: -11.975315}
+        - {x: 49.52468, y: -5.975313}
+        - {x: 51.524685, y: 1.0246868}
+        - {x: 51.524685, y: 18.024685}
+        - {x: 35.524685, y: 39.024685}
+        - {x: 23.524685, y: 48.024685}
+        - {x: -13.475315, y: 48.024685}
+        - {x: -27.475315, y: 42.024685}
+        - {x: -35.475315, y: 33.024685}
+        - {x: -52.47531, y: 5.024685}
+        - {x: -52.47531, y: -25.975315}
+        - {x: -45.475315, y: -44.975315}
+        - {x: -39.47531, y: -47.975315}
+        - {x: -21.475315, y: -47.975315}
+        - {x: -11.475315, y: -44.975315}
+        - {x: -1.4753151, y: -46.975315}
+        - {x: 18.524685, y: -46.975315}
+      - - {x: -15.475315, y: 14.024686}
+        - {x: -15.475315, y: 17.024685}
+        - {x: -10.475315, y: 21.024685}
+        - {x: -6.475315, y: 21.024685}
+        - {x: -5.475315, y: 20.024685}
+        - {x: -1.4753151, y: 19.024685}
+        - {x: 0.52468395, y: 16.024685}
+        - {x: 2.524685, y: 14.024686}
+        - {x: 1.5246849, y: 11.024685}
+        - {x: 0.52468395, y: 10.024685}
+        - {x: -13.475315, y: 10.024685}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58260f650fc45938ee8fd27ba27e40e
+      internalID: 21300092
+      vertices:
+      - {x: 126.44856, y: 33.948566}
+      - {x: 82.44856, y: -21.051434}
+      - {x: 16.448566, y: -25.051434}
+      - {x: 4.4485664, y: 22.948566}
+      - {x: 30.448566, y: 68.94856}
+      - {x: 80.44856, y: 79.94856}
+      indices: 010000000400000005000000010000000300000004000000010000000200000003000000000000000100000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Sad0008
+      rect:
+        serializedVersion: 2
+        x: 368.0761
+        y: 105.07612
+        width: 94.89713
+        height: 49.872562
+      alignment: 9
+      pivot: {x: 0.47339565, y: 1.5023066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -20.524677, y: -25.012398}
+        - {x: -57.524677, y: -14.012398}
+        - {x: -8.524677, y: 32.987602}
+        - {x: 58.475323, y: -7.012398}
+        - {x: 26.475323, y: -23.01239}
+      physicsShape:
+      - - {x: 9.475323, y: 22.987604}
+        - {x: 4.4753227, y: 23.987602}
+        - {x: -8.524677, y: 23.987602}
+        - {x: -36.524677, y: 4.987602}
+        - {x: -47.524677, y: -6.012398}
+        - {x: -47.524677, y: -14.012398}
+        - {x: -43.524677, y: -17.01239}
+        - {x: -26.524677, y: -24.012398}
+        - {x: 28.475323, y: -24.012398}
+        - {x: 43.47532, y: -19.012398}
+        - {x: 46.47532, y: -12.012398}
+        - {x: 46.47532, y: 1.9876022}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c14c77da7e4410c948778723dbb23ec
+      internalID: 21300094
+      vertices:
+      - {x: 108.44856, y: -32.06372}
+      - {x: 76.44856, y: -48.063713}
+      - {x: 29.448566, y: -50.06372}
+      - {x: -7.5514336, y: -39.06372}
+      - {x: 41.448566, y: 7.936281}
+      indices: 020000000300000004000000010000000200000004000000000000000100000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Petted0026
+      rect:
+        serializedVersion: 2
+        x: 235.07613
+        y: 10.07612
+        width: 106.84776
+        height: 102.92388
+      alignment: 9
+      pivot: {x: 0.3362155, y: 0.70852244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -1.5000076, y: 51.461937}
+        - {x: 39.499992, y: 51.461937}
+        - {x: 63.499992, y: 2.4619408}
+        - {x: 10.499992, y: -48.53806}
+        - {x: -50.500008, y: -52.53806}
+        - {x: -54.500008, y: -16.53806}
+        - {x: -36.500008, y: 34.46194}
+      physicsShape:
+      - - {x: 39.499992, y: -12.538059}
+        - {x: 48.499992, y: -6.538059}
+        - {x: 52.499992, y: 7.461941}
+        - {x: 53.499992, y: 11.461942}
+        - {x: 53.499992, y: 22.46194}
+        - {x: 44.499992, y: 41.461937}
+        - {x: 34.499992, y: 51.461937}
+        - {x: -0.5000076, y: 51.461937}
+        - {x: -11.500008, y: 50.46194}
+        - {x: -27.500008, y: 34.46194}
+        - {x: -45.500008, y: 7.461941}
+        - {x: -52.500008, y: -15.538059}
+        - {x: -52.500008, y: -31.538055}
+        - {x: -50.500008, y: -44.53806}
+        - {x: -46.500008, y: -50.53806}
+        - {x: -7.5000086, y: -50.53806}
+        - {x: 8.499992, y: -48.53806}
+        - {x: 14.499992, y: -44.53806}
+        - {x: 26.499992, y: -30.53806}
+      - - {x: -8.500008, y: 17.46194}
+        - {x: -7.5000086, y: 18.46194}
+        - {x: -4.5000076, y: 22.46194}
+        - {x: 3.4999924, y: 22.46194}
+        - {x: 6.4999924, y: 17.46194}
+        - {x: 6.4999924, y: 12.461941}
+        - {x: 4.4999924, y: 11.461942}
+        - {x: -8.500008, y: 11.461942}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57691aab09e24647a649cfdb2e579cee
+      internalID: 21300096
+      vertices:
+      - {x: 134.42389, y: 32.46194}
+      - {x: 81.42388, y: -18.53806}
+      - {x: 20.423882, y: -22.53806}
+      - {x: 16.423882, y: 13.461941}
+      - {x: 34.42388, y: 64.461945}
+      - {x: 69.42388, y: 81.46194}
+      - {x: 110.42388, y: 81.46194}
+      indices: 000000000500000006000000040000000100000003000000040000000500000001000000010000000200000003000000000000000100000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Petted0034
+      rect:
+        serializedVersion: 2
+        x: 373.02676
+        y: 500.02676
+        width: 99.97325
+        height: 102.9465
+      alignment: 9
+      pivot: {x: 0.66991156, y: 0.7088462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -27.01339, y: -53.500015}
+        - {x: -59.01339, y: 26.499985}
+        - {x: -29.013386, y: 61.49998}
+        - {x: 28.98661, y: 40.499985}
+        - {x: 49.98661, y: 5.4999847}
+        - {x: 49.98661, y: -48.500015}
+      physicsShape:
+      - - {x: 49.98661, y: -8.500013}
+        - {x: 49.98661, y: 6.4999857}
+        - {x: 36.98661, y: 23.499985}
+        - {x: 8.98661, y: 47.499985}
+        - {x: 3.9866104, y: 50.499985}
+        - {x: -40.01339, y: 50.499985}
+        - {x: -48.01339, y: 35.499985}
+        - {x: -49.01339, y: 23.499985}
+        - {x: -49.01339, y: -1.5000134}
+        - {x: -43.013386, y: -15.500015}
+        - {x: -33.01339, y: -32.50001}
+        - {x: -16.01339, y: -50.500015}
+        - {x: 26.98661, y: -50.500015}
+        - {x: 39.98661, y: -48.500015}
+        - {x: 43.98661, y: -45.500008}
+        - {x: 45.98661, y: -18.500011}
+      - - {x: -21.01339, y: 17.499985}
+        - {x: -21.01339, y: 21.499985}
+        - {x: -19.01339, y: 22.499985}
+        - {x: -17.01339, y: 22.499985}
+        - {x: -16.01339, y: 21.499985}
+        - {x: -13.013388, y: 21.499985}
+        - {x: -10.013388, y: 19.499985}
+        - {x: -2.0133896, y: 12.499985}
+        - {x: -2.0133896, y: 10.499985}
+        - {x: -16.01339, y: 10.499985}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff7282dd91442508fe7ff3bcd215381
+      internalID: 21300098
+      vertices:
+      - {x: 61.986626, y: 70.47325}
+      - {x: 82.986626, y: 35.47325}
+      - {x: 82.986626, y: -18.526749}
+      - {x: 5.9866257, y: -23.526749}
+      - {x: -26.013374, y: 56.47325}
+      - {x: 3.9866295, y: 91.47325}
+      indices: 000000000300000004000000010000000200000003000000000000000100000003000000000000000400000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Scared0003
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 387.02676
+        width: 114.97325
+        height: 174.97325
+      alignment: 9
+      pivot: {x: 0.8349768, y: 0.41705367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 58.513374, y: -20.51339}
+        - {x: 55.513374, y: -86.51339}
+        - {x: 5.5133743, y: -87.51338}
+        - {x: -28.486618, y: -35.51339}
+        - {x: -35.486626, y: 67.48661}
+        - {x: 5.5133743, y: 56.48661}
+      - - {x: -57.486626, y: 60.48661}
+        - {x: -57.486626, y: 87.48661}
+        - {x: -41.486618, y: 87.48661}
+        - {x: -41.486618, y: 60.48661}
+      physicsShape:
+      - - {x: 56.513374, y: -82.51339}
+        - {x: 56.513374, y: -60.513386}
+        - {x: 52.513374, y: -45.51339}
+        - {x: 56.513374, y: -35.51339}
+        - {x: 56.513374, y: -24.51339}
+        - {x: 49.513374, y: -6.5133896}
+        - {x: 33.513374, y: 5.4866085}
+        - {x: 25.513374, y: 18.48661}
+        - {x: 11.513376, y: 32.48661}
+        - {x: 3.5133743, y: 34.486607}
+        - {x: -4.486622, y: 56.48661}
+        - {x: -9.486626, y: 60.48661}
+        - {x: -11.486626, y: 61.48661}
+        - {x: -14.486622, y: 54.48661}
+        - {x: -16.486626, y: 47.48661}
+        - {x: -24.486626, y: 63.48661}
+        - {x: -27.486626, y: 63.48661}
+        - {x: -30.486626, y: 62.48661}
+        - {x: -29.486626, y: 53.48661}
+        - {x: -32.486626, y: 47.48661}
+        - {x: -32.486626, y: 39.486607}
+        - {x: -29.486626, y: 26.48661}
+        - {x: -32.486626, y: 10.48661}
+        - {x: -32.486626, y: 8.4866085}
+        - {x: -29.486626, y: -21.51339}
+        - {x: -19.486626, y: -44.51339}
+        - {x: -15.486622, y: -53.51339}
+        - {x: 1.5133743, y: -80.51339}
+        - {x: 9.513374, y: -86.51339}
+        - {x: 26.513374, y: -86.51339}
+        - {x: 30.513374, y: -77.51339}
+        - {x: 36.513374, y: -84.51339}
+        - {x: 53.513374, y: -85.51339}
+      - - {x: -57.486626, y: 87.48661}
+        - {x: -57.486626, y: 74.48661}
+        - {x: -51.486626, y: 60.48661}
+        - {x: -41.486618, y: 60.48661}
+        - {x: -41.486618, y: 72.48661}
+        - {x: -51.486626, y: 87.48661}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054e0d44f1944c72a6864e671d3cefc5
+      internalID: 21300100
+      vertices:
+      - {x: 24.486626, y: 158.48663}
+      - {x: 77.486626, y: 81.486626}
+      - {x: 74.486626, y: 15.486626}
+      - {x: 24.486626, y: 14.486633}
+      - {x: -9.513367, y: 66.486626}
+      - {x: -16.513374, y: 169.48663}
+      - {x: -22.513367, y: 162.48663}
+      - {x: -38.513374, y: 162.48663}
+      - {x: -38.513374, y: 189.48663}
+      - {x: -22.513367, y: 189.48663}
+      indices: 010000000200000003000000010000000300000004000000000000000100000004000000000000000400000005000000070000000800000009000000060000000700000009000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Petted0040
+      rect:
+        serializedVersion: 2
+        x: 111.07612
+        y: 116.02675
+        width: 110.86568
+        height: 99.89713
+      alignment: 9
+      pivot: {x: 0.34207055, y: 0.73048395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -24.508957, y: 41.024685}
+        - {x: 30.491043, y: 61.024685}
+        - {x: 65.49104, y: 4.024685}
+        - {x: 11.491043, y: -46.975315}
+        - {x: -56.508957, y: -51.975315}
+        - {x: -55.508957, y: 0.024686813}
+      physicsShape:
+      - - {x: 35.49104, y: -11.975315}
+        - {x: 43.491043, y: -11.975315}
+        - {x: 54.491043, y: 0.024686813}
+        - {x: 54.491043, y: 18.024685}
+        - {x: 53.491043, y: 23.024685}
+        - {x: 37.491043, y: 48.024685}
+        - {x: 29.491043, y: 49.024685}
+        - {x: -5.508957, y: 49.024685}
+        - {x: -13.508957, y: 46.02468}
+        - {x: -32.508957, y: 32.024685}
+        - {x: -50.508957, y: 6.024685}
+        - {x: -54.508957, y: -6.975313}
+        - {x: -54.508957, y: -33.975315}
+        - {x: -52.508957, y: -45.975315}
+        - {x: -48.508957, y: -48.975315}
+        - {x: -2.5089579, y: -48.975315}
+        - {x: 9.491041, y: -47.975315}
+        - {x: 18.491043, y: -40.975315}
+        - {x: 25.49104, y: -31.975315}
+      - - {x: -11.508957, y: 16.024685}
+        - {x: -8.508957, y: 19.024685}
+        - {x: -5.508957, y: 21.024685}
+        - {x: 1.4910431, y: 21.024685}
+        - {x: 5.491041, y: 16.024685}
+        - {x: 4.491043, y: 11.024685}
+        - {x: 3.491043, y: 11.024685}
+        - {x: 2.4910412, y: 10.024685}
+        - {x: -10.508957, y: 10.024685}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5638ece85e74b8480b8ad9210f537a0
+      internalID: 21300102
+      vertices:
+      - {x: 138.43283, y: 30.948566}
+      - {x: 84.43284, y: -20.051434}
+      - {x: 16.432838, y: -25.051434}
+      - {x: 17.432838, y: 26.948568}
+      - {x: 48.43284, y: 67.94856}
+      - {x: 103.43284, y: 87.94856}
+      indices: 000000000400000005000000010000000300000004000000010000000200000003000000000000000100000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Petted0032
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 376.02676
+        width: 99.97325
+        height: 106.9465
+      alignment: 9
+      pivot: {x: 0.6901846, y: 0.682334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -49.986626, y: -10.500013}
+        - {x: -49.986626, y: 46.499985}
+        - {x: -12.986626, y: 66.499985}
+        - {x: 52.013374, y: 11.499985}
+        - {x: 44.013374, y: -53.500008}
+        - {x: -15.986626, y: -52.500015}
+      physicsShape:
+      - - {x: 42.013374, y: -13.500015}
+        - {x: 50.013374, y: -8.500015}
+        - {x: 50.013374, y: 3.4999847}
+        - {x: 38.013374, y: 24.499985}
+        - {x: 26.013374, y: 26.499985}
+        - {x: 19.013374, y: 37.499985}
+        - {x: 8.013374, y: 48.499985}
+        - {x: -2.9866257, y: 53.499985}
+        - {x: -36.986626, y: 53.499985}
+        - {x: -47.986618, y: 45.499985}
+        - {x: -49.986626, y: 41.499985}
+        - {x: -49.986626, y: 4.4999857}
+        - {x: -43.986626, y: -12.500015}
+        - {x: -37.986626, y: -25.500015}
+        - {x: -14.986626, y: -51.500015}
+        - {x: -11.986626, y: -52.500015}
+        - {x: 4.0133753, y: -52.500015}
+        - {x: 40.013374, y: -50.500015}
+        - {x: 44.013374, y: -45.500015}
+        - {x: 46.013374, y: -29.500011}
+      - - {x: -20.986622, y: 16.499985}
+        - {x: -22.986626, y: 19.499985}
+        - {x: -22.986626, y: 22.499985}
+        - {x: -21.986626, y: 23.499985}
+        - {x: -15.986626, y: 23.499985}
+        - {x: -12.986626, y: 21.499985}
+        - {x: -8.986626, y: 18.499985}
+        - {x: -7.986624, y: 18.499985}
+        - {x: -3.9866238, y: 14.499985}
+        - {x: -3.9866238, y: 12.499985}
+        - {x: -2.9866257, y: 11.499985}
+        - {x: -16.986626, y: 11.499985}
+        - {x: -16.986626, y: 12.499985}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050d2fc6f85e4bdb912a9568e5baaf6c
+      internalID: 21300104
+      vertices:
+      - {x: 82.986626, y: 45.47325}
+      - {x: 74.986626, y: -19.526741}
+      - {x: 14.986626, y: -18.526749}
+      - {x: -19.013374, y: 23.473253}
+      - {x: -19.013374, y: 80.47325}
+      - {x: 17.986626, y: 100.47325}
+      indices: 030000000400000005000000000000000300000005000000000000000100000002000000000000000200000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Petted0047
+      rect:
+        serializedVersion: 2
+        x: 239.02675
+        y: 116.02675
+        width: 104.89713
+        height: 97.89713
+      alignment: 9
+      pivot: {x: 0.4096704, y: 0.74540746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -31.475315, y: 44.02468}
+        - {x: 18.524685, y: 55.024685}
+        - {x: 64.52469, y: 9.024686}
+        - {x: 20.524683, y: -45.975315}
+        - {x: -45.475315, y: -49.975315}
+        - {x: -57.475315, y: -1.9753151}
+      physicsShape:
+      - - {x: 30.524681, y: -32.975315}
+        - {x: 42.524685, y: -11.975315}
+        - {x: 49.52468, y: -5.975313}
+        - {x: 51.524685, y: 1.0246868}
+        - {x: 51.524685, y: 18.024685}
+        - {x: 35.524685, y: 39.024685}
+        - {x: 23.524685, y: 48.024685}
+        - {x: -13.475315, y: 48.024685}
+        - {x: -27.475315, y: 42.024685}
+        - {x: -35.475315, y: 33.024685}
+        - {x: -52.47531, y: 5.024685}
+        - {x: -52.47531, y: -25.975315}
+        - {x: -45.475315, y: -44.975315}
+        - {x: -39.47531, y: -47.975315}
+        - {x: -21.475315, y: -47.975315}
+        - {x: -11.475315, y: -44.975315}
+        - {x: -1.4753151, y: -46.975315}
+        - {x: 18.524685, y: -46.975315}
+      - - {x: -15.475315, y: 14.024686}
+        - {x: -15.475315, y: 17.024685}
+        - {x: -10.475315, y: 21.024685}
+        - {x: -6.475315, y: 21.024685}
+        - {x: -5.475315, y: 20.024685}
+        - {x: -1.4753151, y: 19.024685}
+        - {x: 0.52468395, y: 16.024685}
+        - {x: 2.524685, y: 14.024686}
+        - {x: 1.5246849, y: 11.024685}
+        - {x: 0.52468395, y: 10.024685}
+        - {x: -13.475315, y: 10.024685}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40dd51da501741579c37158ee17e556f
+      internalID: 21300106
+      vertices:
+      - {x: 126.44856, y: 33.948566}
+      - {x: 82.44856, y: -21.051434}
+      - {x: 16.448566, y: -25.051434}
+      - {x: 4.4485664, y: 22.948566}
+      - {x: 30.448566, y: 68.94856}
+      - {x: 80.44856, y: 79.94856}
+      indices: 010000000400000005000000010000000300000004000000010000000200000003000000000000000100000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Petted0025
+      rect:
+        serializedVersion: 2
+        x: 235.07613
+        y: 10.07612
+        width: 106.84776
+        height: 102.92388
+      alignment: 9
+      pivot: {x: 0.3362155, y: 0.70852244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -1.5000076, y: 51.461937}
+        - {x: 39.499992, y: 51.461937}
+        - {x: 63.499992, y: 2.4619408}
+        - {x: 10.499992, y: -48.53806}
+        - {x: -50.500008, y: -52.53806}
+        - {x: -54.500008, y: -16.53806}
+        - {x: -36.500008, y: 34.46194}
+      physicsShape:
+      - - {x: 39.499992, y: -12.538059}
+        - {x: 48.499992, y: -6.538059}
+        - {x: 52.499992, y: 7.461941}
+        - {x: 53.499992, y: 11.461942}
+        - {x: 53.499992, y: 22.46194}
+        - {x: 44.499992, y: 41.461937}
+        - {x: 34.499992, y: 51.461937}
+        - {x: -0.5000076, y: 51.461937}
+        - {x: -11.500008, y: 50.46194}
+        - {x: -27.500008, y: 34.46194}
+        - {x: -45.500008, y: 7.461941}
+        - {x: -52.500008, y: -15.538059}
+        - {x: -52.500008, y: -31.538055}
+        - {x: -50.500008, y: -44.53806}
+        - {x: -46.500008, y: -50.53806}
+        - {x: -7.5000086, y: -50.53806}
+        - {x: 8.499992, y: -48.53806}
+        - {x: 14.499992, y: -44.53806}
+        - {x: 26.499992, y: -30.53806}
+      - - {x: -8.500008, y: 17.46194}
+        - {x: -7.5000086, y: 18.46194}
+        - {x: -4.5000076, y: 22.46194}
+        - {x: 3.4999924, y: 22.46194}
+        - {x: 6.4999924, y: 17.46194}
+        - {x: 6.4999924, y: 12.461941}
+        - {x: 4.4999924, y: 11.461942}
+        - {x: -8.500008, y: 11.461942}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9ea1cbbc1a4bb6aa648a4bb6fca638
+      internalID: 21300108
+      vertices:
+      - {x: 134.42389, y: 32.46194}
+      - {x: 81.42388, y: -18.53806}
+      - {x: 20.423882, y: -22.53806}
+      - {x: 16.423882, y: 13.461941}
+      - {x: 34.42388, y: 64.461945}
+      - {x: 69.42388, y: 81.46194}
+      - {x: 110.42388, y: 81.46194}
+      indices: 000000000500000006000000040000000100000003000000040000000500000001000000010000000200000003000000000000000100000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Petted0030
+      rect:
+        serializedVersion: 2
+        x: 247.05132
+        y: 456.02676
+        width: 105.89231
+        height: 101.89713
+      alignment: 9
+      pivot: {x: 0.6227901, y: 0.7161461}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -52.99747, y: -8.97533}
+        - {x: -52.99747, y: 44.02467}
+        - {x: -5.997471, y: 57.02467}
+        - {x: 61.00253, y: 12.024671}
+        - {x: 41.00253, y: -47.97533}
+        - {x: -22.99747, y: -51.97533}
+      physicsShape:
+      - - {x: 42.00253, y: -43.97533}
+        - {x: 47.00253, y: -33.97533}
+        - {x: 52.00253, y: -6.9753304}
+        - {x: 52.00253, y: 3.0246696}
+        - {x: 47.00253, y: 15.02467}
+        - {x: 39.00253, y: 23.02467}
+        - {x: 11.002529, y: 46.02467}
+        - {x: 1.0025291, y: 50.02467}
+        - {x: -30.99747, y: 50.02467}
+        - {x: -40.997467, y: 47.02467}
+        - {x: -48.99747, y: 41.02467}
+        - {x: -51.99747, y: 24.02467}
+        - {x: -52.99747, y: 19.02467}
+        - {x: -52.99747, y: -2.9753304}
+        - {x: -37.99747, y: -32.97533}
+        - {x: -22.99747, y: -48.97533}
+        - {x: -17.99747, y: -49.97533}
+        - {x: 3.00253, y: -49.97533}
+        - {x: 10.002529, y: -44.975323}
+        - {x: 19.00253, y: -47.97533}
+        - {x: 38.00253, y: -47.97533}
+      - - {x: -20.99747, y: 15.02467}
+        - {x: -22.99747, y: 20.02467}
+        - {x: -15.997471, y: 21.02467}
+        - {x: -14.997471, y: 21.02467}
+        - {x: -9.997469, y: 19.02467}
+        - {x: -1.9974699, y: 11.02467}
+        - {x: -5.997471, y: 11.02467}
+        - {x: -6.997469, y: 10.02467}
+        - {x: -16.997469, y: 11.02467}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e33e065d4f4e649254dbb4cf9dd905
+      internalID: 21300110
+      vertices:
+      - {x: 100.94615, y: 40.948566}
+      - {x: 80.94615, y: -19.051434}
+      - {x: 16.946156, y: -23.051434}
+      - {x: -13.053844, y: 19.948566}
+      - {x: -13.053844, y: 72.94856}
+      - {x: 33.946156, y: 85.94856}
+      indices: 030000000400000005000000000000000300000005000000000000000100000002000000000000000200000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Petted0004
+      rect:
+        serializedVersion: 2
+        x: 111.07612
+        y: 116.02675
+        width: 110.86568
+        height: 99.89713
+      alignment: 9
+      pivot: {x: 0.34207055, y: 0.73048395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -24.508957, y: 41.024685}
+        - {x: 30.491043, y: 61.024685}
+        - {x: 65.49104, y: 4.024685}
+        - {x: 11.491043, y: -46.975315}
+        - {x: -56.508957, y: -51.975315}
+        - {x: -55.508957, y: 0.024686813}
+      physicsShape:
+      - - {x: 35.49104, y: -11.975315}
+        - {x: 43.491043, y: -11.975315}
+        - {x: 54.491043, y: 0.024686813}
+        - {x: 54.491043, y: 18.024685}
+        - {x: 53.491043, y: 23.024685}
+        - {x: 37.491043, y: 48.024685}
+        - {x: 29.491043, y: 49.024685}
+        - {x: -5.508957, y: 49.024685}
+        - {x: -13.508957, y: 46.02468}
+        - {x: -32.508957, y: 32.024685}
+        - {x: -50.508957, y: 6.024685}
+        - {x: -54.508957, y: -6.975313}
+        - {x: -54.508957, y: -33.975315}
+        - {x: -52.508957, y: -45.975315}
+        - {x: -48.508957, y: -48.975315}
+        - {x: -2.5089579, y: -48.975315}
+        - {x: 9.491041, y: -47.975315}
+        - {x: 18.491043, y: -40.975315}
+        - {x: 25.49104, y: -31.975315}
+      - - {x: -11.508957, y: 16.024685}
+        - {x: -8.508957, y: 19.024685}
+        - {x: -5.508957, y: 21.024685}
+        - {x: 1.4910431, y: 21.024685}
+        - {x: 5.491041, y: 16.024685}
+        - {x: 4.491043, y: 11.024685}
+        - {x: 3.491043, y: 11.024685}
+        - {x: 2.4910412, y: 10.024685}
+        - {x: -10.508957, y: 10.024685}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3471ec43464f6fa48e7753988ba80c
+      internalID: 21300112
+      vertices:
+      - {x: 138.43283, y: 30.948566}
+      - {x: 84.43284, y: -20.051434}
+      - {x: 16.432838, y: -25.051434}
+      - {x: 17.432838, y: 26.948568}
+      - {x: 48.43284, y: 67.94856}
+      - {x: 103.43284, y: 87.94856}
+      indices: 000000000400000005000000010000000300000004000000010000000200000003000000000000000100000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Petted0011
+      rect:
+        serializedVersion: 2
+        x: 247.05132
+        y: 456.02676
+        width: 105.89231
+        height: 101.89713
+      alignment: 9
+      pivot: {x: 0.6227901, y: 0.7161461}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -52.99747, y: -8.97533}
+        - {x: -52.99747, y: 44.02467}
+        - {x: -5.997471, y: 57.02467}
+        - {x: 61.00253, y: 12.024671}
+        - {x: 41.00253, y: -47.97533}
+        - {x: -22.99747, y: -51.97533}
+      physicsShape:
+      - - {x: 42.00253, y: -43.97533}
+        - {x: 47.00253, y: -33.97533}
+        - {x: 52.00253, y: -6.9753304}
+        - {x: 52.00253, y: 3.0246696}
+        - {x: 47.00253, y: 15.02467}
+        - {x: 39.00253, y: 23.02467}
+        - {x: 11.002529, y: 46.02467}
+        - {x: 1.0025291, y: 50.02467}
+        - {x: -30.99747, y: 50.02467}
+        - {x: -40.997467, y: 47.02467}
+        - {x: -48.99747, y: 41.02467}
+        - {x: -51.99747, y: 24.02467}
+        - {x: -52.99747, y: 19.02467}
+        - {x: -52.99747, y: -2.9753304}
+        - {x: -37.99747, y: -32.97533}
+        - {x: -22.99747, y: -48.97533}
+        - {x: -17.99747, y: -49.97533}
+        - {x: 3.00253, y: -49.97533}
+        - {x: 10.002529, y: -44.975323}
+        - {x: 19.00253, y: -47.97533}
+        - {x: 38.00253, y: -47.97533}
+      - - {x: -20.99747, y: 15.02467}
+        - {x: -22.99747, y: 20.02467}
+        - {x: -15.997471, y: 21.02467}
+        - {x: -14.997471, y: 21.02467}
+        - {x: -9.997469, y: 19.02467}
+        - {x: -1.9974699, y: 11.02467}
+        - {x: -5.997471, y: 11.02467}
+        - {x: -6.997469, y: 10.02467}
+        - {x: -16.997469, y: 11.02467}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb695eb707548c5a0560ebb006de70c
+      internalID: 21300114
+      vertices:
+      - {x: 100.94615, y: 40.948566}
+      - {x: 80.94615, y: -19.051434}
+      - {x: 16.946156, y: -23.051434}
+      - {x: -13.053844, y: 19.948566}
+      - {x: -13.053844, y: 72.94856}
+      - {x: 33.946156, y: 85.94856}
+      indices: 030000000400000005000000000000000300000005000000000000000100000002000000000000000200000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Petted0043
+      rect:
+        serializedVersion: 2
+        x: 235.07613
+        y: 10.07612
+        width: 106.84776
+        height: 102.92388
+      alignment: 9
+      pivot: {x: 0.3362155, y: 0.70852244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -1.5000076, y: 51.461937}
+        - {x: 39.499992, y: 51.461937}
+        - {x: 63.499992, y: 2.4619408}
+        - {x: 10.499992, y: -48.53806}
+        - {x: -50.500008, y: -52.53806}
+        - {x: -54.500008, y: -16.53806}
+        - {x: -36.500008, y: 34.46194}
+      physicsShape:
+      - - {x: 39.499992, y: -12.538059}
+        - {x: 48.499992, y: -6.538059}
+        - {x: 52.499992, y: 7.461941}
+        - {x: 53.499992, y: 11.461942}
+        - {x: 53.499992, y: 22.46194}
+        - {x: 44.499992, y: 41.461937}
+        - {x: 34.499992, y: 51.461937}
+        - {x: -0.5000076, y: 51.461937}
+        - {x: -11.500008, y: 50.46194}
+        - {x: -27.500008, y: 34.46194}
+        - {x: -45.500008, y: 7.461941}
+        - {x: -52.500008, y: -15.538059}
+        - {x: -52.500008, y: -31.538055}
+        - {x: -50.500008, y: -44.53806}
+        - {x: -46.500008, y: -50.53806}
+        - {x: -7.5000086, y: -50.53806}
+        - {x: 8.499992, y: -48.53806}
+        - {x: 14.499992, y: -44.53806}
+        - {x: 26.499992, y: -30.53806}
+      - - {x: -8.500008, y: 17.46194}
+        - {x: -7.5000086, y: 18.46194}
+        - {x: -4.5000076, y: 22.46194}
+        - {x: 3.4999924, y: 22.46194}
+        - {x: 6.4999924, y: 17.46194}
+        - {x: 6.4999924, y: 12.461941}
+        - {x: 4.4999924, y: 11.461942}
+        - {x: -8.500008, y: 11.461942}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5d47ca866e41c59919b9c0044e02f8
+      internalID: 21300116
+      vertices:
+      - {x: 134.42389, y: 32.46194}
+      - {x: 81.42388, y: -18.53806}
+      - {x: 20.423882, y: -22.53806}
+      - {x: 16.423882, y: 13.461941}
+      - {x: 34.42388, y: 64.461945}
+      - {x: 69.42388, y: 81.46194}
+      - {x: 110.42388, y: 81.46194}
+      indices: 000000000500000006000000040000000100000003000000040000000500000001000000010000000200000003000000000000000100000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Petted0036
+      rect:
+        serializedVersion: 2
+        x: 366.02676
+        y: 168.02675
+        width: 103.89713
+        height: 93.89713
+      alignment: 9
+      pivot: {x: 0.6157363, y: 0.77716166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -56.97533, y: 19.024685}
+        - {x: -39.97533, y: 44.024685}
+        - {x: -2.9753294, y: 51.024685}
+        - {x: 42.024666, y: 30.024685}
+        - {x: 56.02467, y: -6.975315}
+        - {x: 37.02467, y: -43.975315}
+        - {x: -34.97533, y: -49.975315}
+      physicsShape:
+      - - {x: 43.02467, y: -30.975315}
+        - {x: 51.02467, y: -6.975315}
+        - {x: 51.02467, y: 8.024685}
+        - {x: 46.02467, y: 17.024685}
+        - {x: 30.02467, y: 32.024685}
+        - {x: 15.02467, y: 43.024685}
+        - {x: 5.0246696, y: 47.024685}
+        - {x: -30.975327, y: 47.024685}
+        - {x: -46.975327, y: 37.024685}
+        - {x: -50.97533, y: 20.024685}
+        - {x: -50.97533, y: -3.9753132}
+        - {x: -47.975327, y: -12.975315}
+        - {x: -35.97533, y: -32.97531}
+        - {x: -21.97533, y: -45.975315}
+        - {x: 30.02467, y: -45.975315}
+        - {x: 36.02467, y: -43.975315}
+        - {x: 40.02467, y: -37.975315}
+      - - {x: -18.97533, y: 14.024685}
+        - {x: -19.97533, y: 17.024685}
+        - {x: -20.97533, y: 18.024685}
+        - {x: -18.97533, y: 20.024685}
+        - {x: -11.97533, y: 20.024685}
+        - {x: -6.9753304, y: 17.024685}
+        - {x: -1.9753304, y: 12.024685}
+        - {x: -0.97533035, y: 10.024685}
+        - {x: -15.97533, y: 10.024685}
+        - {x: -15.97533, y: 11.024686}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99de4ede0c2645c397086e6c34b69e07
+      internalID: 21300118
+      vertices:
+      - {x: 81.94856, y: 50.948566}
+      - {x: 95.94856, y: 13.948566}
+      - {x: 76.94856, y: -23.051434}
+      - {x: 4.9485664, y: -29.051434}
+      - {x: -17.051434, y: 39.948566}
+      - {x: -0.051433563, y: 64.94856}
+      - {x: 36.948566, y: 71.94856}
+      indices: 040000000500000006000000030000000400000006000000020000000300000006000000000000000100000002000000000000000200000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Sad0003
+      rect:
+        serializedVersion: 2
+        x: 368.0761
+        y: 105.07612
+        width: 94.89713
+        height: 49.872562
+      alignment: 9
+      pivot: {x: 0.47339565, y: 1.5023066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -20.524677, y: -25.012398}
+        - {x: -57.524677, y: -14.012398}
+        - {x: -8.524677, y: 32.987602}
+        - {x: 58.475323, y: -7.012398}
+        - {x: 26.475323, y: -23.01239}
+      physicsShape:
+      - - {x: 9.475323, y: 22.987604}
+        - {x: 4.4753227, y: 23.987602}
+        - {x: -8.524677, y: 23.987602}
+        - {x: -36.524677, y: 4.987602}
+        - {x: -47.524677, y: -6.012398}
+        - {x: -47.524677, y: -14.012398}
+        - {x: -43.524677, y: -17.01239}
+        - {x: -26.524677, y: -24.012398}
+        - {x: 28.475323, y: -24.012398}
+        - {x: 43.47532, y: -19.012398}
+        - {x: 46.47532, y: -12.012398}
+        - {x: 46.47532, y: 1.9876022}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e21245cf0a4d9da6399fc722773ab7
+      internalID: 21300120
+      vertices:
+      - {x: 108.44856, y: -32.06372}
+      - {x: 76.44856, y: -48.063713}
+      - {x: 29.448566, y: -50.06372}
+      - {x: -7.5514336, y: -39.06372}
+      - {x: 41.448566, y: 7.936281}
+      indices: 020000000300000004000000010000000200000004000000000000000100000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Petted0009
+      rect:
+        serializedVersion: 2
+        x: 2.026751
+        y: 170.02675
+        width: 103.89713
+        height: 97.9465
+      alignment: 9
+      pivot: {x: 0.47136283, y: 0.7450317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -52.97532, y: 14.000001}
+        - {x: -31.975319, y: 45}
+        - {x: 10.024681, y: 54}
+        - {x: 47.02468, y: 29}
+        - {x: 54.02468, y: -2}
+        - {x: 25.024681, y: -48.999992}
+        - {x: -48.975315, y: -48.999992}
+      physicsShape:
+      - - {x: 38.02468, y: -14}
+        - {x: 47.02468, y: -11}
+        - {x: 51.024677, y: -7}
+        - {x: 51.024677, y: 12}
+        - {x: 49.02468, y: 22}
+        - {x: 38.02468, y: 24}
+        - {x: 33.02468, y: 38}
+        - {x: 19.024681, y: 48}
+        - {x: -18.975319, y: 48}
+        - {x: -31.975319, y: 42}
+        - {x: -37.97532, y: 36}
+        - {x: -42.975315, y: 24}
+        - {x: -50.97532, y: 9.000001}
+        - {x: -50.97532, y: -24}
+        - {x: -35.97532, y: -48}
+        - {x: -10.975319, y: -48}
+        - {x: -5.975319, y: -45}
+        - {x: 24.02468, y: -48}
+        - {x: 37.024677, y: -31}
+      - - {x: -16.975319, y: 14.000001}
+        - {x: -16.975319, y: 18}
+        - {x: -9.975319, y: 20}
+        - {x: -8.975319, y: 20}
+        - {x: -4.975319, y: 19}
+        - {x: 1.0246811, y: 11}
+        - {x: -13.975319, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9146fc3cbc41457ba3815759158f32b1
+      internalID: 21300122
+      vertices:
+      - {x: 101.94856, y: 53.97325}
+      - {x: 108.94856, y: 22.973251}
+      - {x: 79.94856, y: -24.026741}
+      - {x: 5.9485703, y: -24.026741}
+      - {x: 1.9485664, y: 38.97325}
+      - {x: 22.948566, y: 69.97325}
+      - {x: 64.94856, y: 78.97325}
+      indices: 040000000500000006000000010000000200000004000000020000000300000004000000010000000400000006000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Walk0004
+      rect:
+        serializedVersion: 2
+        x: 3.026751
+        y: 62
+        width: 98.97325
+        height: 103.92388
+      alignment: 9
+      pivot: {x: 0.454398, y: 0.34640738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -44.513374, y: 30.038055}
+        - {x: -12.513378, y: 54.03806}
+        - {x: 25.48662, y: 49.03806}
+        - {x: 49.486618, y: 25.03806}
+        - {x: 49.486618, y: -11.961941}
+        - {x: 16.486622, y: -51.96194}
+        - {x: -42.51338, y: -51.96194}
+        - {x: -51.51338, y: -21.96194}
+      physicsShape:
+      - - {x: 49.486618, y: -6.961941}
+        - {x: 49.486618, y: 14.038057}
+        - {x: 45.48662, y: 17.03806}
+        - {x: 40.48662, y: 33.038055}
+        - {x: 28.486622, y: 47.03806}
+        - {x: 23.486622, y: 50.03806}
+        - {x: 6.486622, y: 51.03805}
+        - {x: -17.513378, y: 51.03805}
+        - {x: -20.513378, y: 50.03806}
+        - {x: -37.51338, y: 29.03806}
+        - {x: -47.513374, y: 15.038059}
+        - {x: -49.51338, y: -0.9619417}
+        - {x: -49.51338, y: -32.96194}
+        - {x: -41.51338, y: -48.96194}
+        - {x: -11.513378, y: -51.96194}
+        - {x: 14.486622, y: -51.96194}
+        - {x: 27.486622, y: -38.961937}
+        - {x: 34.48662, y: -17.96194}
+        - {x: 42.48662, y: -18.96194}
+      - - {x: -10.513378, y: 12.038059}
+        - {x: -10.513378, y: 14.038057}
+        - {x: -11.513378, y: 21.03806}
+        - {x: -8.513378, y: 23.03806}
+        - {x: -2.5133781, y: 23.03806}
+        - {x: 0.48662138, y: 20.03806}
+        - {x: 4.486622, y: 13.038059}
+        - {x: 3.4866219, y: 12.038059}
+        - {x: 3.4866219, y: 11.038057}
+        - {x: -6.513378, y: 12.038059}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de0cbb37ecc4c1592e1e850107bdf71
+      internalID: 21300124
+      vertices:
+      - {x: 79.486626, y: 116.961945}
+      - {x: 103.48662, y: 92.961945}
+      - {x: 103.48662, y: 55.96194}
+      - {x: 70.486626, y: 15.961941}
+      - {x: 11.486626, y: 15.961941}
+      - {x: 2.4866257, y: 45.96194}
+      - {x: 9.4866295, y: 97.96194}
+      - {x: 41.486626, y: 121.961945}
+      indices: 020000000600000007000000020000000300000005000000030000000400000005000000020000000500000006000000000000000100000002000000000000000200000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Petted0015
+      rect:
+        serializedVersion: 2
+        x: 373.02676
+        y: 500.02676
+        width: 99.97325
+        height: 102.9465
+      alignment: 9
+      pivot: {x: 0.66991156, y: 0.7088462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -27.01339, y: -53.500015}
+        - {x: -59.01339, y: 26.499985}
+        - {x: -29.013386, y: 61.49998}
+        - {x: 28.98661, y: 40.499985}
+        - {x: 49.98661, y: 5.4999847}
+        - {x: 49.98661, y: -48.500015}
+      physicsShape:
+      - - {x: 49.98661, y: -8.500013}
+        - {x: 49.98661, y: 6.4999857}
+        - {x: 36.98661, y: 23.499985}
+        - {x: 8.98661, y: 47.499985}
+        - {x: 3.9866104, y: 50.499985}
+        - {x: -40.01339, y: 50.499985}
+        - {x: -48.01339, y: 35.499985}
+        - {x: -49.01339, y: 23.499985}
+        - {x: -49.01339, y: -1.5000134}
+        - {x: -43.013386, y: -15.500015}
+        - {x: -33.01339, y: -32.50001}
+        - {x: -16.01339, y: -50.500015}
+        - {x: 26.98661, y: -50.500015}
+        - {x: 39.98661, y: -48.500015}
+        - {x: 43.98661, y: -45.500008}
+        - {x: 45.98661, y: -18.500011}
+      - - {x: -21.01339, y: 17.499985}
+        - {x: -21.01339, y: 21.499985}
+        - {x: -19.01339, y: 22.499985}
+        - {x: -17.01339, y: 22.499985}
+        - {x: -16.01339, y: 21.499985}
+        - {x: -13.013388, y: 21.499985}
+        - {x: -10.013388, y: 19.499985}
+        - {x: -2.0133896, y: 12.499985}
+        - {x: -2.0133896, y: 10.499985}
+        - {x: -16.01339, y: 10.499985}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b7e8bccc1843f399280290b24dcead
+      internalID: 21300126
+      vertices:
+      - {x: 61.986626, y: 70.47325}
+      - {x: 82.986626, y: 35.47325}
+      - {x: 82.986626, y: -18.526749}
+      - {x: 5.9866257, y: -23.526749}
+      - {x: -26.013374, y: 56.47325}
+      - {x: 3.9866295, y: 91.47325}
+      indices: 000000000300000004000000010000000200000003000000000000000100000003000000000000000400000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Petted0014
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 376.02676
+        width: 99.97325
+        height: 106.9465
+      alignment: 9
+      pivot: {x: 0.6901846, y: 0.682334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -49.986626, y: -10.500013}
+        - {x: -49.986626, y: 46.499985}
+        - {x: -12.986626, y: 66.499985}
+        - {x: 52.013374, y: 11.499985}
+        - {x: 44.013374, y: -53.500008}
+        - {x: -15.986626, y: -52.500015}
+      physicsShape:
+      - - {x: 42.013374, y: -13.500015}
+        - {x: 50.013374, y: -8.500015}
+        - {x: 50.013374, y: 3.4999847}
+        - {x: 38.013374, y: 24.499985}
+        - {x: 26.013374, y: 26.499985}
+        - {x: 19.013374, y: 37.499985}
+        - {x: 8.013374, y: 48.499985}
+        - {x: -2.9866257, y: 53.499985}
+        - {x: -36.986626, y: 53.499985}
+        - {x: -47.986618, y: 45.499985}
+        - {x: -49.986626, y: 41.499985}
+        - {x: -49.986626, y: 4.4999857}
+        - {x: -43.986626, y: -12.500015}
+        - {x: -37.986626, y: -25.500015}
+        - {x: -14.986626, y: -51.500015}
+        - {x: -11.986626, y: -52.500015}
+        - {x: 4.0133753, y: -52.500015}
+        - {x: 40.013374, y: -50.500015}
+        - {x: 44.013374, y: -45.500015}
+        - {x: 46.013374, y: -29.500011}
+      - - {x: -20.986622, y: 16.499985}
+        - {x: -22.986626, y: 19.499985}
+        - {x: -22.986626, y: 22.499985}
+        - {x: -21.986626, y: 23.499985}
+        - {x: -15.986626, y: 23.499985}
+        - {x: -12.986626, y: 21.499985}
+        - {x: -8.986626, y: 18.499985}
+        - {x: -7.986624, y: 18.499985}
+        - {x: -3.9866238, y: 14.499985}
+        - {x: -3.9866238, y: 12.499985}
+        - {x: -2.9866257, y: 11.499985}
+        - {x: -16.986626, y: 11.499985}
+        - {x: -16.986626, y: 12.499985}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd98518f5bb482ab79efdab86e3c980
+      internalID: 21300128
+      vertices:
+      - {x: 82.986626, y: 45.47325}
+      - {x: 74.986626, y: -19.526741}
+      - {x: 14.986626, y: -18.526749}
+      - {x: -19.013374, y: 23.473253}
+      - {x: -19.013374, y: 80.47325}
+      - {x: 17.986626, y: 100.47325}
+      indices: 030000000400000005000000000000000300000005000000000000000100000002000000000000000200000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Petted0023
+      rect:
+        serializedVersion: 2
+        x: 241.07613
+        y: 337.0761
+        width: 108.84776
+        height: 106.89713
+      alignment: 9
+      pivot: {x: 0.32085064, y: 0.6821875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -15.500008, y: 50.475323}
+        - {x: 36.499992, y: 62.47532}
+        - {x: 63.499992, y: 5.4753227}
+        - {x: 7.4999905, y: -50.524677}
+        - {x: -53.500008, y: -54.524677}
+        - {x: -55.500008, y: -3.5246754}
+      physicsShape:
+      - - {x: 31.499992, y: -15.524677}
+        - {x: 45.499992, y: -9.524677}
+        - {x: 51.499992, y: 0.47532272}
+        - {x: 53.499985, y: 10.475323}
+        - {x: 53.499985, y: 22.475323}
+        - {x: 44.499992, y: 45.475323}
+        - {x: 34.49999, y: 53.475323}
+        - {x: 2.4999924, y: 53.475323}
+        - {x: -2.5000076, y: 52.475323}
+        - {x: -20.500008, y: 42.47532}
+        - {x: -31.500008, y: 26.475323}
+        - {x: -46.500008, y: 10.475323}
+        - {x: -53.500008, y: -15.524677}
+        - {x: -53.500008, y: -46.524677}
+        - {x: -48.500008, y: -52.524677}
+        - {x: -32.500008, y: -52.524677}
+        - {x: -24.500008, y: -51.524677}
+        - {x: 8.499992, y: -50.524677}
+        - {x: 25.499992, y: -31.524677}
+      - - {x: -8.500008, y: 14.475323}
+        - {x: -9.500009, y: 15.475323}
+        - {x: -8.500008, y: 16.475323}
+        - {x: -7.5000076, y: 20.475323}
+        - {x: -5.5000076, y: 21.475323}
+        - {x: -2.5000076, y: 23.475323}
+        - {x: 3.4999905, y: 23.475323}
+        - {x: 5.4999924, y: 20.475323}
+        - {x: 6.4999924, y: 19.475323}
+        - {x: 6.4999924, y: 16.475323}
+        - {x: 7.4999905, y: 15.475323}
+        - {x: 5.4999924, y: 12.475323}
+        - {x: 4.4999924, y: 11.475323}
+        - {x: -8.500008, y: 11.475323}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179c2cfcb8d04183bd6a2968c6eb549a
+      internalID: 21300130
+      vertices:
+      - {x: 137.42389, y: 39.448566}
+      - {x: 81.42388, y: -16.551434}
+      - {x: 20.423882, y: -20.551434}
+      - {x: 18.423882, y: 30.448568}
+      - {x: 58.42388, y: 84.44856}
+      - {x: 110.42388, y: 96.44856}
+      indices: 000000000400000005000000010000000400000000000000010000000200000003000000010000000300000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Sad0002
+      rect:
+        serializedVersion: 2
+        x: 368.0761
+        y: 105.07612
+        width: 94.89713
+        height: 49.872562
+      alignment: 9
+      pivot: {x: 0.47339565, y: 1.5023066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -20.524677, y: -25.012398}
+        - {x: -57.524677, y: -14.012398}
+        - {x: -8.524677, y: 32.987602}
+        - {x: 58.475323, y: -7.012398}
+        - {x: 26.475323, y: -23.01239}
+      physicsShape:
+      - - {x: 9.475323, y: 22.987604}
+        - {x: 4.4753227, y: 23.987602}
+        - {x: -8.524677, y: 23.987602}
+        - {x: -36.524677, y: 4.987602}
+        - {x: -47.524677, y: -6.012398}
+        - {x: -47.524677, y: -14.012398}
+        - {x: -43.524677, y: -17.01239}
+        - {x: -26.524677, y: -24.012398}
+        - {x: 28.475323, y: -24.012398}
+        - {x: 43.47532, y: -19.012398}
+        - {x: 46.47532, y: -12.012398}
+        - {x: 46.47532, y: 1.9876022}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2254bbddbaf341eba08ffdbf0ece86d2
+      internalID: 21300132
+      vertices:
+      - {x: 108.44856, y: -32.06372}
+      - {x: 76.44856, y: -48.063713}
+      - {x: 29.448566, y: -50.06372}
+      - {x: -7.5514336, y: -39.06372}
+      - {x: 41.448566, y: 7.936281}
+      indices: 020000000300000004000000010000000200000004000000000000000100000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Petted0012
+      rect:
+        serializedVersion: 2
+        x: 247.05132
+        y: 456.02676
+        width: 105.89231
+        height: 101.89713
+      alignment: 9
+      pivot: {x: 0.6227901, y: 0.7161461}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -52.99747, y: -8.97533}
+        - {x: -52.99747, y: 44.02467}
+        - {x: -5.997471, y: 57.02467}
+        - {x: 61.00253, y: 12.024671}
+        - {x: 41.00253, y: -47.97533}
+        - {x: -22.99747, y: -51.97533}
+      physicsShape:
+      - - {x: 42.00253, y: -43.97533}
+        - {x: 47.00253, y: -33.97533}
+        - {x: 52.00253, y: -6.9753304}
+        - {x: 52.00253, y: 3.0246696}
+        - {x: 47.00253, y: 15.02467}
+        - {x: 39.00253, y: 23.02467}
+        - {x: 11.002529, y: 46.02467}
+        - {x: 1.0025291, y: 50.02467}
+        - {x: -30.99747, y: 50.02467}
+        - {x: -40.997467, y: 47.02467}
+        - {x: -48.99747, y: 41.02467}
+        - {x: -51.99747, y: 24.02467}
+        - {x: -52.99747, y: 19.02467}
+        - {x: -52.99747, y: -2.9753304}
+        - {x: -37.99747, y: -32.97533}
+        - {x: -22.99747, y: -48.97533}
+        - {x: -17.99747, y: -49.97533}
+        - {x: 3.00253, y: -49.97533}
+        - {x: 10.002529, y: -44.975323}
+        - {x: 19.00253, y: -47.97533}
+        - {x: 38.00253, y: -47.97533}
+      - - {x: -20.99747, y: 15.02467}
+        - {x: -22.99747, y: 20.02467}
+        - {x: -15.997471, y: 21.02467}
+        - {x: -14.997471, y: 21.02467}
+        - {x: -9.997469, y: 19.02467}
+        - {x: -1.9974699, y: 11.02467}
+        - {x: -5.997471, y: 11.02467}
+        - {x: -6.997469, y: 10.02467}
+        - {x: -16.997469, y: 11.02467}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c806dcfe1f4c94997c5736738a292e
+      internalID: 21300134
+      vertices:
+      - {x: 100.94615, y: 40.948566}
+      - {x: 80.94615, y: -19.051434}
+      - {x: 16.946156, y: -23.051434}
+      - {x: -13.053844, y: 19.948566}
+      - {x: -13.053844, y: 72.94856}
+      - {x: 33.946156, y: 85.94856}
+      indices: 030000000400000005000000000000000300000005000000000000000100000002000000000000000200000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_pet_Yulegoat_Petted0013
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 376.02676
+        width: 99.97325
+        height: 106.9465
+      alignment: 9
+      pivot: {x: 0.6901846, y: 0.682334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -49.986626, y: -10.500013}
+        - {x: -49.986626, y: 46.499985}
+        - {x: -12.986626, y: 66.499985}
+        - {x: 52.013374, y: 11.499985}
+        - {x: 44.013374, y: -53.500008}
+        - {x: -15.986626, y: -52.500015}
+      physicsShape:
+      - - {x: 42.013374, y: -13.500015}
+        - {x: 50.013374, y: -8.500015}
+        - {x: 50.013374, y: 3.4999847}
+        - {x: 38.013374, y: 24.499985}
+        - {x: 26.013374, y: 26.499985}
+        - {x: 19.013374, y: 37.499985}
+        - {x: 8.013374, y: 48.499985}
+        - {x: -2.9866257, y: 53.499985}
+        - {x: -36.986626, y: 53.499985}
+        - {x: -47.986618, y: 45.499985}
+        - {x: -49.986626, y: 41.499985}
+        - {x: -49.986626, y: 4.4999857}
+        - {x: -43.986626, y: -12.500015}
+        - {x: -37.986626, y: -25.500015}
+        - {x: -14.986626, y: -51.500015}
+        - {x: -11.986626, y: -52.500015}
+        - {x: 4.0133753, y: -52.500015}
+        - {x: 40.013374, y: -50.500015}
+        - {x: 44.013374, y: -45.500015}
+        - {x: 46.013374, y: -29.500011}
+      - - {x: -20.986622, y: 16.499985}
+        - {x: -22.986626, y: 19.499985}
+        - {x: -22.986626, y: 22.499985}
+        - {x: -21.986626, y: 23.499985}
+        - {x: -15.986626, y: 23.499985}
+        - {x: -12.986626, y: 21.499985}
+        - {x: -8.986626, y: 18.499985}
+        - {x: -7.986624, y: 18.499985}
+        - {x: -3.9866238, y: 14.499985}
+        - {x: -3.9866238, y: 12.499985}
+        - {x: -2.9866257, y: 11.499985}
+        - {x: -16.986626, y: 11.499985}
+        - {x: -16.986626, y: 12.499985}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc59ce3e867a4496a492c846383d6f23
+      internalID: 21300136
+      vertices:
+      - {x: 82.986626, y: 45.47325}
+      - {x: 74.986626, y: -19.526741}
+      - {x: 14.986626, y: -18.526749}
+      - {x: -19.013374, y: 23.473253}
+      - {x: -19.013374, y: 80.47325}
+      - {x: 17.986626, y: 100.47325}
+      indices: 030000000400000005000000000000000300000005000000000000000100000002000000000000000200000003000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      2022_store_bean_pet_Yulegoat_Idle: 21300028
+      2022_store_bean_pet_Yulegoat_Petted0001: 21300066
+      2022_store_bean_pet_Yulegoat_Petted0002: 21300058
+      2022_store_bean_pet_Yulegoat_Petted0003: 21300080
+      2022_store_bean_pet_Yulegoat_Petted0004: 21300112
+      2022_store_bean_pet_Yulegoat_Petted0005: 21300026
+      2022_store_bean_pet_Yulegoat_Petted0006: 21300082
+      2022_store_bean_pet_Yulegoat_Petted0007: 21300002
+      2022_store_bean_pet_Yulegoat_Petted0008: 21300006
+      2022_store_bean_pet_Yulegoat_Petted0009: 21300122
+      2022_store_bean_pet_Yulegoat_Petted0010: 21300024
+      2022_store_bean_pet_Yulegoat_Petted0011: 21300114
+      2022_store_bean_pet_Yulegoat_Petted0012: 21300134
+      2022_store_bean_pet_Yulegoat_Petted0013: 21300136
+      2022_store_bean_pet_Yulegoat_Petted0014: 21300128
+      2022_store_bean_pet_Yulegoat_Petted0015: 21300126
+      2022_store_bean_pet_Yulegoat_Petted0016: 21300056
+      2022_store_bean_pet_Yulegoat_Petted0017: 21300040
+      2022_store_bean_pet_Yulegoat_Petted0018: 21300034
+      2022_store_bean_pet_Yulegoat_Petted0019: 21300072
+      2022_store_bean_pet_Yulegoat_Petted0020: 21300052
+      2022_store_bean_pet_Yulegoat_Petted0021: 21300042
+      2022_store_bean_pet_Yulegoat_Petted0022: 21300000
+      2022_store_bean_pet_Yulegoat_Petted0023: 21300130
+      2022_store_bean_pet_Yulegoat_Petted0024: 21300090
+      2022_store_bean_pet_Yulegoat_Petted0025: 21300108
+      2022_store_bean_pet_Yulegoat_Petted0026: 21300096
+      2022_store_bean_pet_Yulegoat_Petted0027: 21300018
+      2022_store_bean_pet_Yulegoat_Petted0028: 21300064
+      2022_store_bean_pet_Yulegoat_Petted0029: 21300060
+      2022_store_bean_pet_Yulegoat_Petted0030: 21300110
+      2022_store_bean_pet_Yulegoat_Petted0031: 21300016
+      2022_store_bean_pet_Yulegoat_Petted0032: 21300104
+      2022_store_bean_pet_Yulegoat_Petted0033: 21300036
+      2022_store_bean_pet_Yulegoat_Petted0034: 21300098
+      2022_store_bean_pet_Yulegoat_Petted0035: 21300084
+      2022_store_bean_pet_Yulegoat_Petted0036: 21300118
+      2022_store_bean_pet_Yulegoat_Petted0037: 21300012
+      2022_store_bean_pet_Yulegoat_Petted0038: 21300038
+      2022_store_bean_pet_Yulegoat_Petted0039: 21300074
+      2022_store_bean_pet_Yulegoat_Petted0040: 21300102
+      2022_store_bean_pet_Yulegoat_Petted0041: 21300008
+      2022_store_bean_pet_Yulegoat_Petted0042: 21300044
+      2022_store_bean_pet_Yulegoat_Petted0043: 21300116
+      2022_store_bean_pet_Yulegoat_Petted0044: 21300004
+      2022_store_bean_pet_Yulegoat_Petted0045: 21300032
+      2022_store_bean_pet_Yulegoat_Petted0046: 21300048
+      2022_store_bean_pet_Yulegoat_Petted0047: 21300106
+      2022_store_bean_pet_Yulegoat_Petted0048: 21300092
+      2022_store_bean_pet_Yulegoat_Sad0001: 21300050
+      2022_store_bean_pet_Yulegoat_Sad0002: 21300132
+      2022_store_bean_pet_Yulegoat_Sad0003: 21300120
+      2022_store_bean_pet_Yulegoat_Sad0004: 21300062
+      2022_store_bean_pet_Yulegoat_Sad0005: 21300054
+      2022_store_bean_pet_Yulegoat_Sad0006: 21300010
+      2022_store_bean_pet_Yulegoat_Sad0007: 21300020
+      2022_store_bean_pet_Yulegoat_Sad0008: 21300094
+      2022_store_bean_pet_Yulegoat_Scared0001: 21300078
+      2022_store_bean_pet_Yulegoat_Scared0002: 21300030
+      2022_store_bean_pet_Yulegoat_Scared0003: 21300100
+      2022_store_bean_pet_Yulegoat_Scared0004: 21300068
+      2022_store_bean_pet_Yulegoat_Walk0001: 21300088
+      2022_store_bean_pet_Yulegoat_Walk0002: 21300014
+      2022_store_bean_pet_Yulegoat_Walk0003: 21300046
+      2022_store_bean_pet_Yulegoat_Walk0004: 21300124
+      2022_store_bean_pet_Yulegoat_Walk0005: 21300076
+      2022_store_bean_pet_Yulegoat_Walk0006: 21300086
+      2022_store_bean_pet_Yulegoat_Walk0007: 21300070
+      2022_store_bean_pet_Yulegoat_Walk0008: 21300022
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

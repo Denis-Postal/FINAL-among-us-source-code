@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 4ddff6f3760736a41ab63fe20af61307
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: 2025_aceAttorney_beans_hat_phoenix0002
+  - first:
+      213: 21300002
+    second: 2025_aceAttorney_beans_hat_phoenix0003
+  - first:
+      213: 21300004
+    second: 2025_aceAttorney_beans_hat_phoenix0001
+  - first:
+      213: 21300006
+    second: 2025_aceAttorney_beans_hat_phoenix0004
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2025_aceAttorney_beans_hat_phoenix0002
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 4.0761204
+        width: 192.9832
+        height: 64.92388
+      alignment: 9
+      pivot: {x: 0.5855432, y: 0.2760753}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -19.4916, y: 26.461939}
+        - {x: 76.50839, y: 32.461937}
+        - {x: 97.5084, y: -15.538061}
+        - {x: -59.4916, y: -34.53806}
+        - {x: -96.4916, y: -3.5380611}
+      physicsShape:
+      - - {x: 21.5084, y: -17.538061}
+        - {x: 18.5084, y: -10.538061}
+        - {x: 48.5084, y: -19.538061}
+        - {x: 69.50839, y: -19.538061}
+        - {x: 74.5084, y: -17.538061}
+        - {x: 93.5084, y: -14.538061}
+        - {x: 95.5084, y: -13.538061}
+        - {x: 95.5084, y: -10.538061}
+        - {x: 84.5084, y: 6.461939}
+        - {x: 77.5084, y: 4.461939}
+        - {x: 80.5084, y: 26.461939}
+        - {x: 76.50839, y: 27.461939}
+        - {x: 60.5084, y: 27.461939}
+        - {x: 47.5084, y: 22.461939}
+        - {x: 25.5084, y: 22.461939}
+        - {x: 16.5084, y: 27.461939}
+        - {x: -1.4916, y: 27.461939}
+        - {x: -13.491598, y: 25.461935}
+        - {x: -33.4916, y: 20.461939}
+        - {x: -79.4916, y: 1.4619389}
+        - {x: -83.4916, y: -5.538061}
+        - {x: -83.4916, y: -11.538061}
+        - {x: -78.4916, y: -15.538061}
+        - {x: -63.491592, y: -22.538061}
+        - {x: -61.4916, y: -29.53806}
+        - {x: -59.4916, y: -31.538061}
+        - {x: -35.4916, y: -31.538061}
+        - {x: -16.4916, y: -27.538061}
+        - {x: -3.4915981, y: -20.538061}
+        - {x: -3.4915981, y: -18.538061}
+      - - {x: -81.49159, y: 32.461937}
+        - {x: -96.4916, y: 32.461937}
+        - {x: -96.4916, y: 5.461937}
+        - {x: -95.4916, y: 5.461937}
+        - {x: -89.49159, y: 9.461939}
+        - {x: -80.4916, y: 28.461935}
+      - - {x: -37.491596, y: 32.461937}
+        - {x: -36.491596, y: 29.461939}
+        - {x: -32.491596, y: 29.461939}
+        - {x: -30.4916, y: 31.461935}
+        - {x: -30.4916, y: 32.461937}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4ebec02b5d47a79876beeb6ee07964
+      internalID: 21300000
+      vertices:
+      - {x: 177.49161, y: 31.46194}
+      - {x: 20.4916, y: 12.461943}
+      - {x: -16.5084, y: 43.46194}
+      - {x: 60.4916, y: 73.461945}
+      - {x: 156.4916, y: 79.461945}
+      indices: 000000000300000004000000010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2025_aceAttorney_beans_hat_phoenix0003
+      rect:
+        serializedVersion: 2
+        x: 7.0129128
+        y: 4
+        width: 156.98709
+        height: 117.95709
+      alignment: 9
+      pivot: {x: 0.4585542, y: 0.17803083}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -28.506454, y: -58.978546}
+        - {x: -84.506454, y: -28.978546}
+        - {x: -56.506454, y: 60.021446}
+        - {x: -26.506453, y: 54.021446}
+        - {x: 43.493546, y: 54.021446}
+        - {x: 78.493546, y: -31.978546}
+        - {x: 11.493546, y: -58.978546}
+      physicsShape:
+      - - {x: 4.4935455, y: -54.978546}
+        - {x: 12.493546, y: -58.978546}
+        - {x: 14.493546, y: -58.978546}
+        - {x: 23.493544, y: -42.978546}
+        - {x: 30.493546, y: -47.978546}
+        - {x: 35.493546, y: -48.978546}
+        - {x: 38.493546, y: -39.978546}
+        - {x: 53.49354, y: -41.978546}
+        - {x: 59.493546, y: -29.978546}
+        - {x: 66.49354, y: -30.978546}
+        - {x: 66.49354, y: -6.978546}
+        - {x: 63.493546, y: 5.02145}
+        - {x: 52.49354, y: 33.021454}
+        - {x: 31.493546, y: 55.021454}
+        - {x: 28.493546, y: 55.021454}
+        - {x: 20.493544, y: 43.021454}
+        - {x: 3.4935446, y: 49.021454}
+        - {x: -11.506454, y: 48.021446}
+        - {x: -23.506454, y: 44.021454}
+        - {x: -32.506454, y: 51.021454}
+        - {x: -46.50645, y: 58.021454}
+        - {x: -53.506454, y: 58.021454}
+        - {x: -61.506454, y: 43.021454}
+        - {x: -69.506454, y: 17.021454}
+        - {x: -77.506454, y: -23.978546}
+        - {x: -77.506454, y: -31.978546}
+        - {x: -62.506454, y: -34.978546}
+        - {x: -58.506454, y: -41.978546}
+        - {x: -54.506454, y: -42.978546}
+        - {x: -44.506454, y: -38.978546}
+        - {x: -42.506454, y: -48.978546}
+        - {x: -32.506454, y: -58.978546}
+        - {x: -24.506454, y: -58.978546}
+        - {x: -10.506454, y: -48.978546}
+        - {x: -2.5064545, y: -56.978546}
+        - {x: 0.49354553, y: -56.978546}
+      - - {x: 75.493546, y: 4.021454}
+        - {x: 72.493546, y: -0.97854614}
+        - {x: 72.493546, y: -3.9785461}
+        - {x: 74.493546, y: -4.978546}
+        - {x: 78.493546, y: -4.978546}
+        - {x: 78.493546, y: 4.021454}
+      - - {x: 59.493546, y: 32.021454}
+        - {x: 59.493546, y: 18.021454}
+        - {x: 63.493546, y: 8.02145}
+        - {x: 69.493546, y: 5.02145}
+        - {x: 78.493546, y: 5.02145}
+        - {x: 78.493546, y: 37.021454}
+        - {x: 76.493546, y: 37.021454}
+        - {x: 60.493538, y: 33.021454}
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7cfaa2f331475ab6460945c8884a1b
+      internalID: 21300002
+      vertices:
+      - {x: 58.493546, y: 150.97855}
+      - {x: 128.49355, y: 150.97855}
+      - {x: 163.49355, y: 64.978546}
+      - {x: 96.493546, y: 37.978546}
+      - {x: 56.493546, y: 37.978546}
+      - {x: 0.49354553, y: 67.978546}
+      - {x: 28.493546, y: 156.97855}
+      indices: 000000000400000005000000000000000300000004000000030000000000000001000000030000000100000002000000000000000500000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2025_aceAttorney_beans_hat_phoenix0001
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 24
+        width: 172
+        height: 98.92388
+      alignment: 9
+      pivot: {x: 0.5232558, y: 0.2931547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -71, y: -19.46194}
+        - {x: -86, y: 20.53806}
+        - {x: -20, y: 49.53806}
+        - {x: 86, y: 48.53806}
+        - {x: 40, y: -10.461942}
+        - {x: 8, y: -5.4619417}
+        - {x: -41.999996, y: -49.46194}
+      physicsShape:
+      - - {x: 59, y: -9.461941}
+        - {x: 0, y: -27.46194}
+        - {x: -14, y: -38.46194}
+        - {x: -15, y: -46.46194}
+        - {x: -14, y: -49.46194}
+        - {x: 86, y: -49.46194}
+        - {x: 86, y: -9.461941}
+      - - {x: 8, y: -5.4619417}
+        - {x: 11, y: -0.46194267}
+        - {x: 32, y: -7.461941}
+        - {x: 37, y: -7.461941}
+        - {x: 56.999996, y: 10.538059}
+        - {x: 68, y: 28.538055}
+        - {x: 70, y: 36.53806}
+        - {x: 70, y: 41.53806}
+        - {x: 62.999996, y: 46.53805}
+        - {x: 30.999998, y: 41.53806}
+        - {x: 13.999999, y: 48.53806}
+        - {x: -10.999999, y: 48.53806}
+        - {x: -38.999996, y: 38.538055}
+        - {x: -81, y: 21.53806}
+        - {x: -83, y: 17.53806}
+        - {x: -83, y: 14.538059}
+        - {x: -78, y: 10.538059}
+        - {x: -77, y: 0.53805923}
+        - {x: -70, y: -13.461941}
+        - {x: -68, y: -15.461941}
+        - {x: -67, y: -19.46194}
+        - {x: -64, y: -25.46194}
+        - {x: -48, y: -28.46194}
+        - {x: -47, y: -42.46194}
+        - {x: -41.999996, y: -46.46194}
+        - {x: -38, y: -46.46194}
+        - {x: -18, y: -27.46194}
+        - {x: -17, y: -18.46194}
+        - {x: -10, y: -7.461941}
+      - - {x: -86, y: -42.46194}
+        - {x: -75.99999, y: -40.461937}
+        - {x: -75.99999, y: -19.46194}
+        - {x: -80, y: 1.5380592}
+        - {x: -85, y: 3.5380592}
+        - {x: -86, y: 3.5380592}
+      - - {x: 83.99999, y: 23.53806}
+        - {x: 81, y: 19.538055}
+        - {x: 81, y: 14.538059}
+        - {x: 85, y: 10.538059}
+        - {x: 86, y: 10.538059}
+        - {x: 86, y: 23.53806}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325380e4fd4f414596c81c9230ca1e47
+      internalID: 21300004
+      vertices:
+      - {x: 168, y: 118.461945}
+      - {x: 122, y: 59.46194}
+      - {x: 90, y: 64.46194}
+      - {x: 40.000004, y: 20.46194}
+      - {x: 11, y: 50.46194}
+      - {x: -4, y: 90.461945}
+      - {x: 62, y: 119.461945}
+      indices: 040000000500000006000000020000000400000006000000020000000300000004000000010000000200000006000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2025_aceAttorney_beans_hat_phoenix0004
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 69
+        width: 28
+        height: 42
+      alignment: 9
+      pivot: {x: -1.2142857, y: -0.071428575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -14, y: -21}
+        - {x: -14, y: 21}
+        - {x: 14, y: 21}
+        - {x: 14, y: -21}
+      physicsShape:
+      - - {x: 0.9999962, y: 21}
+        - {x: -14, y: 5.999998}
+        - {x: -14, y: -4.000002}
+        - {x: -6, y: -21}
+        - {x: 3, y: -21}
+        - {x: 14, y: -12}
+        - {x: 14, y: 14}
+        - {x: 11.999996, y: 21}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ebc6646fa547a9a6cf9da6ec0d79e5
+      internalID: 21300006
+      vertices:
+      - {x: 76, y: 24}
+      - {x: 48, y: 24}
+      - {x: 48, y: 66}
+      - {x: 76, y: 66}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      2025_aceAttorney_beans_hat_phoenix0001: 21300004
+      2025_aceAttorney_beans_hat_phoenix0002: 21300000
+      2025_aceAttorney_beans_hat_phoenix0003: 21300002
+      2025_aceAttorney_beans_hat_phoenix0004: 21300006
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

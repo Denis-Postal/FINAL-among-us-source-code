@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 825ac4e4914361a3d7ea08f1b54d9d4f, type: 3}
+  m_Name: _Cube_ProjectParasite
+  m_EditorClassIdentifier:
+  StoreImageRef:
+    m_AssetGUID: 6a9d6c67fe90d4b8196c1472ab1629fc
+    m_SubObjectName:
+    m_SubObjectType:
+  CosmicubePrefabRef:
+    m_AssetGUID: 706d378bb77af4bbba70bb3b4e5725dd
+    m_SubObjectName:
+    m_SubObjectType:
+  podIconRef:
+    m_AssetGUID: 0ed1710096b374dcb9b0fe1498cb1946
+    m_SubObjectName:
+    m_SubObjectType:
+  DateCreated: 6/1/2026
+  allUnlockables:
+  - {fileID: 11400000, guid: 5d93dd43b9280734cbb8384b41e693cd, type: 2}
+  - {fileID: 11400000, guid: 4999f62c8a34f184ebb4ea8ec3fa4060, type: 2}
+  - {fileID: 11400000, guid: 7db3dffc9b72e6c4bb8edc0ee145dda7, type: 2}
+  - {fileID: 11400000, guid: c4ffaba88044e3d419d4f4cd9d20213c, type: 2}
+  - {fileID: 11400000, guid: 37a929f37a6bdd644a349353f4b1605f, type: 2}
+  - {fileID: 11400000, guid: 2b509f41cd9d6b5409b93eedeb525634, type: 2}
+  - {fileID: 11400000, guid: ca95a6dd2890da74db3285378109c829, type: 2}
+  - {fileID: 11400000, guid: a8da1a443438a3a41b62bf4d7547b2aa, type: 2}
+  - {fileID: 11400000, guid: 6dcf602610af98f44a25ece4465fe9dc, type: 2}
+  - {fileID: 11400000, guid: ec696fa7b9732904aa0dff5a84b74a76, type: 2}
+  - {fileID: 11400000, guid: 36a92a4dfabfd8e4482402cf251184c9, type: 2}
+  - {fileID: 11400000, guid: a196522a43eade14c815b26821060726, type: 2}
+  - {fileID: 11400000, guid: 8e8863db76338da4c9af3e2bf42ff85e, type: 2}
+  - {fileID: 11400000, guid: 55b669b4a022ccd40b12cda19c5ccec9, type: 2}
+  - {fileID: 11400000, guid: 6b906fc6c5fc0fd43accb872e8027375, type: 2}
+  - {fileID: 11400000, guid: 684ed20f54fdf7740b58b29c3af9664d, type: 2}
+  - {fileID: 11400000, guid: 098e3ddc892dd7c47b11b89360e806c3, type: 2}
+  - {fileID: 11400000, guid: 760e7747573cade4aad60368b08ea29a, type: 2}
+  - {fileID: 11400000, guid: 33fb66efdcc94424e9c26d8aac54dea6, type: 2}
+  - {fileID: 11400000, guid: 968af01f0576d8e4492b4eeaeb363295, type: 2}
+  - {fileID: 11400000, guid: 172f4fa84a8da8a418646d13a4c558fd, type: 2}
+  - {fileID: 11400000, guid: 206d31f7790de35408e78c671b684a83, type: 2}
+  starCost: 0
+  beanCost: 4000
+  Order: 0
+  Free: 0
+  NotInStore: 0
+  XRange:
+    min: -1
+    max: 1
+  YRange:
+    min: -1
+    max: 1
+  podId: parasite
+  productId: cube_parasite
+  cosmicubeName: Showbiz
+  limitedTime:
+    timeStart:
+      limitedYear: 2026
+      limitedMonth: 6
+      limitedDay: 5
+      limitedHour: 23
+      limitedMinute: 0
+    timeEnd:
+      limitedYear: 0
+      limitedMonth: 0
+      limitedDay: 0
+      limitedHour: 0
+      limitedMinute: 0
+  epicId:

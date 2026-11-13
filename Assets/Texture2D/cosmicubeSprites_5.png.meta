@@ -1,0 +1,490 @@
+fileFormatVersion: 2
+guid: 7e388b07d44a3254eb9ae7b1f785fa6e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: UI_Button_ZoomOut
+  - first:
+      213: 21300002
+    second: UI_ScrollbarPip
+  - first:
+      213: 21300004
+    second: UI_Button_Buy
+  - first:
+      213: 21300006
+    second: UI_ScrollbarTrack
+  - first:
+      213: 21300008
+    second: UI_Button_ZoomIn
+  - first:
+      213: 21300010
+    second: UI_Cosmicube_NodeSquare
+  - first:
+      213: 21300012
+    second: locked_button
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_Button_ZoomOut
+      rect:
+        serializedVersion: 2
+        x: 673.0761
+        y: 210.07613
+        width: 204.92387
+        height: 196.84775
+      alignment: 9
+      pivot: {x: 0.50225425, y: 0.49745998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -71.53805, y: 98.49999}
+        - {x: 76.46195, y: 98.49999}
+        - {x: 102.46195, y: 68.5}
+        - {x: 102.46195, y: -75.5}
+        - {x: 69.46195, y: -97.5}
+        - {x: -79.53804, y: -98.49999}
+        - {x: -101.53805, y: -64.5}
+        - {x: -103.53805, y: 74.5}
+      physicsShape:
+      - - {x: 100.46195, y: -64.5}
+        - {x: 102.46195, y: -55.5}
+        - {x: 102.46195, y: 60.5}
+        - {x: 96.46195, y: 74.5}
+        - {x: 79.46195, y: 90.5}
+        - {x: 69.46195, y: 95.5}
+        - {x: 56.461952, y: 97.49999}
+        - {x: -57.538048, y: 97.49999}
+        - {x: -69.53805, y: 95.5}
+        - {x: -78.53805, y: 90.5}
+        - {x: -83.53805, y: 89.5}
+        - {x: -101.53805, y: 65.5}
+        - {x: -101.53805, y: -52.5}
+        - {x: -98.53804, y: -68.5}
+        - {x: -91.53804, y: -78.5}
+        - {x: -78.53805, y: -90.5}
+        - {x: -69.53805, y: -95.5}
+        - {x: -55.538048, y: -97.5}
+        - {x: 58.461952, y: -97.5}
+        - {x: 70.46195, y: -95.5}
+        - {x: 83.46195, y: -87.5}
+        - {x: 95.46195, y: -74.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a9de7004dc4c56a7609fbd37a452aa
+      internalID: 21300000
+      vertices:
+      - {x: 204.46194, y: 167.42387}
+      - {x: 204.46194, y: 23.423874}
+      - {x: 171.46194, y: 1.4238739}
+      - {x: 22.461945, y: 0.42388153}
+      - {x: 0.46193695, y: 34.423874}
+      - {x: -1.538063, y: 173.42387}
+      - {x: 30.461937, y: 197.42386}
+      - {x: 178.46194, y: 197.42386}
+      indices: 000000000600000007000000040000000500000006000000020000000400000006000000020000000300000004000000000000000100000002000000000000000200000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ScrollbarPip
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 144
+        width: 62
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 30, y: 30, z: 30, w: 30}
+      customData: 
+      outline:
+      - - {x: -31, y: -32}
+        - {x: -31, y: 32}
+        - {x: 31, y: 32}
+        - {x: 31, y: -32}
+      physicsShape:
+      - - {x: 24, y: 32}
+        - {x: -19.999998, y: 32}
+        - {x: -29.999998, y: 24}
+        - {x: -31, y: 13}
+        - {x: -31, y: -16}
+        - {x: -24, y: -31}
+        - {x: -18, y: -32}
+        - {x: 17, y: -32}
+        - {x: 26, y: -25}
+        - {x: 31, y: -19}
+        - {x: 31, y: 22.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee9b48caa5d48deac4fcaadab569f14
+      internalID: 21300002
+      vertices:
+      - {x: 62, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 64}
+      - {x: 62, y: 64}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Button_Buy
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 13
+        width: 339
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -169.5, y: -64}
+        - {x: -169.5, y: 64}
+        - {x: 169.5, y: 64}
+        - {x: 169.5, y: -64}
+      physicsShape:
+      - - {x: -155.5, y: 64}
+        - {x: -169.5, y: 52.999996}
+        - {x: -169.5, y: -64}
+        - {x: 169.5, y: -64}
+        - {x: 169.5, y: 56}
+        - {x: 159.49998, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b97f1301bde489c975d28a1bda44e75
+      internalID: 21300004
+      vertices:
+      - {x: 339, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 128}
+      - {x: 339, y: 128}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ScrollbarTrack
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 959
+        width: 29
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4827586, y: 0.5}
+      border: {x: 30, y: 30, z: 30, w: 30}
+      customData: 
+      outline:
+      - - {x: -14.5, y: -32}
+        - {x: -14.5, y: 32}
+        - {x: 14.499999, y: 32}
+        - {x: 14.499999, y: -32}
+      physicsShape:
+      - - {x: -14.5, y: 32}
+        - {x: -14.5, y: -29.999998}
+        - {x: -12.5, y: -32}
+        - {x: 9.499999, y: -32}
+        - {x: 14.499999, y: -26}
+        - {x: 14.499999, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4c73d1563e4bc1836756a4e3f8a7e7
+      internalID: 21300006
+      vertices:
+      - {x: 29.5, y: 0}
+      - {x: 0.5, y: 0}
+      - {x: 0.5, y: 64}
+      - {x: 29.5, y: 64}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Button_ZoomIn
+      rect:
+        serializedVersion: 2
+        x: 257.0761
+        y: 199.07613
+        width: 204.92387
+        height: 196.84775
+      alignment: 9
+      pivot: {x: 0.50225425, y: 0.49745998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -71.53805, y: 98.49999}
+        - {x: 76.46195, y: 98.49999}
+        - {x: 102.46195, y: 68.5}
+        - {x: 102.46195, y: -75.5}
+        - {x: 69.46195, y: -97.5}
+        - {x: -79.53804, y: -98.49999}
+        - {x: -101.53805, y: -64.5}
+        - {x: -103.53805, y: 74.5}
+      physicsShape:
+      - - {x: 100.46195, y: -64.5}
+        - {x: 102.46195, y: -55.5}
+        - {x: 102.46195, y: 60.5}
+        - {x: 96.46195, y: 74.5}
+        - {x: 79.46195, y: 90.5}
+        - {x: 69.46195, y: 95.5}
+        - {x: 56.461952, y: 97.49999}
+        - {x: -57.538048, y: 97.49999}
+        - {x: -69.53805, y: 95.5}
+        - {x: -78.53805, y: 90.5}
+        - {x: -83.53805, y: 89.5}
+        - {x: -101.53805, y: 65.5}
+        - {x: -101.53805, y: -52.5}
+        - {x: -98.53804, y: -68.5}
+        - {x: -91.53804, y: -78.5}
+        - {x: -78.53805, y: -90.5}
+        - {x: -69.53805, y: -95.5}
+        - {x: -55.538048, y: -97.5}
+        - {x: 58.461952, y: -97.5}
+        - {x: 70.46195, y: -95.5}
+        - {x: 83.46195, y: -87.5}
+        - {x: 95.46195, y: -74.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df61fdfd5004b7bb19cf1ea5eee5cda
+      internalID: 21300008
+      vertices:
+      - {x: 204.46194, y: 167.42387}
+      - {x: 204.46194, y: 23.423874}
+      - {x: 171.46194, y: 1.4238739}
+      - {x: 22.461945, y: 0.42388153}
+      - {x: 0.46193695, y: 34.423874}
+      - {x: -1.538063, y: 173.42387}
+      - {x: 30.461937, y: 197.42386}
+      - {x: 178.46194, y: 197.42386}
+      indices: 000000000600000007000000040000000500000006000000020000000400000006000000020000000300000004000000000000000100000002000000000000000200000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Cosmicube_NodeSquare
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 779
+        width: 244
+        height: 244
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 64, y: 64, z: 64, w: 64}
+      customData: 
+      outline:
+      - - {x: -122, y: 93}
+        - {x: -93, y: 122}
+        - {x: 93, y: 122}
+        - {x: 122, y: 93}
+        - {x: 122, y: -93}
+        - {x: 93, y: -122}
+        - {x: -93, y: -122}
+        - {x: -122, y: -93}
+      physicsShape:
+      - - {x: 122, y: -79}
+        - {x: 122, y: 82}
+        - {x: 118.99999, y: 96}
+        - {x: 101, y: 116}
+        - {x: 83, y: 122}
+        - {x: -83, y: 122}
+        - {x: -100, y: 115}
+        - {x: -115, y: 100}
+        - {x: -119.99999, y: 87}
+        - {x: -122, y: 79}
+        - {x: -122, y: -82}
+        - {x: -115, y: -101}
+        - {x: -100, y: -115}
+        - {x: -87, y: -119.99999}
+        - {x: -79, y: -122}
+        - {x: 84, y: -122}
+        - {x: 100, y: -115}
+        - {x: 115, y: -100}
+        - {x: 119.99999, y: -87}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd7a2f5fdae4165a8943e6b8969a9be
+      internalID: 21300010
+      vertices:
+      - {x: 244, y: 215}
+      - {x: 244, y: 29}
+      - {x: 215, y: 0}
+      - {x: 29, y: 0}
+      - {x: 0, y: 29}
+      - {x: 0, y: 215}
+      - {x: 29, y: 244}
+      - {x: 215, y: 244}
+      indices: 050000000600000007000000040000000500000007000000030000000400000007000000020000000300000007000000010000000200000007000000000000000100000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: locked_button
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 398
+        width: 379
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -189.5, y: -71.5}
+        - {x: -189.5, y: 71.5}
+        - {x: 189.5, y: 71.5}
+        - {x: 189.5, y: -71.5}
+      physicsShape:
+      - - {x: 176.5, y: 71.5}
+        - {x: -181.5, y: 71.5}
+        - {x: -189.5, y: 53.499996}
+        - {x: -189.5, y: -56.5}
+        - {x: -175.5, y: -70.5}
+        - {x: -172.49998, y: -71.5}
+        - {x: 175.5, y: -71.5}
+        - {x: 189.5, y: -58.499996}
+        - {x: 189.5, y: 57.5}
+        - {x: 180.5, y: 68.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afa9ea320e349eb80e0fe0fac02f336
+      internalID: 21300012
+      vertices:
+      - {x: 379, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 143}
+      - {x: 379, y: 143}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UI_Button_Buy: 21300004
+      UI_Button_ZoomIn: 21300008
+      UI_Button_ZoomOut: 21300000
+      UI_Cosmicube_NodeSquare: 21300010
+      UI_ScrollbarPip: 21300002
+      UI_ScrollbarTrack: 21300006
+      locked_button: 21300012
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

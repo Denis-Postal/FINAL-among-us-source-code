@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b31f4d0f23be9455bcc9a941106296fd, type: 3}
+  m_Name: Opossumskin
+  m_EditorClassIdentifier:
+  unlockOnSelectPlatforms:
+  freeRedeemableCosmetic: 0
+  redeemPopUpColor: -1
+  epicId:
+  BundleId:
+  ProductId: skin_paws_opossum
+  ChipOffset: {x: 0, y: 0}
+  beanCost: 0
+  starCost: 0
+  paidOnMobile: 0
+  limitedTime:
+    timeStart:
+      limitedYear: 0
+      limitedMonth: 0
+      limitedDay: 0
+      limitedHour: 0
+      limitedMinute: 0
+    timeEnd:
+      limitedYear: 0
+      limitedMonth: 0
+      limitedDay: 0
+      limitedHour: 0
+      limitedMinute: 0
+  displayOrder: 0
+  NotInStore: 1
+  Free: 0
+  PreviewData:
+    m_AssetGUID: 3ea4a84834c8842dba90958ecbfb5d51
+    m_SubObjectName:
+    m_SubObjectType:
+  PreviewCrewmateColor: 0
+  ViewDataRef:
+    m_AssetGUID: b3ea65aab78584e129e83d04b9171311
+    m_SubObjectName:
+    m_SubObjectType:
+  StoreName:

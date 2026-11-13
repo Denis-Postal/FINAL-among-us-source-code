@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fbdf57f19df93d09b0c77f4c0195892, type: 3}
+  m_Name: 17.0 Racing
+  m_EditorClassIdentifier:
+  ids:
+  - hat_racing_fungle
+  - hat_racing_skeld
+  - hat_racing_mira
+  - hat_racing_polus
+  - hat_racing_airship
+  - hat_racing_bald
+  - nameplate_racing_beanCar
+  - pet_racing_beanCar
+  - skin_racing_fungle
+  - skin_racing_skeld
+  - skin_racing_mira
+  - skin_racing_polus
+  - skin_racing_airship
+  - skin_racing_jim
+  - visor_racing_goggles
+  date: 2025-6-24

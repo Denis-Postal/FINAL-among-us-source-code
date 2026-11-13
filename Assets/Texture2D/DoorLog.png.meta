@@ -1,0 +1,333 @@
+fileFormatVersion: 2
+guid: 55b5f3f4913421f45b4146e0ab4b3bd3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: doorLog_bar2
+  - first:
+      213: 21300002
+    second: doorLog_scrollBar
+  - first:
+      213: 21300004
+    second: doorLog_bar1
+  - first:
+      213: 21300006
+    second: doorLog_bar3
+  - first:
+      213: 21300008
+    second: doorLog_base
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: doorLog_bar2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 104
+        width: 534
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -266.99997, y: -22.5}
+        - {x: -266.99997, y: 22.5}
+        - {x: 266.99997, y: 22.5}
+        - {x: 266.99997, y: -22.5}
+      physicsShape:
+      - - {x: -266.99997, y: 22.5}
+        - {x: -266.99997, y: -17.5}
+        - {x: -266, y: -18.5}
+        - {x: 261, y: -18.5}
+        - {x: 266.99997, y: -13.499999}
+        - {x: 266.99997, y: 19.5}
+        - {x: 266, y: 22.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c04d4887c434c888d8b8e668b12aaa6
+      internalID: 21300000
+      vertices:
+      - {x: 534, y: 0}
+      - {x: 0.000030517578, y: 0}
+      - {x: 0.000030517578, y: 45}
+      - {x: 534, y: 45}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorLog_scrollBar
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 4
+        width: 26
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -13, y: -72.5}
+        - {x: -13, y: 72.5}
+        - {x: 13, y: 72.5}
+        - {x: 13, y: -72.5}
+      physicsShape:
+      - - {x: -13, y: 72.5}
+        - {x: -13, y: -72.5}
+        - {x: 13, y: -72.5}
+        - {x: 13, y: 72.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85e26bf277c4217b7fa74bc187e5019
+      internalID: 21300002
+      vertices:
+      - {x: 26, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 145}
+      - {x: 26, y: 145}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorLog_bar1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 10
+        width: 534
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -266.99997, y: -22.5}
+        - {x: -266.99997, y: 22.5}
+        - {x: 260, y: 22.5}
+        - {x: 266.99997, y: 15.5}
+        - {x: 266.99997, y: -22.5}
+      physicsShape:
+      - - {x: -266.99997, y: 22.5}
+        - {x: -266.99997, y: -13.499999}
+        - {x: -258, y: -18.5}
+        - {x: 266, y: -18.5}
+        - {x: 266.99997, y: -14.5}
+        - {x: 266.99997, y: 21.499998}
+        - {x: 266, y: 22.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c33ead43a564c7b85de2cbba513b751
+      internalID: 21300004
+      vertices:
+      - {x: 534, y: 38}
+      - {x: 534, y: 0}
+      - {x: 0.000030517578, y: 0}
+      - {x: 0.000030517578, y: 45}
+      - {x: 527, y: 45}
+      indices: 020000000300000004000000010000000200000004000000000000000100000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorLog_bar3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 57
+        width: 534
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -266.99997, y: -22.5}
+        - {x: -266.99997, y: 22.5}
+        - {x: 266.99997, y: 22.5}
+        - {x: 266.99997, y: -22.5}
+      physicsShape:
+      - - {x: -266.99997, y: 22.5}
+        - {x: -266.99997, y: -17.5}
+        - {x: -266, y: -18.5}
+        - {x: 261, y: -18.5}
+        - {x: 266.99997, y: -13.499999}
+        - {x: 266.99997, y: 19.5}
+        - {x: 266, y: 22.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0997cff0f3924cc8b5b199ebe4ff3ffd
+      internalID: 21300006
+      vertices:
+      - {x: 534, y: 0}
+      - {x: 0.000030517578, y: 0}
+      - {x: 0.000030517578, y: 45}
+      - {x: 534, y: 45}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorLog_base
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 151
+        width: 604
+        height: 604
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -302, y: -302}
+        - {x: -302, y: 302}
+        - {x: 302, y: 302}
+        - {x: 302, y: -302}
+      physicsShape:
+      - - {x: -302, y: 302}
+        - {x: -302, y: -302}
+        - {x: 302, y: -302}
+        - {x: 302, y: 302}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d7a7ce56f5484ca14723dd5be7ea45
+      internalID: 21300008
+      vertices:
+      - {x: 604, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 604}
+      - {x: 604, y: 604}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      doorLog_bar1: 21300004
+      doorLog_bar2: 21300000
+      doorLog_bar3: 21300006
+      doorLog_base: 21300008
+      doorLog_scrollBar: 21300002
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

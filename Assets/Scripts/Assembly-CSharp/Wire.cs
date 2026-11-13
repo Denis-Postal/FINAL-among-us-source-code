@@ -1,0 +1,64 @@
+﻿using Cpp2ILInjected;
+using UnityEngine;
+
+public class Wire : MonoBehaviour
+{
+	private const int WireDepth = -14;
+
+	public SpriteRenderer Liner;
+
+	public SpriteRenderer ColorBase;
+
+	public SpriteRenderer SymbolBase;
+
+	public SpriteRenderer ColorEnd;
+
+	public Collider2D hitbox;
+
+	public SpriteRenderer WireTip;
+
+	public sbyte WireId;
+
+	public Vector2 BaseWorldPos { get; internal set; }
+
+	public void Start()
+	{
+		BaseWorldPos = transform.position;
+	}
+
+	public unsafe void ResetLine(Vector3 targetWorldPos, bool reset = false)
+	{
+		if (reset)
+		{
+			Liner.transform.localScale = new Vector3(0f, 0f, 0f);
+			WireTip.transform.eulerAngles = Vector3.zero;
+			WireTip.transform.position = transform.position;
+			return;
+		}
+		Vector2 vector = targetWorldPos - transform.position;
+		Vector2 normalized = vector.normalized;
+		Vector3 vector2 = default;
+		vector2 = vector - normalized * 0.075f;
+		vector2.z = -0.01f;
+		WireTip.transform.localPosition = vector2;
+		float magnitude = vector.magnitude;
+		Liner.transform.localScale = new Vector3(magnitude, 1f, 1f);
+		Liner.transform.localPosition = vector / 2f;
+		WireTip.transform.LookAt2d(targetWorldPos);
+		Liner.transform.localEulerAngles = new Vector3(0f, 0f, Vector2.SignedAngle(Vector2.right, vector));
+	}
+
+	public unsafe void ConnectRight(WireNode node)
+	{ /* spliced-from-2019 */
+		Vector3 position = node.transform.position;
+		ResetLine(position);
+	}
+
+	public unsafe void SetColor(Color color, Sprite symbol)
+	{
+		SymbolBase.sprite = symbol;
+		Liner.material.SetColor("_Color", color);
+		ColorBase.color = color;
+		ColorEnd.color = color;
+	}
+}

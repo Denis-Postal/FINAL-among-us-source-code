@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6504296099be9f78a01043c911f50589, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  Id: 6
+  Left: {fileID: 0}
+  Right: {fileID: 11400000, guid: 7a36e606c0131a24687d6082e38cd2d2, type: 2}
+  Center: {fileID: 0}
+  Buttons:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  CleaningIndicators: []
+  EnterVentAnim: {fileID: 0}
+  ExitVentAnim: {fileID: 0}
+  Offset: {x: 0, y: 0.075, z: 0}
+  spreadAmount: 0
+  spreadShift: 0
+  myRend: {fileID: 0}
+  myAnim: {fileID: 0}
+  numFramesUntilPlayerDisappearsOnEnter: 0
+  numFramesUntilPlayerReappearsOnExit: 0
+  additionalExitAnimation: {fileID: 0}

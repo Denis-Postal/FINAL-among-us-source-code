@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: 6f20720e2c5ca31498c66d089829ae26
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: hat_pack06holiday_candycane0001
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 25
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.40987256, y: -0.22674754}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hat_pack06holiday_candycane0001
+      rect:
+        serializedVersion: 2
+        x: 664.0761
+        y: 195
+        width: 116.92388
+        height: 74.97325
+      alignment: 9
+      pivot: {x: 0.40987256, y: -0.22674754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 25.461948, y: -37.486626}
+        - {x: -44.53805, y: -37.486626}
+        - {x: -71.538055, y: 37.513367}
+        - {x: 51.46195, y: 36.513374}
+        - {x: 58.46195, y: -4.4866257}
+      physicsShape:
+      - - {x: 38.461945, y: -36.486626}
+        - {x: 38.461945, y: -37.486626}
+        - {x: 58.46195, y: -37.486626}
+        - {x: 58.46195, y: -33.486626}
+        - {x: 39.46195, y: -33.486626}
+      - - {x: 53.46195, y: -17.486626}
+        - {x: 54.46195, y: -11.4866295}
+        - {x: 54.46195, y: 22.513374}
+        - {x: 47.46195, y: 29.513374}
+        - {x: 26.461948, y: 32.513374}
+        - {x: 20.461948, y: 29.513374}
+        - {x: 17.461948, y: 27.513374}
+        - {x: 8.461948, y: 20.513374}
+        - {x: -2.5380516, y: -16.486626}
+        - {x: -16.538052, y: -7.4866257}
+        - {x: -3.5380516, y: 0.5133743}
+        - {x: -5.538052, y: 16.513374}
+        - {x: -11.538052, y: 26.513374}
+        - {x: -17.538052, y: 33.513374}
+        - {x: -21.538052, y: 36.513374}
+        - {x: -45.53805, y: 36.513374}
+        - {x: -57.53805, y: 32.513374}
+        - {x: -57.53805, y: -5.4866295}
+        - {x: -44.53805, y: -37.486626}
+        - {x: -16.538052, y: -37.486626}
+        - {x: 1.4619484, y: -32.486626}
+        - {x: 27.461948, y: -34.486626}
+        - {x: 35.461945, y: -17.486626}
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8ee1838dd546bda52c751db0c3d6a2
+      internalID: 21300000
+      vertices:
+      - {x: 120.461945, y: 128.48663}
+      - {x: 127.461945, y: 87.486626}
+      - {x: 94.461945, y: 54.486626}
+      - {x: 24.46194, y: 54.486626}
+      - {x: -2.5380592, y: 129.48662}
+      indices: 000000000200000003000000000000000100000002000000000000000300000004000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hat_pack06holiday_candycane0001: 21300000
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

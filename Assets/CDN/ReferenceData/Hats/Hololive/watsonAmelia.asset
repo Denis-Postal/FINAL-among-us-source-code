@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e65bf483b6b7de711829e639a4b9d308, type: 3}
+  m_Name: watsonAmelia
+  m_EditorClassIdentifier:
+  unlockOnSelectPlatforms:
+  freeRedeemableCosmetic: 0
+  redeemPopUpColor: -1
+  epicId:
+  BundleId:
+  ProductId: hat_hl_watson
+  ChipOffset: {x: 0, y: 0.25}
+  beanCost: 0
+  starCost: 0
+  paidOnMobile: 0
+  limitedTime:
+    timeStart:
+      limitedYear: 0
+      limitedMonth: 0
+      limitedDay: 0
+      limitedHour: 0
+      limitedMinute: 0
+    timeEnd:
+      limitedYear: 0
+      limitedMonth: 0
+      limitedDay: 0
+      limitedHour: 0
+      limitedMinute: 0
+  displayOrder: 0
+  NotInStore: 1
+  Free: 0
+  PreviewData:
+    m_AssetGUID: 6af446d40642b2d44bb150b820493708
+    m_SubObjectName:
+    m_SubObjectType:
+  PreviewCrewmateColor: 0
+  ViewDataRef:
+    m_AssetGUID: 5f77b66718f19ff4ba1f4165e29f57f2
+    m_SubObjectName:
+    m_SubObjectType:
+  InFront: 1
+  NoBounce: 1
+  BlocksVisors: 0
+  StoreName:
+  RelatedSkin: {fileID: 0}

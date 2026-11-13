@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6633565c32bcb2522138b426775ef120, type: 3}
+  m_Name: WaterFootsteps
+  m_EditorClassIdentifier:
+  Clips:
+  - {fileID: 8300000, guid: ef0b4ea4373aa92489c048d14131c215, type: 3}
+  - {fileID: 8300000, guid: e58b31fc354838d469b3048b6fa1f2a2, type: 3}
+  - {fileID: 8300000, guid: ef51478db2a84824b846d6f810f551ef, type: 3}
+  - {fileID: 8300000, guid: 876d8e442ea9af142afac44753a091f9, type: 3}
+  - {fileID: 8300000, guid: 90fb598e0ce2d204b83fe1639599c5bd, type: 3}
+  - {fileID: 8300000, guid: ff6f36144020390429c3e102e89549b4, type: 3}
+  - {fileID: 8300000, guid: 83865caef0cb6ec4f8bf0566d43a5278, type: 3}

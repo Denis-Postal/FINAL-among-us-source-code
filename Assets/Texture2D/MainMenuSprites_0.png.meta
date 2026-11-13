@@ -1,0 +1,553 @@
+fileFormatVersion: 2
+guid: 0a14d5681187cc244a19214712ccc61d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: ICON-PLAY
+  - first:
+      213: 21300002
+    second: CTAInactive
+  - first:
+      213: 21300004
+    second: BUTTON-CTAActiveShine
+  - first:
+      213: 21300006
+    second: BUTTON-CTAShine
+  - first:
+      213: 21300008
+    second: StandardActive
+  - first:
+      213: 21300010
+    second: CTAActive
+  - first:
+      213: 21300012
+    second: ICON-PLAYb
+  - first:
+      213: 21300014
+    second: StandardInactive
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ICON-PLAY
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 228
+        width: 131
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -65.5, y: -26}
+        - {x: -65.5, y: 55}
+        - {x: -40.5, y: 55}
+        - {x: 65.5, y: 18}
+        - {x: 65.5, y: -4}
+        - {x: 8.5, y: -55}
+        - {x: -7.4999995, y: -55}
+      physicsShape:
+      - - {x: 65.5, y: 13}
+        - {x: 57.5, y: 22}
+        - {x: 40.5, y: 25}
+        - {x: 31.5, y: 18}
+        - {x: 30.5, y: 13}
+        - {x: 30.5, y: 7}
+        - {x: 30.5, y: 9.999999}
+        - {x: 29.499998, y: 19.999998}
+        - {x: 18.5, y: 34}
+        - {x: 8.5, y: 41}
+        - {x: -26.499998, y: 50}
+        - {x: -32.5, y: 50}
+        - {x: -46.5, y: 42}
+        - {x: -44.5, y: 26}
+        - {x: -46.5, y: 6}
+        - {x: -62.5, y: -6}
+        - {x: -65.5, y: -9.999999}
+        - {x: -65.5, y: -22.999998}
+        - {x: -60.499996, y: -35}
+        - {x: -42.5, y: -35}
+        - {x: -33.499996, y: -29}
+        - {x: -8.5, y: -55}
+        - {x: 8.5, y: -55}
+        - {x: 20.5, y: -48}
+        - {x: 44.5, y: -9.999999}
+        - {x: 57.5, y: -9.999999}
+        - {x: 65.5, y: -1}
+      - - {x: -64.5, y: 37}
+        - {x: -60.499996, y: 24}
+        - {x: -56.5, y: 19}
+        - {x: -44.5, y: 19}
+        - {x: -44.5, y: 42.999996}
+        - {x: -46.5, y: 50}
+        - {x: -60.499996, y: 50}
+        - {x: -64.5, y: 47}
+      - - {x: -48.5, y: 55}
+        - {x: -49.499996, y: 52}
+        - {x: -49.499996, y: 45}
+        - {x: -46.5, y: 44}
+        - {x: -39.5, y: 44}
+        - {x: -38.5, y: 47}
+        - {x: -38.5, y: 52.999996}
+        - {x: -42.5, y: 55}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1bc31eab104761b82caa926e14d2c4
+      internalID: 21300000
+      vertices:
+      - {x: 131, y: 73}
+      - {x: 131, y: 51}
+      - {x: 74, y: 0}
+      - {x: 58, y: 0}
+      - {x: 0, y: 29}
+      - {x: 0, y: 110}
+      - {x: 25, y: 110}
+      indices: 040000000500000006000000030000000400000006000000020000000300000006000000000000000100000002000000000000000200000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTAInactive
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 9
+        width: 90
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 23, y: 23, z: 23, w: 23}
+      customData: 
+      outline:
+      - - {x: 45, y: -45}
+        - {x: -45, y: -45}
+        - {x: -45, y: 45}
+        - {x: 45, y: 45}
+      physicsShape:
+      - - {x: -42.999996, y: 45}
+        - {x: -42.999996, y: -34}
+        - {x: -37, y: -39}
+        - {x: 38, y: -39}
+        - {x: 42.999996, y: -34}
+        - {x: 42.999996, y: 45}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5214783bb24e889658aeb5fc536c0f
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 0}
+      - {x: 90, y: 0}
+      - {x: 0, y: 90}
+      - {x: 90, y: 90}
+      indices: 000000000200000001000000010000000200000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTON-CTAActiveShine
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 340
+        width: 177
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -51.5, y: 36}
+        - {x: 88.5, y: 36}
+        - {x: 88.5, y: 19}
+        - {x: 51.5, y: -36}
+        - {x: -88.5, y: -36}
+        - {x: -88.5, y: -22.999998}
+      physicsShape:
+      - - {x: -50.5, y: 36}
+        - {x: -56.5, y: 31}
+        - {x: -88.5, y: -33}
+        - {x: -88.5, y: -36}
+        - {x: -2.4999998, y: -36}
+        - {x: 3.5, y: -31}
+        - {x: 36.499996, y: 35}
+        - {x: 36.499996, y: 36}
+      - - {x: 42.5, y: 36}
+        - {x: 10.5, y: -14}
+        - {x: 5.5, y: -33}
+        - {x: 5.5, y: -36}
+        - {x: 50.5, y: -36}
+        - {x: 81.5, y: 17}
+        - {x: 88.5, y: 34}
+        - {x: 88.5, y: 36}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653b6e63bf7b40e9a51a7c9a1dc2ea3d
+      internalID: 21300004
+      vertices:
+      - {x: 177, y: 55}
+      - {x: 140, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 13.000002}
+      - {x: 37, y: 72}
+      - {x: 177, y: 72}
+      indices: 000000000400000005000000030000000100000002000000030000000400000001000000000000000100000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTON-CTAShine
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 42
+        width: 182
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -48.999996, y: 41}
+        - {x: 91, y: 41}
+        - {x: 91, y: 35}
+        - {x: 48.999996, y: -41}
+        - {x: -91, y: -41}
+        - {x: -91, y: -35}
+        - {x: -52.999996, y: 34}
+      physicsShape:
+      - - {x: -48.999996, y: 41}
+        - {x: -56, y: 34}
+        - {x: -91, y: -37}
+        - {x: -91, y: -41}
+        - {x: -4.9999995, y: -41}
+        - {x: 9, y: -18}
+        - {x: 36, y: 33}
+        - {x: 39, y: 41}
+      - - {x: 91, y: 39}
+        - {x: 91, y: 41}
+        - {x: 45, y: 41}
+        - {x: 44, y: 39.999996}
+        - {x: 2, y: -39.999996}
+        - {x: 2, y: -41}
+        - {x: 47, y: -41}
+        - {x: 48.999996, y: -39.999996}
+        - {x: 66, y: -9}
+        - {x: 88, y: 31}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e49d07f810a494a99de45928099da64
+      internalID: 21300006
+      vertices:
+      - {x: 182, y: 76}
+      - {x: 140, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 6}
+      - {x: 38.000004, y: 75}
+      - {x: 42.000004, y: 82}
+      - {x: 182, y: 82}
+      indices: 000000000500000006000000010000000400000005000000030000000100000002000000030000000400000001000000000000000100000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandardActive
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 72
+        width: 63
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 16, y: 24, z: 16, w: 16}
+      customData: 
+      outline:
+      - - {x: 31.5, y: -31}
+        - {x: -31.5, y: -31}
+        - {x: -31.5, y: 31}
+        - {x: 31.5, y: 31}
+      physicsShape:
+      - - {x: -23.5, y: 31}
+        - {x: -29.499998, y: 26}
+        - {x: -29.499998, y: -19.999998}
+        - {x: -23.5, y: -25}
+        - {x: 28.5, y: -25}
+        - {x: 29.499998, y: -22}
+        - {x: 29.499998, y: 29.999998}
+        - {x: 26.499998, y: 31}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8ad1a9287944b59ab93b4460e07a1a
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 0}
+      - {x: 63, y: 0}
+      - {x: 0, y: 62}
+      - {x: 63, y: 62}
+      indices: 000000000200000001000000010000000200000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTAActive
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 101
+        width: 90
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 23, y: 23, z: 23, w: 23}
+      customData: 
+      outline:
+      - - {x: 45, y: -45}
+        - {x: -45, y: -45}
+        - {x: -45, y: 45}
+        - {x: 45, y: 45}
+      physicsShape:
+      - - {x: -42.999996, y: 45}
+        - {x: -42.999996, y: -34}
+        - {x: -37, y: -39}
+        - {x: 38, y: -39}
+        - {x: 42.999996, y: -34}
+        - {x: 42.999996, y: 45}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f0d8c571ed48e394820869b6cb9dbb
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 0}
+      - {x: 90, y: 0}
+      - {x: 0, y: 90}
+      - {x: 90, y: 90}
+      indices: 000000000200000001000000010000000200000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICON-PLAYb
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 719
+        width: 146
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -72.99999, y: -32}
+        - {x: -72.99999, y: 63}
+        - {x: -35, y: 63}
+        - {x: 72.99999, y: 24}
+        - {x: 72.99999, y: -9}
+        - {x: 13, y: -63}
+        - {x: -11, y: -63}
+      physicsShape:
+      - - {x: 66.99999, y: -16}
+        - {x: 72.99999, y: -8}
+        - {x: 72.99999, y: 18}
+        - {x: 72, y: 24}
+        - {x: 50, y: 33}
+        - {x: 16, y: 45.999996}
+        - {x: -3, y: 45.999996}
+        - {x: -22, y: 57}
+        - {x: -25, y: 58}
+        - {x: -36, y: 63}
+        - {x: -55, y: 63}
+        - {x: -72, y: 53.999996}
+        - {x: -72.99999, y: 50}
+        - {x: -72.99999, y: 33}
+        - {x: -68, y: 19}
+        - {x: -62, y: 13}
+        - {x: -72.99999, y: -9.999999}
+        - {x: -72.99999, y: -28}
+        - {x: -56, y: -45.999996}
+        - {x: -28, y: -48.999996}
+        - {x: -9.999999, y: -63}
+        - {x: 9.999999, y: -63}
+        - {x: 14.999999, y: -59.999996}
+        - {x: 25, y: -50}
+        - {x: 48.999996, y: -19.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054a792b8e2848a09b466b4979abbc0c
+      internalID: 21300012
+      vertices:
+      - {x: 146, y: 87}
+      - {x: 146, y: 54}
+      - {x: 86, y: 0}
+      - {x: 62, y: 0}
+      - {x: 0.0000076293945, y: 31}
+      - {x: 0.0000076293945, y: 126}
+      - {x: 38, y: 126}
+      indices: 040000000500000006000000030000000400000006000000020000000300000006000000010000000200000006000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandardInactive
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 8
+        width: 61
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 16, y: 16, z: 16, w: 16}
+      customData: 
+      outline:
+      - - {x: 30.5, y: -31}
+        - {x: -30.5, y: -31}
+        - {x: -30.5, y: 31}
+        - {x: 30.5, y: 31}
+      physicsShape:
+      - - {x: -28.5, y: 31}
+        - {x: -28.5, y: -22}
+        - {x: -24.499998, y: -25}
+        - {x: 28.5, y: -25}
+        - {x: 28.5, y: 31}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2c557249b34f588bfcbc8c8894956f
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 0}
+      - {x: 61, y: 0}
+      - {x: 0, y: 62}
+      - {x: 61, y: 62}
+      indices: 000000000200000001000000010000000200000003000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BUTTON-CTAActiveShine: 21300004
+      BUTTON-CTAShine: 21300006
+      CTAActive: 21300010
+      CTAInactive: 21300002
+      ICON-PLAY: 21300000
+      ICON-PLAYb: 21300012
+      StandardActive: 21300008
+      StandardInactive: 21300014
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

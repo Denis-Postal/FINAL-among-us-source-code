@@ -1,0 +1,444 @@
+fileFormatVersion: 2
+guid: ed6af464e28cf0f469338822a9c1e142
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: CrankGenerator_Base
+  - first:
+      213: 21300002
+    second: crankGenerator_lightbulbs_LIT
+  - first:
+      213: 21300004
+    second: crankGenerator_lightbulbLarge_LIT
+  - first:
+      213: 21300006
+    second: crankGenerator_gauge
+  - first:
+      213: 21300008
+    second: crankGenerator_crank
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CrankGenerator_Base
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4
+        width: 503
+        height: 503
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -251.49998, y: -251.49998}
+        - {x: -251.49998, y: 251.49998}
+        - {x: 251.49998, y: 251.49998}
+        - {x: 251.49998, y: -251.49998}
+      physicsShape:
+      - - {x: -251.49998, y: 251.49998}
+        - {x: -251.49998, y: -251.49998}
+        - {x: 251.49998, y: -251.49998}
+        - {x: 251.49998, y: 251.49998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef2a0c950b14cc8a6a5d2bc1af2d130
+      internalID: 21300000
+      vertices:
+      - {x: 503, y: 0.000015258789}
+      - {x: 0.000015258789, y: 0.000015258789}
+      - {x: 0.000015258789, y: 503}
+      - {x: 503, y: 503}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crankGenerator_lightbulbs_LIT
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 51
+        width: 82
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -41, y: -14.5}
+        - {x: -41, y: 14.5}
+        - {x: 41, y: 14.5}
+        - {x: 41, y: -14.5}
+      physicsShape:
+      - - {x: -19.999998, y: 14.5}
+        - {x: -35, y: 14.5}
+        - {x: -41, y: 9.5}
+        - {x: -41, y: -13.499999}
+        - {x: -39.999996, y: -14.5}
+        - {x: -14, y: -14.5}
+        - {x: -14, y: 7.4999995}
+      - - {x: -9, y: 14.5}
+        - {x: -14, y: 6.5}
+        - {x: -14, y: -14.5}
+        - {x: 14, y: -14.5}
+        - {x: 14, y: 12.5}
+        - {x: 9.999999, y: 14.5}
+      - - {x: 16, y: 14.5}
+        - {x: 14.999999, y: 10.5}
+        - {x: 14.999999, y: -14.5}
+        - {x: 41, y: -14.5}
+        - {x: 41, y: 7.4999995}
+        - {x: 37, y: 14.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400c5292b0704560b2d35f1683698eee
+      internalID: 21300002
+      vertices:
+      - {x: 82, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 29}
+      - {x: 82, y: 29}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crankGenerator_lightbulbLarge_LIT
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 82
+        width: 113
+        height: 125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -19.5, y: 62.5}
+        - {x: 13.499999, y: 62.5}
+        - {x: 56.5, y: 51.5}
+        - {x: 56.5, y: -8.5}
+        - {x: 15.5, y: -62.5}
+        - {x: -21.499998, y: -62.5}
+        - {x: -56.5, y: -9.5}
+        - {x: -56.5, y: 33.499996}
+        - {x: -29.499998, y: 60.499996}
+      physicsShape:
+      - - {x: 56.5, y: 25.5}
+        - {x: 52.499996, y: 38.5}
+        - {x: 25.5, y: 60.499996}
+        - {x: 16.5, y: 62.5}
+        - {x: -25.5, y: 62.5}
+        - {x: -38.5, y: 58.499996}
+        - {x: -56.5, y: 29.499998}
+        - {x: -56.5, y: -6.5}
+        - {x: -55.5, y: -9.5}
+        - {x: -51.5, y: -17.5}
+        - {x: -40.5, y: -28.5}
+        - {x: -31.5, y: -33.499996}
+        - {x: -21.499998, y: -59.499996}
+        - {x: -17.5, y: -62.5}
+        - {x: 16.5, y: -62.5}
+        - {x: 19.5, y: -54.5}
+        - {x: 42.5, y: -28.5}
+        - {x: 56.5, y: -7.4999995}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfcdac4f80f436b862f3a4124cdcb74
+      internalID: 21300004
+      vertices:
+      - {x: 113, y: 114}
+      - {x: 113, y: 54}
+      - {x: 72, y: 0}
+      - {x: 35, y: 0}
+      - {x: 0, y: 53}
+      - {x: 0, y: 96}
+      - {x: 27.000002, y: 123}
+      - {x: 37, y: 125}
+      - {x: 70, y: 125}
+      indices: 040000000700000008000000050000000600000007000000050000000700000004000000010000000200000004000000020000000300000004000000010000000400000008000000000000000100000008000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crankGenerator_gauge
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 209
+        width: 50
+        height: 298
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -25, y: -149}
+        - {x: -25, y: 149}
+        - {x: 25, y: 149}
+        - {x: 25, y: -149}
+      physicsShape:
+      - - {x: -25, y: 149}
+        - {x: -25, y: -149}
+        - {x: 25, y: -149}
+        - {x: 25, y: 149}
+      - - {x: -16, y: -105.99999}
+        - {x: -6, y: -105.99999}
+        - {x: 14.999999, y: -106.99999}
+        - {x: 16, y: -141}
+        - {x: -16, y: -141}
+      - - {x: -17, y: -94}
+        - {x: -17, y: -53.999996}
+        - {x: 17, y: -53.999996}
+        - {x: 17, y: -88}
+        - {x: 16, y: -89}
+        - {x: 17, y: -96}
+        - {x: 16, y: -95}
+      - - {x: -17, y: -38}
+        - {x: -16, y: -37}
+        - {x: -16, y: -13}
+        - {x: -17, y: -12}
+        - {x: -17, y: -6}
+        - {x: -3, y: -6}
+        - {x: -2, y: -4.9999995}
+        - {x: 7, y: -4.9999995}
+        - {x: 8, y: -4}
+        - {x: 17, y: -4}
+        - {x: 18, y: -3}
+        - {x: 17, y: -34}
+        - {x: 16, y: -35}
+        - {x: 16, y: -37}
+        - {x: 17, y: -38}
+        - {x: 17, y: -42.999996}
+        - {x: 12, y: -42.999996}
+        - {x: 11, y: -44}
+        - {x: -14, y: -44}
+        - {x: -14.999999, y: -45}
+        - {x: -17, y: -45}
+      - - {x: -17, y: 44}
+        - {x: 16, y: 44}
+        - {x: 16, y: 35}
+        - {x: 17, y: 34}
+        - {x: 17, y: 7}
+        - {x: 12, y: 7}
+        - {x: 11, y: 6}
+        - {x: -7, y: 6}
+        - {x: -8, y: 4.9999995}
+        - {x: -14.999999, y: 4.9999995}
+        - {x: -16, y: 4}
+        - {x: -17, y: 4}
+      - - {x: -16, y: 55}
+        - {x: -16, y: 93}
+        - {x: 16, y: 94}
+        - {x: 17, y: 96}
+        - {x: 16, y: 56}
+        - {x: 16, y: 53.999996}
+        - {x: -9.999999, y: 55}
+      - - {x: -16, y: 132}
+        - {x: -17, y: 133}
+        - {x: -17, y: 140}
+        - {x: 9.999999, y: 140}
+        - {x: 11, y: 141}
+        - {x: 17, y: 141}
+        - {x: 17, y: 105.99999}
+        - {x: 4.9999995, y: 105.99999}
+        - {x: 4, y: 104.99999}
+        - {x: -9, y: 104.99999}
+        - {x: -9.999999, y: 104}
+        - {x: -16, y: 104}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee94f0f2d9846fbb7f9ead22703929d
+      internalID: 21300006
+      vertices:
+      - {x: 50, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 298}
+      - {x: 50, y: 298}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crankGenerator_crank
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 325
+        width: 57
+        height: 182
+      alignment: 9
+      pivot: {x: 0.561404, y: 0.104396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -28.5, y: 90.999985}
+        - {x: 28.5, y: 90.999985}
+        - {x: 28.5, y: 53.999992}
+        - {x: 19.5, y: 10}
+        - {x: 27.5, y: -91}
+        - {x: -19.5, y: -91}
+        - {x: -14.5, y: 30}
+        - {x: -28.5, y: 49}
+      physicsShape:
+      - - {x: 28.500027, y: 49.000008}
+        - {x: 28.500027, y: 81.000015}
+        - {x: 18.500027, y: 91.000015}
+        - {x: -17.499973, y: 91.000015}
+        - {x: -28.499973, y: 77.000015}
+        - {x: -28.499973, y: 50.000008}
+        - {x: -20.499973, y: 39.000015}
+        - {x: -13.499973, y: -34.999985}
+        - {x: -20.499973, y: -63.999985}
+        - {x: -19.499971, y: -81.999985}
+        - {x: -6.4999723, y: -90.999985}
+        - {x: 15.500027, y: -90.999985}
+        - {x: 24.500027, y: -84.999985}
+        - {x: 25.500027, y: -33.99999}
+        - {x: 16.500027, y: 38.000008}
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa52521470e40b09841ba71a71c43a6
+      internalID: 21300008
+      vertices:
+      - {x: 53.499973, y: 216.99991}
+      - {x: 44.499973, y: 172.99992}
+      - {x: 52.499973, y: 71.99992}
+      - {x: 5.4999733, y: 71.99992}
+      - {x: 10.499973, y: 192.99992}
+      - {x: -3.5000267, y: 211.99992}
+      - {x: -3.5000267, y: 253.99991}
+      - {x: 53.499973, y: 253.99991}
+      indices: 000000000600000007000000000000000500000006000000000000000400000005000000010000000200000003000000010000000300000004000000000000000100000004000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CrankGenerator_Base: 21300000
+      crankGenerator_crank: 21300008
+      crankGenerator_gauge: 21300006
+      crankGenerator_lightbulbLarge_LIT: 21300004
+      crankGenerator_lightbulbs_LIT: 21300002
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

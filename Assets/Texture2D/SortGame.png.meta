@@ -1,0 +1,833 @@
+fileFormatVersion: 2
+guid: ed158d4051186b5409e7d670d4a00d86
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: sortingSamplesBase
+  - first:
+      213: 21300002
+    second: sortingSamples_stone2
+  - first:
+      213: 21300004
+    second: sortingSamples_emblem_animal
+  - first:
+      213: 21300006
+    second: sortingSamples_boxFront
+  - first:
+      213: 21300008
+    second: sortingSamples_plant1
+  - first:
+      213: 21300010
+    second: sortingSamples_animal2
+  - first:
+      213: 21300012
+    second: sortingSamples_plant2
+  - first:
+      213: 21300014
+    second: sortingSamples_stone1
+  - first:
+      213: 21300016
+    second: sortingSamples_animal1
+  - first:
+      213: 21300018
+    second: sortingSamples_emblem_Plant
+  - first:
+      213: 21300020
+    second: sortingSamples_emblem_Mineral
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sortingSamplesBase
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 228
+        width: 703
+        height: 603
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -351.5, y: -301.5}
+        - {x: -351.5, y: 301.5}
+        - {x: 351.5, y: 301.5}
+        - {x: 351.5, y: -301.5}
+      physicsShape:
+      - - {x: -351.5, y: 301.5}
+        - {x: -351.5, y: -301.5}
+        - {x: 351.5, y: -301.5}
+        - {x: 351.5, y: 301.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9a33cad4d0466b8f23a5b85e263c7f
+      internalID: 21300000
+      vertices:
+      - {x: 703, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 603}
+      - {x: 703, y: 603}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortingSamples_stone2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 19
+        width: 113
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 56.5, y: 21}
+        - {x: 56.5, y: -39}
+        - {x: 17.5, y: -55}
+        - {x: -13.499999, y: -55}
+        - {x: -50.5, y: -18}
+        - {x: -56.5, y: -6}
+        - {x: -56.5, y: 4}
+        - {x: -38.5, y: 41}
+        - {x: 22.5, y: 55}
+        - {x: 39.5, y: 55}
+      physicsShape:
+      - - {x: 56.5, y: 17}
+        - {x: 53.499996, y: 29}
+        - {x: 33.499996, y: 55}
+        - {x: 21.499998, y: 55}
+        - {x: -2.4999998, y: 50}
+        - {x: -12.5, y: 36}
+        - {x: -27.5, y: 41}
+        - {x: -37.5, y: 42}
+        - {x: -43.5, y: 26.999998}
+        - {x: -44.5, y: 22}
+        - {x: -36.499996, y: 11}
+        - {x: -56.5, y: 3}
+        - {x: -56.5, y: -9}
+        - {x: -55.5, y: -11}
+        - {x: -38.5, y: -25}
+        - {x: -32.5, y: -36}
+        - {x: -30.5, y: -38}
+        - {x: -27.5, y: -39}
+        - {x: -13.499999, y: -44}
+        - {x: 0.5, y: -55}
+        - {x: 21.499998, y: -55}
+        - {x: 41.5, y: -44}
+        - {x: 54.5, y: -22.999998}
+        - {x: 56.5, y: -14.999999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee508445376451ca8dfc7db18f3aff6
+      internalID: 21300002
+      vertices:
+      - {x: 113, y: 76}
+      - {x: 113, y: 16}
+      - {x: 74, y: 0}
+      - {x: 43, y: 0}
+      - {x: 6, y: 37}
+      - {x: 0, y: 49}
+      - {x: 0, y: 59}
+      - {x: 18, y: 96}
+      - {x: 79, y: 110}
+      - {x: 96, y: 110}
+      indices: 020000000000000001000000040000000200000003000000060000000400000005000000060000000700000004000000040000000700000008000000040000000000000002000000040000000800000000000000000000000800000009000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortingSamples_emblem_animal
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 758
+        width: 33
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -16.5, y: -17}
+        - {x: -16.5, y: 17}
+        - {x: 16.5, y: 17}
+        - {x: 16.5, y: -17}
+      physicsShape:
+      - - {x: 15.5, y: 16}
+        - {x: 12.5, y: 17}
+        - {x: -9.5, y: 17}
+        - {x: -10.5, y: 16}
+        - {x: -16.5, y: 11}
+        - {x: -16.5, y: -11}
+        - {x: -10.5, y: -17}
+        - {x: 11.499999, y: -17}
+        - {x: 14.5, y: -11}
+        - {x: 16.5, y: -9}
+        - {x: 16.5, y: 12}
+      - - {x: -5.5, y: -8}
+        - {x: -3.5, y: -7}
+        - {x: -1.5, y: -2}
+        - {x: -1.5, y: 0}
+        - {x: 2.4999998, y: -2}
+        - {x: 6.5, y: -6}
+        - {x: 4.5, y: -9}
+        - {x: -2.4999998, y: -12}
+        - {x: -2.4999998, y: -11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9bd82cc77db42b99199abb18251a0eb
+      internalID: 21300004
+      vertices:
+      - {x: 33, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 34}
+      - {x: 33, y: 34}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortingSamples_boxFront
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 134
+        width: 318
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 149, y: 44.5}
+        - {x: 158.99998, y: 44.5}
+        - {x: 158.99998, y: 9.5}
+        - {x: 151, y: -44.5}
+        - {x: -151, y: -44.5}
+        - {x: -158.99998, y: 23.5}
+        - {x: -158.99998, y: 40.5}
+        - {x: -35, y: 26.499998}
+        - {x: 44, y: 25.5}
+      physicsShape:
+      - - {x: 158.99998, y: 44.5}
+        - {x: 145, y: 44.5}
+        - {x: 118.99999, y: 39.5}
+        - {x: 98.99999, y: 33.499996}
+        - {x: 72, y: 28.5}
+        - {x: 48, y: 24.499998}
+        - {x: 48, y: 23.5}
+        - {x: -29, y: 23.5}
+        - {x: -29, y: 24.499998}
+        - {x: -66.99999, y: 27.5}
+        - {x: -105.99999, y: 31.5}
+        - {x: -158, y: 40.5}
+        - {x: -158.99998, y: 39.5}
+        - {x: -158.99998, y: 21.499998}
+        - {x: -155, y: -0.5}
+        - {x: -154, y: -19.5}
+        - {x: -151, y: -43.5}
+        - {x: -150, y: -44.5}
+        - {x: 146.99998, y: -44.5}
+        - {x: 150, y: -41.5}
+        - {x: 152, y: -36.499996}
+        - {x: 158.99998, y: 4.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbb80a369fa4f4db75d0fdc41826daa
+      internalID: 21300006
+      vertices:
+      - {x: 318, y: 54}
+      - {x: 310, y: 0}
+      - {x: 8, y: 0}
+      - {x: 0.000015258789, y: 68}
+      - {x: 0.000015258789, y: 85}
+      - {x: 124, y: 71}
+      - {x: 203, y: 70}
+      - {x: 308, y: 89}
+      - {x: 318, y: 89}
+      indices: 000000000700000008000000030000000400000005000000010000000500000006000000020000000300000005000000060000000700000000000000010000000200000005000000060000000000000001000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortingSamples_plant1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 93
+        width: 140
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 70, y: 24}
+        - {x: 70, y: -4.9999995}
+        - {x: 39, y: -57}
+        - {x: 9.999999, y: -65}
+        - {x: -29.999998, y: -65}
+        - {x: -57, y: -38}
+        - {x: -70, y: 4}
+        - {x: -70, y: 39}
+        - {x: 19, y: 65}
+        - {x: 42.999996, y: 65}
+      physicsShape:
+      - - {x: 70, y: 24}
+        - {x: 58.999996, y: 39.999996}
+        - {x: 33, y: 65}
+        - {x: 18, y: 65}
+        - {x: 14, y: 64}
+        - {x: -11, y: 52}
+        - {x: -42, y: 48.999996}
+        - {x: -57, y: 39.999996}
+        - {x: -70, y: 19}
+        - {x: -70, y: 2}
+        - {x: -63, y: -16}
+        - {x: -52, y: -26}
+        - {x: -45.999996, y: -45.999996}
+        - {x: -29.999998, y: -65}
+        - {x: 12, y: -65}
+        - {x: 35, y: -58}
+        - {x: 48.999996, y: -42}
+        - {x: 70, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a968133c7244a94ad1d7ef0793b7b20
+      internalID: 21300008
+      vertices:
+      - {x: 140, y: 89}
+      - {x: 140, y: 60}
+      - {x: 109, y: 8}
+      - {x: 80, y: 0}
+      - {x: 40, y: 0}
+      - {x: 13, y: 27}
+      - {x: 0, y: 69}
+      - {x: 0, y: 104}
+      - {x: 89, y: 130}
+      - {x: 113, y: 130}
+      indices: 000000000100000008000000060000000700000008000000050000000600000008000000050000000300000004000000050000000800000003000000030000000800000001000000030000000100000002000000000000000800000009000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortingSamples_animal2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 9
+        width: 131
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 6.5, y: 59.999996}
+        - {x: 20.5, y: 59.999996}
+        - {x: 40.5, y: 39.999996}
+        - {x: 65.5, y: -6}
+        - {x: 65.5, y: -25}
+        - {x: -12.5, y: -45}
+        - {x: -27.5, y: -59.999996}
+        - {x: -65.5, y: -59.999996}
+        - {x: -65.5, y: -29}
+        - {x: -14.5, y: 45.999996}
+      physicsShape:
+      - - {x: 37.5, y: -34}
+        - {x: 60.499996, y: -24}
+        - {x: 65.5, y: -21}
+        - {x: 65.5, y: -1}
+        - {x: 46.5, y: 39.999996}
+        - {x: 25.5, y: 48}
+        - {x: 21.499998, y: 58}
+        - {x: 18.5, y: 59.999996}
+        - {x: 6.5, y: 59.999996}
+        - {x: -18.5, y: 45.999996}
+        - {x: -46.5, y: -4}
+        - {x: -49.499996, y: -22}
+        - {x: -63.5, y: -26}
+        - {x: -65.5, y: -29}
+        - {x: -65.5, y: -41}
+        - {x: -64.5, y: -44}
+        - {x: -61.5, y: -51}
+        - {x: -49.499996, y: -59.999996}
+        - {x: -21.499998, y: -59.999996}
+        - {x: -22.5, y: -41}
+        - {x: -2.4999998, y: -42}
+        - {x: 9.5, y: -31}
+      - - {x: -60.499996, y: 59.999996}
+        - {x: -65.5, y: 47}
+        - {x: -65.5, y: 33}
+        - {x: -56.5, y: 22.999998}
+        - {x: -51.5, y: 22.999998}
+        - {x: -37.5, y: 37}
+        - {x: -37.5, y: 42}
+        - {x: -50.5, y: 59.999996}
+      - - {x: -59.499996, y: 42.999996}
+        - {x: -57.5, y: 44}
+        - {x: -54.5, y: 41}
+        - {x: -53.499996, y: 41}
+        - {x: -50.5, y: 44}
+        - {x: -51.5, y: 51}
+        - {x: -51.5, y: 48.999996}
+        - {x: -46.5, y: 42.999996}
+        - {x: -53.499996, y: 41}
+        - {x: -54.5, y: 42}
+        - {x: -56.5, y: 41}
+        - {x: -57.5, y: 42}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca350279eaf4b60b4cd76adf120c882
+      internalID: 21300010
+      vertices:
+      - {x: 106, y: 100}
+      - {x: 131, y: 54}
+      - {x: 131, y: 35}
+      - {x: 53, y: 15}
+      - {x: 38, y: 0.0000038146973}
+      - {x: 0, y: 0.0000038146973}
+      - {x: 0, y: 31}
+      - {x: 51, y: 106}
+      - {x: 72, y: 120}
+      - {x: 86, y: 120}
+      indices: 000000000800000009000000030000000000000001000000060000000400000005000000060000000300000004000000060000000700000003000000030000000700000000000000030000000100000002000000000000000700000008000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortingSamples_plant2
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 73
+        width: 107
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -14.5, y: 75}
+        - {x: 25.5, y: 75}
+        - {x: 53.499996, y: 22}
+        - {x: 53.499996, y: -75}
+        - {x: -31.5, y: -75}
+        - {x: -53.499996, y: -19}
+        - {x: -53.499996, y: 9}
+      physicsShape:
+      - - {x: 52.499996, y: -33}
+        - {x: 53.499996, y: -22}
+        - {x: 53.499996, y: 3}
+        - {x: 48.5, y: 17}
+        - {x: 45.5, y: 39.999996}
+        - {x: 22.5, y: 75}
+        - {x: 5.5, y: 75}
+        - {x: -6.5, y: 66.99999}
+        - {x: -13.499999, y: 57}
+        - {x: -33.499996, y: 45.999996}
+        - {x: -41.5, y: 22.999998}
+        - {x: -53.499996, y: 9}
+        - {x: -53.499996, y: -13}
+        - {x: -49.499996, y: -31}
+        - {x: -44.5, y: -36}
+        - {x: -38.5, y: -61}
+        - {x: -26.499998, y: -72}
+        - {x: -11.499999, y: -75}
+        - {x: 34.5, y: -75}
+        - {x: 40.5, y: -71}
+        - {x: 46.5, y: -62}
+        - {x: 52.499996, y: -39}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b05d3b1c077432ca581ae4455b4f8e3
+      internalID: 21300012
+      vertices:
+      - {x: 107, y: 97}
+      - {x: 107, y: 0}
+      - {x: 22, y: 0}
+      - {x: 0.0000038146973, y: 56}
+      - {x: 0.0000038146973, y: 84}
+      - {x: 39, y: 150}
+      - {x: 79, y: 150}
+      indices: 000000000500000006000000000000000400000005000000020000000000000001000000020000000300000000000000000000000300000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortingSamples_stone1
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1
+        width: 104
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -9.999999, y: 64}
+        - {x: 9.999999, y: 64}
+        - {x: 52, y: 22}
+        - {x: 52, y: -51}
+        - {x: 12, y: -64}
+        - {x: -26, y: -64}
+        - {x: -52, y: -9}
+        - {x: -52, y: 39}
+        - {x: -31, y: 62}
+      physicsShape:
+      - - {x: 47, y: -37}
+        - {x: 52, y: -25}
+        - {x: 52, y: 8}
+        - {x: 51, y: 13}
+        - {x: 48, y: 24}
+        - {x: 31, y: 44}
+        - {x: 9, y: 64}
+        - {x: -13, y: 64}
+        - {x: -17, y: 63}
+        - {x: -31, y: 57}
+        - {x: -45.999996, y: 45}
+        - {x: -52, y: 35}
+        - {x: -52, y: -8}
+        - {x: -31, y: -51}
+        - {x: -4.9999995, y: -64}
+        - {x: 12, y: -64}
+        - {x: 26.999998, y: -59.999996}
+        - {x: 44, y: -47}
+        - {x: 45.999996, y: -41}
+      - - {x: 22, y: 64}
+        - {x: 22, y: 62}
+        - {x: 24, y: 52}
+        - {x: 51, y: 39.999996}
+        - {x: 52, y: 39.999996}
+        - {x: 52, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bb625cfc6f4303aad6c8489bd47ead
+      internalID: 21300014
+      vertices:
+      - {x: 104, y: 86}
+      - {x: 104, y: 13}
+      - {x: 64, y: 0}
+      - {x: 26, y: 0}
+      - {x: 0, y: 55}
+      - {x: 0, y: 103}
+      - {x: 21, y: 126}
+      - {x: 42, y: 128}
+      - {x: 62, y: 128}
+      indices: 000000000700000008000000050000000600000007000000040000000500000007000000000000000200000004000000020000000300000004000000000000000100000002000000000000000400000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortingSamples_animal1
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 76
+        width: 174
+        height: 147
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -26.999998, y: 73.49999}
+        - {x: -3, y: 73.49999}
+        - {x: 22, y: 51.5}
+        - {x: 50, y: 51.5}
+        - {x: 87, y: 14.5}
+        - {x: 87, y: -34.5}
+        - {x: -4, y: -73.49999}
+        - {x: -18, y: -73.49999}
+        - {x: -87, y: -6.5}
+        - {x: -87, y: 14.5}
+      physicsShape:
+      - - {x: -87, y: -19.5}
+        - {x: -87, y: -73.49999}
+        - {x: -39, y: -73.49999}
+        - {x: -39, y: -67.5}
+        - {x: -47, y: -45.5}
+        - {x: -82, y: -19.5}
+      - - {x: 58.999996, y: -45.5}
+        - {x: 72.99999, y: -38.5}
+        - {x: 75, y: -8.5}
+        - {x: 87, y: -0.5}
+        - {x: 87, y: 13.499999}
+        - {x: 79, y: 24.499998}
+        - {x: 58.999996, y: 26.499998}
+        - {x: 51, y: 54.5}
+        - {x: 17, y: 52.499996}
+        - {x: -2, y: 49.499996}
+        - {x: 0, y: 73.49999}
+        - {x: -18, y: 73.49999}
+        - {x: -28, y: 67.5}
+        - {x: -35, y: 65.5}
+        - {x: -72.99999, y: 24.499998}
+        - {x: -87, y: 4.5}
+        - {x: -87, y: -5.5}
+        - {x: -85, y: -7.4999995}
+        - {x: -63, y: -28.5}
+        - {x: -47, y: -35.5}
+        - {x: -22, y: -73.49999}
+        - {x: -1, y: -73.49999}
+        - {x: 13, y: -60.499996}
+        - {x: 19, y: -43.5}
+        - {x: 35, y: -46.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d049ce348349a0ad91826e09b62373
+      internalID: 21300016
+      vertices:
+      - {x: 109, y: 125}
+      - {x: 137, y: 125}
+      - {x: 174, y: 88}
+      - {x: 174, y: 39}
+      - {x: 83, y: 0.0000076293945}
+      - {x: 69, y: 0.0000076293945}
+      - {x: 0, y: 67}
+      - {x: 0, y: 88}
+      - {x: 60, y: 147}
+      - {x: 84, y: 147}
+      indices: 000000000800000009000000070000000000000006000000070000000800000000000000000000000500000006000000000000000300000004000000000000000200000003000000000000000100000002000000000000000400000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortingSamples_emblem_Plant
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 797
+        width: 37
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -18.5, y: -17}
+        - {x: -18.5, y: 17}
+        - {x: 18.5, y: 17}
+        - {x: 18.5, y: -17}
+      physicsShape:
+      - - {x: -18.5, y: -7}
+        - {x: -18.5, y: -17}
+        - {x: -1.5, y: -17}
+        - {x: 18.5, y: -7}
+        - {x: 18.5, y: 17}
+        - {x: -1.5, y: 17}
+        - {x: -8.5, y: 16}
+      - - {x: -1.5, y: -4.9999995}
+        - {x: 1.5, y: -4.9999995}
+        - {x: 2.4999998, y: -6}
+        - {x: 1.5, y: -4.9999995}
+        - {x: 0.5, y: -6}
+        - {x: -3.5, y: -7}
+        - {x: -2.4999998, y: -7}
+      - - {x: -1.5, y: 3}
+        - {x: -1.5, y: 4.9999995}
+        - {x: 0.5, y: 7}
+        - {x: 0.5, y: 6}
+        - {x: -3.5, y: 2}
+        - {x: -2.4999998, y: 2}
+      - - {x: 9.5, y: 3}
+        - {x: 10.5, y: 6}
+        - {x: 8.5, y: 3}
+        - {x: 6.5, y: 2}
+        - {x: 7.4999995, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8de1ae277f1475d9d6717e5ea44fee7
+      internalID: 21300018
+      vertices:
+      - {x: 37, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 34}
+      - {x: 37, y: 34}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortingSamples_emblem_Mineral
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 95
+        width: 25
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -12.5, y: -17}
+        - {x: -12.5, y: 17}
+        - {x: 12.5, y: 17}
+        - {x: 12.5, y: -17}
+      physicsShape:
+      - - {x: -5.5, y: 17}
+        - {x: -12.5, y: 8}
+        - {x: -12.5, y: -7}
+        - {x: -6.5, y: -17}
+        - {x: 4.5, y: -17}
+        - {x: 12.5, y: -7}
+        - {x: 12.5, y: 3}
+        - {x: 2.4999998, y: 17}
+      - - {x: -6.5, y: 0}
+        - {x: -4.5, y: 1}
+        - {x: -1.5, y: -2}
+        - {x: -0.5, y: -2}
+        - {x: 2.4999998, y: 1}
+        - {x: 1.5, y: 8}
+        - {x: 1.5, y: 6}
+        - {x: 6.5, y: 0}
+        - {x: -0.5, y: -2}
+        - {x: -1.5, y: -1}
+        - {x: -3.5, y: -2}
+        - {x: -4.5, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad2b31198ea4895bfdfdffcbeb4c7d3
+      internalID: 21300020
+      vertices:
+      - {x: 25, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 34}
+      - {x: 25, y: 34}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sortingSamplesBase: 21300000
+      sortingSamples_animal1: 21300016
+      sortingSamples_animal2: 21300010
+      sortingSamples_boxFront: 21300006
+      sortingSamples_emblem_Mineral: 21300020
+      sortingSamples_emblem_Plant: 21300018
+      sortingSamples_emblem_animal: 21300004
+      sortingSamples_plant1: 21300008
+      sortingSamples_plant2: 21300012
+      sortingSamples_stone1: 21300014
+      sortingSamples_stone2: 21300002
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

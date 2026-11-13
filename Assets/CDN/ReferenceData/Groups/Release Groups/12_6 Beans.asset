@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fbdf57f19df93d09b0c77f4c0195892, type: 3}
+  m_Name: 12_6 Beans
+  m_EditorClassIdentifier:
+  ids:
+  - hat_bandanaWBY
+  - hat_fishCap
+  - hat_rabbitEars
+  - nameplate_flagAro
+  - nameplate_flagMlm
+  - visor_chimkin
+  date: 2023-02-09

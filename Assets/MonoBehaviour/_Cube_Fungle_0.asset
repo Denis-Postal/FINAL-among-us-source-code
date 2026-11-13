@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 825ac4e4914361a3d7ea08f1b54d9d4f, type: 3}
+  m_Name: _Cube_Fungle
+  m_EditorClassIdentifier:
+  StoreImageRef:
+    m_AssetGUID: 090daa1d4b3aa49e3a0d6258130cb8e9
+    m_SubObjectName: cosmicube_thefungle
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  CosmicubePrefabRef:
+    m_AssetGUID: 229794cc067c27046b9ba0f8f807b81b
+    m_SubObjectName:
+    m_SubObjectType:
+  podIconRef:
+    m_AssetGUID: 677c3ec4f9ff84d6a91542a48aeaa101
+    m_SubObjectName: ui_currency_fungle23_paid
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  DateCreated: 10/23/2023
+  allUnlockables:
+  - {fileID: 11400000, guid: 96c3c1bc1bb06994c989c1526dd8013b, type: 2}
+  - {fileID: 11400000, guid: 4cfff8ff2368c5f4e9a76b54f5dc1faa, type: 2}
+  - {fileID: 11400000, guid: 9a605f8c706a9894db182312b319b64d, type: 2}
+  - {fileID: 11400000, guid: 11a6b6c83bbd42643bfcdbb6c0407657, type: 2}
+  - {fileID: 11400000, guid: 42501c6c6caa4c34abff2d17970877cf, type: 2}
+  - {fileID: 11400000, guid: 2784a59c1e0864f429a5dc19a1334b7c, type: 2}
+  - {fileID: 11400000, guid: 2307f71f4fa99bf428eb8c33f126c485, type: 2}
+  - {fileID: 11400000, guid: fba3d8fd1b66c094382910a76758bcea, type: 2}
+  - {fileID: 11400000, guid: 533bf790dd382b343af1b6a17e63eaa6, type: 2}
+  - {fileID: 11400000, guid: 60961842fdd75514a90fa516ce9d77fa, type: 2}
+  - {fileID: 11400000, guid: 363b93736485b874299e56380ffa497c, type: 2}
+  - {fileID: 11400000, guid: c112dbb62471d0444ab4fa9e08adeccb, type: 2}
+  - {fileID: 11400000, guid: ac55a8aa2ee993b40ad00bff815203b9, type: 2}
+  - {fileID: 11400000, guid: 05b4ea3e2c649ee49aa9ae7a82416a8b, type: 2}
+  - {fileID: 11400000, guid: 6e6d1002c54c2ab468a51f3610bc605b, type: 2}
+  - {fileID: 11400000, guid: b4a42bfcf2bcaff43bf09ad723b6905b, type: 2}
+  - {fileID: 11400000, guid: 7226ab8255537c145866347de96d7fb8, type: 2}
+  - {fileID: 11400000, guid: b90f3d6ed19ea6c4fbed1a7e4c85efae, type: 2}
+  - {fileID: 11400000, guid: e65eb490d10171e41b68d3fa2b2e7330, type: 2}
+  - {fileID: 11400000, guid: 1059ff75b5a320746b2371b71bf15b8f, type: 2}
+  - {fileID: 11400000, guid: 99d5fdc46e9a2bb479fca7499754ca83, type: 2}
+  - {fileID: 11400000, guid: 7a1389485a3d16e4dbbc60bd4518c81b, type: 2}
+  - {fileID: 11400000, guid: 52ed3bc87aed2ca4c9d9bdc3ce06346a, type: 2}
+  - {fileID: 11400000, guid: 81a1d751fcb08c44d9fcab4fef8afb85, type: 2}
+  - {fileID: 11400000, guid: fb3e4036d7d593146955e9352cb81eab, type: 2}
+  - {fileID: 11400000, guid: 23a78e91fb8c86d45aada8cd91394ea4, type: 2}
+  - {fileID: 11400000, guid: 7bbe4b8f441cd344aa2732dbb1c26d94, type: 2}
+  - {fileID: 11400000, guid: d1ec8915c1b79f3469e37a841639095f, type: 2}
+  - {fileID: 11400000, guid: a9d8887371784414aba83d5951073cab, type: 2}
+  - {fileID: 11400000, guid: 1edf180cd018c9741a161347e575c3c5, type: 2}
+  starCost: 70
+  beanCost: 0
+  Order: 0
+  Free: 0
+  NotInStore: 0
+  XRange:
+    min: -0.1
+    max: 0.8
+  YRange:
+    min: -0.5
+    max: 0.5
+  podId: fungle
+  productId: cube_fungle
+  cosmicubeName: Fungle
+  limitedTime:
+    timeStart:
+      limitedYear: 0
+      limitedMonth: 0
+      limitedDay: 0
+      limitedHour: 0
+      limitedMinute: 0
+    timeEnd:
+      limitedYear: 0
+      limitedMonth: 0
+      limitedDay: 0
+      limitedHour: 0
+      limitedMinute: 0
+  epicId:

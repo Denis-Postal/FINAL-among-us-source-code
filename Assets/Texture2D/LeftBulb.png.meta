@@ -1,0 +1,2793 @@
+fileFormatVersion: 2
+guid: b4d5998598e249c49b3dbc7a0d835154
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: anim_comms_leftBulb0004
+  - first:
+      213: 21300002
+    second: anim_comms_leftBulb0015
+  - first:
+      213: 21300004
+    second: anim_comms_leftBulb0016
+  - first:
+      213: 21300006
+    second: anim_comms_leftBulb0013
+  - first:
+      213: 21300008
+    second: anim_comms_leftBulb0024
+  - first:
+      213: 21300010
+    second: anim_comms_leftBulb0056
+  - first:
+      213: 21300012
+    second: anim_comms_leftBulb0021
+  - first:
+      213: 21300014
+    second: anim_comms_leftBulb0047
+  - first:
+      213: 21300016
+    second: anim_comms_leftBulb0031
+  - first:
+      213: 21300018
+    second: anim_comms_leftBulb0001
+  - first:
+      213: 21300020
+    second: anim_comms_leftBulb0050
+  - first:
+      213: 21300022
+    second: anim_comms_leftBulb0020
+  - first:
+      213: 21300024
+    second: anim_comms_leftBulb0023
+  - first:
+      213: 21300026
+    second: anim_comms_leftBulb0051
+  - first:
+      213: 21300028
+    second: anim_comms_leftBulb0055
+  - first:
+      213: 21300030
+    second: anim_comms_leftBulb0040
+  - first:
+      213: 21300032
+    second: anim_comms_leftBulb0033
+  - first:
+      213: 21300034
+    second: anim_comms_leftBulb0003
+  - first:
+      213: 21300036
+    second: anim_comms_leftBulb0060
+  - first:
+      213: 21300038
+    second: anim_comms_leftBulb0002
+  - first:
+      213: 21300040
+    second: anim_comms_leftBulb0038
+  - first:
+      213: 21300042
+    second: anim_comms_leftBulb0019
+  - first:
+      213: 21300044
+    second: anim_comms_leftBulb0009
+  - first:
+      213: 21300046
+    second: anim_comms_leftBulb0027
+  - first:
+      213: 21300048
+    second: anim_comms_leftBulb0057
+  - first:
+      213: 21300050
+    second: anim_comms_leftBulb0008
+  - first:
+      213: 21300052
+    second: anim_comms_leftBulb0054
+  - first:
+      213: 21300054
+    second: anim_comms_leftBulb0049
+  - first:
+      213: 21300056
+    second: anim_comms_leftBulb0029
+  - first:
+      213: 21300058
+    second: anim_comms_leftBulb0014
+  - first:
+      213: 21300060
+    second: anim_comms_leftBulb0005
+  - first:
+      213: 21300062
+    second: anim_comms_leftBulb0035
+  - first:
+      213: 21300064
+    second: anim_comms_leftBulb0028
+  - first:
+      213: 21300066
+    second: anim_comms_leftBulb0026
+  - first:
+      213: 21300068
+    second: anim_comms_leftBulb0059
+  - first:
+      213: 21300070
+    second: anim_comms_leftBulb0030
+  - first:
+      213: 21300072
+    second: anim_comms_leftBulb0046
+  - first:
+      213: 21300074
+    second: anim_comms_leftBulb0032
+  - first:
+      213: 21300076
+    second: anim_comms_leftBulb0058
+  - first:
+      213: 21300078
+    second: anim_comms_leftBulb0012
+  - first:
+      213: 21300080
+    second: anim_comms_leftBulb0048
+  - first:
+      213: 21300082
+    second: anim_comms_leftBulb0010
+  - first:
+      213: 21300084
+    second: anim_comms_leftBulb0006
+  - first:
+      213: 21300086
+    second: anim_comms_leftBulb0017
+  - first:
+      213: 21300088
+    second: anim_comms_leftBulb0044
+  - first:
+      213: 21300090
+    second: anim_comms_leftBulb0045
+  - first:
+      213: 21300092
+    second: anim_comms_leftBulb0052
+  - first:
+      213: 21300094
+    second: anim_comms_leftBulb0053
+  - first:
+      213: 21300096
+    second: anim_comms_leftBulb0018
+  - first:
+      213: 21300098
+    second: anim_comms_leftBulb0034
+  - first:
+      213: 21300100
+    second: anim_comms_leftBulb0039
+  - first:
+      213: 21300102
+    second: anim_comms_leftBulb0022
+  - first:
+      213: 21300104
+    second: anim_comms_leftBulb0025
+  - first:
+      213: 21300106
+    second: anim_comms_leftBulb0043
+  - first:
+      213: 21300108
+    second: anim_comms_leftBulb0042
+  - first:
+      213: 21300110
+    second: anim_comms_leftBulb0041
+  - first:
+      213: 21300112
+    second: anim_comms_leftBulb0037
+  - first:
+      213: 21300114
+    second: anim_comms_leftBulb0036
+  - first:
+      213: 21300116
+    second: anim_comms_leftBulb0011
+  - first:
+      213: 21300118
+    second: anim_comms_leftBulb0007
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0004
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 9
+        width: 49
+        height: 117
+      alignment: 9
+      pivot: {x: 0.52040815, y: 0.50427353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -24.5, y: -58.5}
+        - {x: -24.5, y: 58.499996}
+        - {x: 24.5, y: 58.499996}
+        - {x: 24.5, y: -58.5}
+      physicsShape:
+      - - {x: 20.5, y: 42.500004}
+        - {x: 12.499999, y: 54.5}
+        - {x: -8.5, y: 54.5}
+        - {x: -20.499998, y: 48.500004}
+        - {x: -22.5, y: 25.500004}
+        - {x: -22.5, y: -53.499992}
+        - {x: -20.499998, y: -58.499992}
+        - {x: 9.5, y: -58.499992}
+        - {x: 16.5, y: -57.499996}
+        - {x: 24.5, y: -51.499996}
+        - {x: 24.5, y: -37.499996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37158254f38947ccb75fe7895feb1691
+      internalID: 21300000
+      vertices:
+      - {x: 48, y: -0.5000038}
+      - {x: -1, y: -0.5000038}
+      - {x: -1, y: 116.49999}
+      - {x: 48, y: 116.49999}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0015
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 4
+        width: 51
+        height: 119
+      alignment: 9
+      pivot: {x: 0.51960784, y: 0.5042017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -25.499998, y: -59.5}
+        - {x: -25.499998, y: 59.5}
+        - {x: 25.499998, y: 59.5}
+        - {x: 25.499998, y: -59.5}
+      physicsShape:
+      - - {x: 21.5, y: 27.500002}
+        - {x: 19.5, y: 41.500004}
+        - {x: 11.5, y: 54.5}
+        - {x: -9.5, y: 54.5}
+        - {x: -20.499998, y: 49.5}
+        - {x: -22.5, y: -2.4999962}
+        - {x: -22.5, y: -51.499996}
+        - {x: -17.5, y: -58.499992}
+        - {x: 20.5, y: -58.499992}
+        - {x: 24.5, y: -51.499996}
+        - {x: 24.5, y: -37.499996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060d11ca714348d794ab7872d58e07ba
+      internalID: 21300002
+      vertices:
+      - {x: 50, y: -0.5000038}
+      - {x: -0.9999981, y: -0.5000038}
+      - {x: -0.9999981, y: 118.5}
+      - {x: 50, y: 118.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0016
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 125
+        width: 51
+        height: 119
+      alignment: 9
+      pivot: {x: 0.51960784, y: 0.5042017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -25.499998, y: -59.5}
+        - {x: -25.499998, y: 59.5}
+        - {x: 25.499998, y: 59.5}
+        - {x: 25.499998, y: -59.5}
+      physicsShape:
+      - - {x: 9.5, y: 54.5}
+        - {x: -10.499999, y: 54.5}
+        - {x: -20.499998, y: 46.5}
+        - {x: -22.5, y: 6.500004}
+        - {x: -22.5, y: -53.499992}
+        - {x: -17.5, y: -58.499992}
+        - {x: 21.5, y: -58.499992}
+        - {x: 24.5, y: -55.499996}
+        - {x: 24.5, y: 28.500004}
+        - {x: 16.5, y: 52.500004}
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc6a6c9a40c429a838a2fe677adab18
+      internalID: 21300004
+      vertices:
+      - {x: 50, y: -0.5000038}
+      - {x: -0.9999981, y: -0.5000038}
+      - {x: -0.9999981, y: 118.5}
+      - {x: 50, y: 118.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0013
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 125
+        width: 51
+        height: 119
+      alignment: 9
+      pivot: {x: 0.51960784, y: 0.5042017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -25.499998, y: -59.5}
+        - {x: -25.499998, y: 59.5}
+        - {x: 25.499998, y: 59.5}
+        - {x: 25.499998, y: -59.5}
+      physicsShape:
+      - - {x: 21.5, y: 27.500002}
+        - {x: 19.5, y: 41.500004}
+        - {x: 11.5, y: 54.5}
+        - {x: -9.5, y: 54.5}
+        - {x: -20.499998, y: 49.5}
+        - {x: -22.5, y: -2.4999962}
+        - {x: -22.5, y: -51.499996}
+        - {x: -17.5, y: -58.499992}
+        - {x: 20.5, y: -58.499992}
+        - {x: 24.5, y: -51.499996}
+        - {x: 24.5, y: -37.499996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e13cc1572a4f4e8eb7c3218659454d
+      internalID: 21300006
+      vertices:
+      - {x: 50, y: -0.5000038}
+      - {x: -0.9999981, y: -0.5000038}
+      - {x: -0.9999981, y: 118.5}
+      - {x: 50, y: 118.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0024
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 247
+        width: 53
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5188679, y: 0.5083333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -26.5, y: -60}
+        - {x: -26.5, y: 59.999996}
+        - {x: 26.5, y: 59.999996}
+        - {x: 26.5, y: -60}
+      physicsShape:
+      - - {x: 22.499998, y: 27.999998}
+        - {x: 14.499999, y: 52}
+        - {x: 12.499999, y: 54.999996}
+        - {x: -8.5, y: 54.999996}
+        - {x: -22.5, y: 49}
+        - {x: -22.5, y: -55}
+        - {x: -15.5, y: -57.999996}
+        - {x: 18.5, y: -57.999996}
+        - {x: 24.5, y: -51.999996}
+        - {x: 24.5, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1072d0d6a94a949d090092b7093cb2
+      internalID: 21300008
+      vertices:
+      - {x: 52, y: -1}
+      - {x: -1, y: -1}
+      - {x: -1, y: 119}
+      - {x: 52, y: 119}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0056
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 7
+        width: 49
+        height: 117
+      alignment: 9
+      pivot: {x: 0.52040815, y: 0.50427353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -24.5, y: -58.5}
+        - {x: -24.5, y: 58.499996}
+        - {x: 24.5, y: 58.499996}
+        - {x: 24.5, y: -58.5}
+      physicsShape:
+      - - {x: 20.5, y: 42.500004}
+        - {x: 12.499999, y: 54.5}
+        - {x: -8.5, y: 54.5}
+        - {x: -20.499998, y: 48.500004}
+        - {x: -22.5, y: 25.500004}
+        - {x: -22.5, y: -53.499992}
+        - {x: -20.499998, y: -58.499992}
+        - {x: 9.5, y: -58.499992}
+        - {x: 16.5, y: -57.499996}
+        - {x: 24.5, y: -51.499996}
+        - {x: 24.5, y: -37.499996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e54802a79bb4e3db933be871eeabd98
+      internalID: 21300010
+      vertices:
+      - {x: 48, y: -0.5000038}
+      - {x: -1, y: -0.5000038}
+      - {x: -1, y: 116.49999}
+      - {x: 48, y: 116.49999}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0021
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 248
+        width: 53
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5188679, y: 0.5042017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -26.5, y: -59.5}
+        - {x: -26.5, y: 59.5}
+        - {x: 26.5, y: 59.5}
+        - {x: 26.5, y: -59.5}
+      physicsShape:
+      - - {x: 20.5, y: 34.500004}
+        - {x: 13.5, y: 49.5}
+        - {x: 7.5, y: 54.5}
+        - {x: -11.5, y: 54.5}
+        - {x: -22.5, y: 36.500004}
+        - {x: -22.5, y: -53.499992}
+        - {x: -11.5, y: -58.499992}
+        - {x: 14.499999, y: -58.499992}
+        - {x: 24.5, y: -51.499996}
+        - {x: 24.5, y: -37.499996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d7c53508694e769991658c2ab78909
+      internalID: 21300012
+      vertices:
+      - {x: 52, y: -0.5000038}
+      - {x: -1, y: -0.5000038}
+      - {x: -1, y: 118.5}
+      - {x: 52, y: 118.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0047
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 125
+        width: 51
+        height: 119
+      alignment: 9
+      pivot: {x: 0.51960784, y: 0.5042017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -25.499998, y: -59.5}
+        - {x: -25.499998, y: 59.5}
+        - {x: 25.499998, y: 59.5}
+        - {x: 25.499998, y: -59.5}
+      physicsShape:
+      - - {x: 21.5, y: 27.500002}
+        - {x: 19.5, y: 41.500004}
+        - {x: 11.5, y: 54.5}
+        - {x: -9.5, y: 54.5}
+        - {x: -20.499998, y: 49.5}
+        - {x: -22.5, y: -2.4999962}
+        - {x: -22.5, y: -51.499996}
+        - {x: -17.5, y: -58.499992}
+        - {x: 20.5, y: -58.499992}
+        - {x: 24.5, y: -51.499996}
+        - {x: 24.5, y: -37.499996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a1e092b795406fbd2daab6fc66e73f
+      internalID: 21300014
+      vertices:
+      - {x: 50, y: -0.5000038}
+      - {x: -0.9999981, y: -0.5000038}
+      - {x: -0.9999981, y: 118.5}
+      - {x: 50, y: 118.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0031
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 246
+        width: 53
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5188679, y: 0.5041322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -26.5, y: -60.5}
+        - {x: -26.5, y: 60.5}
+        - {x: 26.5, y: 60.5}
+        - {x: 26.5, y: -60.5}
+      physicsShape:
+      - - {x: 15.5, y: 54.499992}
+        - {x: -8.5, y: 54.499992}
+        - {x: -22.5, y: 48.499996}
+        - {x: -22.5, y: -51.500004}
+        - {x: -14.5, y: -58.5}
+        - {x: 10.5, y: -58.5}
+        - {x: 24.5, y: -53.5}
+        - {x: 24.5, y: 2.4999962}
+        - {x: 18.5, y: 52.499996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe71e8ce717d485aa6ae6fc19fcdbf9b
+      internalID: 21300016
+      vertices:
+      - {x: 52, y: -0.4999962}
+      - {x: -1, y: -0.4999962}
+      - {x: -1, y: 120.5}
+      - {x: 52, y: 120.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0001
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 129
+        width: 49
+        height: 117
+      alignment: 9
+      pivot: {x: 0.52040815, y: 0.50427353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -24.5, y: -58.5}
+        - {x: -24.5, y: 58.499996}
+        - {x: 24.5, y: 58.499996}
+        - {x: 24.5, y: -58.5}
+      physicsShape:
+      - - {x: 20.5, y: 42.500004}
+        - {x: 12.499999, y: 54.5}
+        - {x: -8.5, y: 54.5}
+        - {x: -20.499998, y: 48.500004}
+        - {x: -22.5, y: 25.500004}
+        - {x: -22.5, y: -53.499992}
+        - {x: -20.499998, y: -58.499992}
+        - {x: 9.5, y: -58.499992}
+        - {x: 16.5, y: -57.499996}
+        - {x: 24.5, y: -51.499996}
+        - {x: 24.5, y: -37.499996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30077ae27b84fe2a3ad29a95c4a31a4
+      internalID: 21300018
+      vertices:
+      - {x: 48, y: -0.5000038}
+      - {x: -1, y: -0.5000038}
+      - {x: -1, y: 116.49999}
+      - {x: 48, y: 116.49999}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0050
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 125
+        width: 51
+        height: 119
+      alignment: 9
+      pivot: {x: 0.51960784, y: 0.5042017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -25.499998, y: -59.5}
+        - {x: -25.499998, y: 59.5}
+        - {x: 25.499998, y: 59.5}
+        - {x: 25.499998, y: -59.5}
+      physicsShape:
+      - - {x: 21.5, y: 27.500002}
+        - {x: 19.5, y: 41.500004}
+        - {x: 11.5, y: 54.5}
+        - {x: -9.5, y: 54.5}
+        - {x: -20.499998, y: 49.5}
+        - {x: -22.5, y: -2.4999962}
+        - {x: -22.5, y: -51.499996}
+        - {x: -17.5, y: -58.499992}
+        - {x: 20.5, y: -58.499992}
+        - {x: 24.5, y: -51.499996}
+        - {x: 24.5, y: -37.499996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e578e8a7d3044a23b4430c2a38bb96c1
+      internalID: 21300020
+      vertices:
+      - {x: 50, y: -0.5000038}
+      - {x: -0.9999981, y: -0.5000038}
+      - {x: -0.9999981, y: 118.5}
+      - {x: 50, y: 118.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0020
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 248
+        width: 53
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5188679, y: 0.5042017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -26.5, y: -59.5}
+        - {x: -26.5, y: 59.5}
+        - {x: 26.5, y: 59.5}
+        - {x: 26.5, y: -59.5}
+      physicsShape:
+      - - {x: 20.5, y: 34.500004}
+        - {x: 13.5, y: 49.5}
+        - {x: 7.5, y: 54.5}
+        - {x: -11.5, y: 54.5}
+        - {x: -22.5, y: 36.500004}
+        - {x: -22.5, y: -53.499992}
+        - {x: -11.5, y: -58.499992}
+        - {x: 14.499999, y: -58.499992}
+        - {x: 24.5, y: -51.499996}
+        - {x: 24.5, y: -37.499996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55686bb48804da4a5d7c7d27dbf6388
+      internalID: 21300022
+      vertices:
+      - {x: 52, y: -0.5000038}
+      - {x: -1, y: -0.5000038}
+      - {x: -1, y: 118.5}
+      - {x: 52, y: 118.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0023
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 247
+        width: 53
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5188679, y: 0.5083333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -26.5, y: -60}
+        - {x: -26.5, y: 59.999996}
+        - {x: 26.5, y: 59.999996}
+        - {x: 26.5, y: -60}
+      physicsShape:
+      - - {x: 22.499998, y: 27.999998}
+        - {x: 14.499999, y: 52}
+        - {x: 12.499999, y: 54.999996}
+        - {x: -10.499999, y: 54.999996}
+        - {x: -22.5, y: 49.999996}
+        - {x: -22.5, y: -57.999996}
+        - {x: 10.5, y: -57.999996}
+        - {x: 24.5, y: -51.999996}
+        - {x: 24.5, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61b8bc3e1f24d408b74d28ba58af8eb
+      internalID: 21300024
+      vertices:
+      - {x: 52, y: -1}
+      - {x: -1, y: -1}
+      - {x: -1, y: 119}
+      - {x: 52, y: 119}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0051
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 127
+        width: 51
+        height: 118
+      alignment: 9
+      pivot: {x: 0.51960784, y: 0.5084746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -25.499998, y: -58.999996}
+        - {x: -25.499998, y: 59}
+        - {x: 25.499998, y: 59}
+        - {x: 25.499998, y: -58.999996}
+      physicsShape:
+      - - {x: 21.5, y: 27.999998}
+        - {x: 19.5, y: 42}
+        - {x: 11.5, y: 54.999996}
+        - {x: -9.5, y: 54.999996}
+        - {x: -20.499998, y: 49.999996}
+        - {x: -22.5, y: -2}
+        - {x: -22.5, y: -51}
+        - {x: -17.5, y: -57.999996}
+        - {x: 20.5, y: -57.999996}
+        - {x: 24.5, y: -51}
+        - {x: 24.5, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6115098901649f88c62660925f5aadd
+      internalID: 21300026
+      vertices:
+      - {x: 50, y: -0.9999962}
+      - {x: -0.9999981, y: -0.9999962}
+      - {x: -0.9999981, y: 117}
+      - {x: 50, y: 117}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0055
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 8
+        width: 49
+        height: 117
+      alignment: 9
+      pivot: {x: 0.52040815, y: 0.50427353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -24.5, y: -58.5}
+        - {x: -24.5, y: 58.499996}
+        - {x: 24.5, y: 58.499996}
+        - {x: 24.5, y: -58.5}
+      physicsShape:
+      - - {x: 20.5, y: 42.500004}
+        - {x: 12.499999, y: 54.5}
+        - {x: -8.5, y: 54.5}
+        - {x: -20.499998, y: 48.500004}
+        - {x: -22.5, y: 25.500004}
+        - {x: -22.5, y: -53.499992}
+        - {x: -20.499998, y: -58.499992}
+        - {x: 9.5, y: -58.499992}
+        - {x: 16.5, y: -57.499996}
+        - {x: 24.5, y: -51.499996}
+        - {x: 24.5, y: -37.499996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02339a7098154cc18b34752fde0666d1
+      internalID: 21300028
+      vertices:
+      - {x: 48, y: -0.5000038}
+      - {x: -1, y: -0.5000038}
+      - {x: -1, y: 116.49999}
+      - {x: 48, y: 116.49999}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0040
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 125
+        width: 53
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5188679, y: 0.5042017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -26.5, y: -59.5}
+        - {x: -26.5, y: 59.5}
+        - {x: 26.5, y: 59.5}
+        - {x: 26.5, y: -59.5}
+      physicsShape:
+      - - {x: 20.5, y: 34.500004}
+        - {x: 13.5, y: 49.5}
+        - {x: 7.5, y: 54.5}
+        - {x: -11.5, y: 54.5}
+        - {x: -22.5, y: 36.500004}
+        - {x: -22.5, y: -53.499992}
+        - {x: -11.5, y: -58.499992}
+        - {x: 14.499999, y: -58.499992}
+        - {x: 24.5, y: -51.499996}
+        - {x: 24.5, y: -37.499996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d80f5bfc24415da373a114fb8677a0
+      internalID: 21300030
+      vertices:
+      - {x: 52, y: -0.5000038}
+      - {x: -1, y: -0.5000038}
+      - {x: -1, y: 118.5}
+      - {x: 52, y: 118.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0033
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 246
+        width: 53
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5188679, y: 0.5041322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -26.5, y: -60.5}
+        - {x: -26.5, y: 60.5}
+        - {x: 26.5, y: 60.5}
+        - {x: 26.5, y: -60.5}
+      physicsShape:
+      - - {x: -8.5, y: 54.499992}
+        - {x: -22.5, y: 48.499996}
+        - {x: -22.5, y: -51.500004}
+        - {x: -15.5, y: -58.5}
+        - {x: 14.499999, y: -58.5}
+        - {x: 24.5, y: -54.500004}
+        - {x: 24.5, y: -37.500004}
+        - {x: 23.5, y: -35.500004}
+        - {x: 21.5, y: 34.499996}
+        - {x: 11.5, y: 54.499992}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645ebd461a3e4807aa2c665168badf8f
+      internalID: 21300032
+      vertices:
+      - {x: 52, y: -0.4999962}
+      - {x: -1, y: -0.4999962}
+      - {x: -1, y: 120.5}
+      - {x: 52, y: 120.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0003
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 250
+        width: 49
+        height: 117
+      alignment: 9
+      pivot: {x: 0.52040815, y: 0.50427353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -24.5, y: -58.5}
+        - {x: -24.5, y: 58.499996}
+        - {x: 24.5, y: 58.499996}
+        - {x: 24.5, y: -58.5}
+      physicsShape:
+      - - {x: 20.5, y: 42.500004}
+        - {x: 12.499999, y: 54.5}
+        - {x: -8.5, y: 54.5}
+        - {x: -20.499998, y: 48.500004}
+        - {x: -22.5, y: 25.500004}
+        - {x: -22.5, y: -53.499992}
+        - {x: -20.499998, y: -58.499992}
+        - {x: 9.5, y: -58.499992}
+        - {x: 16.5, y: -57.499996}
+        - {x: 24.5, y: -51.499996}
+        - {x: 24.5, y: -37.499996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31e3b6470434525be969e56979e06d0
+      internalID: 21300034
+      vertices:
+      - {x: 48, y: -0.5000038}
+      - {x: -1, y: -0.5000038}
+      - {x: -1, y: 116.49999}
+      - {x: 48, y: 116.49999}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0060
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 129
+        width: 49
+        height: 117
+      alignment: 9
+      pivot: {x: 0.52040815, y: 0.50427353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -24.5, y: -58.5}
+        - {x: -24.5, y: 58.499996}
+        - {x: 24.5, y: 58.499996}
+        - {x: 24.5, y: -58.5}
+      physicsShape:
+      - - {x: 20.5, y: 42.500004}
+        - {x: 12.499999, y: 54.5}
+        - {x: -8.5, y: 54.5}
+        - {x: -20.499998, y: 48.500004}
+        - {x: -22.5, y: 25.500004}
+        - {x: -22.5, y: -53.499992}
+        - {x: -20.499998, y: -58.499992}
+        - {x: 9.5, y: -58.499992}
+        - {x: 16.5, y: -57.499996}
+        - {x: 24.5, y: -51.499996}
+        - {x: 24.5, y: -37.499996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5dbc742c4424c98a4b2c3ac9896ce49
+      internalID: 21300036
+      vertices:
+      - {x: 48, y: -0.5000038}
+      - {x: -1, y: -0.5000038}
+      - {x: -1, y: 116.49999}
+      - {x: 48, y: 116.49999}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0002
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 10
+        width: 49
+        height: 117
+      alignment: 9
+      pivot: {x: 0.52040815, y: 0.50427353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -24.5, y: -58.5}
+        - {x: -24.5, y: 58.499996}
+        - {x: 24.5, y: 58.499996}
+        - {x: 24.5, y: -58.5}
+      physicsShape:
+      - - {x: 20.5, y: 42.500004}
+        - {x: 12.499999, y: 54.5}
+        - {x: -8.5, y: 54.5}
+        - {x: -20.499998, y: 48.500004}
+        - {x: -22.5, y: 25.500004}
+        - {x: -22.5, y: -53.499992}
+        - {x: -20.499998, y: -58.499992}
+        - {x: 9.5, y: -58.499992}
+        - {x: 16.5, y: -57.499996}
+        - {x: 24.5, y: -51.499996}
+        - {x: 24.5, y: -37.499996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ce6486446241b69b311c3bd7b77f95
+      internalID: 21300038
+      vertices:
+      - {x: 48, y: -0.5000038}
+      - {x: -1, y: -0.5000038}
+      - {x: -1, y: 116.49999}
+      - {x: 48, y: 116.49999}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0038
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 247
+        width: 53
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5188679, y: 0.5083333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -26.5, y: -60}
+        - {x: -26.5, y: 59.999996}
+        - {x: 26.5, y: 59.999996}
+        - {x: 26.5, y: -60}
+      physicsShape:
+      - - {x: 22.499998, y: 27.999998}
+        - {x: 14.499999, y: 52}
+        - {x: 12.499999, y: 54.999996}
+        - {x: -10.499999, y: 54.999996}
+        - {x: -22.5, y: 49.999996}
+        - {x: -22.5, y: -57.999996}
+        - {x: 10.5, y: -57.999996}
+        - {x: 24.5, y: -51.999996}
+        - {x: 24.5, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcaf0c10907a49cc83b0699de7f2faea
+      internalID: 21300040
+      vertices:
+      - {x: 52, y: -1}
+      - {x: -1, y: -1}
+      - {x: -1, y: 119}
+      - {x: 52, y: 119}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0019
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 248
+        width: 53
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5188679, y: 0.5042017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -26.5, y: -59.5}
+        - {x: -26.5, y: 59.5}
+        - {x: 26.5, y: 59.5}
+        - {x: 26.5, y: -59.5}
+      physicsShape:
+      - - {x: 20.5, y: 34.500004}
+        - {x: 13.5, y: 49.5}
+        - {x: 7.5, y: 54.5}
+        - {x: -11.5, y: 54.5}
+        - {x: -22.5, y: 36.500004}
+        - {x: -22.5, y: -53.499992}
+        - {x: -11.5, y: -58.499992}
+        - {x: 14.499999, y: -58.499992}
+        - {x: 24.5, y: -51.499996}
+        - {x: 24.5, y: -37.499996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f25c5472a24047b36d6c02564c3a38
+      internalID: 21300042
+      vertices:
+      - {x: 52, y: -0.5000038}
+      - {x: -1, y: -0.5000038}
+      - {x: -1, y: 118.5}
+      - {x: 52, y: 118.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0009
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 128
+        width: 51
+        height: 118
+      alignment: 9
+      pivot: {x: 0.51960784, y: 0.5084746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -25.499998, y: -58.999996}
+        - {x: -25.499998, y: 59}
+        - {x: 25.499998, y: 59}
+        - {x: 25.499998, y: -58.999996}
+      physicsShape:
+      - - {x: 21.5, y: 27.999998}
+        - {x: 19.5, y: 42}
+        - {x: 11.5, y: 54.999996}
+        - {x: -9.5, y: 54.999996}
+        - {x: -20.499998, y: 49.999996}
+        - {x: -22.5, y: -2}
+        - {x: -22.5, y: -51}
+        - {x: -17.5, y: -57.999996}
+        - {x: 20.5, y: -57.999996}
+        - {x: 24.5, y: -51}
+        - {x: 24.5, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4341bbf415a2488a99523cf04824fd28
+      internalID: 21300044
+      vertices:
+      - {x: 50, y: -0.9999962}
+      - {x: -0.9999981, y: -0.9999962}
+      - {x: -0.9999981, y: 117}
+      - {x: 50, y: 117}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0027
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 246
+        width: 53
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5188679, y: 0.5041322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -26.5, y: -60.5}
+        - {x: -26.5, y: 60.5}
+        - {x: 26.5, y: 60.5}
+        - {x: 26.5, y: -60.5}
+      physicsShape:
+      - - {x: -8.5, y: 54.499992}
+        - {x: -22.5, y: 48.499996}
+        - {x: -22.5, y: -51.500004}
+        - {x: -15.5, y: -58.5}
+        - {x: 14.499999, y: -58.5}
+        - {x: 24.5, y: -54.500004}
+        - {x: 24.5, y: -37.500004}
+        - {x: 23.5, y: -35.500004}
+        - {x: 21.5, y: 34.499996}
+        - {x: 11.5, y: 54.499992}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395c812f0f8346faa10bfd8bc1801b95
+      internalID: 21300046
+      vertices:
+      - {x: 52, y: -0.4999962}
+      - {x: -1, y: -0.4999962}
+      - {x: -1, y: 120.5}
+      - {x: 52, y: 120.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0057
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 7
+        width: 49
+        height: 117
+      alignment: 9
+      pivot: {x: 0.52040815, y: 0.50427353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -24.5, y: -58.5}
+        - {x: -24.5, y: 58.499996}
+        - {x: 24.5, y: 58.499996}
+        - {x: 24.5, y: -58.5}
+      physicsShape:
+      - - {x: 20.5, y: 42.500004}
+        - {x: 12.499999, y: 54.5}
+        - {x: -8.5, y: 54.5}
+        - {x: -20.499998, y: 48.500004}
+        - {x: -22.5, y: 25.500004}
+        - {x: -22.5, y: -53.499992}
+        - {x: -20.499998, y: -58.499992}
+        - {x: 9.5, y: -58.499992}
+        - {x: 16.5, y: -57.499996}
+        - {x: 24.5, y: -51.499996}
+        - {x: 24.5, y: -37.499996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3415c1ab8b4629a60528a99f5aeeba
+      internalID: 21300048
+      vertices:
+      - {x: 48, y: -0.5000038}
+      - {x: -1, y: -0.5000038}
+      - {x: -1, y: 116.49999}
+      - {x: 48, y: 116.49999}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0008
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 128
+        width: 51
+        height: 118
+      alignment: 9
+      pivot: {x: 0.51960784, y: 0.5084746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -25.499998, y: -58.999996}
+        - {x: -25.499998, y: 59}
+        - {x: 25.499998, y: 59}
+        - {x: 25.499998, y: -58.999996}
+      physicsShape:
+      - - {x: 21.5, y: 27.999998}
+        - {x: 19.5, y: 42}
+        - {x: 11.5, y: 54.999996}
+        - {x: -9.5, y: 54.999996}
+        - {x: -20.499998, y: 49.999996}
+        - {x: -22.5, y: -2}
+        - {x: -22.5, y: -51}
+        - {x: -17.5, y: -57.999996}
+        - {x: 20.5, y: -57.999996}
+        - {x: 24.5, y: -51}
+        - {x: 24.5, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6c14f29b9c4bfb9927774e35efd97a
+      internalID: 21300050
+      vertices:
+      - {x: 50, y: -0.9999962}
+      - {x: -0.9999981, y: -0.9999962}
+      - {x: -0.9999981, y: 117}
+      - {x: 50, y: 117}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0054
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 9
+        width: 49
+        height: 117
+      alignment: 9
+      pivot: {x: 0.52040815, y: 0.50427353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -24.5, y: -58.5}
+        - {x: -24.5, y: 58.499996}
+        - {x: 24.5, y: 58.499996}
+        - {x: 24.5, y: -58.5}
+      physicsShape:
+      - - {x: 20.5, y: 42.500004}
+        - {x: 12.499999, y: 54.5}
+        - {x: -8.5, y: 54.5}
+        - {x: -20.499998, y: 48.500004}
+        - {x: -22.5, y: 25.500004}
+        - {x: -22.5, y: -53.499992}
+        - {x: -20.499998, y: -58.499992}
+        - {x: 9.5, y: -58.499992}
+        - {x: 16.5, y: -57.499996}
+        - {x: 24.5, y: -51.499996}
+        - {x: 24.5, y: -37.499996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4d58ff77154182b579530c35993ad8
+      internalID: 21300052
+      vertices:
+      - {x: 48, y: -0.5000038}
+      - {x: -1, y: -0.5000038}
+      - {x: -1, y: 116.49999}
+      - {x: 48, y: 116.49999}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0049
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 4
+        width: 51
+        height: 119
+      alignment: 9
+      pivot: {x: 0.51960784, y: 0.5042017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -25.499998, y: -59.5}
+        - {x: -25.499998, y: 59.5}
+        - {x: 25.499998, y: 59.5}
+        - {x: 25.499998, y: -59.5}
+      physicsShape:
+      - - {x: 21.5, y: 27.500002}
+        - {x: 19.5, y: 41.500004}
+        - {x: 11.5, y: 54.5}
+        - {x: -9.5, y: 54.5}
+        - {x: -20.499998, y: 49.5}
+        - {x: -22.5, y: -2.4999962}
+        - {x: -22.5, y: -51.499996}
+        - {x: -17.5, y: -58.499992}
+        - {x: 20.5, y: -58.499992}
+        - {x: 24.5, y: -51.499996}
+        - {x: 24.5, y: -37.499996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c0a3c2b1454700b25e1f8df3ca7fdf
+      internalID: 21300054
+      vertices:
+      - {x: 50, y: -0.5000038}
+      - {x: -0.9999981, y: -0.5000038}
+      - {x: -0.9999981, y: 118.5}
+      - {x: 50, y: 118.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0029
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 246
+        width: 53
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5188679, y: 0.5041322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -26.5, y: -60.5}
+        - {x: -26.5, y: 60.5}
+        - {x: 26.5, y: 60.5}
+        - {x: 26.5, y: -60.5}
+      physicsShape:
+      - - {x: 15.5, y: 54.499992}
+        - {x: -8.5, y: 54.499992}
+        - {x: -22.5, y: 48.499996}
+        - {x: -22.5, y: -51.500004}
+        - {x: -14.5, y: -58.5}
+        - {x: 10.5, y: -58.5}
+        - {x: 24.5, y: -53.5}
+        - {x: 24.5, y: 2.4999962}
+        - {x: 18.5, y: 52.499996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76709e8caf6c46e5956d8e820af2f37b
+      internalID: 21300056
+      vertices:
+      - {x: 52, y: -0.4999962}
+      - {x: -1, y: -0.4999962}
+      - {x: -1, y: 120.5}
+      - {x: 52, y: 120.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0014
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 4
+        width: 51
+        height: 119
+      alignment: 9
+      pivot: {x: 0.51960784, y: 0.5042017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -25.499998, y: -59.5}
+        - {x: -25.499998, y: 59.5}
+        - {x: 25.499998, y: 59.5}
+        - {x: 25.499998, y: -59.5}
+      physicsShape:
+      - - {x: 21.5, y: 27.500002}
+        - {x: 19.5, y: 41.500004}
+        - {x: 11.5, y: 54.5}
+        - {x: -9.5, y: 54.5}
+        - {x: -20.499998, y: 49.5}
+        - {x: -22.5, y: -2.4999962}
+        - {x: -22.5, y: -51.499996}
+        - {x: -17.5, y: -58.499992}
+        - {x: 20.5, y: -58.499992}
+        - {x: 24.5, y: -51.499996}
+        - {x: 24.5, y: -37.499996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9925d5ff0c8347529b1db9d1f0449fc6
+      internalID: 21300058
+      vertices:
+      - {x: 50, y: -0.5000038}
+      - {x: -0.9999981, y: -0.5000038}
+      - {x: -0.9999981, y: 118.5}
+      - {x: 50, y: 118.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0005
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 129
+        width: 49
+        height: 117
+      alignment: 9
+      pivot: {x: 0.52040815, y: 0.50427353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -24.5, y: -58.5}
+        - {x: -24.5, y: 58.499996}
+        - {x: 24.5, y: 58.499996}
+        - {x: 24.5, y: -58.5}
+      physicsShape:
+      - - {x: 20.5, y: 42.500004}
+        - {x: 12.499999, y: 54.5}
+        - {x: -8.5, y: 54.5}
+        - {x: -20.499998, y: 48.500004}
+        - {x: -22.5, y: 25.500004}
+        - {x: -22.5, y: -53.499992}
+        - {x: -20.499998, y: -58.499992}
+        - {x: 9.5, y: -58.499992}
+        - {x: 16.5, y: -57.499996}
+        - {x: 24.5, y: -51.499996}
+        - {x: 24.5, y: -37.499996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff2dbc04493493392d9a2949812ee1a
+      internalID: 21300060
+      vertices:
+      - {x: 48, y: -0.5000038}
+      - {x: -1, y: -0.5000038}
+      - {x: -1, y: 116.49999}
+      - {x: 48, y: 116.49999}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0035
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 123
+        width: 53
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5188679, y: 0.5041322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -26.5, y: -60.5}
+        - {x: -26.5, y: 60.5}
+        - {x: 26.5, y: 60.5}
+        - {x: 26.5, y: -60.5}
+      physicsShape:
+      - - {x: -8.5, y: 54.499992}
+        - {x: -22.5, y: 48.499996}
+        - {x: -22.5, y: -51.500004}
+        - {x: -15.5, y: -58.5}
+        - {x: 14.499999, y: -58.5}
+        - {x: 24.5, y: -54.500004}
+        - {x: 24.5, y: -37.500004}
+        - {x: 23.5, y: -35.500004}
+        - {x: 21.5, y: 34.499996}
+        - {x: 11.5, y: 54.499992}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3428ec0a356e4976a5717f9be93af8b6
+      internalID: 21300062
+      vertices:
+      - {x: 52, y: -0.4999962}
+      - {x: -1, y: -0.4999962}
+      - {x: -1, y: 120.5}
+      - {x: 52, y: 120.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0028
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 246
+        width: 53
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5188679, y: 0.5041322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -26.5, y: -60.5}
+        - {x: -26.5, y: 60.5}
+        - {x: 26.5, y: 60.5}
+        - {x: 26.5, y: -60.5}
+      physicsShape:
+      - - {x: 15.5, y: 54.499992}
+        - {x: -8.5, y: 54.499992}
+        - {x: -22.5, y: 48.499996}
+        - {x: -22.5, y: -51.500004}
+        - {x: -14.5, y: -58.5}
+        - {x: 10.5, y: -58.5}
+        - {x: 24.5, y: -53.5}
+        - {x: 24.5, y: 2.4999962}
+        - {x: 18.5, y: 52.499996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2109558121f7463e946cbe5d66a224a2
+      internalID: 21300064
+      vertices:
+      - {x: 52, y: -0.4999962}
+      - {x: -1, y: -0.4999962}
+      - {x: -1, y: 120.5}
+      - {x: 52, y: 120.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0026
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 246
+        width: 53
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5188679, y: 0.5041322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -26.5, y: -60.5}
+        - {x: -26.5, y: 60.5}
+        - {x: 26.5, y: 60.5}
+        - {x: 26.5, y: -60.5}
+      physicsShape:
+      - - {x: -8.5, y: 54.499992}
+        - {x: -22.5, y: 48.499996}
+        - {x: -22.5, y: -51.500004}
+        - {x: -15.5, y: -58.5}
+        - {x: 14.499999, y: -58.5}
+        - {x: 24.5, y: -54.500004}
+        - {x: 24.5, y: -37.500004}
+        - {x: 23.5, y: -35.500004}
+        - {x: 21.5, y: 34.499996}
+        - {x: 11.5, y: 54.499992}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2840ae46de1b4ba7ab0221951c179e8c
+      internalID: 21300066
+      vertices:
+      - {x: 52, y: -0.4999962}
+      - {x: -1, y: -0.4999962}
+      - {x: -1, y: 120.5}
+      - {x: 52, y: 120.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0059
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 6
+        width: 49
+        height: 117
+      alignment: 9
+      pivot: {x: 0.52040815, y: 0.50427353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -24.5, y: -58.5}
+        - {x: -24.5, y: 58.499996}
+        - {x: 24.5, y: 58.499996}
+        - {x: 24.5, y: -58.5}
+      physicsShape:
+      - - {x: 20.5, y: 42.500004}
+        - {x: 12.499999, y: 54.5}
+        - {x: -8.5, y: 54.5}
+        - {x: -20.499998, y: 48.500004}
+        - {x: -22.5, y: 25.500004}
+        - {x: -22.5, y: -53.499992}
+        - {x: -20.499998, y: -58.499992}
+        - {x: 9.5, y: -58.499992}
+        - {x: 16.5, y: -57.499996}
+        - {x: 24.5, y: -51.499996}
+        - {x: 24.5, y: -37.499996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6a1d42a9c2481b9eeea69aeeeb1e1f
+      internalID: 21300068
+      vertices:
+      - {x: 48, y: -0.5000038}
+      - {x: -1, y: -0.5000038}
+      - {x: -1, y: 116.49999}
+      - {x: 48, y: 116.49999}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0030
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 246
+        width: 55
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5181818, y: 0.5041322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -27.5, y: -60.5}
+        - {x: -27.5, y: 60.5}
+        - {x: 27.499998, y: 60.5}
+        - {x: 27.499998, y: -60.5}
+      physicsShape:
+      - - {x: 15.5, y: 54.499992}
+        - {x: -8.5, y: 54.499992}
+        - {x: -22.5, y: 48.499996}
+        - {x: -22.5, y: -51.500004}
+        - {x: -14.5, y: -58.5}
+        - {x: 10.5, y: -58.5}
+        - {x: 24.5, y: -53.5}
+        - {x: 24.5, y: 2.4999962}
+        - {x: 18.5, y: 52.499996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af922073c7742edb142d5d6d18b63b9
+      internalID: 21300070
+      vertices:
+      - {x: 54, y: -0.4999962}
+      - {x: -1, y: -0.4999962}
+      - {x: -1, y: 120.5}
+      - {x: 54, y: 120.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0046
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 125
+        width: 51
+        height: 119
+      alignment: 9
+      pivot: {x: 0.51960784, y: 0.5042017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -25.499998, y: -59.5}
+        - {x: -25.499998, y: 59.5}
+        - {x: 25.499998, y: 59.5}
+        - {x: 25.499998, y: -59.5}
+      physicsShape:
+      - - {x: 21.5, y: 27.500002}
+        - {x: 19.5, y: 41.500004}
+        - {x: 11.5, y: 54.5}
+        - {x: -9.5, y: 54.5}
+        - {x: -20.499998, y: 49.5}
+        - {x: -22.5, y: -2.4999962}
+        - {x: -22.5, y: -51.499996}
+        - {x: -17.5, y: -58.499992}
+        - {x: 20.5, y: -58.499992}
+        - {x: 24.5, y: -51.499996}
+        - {x: 24.5, y: -37.499996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0392029dea4772903ab6551ccd89ba
+      internalID: 21300072
+      vertices:
+      - {x: 50, y: -0.5000038}
+      - {x: -0.9999981, y: -0.5000038}
+      - {x: -0.9999981, y: 118.5}
+      - {x: 50, y: 118.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0032
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 246
+        width: 53
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5188679, y: 0.5041322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -26.5, y: -60.5}
+        - {x: -26.5, y: 60.5}
+        - {x: 26.5, y: 60.5}
+        - {x: 26.5, y: -60.5}
+      physicsShape:
+      - - {x: 15.5, y: 54.499992}
+        - {x: -8.5, y: 54.499992}
+        - {x: -22.5, y: 48.499996}
+        - {x: -22.5, y: -51.500004}
+        - {x: -14.5, y: -58.5}
+        - {x: 10.5, y: -58.5}
+        - {x: 24.5, y: -53.5}
+        - {x: 24.5, y: 2.4999962}
+        - {x: 18.5, y: 52.499996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b208b15ea940a080ffc5731cee70b8
+      internalID: 21300074
+      vertices:
+      - {x: 52, y: -0.4999962}
+      - {x: -1, y: -0.4999962}
+      - {x: -1, y: 120.5}
+      - {x: 52, y: 120.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0058
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 7
+        width: 49
+        height: 117
+      alignment: 9
+      pivot: {x: 0.52040815, y: 0.50427353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -24.5, y: -58.5}
+        - {x: -24.5, y: 58.499996}
+        - {x: 24.5, y: 58.499996}
+        - {x: 24.5, y: -58.5}
+      physicsShape:
+      - - {x: 20.5, y: 42.500004}
+        - {x: 12.499999, y: 54.5}
+        - {x: -8.5, y: 54.5}
+        - {x: -20.499998, y: 48.500004}
+        - {x: -22.5, y: 25.500004}
+        - {x: -22.5, y: -53.499992}
+        - {x: -20.499998, y: -58.499992}
+        - {x: 9.5, y: -58.499992}
+        - {x: 16.5, y: -57.499996}
+        - {x: 24.5, y: -51.499996}
+        - {x: 24.5, y: -37.499996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6752d78662c445d7a94acab365d44fb3
+      internalID: 21300076
+      vertices:
+      - {x: 48, y: -0.5000038}
+      - {x: -1, y: -0.5000038}
+      - {x: -1, y: 116.49999}
+      - {x: 48, y: 116.49999}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0012
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 126
+        width: 51
+        height: 119
+      alignment: 9
+      pivot: {x: 0.51960784, y: 0.5042017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -25.499998, y: -59.5}
+        - {x: -25.499998, y: 59.5}
+        - {x: 25.499998, y: 59.5}
+        - {x: 25.499998, y: -59.5}
+      physicsShape:
+      - - {x: 21.5, y: 27.500002}
+        - {x: 19.5, y: 41.500004}
+        - {x: 11.5, y: 54.5}
+        - {x: -9.5, y: 54.5}
+        - {x: -20.499998, y: 49.5}
+        - {x: -22.5, y: -2.4999962}
+        - {x: -22.5, y: -51.499996}
+        - {x: -17.5, y: -58.499992}
+        - {x: 20.5, y: -58.499992}
+        - {x: 24.5, y: -51.499996}
+        - {x: 24.5, y: -37.499996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1173cb8e371245c2b1e9c4a2ef78ea8a
+      internalID: 21300078
+      vertices:
+      - {x: 50, y: -0.5000038}
+      - {x: -0.9999981, y: -0.5000038}
+      - {x: -0.9999981, y: 118.5}
+      - {x: 50, y: 118.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0048
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 125
+        width: 51
+        height: 119
+      alignment: 9
+      pivot: {x: 0.51960784, y: 0.5042017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -25.499998, y: -59.5}
+        - {x: -25.499998, y: 59.5}
+        - {x: 25.499998, y: 59.5}
+        - {x: 25.499998, y: -59.5}
+      physicsShape:
+      - - {x: 21.5, y: 27.500002}
+        - {x: 19.5, y: 41.500004}
+        - {x: 11.5, y: 54.5}
+        - {x: -9.5, y: 54.5}
+        - {x: -20.499998, y: 49.5}
+        - {x: -22.5, y: -2.4999962}
+        - {x: -22.5, y: -51.499996}
+        - {x: -17.5, y: -58.499992}
+        - {x: 20.5, y: -58.499992}
+        - {x: 24.5, y: -51.499996}
+        - {x: 24.5, y: -37.499996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3bf731fcd1a4deda2141047f46ca14a
+      internalID: 21300080
+      vertices:
+      - {x: 50, y: -0.5000038}
+      - {x: -0.9999981, y: -0.5000038}
+      - {x: -0.9999981, y: 118.5}
+      - {x: 50, y: 118.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0010
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 126
+        width: 51
+        height: 119
+      alignment: 9
+      pivot: {x: 0.51960784, y: 0.5042017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -25.499998, y: -59.5}
+        - {x: -25.499998, y: 59.5}
+        - {x: 25.499998, y: 59.5}
+        - {x: 25.499998, y: -59.5}
+      physicsShape:
+      - - {x: 21.5, y: 27.500002}
+        - {x: 19.5, y: 41.500004}
+        - {x: 11.5, y: 54.5}
+        - {x: -9.5, y: 54.5}
+        - {x: -20.499998, y: 49.5}
+        - {x: -22.5, y: -2.4999962}
+        - {x: -22.5, y: -51.499996}
+        - {x: -17.5, y: -58.499992}
+        - {x: 20.5, y: -58.499992}
+        - {x: 24.5, y: -51.499996}
+        - {x: 24.5, y: -37.499996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cead071539344fc6822bfcf97ea85fd5
+      internalID: 21300082
+      vertices:
+      - {x: 50, y: -0.5000038}
+      - {x: -0.9999981, y: -0.5000038}
+      - {x: -0.9999981, y: 118.5}
+      - {x: 50, y: 118.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0006
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 9
+        width: 49
+        height: 117
+      alignment: 9
+      pivot: {x: 0.52040815, y: 0.50427353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -24.5, y: -58.5}
+        - {x: -24.5, y: 58.499996}
+        - {x: 24.5, y: 58.499996}
+        - {x: 24.5, y: -58.5}
+      physicsShape:
+      - - {x: 20.5, y: 42.500004}
+        - {x: 12.499999, y: 54.5}
+        - {x: -8.5, y: 54.5}
+        - {x: -20.499998, y: 48.500004}
+        - {x: -22.5, y: 25.500004}
+        - {x: -22.5, y: -53.499992}
+        - {x: -20.499998, y: -58.499992}
+        - {x: 9.5, y: -58.499992}
+        - {x: 16.5, y: -57.499996}
+        - {x: 24.5, y: -51.499996}
+        - {x: 24.5, y: -37.499996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfceca418624e23a8c3585083bac802
+      internalID: 21300084
+      vertices:
+      - {x: 48, y: -0.5000038}
+      - {x: -1, y: -0.5000038}
+      - {x: -1, y: 116.49999}
+      - {x: 48, y: 116.49999}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0017
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 125
+        width: 51
+        height: 119
+      alignment: 9
+      pivot: {x: 0.51960784, y: 0.5042017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -25.499998, y: -59.5}
+        - {x: -25.499998, y: 59.5}
+        - {x: 25.499998, y: 59.5}
+        - {x: 25.499998, y: -59.5}
+      physicsShape:
+      - - {x: 9.5, y: 54.5}
+        - {x: -10.499999, y: 54.5}
+        - {x: -20.499998, y: 46.5}
+        - {x: -22.5, y: 6.500004}
+        - {x: -22.5, y: -53.499992}
+        - {x: -17.5, y: -58.499992}
+        - {x: 21.5, y: -58.499992}
+        - {x: 24.5, y: -55.499996}
+        - {x: 24.5, y: 28.500004}
+        - {x: 16.5, y: 52.500004}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ee384888d1484485e058200fe6c1f0
+      internalID: 21300086
+      vertices:
+      - {x: 50, y: -0.5000038}
+      - {x: -0.9999981, y: -0.5000038}
+      - {x: -0.9999981, y: 118.5}
+      - {x: 50, y: 118.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0044
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 4
+        width: 51
+        height: 119
+      alignment: 9
+      pivot: {x: 0.51960784, y: 0.5042017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -25.499998, y: -59.5}
+        - {x: -25.499998, y: 59.5}
+        - {x: 25.499998, y: 59.5}
+        - {x: 25.499998, y: -59.5}
+      physicsShape:
+      - - {x: 9.5, y: 54.5}
+        - {x: -10.499999, y: 54.5}
+        - {x: -20.499998, y: 46.5}
+        - {x: -22.5, y: 6.500004}
+        - {x: -22.5, y: -53.499992}
+        - {x: -17.5, y: -58.499992}
+        - {x: 21.5, y: -58.499992}
+        - {x: 24.5, y: -55.499996}
+        - {x: 24.5, y: 28.500004}
+        - {x: 16.5, y: 52.500004}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239578fa9d954af6bfd6fba3455390da
+      internalID: 21300088
+      vertices:
+      - {x: 50, y: -0.5000038}
+      - {x: -0.9999981, y: -0.5000038}
+      - {x: -0.9999981, y: 118.5}
+      - {x: 50, y: 118.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0045
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 125
+        width: 51
+        height: 119
+      alignment: 9
+      pivot: {x: 0.51960784, y: 0.5042017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -25.499998, y: -59.5}
+        - {x: -25.499998, y: 59.5}
+        - {x: 25.499998, y: 59.5}
+        - {x: 25.499998, y: -59.5}
+      physicsShape:
+      - - {x: 21.5, y: 27.500002}
+        - {x: 19.5, y: 41.500004}
+        - {x: 11.5, y: 54.5}
+        - {x: -9.5, y: 54.5}
+        - {x: -20.499998, y: 49.5}
+        - {x: -22.5, y: -2.4999962}
+        - {x: -22.5, y: -51.499996}
+        - {x: -17.5, y: -58.499992}
+        - {x: 20.5, y: -58.499992}
+        - {x: 24.5, y: -51.499996}
+        - {x: 24.5, y: -37.499996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642eaaddecb24c769a21178699ded1bd
+      internalID: 21300090
+      vertices:
+      - {x: 50, y: -0.5000038}
+      - {x: -0.9999981, y: -0.5000038}
+      - {x: -0.9999981, y: 118.5}
+      - {x: 50, y: 118.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0052
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 5
+        width: 51
+        height: 118
+      alignment: 9
+      pivot: {x: 0.51960784, y: 0.5084746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -25.499998, y: -58.999996}
+        - {x: -25.499998, y: 59}
+        - {x: 25.499998, y: 59}
+        - {x: 25.499998, y: -58.999996}
+      physicsShape:
+      - - {x: 21.5, y: 27.999998}
+        - {x: 19.5, y: 42}
+        - {x: 11.5, y: 54.999996}
+        - {x: -9.5, y: 54.999996}
+        - {x: -20.499998, y: 49.999996}
+        - {x: -22.5, y: -2}
+        - {x: -22.5, y: -51}
+        - {x: -17.5, y: -57.999996}
+        - {x: 20.5, y: -57.999996}
+        - {x: 24.5, y: -51}
+        - {x: 24.5, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091472129af449898e9c67146e5c949c
+      internalID: 21300092
+      vertices:
+      - {x: 50, y: -0.9999962}
+      - {x: -0.9999981, y: -0.9999962}
+      - {x: -0.9999981, y: 117}
+      - {x: 50, y: 117}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0053
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 5
+        width: 51
+        height: 118
+      alignment: 9
+      pivot: {x: 0.51960784, y: 0.5084746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -25.499998, y: -58.999996}
+        - {x: -25.499998, y: 59}
+        - {x: 25.499998, y: 59}
+        - {x: 25.499998, y: -58.999996}
+      physicsShape:
+      - - {x: 21.5, y: 27.999998}
+        - {x: 19.5, y: 42}
+        - {x: 11.5, y: 54.999996}
+        - {x: -9.5, y: 54.999996}
+        - {x: -20.499998, y: 49.999996}
+        - {x: -22.5, y: -2}
+        - {x: -22.5, y: -51}
+        - {x: -17.5, y: -57.999996}
+        - {x: 20.5, y: -57.999996}
+        - {x: 24.5, y: -51}
+        - {x: 24.5, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff3a1c0949d414ba528057928fcaca6
+      internalID: 21300094
+      vertices:
+      - {x: 50, y: -0.9999962}
+      - {x: -0.9999981, y: -0.9999962}
+      - {x: -0.9999981, y: 117}
+      - {x: 50, y: 117}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0018
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 4
+        width: 51
+        height: 119
+      alignment: 9
+      pivot: {x: 0.51960784, y: 0.5042017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -25.499998, y: -59.5}
+        - {x: -25.499998, y: 59.5}
+        - {x: 25.499998, y: 59.5}
+        - {x: 25.499998, y: -59.5}
+      physicsShape:
+      - - {x: 9.5, y: 54.5}
+        - {x: -10.499999, y: 54.5}
+        - {x: -20.499998, y: 46.5}
+        - {x: -22.5, y: 6.500004}
+        - {x: -22.5, y: -53.499992}
+        - {x: -17.5, y: -58.499992}
+        - {x: 21.5, y: -58.499992}
+        - {x: 24.5, y: -55.499996}
+        - {x: 24.5, y: 28.500004}
+        - {x: 16.5, y: 52.500004}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9507c5c9d911448ab9bbab6cb0b8d15c
+      internalID: 21300096
+      vertices:
+      - {x: 50, y: -0.5000038}
+      - {x: -0.9999981, y: -0.5000038}
+      - {x: -0.9999981, y: 118.5}
+      - {x: 50, y: 118.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0034
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 246
+        width: 53
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5188679, y: 0.5041322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -26.5, y: -60.5}
+        - {x: -26.5, y: 60.5}
+        - {x: 26.5, y: 60.5}
+        - {x: 26.5, y: -60.5}
+      physicsShape:
+      - - {x: -8.5, y: 54.499992}
+        - {x: -22.5, y: 48.499996}
+        - {x: -22.5, y: -51.500004}
+        - {x: -15.5, y: -58.5}
+        - {x: 14.499999, y: -58.5}
+        - {x: 24.5, y: -54.500004}
+        - {x: 24.5, y: -37.500004}
+        - {x: 23.5, y: -35.500004}
+        - {x: 21.5, y: 34.499996}
+        - {x: 11.5, y: 54.499992}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0565f747d9cf43ef9993c0b3e7c22454
+      internalID: 21300098
+      vertices:
+      - {x: 52, y: -0.4999962}
+      - {x: -1, y: -0.4999962}
+      - {x: -1, y: 120.5}
+      - {x: 52, y: 120.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0039
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 3
+        width: 53
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5188679, y: 0.5042017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -26.5, y: -59.5}
+        - {x: -26.5, y: 59.5}
+        - {x: 26.5, y: 59.5}
+        - {x: 26.5, y: -59.5}
+      physicsShape:
+      - - {x: 24.5, y: -37.5}
+        - {x: 20.5, y: 42.5}
+        - {x: 8.5, y: 54.5}
+        - {x: -11.5, y: 54.5}
+        - {x: -22.5, y: 37.5}
+        - {x: -22.5, y: -53.5}
+        - {x: -11.5, y: -58.5}
+        - {x: 13.5, y: -58.5}
+        - {x: 16.5, y: -56.5}
+        - {x: 24.5, y: -50.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0af628dc544bdba46ceacbb1972ef3
+      internalID: 21300100
+      vertices:
+      - {x: 52, y: -0.5000038}
+      - {x: -1, y: -0.5000038}
+      - {x: -1, y: 118.5}
+      - {x: 52, y: 118.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0022
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 247
+        width: 53
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5188679, y: 0.5083333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -26.5, y: -60}
+        - {x: -26.5, y: 59.999996}
+        - {x: 26.5, y: 59.999996}
+        - {x: 26.5, y: -60}
+      physicsShape:
+      - - {x: 24.5, y: 25}
+        - {x: 18.5, y: 54.999996}
+        - {x: -12.499999, y: 54.999996}
+        - {x: -22.5, y: 43.999996}
+        - {x: -22.5, y: -57.999996}
+        - {x: 10.5, y: -57.999996}
+        - {x: 24.5, y: -51.999996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d465329525d04f078c059256d247c5d2
+      internalID: 21300102
+      vertices:
+      - {x: 52, y: -1}
+      - {x: -1, y: -1}
+      - {x: -1, y: 119}
+      - {x: 52, y: 119}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0025
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 246
+        width: 53
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5188679, y: 0.5041322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -26.5, y: -60.5}
+        - {x: -26.5, y: 60.5}
+        - {x: 26.5, y: 60.5}
+        - {x: 26.5, y: -60.5}
+      physicsShape:
+      - - {x: -8.5, y: 54.499992}
+        - {x: -22.5, y: 48.499996}
+        - {x: -22.5, y: -51.500004}
+        - {x: -15.5, y: -58.5}
+        - {x: 14.499999, y: -58.5}
+        - {x: 24.5, y: -54.500004}
+        - {x: 24.5, y: -37.500004}
+        - {x: 23.5, y: -35.500004}
+        - {x: 21.5, y: 34.499996}
+        - {x: 11.5, y: 54.499992}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fd3a32443e4852aca53d461a477c37
+      internalID: 21300104
+      vertices:
+      - {x: 52, y: -0.4999962}
+      - {x: -1, y: -0.4999962}
+      - {x: -1, y: 120.5}
+      - {x: 52, y: 120.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0043
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 4
+        width: 51
+        height: 119
+      alignment: 9
+      pivot: {x: 0.51960784, y: 0.5042017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -25.499998, y: -59.5}
+        - {x: -25.499998, y: 59.5}
+        - {x: 25.499998, y: 59.5}
+        - {x: 25.499998, y: -59.5}
+      physicsShape:
+      - - {x: 9.5, y: 54.5}
+        - {x: -10.499999, y: 54.5}
+        - {x: -20.499998, y: 46.5}
+        - {x: -22.5, y: 6.500004}
+        - {x: -22.5, y: -53.499992}
+        - {x: -17.5, y: -58.499992}
+        - {x: 21.5, y: -58.499992}
+        - {x: 24.5, y: -55.499996}
+        - {x: 24.5, y: 28.500004}
+        - {x: 16.5, y: 52.500004}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cc34ca788f42e78c13c9bdea5adafc
+      internalID: 21300106
+      vertices:
+      - {x: 50, y: -0.5000038}
+      - {x: -0.9999981, y: -0.5000038}
+      - {x: -0.9999981, y: 118.5}
+      - {x: 50, y: 118.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0042
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 4
+        width: 51
+        height: 119
+      alignment: 9
+      pivot: {x: 0.51960784, y: 0.5042017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -25.499998, y: -59.5}
+        - {x: -25.499998, y: 59.5}
+        - {x: 25.499998, y: 59.5}
+        - {x: 25.499998, y: -59.5}
+      physicsShape:
+      - - {x: 9.5, y: 54.5}
+        - {x: -10.499999, y: 54.5}
+        - {x: -20.499998, y: 46.5}
+        - {x: -22.5, y: 6.500004}
+        - {x: -22.5, y: -53.499992}
+        - {x: -17.5, y: -58.499992}
+        - {x: 21.5, y: -58.499992}
+        - {x: 24.5, y: -55.499996}
+        - {x: 24.5, y: 28.500004}
+        - {x: 16.5, y: 52.500004}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524d743cf25c4b8c94a63695c6390a1b
+      internalID: 21300108
+      vertices:
+      - {x: 50, y: -0.5000038}
+      - {x: -0.9999981, y: -0.5000038}
+      - {x: -0.9999981, y: 118.5}
+      - {x: 50, y: 118.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0041
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 248
+        width: 53
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5188679, y: 0.5042017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -26.5, y: -59.5}
+        - {x: -26.5, y: 59.5}
+        - {x: 26.5, y: 59.5}
+        - {x: 26.5, y: -59.5}
+      physicsShape:
+      - - {x: 20.5, y: 34.500004}
+        - {x: 13.5, y: 49.5}
+        - {x: 7.5, y: 54.5}
+        - {x: -11.5, y: 54.5}
+        - {x: -22.5, y: 36.500004}
+        - {x: -22.5, y: -53.499992}
+        - {x: -11.5, y: -58.499992}
+        - {x: 14.499999, y: -58.499992}
+        - {x: 24.5, y: -51.499996}
+        - {x: 24.5, y: -37.499996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274f6be32ebe4afab0a8c240d18917ee
+      internalID: 21300110
+      vertices:
+      - {x: 52, y: -0.5000038}
+      - {x: -1, y: -0.5000038}
+      - {x: -1, y: 118.5}
+      - {x: 52, y: 118.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0037
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 124
+        width: 53
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5188679, y: 0.5083333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -26.5, y: -60}
+        - {x: -26.5, y: 59.999996}
+        - {x: 26.5, y: 59.999996}
+        - {x: 26.5, y: -60}
+      physicsShape:
+      - - {x: 22.499998, y: 27.999998}
+        - {x: 14.499999, y: 52}
+        - {x: 12.499999, y: 54.999996}
+        - {x: -8.5, y: 54.999996}
+        - {x: -22.5, y: 49}
+        - {x: -22.5, y: -55}
+        - {x: -15.5, y: -57.999996}
+        - {x: 18.5, y: -57.999996}
+        - {x: 24.5, y: -51.999996}
+        - {x: 24.5, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d2c5057c634960a4cea231eecdaa94
+      internalID: 21300112
+      vertices:
+      - {x: 52, y: -1}
+      - {x: -1, y: -1}
+      - {x: -1, y: 119}
+      - {x: 52, y: 119}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0036
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 53
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5188679, y: 0.5083333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -26.5, y: -60}
+        - {x: -26.5, y: 59.999996}
+        - {x: 26.5, y: 59.999996}
+        - {x: 26.5, y: -60}
+      physicsShape:
+      - - {x: 22.499998, y: 27.999998}
+        - {x: 14.499999, y: 52}
+        - {x: 12.499999, y: 54.999996}
+        - {x: -8.5, y: 54.999996}
+        - {x: -22.5, y: 49}
+        - {x: -22.5, y: -55}
+        - {x: -15.5, y: -57.999996}
+        - {x: 18.5, y: -57.999996}
+        - {x: 24.5, y: -51.999996}
+        - {x: 24.5, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61d9aebd3084c2a8d463d95de930ec5
+      internalID: 21300114
+      vertices:
+      - {x: 52, y: -1}
+      - {x: -1, y: -1}
+      - {x: -1, y: 119}
+      - {x: 52, y: 119}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0011
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 126
+        width: 51
+        height: 119
+      alignment: 9
+      pivot: {x: 0.51960784, y: 0.5042017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -25.499998, y: -59.5}
+        - {x: -25.499998, y: 59.5}
+        - {x: 25.499998, y: 59.5}
+        - {x: 25.499998, y: -59.5}
+      physicsShape:
+      - - {x: 21.5, y: 27.500002}
+        - {x: 19.5, y: 41.500004}
+        - {x: 11.5, y: 54.5}
+        - {x: -9.5, y: 54.5}
+        - {x: -20.499998, y: 49.5}
+        - {x: -22.5, y: -2.4999962}
+        - {x: -22.5, y: -51.499996}
+        - {x: -17.5, y: -58.499992}
+        - {x: 20.5, y: -58.499992}
+        - {x: 24.5, y: -51.499996}
+        - {x: 24.5, y: -37.499996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150316b68ec34927b0030a027a9010e9
+      internalID: 21300116
+      vertices:
+      - {x: 50, y: -0.5000038}
+      - {x: -0.9999981, y: -0.5000038}
+      - {x: -0.9999981, y: 118.5}
+      - {x: 50, y: 118.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_comms_leftBulb0007
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 128
+        width: 51
+        height: 118
+      alignment: 9
+      pivot: {x: 0.51960784, y: 0.5084746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -25.499998, y: -58.999996}
+        - {x: -25.499998, y: 59}
+        - {x: 25.499998, y: 59}
+        - {x: 25.499998, y: -58.999996}
+      physicsShape:
+      - - {x: 21.5, y: 27.999998}
+        - {x: 19.5, y: 42}
+        - {x: 11.5, y: 54.999996}
+        - {x: -9.5, y: 54.999996}
+        - {x: -20.499998, y: 49.999996}
+        - {x: -22.5, y: -2}
+        - {x: -22.5, y: -51}
+        - {x: -17.5, y: -57.999996}
+        - {x: 20.5, y: -57.999996}
+        - {x: 24.5, y: -51}
+        - {x: 24.5, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0b499aa5264c28a45495b55c5afe99
+      internalID: 21300118
+      vertices:
+      - {x: 50, y: -0.9999962}
+      - {x: -0.9999981, y: -0.9999962}
+      - {x: -0.9999981, y: 117}
+      - {x: 50, y: 117}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      anim_comms_leftBulb0001: 21300018
+      anim_comms_leftBulb0002: 21300038
+      anim_comms_leftBulb0003: 21300034
+      anim_comms_leftBulb0004: 21300000
+      anim_comms_leftBulb0005: 21300060
+      anim_comms_leftBulb0006: 21300084
+      anim_comms_leftBulb0007: 21300118
+      anim_comms_leftBulb0008: 21300050
+      anim_comms_leftBulb0009: 21300044
+      anim_comms_leftBulb0010: 21300082
+      anim_comms_leftBulb0011: 21300116
+      anim_comms_leftBulb0012: 21300078
+      anim_comms_leftBulb0013: 21300006
+      anim_comms_leftBulb0014: 21300058
+      anim_comms_leftBulb0015: 21300002
+      anim_comms_leftBulb0016: 21300004
+      anim_comms_leftBulb0017: 21300086
+      anim_comms_leftBulb0018: 21300096
+      anim_comms_leftBulb0019: 21300042
+      anim_comms_leftBulb0020: 21300022
+      anim_comms_leftBulb0021: 21300012
+      anim_comms_leftBulb0022: 21300102
+      anim_comms_leftBulb0023: 21300024
+      anim_comms_leftBulb0024: 21300008
+      anim_comms_leftBulb0025: 21300104
+      anim_comms_leftBulb0026: 21300066
+      anim_comms_leftBulb0027: 21300046
+      anim_comms_leftBulb0028: 21300064
+      anim_comms_leftBulb0029: 21300056
+      anim_comms_leftBulb0030: 21300070
+      anim_comms_leftBulb0031: 21300016
+      anim_comms_leftBulb0032: 21300074
+      anim_comms_leftBulb0033: 21300032
+      anim_comms_leftBulb0034: 21300098
+      anim_comms_leftBulb0035: 21300062
+      anim_comms_leftBulb0036: 21300114
+      anim_comms_leftBulb0037: 21300112
+      anim_comms_leftBulb0038: 21300040
+      anim_comms_leftBulb0039: 21300100
+      anim_comms_leftBulb0040: 21300030
+      anim_comms_leftBulb0041: 21300110
+      anim_comms_leftBulb0042: 21300108
+      anim_comms_leftBulb0043: 21300106
+      anim_comms_leftBulb0044: 21300088
+      anim_comms_leftBulb0045: 21300090
+      anim_comms_leftBulb0046: 21300072
+      anim_comms_leftBulb0047: 21300014
+      anim_comms_leftBulb0048: 21300080
+      anim_comms_leftBulb0049: 21300054
+      anim_comms_leftBulb0050: 21300020
+      anim_comms_leftBulb0051: 21300026
+      anim_comms_leftBulb0052: 21300092
+      anim_comms_leftBulb0053: 21300094
+      anim_comms_leftBulb0054: 21300052
+      anim_comms_leftBulb0055: 21300028
+      anim_comms_leftBulb0056: 21300010
+      anim_comms_leftBulb0057: 21300048
+      anim_comms_leftBulb0058: 21300076
+      anim_comms_leftBulb0059: 21300068
+      anim_comms_leftBulb0060: 21300036
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

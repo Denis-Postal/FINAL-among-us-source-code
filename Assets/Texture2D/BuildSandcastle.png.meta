@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: ec0eba941743e1f4da4c3f05cebae872
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: buildSandcastle_bucketFront
+  - first:
+      213: 21300002
+    second: buildSandcastle_sandMound
+  - first:
+      213: 21300004
+    second: buildsandcastle_Bucketback
+  - first:
+      213: 21300006
+    second: buildSandcastle_base
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: buildSandcastle_bucketFront
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 9
+        width: 130
+        height: 123
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -39.999996, y: 61.5}
+        - {x: 22, y: 61.5}
+        - {x: 65, y: 18.5}
+        - {x: 65, y: -5.5}
+        - {x: 51, y: -46.5}
+        - {x: -13, y: -43.5}
+        - {x: -48, y: -61.5}
+        - {x: -65, y: -61.5}
+        - {x: -65, y: 36.499996}
+      physicsShape:
+      - - {x: 47, y: -46.5}
+        - {x: 55, y: -40.5}
+        - {x: 65, y: -10.5}
+        - {x: 65, y: 15.5}
+        - {x: 61, y: 23.5}
+        - {x: 55, y: 31.5}
+        - {x: 36, y: 35.5}
+        - {x: 31, y: 48.5}
+        - {x: 22.999998, y: 56.5}
+        - {x: 9, y: 61.5}
+        - {x: -24, y: 61.5}
+        - {x: -31, y: 52.499996}
+        - {x: -41, y: 45.5}
+        - {x: -52.999996, y: 44.5}
+        - {x: -58.999996, y: 42.5}
+        - {x: -65, y: 36.499996}
+        - {x: -65, y: 14.5}
+        - {x: -64, y: -2.4999998}
+        - {x: -63, y: -20.5}
+        - {x: -65, y: -25.5}
+        - {x: -65, y: -58.499996}
+        - {x: -59.999996, y: -61.5}
+        - {x: -47, y: -61.5}
+        - {x: -42.999996, y: -54.5}
+        - {x: 1, y: -38.5}
+        - {x: 19.999998, y: -38.5}
+      - - {x: 42, y: 0.5}
+        - {x: 41, y: 1.5}
+        - {x: 39.999996, y: 9.5}
+        - {x: 45.999996, y: 9.5}
+        - {x: 47, y: 8.5}
+        - {x: 45.999996, y: 7.4999995}
+        - {x: 45, y: 2.4999998}
+        - {x: 42, y: -3.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b55aacc68642f6a38a8ae0da6548df
+      internalID: 21300000
+      vertices:
+      - {x: 130, y: 80}
+      - {x: 130, y: 56}
+      - {x: 116, y: 15}
+      - {x: 52, y: 18}
+      - {x: 17, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 98}
+      - {x: 25.000004, y: 123}
+      - {x: 87, y: 123}
+      indices: 030000000700000008000000030000000600000007000000040000000500000006000000030000000400000006000000010000000200000003000000000000000100000003000000000000000300000008000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buildSandcastle_sandMound
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 4
+        width: 98
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -13, y: 64}
+        - {x: 25, y: 64}
+        - {x: 32, y: 53.999996}
+        - {x: 48.999996, y: -35}
+        - {x: 48.999996, y: -52}
+        - {x: 4.9999995, y: -64}
+        - {x: -48.999996, y: -64}
+        - {x: -48.999996, y: 34}
+        - {x: -45, y: 48.999996}
+      physicsShape:
+      - - {x: 48.999996, y: -45.999996}
+        - {x: 48.999996, y: -31}
+        - {x: 45, y: -7}
+        - {x: 38, y: 13}
+        - {x: 36, y: 41}
+        - {x: 29, y: 59.999996}
+        - {x: 17, y: 64}
+        - {x: -14.999999, y: 64}
+        - {x: -18, y: 63}
+        - {x: -22, y: 53.999996}
+        - {x: -41, y: 52.999996}
+        - {x: -47, y: 42.999996}
+        - {x: -48.999996, y: 22.999998}
+        - {x: -48.999996, y: -57}
+        - {x: -44, y: -58}
+        - {x: -32, y: -64}
+        - {x: -1, y: -64}
+        - {x: 12, y: -63}
+        - {x: 26, y: -58}
+        - {x: 45, y: -55}
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8aa987de0448f38b764ea771c5916a
+      internalID: 21300002
+      vertices:
+      - {x: 81, y: 118}
+      - {x: 98, y: 29}
+      - {x: 98, y: 12}
+      - {x: 54, y: 0}
+      - {x: 0.0000038146973, y: 0}
+      - {x: 0.0000038146973, y: 98}
+      - {x: 4, y: 113}
+      - {x: 36, y: 128}
+      - {x: 74, y: 128}
+      indices: 000000000700000008000000050000000600000007000000000000000500000007000000030000000400000005000000010000000200000003000000050000000000000001000000050000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buildsandcastle_Bucketback
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6
+        width: 130
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -65, y: 38}
+        - {x: -39.999996, y: 63}
+        - {x: 22, y: 63}
+        - {x: 65, y: 19.999998}
+        - {x: 65, y: -34}
+        - {x: 7, y: -63}
+        - {x: -65, y: -63}
+      physicsShape:
+      - - {x: 65, y: -6}
+        - {x: 65, y: 16}
+        - {x: 57, y: 33}
+        - {x: 36, y: 37}
+        - {x: 29.999998, y: 50}
+        - {x: 22, y: 57}
+        - {x: 9, y: 56}
+        - {x: 0, y: 63}
+        - {x: -24, y: 63}
+        - {x: -31, y: 52.999996}
+        - {x: -42, y: 51}
+        - {x: -65, y: 42.999996}
+        - {x: -65, y: -56}
+        - {x: -56, y: -63}
+        - {x: 8, y: -63}
+        - {x: 44, y: -45.999996}
+        - {x: 55, y: -37}
+        - {x: 56, y: -24}
+      - - {x: 42, y: 2}
+        - {x: 41, y: 3}
+        - {x: 39.999996, y: 9.999999}
+        - {x: 47, y: 9.999999}
+        - {x: 45.999996, y: 9}
+        - {x: 45.999996, y: 6}
+        - {x: 42, y: -2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3b063ad2b244a698f6524d22267b6e
+      internalID: 21300004
+      vertices:
+      - {x: 130, y: 83}
+      - {x: 130, y: 29}
+      - {x: 72, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 101}
+      - {x: 25.000004, y: 126}
+      - {x: 87, y: 126}
+      indices: 040000000500000006000000020000000400000006000000020000000300000004000000000000000100000002000000000000000200000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buildSandcastle_base
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 134
+        width: 501
+        height: 501
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -250.49998, y: -250.49998}
+        - {x: -250.49998, y: 250.49998}
+        - {x: 250.49998, y: 250.49998}
+        - {x: 250.49998, y: -250.49998}
+      physicsShape:
+      - - {x: -250.49998, y: 250.49998}
+        - {x: -250.49998, y: -250.49998}
+        - {x: 250.49998, y: -250.49998}
+        - {x: 250.49998, y: 250.49998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca4d2c26f1647989c4571124e327852
+      internalID: 21300006
+      vertices:
+      - {x: 501, y: 0.000015258789}
+      - {x: 0.000015258789, y: 0.000015258789}
+      - {x: 0.000015258789, y: 501}
+      - {x: 501, y: 501}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      buildSandcastle_base: 21300006
+      buildSandcastle_bucketFront: 21300000
+      buildSandcastle_sandMound: 21300002
+      buildsandcastle_Bucketback: 21300004
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

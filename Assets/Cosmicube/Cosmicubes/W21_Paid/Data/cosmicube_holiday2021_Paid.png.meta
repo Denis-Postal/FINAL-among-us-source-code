@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: c848d2765b019434db1768d71abec420
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7085689829181059085
+    second: cosmicube_holiday2021_Paid_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.50114673, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cosmicube_holiday2021_Paid_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff801754a29aad90800000000000000
+      internalID: -7085689829181059085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: 209.49178, y: -256}
+      - {x: -214.50822, y: -256}
+      - {x: -214.50822, y: 249}
+      - {x: -211.5082, y: 252}
+      - {x: -212.50822, y: 256}
+      - {x: 209.49178, y: 256}
+      - {x: 214.4918, y: 249}
+      - {x: 214.4918, y: -249}
+      - {x: 212.49178, y: -252}
+    customData: 
+    physicsShape:
+    - - {x: 207.49179, y: 256}
+      - {x: -206.50821, y: 256}
+      - {x: -214.5082, y: 252}
+      - {x: -214.5082, y: -252}
+      - {x: -209.5082, y: -256}
+      - {x: 209.49178, y: -256}
+      - {x: 214.49178, y: -249}
+      - {x: 214.49178, y: 252}
+    bones: []
+    spriteID: 99f473816a86426ba526ca199f1f13b0
+    internalID: 0
+    vertices:
+    - {x: 428.4321, y: 505}
+    - {x: 426.43207, y: 4}
+    - {x: 428.4321, y: 7}
+    - {x: 423.43207, y: 512}
+    - {x: 423.43207, y: 0}
+    - {x: 2.4320984, y: 508}
+    - {x: 1.4320679, y: 512}
+    - {x: -0.5679321, y: 505}
+    - {x: -0.5679321, y: 0}
+    indices: 080000000700000004000000050000000400000007000000060000000300000005000000040000000500000003000000010000000400000003000000000000000100000003000000020000000100000000000000i
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 6c4dd605522ae6b0d75631faeb9dcd9a
+  assetBundleVariant: 

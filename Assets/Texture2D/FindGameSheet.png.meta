@@ -1,0 +1,787 @@
+fileFormatVersion: 2
+guid: 93ba7e25b510b8d4e9aef42112fe5a3c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Game Field Assets-Map BGs-FieldBG-Mira
+  - first:
+      213: 21300002
+    second: ICON-FiltersArrow
+  - first:
+      213: 21300004
+    second: Game Field Assets-Tags-BG-Tag2
+  - first:
+      213: 21300006
+    second: Game Field Assets-Map BGs-FieldBG-Airship
+  - first:
+      213: 21300008
+    second: Game Field Assets-Tags-BG-LevelTag
+  - first:
+      213: 21300010
+    second: ICON-ChatType
+  - first:
+      213: 21300012
+    second: ICON-Server
+  - first:
+      213: 21300014
+    second: Game Field Assets-Map BGs-FieldBG-Polus
+  - first:
+      213: 21300016
+    second: IMAGE-TooltipHeader
+  - first:
+      213: 21300018
+    second: Game Field Assets-Map BGs-FieldBG-Fungle
+  - first:
+      213: 21300020
+    second: Game Field Assets-Map BGs-FieldBG-Skeld
+  - first:
+      213: 21300022
+    second: Game Field Assets-Tags-BG-Tag1
+  - first:
+      213: 21300024
+    second: ICON-Language
+  - first:
+      213: 21300026
+    second: BG-LobbySummaryPopup
+  - first:
+      213: 21300028
+    second: IMAGE-TooltipBody
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Field Assets-Map BGs-FieldBG-Mira
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 315
+        width: 1763
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -877.49994, y: 60.499996}
+        - {x: 877.49994, y: 60.499996}
+        - {x: 881.49994, y: 56.5}
+        - {x: 881.49994, y: -60.499996}
+        - {x: -881.49994, y: -60.499996}
+        - {x: -881.49994, y: 56.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca57e8887ba4b9fa77d059075eb18db
+      internalID: 21300000
+      vertices:
+      - {x: 1763, y: 117}
+      - {x: 1763, y: 0.0000038146973}
+      - {x: 0.000061035156, y: 0.0000038146973}
+      - {x: 0.000061035156, y: 117}
+      - {x: 4.000061, y: 121}
+      - {x: 1759, y: 121}
+      indices: 020000000400000005000000020000000300000004000000010000000200000005000000000000000100000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICON-FiltersArrow
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 913
+        width: 30
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 14.999999, y: 6}
+        - {x: 14.999999, y: -22.999998}
+        - {x: -9, y: -47}
+        - {x: -14.999999, y: -47}
+        - {x: -14.999999, y: 47}
+        - {x: -8, y: 47}
+      physicsShape:
+      - - {x: -14.999999, y: 47}
+        - {x: -14.999999, y: -47}
+        - {x: -8, y: -47}
+        - {x: 14.999999, y: -31}
+        - {x: 14.999999, y: 14}
+        - {x: 7, y: 47}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b21aad627e4a68a5046babcdd362ca
+      internalID: 21300002
+      vertices:
+      - {x: 30, y: 53}
+      - {x: 30, y: 24.000002}
+      - {x: 6, y: 0}
+      - {x: 0.0000009536743, y: 0}
+      - {x: 0.0000009536743, y: 94}
+      - {x: 7, y: 94}
+      indices: 030000000000000001000000030000000400000000000000030000000100000002000000000000000400000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Field Assets-Tags-BG-Tag2
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 23
+        width: 44
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 15, y: 15, z: 15, w: 15}
+      customData: 
+      outline:
+      - - {x: 22, y: -22}
+        - {x: -22, y: -22}
+        - {x: -22, y: 22}
+        - {x: 22, y: 22}
+      physicsShape:
+      - - {x: -21, y: 22}
+        - {x: -22, y: 19.999998}
+        - {x: -22, y: -22}
+        - {x: 22, y: -22}
+        - {x: 22, y: 19.999998}
+        - {x: 21, y: 22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c17390bc264a62b0bfc2ca85fea306
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 0}
+      - {x: 44, y: 0}
+      - {x: 0, y: 44}
+      - {x: 44, y: 44}
+      indices: 000000000200000001000000010000000200000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Field Assets-Map BGs-FieldBG-Airship
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 69
+        width: 1763
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -877.49994, y: 60.499996}
+        - {x: 877.49994, y: 60.499996}
+        - {x: 881.49994, y: 56.5}
+        - {x: 881.49994, y: -60.499996}
+        - {x: -881.49994, y: -60.499996}
+        - {x: -881.49994, y: 56.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00534fee03e9460389fe253d98345ab9
+      internalID: 21300006
+      vertices:
+      - {x: 1763, y: 117}
+      - {x: 1763, y: 0.0000038146973}
+      - {x: 0.000061035156, y: 0.0000038146973}
+      - {x: 0.000061035156, y: 117}
+      - {x: 4.000061, y: 121}
+      - {x: 1759, y: 121}
+      indices: 020000000400000005000000020000000300000004000000010000000200000005000000000000000100000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Field Assets-Tags-BG-LevelTag
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 814
+        width: 132
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -66, y: -48.5}
+        - {x: -66, y: 48.5}
+        - {x: 66, y: 48.5}
+        - {x: 66, y: -48.5}
+      physicsShape:
+      - - {x: -66, y: 48.5}
+        - {x: -66, y: -48.5}
+        - {x: 66, y: -48.5}
+        - {x: 66, y: 48.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78dfd728055d49a38f7f2bf99af88ffd
+      internalID: 21300008
+      vertices:
+      - {x: 132, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 97}
+      - {x: 132, y: 97}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICON-ChatType
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 25
+        width: 45
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48809522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -22.5, y: -21}
+        - {x: -22.5, y: 20.999998}
+        - {x: 22.5, y: 20.999998}
+        - {x: 22.5, y: -21}
+      physicsShape:
+      - - {x: -22.5, y: 20.999998}
+        - {x: -22.5, y: -11.999999}
+        - {x: -5.5, y: -21}
+        - {x: 22.5, y: -21}
+        - {x: 22.5, y: 20}
+        - {x: 21.499998, y: 20.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f05664fbff1488a9ec9fea3eab65c4b
+      internalID: 21300010
+      vertices:
+      - {x: 45, y: 0.5}
+      - {x: 0, y: 0.5}
+      - {x: 0, y: 42.5}
+      - {x: 45, y: 42.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICON-Server
+      rect:
+        serializedVersion: 2
+        x: 1589.013
+        y: 1249.0267
+        width: 46.960335
+        height: 45.973248
+      alignment: 9
+      pivot: {x: 0.5001468, y: 0.51058537}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -23.493107, y: -17.013357}
+        - {x: -22.493107, y: 22.986643}
+        - {x: 15.506893, y: 22.986643}
+        - {x: 27.506893, y: 0.98664284}
+        - {x: 17.506893, y: -18.013357}
+        - {x: -0.49310684, y: -26.013355}
+      physicsShape:
+      - - {x: -14.493107, y: 22.986643}
+        - {x: -19.493107, y: 17.986643}
+        - {x: -23.493107, y: 4.986643}
+        - {x: -23.493107, y: -7.0133567}
+        - {x: -17.493107, y: -19.013357}
+        - {x: -6.493107, y: -23.013357}
+        - {x: 11.506892, y: -23.013357}
+        - {x: 23.506893, y: -13.013356}
+        - {x: 23.506893, y: 8.986643}
+        - {x: 19.506893, y: 22.986643}
+      - - {x: -0.49310684, y: -12.013357}
+        - {x: -0.49310684, y: -13.013356}
+      - - {x: 11.506892, y: -10.013357}
+        - {x: 12.506893, y: -8.013357}
+        - {x: 8.506893, y: -11.013356}
+        - {x: 9.506893, y: -11.013356}
+      - - {x: -0.49310684, y: -1.0133572}
+        - {x: -0.49310684, y: -2.013357}
+      - - {x: -10.493107, y: 0.98664284}
+        - {x: -15.493107, y: 2.9866426}
+        - {x: -9.493107, y: -1.0133572}
+        - {x: -10.493107, y: -0.0133571625}
+      - - {x: 9.506893, y: 0.98664284}
+        - {x: 11.506892, y: 0.98664284}
+        - {x: 13.506892, y: 2.9866426}
+        - {x: 12.506893, y: 1.9866428}
+        - {x: 8.506893, y: -1.0133572}
+        - {x: 9.506893, y: -1.0133572}
+      - - {x: -0.49310684, y: 13.986642}
+        - {x: -0.49310684, y: 7.9866424}
+      - - {x: 8.506893, y: 11.986642}
+        - {x: 9.506893, y: 10.986643}
+        - {x: 9.506893, y: 9.986643}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7957ad3829e44c382417e13f387e2ec
+      internalID: 21300012
+      vertices:
+      - {x: 50.980167, y: 23.486624}
+      - {x: 40.980167, y: 4.486624}
+      - {x: 22.980167, y: -3.5133743}
+      - {x: -0.019832611, y: 5.486624}
+      - {x: 0.9801674, y: 45.486626}
+      - {x: 38.980167, y: 45.486626}
+      indices: 030000000400000005000000020000000300000005000000010000000200000005000000000000000100000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Field Assets-Map BGs-FieldBG-Polus
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 438
+        width: 1763
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -877.49994, y: 60.499996}
+        - {x: 877.49994, y: 60.499996}
+        - {x: 881.49994, y: 56.5}
+        - {x: 881.49994, y: -60.499996}
+        - {x: -881.49994, y: -60.499996}
+        - {x: -881.49994, y: 56.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9acb2bc7ae44826887e552b750addfd
+      internalID: 21300014
+      vertices:
+      - {x: 1763, y: 117}
+      - {x: 1763, y: 0.0000038146973}
+      - {x: 0.000061035156, y: 0.0000038146973}
+      - {x: 0.000061035156, y: 117}
+      - {x: 4.000061, y: 121}
+      - {x: 1759, y: 121}
+      indices: 020000000400000005000000020000000300000004000000010000000200000005000000000000000100000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMAGE-TooltipHeader
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 1219
+        width: 36
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -18, y: -38}
+        - {x: -18, y: 38}
+        - {x: 18, y: 38}
+        - {x: 18, y: -38}
+      physicsShape:
+      - - {x: -18, y: 38}
+        - {x: -18, y: -38}
+        - {x: 18, y: -38}
+        - {x: 18, y: 38}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e92cedc0ed74ef8a03ad791cade3780
+      internalID: 21300016
+      vertices:
+      - {x: 36, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 76}
+      - {x: 36, y: 76}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Field Assets-Map BGs-FieldBG-Fungle
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 192
+        width: 1763
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -877.49994, y: 60.499996}
+        - {x: 877.49994, y: 60.499996}
+        - {x: 881.49994, y: 56.5}
+        - {x: 881.49994, y: -60.499996}
+        - {x: -881.49994, y: -60.499996}
+        - {x: -881.49994, y: 56.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7d4a08c3c34d5f8be8ed78e0d26f8c
+      internalID: 21300018
+      vertices:
+      - {x: 1763, y: 117}
+      - {x: 1763, y: 0.0000038146973}
+      - {x: 0.000061035156, y: 0.0000038146973}
+      - {x: 0.000061035156, y: 117}
+      - {x: 4.000061, y: 121}
+      - {x: 1759, y: 121}
+      indices: 020000000400000005000000020000000300000004000000010000000200000005000000000000000100000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Field Assets-Map BGs-FieldBG-Skeld
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 561
+        width: 1763
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -877.49994, y: 60.499996}
+        - {x: 877.49994, y: 60.499996}
+        - {x: 881.49994, y: 56.5}
+        - {x: 881.49994, y: -60.499996}
+        - {x: -881.49994, y: -60.499996}
+        - {x: -881.49994, y: 56.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011d73da13e94975a91a04894971be9a
+      internalID: 21300020
+      vertices:
+      - {x: 1763, y: 117}
+      - {x: 1763, y: 0.0000038146973}
+      - {x: 0.000061035156, y: 0.0000038146973}
+      - {x: 0.000061035156, y: 117}
+      - {x: 4.000061, y: 121}
+      - {x: 1759, y: 121}
+      indices: 020000000400000005000000020000000300000004000000010000000200000005000000000000000100000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Field Assets-Tags-BG-Tag1
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 1377
+        width: 44
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 15, y: 15, z: 15, w: 15}
+      customData: 
+      outline:
+      - - {x: 22, y: -22}
+        - {x: -22, y: -22}
+        - {x: -22, y: 22}
+        - {x: 22, y: 22}
+      physicsShape:
+      - - {x: -21, y: 22}
+        - {x: -22, y: 19.999998}
+        - {x: -22, y: -22}
+        - {x: 22, y: -22}
+        - {x: 22, y: 19.999998}
+        - {x: 21, y: 22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05afecc59d549899c30c6234718dd1f
+      internalID: 21300022
+      vertices:
+      - {x: 0, y: 0}
+      - {x: 44, y: 0}
+      - {x: 0, y: 44}
+      - {x: 44, y: 44}
+      indices: 000000000200000001000000010000000200000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICON-Language
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 684
+        width: 53
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -26.499998, y: -22.5}
+        - {x: -26.499998, y: 22.5}
+        - {x: 0.5, y: 22.5}
+        - {x: 26.499998, y: 2.4999998}
+        - {x: 26.499998, y: -22.5}
+      physicsShape:
+      - - {x: 17.5, y: 9.5}
+        - {x: 10.5, y: 10.5}
+        - {x: 5.5, y: -1.5}
+        - {x: -1.5, y: 5.5}
+        - {x: 8.5, y: 11.499999}
+        - {x: 5.5, y: 20.5}
+        - {x: -3.5, y: 22.5}
+        - {x: -15.5, y: 22.5}
+        - {x: -26.499998, y: 18.5}
+        - {x: -26.499998, y: -5.5}
+        - {x: -23.5, y: -11.499999}
+        - {x: -2.4999998, y: -9.5}
+        - {x: 0.5, y: -21.499998}
+        - {x: 3.5, y: -22.5}
+        - {x: 24.499998, y: -22.5}
+        - {x: 26.499998, y: -21.499998}
+        - {x: 26.499998, y: -12.5}
+      - - {x: 13.499999, y: -5.5}
+        - {x: 13.499999, y: -7.4999995}
+        - {x: 15.5, y: -10.5}
+        - {x: 12.5, y: -11.499999}
+        - {x: 13.499999, y: -10.5}
+      - - {x: -11.499999, y: 9.5}
+        - {x: -9.5, y: 9.5}
+        - {x: -9.5, y: 8.5}
+        - {x: -10.5, y: 6.5}
+        - {x: -9.5, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07367ae315c54add8870f838880f2d77
+      internalID: 21300024
+      vertices:
+      - {x: 53, y: 25}
+      - {x: 53, y: 0}
+      - {x: 0.0000019073486, y: 0}
+      - {x: 0.0000019073486, y: 45}
+      - {x: 27, y: 45}
+      indices: 020000000300000004000000000000000100000002000000000000000200000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-LobbySummaryPopup
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 684
+        width: 1548
+        height: 815
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -774, y: 407.49997}
+        - {x: 751, y: 407.49997}
+        - {x: 774, y: 386.5}
+        - {x: 774, y: -399.5}
+        - {x: 745, y: -407.49997}
+        - {x: -774, y: -407.49997}
+      physicsShape:
+      - - {x: 768, y: 372.5}
+        - {x: 764, y: 386.5}
+        - {x: 758, y: 393.5}
+        - {x: 749, y: 401.5}
+        - {x: 737.99994, y: 406.5}
+        - {x: 735.99994, y: 407.49997}
+        - {x: -735, y: 407.49997}
+        - {x: -750, y: 404.5}
+        - {x: -768, y: 381.49997}
+        - {x: -768, y: -363.5}
+        - {x: -754, y: -386.5}
+        - {x: -737, y: -392.5}
+        - {x: 741.99994, y: -392.5}
+        - {x: 766.99994, y: -372.5}
+        - {x: 768, y: -359.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd78762708443c0a1b61c0c4344d162
+      internalID: 21300026
+      vertices:
+      - {x: 1548, y: 794}
+      - {x: 1548, y: 8}
+      - {x: 1519, y: 0.000030517578}
+      - {x: 0, y: 0.000030517578}
+      - {x: 0, y: 815}
+      - {x: 1525, y: 815}
+      indices: 020000000400000005000000020000000300000004000000000000000100000002000000000000000200000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMAGE-TooltipBody
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 1423
+        width: 177
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -88.5, y: -38}
+        - {x: -88.5, y: 38}
+        - {x: 88.5, y: 38}
+        - {x: 88.5, y: -38}
+      physicsShape:
+      - - {x: -88.5, y: 38}
+        - {x: -88.5, y: -38}
+        - {x: 88.5, y: -38}
+        - {x: 88.5, y: 38}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68387a9dc9d4d50905e904d36c7e497
+      internalID: 21300028
+      vertices:
+      - {x: 177, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 76}
+      - {x: 177, y: 76}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BG-LobbySummaryPopup: 21300026
+      Game Field Assets-Map BGs-FieldBG-Airship: 21300006
+      Game Field Assets-Map BGs-FieldBG-Fungle: 21300018
+      Game Field Assets-Map BGs-FieldBG-Mira: 21300000
+      Game Field Assets-Map BGs-FieldBG-Polus: 21300014
+      Game Field Assets-Map BGs-FieldBG-Skeld: 21300020
+      Game Field Assets-Tags-BG-LevelTag: 21300008
+      Game Field Assets-Tags-BG-Tag1: 21300022
+      Game Field Assets-Tags-BG-Tag2: 21300004
+      ICON-ChatType: 21300010
+      ICON-FiltersArrow: 21300002
+      ICON-Language: 21300024
+      ICON-Server: 21300012
+      IMAGE-TooltipBody: 21300028
+      IMAGE-TooltipHeader: 21300016
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,42 @@
+﻿using System.Collections;
+using TMPro;
+using UnityEngine;
+
+public class PlaceholderMinigame : Minigame
+{
+	[SerializeField]
+	private TextMeshPro waitText;
+
+	[SerializeField]
+	private TextMeshPro taskNameText;
+
+	public override void Begin(PlayerTask task)
+	{
+		base.Begin(task);
+		taskNameText.text = DestroyableSingleton<TranslationController>.Instance.GetString(task.TaskType);
+		if (MyNormTask.MaxStep > 1)
+		{
+			taskNameText.text += $" Step {MyNormTask.taskStep + 1}/{MyNormTask.MaxStep}";
+		}
+		StartCoroutine(CoCompleteAfterABit());
+	}
+
+	private IEnumerator CoCompleteAfterABit()
+	{
+		float startTime = Time.time;
+		while (Time.time - startTime < 5f)
+		{
+			waitText.text = $"This task will auto-complete in {Mathf.CeilToInt(5f - (Time.time - startTime))} seconds";
+			yield return null;
+		}
+		MyNormTask.NextStep();
+		if (transform.parent != null && (bool)transform.parent.GetComponent<MultistageMinigame>())
+		{
+			transform.parent.GetComponent<MultistageMinigame>().Close();
+		}
+		else
+		{
+			yield return CoStartClose();
+		}
+	}
+}

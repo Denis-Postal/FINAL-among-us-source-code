@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 825ac4e4914361a3d7ea08f1b54d9d4f, type: 3}
+  m_Name: _Cube_Winter_2022_Free
+  m_EditorClassIdentifier:
+  StoreImageRef:
+    m_AssetGUID: 1c819511805077347b5b1b7c1f5011d8
+    m_SubObjectName: cosmicube_winter2022_free
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  CosmicubePrefabRef:
+    m_AssetGUID: 3ae5050c13189ce4bae99ef901a368a7
+    m_SubObjectName:
+    m_SubObjectType:
+  podIconRef:
+    m_AssetGUID: a06454d0feb68d549aaacdb135b62856
+    m_SubObjectName: UI_currency_winter22_free
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  DateCreated: 10/7/2022
+  allUnlockables:
+  - {fileID: 11400000, guid: e898aa5c74bd90f40b94a9dc51c2d97e, type: 2}
+  - {fileID: 11400000, guid: 36b864326ab5cfa4b880dfc6a56185a1, type: 2}
+  - {fileID: 11400000, guid: d18bfd6e4393eba409101b682f32f25d, type: 2}
+  - {fileID: 11400000, guid: 22914dafbb748a541b66d8e919f53fd2, type: 2}
+  - {fileID: 11400000, guid: 3633c96a31f12f54a857c8f694ffa677, type: 2}
+  - {fileID: 11400000, guid: 14283a0d5a832cc4fab144a1eb0f3f72, type: 2}
+  - {fileID: 11400000, guid: 9c56f38b73df9a14a8f868510dd0b392, type: 2}
+  - {fileID: 11400000, guid: 9577c5f0e5d99e441a5b96ed378de518, type: 2}
+  - {fileID: 11400000, guid: 0a2353f1ebe485f4fa2c331c355a535f, type: 2}
+  - {fileID: 11400000, guid: 78ae59bffebbbd94c8fee2330fc1f34a, type: 2}
+  - {fileID: 11400000, guid: 00642b74f8d7a794f8d0f9e92cf7a105, type: 2}
+  - {fileID: 11400000, guid: 6ef3d2003979a224ca20f6bf712d20cc, type: 2}
+  - {fileID: 11400000, guid: 19c43074976411f43b9b09f716bf3650, type: 2}
+  - {fileID: 11400000, guid: bda7afb4714babd408d93c857011cea0, type: 2}
+  - {fileID: 11400000, guid: 590d1fbd8cd8e784db1d27c048d8f041, type: 2}
+  - {fileID: 11400000, guid: 42ff10d5b56c97e48a199a3eb242abe4, type: 2}
+  - {fileID: 11400000, guid: 9c906541493960b468363b0509976489, type: 2}
+  starCost: 0
+  beanCost: 2000
+  Order: 0
+  Free: 0
+  NotInStore: 0
+  XRange:
+    min: -0.2
+    max: 0.2
+  YRange:
+    min: -0.5
+    max: 0.1
+  podId: winter2022_free
+  productId: cube_winter2022_free
+  cosmicubeName: Gift Cube
+  limitedTime:
+    timeStart:
+      limitedYear: 2025
+      limitedMonth: 12
+      limitedDay: 1
+      limitedHour: 17
+      limitedMinute: 0
+    timeEnd:
+      limitedYear: 2025
+      limitedMonth: 12
+      limitedDay: 31
+      limitedHour: 17
+      limitedMinute: 0
+  epicId:

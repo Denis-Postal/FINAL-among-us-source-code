@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 643323bbe51a662e657d74d727bdd1d8, type: 3}
+  m_Name: BuildSettingsConsole
+  m_EditorClassIdentifier:
+  XboxOneGameCoreStreamingInstallLaunchRange: 10
+  SeriesXGameCoreStreamingInstallLaunchRange: 10
+  SwitchDescFile: '%NINTENDO_SDK_ROOT%/Resources/SpecFiles/Application.desc'
+  SwitchReleaseVersion: 62
+  SwitchOriginalRomFile: Submissions/Switch/1.0.0/AmongUs_20201030_067P_Switch.nsp
+  SwitchPreviousRomFile: Submissions/Switch/18.0/AmongUs_2026.8.18_Patch.nsp
+  SwitchCreateRomFile: 1
+  SwitchEnableDebugNpad: 0
+  SwitchEnableHeapInspector: 0
+  SwitchNVNDrawValidation: 0
+  SwitchNVNGraphicsDebugger: 0
+  SwitchNVNShaderDebugging: 0
+  SwitchRedirectWritesToHostMount: 1
+  PS4PronunciationXmlPath: Assets/PlayEveryWare/PlayStation/pronunciation.xml
+  PS4PronunciationSigPath: Assets/PlayEveryWare/PlayStation/pronunciation.sig
+  PS4BackgroundImagePath: Assets/PlayEveryWare/PlayStation/PS4/PS4_BackgroundImage.png
+  PS4StartupImagePath: Assets/PlayEveryWare/PlayStation/PS4/PS4_SplashScreen.png
+  PS4TrophyPackPath: Assets/PS4/Editor/SonyPS4PublishData/AUTrophies.trp
+  PS4SonyPasscode: i7nL7WU98KR_5dEoDEYi-fI2Vm3uLJM4
+  PS4CompressPackage: 1
+  PS4VersionSiea: A0144-V0100
+  PS4PatchPkgPathSiea: Submissions/PS4/SIEA/A0100-V0101/UP7032-CUSA27792_00-AMONGUSSONYPS4NA-A0100-V0101.pkg
+  PS4PatchLatestPkgPathSiea: Submissions/PS4/SIEA/A0143-V0100/UP7032-CUSA27792_00-AMONGUSSONYPS4NA-A0143-V0100.pkg
+  PS4PatchChangeInfoPathSiea: Assets/PS4/Editor/ChangeInfo/SIEA
+  PS4ContentIdSiea: UP7032-CUSA27792_00-AMONGUSSONYPS4NA
+  PS4TitleSecretSiea: 7bb5d5a1ed6e14221c45e9407a889e22eaa416d68a7b12b94c2dff1b5fb8a1959ac0dc55a19b9e3a5aca7a4af5fa94bebeeafab841dea67c56a966d5cfe0de3ec8b88d0c06e7730dd2760f0f9330fbc5d21f12aa7eb291b225cdec61c4543111a08ae11f9ebf6060fe40690152c965a4a82dd1c913653de64087cdd508a6ca14
+  PS4TitleDatPathSiea: Assets/PS4/Editor/SonyPS4PublishData/SIEA/SIEA_CUSA27792_00/nptitle.dat
+  PS4AgeRatingSiea: 12
+  PS4ParamSfxPathSiea: Assets/PS4/Editor/SonyPS4PublishData/SIEA/SIEA_CUSA27792_00/params.sfx
+  PS4VersionSiee: A0144-V0100
+  PS4PatchPkgPathSiee: Submissions/PS4/SIEE/A0100-V0101/EP7028-CUSA27793_00-AMONGUSSONYPS4EU-A0100-V0101.pkg
+  PS4PatchLatestPkgPathSiee: Submissions/PS4/SIEE/A0143-V0100/EP7028-CUSA27793_00-AMONGUSSONYPS4EU-A0143-V0100.pkg
+  PS4PatchChangeInfoPathSiee: Assets/PS4/Editor/ChangeInfo/SIEE
+  PS4ContentIdSiee: EP7028-CUSA27793_00-AMONGUSSONYPS4EU
+  PS4TitleSecretSiee: 5ce04881312e770bda5dbdf66b96f4d1b0d7d1eaff39d099f40aef60b252fc28e8fb2f338c2614047adcfb097709c3ba4fd38762900de3fd35b468a209a7bc3d9d2b0d5f073a5952533f7bb200c3c7cb3349deb9ba293c61c25d43c14af13f9f522728e3d87feff94b678606e13a65f3569e59540726c57784a86d1e33b28117
+  PS4TitleDatPathSiee: Assets/PS4/Editor/SonyPS4PublishData/SIEE/SIEE_CUSA27793_00/nptitle.dat
+  PS4AgeRatingSiee: 16
+  PS4ParamSfxPathSiee: Assets/PS4/Editor/SonyPS4PublishData/SIEE/SIEE_CUSA27793_00/params.sfx
+  PS4VersionSiej: A0144-V0100
+  PS4PatchPkgPathSiej: Submissions/PS4/SIEJ/A0100-V0101/JP6997-CUSA27794_00-AMONGUSSONYPS4JP-A0100-V0101.pkg
+  PS4PatchLatestPkgPathSiej: Submissions/PS4/SIEJ/A0143-V0100/JP6997-CUSA27794_00-AMONGUSSONYPS4JP-A0143-V0100.pkg
+  PS4PatchChangeInfoPathSiej: Assets/PS4/Editor/ChangeInfo/SIEJ
+  PS4ContentIdSiej: JP6997-CUSA27794_00-AMONGUSSONYPS4JP
+  PS4TitleSecretSiej: 4d05c9eb6ce0dc930cc6572f7573552d6078ac40ad0afee0fc88607b01ebccf082ae1bdff20965679e5400dcd934e395123b3f882cc7a5d71d526fdd44addeca2ba7b69d3adfffb3938d2234cd8dfe22697d1fb16da8480ad05467ae35bff7de33b2f51ecd31e9eefb3d63fff2da766f57fd86402fa225e2a1256909637cac88
+  PS4TitleDatPathSiej: Assets/PS4/Editor/SonyPS4PublishData/SIEJ/SIEJ_CUSA27794_00\\nptitle.dat
+  PS4AgeRatingSiej: 12
+  PS4ParamSfxPathSiej: Assets/PS4/Editor/SonyPS4PublishData/SIEJ/SIEJ_CUSA27794_00/params.sfx
+  PS4VersionSieAsia: A0145-V0100
+  PS4PatchPkgPathSieAsia: Submissions/PS4/SIEASIA/A0100-V0101/HP7048-CUSA27795_00-AMONGUSSONYPS4JA-A0100-V0101.pkg
+  PS4PatchLatestPkgPathSieAsia: Submissions/PS4/SIEASIA/A0144-V0100/HP7048-CUSA27795_00-AMONGUSSONYPS4JA-A0144-V0100.pkg
+  PS4PatchChangeInfoPathSieAsia: Assets/PS4/Editor/ChangeInfo/SIEAsia
+  PS4ContentIdSieAsia: HP7048-CUSA27795_00-AMONGUSSONYPS4JA
+  PS4TitleSecretSieAsia: 99897813410306a0ec6b90fa93c8bd9df32e1815c12f36f17aec361f71ce9d28cc2175985d294302e735c71b100a2a17a0cfcfbba9a786bf9c4ecde2e14d5cc768d482e927337f2f985b37482c0a876fe4fb59df5791b3267bbad9e02555060e7dceeb2a5e39107d2e3faa2862168c5c791bc731e623ec89b6e8ebdee0a75b76
+  PS4TitleDatPathSieAsia: Assets/PS4/Editor/SonyPS4PublishData/SIEASIA/SIEASIA_CUSA27795_00/nptitle.dat
+  PS4AgeRatingSieAsia: 15
+  PS4ParamSfxPathSieAsia: Assets/PS4/Editor/SonyPS4PublishData/SIEASIA/SIEASIA_CUSA27795_00/params.sfx
+  PS5BackgroundImagePath: Assets/PlayEveryWare/PlayStation/PS5/PS5_BackgroundImage.png
+  PS5StartupImagePath:
+  PS5StartupForegroundImagePath: Assets/PlayEveryWare/PlayStation/PS5/PS5_ForegroundSplashScreen.png
+  PS5StartupBackgroundImagePath: Assets/PlayEveryWare/PlayStation/PS5/PS5_BackgroundSplashScreen.png
+  PS5StartupImagesFolder:
+  PS5IconImagesFolder:
+  PS5BgmPath:
+  PS5SonyPasscode: 0qDtzG9DlpnYClbIA2dZlyvWefVWEPME
+  PS5NeedSubmissionMaterials: 1
+  PS5UpdateReferencePackage: Submissions/PS5/SIEA/A01043000-V0100/UP7032-PPSA03595_00-AMONGUSSONYPS5NA-A01043000-V0100.pkg.remastered.pkg

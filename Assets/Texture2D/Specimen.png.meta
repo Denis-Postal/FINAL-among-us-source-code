@@ -1,0 +1,509 @@
+fileFormatVersion: 2
+guid: 274169c3a00e263498d1ef084d559595
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: panel_specimen_crystal
+  - first:
+      213: 21300002
+    second: panel_specimen_leaf
+  - first:
+      213: 21300004
+    second: panel_specimen_lidbottom
+  - first:
+      213: 21300006
+    second: panel_specimen_lidclose
+  - first:
+      213: 21300008
+    second: panel_specimen_trunk
+  - first:
+      213: 21300010
+    second: panel_speciment_undertalesans
+  - first:
+      213: 21300012
+    second: panel_specimen_diamando
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: panel_specimen_crystal
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 101
+        width: 66
+        height: 165
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 14.999999, y: 82.5}
+        - {x: 33, y: 82.5}
+        - {x: 33, y: 44.5}
+        - {x: 6, y: -63.5}
+        - {x: -14, y: -82.5}
+        - {x: -33, y: -82.5}
+        - {x: -33, y: -44.5}
+        - {x: -4.9999995, y: 64.5}
+      physicsShape:
+      - - {x: 18, y: -11.499999}
+        - {x: 21, y: -0.5}
+        - {x: 22, y: 3.5}
+        - {x: 25, y: 14.5}
+        - {x: 29, y: 29.499998}
+        - {x: 33, y: 43.5}
+        - {x: 33, y: 67.5}
+        - {x: 29.999998, y: 79.49999}
+        - {x: 26, y: 82.5}
+        - {x: 14.999999, y: 82.5}
+        - {x: -3, y: 65.5}
+        - {x: -6, y: 60.499996}
+        - {x: -12, y: 37.5}
+        - {x: -19, y: 7.4999995}
+        - {x: -26.999998, y: -22.5}
+        - {x: -33, y: -42.5}
+        - {x: -33, y: -66.5}
+        - {x: -29, y: -79.49999}
+        - {x: -26, y: -82.5}
+        - {x: -14.999999, y: -82.5}
+        - {x: 4, y: -63.5}
+        - {x: 6, y: -56.5}
+        - {x: 17, y: -15.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc3926fc1fc43238a2befc1cf6457da
+      internalID: 21300000
+      vertices:
+      - {x: 66, y: 127}
+      - {x: 39, y: 19}
+      - {x: 19, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 38}
+      - {x: 28, y: 147}
+      - {x: 48, y: 165}
+      - {x: 66, y: 165}
+      indices: 000000000600000007000000000000000500000006000000000000000400000005000000020000000300000004000000010000000200000004000000000000000100000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_specimen_leaf
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 267
+        width: 77
+        height: 156
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -38.5, y: 14}
+        - {x: -8.5, y: 78}
+        - {x: 8.5, y: 78}
+        - {x: 38.5, y: 11}
+        - {x: 38.5, y: -47}
+        - {x: 7.4999995, y: -78}
+        - {x: -13.499999, y: -78}
+        - {x: -38.5, y: -52.999996}
+      physicsShape:
+      - - {x: 38.5, y: -45}
+        - {x: 38.5, y: 11}
+        - {x: 34.5, y: 19.999998}
+        - {x: 30.5, y: 26.999998}
+        - {x: 24.499998, y: 44}
+        - {x: 18.5, y: 57}
+        - {x: 3.5, y: 78}
+        - {x: -7.4999995, y: 78}
+        - {x: -18.5, y: 59.999996}
+        - {x: -17.5, y: 39.999996}
+        - {x: -25.5, y: 38}
+        - {x: -30.5, y: 32}
+        - {x: -38.5, y: 13}
+        - {x: -38.5, y: -48.999996}
+        - {x: -36.499996, y: -53.999996}
+        - {x: -21.499998, y: -65}
+        - {x: -14.5, y: -78}
+        - {x: 5.5, y: -78}
+        - {x: 8.5, y: -66}
+        - {x: 17.5, y: -65}
+        - {x: 28.5, y: -58.999996}
+      - - {x: 24.499998, y: 61}
+        - {x: 24.499998, y: 57}
+        - {x: 34.5, y: 33}
+        - {x: 37.5, y: 29}
+        - {x: 38.5, y: 29}
+        - {x: 38.5, y: 72}
+        - {x: 37.5, y: 72}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cff57f124c4d5799b00429f1633018
+      internalID: 21300002
+      vertices:
+      - {x: 77, y: 89}
+      - {x: 77, y: 31}
+      - {x: 46, y: 0}
+      - {x: 25, y: 0}
+      - {x: 0, y: 25.000004}
+      - {x: 0, y: 92}
+      - {x: 30, y: 156}
+      - {x: 47, y: 156}
+      indices: 050000000600000007000000000000000100000005000000040000000500000001000000040000000200000003000000040000000100000002000000000000000500000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_specimen_lidbottom
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 436
+        width: 69
+        height: 579
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -34.5, y: 230.5}
+        - {x: 10.5, y: 289.5}
+        - {x: 34.5, y: 289.5}
+        - {x: 34.5, y: -289.5}
+        - {x: 11.499999, y: -289.5}
+        - {x: -34.5, y: -243.5}
+      physicsShape:
+      - - {x: 28.5, y: 289.5}
+        - {x: 9.5, y: 289.5}
+        - {x: -7.4999995, y: 265.5}
+        - {x: -23.5, y: 240.5}
+        - {x: -34.5, y: 221.49998}
+        - {x: -34.5, y: -240.5}
+        - {x: 10.5, y: -289.5}
+        - {x: 34.5, y: -289.5}
+        - {x: 34.5, y: 266.5}
+        - {x: 32.5, y: 281.49997}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b047f460ca0948819b875ae415552778
+      internalID: 21300004
+      vertices:
+      - {x: 69, y: 0}
+      - {x: 46, y: 0}
+      - {x: 0, y: 46}
+      - {x: 0, y: 520}
+      - {x: 45, y: 579}
+      - {x: 69, y: 579}
+      indices: 030000000400000005000000000000000300000005000000000000000200000003000000000000000100000002000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_specimen_lidclose
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 425
+        width: 123
+        height: 590
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -61.5, y: -290}
+        - {x: -61.5, y: 295}
+        - {x: 61.5, y: 295}
+        - {x: 61.5, y: -295}
+        - {x: -56.5, y: -295}
+      physicsShape:
+      - - {x: -61.5, y: 295}
+        - {x: -61.5, y: -295}
+        - {x: 61.5, y: -295}
+        - {x: 61.5, y: 276}
+        - {x: 55.5, y: 295}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1378be128144558181cb31e4289081
+      internalID: 21300006
+      vertices:
+      - {x: 123, y: 0}
+      - {x: 5, y: 0}
+      - {x: 0, y: 5}
+      - {x: 0, y: 590}
+      - {x: 123, y: 590}
+      indices: 020000000300000004000000000000000200000004000000000000000100000002000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_specimen_trunk
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 336
+        height: 505
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -168, y: -252.49998}
+        - {x: -168, y: 252.49998}
+        - {x: 168, y: 252.49998}
+        - {x: 168, y: -252.49998}
+      physicsShape:
+      - - {x: -168, y: 252.49998}
+        - {x: -168, y: -252.49998}
+        - {x: 161, y: -252.49998}
+        - {x: 168, y: -244.5}
+        - {x: 168, y: 252.49998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4986e047fb214e53b11f0eafc0c40a3b
+      internalID: 21300008
+      vertices:
+      - {x: 336, y: 0.000015258789}
+      - {x: 0, y: 0.000015258789}
+      - {x: 0, y: 505}
+      - {x: 336, y: 505}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_speciment_undertalesans
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 17
+        width: 78
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -39, y: 41}
+        - {x: 39, y: 41}
+        - {x: 39, y: -9}
+        - {x: 13, y: -37}
+        - {x: 4, y: -41}
+        - {x: -39, y: -41}
+      physicsShape:
+      - - {x: 36, y: 29}
+        - {x: 24, y: 39.999996}
+        - {x: 19.999998, y: 41}
+        - {x: -18, y: 41}
+        - {x: -29.999998, y: 35}
+        - {x: -39, y: 22}
+        - {x: -39, y: -28}
+        - {x: -36, y: -33}
+        - {x: -26.999998, y: -41}
+        - {x: 14, y: -41}
+        - {x: 32, y: -16}
+        - {x: 39, y: -8}
+        - {x: 39, y: 22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f6d014f37d464d89f243daf0fa5eb9
+      internalID: 21300010
+      vertices:
+      - {x: 78, y: 32}
+      - {x: 52, y: 4}
+      - {x: 43, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 82}
+      - {x: 78, y: 82}
+      indices: 000000000400000005000000020000000300000004000000010000000200000004000000000000000100000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_specimen_diamando
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 315
+        width: 107
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -53.499996, y: 28}
+        - {x: -53.499996, y: 53.999996}
+        - {x: -25.5, y: 53.999996}
+        - {x: 53.499996, y: 35}
+        - {x: 53.499996, y: 0}
+        - {x: -14.5, y: -53.999996}
+        - {x: -26.499998, y: -53.999996}
+      physicsShape:
+      - - {x: -53.499996, y: -53.999996}
+        - {x: -39.5, y: -53.999996}
+        - {x: -39.5, y: -42}
+        - {x: -41.5, y: -14}
+        - {x: -46.5, y: -4.9999995}
+        - {x: -53.499996, y: -4.9999995}
+      - - {x: 53.499996, y: 26.999998}
+        - {x: 49.499996, y: 34}
+        - {x: 19.5, y: 42}
+        - {x: -6.5, y: 48.999996}
+        - {x: -17.5, y: 52}
+        - {x: -22.5, y: 53.999996}
+        - {x: -38.5, y: 53.999996}
+        - {x: -53.499996, y: 38}
+        - {x: -53.499996, y: 28}
+        - {x: -51.5, y: 22.999998}
+        - {x: -32.5, y: -29}
+        - {x: -30.5, y: -38}
+        - {x: -23.5, y: -53.999996}
+        - {x: -14.5, y: -53.999996}
+        - {x: -11.499999, y: -51}
+        - {x: 7.4999995, y: -35}
+        - {x: 53.499996, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331ec38ad50346db9411e98a879e6b66
+      internalID: 21300012
+      vertices:
+      - {x: 107, y: 89}
+      - {x: 107, y: 54}
+      - {x: 39, y: 0.0000038146973}
+      - {x: 27.000002, y: 0.0000038146973}
+      - {x: 0.0000038146973, y: 82}
+      - {x: 0.0000038146973, y: 108}
+      - {x: 28, y: 108}
+      indices: 040000000500000006000000010000000200000004000000020000000300000004000000010000000400000006000000000000000100000006000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      panel_specimen_crystal: 21300000
+      panel_specimen_diamando: 21300012
+      panel_specimen_leaf: 21300002
+      panel_specimen_lidbottom: 21300004
+      panel_specimen_lidclose: 21300006
+      panel_specimen_trunk: 21300008
+      panel_speciment_undertalesans: 21300010
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

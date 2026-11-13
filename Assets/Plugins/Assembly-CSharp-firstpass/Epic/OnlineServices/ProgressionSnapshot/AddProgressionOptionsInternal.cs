@@ -1,0 +1,50 @@
+using System;
+using System.Runtime.InteropServices;
+
+namespace Epic.OnlineServices.ProgressionSnapshot
+{
+	[StructLayout((LayoutKind)0, Pack = 8, Size = 24)]
+	internal struct AddProgressionOptionsInternal : ISettable<AddProgressionOptions>, IDisposable
+	{
+		private int m_ApiVersion;
+
+		private uint m_SnapshotId;
+
+		private IntPtr m_Key;
+
+		private IntPtr m_Value;
+
+		public uint SnapshotId
+		{
+			set
+			{
+			}
+		}
+
+		public Utf8String Key
+		{
+			set
+			{
+			}
+		}
+
+		public Utf8String Value
+		{
+			set
+			{
+			}
+		}
+
+		public void Set(ref AddProgressionOptions other)
+		{
+		}
+
+		public void Set(ref AddProgressionOptions? other)
+		{
+		}
+
+		public void Dispose()
+		{
+		}
+	}
+}

@@ -1,0 +1,1329 @@
+fileFormatVersion: 2
+guid: 09b78ae71b99f8044b0bf564f9a18c74
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Marine's Eyepatch-2022_hololive_star_visor_marinesEyepatch0001
+  - first:
+      213: 21300002
+    second: No Thoughts (Korone)-2022_hololive_star_visor_noThoughts0001
+  - first:
+      213: 21300004
+    second: Hmph! (Fubuki)-2022_hololive_star_visor_hmph0001
+  - first:
+      213: 21300006
+    second: Smug Aura (Gura)-2022_hololive_star_visor_smug0002
+  - first:
+      213: 21300008
+    second: Marine's Eyepatch-2022_hololive_star_visor_marinesEyepatch0003
+  - first:
+      213: 21300010
+    second: Teehee! (Risu)-2022_hololive_star_visor_teehee0001
+  - first:
+      213: 21300012
+    second: Sweepy (Okayu)-2022_hololive_star_visor_sweepy0001
+  - first:
+      213: 21300014
+    second: Bored Now (Hoshinova)-2022_hololive_star_visor_boredNow0002
+  - first:
+      213: 21300016
+    second: Ah. (Mio)-2022_hololive_star_visor_ah0002
+  - first:
+      213: 21300018
+    second: Sweepy (Okayu)-2022_hololive_star_visor_sweepy0002
+  - first:
+      213: 21300020
+    second: Marine's Eyepatch-2022_hololive_star_visor_marinesEyepatch0002
+  - first:
+      213: 21300022
+    second: Nudge-Nudge (Pekora)-2022_hololive_star_visor_nudgeNudge0001
+  - first:
+      213: 21300024
+    second: No Thoughts (Korone)-2022_hololive_star_visor_noThoughts0002
+  - first:
+      213: 21300026
+    second: Hmph! (Fubuki)-2022_hololive_star_visor_hmph0002
+  - first:
+      213: 21300028
+    second: Nudge-Nudge (Pekora)-2022_hololive_star_visor_nudgeNudge0002
+  - first:
+      213: 21300030
+    second: Ah. (Mio)-2022_hololive_star_visor_ah0001
+  - first:
+      213: 21300032
+    second: Smug Aura (Gura)-2022_hololive_star_visor_guraemoji0001.png0001
+  - first:
+      213: 21300034
+    second: Haha What Could Be Wrong (Amelia)-2022_hololive_star_visor_whatCouldBeWrong0001
+  - first:
+      213: 21300036
+    second: Nudge-Nudge (Pekora)-2022_hololive_star_visor_nudgeNudge0003
+  - first:
+      213: 21300038
+    second: Bored Now (Hoshinova)-2022_hololive_star_visor_boredNow0001
+  - first:
+      213: 21300040
+    second: Smug Aura (Gura)-2022_hololive_star_visor_smug0001
+  - first:
+      213: 21300042
+    second: Teehee! (Risu)-2022_hololive_star_visor_teehee0002
+  - first:
+      213: 21300044
+    second: Haha What Could Be Wrong (Amelia)-2022_hololive_star_visor_whatCouldBeWrong0002
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Marine's Eyepatch-2022_hololive_star_visor_marinesEyepatch0001
+      rect:
+        serializedVersion: 2
+        x: 148.02675
+        y: 98
+        width: 101.97325
+        height: 55.923878
+      alignment: 9
+      pivot: {x: 0.15664159, y: 0.85830957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -40.013374, y: 27.038061}
+        - {x: 50.986618, y: 29.038061}
+        - {x: 28.986626, y: 7.038061}
+        - {x: -41.013374, y: -27.961939}
+        - {x: -58.013374, y: -7.961939}
+      physicsShape:
+      - - {x: -7.0133743, y: -26.961939}
+        - {x: -7.0133743, y: -27.961939}
+        - {x: 6.9866257, y: -27.961939}
+        - {x: 6.9866257, y: -25.961935}
+        - {x: 4.986622, y: -23.961939}
+        - {x: -3.0133743, y: -23.961939}
+      - - {x: 29.986626, y: -26.961939}
+        - {x: 29.986626, y: -27.961939}
+        - {x: 42.986626, y: -27.961939}
+        - {x: 42.986626, y: -25.961935}
+        - {x: 41.986626, y: -23.961939}
+        - {x: 30.986626, y: -23.961939}
+      - - {x: 36.986626, y: 16.038061}
+        - {x: 36.986626, y: 22.038061}
+        - {x: 34.986626, y: 24.038061}
+        - {x: 4.986622, y: 22.038061}
+        - {x: -8.013376, y: 27.038061}
+        - {x: -40.013374, y: 27.038061}
+        - {x: -50.013374, y: 10.038062}
+        - {x: -42.013374, y: 1.0380611}
+        - {x: -50.013374, y: -9.961937}
+        - {x: -50.013374, y: -18.961939}
+        - {x: -13.013374, y: -18.961939}
+        - {x: -2.0133743, y: 0.03806305}
+        - {x: 1.9866257, y: 8.038061}
+        - {x: 34.986626, y: 11.038061}
+      - - {x: 27.986626, y: 3.0380611}
+        - {x: 27.986626, y: -4.961939}
+        - {x: 31.986618, y: -10.961939}
+        - {x: 37.986618, y: -9.961937}
+        - {x: 46.986626, y: -18.961939}
+        - {x: 50.986618, y: -18.961939}
+        - {x: 50.986618, y: 2.0380611}
+        - {x: 47.986626, y: 3.0380611}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9259b1cae244d698d73526114d4192
+      internalID: 21300000
+      vertices:
+      - {x: 114.986626, y: 14.961939}
+      - {x: 44.986626, y: -20.038061}
+      - {x: 27.986628, y: -0.038061142}
+      - {x: 45.986626, y: 34.961937}
+      - {x: 136.98662, y: 36.961937}
+      indices: 000000000300000004000000010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: No Thoughts (Korone)-2022_hololive_star_visor_noThoughts0001
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 4
+        width: 41
+        height: 15
+      alignment: 9
+      pivot: {x: -0.31707317, y: 1.1333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -20.5, y: -7.5}
+        - {x: -20.5, y: 7.5}
+        - {x: 20.499996, y: 7.5}
+        - {x: 20.499996, y: -7.5}
+      physicsShape:
+      - - {x: 11.5, y: 7.5}
+        - {x: 9.499996, y: 6.5}
+        - {x: 2.5, y: 7.5}
+        - {x: -19.5, y: 7.5}
+        - {x: -20.5, y: 5.5}
+        - {x: -20.5, y: -2.5}
+        - {x: -18.5, y: -4.5}
+        - {x: -9.5, y: -7.5}
+        - {x: 9.499996, y: -7.5}
+        - {x: 20.499996, y: -1.5}
+        - {x: 20.499996, y: 4.5000005}
+        - {x: 19.499996, y: 7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e9f9442306404db116429c49dcb2f6
+      internalID: 21300002
+      vertices:
+      - {x: 74.5, y: -9.5}
+      - {x: 33.5, y: -9.5}
+      - {x: 33.5, y: 5.5}
+      - {x: 74.5, y: 5.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hmph! (Fubuki)-2022_hololive_star_visor_hmph0001
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 108
+        width: 42
+        height: 24
+      alignment: 9
+      pivot: {x: -0.35714287, y: 1.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -21, y: -12}
+        - {x: -21, y: 12}
+        - {x: 21, y: 12}
+        - {x: 21, y: -12}
+      physicsShape:
+      - - {x: -5, y: 8}
+        - {x: -5, y: -12}
+        - {x: 6.999996, y: -12}
+        - {x: 9.999996, y: -8.999998}
+        - {x: 9.999996, y: 8}
+      - - {x: -15, y: 12}
+        - {x: -21, y: 9}
+        - {x: -21, y: 5}
+        - {x: -19, y: 3}
+        - {x: -13.000002, y: 4}
+        - {x: -9.000002, y: 7}
+        - {x: -9.000002, y: 12}
+      - - {x: 9.999996, y: 12}
+        - {x: 9.999996, y: 6.000001}
+        - {x: 11, y: 4}
+        - {x: 14, y: 3}
+        - {x: 20, y: 3}
+        - {x: 21, y: 4}
+        - {x: 21, y: 8}
+        - {x: 16.999996, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15570c584234e5f86d6524cec481c83
+      internalID: 21300004
+      vertices:
+      - {x: 78, y: -21}
+      - {x: 36, y: -21}
+      - {x: 36, y: 3}
+      - {x: 78, y: 3}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smug Aura (Gura)-2022_hololive_star_visor_smug0002
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 21
+        width: 58
+        height: 15
+      alignment: 9
+      pivot: {x: 0.55172414, y: 0.26666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -29, y: -7.5}
+        - {x: -29, y: 7.5}
+        - {x: 29, y: 7.5}
+        - {x: 29, y: -7.5}
+      physicsShape:
+      - - {x: 25, y: 7.5}
+        - {x: 22, y: 4.5}
+        - {x: 22, y: 3.5}
+        - {x: 19, y: 6.499999}
+        - {x: 11, y: 7.5}
+        - {x: -22, y: 7.5}
+        - {x: -28, y: 4.5}
+        - {x: -29, y: 0.5}
+        - {x: -29, y: -6.5}
+        - {x: -28, y: -7.5}
+        - {x: 22, y: -7.5}
+        - {x: 29, y: -3.5}
+        - {x: 29, y: 6.499999}
+        - {x: 28, y: 7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64695cea414e495ba1af40402bf55306
+      internalID: 21300006
+      vertices:
+      - {x: 55, y: 3.5}
+      - {x: -3, y: 3.5}
+      - {x: -3, y: 18.5}
+      - {x: 55, y: 18.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marine's Eyepatch-2022_hololive_star_visor_marinesEyepatch0003
+      rect:
+        serializedVersion: 2
+        x: 6.0761204
+        y: 107.02675
+        width: 115.84776
+        height: 43.897125
+      alignment: 9
+      pivot: {x: 0.5258961, y: 0.3638792}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -31.999996, y: -26.975311}
+        - {x: -62.999996, y: 4.024688}
+        - {x: -21.999996, y: 26.024689}
+        - {x: 77, y: 1.0246887}
+      physicsShape:
+      - - {x: 57, y: -4.9753113}
+        - {x: 57, y: 6.0246887}
+        - {x: 56, y: 7.0246887}
+        - {x: 29.000004, y: 9.024688}
+        - {x: 0.0000038146973, y: 21.024687}
+        - {x: -31.999996, y: 21.024687}
+        - {x: -56.999992, y: 6.0246887}
+        - {x: -56.999992, y: -2.9753113}
+        - {x: -39.999992, y: -8.975311}
+        - {x: -22.999996, y: -21.975311}
+        - {x: -11.999995, y: -21.975311}
+        - {x: -7.999996, y: -20.975311}
+        - {x: 1.0000038, y: -11.975311}
+        - {x: 8.000004, y: 1.0246887}
+        - {x: 32.000004, y: -6.9753113}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1d5917a6ca4ff2bc7c8b0a4c664975
+      internalID: 21300008
+      vertices:
+      - {x: 131.92389, y: 28.948563}
+      - {x: 22.923882, y: 0.9485626}
+      - {x: -8.076118, y: 31.948563}
+      - {x: 32.92388, y: 53.948563}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teehee! (Risu)-2022_hololive_star_visor_teehee0001
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 38
+        width: 49
+        height: 19
+      alignment: 9
+      pivot: {x: -0.2244898, y: 1.4736842}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -24.5, y: -9.5}
+        - {x: -24.5, y: 9.5}
+        - {x: 24.499996, y: 9.5}
+        - {x: 24.499996, y: -9.5}
+      physicsShape:
+      - - {x: -24.5, y: 9.5}
+        - {x: -24.5, y: -9.5}
+        - {x: -17.5, y: -9.5}
+        - {x: -10.5, y: -1.4999981}
+        - {x: -10.5, y: 0.5}
+        - {x: -19.5, y: 9.5}
+      - - {x: 0.5, y: 9.5}
+        - {x: -4.5, y: 8.500001}
+        - {x: -10.5, y: 7.5}
+        - {x: -10.5, y: 0.5}
+        - {x: -9.5, y: -2.5}
+        - {x: -5.500002, y: -7.5}
+        - {x: 6.5, y: -7.5}
+        - {x: 14.5, y: -9.5}
+        - {x: 24.499996, y: -9.5}
+        - {x: 24.499996, y: 9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac07f92f3904fd8b405eaeebe4141bf
+      internalID: 21300010
+      vertices:
+      - {x: 84.5, y: -18.5}
+      - {x: 35.5, y: -18.5}
+      - {x: 35.5, y: 0.5}
+      - {x: 84.5, y: 0.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sweepy (Okayu)-2022_hololive_star_visor_sweepy0001
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 60
+        width: 86
+        height: 19
+      alignment: 9
+      pivot: {x: 0.11627907, y: 1.6315789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 43, y: 9.5}
+        - {x: 3, y: -9.5}
+        - {x: -43, y: 9.5}
+      physicsShape:
+      - - {x: 25.999996, y: 9.5}
+        - {x: 9.999996, y: 9.5}
+        - {x: -7, y: 7.5}
+        - {x: -7, y: -1.4999981}
+        - {x: -6.000002, y: -5.499998}
+        - {x: 9.999996, y: -5.499998}
+        - {x: 14, y: -1.4999981}
+        - {x: 26.999996, y: 3.5}
+        - {x: 26.999996, y: 6.500001}
+      - - {x: -21, y: 9.5}
+        - {x: -24, y: 8.5}
+        - {x: -24, y: 4.5}
+        - {x: -21, y: 1.5000019}
+        - {x: -11, y: 1.5000019}
+        - {x: -10.000002, y: 3.5}
+        - {x: -10.000002, y: 9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f606f3d1214d90810a137976a73f92
+      internalID: 21300012
+      vertices:
+      - {x: 79, y: -21.5}
+      - {x: 33, y: -2.5}
+      - {x: 119, y: -2.5}
+      indices: 000000000100000002000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bored Now (Hoshinova)-2022_hololive_star_visor_boredNow0002
+      rect:
+        serializedVersion: 2
+        x: 111.07612
+        y: 72.02675
+        width: 82.92388
+        height: 26.97325
+      alignment: 9
+      pivot: {x: 0.40909663, y: 0.110229634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -20.53806, y: -22.513374}
+        - {x: -50.538055, y: -4.5133734}
+        - {x: 20.46194, y: 13.486627}
+        - {x: 41.461937, y: -1.5133734}
+      physicsShape:
+      - - {x: -39.53806, y: -0.5133743}
+        - {x: -40.53806, y: -4.5133734}
+        - {x: -40.53806, y: -10.513373}
+        - {x: -36.53806, y: -12.513373}
+        - {x: -22.53806, y: -12.513373}
+        - {x: -13.538059, y: -6.5133734}
+        - {x: -13.538059, y: -2.5133734}
+        - {x: -14.538059, y: -0.5133743}
+      - - {x: -3.5380592, y: -1.5133734}
+        - {x: -4.538059, y: -2.5133734}
+        - {x: -4.538059, y: -10.513373}
+        - {x: -3.5380592, y: -12.513373}
+        - {x: 14.461941, y: -12.513373}
+        - {x: 18.46194, y: -6.5133734}
+        - {x: 18.46194, y: -1.5133734}
+      - - {x: 39.46194, y: 13.486627}
+        - {x: 38.461937, y: 11.486627}
+        - {x: 40.46194, y: 9.486625}
+        - {x: 41.461937, y: 9.486625}
+        - {x: 41.461937, y: 13.486627}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f1bf14a6694a2b921aa038987031eb
+      internalID: 21300014
+      vertices:
+      - {x: 90.46194, y: 22.486626}
+      - {x: 28.46194, y: 1.4866247}
+      - {x: -1.5380554, y: 19.486626}
+      - {x: 69.461945, y: 37.486626}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ah. (Mio)-2022_hololive_star_visor_ah0002
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 18
+        width: 72
+        height: 28
+      alignment: 9
+      pivot: {x: 0.41666666, y: 0.53571427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 36, y: 14}
+        - {x: -36, y: -13.999999}
+        - {x: -32, y: 14}
+      physicsShape:
+      - - {x: 28, y: 0}
+        - {x: 23.999998, y: -5}
+        - {x: 23.999998, y: -13}
+        - {x: 28, y: -13.999999}
+        - {x: 36, y: -13.999999}
+        - {x: 36, y: 0}
+      - - {x: -28.999998, y: 14}
+        - {x: -32, y: 10}
+        - {x: -32, y: 5.9999995}
+        - {x: -30, y: 4}
+        - {x: -20, y: -5}
+        - {x: -9, y: -5}
+        - {x: 12, y: 3}
+        - {x: 15, y: 8}
+        - {x: 15, y: 14}
+      - - {x: -12, y: 7}
+        - {x: -6, y: 8}
+        - {x: -7, y: 9}
+        - {x: -11, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c320f993904aba8cf18285fed2f168
+      internalID: 21300016
+      vertices:
+      - {x: 6.000002, y: -0.99999905}
+      - {x: 10, y: 27}
+      - {x: 78, y: 27}
+      indices: 000000000100000002000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sweepy (Okayu)-2022_hololive_star_visor_sweepy0002
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 85
+        width: 90
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5222222, y: 0.4117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 44.999996, y: 8.499999}
+        - {x: -5, y: -8.5}
+        - {x: -45, y: 8.499999}
+      physicsShape:
+      - - {x: -12, y: 8.499999}
+        - {x: -12.999999, y: 5.5}
+        - {x: -12.999999, y: -3.5}
+        - {x: -11, y: -5.5}
+        - {x: 5, y: -5.5}
+        - {x: 24, y: 2.5}
+        - {x: 24, y: 8.499999}
+      - - {x: -22, y: 8.499999}
+        - {x: -27, y: 4.5}
+        - {x: -26, y: 1.5}
+        - {x: -15, y: 1.5}
+        - {x: -12, y: 2.5}
+        - {x: -12, y: 6.5}
+        - {x: -12.999999, y: 8.499999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58ed571ca714729a82f0ad435df4921
+      internalID: 21300018
+      vertices:
+      - {x: 38, y: 1.5}
+      - {x: -2, y: 18.5}
+      - {x: 88, y: 18.5}
+      indices: 000000000100000002000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marine's Eyepatch-2022_hololive_star_visor_marinesEyepatch0002
+      rect:
+        serializedVersion: 2
+        x: 8.026751
+        y: 55.07612
+        width: 90.9465
+        height: 48.847755
+      alignment: 9
+      pivot: {x: 0.17563346, y: 0.8173125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -43.5, y: -12.499996}
+        - {x: 8.499998, y: 27.500004}
+        - {x: 55.5, y: 20.500004}
+        - {x: 29.499994, y: -30.499992}
+        - {x: -5.500002, y: -7.4999943}
+        - {x: -52.5, y: -33.499992}
+      physicsShape:
+      - - {x: 34.5, y: -18.499996}
+        - {x: 40.5, y: -11.499994}
+        - {x: 44.5, y: 4.500004}
+        - {x: 44.5, y: 19.500004}
+        - {x: 41.5, y: 23.500004}
+        - {x: 2.499998, y: 23.500004}
+        - {x: -3.500002, y: 18.500004}
+        - {x: -38.5, y: -8.499996}
+        - {x: -44.5, y: -14.499994}
+        - {x: -44.5, y: -20.499996}
+        - {x: -43.5, y: -23.499996}
+        - {x: -36.5, y: -23.499996}
+        - {x: 1.4999981, y: -4.4999943}
+        - {x: 11.499998, y: -16.499996}
+        - {x: 19.499994, y: -21.499996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f199407cfcac450bb849b78f987f5e3d
+      internalID: 21300020
+      vertices:
+      - {x: 130.47325, y: 29.423878}
+      - {x: 104.47325, y: -21.576118}
+      - {x: 69.47325, y: 1.4238796}
+      - {x: 22.473253, y: -24.576118}
+      - {x: 31.473251, y: -3.5761223}
+      - {x: 83.47325, y: 36.423878}
+      indices: 020000000400000005000000020000000300000004000000010000000200000005000000000000000100000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nudge-Nudge (Pekora)-2022_hololive_star_visor_nudgeNudge0001
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 2
+        width: 57
+        height: 25
+      alignment: 9
+      pivot: {x: -0.1754386, y: 1.16}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -28.5, y: 12.5}
+        - {x: 28.499992, y: 12.5}
+        - {x: 15.499996, y: -12.5}
+        - {x: -28.5, y: -12.5}
+      physicsShape:
+      - - {x: 22.5, y: 12.5}
+        - {x: -28.5, y: 12.5}
+        - {x: -28.5, y: 6.500001}
+        - {x: -27.5, y: 5.5}
+        - {x: -27.5, y: 0.5}
+        - {x: -28.5, y: -10.499998}
+        - {x: -28.5, y: -12.5}
+        - {x: 5.5, y: -12.5}
+        - {x: 19.5, y: -2.5}
+        - {x: 23.5, y: 4.5}
+        - {x: 23.5, y: 8.5}
+      - - {x: -2.5, y: 1.500001}
+        - {x: -3.5, y: 1.500001}
+        - {x: 1.4999962, y: 1.500001}
+        - {x: -0.5, y: -2.5}
+        - {x: 0.5, y: -2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f81b4e42864203833ff52f843b5d5f
+      internalID: 21300022
+      vertices:
+      - {x: 82.5, y: -16.5}
+      - {x: 38.5, y: -16.5}
+      - {x: 38.5, y: 8.5}
+      - {x: 95.49999, y: 8.5}
+      indices: 000000000200000003000000000000000100000002000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: No Thoughts (Korone)-2022_hololive_star_visor_noThoughts0002
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 5
+        width: 66
+        height: 27
+      alignment: 9
+      pivot: {x: 0.59090906, y: 0.5555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 33, y: 13.5}
+        - {x: 6, y: -13.5}
+        - {x: -33, y: 13.5}
+      physicsShape:
+      - - {x: -25, y: -2.499999}
+        - {x: -33, y: -6.499999}
+        - {x: -33, y: -13.499998}
+        - {x: -25, y: -13.499998}
+        - {x: -20, y: -6.499999}
+        - {x: -20, y: -4.499999}
+        - {x: -20.999998, y: -2.499999}
+      - - {x: -12, y: 13.500001}
+        - {x: -16, y: 9.500001}
+        - {x: -16, y: 4.500001}
+        - {x: -15, y: 1.500001}
+        - {x: -11, y: -2.499999}
+        - {x: 11, y: -2.499999}
+        - {x: 23, y: -0.49999905}
+        - {x: 27, y: 8.500001}
+        - {x: 27, y: 11.5}
+        - {x: 24, y: 13.500001}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34c820747f64d2db4c59bef343a3c12
+      internalID: 21300024
+      vertices:
+      - {x: 33, y: -1.500001}
+      - {x: -6, y: 25.5}
+      - {x: 60, y: 25.5}
+      indices: 000000000100000002000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hmph! (Fubuki)-2022_hololive_star_visor_hmph0002
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 81
+        width: 43
+        height: 21
+      alignment: 9
+      pivot: {x: 0.53488374, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -21.499998, y: -10.5}
+        - {x: -21.499998, y: 10.5}
+        - {x: 21.499998, y: 10.5}
+        - {x: 21.499998, y: -10.5}
+      physicsShape:
+      - - {x: -1.5, y: 7.5000005}
+        - {x: -8.499999, y: 5.4999995}
+        - {x: -13.499999, y: -4.4999995}
+        - {x: -13.499999, y: -8.5}
+        - {x: -12.5, y: -10.5}
+        - {x: 1.5, y: -10.5}
+        - {x: 8.5, y: -1.4999995}
+        - {x: 8.5, y: 7.5000005}
+      - - {x: -21.499998, y: 5.4999995}
+        - {x: -19.5, y: 2.5000005}
+        - {x: -12.5, y: 3.5000005}
+        - {x: -7.5, y: 7.5000005}
+        - {x: -8.499999, y: 10.5}
+        - {x: -12.5, y: 10.5}
+        - {x: -19.5, y: 9.5}
+      - - {x: 10.5, y: 6.5000005}
+        - {x: 13.5, y: 2.5000005}
+        - {x: 19.5, y: 2.5000005}
+        - {x: 21.499998, y: 3.5000005}
+        - {x: 21.499998, y: 6.5000005}
+        - {x: 19.5, y: 9.5}
+        - {x: 13.5, y: 10.5}
+        - {x: 10.5, y: 7.5000005}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25e0334b1e8463b9feb04b1ca45e7fe
+      internalID: 21300026
+      vertices:
+      - {x: 41.5, y: 4.5}
+      - {x: -1.4999981, y: 4.5}
+      - {x: -1.4999981, y: 25.5}
+      - {x: 41.5, y: 25.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nudge-Nudge (Pekora)-2022_hololive_star_visor_nudgeNudge0002
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 104
+        width: 52
+        height: 25
+      alignment: 9
+      pivot: {x: -0.17307693, y: 1.16}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -26, y: -12.5}
+        - {x: -26, y: 12.5}
+        - {x: 26, y: 12.5}
+        - {x: 26, y: -12.5}
+      physicsShape:
+      - - {x: 26, y: 12.5}
+        - {x: -25, y: 12.5}
+        - {x: -26, y: 9.5}
+        - {x: -26, y: 0.5}
+        - {x: -22, y: -2.5}
+        - {x: -2, y: -12.5}
+        - {x: 9, y: -12.5}
+        - {x: 18.999996, y: -8.5}
+        - {x: 26, y: -5.5}
+      - - {x: 0, y: -1.5}
+        - {x: -3, y: 2.5}
+        - {x: 2, y: 1.500001}
+        - {x: 0, y: -2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79ab1dd8c444a4b95eb6deac82ddccc
+      internalID: 21300028
+      vertices:
+      - {x: 87, y: -16.5}
+      - {x: 35, y: -16.5}
+      - {x: 35, y: 8.5}
+      - {x: 87, y: 8.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ah. (Mio)-2022_hololive_star_visor_ah0001
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 30
+        width: 75
+        height: 27
+      alignment: 9
+      pivot: {x: 0.08, y: 1.4814814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 37.5, y: 13.5}
+        - {x: 10.5, y: -13.499996}
+        - {x: -37.5, y: 13.5}
+      physicsShape:
+      - - {x: 26.5, y: -7.5}
+        - {x: 21.499996, y: -12.5}
+        - {x: 21.499996, y: -13.499996}
+        - {x: 29.5, y: -13.499996}
+        - {x: 30.5, y: -10.5}
+        - {x: 30.5, y: -8.5}
+        - {x: 28.499996, y: -7.5}
+      - - {x: 31.5, y: -13.499996}
+        - {x: 37.5, y: -13.499996}
+        - {x: 37.5, y: -6.5}
+        - {x: 32.5, y: -8.5}
+      - - {x: 27.499996, y: 13.5}
+        - {x: -15.5, y: 13.5}
+        - {x: -16.5, y: 11.500001}
+        - {x: -16.5, y: 2.5}
+        - {x: 5.5, y: -8.5}
+        - {x: 11.499996, y: -8.5}
+        - {x: 19.5, y: -0.4999981}
+        - {x: 28.499996, y: 2.5}
+        - {x: 28.499996, y: 11.500001}
+      - - {x: 4.5, y: 5.5}
+        - {x: 8.499996, y: 5.5}
+        - {x: 7.5, y: 1.5}
+        - {x: 7.5, y: 2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8875d1f1c5ae4e599ed4fd628db09835
+      internalID: 21300030
+      vertices:
+      - {x: 79.5, y: -26.499996}
+      - {x: 31.5, y: 0.5}
+      - {x: 106.5, y: 0.5}
+      indices: 000000000100000002000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smug Aura (Gura)-2022_hololive_star_visor_guraemoji0001.png0001
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 2
+        width: 54
+        height: 17
+      alignment: 9
+      pivot: {x: -0.11111111, y: 1.5882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -27, y: -8.499998}
+        - {x: -27, y: 8.500001}
+        - {x: 26.999996, y: 8.500001}
+        - {x: 26.999996, y: -8.499998}
+      physicsShape:
+      - - {x: -9, y: 8.500001}
+        - {x: -11, y: 7.5}
+        - {x: -11, y: 0.5}
+        - {x: -9, y: -7.5}
+        - {x: -5, y: -8.499998}
+        - {x: 25, y: -8.499998}
+        - {x: 26.999996, y: -6.5}
+        - {x: 26.999996, y: 7.5}
+        - {x: 25.999996, y: 8.500001}
+      - - {x: -26, y: 8.500001}
+        - {x: -27, y: 6.5}
+        - {x: -27, y: -7.5}
+        - {x: -22, y: -8.499998}
+        - {x: -13.000002, y: -8.499998}
+        - {x: -11, y: -3.5}
+        - {x: -11, y: 8.500001}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7917890adcf24d2b99068576ff0fc119
+      internalID: 21300032
+      vertices:
+      - {x: 87, y: -18.499998}
+      - {x: 33, y: -18.499998}
+      - {x: 33, y: -1.499999}
+      - {x: 87, y: -1.499999}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haha What Could Be Wrong (Amelia)-2022_hololive_star_visor_whatCouldBeWrong0001
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 134
+        width: 46
+        height: 21
+      alignment: 9
+      pivot: {x: -0.26086956, y: 1.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -23, y: -10.499998}
+        - {x: -23, y: 10.5}
+        - {x: 23, y: 10.5}
+        - {x: 23, y: -10.499998}
+      physicsShape:
+      - - {x: 13.999996, y: 10.5}
+        - {x: 7.999996, y: 9.5}
+        - {x: 1, y: 10.5}
+        - {x: -6, y: 10.5}
+        - {x: -7, y: 7.5}
+        - {x: -7, y: -0.5}
+        - {x: -3, y: -10.499998}
+        - {x: 18.999996, y: -10.499998}
+        - {x: 23, y: -8.5}
+        - {x: 23, y: 6.500001}
+        - {x: 17.999996, y: 10.5}
+      - - {x: -9, y: 10.5}
+        - {x: -20, y: 10.5}
+        - {x: -23, y: 3.5}
+        - {x: -23, y: -1.5}
+        - {x: -15.000002, y: -1.5}
+        - {x: -11, y: 1.500001}
+        - {x: -8.000002, y: 6.500001}
+        - {x: -8.000002, y: 9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74393311101b46bea17e69c9c2eff733
+      internalID: 21300034
+      vertices:
+      - {x: 81, y: -16.499998}
+      - {x: 35, y: -16.499998}
+      - {x: 35, y: 4.5}
+      - {x: 81, y: 4.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nudge-Nudge (Pekora)-2022_hololive_star_visor_nudgeNudge0003
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 13
+        width: 68
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5441176, y: 0.35714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 4, y: -13.999999}
+        - {x: -34, y: -3}
+        - {x: -25, y: 14}
+        - {x: 34, y: 12}
+      physicsShape:
+      - - {x: 22.999998, y: 0}
+        - {x: 22.999998, y: -13}
+        - {x: 24, y: -13.999999}
+        - {x: 34, y: -13.999999}
+        - {x: 34, y: -2}
+        - {x: 32, y: 0}
+      - - {x: 22.999998, y: 13}
+        - {x: -31, y: 13}
+        - {x: -31, y: -4}
+        - {x: -10, y: -8}
+        - {x: 0, y: -8}
+        - {x: 20, y: 0.9999995}
+        - {x: 25.999998, y: 5.999999}
+        - {x: 25.999998, y: 12}
+      - - {x: -4, y: 3}
+        - {x: 1, y: 4}
+        - {x: -4, y: 0.9999995}
+        - {x: -3, y: 0.9999995}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7305d5e222f479eb929d6967a04e656
+      internalID: 21300036
+      vertices:
+      - {x: 65, y: 30}
+      - {x: 35, y: 4.000001}
+      - {x: -3, y: 15}
+      - {x: 6, y: 32}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bored Now (Hoshinova)-2022_hololive_star_visor_boredNow0001
+      rect:
+        serializedVersion: 2
+        x: 110.02675
+        y: 46.026752
+        width: 59.946495
+        height: 31.97325
+      alignment: 9
+      pivot: {x: -0.06717238, y: 0.81234306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -30.999996, y: -2.0133772}
+        - {x: 7.000004, y: -2.0133772}
+        - {x: 43.000004, y: 15.986623}
+        - {x: 23.000004, y: -20.013374}
+        - {x: -0.9999962, y: -10.013375}
+        - {x: -26.999996, y: -23.013378}
+      physicsShape:
+      - - {x: -25.999996, y: -2.0133772}
+        - {x: -28.999996, y: -3.0133772}
+        - {x: -28.999996, y: -9.013377}
+        - {x: -26.999996, y: -15.013377}
+        - {x: -22.999996, y: -16.013378}
+        - {x: -10.999998, y: -16.013378}
+        - {x: -2.9999962, y: -9.013377}
+        - {x: -2.9999962, y: -4.013377}
+        - {x: -4.999996, y: -2.0133772}
+      - - {x: 6, y: -2.0133772}
+        - {x: 6, y: -8.013377}
+        - {x: 10.000004, y: -15.013377}
+        - {x: 22.000004, y: -15.013377}
+        - {x: 28.000004, y: -12.013377}
+        - {x: 29.000004, y: -10.013375}
+        - {x: 29.000004, y: -2.0133772}
+      - - {x: -27.999996, y: 15.986623}
+        - {x: -27.999996, y: 14.986622}
+        - {x: -23.999996, y: 10.986623}
+        - {x: -13.999998, y: 10.986623}
+        - {x: -6.999998, y: 13.986623}
+        - {x: -6.999998, y: 15.986623}
+      - - {x: 8.000004, y: 15.986623}
+        - {x: 8.000004, y: 13.986623}
+        - {x: 11.000004, y: 10.986623}
+        - {x: 20, y: 10.986623}
+        - {x: 27.000004, y: 13.986623}
+        - {x: 27.000004, y: 15.986623}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b6911167f845719a989c488c8b72fe
+      internalID: 21300038
+      vertices:
+      - {x: 86.97325, y: -14.013373}
+      - {x: 62.973248, y: -4.0133734}
+      - {x: 36.973248, y: -17.013374}
+      - {x: 32.973248, y: 3.9866247}
+      - {x: 70.97325, y: 3.9866247}
+      - {x: 106.97325, y: 21.986626}
+      indices: 010000000300000004000000000000000400000005000000010000000200000003000000000000000100000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smug Aura (Gura)-2022_hololive_star_visor_smug0001
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 2
+        width: 54
+        height: 17
+      alignment: 9
+      pivot: {x: -0.11111111, y: 1.5882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -27, y: -8.499998}
+        - {x: -27, y: 8.500001}
+        - {x: 26.999996, y: 8.500001}
+        - {x: 26.999996, y: -8.499998}
+      physicsShape:
+      - - {x: -9, y: 8.500001}
+        - {x: -11, y: 7.5}
+        - {x: -11, y: 0.5}
+        - {x: -9, y: -7.5}
+        - {x: -5, y: -8.499998}
+        - {x: 25, y: -8.499998}
+        - {x: 26.999996, y: -6.5}
+        - {x: 26.999996, y: 7.5}
+        - {x: 25.999996, y: 8.500001}
+      - - {x: -26, y: 8.500001}
+        - {x: -27, y: 6.5}
+        - {x: -27, y: -7.5}
+        - {x: -22, y: -8.499998}
+        - {x: -13.000002, y: -8.499998}
+        - {x: -11, y: -3.5}
+        - {x: -11, y: 8.500001}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d83c4525bf248e89fa6201910ff0b10
+      internalID: 21300040
+      vertices:
+      - {x: 87, y: -18.499998}
+      - {x: 33, y: -18.499998}
+      - {x: 33, y: -1.499999}
+      - {x: 87, y: -1.499999}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teehee! (Risu)-2022_hololive_star_visor_teehee0002
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 58
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5862069, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -29, y: -7.5}
+        - {x: -29, y: 7.5}
+        - {x: 29, y: 7.5}
+        - {x: 29, y: -7.5}
+      physicsShape:
+      - - {x: -14.999998, y: 7.5}
+        - {x: -21.999998, y: 7.5}
+        - {x: -29, y: -1.5}
+        - {x: -29, y: -6.5}
+        - {x: -28, y: -7.5}
+        - {x: -23, y: -7.5}
+        - {x: -13, y: -4.5}
+        - {x: -11, y: -1.5}
+        - {x: -11, y: 4.5}
+      - - {x: -8, y: 7.5}
+        - {x: -9, y: 3.5}
+        - {x: -9, y: -6.5}
+        - {x: -8, y: -7.5}
+        - {x: 27, y: -7.5}
+        - {x: 27.999998, y: -6.5}
+        - {x: 27.999998, y: 7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c34f79e80774593872278b6f5bea349
+      internalID: 21300042
+      vertices:
+      - {x: 53, y: 4.5}
+      - {x: -5, y: 4.5}
+      - {x: -5, y: 19.5}
+      - {x: 53, y: 19.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haha What Could Be Wrong (Amelia)-2022_hololive_star_visor_whatCouldBeWrong0002
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 59
+        width: 47
+        height: 17
+      alignment: 9
+      pivot: {x: 0.59574467, y: 0.11764706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -23.5, y: -8.5}
+        - {x: -23.5, y: 8.499999}
+        - {x: 23.5, y: 8.499999}
+        - {x: 23.5, y: -8.5}
+      physicsShape:
+      - - {x: -3.5, y: 8.499999}
+        - {x: -6.5, y: 5.5}
+        - {x: -6.5, y: -8.5}
+        - {x: 5.5, y: -8.5}
+        - {x: 23.5, y: -0.5}
+        - {x: 23.5, y: 8.499999}
+      - - {x: -23.5, y: 1.5}
+        - {x: -22.499998, y: -1.5000005}
+        - {x: -18.499998, y: -1.5000005}
+        - {x: -9.5, y: 0.5}
+        - {x: -5.499999, y: 5.5}
+        - {x: -5.499999, y: 8.499999}
+        - {x: -12.5, y: 8.499999}
+        - {x: -20.5, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1392f9e8b124207a5fbd5767a56eda5
+      internalID: 21300044
+      vertices:
+      - {x: 42.5, y: 6.5}
+      - {x: -4.5, y: 6.5}
+      - {x: -4.5, y: 23.5}
+      - {x: 42.5, y: 23.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ah. (Mio)-2022_hololive_star_visor_ah0001: 21300030
+      Ah. (Mio)-2022_hololive_star_visor_ah0002: 21300016
+      Bored Now (Hoshinova)-2022_hololive_star_visor_boredNow0001: 21300038
+      Bored Now (Hoshinova)-2022_hololive_star_visor_boredNow0002: 21300014
+      Haha What Could Be Wrong (Amelia)-2022_hololive_star_visor_whatCouldBeWrong0001: 21300034
+      Haha What Could Be Wrong (Amelia)-2022_hololive_star_visor_whatCouldBeWrong0002: 21300044
+      Hmph! (Fubuki)-2022_hololive_star_visor_hmph0001: 21300004
+      Hmph! (Fubuki)-2022_hololive_star_visor_hmph0002: 21300026
+      Marine's Eyepatch-2022_hololive_star_visor_marinesEyepatch0001: 21300000
+      Marine's Eyepatch-2022_hololive_star_visor_marinesEyepatch0002: 21300020
+      Marine's Eyepatch-2022_hololive_star_visor_marinesEyepatch0003: 21300008
+      No Thoughts (Korone)-2022_hololive_star_visor_noThoughts0001: 21300002
+      No Thoughts (Korone)-2022_hololive_star_visor_noThoughts0002: 21300024
+      Nudge-Nudge (Pekora)-2022_hololive_star_visor_nudgeNudge0001: 21300022
+      Nudge-Nudge (Pekora)-2022_hololive_star_visor_nudgeNudge0002: 21300028
+      Nudge-Nudge (Pekora)-2022_hololive_star_visor_nudgeNudge0003: 21300036
+      Smug Aura (Gura)-2022_hololive_star_visor_guraemoji0001.png0001: 21300032
+      Smug Aura (Gura)-2022_hololive_star_visor_smug0001: 21300040
+      Smug Aura (Gura)-2022_hololive_star_visor_smug0002: 21300006
+      Sweepy (Okayu)-2022_hololive_star_visor_sweepy0001: 21300012
+      Sweepy (Okayu)-2022_hololive_star_visor_sweepy0002: 21300018
+      Teehee! (Risu)-2022_hololive_star_visor_teehee0001: 21300010
+      Teehee! (Risu)-2022_hololive_star_visor_teehee0002: 21300042
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

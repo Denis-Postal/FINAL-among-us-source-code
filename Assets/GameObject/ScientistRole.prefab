@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1709254077376921
+GameObject:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Component:
+  - component: {fileID: 4730242686860875}
+  - component: {fileID: 114724804207875695}
+  m_Layer: 0
+  m_Name: ScientistRole
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4730242686860875
+Transform:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1709254077376921}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!114 &114724804207875695
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1709254077376921}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb7cf7110d0f6527d59573ca17ed662b, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  Role: 2
+  StringName: 1501
+  BlurbName: 1505
+  BlurbNameMed: 1525
+  BlurbNameLong: 1526
+  RoleIconSolid: {fileID: 21300066, guid: 72a0c86883211954fa3f4a8e09e67ecf, type: 3}
+  RoleIconWhite: {fileID: 21300054, guid: 72a0c86883211954fa3f4a8e09e67ecf, type: 3}
+  RoleIconColor: {fileID: 21300016, guid: 72a0c86883211954fa3f4a8e09e67ecf, type: 3}
+  RoleScreenshot: {fileID: 21300008, guid: 3513caaed9bdf9d418b6f5f5885ff109, type: 3}
+  NameColor: {r: 1, g: 1, b: 1, a: 1}
+  TasksCountTowardProgress: 1
+  CanUseKillButton: 0
+  CanBeKilled: 1
+  CanVent: 0
+  AffectedByLightAffectors: 1
+  MaxCount: 15
+  TeamType: 0
+  Ability: {fileID: 11400000, guid: 67fc59c0de0dca84d99321090e5d1ecf, type: 2}
+  SecondaryAbility: {fileID: 0}
+  DefaultGhostRole: 6
+  UseSound: {fileID: 0}
+  IntroSound: {fileID: 8300000, guid: 8bd06176cf0b77f4fab6eb134ef766d0, type: 3}
+  AllGameSettings:
+  - {fileID: 11400000, guid: e0cd01f8f53e51d4c81891e63b25995f, type: 2}
+  - {fileID: 11400000, guid: 69c2efd006b936748ad94c78f012546b, type: 2}
+  CustomKillAnimations: []
+  VitalsPrefab: {fileID: 114709867586078768, guid: 80efcfa1dfbc3174397da78446efa597, type: 2}

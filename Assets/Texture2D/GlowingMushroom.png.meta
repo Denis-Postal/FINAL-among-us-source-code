@@ -1,0 +1,2986 @@
+fileFormatVersion: 2
+guid: fd779fcd34fc485418893925caa30487
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: map5_healingShroom_idle0014
+  - first:
+      213: 21300002
+    second: map5_healingShroom_idle_glow0008
+  - first:
+      213: 21300004
+    second: map5_healingShroom_idle_glow0023
+  - first:
+      213: 21300006
+    second: map5_healingShroom_idle0005
+  - first:
+      213: 21300008
+    second: map5_healingShroom_idle0017
+  - first:
+      213: 21300010
+    second: map5_healingShroom_idle_glow0014
+  - first:
+      213: 21300012
+    second: map5_healingShroom_idle0008
+  - first:
+      213: 21300014
+    second: map5_healingShroom_idle0001
+  - first:
+      213: 21300016
+    second: map5_healingShroom_idle_glow0002
+  - first:
+      213: 21300018
+    second: map5_healingShroom_idle_glow0015
+  - first:
+      213: 21300020
+    second: map5_healingShroom_idle_glow0004
+  - first:
+      213: 21300022
+    second: map5_healingShroom_idle_glow0026
+  - first:
+      213: 21300024
+    second: map5_healingShroom_idle_glow0021
+  - first:
+      213: 21300026
+    second: map5_healingShroom_idle0004
+  - first:
+      213: 21300028
+    second: map5_healingShroom_idle_glow0010
+  - first:
+      213: 21300030
+    second: map5_healingShroom_idle_glow0012
+  - first:
+      213: 21300032
+    second: map5_healingShroom_idle0006
+  - first:
+      213: 21300034
+    second: map5_healingShroom_idle_glow0022
+  - first:
+      213: 21300036
+    second: map5_healingShroom_idle_glow0019
+  - first:
+      213: 21300038
+    second: map5_healingShroom_idle_glow0005
+  - first:
+      213: 21300040
+    second: map5_healingShroom_idle0009
+  - first:
+      213: 21300042
+    second: map5_healingShroom_idle_glow0025
+  - first:
+      213: 21300044
+    second: map5_healingShroom_idle0007
+  - first:
+      213: 21300046
+    second: map5_healingShroom_idle_glow0011
+  - first:
+      213: 21300048
+    second: map5_healingShroom_idle_glow0001
+  - first:
+      213: 21300050
+    second: map5_healingShroom_idle0030
+  - first:
+      213: 21300052
+    second: map5_healingShroom_idle_glow0029
+  - first:
+      213: 21300054
+    second: map5_healingShroom_idle0013
+  - first:
+      213: 21300056
+    second: map5_healingShroom_idle_glow0017
+  - first:
+      213: 21300058
+    second: map5_healingShroom_idle0029
+  - first:
+      213: 21300060
+    second: map5_healingShroom_idle0020
+  - first:
+      213: 21300062
+    second: map5_healingShroom_idle0023
+  - first:
+      213: 21300064
+    second: map5_healingShroom_idle0010
+  - first:
+      213: 21300066
+    second: map5_healingShroom_idle0026
+  - first:
+      213: 21300068
+    second: map5_healingShroom_idle0012
+  - first:
+      213: 21300070
+    second: map5_healingShroom_idle0019
+  - first:
+      213: 21300072
+    second: map5_healingShroom_idle0027
+  - first:
+      213: 21300074
+    second: map5_healingShroom_idle0022
+  - first:
+      213: 21300076
+    second: map5_healingShroom_idle_glow0003
+  - first:
+      213: 21300078
+    second: map5_healingShroom_idle_glow0007
+  - first:
+      213: 21300080
+    second: map5_healingShroom_idle_glow0028
+  - first:
+      213: 21300082
+    second: map5_healingShroom_idle0024
+  - first:
+      213: 21300084
+    second: map5_healingShroom_idle_glow0020
+  - first:
+      213: 21300086
+    second: map5_healingShroom_idle_glow0027
+  - first:
+      213: 21300088
+    second: map5_healingShroom_idle0016
+  - first:
+      213: 21300090
+    second: map5_healingShroom_idle0011
+  - first:
+      213: 21300092
+    second: map5_healingShroom_idle_glow0024
+  - first:
+      213: 21300094
+    second: map5_healingShroom_idle0021
+  - first:
+      213: 21300096
+    second: map5_healingShroom_idle0018
+  - first:
+      213: 21300098
+    second: map5_healingShroom_idle0002
+  - first:
+      213: 21300100
+    second: map5_healingShroom_idle_glow0006
+  - first:
+      213: 21300102
+    second: map5_healingShroom_idle0028
+  - first:
+      213: 21300104
+    second: map5_healingShroom_idle0015
+  - first:
+      213: 21300106
+    second: map5_healingShroom_idle_glow0009
+  - first:
+      213: 21300108
+    second: map5_healingShroom_idle0025
+  - first:
+      213: 21300110
+    second: map5_healingShroom_idle0003
+  - first:
+      213: 21300112
+    second: map5_healingShroom_idle_glow0018
+  - first:
+      213: 21300114
+    second: map5_healingShroom_idle_glow0016
+  - first:
+      213: 21300116
+    second: map5_healingShroom_idle_glow0013
+  - first:
+      213: 21300118
+    second: map5_healingShroom_idle_glow0030
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: map5_healingShroom_idle0014
+      rect:
+        serializedVersion: 2
+        x: 1509.0513
+        y: 90.02675
+        width: 66.948685
+        height: 76.89713
+      alignment: 9
+      pivot: {x: 0.50708586, y: 0.48731664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -23.525612, y: 35.52468}
+        - {x: 10.474387, y: 41.524685}
+        - {x: 33.47439, y: 20.524683}
+        - {x: 33.47439, y: -4.475315}
+        - {x: 13.474388, y: -38.475315}
+        - {x: -16.525612, y: -37.47531}
+        - {x: -37.52561, y: 3.524685}
+      physicsShape:
+      - - {x: 31.474388, y: 25.524683}
+        - {x: 12.474388, y: 37.524685}
+        - {x: -11.525612, y: 37.524685}
+        - {x: -24.525612, y: 34.524685}
+        - {x: -33.52561, y: 14.524685}
+        - {x: -33.52561, y: -5.475315}
+        - {x: -29.52561, y: -13.475315}
+        - {x: -13.525612, y: -36.475315}
+        - {x: -7.525612, y: -37.47531}
+        - {x: 10.474387, y: -37.47531}
+        - {x: 15.474387, y: -33.475315}
+        - {x: 33.47439, y: -6.475315}
+        - {x: 33.47439, y: 13.524685}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70f5844a8b9481fb768b65ca989d7ea
+      internalID: 21300000
+      vertices:
+      - {x: 66.47434, y: 59.948563}
+      - {x: 66.47434, y: 34.948566}
+      - {x: 46.474342, y: 0.94856644}
+      - {x: 16.474342, y: 1.9485703}
+      - {x: -4.5256577, y: 42.948566}
+      - {x: 9.474342, y: 74.94856}
+      - {x: 43.474342, y: 80.94856}
+      indices: 010000000500000006000000030000000100000002000000030000000400000001000000010000000400000005000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle_glow0008
+      rect:
+        serializedVersion: 2
+        x: 640.0761
+        y: 85.07612
+        width: 119.89713
+        height: 81.84776
+      alignment: 9
+      pivot: {x: 0.4997942, y: 0.4938911}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -61.024677, y: 0}
+        - {x: -54.024673, y: 35}
+        - {x: -0.024677277, y: 42}
+        - {x: 49.975323, y: 35.999996}
+        - {x: 61.975323, y: 0}
+        - {x: 50.975323, y: -35}
+        - {x: -2.0246773, y: -43}
+        - {x: -50.024677, y: -36.999996}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b921b4107c44e8dbd14f58eefe61a25
+      internalID: 21300002
+      vertices:
+      - {x: 109.94856, y: 77.423874}
+      - {x: 121.94856, y: 41.42388}
+      - {x: 110.94856, y: 6.4238815}
+      - {x: 57.948566, y: -1.5761185}
+      - {x: 9.948566, y: 4.4238853}
+      - {x: -1.0514336, y: 41.42388}
+      - {x: 5.9485703, y: 76.42388}
+      - {x: 59.948566, y: 83.42388}
+      indices: 050000000600000007000000030000000500000007000000030000000400000005000000010000000200000003000000010000000300000007000000000000000100000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle_glow0023
+      rect:
+        serializedVersion: 2
+        x: 642.0761
+        y: 171.07613
+        width: 120.86287
+        height: 82.84776
+      alignment: 9
+      pivot: {x: 0.49580064, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -43.50754, y: 37.499992}
+        - {x: -0.5075455, y: 42.499992}
+        - {x: 46.492455, y: 34.499992}
+        - {x: 61.492455, y: 6.4999924}
+        - {x: 56.492455, y: -35.500008}
+        - {x: -3.5075455, y: -42.500008}
+        - {x: -53.50754, y: -34.500008}
+        - {x: -63.507545, y: 6.4999924}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86c416737fb48dfb560079740e64eae
+      internalID: 21300004
+      vertices:
+      - {x: 107.431435, y: 75.92388}
+      - {x: 122.431435, y: 47.92388}
+      - {x: 117.431435, y: 5.9238815}
+      - {x: 57.431435, y: -1.0761185}
+      - {x: 7.4314384, y: 6.9238815}
+      - {x: -2.5685654, y: 47.92388}
+      - {x: 17.431438, y: 78.92388}
+      - {x: 60.431435, y: 83.92388}
+      indices: 030000000600000007000000030000000500000006000000030000000400000005000000010000000200000003000000010000000300000007000000000000000100000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle0005
+      rect:
+        serializedVersion: 2
+        x: 417.05133
+        y: 1.026751
+        width: 66.948685
+        height: 76.89713
+      alignment: 9
+      pivot: {x: 0.5070849, y: 0.48731658}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -23.525677, y: 35.524677}
+        - {x: 10.474322, y: 41.52468}
+        - {x: 33.474323, y: 20.52468}
+        - {x: 33.474323, y: -4.475319}
+        - {x: 13.474323, y: -38.47532}
+        - {x: -16.525677, y: -37.475315}
+        - {x: -37.525677, y: 3.524681}
+      physicsShape:
+      - - {x: 31.474323, y: 25.52468}
+        - {x: 12.474323, y: 37.52468}
+        - {x: -11.525677, y: 37.52468}
+        - {x: -24.525677, y: 34.52468}
+        - {x: -33.525677, y: 14.524681}
+        - {x: -33.525677, y: -5.475319}
+        - {x: -29.525675, y: -13.475319}
+        - {x: -13.525677, y: -36.47532}
+        - {x: -7.5256767, y: -37.475315}
+        - {x: 10.474322, y: -37.475315}
+        - {x: 15.474322, y: -33.47532}
+        - {x: 33.474323, y: -6.475319}
+        - {x: 33.474323, y: 13.524681}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7daefe314f463f82838a1d102c8f2a
+      internalID: 21300006
+      vertices:
+      - {x: 66.47434, y: 59.948563}
+      - {x: 66.47434, y: 34.948566}
+      - {x: 46.474342, y: 0.94856644}
+      - {x: 16.474342, y: 1.9485703}
+      - {x: -4.5256577, y: 42.948566}
+      - {x: 9.474342, y: 74.94856}
+      - {x: 43.474342, y: 80.94856}
+      indices: 010000000500000006000000030000000100000002000000030000000400000001000000010000000400000005000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle0017
+      rect:
+        serializedVersion: 2
+        x: 1514.0513
+        y: 175.02675
+        width: 66.948685
+        height: 76.89713
+      alignment: 9
+      pivot: {x: 0.50708586, y: 0.48731664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -23.525612, y: 35.52468}
+        - {x: 10.474387, y: 41.524685}
+        - {x: 33.47439, y: 20.524683}
+        - {x: 33.47439, y: -4.475315}
+        - {x: 13.474388, y: -38.475315}
+        - {x: -16.525612, y: -37.47531}
+        - {x: -37.52561, y: 3.524685}
+      physicsShape:
+      - - {x: 31.474388, y: 25.524683}
+        - {x: 12.474388, y: 37.524685}
+        - {x: -11.525612, y: 37.524685}
+        - {x: -24.525612, y: 34.524685}
+        - {x: -33.52561, y: 14.524685}
+        - {x: -33.52561, y: -5.475315}
+        - {x: -29.52561, y: -13.475315}
+        - {x: -13.525612, y: -36.475315}
+        - {x: -7.525612, y: -37.47531}
+        - {x: 10.474387, y: -37.47531}
+        - {x: 15.474387, y: -33.475315}
+        - {x: 33.47439, y: -6.475315}
+        - {x: 33.47439, y: 13.524685}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93917bfd5934050acf4e65627ea7fad
+      internalID: 21300008
+      vertices:
+      - {x: 66.47434, y: 59.948563}
+      - {x: 66.47434, y: 34.948566}
+      - {x: 46.474342, y: 0.94856644}
+      - {x: 16.474342, y: 1.9485703}
+      - {x: -4.5256577, y: 42.948566}
+      - {x: 9.474342, y: 74.94856}
+      - {x: 43.474342, y: 80.94856}
+      indices: 010000000500000006000000030000000100000002000000030000000400000001000000010000000400000005000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle_glow0014
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 83
+        width: 125
+        height: 85
+      alignment: 9
+      pivot: {x: 0.496, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -9.5, y: 42.5}
+        - {x: 17.5, y: 42.5}
+        - {x: 62.5, y: 27.5}
+        - {x: 62.5, y: -29.499998}
+        - {x: 18.5, y: -42.5}
+        - {x: -62.5, y: -42.5}
+        - {x: -62.5, y: 22.5}
+        - {x: -28.5, y: 40.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e122fe70d1c44d082a8458597a6ee57
+      internalID: 21300010
+      vertices:
+      - {x: 125.5, y: 70}
+      - {x: 125.5, y: 13.000002}
+      - {x: 81.5, y: 0}
+      - {x: 0.5, y: 0}
+      - {x: 0.5, y: 65}
+      - {x: 34.5, y: 83}
+      - {x: 53.5, y: 85}
+      - {x: 80.5, y: 85}
+      indices: 020000000600000007000000020000000500000006000000030000000400000005000000020000000300000005000000000000000100000002000000000000000200000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle0008
+      rect:
+        serializedVersion: 2
+        x: 636.05133
+        y: 1.026751
+        width: 66.948685
+        height: 76.89713
+      alignment: 9
+      pivot: {x: 0.5070849, y: 0.48731658}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -23.525677, y: 35.524677}
+        - {x: 10.474322, y: 41.52468}
+        - {x: 33.474323, y: 20.52468}
+        - {x: 33.474323, y: -4.475319}
+        - {x: 13.474323, y: -38.47532}
+        - {x: -16.525677, y: -37.475315}
+        - {x: -37.525677, y: 3.524681}
+      physicsShape:
+      - - {x: 31.474323, y: 25.52468}
+        - {x: 12.474323, y: 37.52468}
+        - {x: -11.525677, y: 37.52468}
+        - {x: -24.525677, y: 34.52468}
+        - {x: -33.525677, y: 14.524681}
+        - {x: -33.525677, y: -5.475319}
+        - {x: -29.525675, y: -13.475319}
+        - {x: -13.525677, y: -36.47532}
+        - {x: -7.5256767, y: -37.475315}
+        - {x: 10.474322, y: -37.475315}
+        - {x: 15.474322, y: -33.47532}
+        - {x: 33.474323, y: -6.475319}
+        - {x: 33.474323, y: 13.524681}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea16e86587447c0b830bf430e2852a5
+      internalID: 21300012
+      vertices:
+      - {x: 66.47434, y: 59.948563}
+      - {x: 66.47434, y: 34.948566}
+      - {x: 46.474342, y: 0.94856644}
+      - {x: 16.474342, y: 1.9485703}
+      - {x: -4.5256577, y: 42.948566}
+      - {x: 9.474342, y: 74.94856}
+      - {x: 43.474342, y: 80.94856}
+      indices: 010000000500000006000000030000000100000002000000030000000400000001000000010000000400000005000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle0001
+      rect:
+        serializedVersion: 2
+        x: 125.051315
+        y: 1.026751
+        width: 66.948685
+        height: 76.89713
+      alignment: 9
+      pivot: {x: 0.50708514, y: 0.48731658}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -23.525658, y: 35.524677}
+        - {x: 10.474341, y: 41.52468}
+        - {x: 33.474342, y: 20.52468}
+        - {x: 33.474342, y: -4.475319}
+        - {x: 13.474342, y: -38.47532}
+        - {x: -16.525658, y: -37.475315}
+        - {x: -37.525658, y: 3.524681}
+      physicsShape:
+      - - {x: 31.474342, y: 25.52468}
+        - {x: 12.474342, y: 37.52468}
+        - {x: -11.525658, y: 37.52468}
+        - {x: -24.525658, y: 34.52468}
+        - {x: -33.525658, y: 14.524681}
+        - {x: -33.525658, y: -5.475319}
+        - {x: -29.525656, y: -13.475319}
+        - {x: -13.525658, y: -36.47532}
+        - {x: -7.5256577, y: -37.475315}
+        - {x: 10.474341, y: -37.475315}
+        - {x: 15.474341, y: -33.47532}
+        - {x: 33.474342, y: -6.475319}
+        - {x: 33.474342, y: 13.524681}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525939f74e4f480d9c7e6126b54accc3
+      internalID: 21300014
+      vertices:
+      - {x: 66.47434, y: 59.948563}
+      - {x: 66.47434, y: 34.948566}
+      - {x: 46.474342, y: 0.94856644}
+      - {x: 16.474342, y: 1.9485703}
+      - {x: -4.5256577, y: 42.948566}
+      - {x: 9.474342, y: 74.94856}
+      - {x: 43.474342, y: 80.94856}
+      indices: 010000000500000006000000030000000100000002000000030000000400000001000000010000000400000005000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle_glow0002
+      rect:
+        serializedVersion: 2
+        x: 2.0761204
+        y: 1
+        width: 112.86568
+        height: 75.92388
+      alignment: 9
+      pivot: {x: 0.4954906, y: 0.49391574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -55.508957, y: -16.96194}
+        - {x: -57.508957, y: 37.03806}
+        - {x: 7.491043, y: 42.03806}
+        - {x: 39.49104, y: 29.038057}
+        - {x: 60.491043, y: 11.038058}
+        - {x: 51.491043, y: -20.96194}
+        - {x: 21.491043, y: -37.96194}
+        - {x: -26.508957, y: -37.96194}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4857a6100e4f4b78a5a591622d6009fb
+      internalID: 21300016
+      vertices:
+      - {x: 96.43283, y: 67.46194}
+      - {x: 117.43284, y: 49.46194}
+      - {x: 108.43284, y: 17.46194}
+      - {x: 78.43284, y: 0.46194077}
+      - {x: 30.432838, y: 0.46194077}
+      - {x: 1.4328384, y: 21.46194}
+      - {x: -0.56716156, y: 75.461945}
+      - {x: 64.43284, y: 80.461945}
+      indices: 050000000600000007000000040000000500000007000000030000000400000007000000000000000200000003000000000000000100000002000000000000000300000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle_glow0015
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 83
+        width: 126
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -63, y: -9.5}
+        - {x: -63, y: 42.5}
+        - {x: 42.999996, y: 42.5}
+        - {x: 63, y: 13.499999}
+        - {x: 63, y: -21.499998}
+        - {x: 26.999998, y: -42.5}
+        - {x: -19, y: -42.5}
+        - {x: -52.999996, y: -33.499996}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd8c1af65b44ac8ae6a5570289d580b
+      internalID: 21300018
+      vertices:
+      - {x: 126, y: 56}
+      - {x: 126, y: 21.000002}
+      - {x: 90, y: 0}
+      - {x: 44, y: 0}
+      - {x: 10.000004, y: 9.000004}
+      - {x: 0, y: 33}
+      - {x: 0, y: 85}
+      - {x: 106, y: 85}
+      indices: 050000000600000007000000030000000500000007000000030000000400000005000000020000000300000007000000000000000100000002000000000000000200000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle_glow0004
+      rect:
+        serializedVersion: 2
+        x: 1175.0762
+        y: 3.0761204
+        width: 113.92388
+        height: 78.84776
+      alignment: 9
+      pivot: {x: 0.4996655, y: 0.48731732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -29.03811, y: 37.5}
+        - {x: 11.961887, y: 40.5}
+        - {x: 56.961884, y: 24.5}
+        - {x: 56.961884, y: -23.5}
+        - {x: 19.961887, y: -38.5}
+        - {x: -38.038113, y: -40.5}
+        - {x: -60.038113, y: -5.5}
+        - {x: -54.038113, y: 17.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cca5f03155489681bd4ccb138390d2
+      internalID: 21300020
+      vertices:
+      - {x: 113.96193, y: 64.92388}
+      - {x: 113.96193, y: 16.923882}
+      - {x: 76.96194, y: 1.9238815}
+      - {x: 18.961937, y: -0.07611847}
+      - {x: -3.038063, y: 34.92388}
+      - {x: 2.961937, y: 57.92388}
+      - {x: 27.961939, y: 77.92388}
+      - {x: 68.96194, y: 80.92388}
+      indices: 020000000600000007000000030000000500000006000000030000000400000005000000020000000300000006000000000000000100000002000000000000000200000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle_glow0026
+      rect:
+        serializedVersion: 2
+        x: 1387.0762
+        y: 89.07612
+        width: 115.92388
+        height: 79.84776
+      alignment: 9
+      pivot: {x: 0.49967125, y: 0.49373809}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -45.03811, y: 28.999998}
+        - {x: -16.038113, y: 41}
+        - {x: 41.961887, y: 38}
+        - {x: 57.961884, y: 10}
+        - {x: 57.961884, y: -31}
+        - {x: -0.03811264, y: -42}
+        - {x: -51.038113, y: -33}
+        - {x: -61.03811, y: 6}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555871704d73431e80984235a3ec96ef
+      internalID: 21300022
+      vertices:
+      - {x: 99.96194, y: 78.42388}
+      - {x: 115.96193, y: 50.42388}
+      - {x: 115.96193, y: 9.423882}
+      - {x: 57.961937, y: -1.5761185}
+      - {x: 6.961937, y: 7.4238815}
+      - {x: -3.0380592, y: 46.42388}
+      - {x: 12.961941, y: 69.42388}
+      - {x: 41.961937, y: 81.42388}
+      indices: 030000000600000007000000040000000500000006000000030000000400000006000000010000000200000003000000000000000100000003000000000000000300000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle_glow0021
+      rect:
+        serializedVersion: 2
+        x: 259.0761
+        y: 84.07612
+        width: 122.84776
+        height: 83.84776
+      alignment: 9
+      pivot: {x: 0.49593, y: 0.49403682}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -49.49999, y: 41}
+        - {x: 40.500008, y: 42}
+        - {x: 59.500004, y: 14}
+        - {x: 62.500008, y: 0}
+        - {x: 52.500004, y: -39}
+        - {x: -8.499992, y: -43}
+        - {x: -54.49999, y: -32}
+        - {x: -63.499992, y: 0}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59d9635d6de480b9dc85fed9e29f649
+      internalID: 21300024
+      vertices:
+      - {x: 121.423874, y: 56.42388}
+      - {x: 124.42388, y: 42.42388}
+      - {x: 114.423874, y: 3.4238815}
+      - {x: 53.42388, y: -0.57611847}
+      - {x: 7.4238853, y: 10.423882}
+      - {x: -1.5761185, y: 42.42388}
+      - {x: 12.423885, y: 83.42388}
+      - {x: 102.42388, y: 84.42388}
+      indices: 030000000600000007000000030000000500000006000000030000000400000005000000010000000200000003000000000000000100000003000000000000000300000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle0004
+      rect:
+        serializedVersion: 2
+        x: 344.05133
+        y: 1.026751
+        width: 66.948685
+        height: 76.89713
+      alignment: 9
+      pivot: {x: 0.5070849, y: 0.48731658}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -23.525677, y: 35.524677}
+        - {x: 10.474322, y: 41.52468}
+        - {x: 33.474323, y: 20.52468}
+        - {x: 33.474323, y: -4.475319}
+        - {x: 13.474323, y: -38.47532}
+        - {x: -16.525677, y: -37.475315}
+        - {x: -37.525677, y: 3.524681}
+      physicsShape:
+      - - {x: 31.474323, y: 25.52468}
+        - {x: 12.474323, y: 37.52468}
+        - {x: -11.525677, y: 37.52468}
+        - {x: -24.525677, y: 34.52468}
+        - {x: -33.525677, y: 14.524681}
+        - {x: -33.525677, y: -5.475319}
+        - {x: -29.525675, y: -13.475319}
+        - {x: -13.525677, y: -36.47532}
+        - {x: -7.5256767, y: -37.475315}
+        - {x: 10.474322, y: -37.475315}
+        - {x: 15.474322, y: -33.47532}
+        - {x: 33.474323, y: -6.475319}
+        - {x: 33.474323, y: 13.524681}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e330778aa8b0455a9b7cfa30d132e953
+      internalID: 21300026
+      vertices:
+      - {x: 66.47434, y: 59.948563}
+      - {x: 66.47434, y: 34.948566}
+      - {x: 46.474342, y: 0.94856644}
+      - {x: 16.474342, y: 1.9485703}
+      - {x: -4.5256577, y: 42.948566}
+      - {x: 9.474342, y: 74.94856}
+      - {x: 43.474342, y: 80.94856}
+      indices: 010000000500000006000000030000000100000002000000030000000400000001000000010000000400000005000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle_glow0010
+      rect:
+        serializedVersion: 2
+        x: 1016.02673
+        y: 86.07612
+        width: 121.89713
+        height: 82.84776
+      alignment: 9
+      pivot: {x: 0.50020266, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 63.024704, y: -0.5}
+        - {x: 50.024704, y: -40.5}
+        - {x: -44.975296, y: -42.5}
+        - {x: -59.975292, y: -8.5}
+        - {x: -60.975296, y: 30.5}
+        - {x: -13.975296, y: 41.5}
+        - {x: 50.024704, y: 41.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff2bacab7b24e0e82884b87e90fb90a
+      internalID: 21300028
+      vertices:
+      - {x: 123.94856, y: 40.92388}
+      - {x: 110.94856, y: 0.92388153}
+      - {x: 15.948566, y: -1.0761185}
+      - {x: 0.94857025, y: 32.92388}
+      - {x: -0.051433563, y: 71.92388}
+      - {x: 46.948566, y: 82.92388}
+      - {x: 110.94856, y: 82.92388}
+      indices: 000000000100000005000000030000000400000005000000020000000300000005000000010000000200000005000000000000000500000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle_glow0012
+      rect:
+        serializedVersion: 2
+        x: 890.02673
+        y: 171.07613
+        width: 124.91224
+        height: 83.92388
+      alignment: 9
+      pivot: {x: 0.49613446, y: 0.5055042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -31.482853, y: 41.961933}
+        - {x: 32.517147, y: 41.961933}
+        - {x: 60.517147, y: 16.961933}
+        - {x: 62.517147, y: 0.96193314}
+        - {x: 57.517147, y: -30.038067}
+        - {x: 18.517147, y: -41.038067}
+        - {x: -25.482853, y: -42.038067}
+        - {x: -58.482853, y: -27.038067}
+        - {x: -63.482853, y: 3.9619331}
+        - {x: -58.482853, y: 19.961933}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0ed9844407465d9ac2a8147e4ea2aa
+      internalID: 21300030
+      vertices:
+      - {x: 123.456116, y: 58.46194}
+      - {x: 125.456116, y: 42.46194}
+      - {x: 120.456116, y: 11.461941}
+      - {x: 81.456116, y: 0.46194077}
+      - {x: 37.45612, y: -0.53805923}
+      - {x: 4.4561195, y: 14.461941}
+      - {x: -0.54388046, y: 45.46194}
+      - {x: 4.4561195, y: 61.46194}
+      - {x: 31.45612, y: 83.461945}
+      - {x: 95.456116, y: 83.461945}
+      indices: 030000000800000009000000060000000400000005000000070000000400000006000000070000000800000004000000030000000400000008000000010000000200000003000000010000000300000009000000000000000100000009000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle0006
+      rect:
+        serializedVersion: 2
+        x: 490.05133
+        y: 1.026751
+        width: 66.948685
+        height: 76.89713
+      alignment: 9
+      pivot: {x: 0.5070849, y: 0.48731658}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -23.525677, y: 35.524677}
+        - {x: 10.474322, y: 41.52468}
+        - {x: 33.474323, y: 20.52468}
+        - {x: 33.474323, y: -4.475319}
+        - {x: 13.474323, y: -38.47532}
+        - {x: -16.525677, y: -37.475315}
+        - {x: -37.525677, y: 3.524681}
+      physicsShape:
+      - - {x: 31.474323, y: 25.52468}
+        - {x: 12.474323, y: 37.52468}
+        - {x: -11.525677, y: 37.52468}
+        - {x: -24.525677, y: 34.52468}
+        - {x: -33.525677, y: 14.524681}
+        - {x: -33.525677, y: -5.475319}
+        - {x: -29.525675, y: -13.475319}
+        - {x: -13.525677, y: -36.47532}
+        - {x: -7.5256767, y: -37.475315}
+        - {x: 10.474322, y: -37.475315}
+        - {x: 15.474322, y: -33.47532}
+        - {x: 33.474323, y: -6.475319}
+        - {x: 33.474323, y: 13.524681}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3041d354c0e5474b968789534154970e
+      internalID: 21300032
+      vertices:
+      - {x: 66.47434, y: 59.948563}
+      - {x: 66.47434, y: 34.948566}
+      - {x: 46.474342, y: 0.94856644}
+      - {x: 16.474342, y: 1.9485703}
+      - {x: -4.5256577, y: 42.948566}
+      - {x: 9.474342, y: 74.94856}
+      - {x: 43.474342, y: 80.94856}
+      indices: 010000000500000006000000030000000100000002000000030000000400000001000000010000000400000005000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle_glow0022
+      rect:
+        serializedVersion: 2
+        x: 766.0761
+        y: 84.07612
+        width: 120.92388
+        height: 82.84776
+      alignment: 9
+      pivot: {x: 0.5038202, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -62.538048, y: -5.5}
+        - {x: -56.538048, y: 35.5}
+        - {x: 2.4619522, y: 42.5}
+        - {x: 60.46195, y: 34.5}
+        - {x: 60.46195, y: -34.5}
+        - {x: -1.5380478, y: -42.5}
+        - {x: -42.538044, y: -36.499996}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e57001852074064a1c9ac903211bf93
+      internalID: 21300034
+      vertices:
+      - {x: 120.46194, y: 75.92388}
+      - {x: 120.46194, y: 6.9238815}
+      - {x: 58.46194, y: -1.0761185}
+      - {x: 17.461945, y: 4.9238853}
+      - {x: -2.5380592, y: 35.92388}
+      - {x: 3.4619408, y: 76.92388}
+      - {x: 62.46194, y: 83.92388}
+      indices: 040000000500000006000000030000000400000006000000020000000300000006000000010000000200000006000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle_glow0019
+      rect:
+        serializedVersion: 2
+        x: 512.0761
+        y: 170
+        width: 124.92388
+        height: 84.92388
+      alignment: 9
+      pivot: {x: 0.5036978, y: 0.50044817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -53.53805, y: 27.53806}
+        - {x: -24.538055, y: 42.53806}
+        - {x: -23.538055, y: 42.53806}
+        - {x: 42.461945, y: 41.53806}
+        - {x: 62.461945, y: 11.538058}
+        - {x: 62.461945, y: -25.46194}
+        - {x: 25.461945, y: -40.46194}
+        - {x: 9.461945, y: -42.46194}
+        - {x: -23.538055, y: -42.46194}
+        - {x: -61.538055, y: -29.461939}
+        - {x: -62.538055, y: 7.5380588}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd83aa44322a4aaeb964c9fbfcc41ce2
+      internalID: 21300036
+      vertices:
+      - {x: 104.461945, y: 83.961945}
+      - {x: 124.461945, y: 53.96194}
+      - {x: 124.461945, y: 16.96194}
+      - {x: 87.461945, y: 1.9619408}
+      - {x: 71.461945, y: -0.038059235}
+      - {x: 38.46194, y: -0.038059235}
+      - {x: 0.46194077, y: 12.961943}
+      - {x: -0.53805923, y: 49.96194}
+      - {x: 8.461945, y: 69.961945}
+      - {x: 37.46194, y: 84.961945}
+      - {x: 38.46194, y: 84.961945}
+      indices: 08000000090000000a00000007000000080000000a00000005000000070000000a00000005000000060000000700000004000000050000000a00000000000000030000000400000001000000020000000300000000000000010000000300000000000000040000000a000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle_glow0005
+      rect:
+        serializedVersion: 2
+        x: 1293.0762
+        y: 4.0761204
+        width: 114.92388
+        height: 78.92388
+      alignment: 9
+      pivot: {x: 0.5040191, y: 0.49951777}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -17.538116, y: 39.46194}
+        - {x: 32.461884, y: 39.46194}
+        - {x: 57.46188, y: 14.461941}
+        - {x: 57.46188, y: -30.53806}
+        - {x: 0.46188354, y: -41.53806}
+        - {x: -59.538116, y: -31.53806}
+        - {x: -56.538116, y: 24.461939}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107bc249ba8b401facbc9b8bae2d2be2
+      internalID: 21300038
+      vertices:
+      - {x: 114.46193, y: 53.96194}
+      - {x: 114.46193, y: 8.961941}
+      - {x: 57.461937, y: -2.0380592}
+      - {x: -2.538063, y: 7.961941}
+      - {x: 0.46193695, y: 63.961937}
+      - {x: 39.461937, y: 78.961945}
+      - {x: 89.46194, y: 78.961945}
+      indices: 020000000500000006000000020000000400000005000000020000000300000004000000000000000100000002000000000000000200000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle0009
+      rect:
+        serializedVersion: 2
+        x: 709.05133
+        y: 1.026751
+        width: 66.948685
+        height: 76.89713
+      alignment: 9
+      pivot: {x: 0.5070849, y: 0.48731658}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -23.525677, y: 35.524677}
+        - {x: 10.474322, y: 41.52468}
+        - {x: 33.474323, y: 20.52468}
+        - {x: 33.474323, y: -4.475319}
+        - {x: 13.474323, y: -38.47532}
+        - {x: -16.525677, y: -37.475315}
+        - {x: -37.525677, y: 3.524681}
+      physicsShape:
+      - - {x: 31.474323, y: 25.52468}
+        - {x: 12.474323, y: 37.52468}
+        - {x: -11.525677, y: 37.52468}
+        - {x: -24.525677, y: 34.52468}
+        - {x: -33.525677, y: 14.524681}
+        - {x: -33.525677, y: -5.475319}
+        - {x: -29.525675, y: -13.475319}
+        - {x: -13.525677, y: -36.47532}
+        - {x: -7.5256767, y: -37.475315}
+        - {x: 10.474322, y: -37.475315}
+        - {x: 15.474322, y: -33.47532}
+        - {x: 33.474323, y: -6.475319}
+        - {x: 33.474323, y: 13.524681}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3614096a5a488c953fa2b698a5c45f
+      internalID: 21300040
+      vertices:
+      - {x: 66.47434, y: 59.948563}
+      - {x: 66.47434, y: 34.948566}
+      - {x: 46.474342, y: 0.94856644}
+      - {x: 16.474342, y: 1.9485703}
+      - {x: -4.5256577, y: 42.948566}
+      - {x: 9.474342, y: 74.94856}
+      - {x: 43.474342, y: 80.94856}
+      indices: 010000000500000006000000030000000100000002000000030000000400000001000000010000000400000005000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle_glow0025
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 2.0761204
+        width: 116.92388
+        height: 79.84776
+      alignment: 9
+      pivot: {x: 0.49604923, y: 0.49373809}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -58.46194, y: -10}
+        - {x: -58.46194, y: 25}
+        - {x: -18.46194, y: 41}
+        - {x: 47.53806, y: 39}
+        - {x: 62.53806, y: -6}
+        - {x: 37.53806, y: -39}
+        - {x: -40.461937, y: -41}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5146d94fef4943518c2f43938cb32f05
+      internalID: 21300042
+      vertices:
+      - {x: 106.461945, y: 79.42388}
+      - {x: 121.461945, y: 34.42388}
+      - {x: 96.461945, y: 1.4238815}
+      - {x: 18.461945, y: -0.57611847}
+      - {x: 0.46194077, y: 30.423882}
+      - {x: 0.46194077, y: 65.42388}
+      - {x: 40.46194, y: 81.42388}
+      indices: 040000000500000006000000030000000400000006000000020000000300000006000000000000000100000002000000000000000200000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle0007
+      rect:
+        serializedVersion: 2
+        x: 563.05133
+        y: 1.026751
+        width: 66.948685
+        height: 76.89713
+      alignment: 9
+      pivot: {x: 0.5070849, y: 0.48731658}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -23.525677, y: 35.524677}
+        - {x: 10.474322, y: 41.52468}
+        - {x: 33.474323, y: 20.52468}
+        - {x: 33.474323, y: -4.475319}
+        - {x: 13.474323, y: -38.47532}
+        - {x: -16.525677, y: -37.475315}
+        - {x: -37.525677, y: 3.524681}
+      physicsShape:
+      - - {x: 31.474323, y: 25.52468}
+        - {x: 12.474323, y: 37.52468}
+        - {x: -11.525677, y: 37.52468}
+        - {x: -24.525677, y: 34.52468}
+        - {x: -33.525677, y: 14.524681}
+        - {x: -33.525677, y: -5.475319}
+        - {x: -29.525675, y: -13.475319}
+        - {x: -13.525677, y: -36.47532}
+        - {x: -7.5256767, y: -37.475315}
+        - {x: 10.474322, y: -37.475315}
+        - {x: 15.474322, y: -33.47532}
+        - {x: 33.474323, y: -6.475319}
+        - {x: 33.474323, y: 13.524681}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdffc2fe33424883805a2933a6a2dd4f
+      internalID: 21300044
+      vertices:
+      - {x: 66.47434, y: 59.948563}
+      - {x: 66.47434, y: 34.948566}
+      - {x: 46.474342, y: 0.94856644}
+      - {x: 16.474342, y: 1.9485703}
+      - {x: -4.5256577, y: 42.948566}
+      - {x: 9.474342, y: 74.94856}
+      - {x: 43.474342, y: 80.94856}
+      indices: 010000000500000006000000030000000100000002000000030000000400000001000000010000000400000005000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle_glow0011
+      rect:
+        serializedVersion: 2
+        x: 2.0761204
+        y: 170.07613
+        width: 123.84776
+        height: 84.84776
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -63, y: 2.4999921}
+        - {x: -52.999996, y: 35.499992}
+        - {x: -7, y: 42.499992}
+        - {x: 29.999998, y: 41.499992}
+        - {x: 57, y: 21.49999}
+        - {x: 63, y: 2.4999921}
+        - {x: 58.999996, y: -19.500008}
+        - {x: 25, y: -42.500008}
+        - {x: -3, y: -42.500008}
+        - {x: -31, y: -40.500008}
+        - {x: -58, y: -21.500006}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925f5ae8190c484f856fb2f3a36fb4d1
+      internalID: 21300046
+      vertices:
+      - {x: 91.92388, y: 83.92388}
+      - {x: 118.92388, y: 63.92388}
+      - {x: 124.92388, y: 44.92388}
+      - {x: 120.923874, y: 22.923882}
+      - {x: 86.92388, y: -0.07611847}
+      - {x: 58.92388, y: -0.07611847}
+      - {x: 30.923882, y: 1.9238815}
+      - {x: 3.9238815, y: 20.923883}
+      - {x: -1.0761185, y: 44.92388}
+      - {x: 8.923885, y: 77.92388}
+      - {x: 54.92388, y: 84.92388}
+      indices: 08000000090000000a00000006000000080000000a00000006000000070000000800000005000000060000000a00000000000000040000000500000002000000030000000400000004000000000000000100000004000000010000000200000000000000050000000a000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle_glow0001
+      rect:
+        serializedVersion: 2
+        x: 1268.0267
+        y: 175.07613
+        width: 110.89713
+        height: 75.84776
+      alignment: 9
+      pivot: {x: 0.49571404, y: 0.49340776}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -47.4753, y: 27.999992}
+        - {x: -4.4753, y: 41.999992}
+        - {x: 41.5247, y: 30.999992}
+        - {x: 58.524696, y: 4.9999924}
+        - {x: 46.5247, y: -32.000008}
+        - {x: -13.4753, y: -42.000008}
+        - {x: -47.4753, y: -24.000008}
+        - {x: -59.475296, y: 0.9999924}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026575c3e6aa4f48bc6d3ed9de4f7a30
+      internalID: 21300048
+      vertices:
+      - {x: 97.44856, y: 69.42388}
+      - {x: 114.44856, y: 43.42388}
+      - {x: 102.44856, y: 6.4238815}
+      - {x: 42.448566, y: -3.5761185}
+      - {x: 8.448566, y: 14.423882}
+      - {x: -3.5514297, y: 39.42388}
+      - {x: 8.448566, y: 66.42388}
+      - {x: 51.448566, y: 80.42388}
+      indices: 040000000600000007000000040000000500000006000000030000000400000007000000000000000200000003000000000000000100000002000000000000000300000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle0030
+      rect:
+        serializedVersion: 2
+        x: 125.051315
+        y: 1.026751
+        width: 66.948685
+        height: 76.89713
+      alignment: 9
+      pivot: {x: 0.50708514, y: 0.48731658}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -23.525658, y: 35.524677}
+        - {x: 10.474341, y: 41.52468}
+        - {x: 33.474342, y: 20.52468}
+        - {x: 33.474342, y: -4.475319}
+        - {x: 13.474342, y: -38.47532}
+        - {x: -16.525658, y: -37.475315}
+        - {x: -37.525658, y: 3.524681}
+      physicsShape:
+      - - {x: 31.474342, y: 25.52468}
+        - {x: 12.474342, y: 37.52468}
+        - {x: -11.525658, y: 37.52468}
+        - {x: -24.525658, y: 34.52468}
+        - {x: -33.525658, y: 14.524681}
+        - {x: -33.525658, y: -5.475319}
+        - {x: -29.525656, y: -13.475319}
+        - {x: -13.525658, y: -36.47532}
+        - {x: -7.5256577, y: -37.475315}
+        - {x: 10.474341, y: -37.475315}
+        - {x: 15.474341, y: -33.47532}
+        - {x: 33.474342, y: -6.475319}
+        - {x: 33.474342, y: 13.524681}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25933d66be2e4892b0c74e033db59992
+      internalID: 21300050
+      vertices:
+      - {x: 66.47434, y: 59.948563}
+      - {x: 66.47434, y: 34.948566}
+      - {x: 46.474342, y: 0.94856644}
+      - {x: 16.474342, y: 1.9485703}
+      - {x: -4.5256577, y: 42.948566}
+      - {x: 9.474342, y: 74.94856}
+      - {x: 43.474342, y: 80.94856}
+      indices: 010000000500000006000000030000000100000002000000030000000400000001000000010000000400000005000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle_glow0029
+      rect:
+        serializedVersion: 2
+        x: 1804.0762
+        y: 176.07613
+        width: 112.84776
+        height: 76.84776
+      alignment: 9
+      pivot: {x: 0.49556878, y: 0.48698717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -58.500053, y: -15.500008}
+        - {x: -54.50005, y: 32.49999}
+        - {x: 0.4999466, y: 40.499992}
+        - {x: 43.499947, y: 29.499992}
+        - {x: 58.499943, y: 5.4999924}
+        - {x: 51.499947, y: -22.500006}
+        - {x: 20.499947, y: -37.500004}
+        - {x: -28.500053, y: -38.500008}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306c7ed5523444378069a29fc3718e95
+      internalID: 21300052
+      vertices:
+      - {x: 100.42388, y: 68.92388}
+      - {x: 115.423874, y: 44.92388}
+      - {x: 108.42388, y: 16.923883}
+      - {x: 77.42388, y: 1.9238853}
+      - {x: 28.423882, y: 0.92388153}
+      - {x: -1.5761185, y: 23.923882}
+      - {x: 2.4238853, y: 71.923874}
+      - {x: 57.42388, y: 79.92388}
+      indices: 050000000600000007000000040000000500000007000000030000000400000007000000000000000100000002000000000000000200000003000000000000000300000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle0013
+      rect:
+        serializedVersion: 2
+        x: 1487.0513
+        y: 5.026751
+        width: 66.948685
+        height: 76.89713
+      alignment: 9
+      pivot: {x: 0.50708586, y: 0.48731658}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -23.525612, y: 35.524677}
+        - {x: 10.474387, y: 41.52468}
+        - {x: 33.47439, y: 20.52468}
+        - {x: 33.47439, y: -4.475319}
+        - {x: 13.474388, y: -38.47532}
+        - {x: -16.525612, y: -37.475315}
+        - {x: -37.52561, y: 3.524681}
+      physicsShape:
+      - - {x: 31.474388, y: 25.52468}
+        - {x: 12.474388, y: 37.52468}
+        - {x: -11.525612, y: 37.52468}
+        - {x: -24.525612, y: 34.52468}
+        - {x: -33.52561, y: 14.524681}
+        - {x: -33.52561, y: -5.475319}
+        - {x: -29.52561, y: -13.475319}
+        - {x: -13.525612, y: -36.47532}
+        - {x: -7.525612, y: -37.475315}
+        - {x: 10.474387, y: -37.475315}
+        - {x: 15.474387, y: -33.47532}
+        - {x: 33.47439, y: -6.475319}
+        - {x: 33.47439, y: 13.524681}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed08c033546a463db06d79e527b67dbc
+      internalID: 21300054
+      vertices:
+      - {x: 66.47434, y: 59.948563}
+      - {x: 66.47434, y: 34.948566}
+      - {x: 46.474342, y: 0.94856644}
+      - {x: 16.474342, y: 1.9485703}
+      - {x: -4.5256577, y: 42.948566}
+      - {x: 9.474342, y: 74.94856}
+      - {x: 43.474342, y: 80.94856}
+      indices: 010000000500000006000000030000000100000002000000030000000400000001000000010000000400000005000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle_glow0017
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 83
+        width: 126
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -35, y: 42.5}
+        - {x: 44, y: 42.5}
+        - {x: 63, y: 12.5}
+        - {x: 63, y: -20.5}
+        - {x: 29, y: -42.5}
+        - {x: -47, y: -42.5}
+        - {x: -63, y: -10.5}
+        - {x: -63, y: 14.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d347d0119d142e9bb31338255759033
+      internalID: 21300056
+      vertices:
+      - {x: 126, y: 55}
+      - {x: 126, y: 22}
+      - {x: 92, y: 0}
+      - {x: 16, y: 0}
+      - {x: 0, y: 32}
+      - {x: 0, y: 57}
+      - {x: 28, y: 85}
+      - {x: 107, y: 85}
+      indices: 020000000600000007000000040000000500000006000000030000000400000006000000020000000300000006000000000000000100000002000000000000000200000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle0029
+      rect:
+        serializedVersion: 2
+        x: 198.05132
+        y: 1.026751
+        width: 66.948685
+        height: 76.89713
+      alignment: 9
+      pivot: {x: 0.50708514, y: 0.48731658}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -23.525658, y: 35.524677}
+        - {x: 10.474341, y: 41.52468}
+        - {x: 33.474342, y: 20.52468}
+        - {x: 33.474342, y: -4.475319}
+        - {x: 13.474342, y: -38.47532}
+        - {x: -16.525658, y: -37.475315}
+        - {x: -37.525658, y: 3.524681}
+      physicsShape:
+      - - {x: 31.474342, y: 25.52468}
+        - {x: 12.474342, y: 37.52468}
+        - {x: -11.525658, y: 37.52468}
+        - {x: -24.525658, y: 34.52468}
+        - {x: -33.525658, y: 14.524681}
+        - {x: -33.525658, y: -5.475319}
+        - {x: -29.525656, y: -13.475319}
+        - {x: -13.525658, y: -36.47532}
+        - {x: -7.5256577, y: -37.475315}
+        - {x: 10.474341, y: -37.475315}
+        - {x: 15.474341, y: -33.47532}
+        - {x: 33.474342, y: -6.475319}
+        - {x: 33.474342, y: 13.524681}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c71fce58f984268a11cd08d4b595431
+      internalID: 21300058
+      vertices:
+      - {x: 66.47434, y: 59.948563}
+      - {x: 66.47434, y: 34.948566}
+      - {x: 46.474342, y: 0.94856644}
+      - {x: 16.474342, y: 1.9485703}
+      - {x: -4.5256577, y: 42.948566}
+      - {x: 9.474342, y: 74.94856}
+      - {x: 43.474342, y: 80.94856}
+      indices: 010000000500000006000000030000000100000002000000030000000400000001000000010000000400000005000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle0020
+      rect:
+        serializedVersion: 2
+        x: 1633.0513
+        y: 11.026751
+        width: 66.948685
+        height: 76.89713
+      alignment: 9
+      pivot: {x: 0.50708586, y: 0.48731664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -23.525612, y: 35.52468}
+        - {x: 10.474387, y: 41.524685}
+        - {x: 33.47439, y: 20.524683}
+        - {x: 33.47439, y: -4.475315}
+        - {x: 13.474388, y: -38.475315}
+        - {x: -16.525612, y: -37.47531}
+        - {x: -37.52561, y: 3.524685}
+      physicsShape:
+      - - {x: 31.474388, y: 25.524683}
+        - {x: 12.474388, y: 37.524685}
+        - {x: -11.525612, y: 37.524685}
+        - {x: -24.525612, y: 34.524685}
+        - {x: -33.52561, y: 14.524685}
+        - {x: -33.52561, y: -5.475315}
+        - {x: -29.52561, y: -13.475315}
+        - {x: -13.525612, y: -36.475315}
+        - {x: -7.525612, y: -37.47531}
+        - {x: 10.474387, y: -37.47531}
+        - {x: 15.474387, y: -33.475315}
+        - {x: 33.47439, y: -6.475315}
+        - {x: 33.47439, y: 13.524685}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806ebff29d6e4b6599aa0a44f7635f34
+      internalID: 21300060
+      vertices:
+      - {x: 66.47434, y: 59.948563}
+      - {x: 66.47434, y: 34.948566}
+      - {x: 46.474342, y: 0.94856644}
+      - {x: 16.474342, y: 1.9485703}
+      - {x: -4.5256577, y: 42.948566}
+      - {x: 9.474342, y: 74.94856}
+      - {x: 43.474342, y: 80.94856}
+      indices: 010000000500000006000000030000000100000002000000030000000400000001000000010000000400000005000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle0023
+      rect:
+        serializedVersion: 2
+        x: 1706.0513
+        y: 11.026751
+        width: 66.948685
+        height: 76.89713
+      alignment: 9
+      pivot: {x: 0.50708586, y: 0.48731664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -23.525612, y: 35.52468}
+        - {x: 10.474387, y: 41.524685}
+        - {x: 33.47439, y: 20.524683}
+        - {x: 33.47439, y: -4.475315}
+        - {x: 13.474388, y: -38.475315}
+        - {x: -16.525612, y: -37.47531}
+        - {x: -37.52561, y: 3.524685}
+      physicsShape:
+      - - {x: 31.474388, y: 25.524683}
+        - {x: 12.474388, y: 37.524685}
+        - {x: -11.525612, y: 37.524685}
+        - {x: -24.525612, y: 34.524685}
+        - {x: -33.52561, y: 14.524685}
+        - {x: -33.52561, y: -5.475315}
+        - {x: -29.52561, y: -13.475315}
+        - {x: -13.525612, y: -36.475315}
+        - {x: -7.525612, y: -37.47531}
+        - {x: 10.474387, y: -37.47531}
+        - {x: 15.474387, y: -33.475315}
+        - {x: 33.47439, y: -6.475315}
+        - {x: 33.47439, y: 13.524685}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3600fb59bb8a4330bf6028e4bad69dc1
+      internalID: 21300062
+      vertices:
+      - {x: 66.47434, y: 59.948563}
+      - {x: 66.47434, y: 34.948566}
+      - {x: 46.474342, y: 0.94856644}
+      - {x: 16.474342, y: 1.9485703}
+      - {x: -4.5256577, y: 42.948566}
+      - {x: 9.474342, y: 74.94856}
+      - {x: 43.474342, y: 80.94856}
+      indices: 010000000500000006000000030000000100000002000000030000000400000001000000010000000400000005000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle0010
+      rect:
+        serializedVersion: 2
+        x: 782.05133
+        y: 1.026751
+        width: 66.948685
+        height: 76.89713
+      alignment: 9
+      pivot: {x: 0.5070849, y: 0.48731658}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -23.525677, y: 35.524677}
+        - {x: 10.474322, y: 41.52468}
+        - {x: 33.474323, y: 20.52468}
+        - {x: 33.474323, y: -4.475319}
+        - {x: 13.474323, y: -38.47532}
+        - {x: -16.525677, y: -37.475315}
+        - {x: -37.525677, y: 3.524681}
+      physicsShape:
+      - - {x: 31.474323, y: 25.52468}
+        - {x: 12.474323, y: 37.52468}
+        - {x: -11.525677, y: 37.52468}
+        - {x: -24.525677, y: 34.52468}
+        - {x: -33.525677, y: 14.524681}
+        - {x: -33.525677, y: -5.475319}
+        - {x: -29.525675, y: -13.475319}
+        - {x: -13.525677, y: -36.47532}
+        - {x: -7.5256767, y: -37.475315}
+        - {x: 10.474322, y: -37.475315}
+        - {x: 15.474322, y: -33.47532}
+        - {x: 33.474323, y: -6.475319}
+        - {x: 33.474323, y: 13.524681}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42deeee1db494f0f91eef087fb21a9e4
+      internalID: 21300064
+      vertices:
+      - {x: 66.47434, y: 59.948563}
+      - {x: 66.47434, y: 34.948566}
+      - {x: 46.474342, y: 0.94856644}
+      - {x: 16.474342, y: 1.9485703}
+      - {x: -4.5256577, y: 42.948566}
+      - {x: 9.474342, y: 74.94856}
+      - {x: 43.474342, y: 80.94856}
+      indices: 010000000500000006000000030000000100000002000000030000000400000001000000010000000400000005000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle0026
+      rect:
+        serializedVersion: 2
+        x: 1779.0513
+        y: 11.026751
+        width: 66.948685
+        height: 76.89713
+      alignment: 9
+      pivot: {x: 0.50708586, y: 0.48731664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -23.525612, y: 35.52468}
+        - {x: 10.474387, y: 41.524685}
+        - {x: 33.47439, y: 20.524683}
+        - {x: 33.47439, y: -4.475315}
+        - {x: 13.474388, y: -38.475315}
+        - {x: -16.525612, y: -37.47531}
+        - {x: -37.52561, y: 3.524685}
+      physicsShape:
+      - - {x: 31.474388, y: 25.524683}
+        - {x: 12.474388, y: 37.524685}
+        - {x: -11.525612, y: 37.524685}
+        - {x: -24.525612, y: 34.524685}
+        - {x: -33.52561, y: 14.524685}
+        - {x: -33.52561, y: -5.475315}
+        - {x: -29.52561, y: -13.475315}
+        - {x: -13.525612, y: -36.475315}
+        - {x: -7.525612, y: -37.47531}
+        - {x: 10.474387, y: -37.47531}
+        - {x: 15.474387, y: -33.475315}
+        - {x: 33.47439, y: -6.475315}
+        - {x: 33.47439, y: 13.524685}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ad7c07916347fabcd8417ee779c2b0
+      internalID: 21300066
+      vertices:
+      - {x: 66.47434, y: 59.948563}
+      - {x: 66.47434, y: 34.948566}
+      - {x: 46.474342, y: 0.94856644}
+      - {x: 16.474342, y: 1.9485703}
+      - {x: -4.5256577, y: 42.948566}
+      - {x: 9.474342, y: 74.94856}
+      - {x: 43.474342, y: 80.94856}
+      indices: 010000000500000006000000030000000100000002000000030000000400000001000000010000000400000005000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle0012
+      rect:
+        serializedVersion: 2
+        x: 1414.0513
+        y: 5.026751
+        width: 66.948685
+        height: 76.89713
+      alignment: 9
+      pivot: {x: 0.50708586, y: 0.48731658}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -23.525612, y: 35.524677}
+        - {x: 10.474387, y: 41.52468}
+        - {x: 33.47439, y: 20.52468}
+        - {x: 33.47439, y: -4.475319}
+        - {x: 13.474388, y: -38.47532}
+        - {x: -16.525612, y: -37.475315}
+        - {x: -37.52561, y: 3.524681}
+      physicsShape:
+      - - {x: 31.474388, y: 25.52468}
+        - {x: 12.474388, y: 37.52468}
+        - {x: -11.525612, y: 37.52468}
+        - {x: -24.525612, y: 34.52468}
+        - {x: -33.52561, y: 14.524681}
+        - {x: -33.52561, y: -5.475319}
+        - {x: -29.52561, y: -13.475319}
+        - {x: -13.525612, y: -36.47532}
+        - {x: -7.525612, y: -37.475315}
+        - {x: 10.474387, y: -37.475315}
+        - {x: 15.474387, y: -33.47532}
+        - {x: 33.47439, y: -6.475319}
+        - {x: 33.47439, y: 13.524681}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4855ad585eb490d899185f344f8478c
+      internalID: 21300068
+      vertices:
+      - {x: 66.47434, y: 59.948563}
+      - {x: 66.47434, y: 34.948566}
+      - {x: 46.474342, y: 0.94856644}
+      - {x: 16.474342, y: 1.9485703}
+      - {x: -4.5256577, y: 42.948566}
+      - {x: 9.474342, y: 74.94856}
+      - {x: 43.474342, y: 80.94856}
+      indices: 010000000500000006000000030000000100000002000000030000000400000001000000010000000400000005000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle0019
+      rect:
+        serializedVersion: 2
+        x: 1587.0513
+        y: 175.02675
+        width: 66.948685
+        height: 76.89713
+      alignment: 9
+      pivot: {x: 0.50708586, y: 0.48731664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -23.525612, y: 35.52468}
+        - {x: 10.474387, y: 41.524685}
+        - {x: 33.47439, y: 20.524683}
+        - {x: 33.47439, y: -4.475315}
+        - {x: 13.474388, y: -38.475315}
+        - {x: -16.525612, y: -37.47531}
+        - {x: -37.52561, y: 3.524685}
+      physicsShape:
+      - - {x: 31.474388, y: 25.524683}
+        - {x: 12.474388, y: 37.524685}
+        - {x: -11.525612, y: 37.524685}
+        - {x: -24.525612, y: 34.524685}
+        - {x: -33.52561, y: 14.524685}
+        - {x: -33.52561, y: -5.475315}
+        - {x: -29.52561, y: -13.475315}
+        - {x: -13.525612, y: -36.475315}
+        - {x: -7.525612, y: -37.47531}
+        - {x: 10.474387, y: -37.47531}
+        - {x: 15.474387, y: -33.475315}
+        - {x: 33.47439, y: -6.475315}
+        - {x: 33.47439, y: 13.524685}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b54f4d5cb904b4db79d615aa3032fc1
+      internalID: 21300070
+      vertices:
+      - {x: 66.47434, y: 59.948563}
+      - {x: 66.47434, y: 34.948566}
+      - {x: 46.474342, y: 0.94856644}
+      - {x: 16.474342, y: 1.9485703}
+      - {x: -4.5256577, y: 42.948566}
+      - {x: 9.474342, y: 74.94856}
+      - {x: 43.474342, y: 80.94856}
+      indices: 010000000500000006000000030000000100000002000000030000000400000001000000010000000400000005000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle0027
+      rect:
+        serializedVersion: 2
+        x: 1801.0513
+        y: 93.02675
+        width: 66.948685
+        height: 76.89713
+      alignment: 9
+      pivot: {x: 0.50708586, y: 0.48731664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -23.525612, y: 35.52468}
+        - {x: 10.474387, y: 41.524685}
+        - {x: 33.47439, y: 20.524683}
+        - {x: 33.47439, y: -4.475315}
+        - {x: 13.474388, y: -38.475315}
+        - {x: -16.525612, y: -37.47531}
+        - {x: -37.52561, y: 3.524685}
+      physicsShape:
+      - - {x: 31.474388, y: 25.524683}
+        - {x: 12.474388, y: 37.524685}
+        - {x: -11.525612, y: 37.524685}
+        - {x: -24.525612, y: 34.524685}
+        - {x: -33.52561, y: 14.524685}
+        - {x: -33.52561, y: -5.475315}
+        - {x: -29.52561, y: -13.475315}
+        - {x: -13.525612, y: -36.475315}
+        - {x: -7.525612, y: -37.47531}
+        - {x: 10.474387, y: -37.47531}
+        - {x: 15.474387, y: -33.475315}
+        - {x: 33.47439, y: -6.475315}
+        - {x: 33.47439, y: 13.524685}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6117df678b46beaa3209609e07fe75
+      internalID: 21300072
+      vertices:
+      - {x: 66.47434, y: 59.948563}
+      - {x: 66.47434, y: 34.948566}
+      - {x: 46.474342, y: 0.94856644}
+      - {x: 16.474342, y: 1.9485703}
+      - {x: -4.5256577, y: 42.948566}
+      - {x: 9.474342, y: 74.94856}
+      - {x: 43.474342, y: 80.94856}
+      indices: 010000000500000006000000030000000100000002000000030000000400000001000000010000000400000005000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle0022
+      rect:
+        serializedVersion: 2
+        x: 1660.0513
+        y: 175.02675
+        width: 66.948685
+        height: 76.89713
+      alignment: 9
+      pivot: {x: 0.50708586, y: 0.48731664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -23.525612, y: 35.52468}
+        - {x: 10.474387, y: 41.524685}
+        - {x: 33.47439, y: 20.524683}
+        - {x: 33.47439, y: -4.475315}
+        - {x: 13.474388, y: -38.475315}
+        - {x: -16.525612, y: -37.47531}
+        - {x: -37.52561, y: 3.524685}
+      physicsShape:
+      - - {x: 31.474388, y: 25.524683}
+        - {x: 12.474388, y: 37.524685}
+        - {x: -11.525612, y: 37.524685}
+        - {x: -24.525612, y: 34.524685}
+        - {x: -33.52561, y: 14.524685}
+        - {x: -33.52561, y: -5.475315}
+        - {x: -29.52561, y: -13.475315}
+        - {x: -13.525612, y: -36.475315}
+        - {x: -7.525612, y: -37.47531}
+        - {x: 10.474387, y: -37.47531}
+        - {x: 15.474387, y: -33.475315}
+        - {x: 33.47439, y: -6.475315}
+        - {x: 33.47439, y: 13.524685}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14add346fd04ca6b5c6881e0bca6125
+      internalID: 21300074
+      vertices:
+      - {x: 66.47434, y: 59.948563}
+      - {x: 66.47434, y: 34.948566}
+      - {x: 46.474342, y: 0.94856644}
+      - {x: 16.474342, y: 1.9485703}
+      - {x: -4.5256577, y: 42.948566}
+      - {x: 9.474342, y: 74.94856}
+      - {x: 43.474342, y: 80.94856}
+      indices: 010000000500000006000000030000000100000002000000030000000400000001000000010000000400000005000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle_glow0003
+      rect:
+        serializedVersion: 2
+        x: 1052.0762
+        y: 4.0761204
+        width: 113.84776
+        height: 77.84776
+      alignment: 9
+      pivot: {x: 0.49999952, y: 0.4935772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -55.000053, y: 20.999998}
+        - {x: -21.000053, y: 40}
+        - {x: 40.999947, y: 38}
+        - {x: 60.999947, y: 1}
+        - {x: 42.999943, y: -36}
+        - {x: -10.000052, y: -41}
+        - {x: -62.000053, y: -24.999998}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e26ec88fb34114b45f21d34ccf8704
+      internalID: 21300076
+      vertices:
+      - {x: 97.92388, y: 77.42388}
+      - {x: 117.92388, y: 40.42388}
+      - {x: 99.923874, y: 3.4238815}
+      - {x: 46.92388, y: -1.5761185}
+      - {x: -5.0761185, y: 14.423883}
+      - {x: 1.9238815, y: 60.42388}
+      - {x: 35.92388, y: 79.42388}
+      indices: 030000000500000006000000030000000400000005000000000000000100000002000000000000000200000003000000000000000300000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle_glow0007
+      rect:
+        serializedVersion: 2
+        x: 769.0761
+        y: 172.07613
+        width: 117.92388
+        height: 81.84776
+      alignment: 9
+      pivot: {x: 0.49967733, y: 0.493891}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -62.03805, y: 0.9999924}
+        - {x: -48.03805, y: 34.999992}
+        - {x: -3.0380516, y: 41.999992}
+        - {x: 58.961945, y: 32.99999}
+        - {x: 58.961945, y: -30.000006}
+        - {x: 1.9619484, y: -43.000008}
+        - {x: -49.038048, y: -35.000008}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9b0fa51fcd42cb97ffb467ba1bd2cd
+      internalID: 21300078
+      vertices:
+      - {x: 117.96194, y: 74.423874}
+      - {x: 117.96194, y: 11.423883}
+      - {x: 60.96194, y: -1.5761185}
+      - {x: 9.961945, y: 6.4238815}
+      - {x: -3.0380592, y: 42.42388}
+      - {x: 10.961941, y: 76.42388}
+      - {x: 55.96194, y: 83.42388}
+      indices: 040000000500000006000000020000000400000006000000020000000300000004000000010000000200000006000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle_glow0028
+      rect:
+        serializedVersion: 2
+        x: 1144.0582
+        y: 89.07612
+        width: 113.91505
+        height: 77.84776
+      alignment: 9
+      pivot: {x: 0.49986172, y: 0.4935772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -51.01575, y: -20}
+        - {x: -59.015747, y: 4}
+        - {x: -39.01575, y: 41}
+        - {x: 41.98425, y: 37}
+        - {x: 60.98425, y: 0}
+        - {x: 42.984245, y: -36}
+        - {x: -23.015749, y: -43}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bfed669ca64c7380fbe8e651687b30
+      internalID: 21300080
+      vertices:
+      - {x: 98.95752, y: 76.42388}
+      - {x: 117.95752, y: 39.42388}
+      - {x: 99.95752, y: 3.4238815}
+      - {x: 33.957527, y: -3.5761185}
+      - {x: 5.9575233, y: 19.423882}
+      - {x: -2.0424728, y: 43.42388}
+      - {x: 17.957523, y: 80.42388}
+      indices: 040000000500000006000000030000000400000006000000000000000100000002000000000000000200000003000000000000000300000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle0024
+      rect:
+        serializedVersion: 2
+        x: 1728.0513
+        y: 93.02675
+        width: 66.948685
+        height: 76.89713
+      alignment: 9
+      pivot: {x: 0.50708586, y: 0.48731664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -23.525612, y: 35.52468}
+        - {x: 10.474387, y: 41.524685}
+        - {x: 33.47439, y: 20.524683}
+        - {x: 33.47439, y: -4.475315}
+        - {x: 13.474388, y: -38.475315}
+        - {x: -16.525612, y: -37.47531}
+        - {x: -37.52561, y: 3.524685}
+      physicsShape:
+      - - {x: 31.474388, y: 25.524683}
+        - {x: 12.474388, y: 37.524685}
+        - {x: -11.525612, y: 37.524685}
+        - {x: -24.525612, y: 34.524685}
+        - {x: -33.52561, y: 14.524685}
+        - {x: -33.52561, y: -5.475315}
+        - {x: -29.52561, y: -13.475315}
+        - {x: -13.525612, y: -36.475315}
+        - {x: -7.525612, y: -37.47531}
+        - {x: 10.474387, y: -37.47531}
+        - {x: 15.474387, y: -33.475315}
+        - {x: 33.47439, y: -6.475315}
+        - {x: 33.47439, y: 13.524685}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219994fb1856480ea905fdb0532aea3e
+      internalID: 21300082
+      vertices:
+      - {x: 66.47434, y: 59.948563}
+      - {x: 66.47434, y: 34.948566}
+      - {x: 46.474342, y: 0.94856644}
+      - {x: 16.474342, y: 1.9485703}
+      - {x: -4.5256577, y: 42.948566}
+      - {x: 9.474342, y: 74.94856}
+      - {x: 43.474342, y: 80.94856}
+      indices: 010000000500000006000000030000000100000002000000030000000400000001000000010000000400000005000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle_glow0020
+      rect:
+        serializedVersion: 2
+        x: 513.0761
+        y: 83.07612
+        width: 123.92388
+        height: 84.84776
+      alignment: 9
+      pivot: {x: 0.49969295, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -63.03805, y: -0.5}
+        - {x: -56.03805, y: 40.5}
+        - {x: 20.961948, y: 42.5}
+        - {x: 61.96195, y: 23.5}
+        - {x: 61.96195, y: -23.5}
+        - {x: 19.961946, y: -42.5}
+        - {x: -19.038052, y: -42.5}
+        - {x: -55.03805, y: -29.499998}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62998b888a9645b6b754331eb9324ee4
+      internalID: 21300084
+      vertices:
+      - {x: 123.961945, y: 65.92388}
+      - {x: 123.961945, y: 18.923882}
+      - {x: 81.96194, y: -0.07611847}
+      - {x: 42.96194, y: -0.07611847}
+      - {x: 6.961941, y: 12.923883}
+      - {x: -1.0380592, y: 41.92388}
+      - {x: 5.961941, y: 82.92388}
+      - {x: 82.961945, y: 84.92388}
+      indices: 050000000600000007000000030000000500000007000000030000000400000005000000020000000300000007000000010000000200000007000000000000000100000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle_glow0027
+      rect:
+        serializedVersion: 2
+        x: 1143.0762
+        y: 174.07613
+        width: 114.89713
+        height: 78.84776
+      alignment: 9
+      pivot: {x: 0.49543297, y: 0.48731723}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -34.52474, y: 36.499992}
+        - {x: 8.475262, y: 41.499992}
+        - {x: 53.475258, y: 25.49999}
+        - {x: 61.47526, y: -16.500008}
+        - {x: 29.47526, y: -35.500008}
+        - {x: -1.5247383, y: -42.500008}
+        - {x: -59.524734, y: -29.500008}
+        - {x: -56.52474, y: 12.499991}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14df8dfee774294a10be68dd845a653
+      internalID: 21300086
+      vertices:
+      - {x: 111.44856, y: 65.92388}
+      - {x: 119.44856, y: 23.923882}
+      - {x: 87.44856, y: 4.9238815}
+      - {x: 56.448566, y: -2.0761185}
+      - {x: -1.5514297, y: 10.923882}
+      - {x: 1.4485664, y: 52.92388}
+      - {x: 23.448566, y: 76.92388}
+      - {x: 66.44856, y: 81.92388}
+      indices: 030000000600000007000000030000000500000006000000030000000400000005000000020000000300000007000000000000000100000002000000000000000200000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle0016
+      rect:
+        serializedVersion: 2
+        x: 1560.0513
+        y: 8.026751
+        width: 66.948685
+        height: 76.89713
+      alignment: 9
+      pivot: {x: 0.50708586, y: 0.48731664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -23.525612, y: 35.52468}
+        - {x: 10.474387, y: 41.524685}
+        - {x: 33.47439, y: 20.524683}
+        - {x: 33.47439, y: -4.475315}
+        - {x: 13.474388, y: -38.475315}
+        - {x: -16.525612, y: -37.47531}
+        - {x: -37.52561, y: 3.524685}
+      physicsShape:
+      - - {x: 31.474388, y: 25.524683}
+        - {x: 12.474388, y: 37.524685}
+        - {x: -11.525612, y: 37.524685}
+        - {x: -24.525612, y: 34.524685}
+        - {x: -33.52561, y: 14.524685}
+        - {x: -33.52561, y: -5.475315}
+        - {x: -29.52561, y: -13.475315}
+        - {x: -13.525612, y: -36.475315}
+        - {x: -7.525612, y: -37.47531}
+        - {x: 10.474387, y: -37.47531}
+        - {x: 15.474387, y: -33.475315}
+        - {x: 33.47439, y: -6.475315}
+        - {x: 33.47439, y: 13.524685}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a37de44c2a4d0f980038267f8325ca
+      internalID: 21300088
+      vertices:
+      - {x: 66.47434, y: 59.948563}
+      - {x: 66.47434, y: 34.948566}
+      - {x: 46.474342, y: 0.94856644}
+      - {x: 16.474342, y: 1.9485703}
+      - {x: -4.5256577, y: 42.948566}
+      - {x: 9.474342, y: 74.94856}
+      - {x: 43.474342, y: 80.94856}
+      indices: 010000000500000006000000030000000100000002000000030000000400000001000000010000000400000005000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle0011
+      rect:
+        serializedVersion: 2
+        x: 855.05133
+        y: 1.026751
+        width: 66.948685
+        height: 76.89713
+      alignment: 9
+      pivot: {x: 0.5070849, y: 0.48731658}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -23.525677, y: 35.524677}
+        - {x: 10.474322, y: 41.52468}
+        - {x: 33.474323, y: 20.52468}
+        - {x: 33.474323, y: -4.475319}
+        - {x: 13.474323, y: -38.47532}
+        - {x: -16.525677, y: -37.475315}
+        - {x: -37.525677, y: 3.524681}
+      physicsShape:
+      - - {x: 31.474323, y: 25.52468}
+        - {x: 12.474323, y: 37.52468}
+        - {x: -11.525677, y: 37.52468}
+        - {x: -24.525677, y: 34.52468}
+        - {x: -33.525677, y: 14.524681}
+        - {x: -33.525677, y: -5.475319}
+        - {x: -29.525675, y: -13.475319}
+        - {x: -13.525677, y: -36.47532}
+        - {x: -7.5256767, y: -37.475315}
+        - {x: 10.474322, y: -37.475315}
+        - {x: 15.474322, y: -33.47532}
+        - {x: 33.474323, y: -6.475319}
+        - {x: 33.474323, y: 13.524681}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b0b87fb7cd4a2593b43bb39f7ad674
+      internalID: 21300090
+      vertices:
+      - {x: 66.47434, y: 59.948563}
+      - {x: 66.47434, y: 34.948566}
+      - {x: 46.474342, y: 0.94856644}
+      - {x: 16.474342, y: 1.9485703}
+      - {x: -4.5256577, y: 42.948566}
+      - {x: 9.474342, y: 74.94856}
+      - {x: 43.474342, y: 80.94856}
+      indices: 010000000500000006000000030000000100000002000000030000000400000001000000010000000400000005000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle_glow0024
+      rect:
+        serializedVersion: 2
+        x: 893.02673
+        y: 86.07612
+        width: 118.89713
+        height: 81.84776
+      alignment: 9
+      pivot: {x: 0.49600244, y: 0.4938911}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -34.4753, y: 38}
+        - {x: 10.5247, y: 42}
+        - {x: 49.5247, y: 28}
+        - {x: 61.5247, y: 1.9999998}
+        - {x: 50.5247, y: -36}
+        - {x: -3.4752998, y: -42}
+        - {x: -54.475296, y: -33}
+        - {x: -63.4753, y: 10}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2309ab4cad7946b2bfebc1bc58320b56
+      internalID: 21300092
+      vertices:
+      - {x: 109.44856, y: 69.42388}
+      - {x: 121.44856, y: 43.42388}
+      - {x: 110.44856, y: 5.4238815}
+      - {x: 56.448566, y: -0.57611847}
+      - {x: 5.4485703, y: 8.423882}
+      - {x: -3.5514336, y: 51.42388}
+      - {x: 25.448566, y: 79.42388}
+      - {x: 70.44856, y: 83.42388}
+      indices: 030000000600000007000000050000000300000004000000050000000600000003000000010000000200000003000000000000000100000003000000000000000300000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle0021
+      rect:
+        serializedVersion: 2
+        x: 1655.0513
+        y: 93.02675
+        width: 66.948685
+        height: 76.89713
+      alignment: 9
+      pivot: {x: 0.50708586, y: 0.48731664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -23.525612, y: 35.52468}
+        - {x: 10.474387, y: 41.524685}
+        - {x: 33.47439, y: 20.524683}
+        - {x: 33.47439, y: -4.475315}
+        - {x: 13.474388, y: -38.475315}
+        - {x: -16.525612, y: -37.47531}
+        - {x: -37.52561, y: 3.524685}
+      physicsShape:
+      - - {x: 31.474388, y: 25.524683}
+        - {x: 12.474388, y: 37.524685}
+        - {x: -11.525612, y: 37.524685}
+        - {x: -24.525612, y: 34.524685}
+        - {x: -33.52561, y: 14.524685}
+        - {x: -33.52561, y: -5.475315}
+        - {x: -29.52561, y: -13.475315}
+        - {x: -13.525612, y: -36.475315}
+        - {x: -7.525612, y: -37.47531}
+        - {x: 10.474387, y: -37.47531}
+        - {x: 15.474387, y: -33.475315}
+        - {x: 33.47439, y: -6.475315}
+        - {x: 33.47439, y: 13.524685}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180c7b759e564dc394472ea235b60bb8
+      internalID: 21300094
+      vertices:
+      - {x: 66.47434, y: 59.948563}
+      - {x: 66.47434, y: 34.948566}
+      - {x: 46.474342, y: 0.94856644}
+      - {x: 16.474342, y: 1.9485703}
+      - {x: -4.5256577, y: 42.948566}
+      - {x: 9.474342, y: 74.94856}
+      - {x: 43.474342, y: 80.94856}
+      indices: 010000000500000006000000030000000100000002000000030000000400000001000000010000000400000005000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle0018
+      rect:
+        serializedVersion: 2
+        x: 1582.0513
+        y: 93.02675
+        width: 66.948685
+        height: 76.89713
+      alignment: 9
+      pivot: {x: 0.50708586, y: 0.48731664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -23.525612, y: 35.52468}
+        - {x: 10.474387, y: 41.524685}
+        - {x: 33.47439, y: 20.524683}
+        - {x: 33.47439, y: -4.475315}
+        - {x: 13.474388, y: -38.475315}
+        - {x: -16.525612, y: -37.47531}
+        - {x: -37.52561, y: 3.524685}
+      physicsShape:
+      - - {x: 31.474388, y: 25.524683}
+        - {x: 12.474388, y: 37.524685}
+        - {x: -11.525612, y: 37.524685}
+        - {x: -24.525612, y: 34.524685}
+        - {x: -33.52561, y: 14.524685}
+        - {x: -33.52561, y: -5.475315}
+        - {x: -29.52561, y: -13.475315}
+        - {x: -13.525612, y: -36.475315}
+        - {x: -7.525612, y: -37.47531}
+        - {x: 10.474387, y: -37.47531}
+        - {x: 15.474387, y: -33.475315}
+        - {x: 33.47439, y: -6.475315}
+        - {x: 33.47439, y: 13.524685}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19e2f2cc2bc4ee296af773da5bfe217
+      internalID: 21300096
+      vertices:
+      - {x: 66.47434, y: 59.948563}
+      - {x: 66.47434, y: 34.948566}
+      - {x: 46.474342, y: 0.94856644}
+      - {x: 16.474342, y: 1.9485703}
+      - {x: -4.5256577, y: 42.948566}
+      - {x: 9.474342, y: 74.94856}
+      - {x: 43.474342, y: 80.94856}
+      indices: 010000000500000006000000030000000100000002000000030000000400000001000000010000000400000005000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle0002
+      rect:
+        serializedVersion: 2
+        x: 198.05132
+        y: 1.026751
+        width: 66.948685
+        height: 76.89713
+      alignment: 9
+      pivot: {x: 0.50708514, y: 0.48731658}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -23.525658, y: 35.524677}
+        - {x: 10.474341, y: 41.52468}
+        - {x: 33.474342, y: 20.52468}
+        - {x: 33.474342, y: -4.475319}
+        - {x: 13.474342, y: -38.47532}
+        - {x: -16.525658, y: -37.475315}
+        - {x: -37.525658, y: 3.524681}
+      physicsShape:
+      - - {x: 31.474342, y: 25.52468}
+        - {x: 12.474342, y: 37.52468}
+        - {x: -11.525658, y: 37.52468}
+        - {x: -24.525658, y: 34.52468}
+        - {x: -33.525658, y: 14.524681}
+        - {x: -33.525658, y: -5.475319}
+        - {x: -29.525656, y: -13.475319}
+        - {x: -13.525658, y: -36.47532}
+        - {x: -7.5256577, y: -37.475315}
+        - {x: 10.474341, y: -37.475315}
+        - {x: 15.474341, y: -33.47532}
+        - {x: 33.474342, y: -6.475319}
+        - {x: 33.474342, y: 13.524681}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e71cebcdde4650be5dacf81c6a80db
+      internalID: 21300098
+      vertices:
+      - {x: 66.47434, y: 59.948563}
+      - {x: 66.47434, y: 34.948566}
+      - {x: 46.474342, y: 0.94856644}
+      - {x: 16.474342, y: 1.9485703}
+      - {x: -4.5256577, y: 42.948566}
+      - {x: 9.474342, y: 74.94856}
+      - {x: 43.474342, y: 80.94856}
+      indices: 010000000500000006000000030000000100000002000000030000000400000001000000010000000400000005000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle_glow0006
+      rect:
+        serializedVersion: 2
+        x: 1388.0762
+        y: 174.07613
+        width: 116.84776
+        height: 79.84776
+      alignment: 9
+      pivot: {x: 0.49572048, y: 0.493738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -62.500053, y: 0.9999924}
+        - {x: -46.50005, y: 34.999992}
+        - {x: 1.4999466, y: 40.999992}
+        - {x: 41.499947, y: 34.999992}
+        - {x: 61.499947, y: 6.999992}
+        - {x: 51.499947, y: -34.000004}
+        - {x: -3.5000534, y: -42.000008}
+        - {x: -48.500053, y: -32.000008}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d646cfc884814ad6b615580cd4ba559c
+      internalID: 21300100
+      vertices:
+      - {x: 100.42388, y: 75.42388}
+      - {x: 120.42388, y: 47.42388}
+      - {x: 110.42388, y: 6.4238853}
+      - {x: 55.42388, y: -1.5761185}
+      - {x: 10.423882, y: 8.423882}
+      - {x: -3.5761185, y: 41.42388}
+      - {x: 12.423885, y: 75.42388}
+      - {x: 60.42388, y: 81.42388}
+      indices: 050000000600000007000000040000000500000007000000030000000400000007000000010000000200000003000000000000000100000003000000000000000300000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle0028
+      rect:
+        serializedVersion: 2
+        x: 1852.0513
+        y: 11.026751
+        width: 66.948685
+        height: 76.89713
+      alignment: 9
+      pivot: {x: 0.50708586, y: 0.48731664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -23.525612, y: 35.52468}
+        - {x: 10.474387, y: 41.524685}
+        - {x: 33.47439, y: 20.524683}
+        - {x: 33.47439, y: -4.475315}
+        - {x: 13.474388, y: -38.475315}
+        - {x: -16.525612, y: -37.47531}
+        - {x: -37.52561, y: 3.524685}
+      physicsShape:
+      - - {x: 31.474388, y: 25.524683}
+        - {x: 12.474388, y: 37.524685}
+        - {x: -11.525612, y: 37.524685}
+        - {x: -24.525612, y: 34.524685}
+        - {x: -33.52561, y: 14.524685}
+        - {x: -33.52561, y: -5.475315}
+        - {x: -29.52561, y: -13.475315}
+        - {x: -13.525612, y: -36.475315}
+        - {x: -7.525612, y: -37.47531}
+        - {x: 10.474387, y: -37.47531}
+        - {x: 15.474387, y: -33.475315}
+        - {x: 33.47439, y: -6.475315}
+        - {x: 33.47439, y: 13.524685}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ce1aa264944dc4b49f2d990c17812a
+      internalID: 21300102
+      vertices:
+      - {x: 66.47434, y: 59.948563}
+      - {x: 66.47434, y: 34.948566}
+      - {x: 46.474342, y: 0.94856644}
+      - {x: 16.474342, y: 1.9485703}
+      - {x: -4.5256577, y: 42.948566}
+      - {x: 9.474342, y: 74.94856}
+      - {x: 43.474342, y: 80.94856}
+      indices: 010000000500000006000000030000000100000002000000030000000400000001000000010000000400000005000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle0015
+      rect:
+        serializedVersion: 2
+        x: 1514.0513
+        y: 175.02675
+        width: 66.948685
+        height: 76.89713
+      alignment: 9
+      pivot: {x: 0.50708586, y: 0.48731664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -23.525612, y: 35.52468}
+        - {x: 10.474387, y: 41.524685}
+        - {x: 33.47439, y: 20.524683}
+        - {x: 33.47439, y: -4.475315}
+        - {x: 13.474388, y: -38.475315}
+        - {x: -16.525612, y: -37.47531}
+        - {x: -37.52561, y: 3.524685}
+      physicsShape:
+      - - {x: 31.474388, y: 25.524683}
+        - {x: 12.474388, y: 37.524685}
+        - {x: -11.525612, y: 37.524685}
+        - {x: -24.525612, y: 34.524685}
+        - {x: -33.52561, y: 14.524685}
+        - {x: -33.52561, y: -5.475315}
+        - {x: -29.52561, y: -13.475315}
+        - {x: -13.525612, y: -36.475315}
+        - {x: -7.525612, y: -37.47531}
+        - {x: 10.474387, y: -37.47531}
+        - {x: 15.474387, y: -33.475315}
+        - {x: 33.47439, y: -6.475315}
+        - {x: 33.47439, y: 13.524685}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed97f4252a324c6ba1c9dff3429dc69c
+      internalID: 21300104
+      vertices:
+      - {x: 66.47434, y: 59.948563}
+      - {x: 66.47434, y: 34.948566}
+      - {x: 46.474342, y: 0.94856644}
+      - {x: 16.474342, y: 1.9485703}
+      - {x: -4.5256577, y: 42.948566}
+      - {x: 9.474342, y: 74.94856}
+      - {x: 43.474342, y: 80.94856}
+      indices: 010000000500000006000000030000000100000002000000030000000400000001000000010000000400000005000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle_glow0009
+      rect:
+        serializedVersion: 2
+        x: 1017.0761
+        y: 172.07613
+        width: 120.84776
+        height: 82.84776
+      alignment: 9
+      pivot: {x: 0.49586263, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -59.49999, y: -34.500008}
+        - {x: -60.49999, y: 28.499992}
+        - {x: -19.499992, y: 41.499992}
+        - {x: 22.500006, y: 40.499992}
+        - {x: 56.500008, y: 23.499992}
+        - {x: 61.500008, y: 1.4999924}
+        - {x: 53.500004, y: -34.500008}
+        - {x: -2.4999924, y: -42.500008}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356330f352ba4e8fbfcd18d3018b028d
+      internalID: 21300106
+      vertices:
+      - {x: 83.42388, y: 81.92388}
+      - {x: 117.42388, y: 64.92388}
+      - {x: 122.42388, y: 42.92388}
+      - {x: 114.423874, y: 6.9238815}
+      - {x: 58.42388, y: -1.0761185}
+      - {x: 1.4238853, y: 6.9238815}
+      - {x: 0.42388535, y: 69.92388}
+      - {x: 41.42388, y: 82.92388}
+      indices: 050000000600000007000000040000000500000007000000020000000300000004000000000000000200000004000000000000000100000002000000000000000400000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle0025
+      rect:
+        serializedVersion: 2
+        x: 1733.0513
+        y: 175.02675
+        width: 66.948685
+        height: 76.89713
+      alignment: 9
+      pivot: {x: 0.50708586, y: 0.48731664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -23.525612, y: 35.52468}
+        - {x: 10.474387, y: 41.524685}
+        - {x: 33.47439, y: 20.524683}
+        - {x: 33.47439, y: -4.475315}
+        - {x: 13.474388, y: -38.475315}
+        - {x: -16.525612, y: -37.47531}
+        - {x: -37.52561, y: 3.524685}
+      physicsShape:
+      - - {x: 31.474388, y: 25.524683}
+        - {x: 12.474388, y: 37.524685}
+        - {x: -11.525612, y: 37.524685}
+        - {x: -24.525612, y: 34.524685}
+        - {x: -33.52561, y: 14.524685}
+        - {x: -33.52561, y: -5.475315}
+        - {x: -29.52561, y: -13.475315}
+        - {x: -13.525612, y: -36.475315}
+        - {x: -7.525612, y: -37.47531}
+        - {x: 10.474387, y: -37.47531}
+        - {x: 15.474387, y: -33.475315}
+        - {x: 33.47439, y: -6.475315}
+        - {x: 33.47439, y: 13.524685}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c931717b56794659a56a0c53fa3bd51f
+      internalID: 21300108
+      vertices:
+      - {x: 66.47434, y: 59.948563}
+      - {x: 66.47434, y: 34.948566}
+      - {x: 46.474342, y: 0.94856644}
+      - {x: 16.474342, y: 1.9485703}
+      - {x: -4.5256577, y: 42.948566}
+      - {x: 9.474342, y: 74.94856}
+      - {x: 43.474342, y: 80.94856}
+      indices: 010000000500000006000000030000000100000002000000030000000400000001000000010000000400000005000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle0003
+      rect:
+        serializedVersion: 2
+        x: 271.05133
+        y: 1.026751
+        width: 66.948685
+        height: 76.89713
+      alignment: 9
+      pivot: {x: 0.5070849, y: 0.48731658}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -23.525677, y: 35.524677}
+        - {x: 10.474322, y: 41.52468}
+        - {x: 33.474323, y: 20.52468}
+        - {x: 33.474323, y: -4.475319}
+        - {x: 13.474323, y: -38.47532}
+        - {x: -16.525677, y: -37.475315}
+        - {x: -37.525677, y: 3.524681}
+      physicsShape:
+      - - {x: 31.474323, y: 25.52468}
+        - {x: 12.474323, y: 37.52468}
+        - {x: -11.525677, y: 37.52468}
+        - {x: -24.525677, y: 34.52468}
+        - {x: -33.525677, y: 14.524681}
+        - {x: -33.525677, y: -5.475319}
+        - {x: -29.525675, y: -13.475319}
+        - {x: -13.525677, y: -36.47532}
+        - {x: -7.5256767, y: -37.475315}
+        - {x: 10.474322, y: -37.475315}
+        - {x: 15.474322, y: -33.47532}
+        - {x: 33.474323, y: -6.475319}
+        - {x: 33.474323, y: 13.524681}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d407e86a5a94f4eb77fd40860230829
+      internalID: 21300110
+      vertices:
+      - {x: 66.47434, y: 59.948563}
+      - {x: 66.47434, y: 34.948566}
+      - {x: 46.474342, y: 0.94856644}
+      - {x: 16.474342, y: 1.9485703}
+      - {x: -4.5256577, y: 42.948566}
+      - {x: 9.474342, y: 74.94856}
+      - {x: 43.474342, y: 80.94856}
+      indices: 010000000500000006000000030000000100000002000000030000000400000001000000010000000400000005000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle_glow0018
+      rect:
+        serializedVersion: 2
+        x: 257.0761
+        y: 170
+        width: 125.92388
+        height: 85
+      alignment: 9
+      pivot: {x: 0.49969783, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -14.038052, y: 42.5}
+        - {x: 46.96195, y: 42.5}
+        - {x: 62.96195, y: 8.5}
+        - {x: 62.96195, y: -28.5}
+        - {x: 18.961948, y: -42.5}
+        - {x: -34.03805, y: -42.5}
+        - {x: -62.03805, y: -14.5}
+        - {x: -63.03805, y: 30.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ade5987f90447189fa109b09b801e94
+      internalID: 21300112
+      vertices:
+      - {x: 125.961945, y: 51}
+      - {x: 125.961945, y: 14}
+      - {x: 81.961945, y: 0}
+      - {x: 28.96194, y: 0}
+      - {x: 0.96194077, y: 28}
+      - {x: -0.038059235, y: 73}
+      - {x: 48.96194, y: 85}
+      - {x: 109.961945, y: 85}
+      indices: 000000000600000007000000040000000500000006000000030000000400000006000000020000000300000006000000000000000100000002000000000000000200000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle_glow0016
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 170
+        width: 126
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -14.999999, y: 42.5}
+        - {x: 36, y: 42.5}
+        - {x: 63, y: 15.5}
+        - {x: 63, y: -22.5}
+        - {x: 29, y: -42.5}
+        - {x: -51, y: -42.5}
+        - {x: -63, y: -11.499999}
+        - {x: -63, y: 14.5}
+        - {x: -38, y: 41.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39baf7c4db5b42ac960ccf83eafbb534
+      internalID: 21300114
+      vertices:
+      - {x: 126, y: 58}
+      - {x: 126, y: 20}
+      - {x: 92, y: 0}
+      - {x: 12, y: 0}
+      - {x: 0, y: 31}
+      - {x: 0, y: 57}
+      - {x: 25, y: 84}
+      - {x: 48, y: 85}
+      - {x: 99, y: 85}
+      indices: 020000000700000008000000030000000700000002000000050000000700000004000000030000000400000007000000050000000600000007000000000000000100000002000000000000000200000008000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle_glow0013
+      rect:
+        serializedVersion: 2
+        x: 385.0761
+        y: 170
+        width: 124.92388
+        height: 84.92388
+      alignment: 9
+      pivot: {x: 0.5036978, y: 0.50044817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -62.538055, y: 24.538057}
+        - {x: -20.538055, y: 42.53806}
+        - {x: 47.461945, y: 41.53806}
+        - {x: 62.461945, y: 9.538059}
+        - {x: 62.461945, y: -14.461941}
+        - {x: 34.461945, y: -42.46194}
+        - {x: -21.538055, y: -42.46194}
+        - {x: -62.538055, y: -24.461939}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de133bce9064b4cb6d8a486ee42ce4b
+      internalID: 21300116
+      vertices:
+      - {x: 109.461945, y: 83.961945}
+      - {x: 124.461945, y: 51.96194}
+      - {x: 124.461945, y: 27.96194}
+      - {x: 96.461945, y: -0.038059235}
+      - {x: 40.46194, y: -0.038059235}
+      - {x: -0.53805923, y: 17.961943}
+      - {x: -0.53805923, y: 66.96194}
+      - {x: 41.46194, y: 84.961945}
+      indices: 040000000600000007000000040000000500000006000000030000000400000007000000010000000200000003000000010000000300000007000000000000000100000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_healingShroom_idle_glow0030
+      rect:
+        serializedVersion: 2
+        x: 1268.0267
+        y: 89.07612
+        width: 110.89713
+        height: 75.84776
+      alignment: 9
+      pivot: {x: 0.49571404, y: 0.49340785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -47.4753, y: 28}
+        - {x: -4.4753, y: 42}
+        - {x: 41.5247, y: 31}
+        - {x: 58.524696, y: 5}
+        - {x: 46.5247, y: -32}
+        - {x: -13.4753, y: -42}
+        - {x: -47.4753, y: -24}
+        - {x: -59.475296, y: 1}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c78614e756a47df9a0e865205d16489
+      internalID: 21300118
+      vertices:
+      - {x: 97.44856, y: 69.42388}
+      - {x: 114.44856, y: 43.42388}
+      - {x: 102.44856, y: 6.4238815}
+      - {x: 42.448566, y: -3.5761185}
+      - {x: 8.448566, y: 14.423882}
+      - {x: -3.5514297, y: 39.42388}
+      - {x: 8.448566, y: 66.42388}
+      - {x: 51.448566, y: 80.42388}
+      indices: 040000000600000007000000040000000500000006000000030000000400000007000000000000000200000003000000000000000100000002000000000000000300000007000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      map5_healingShroom_idle0001: 21300014
+      map5_healingShroom_idle0002: 21300098
+      map5_healingShroom_idle0003: 21300110
+      map5_healingShroom_idle0004: 21300026
+      map5_healingShroom_idle0005: 21300006
+      map5_healingShroom_idle0006: 21300032
+      map5_healingShroom_idle0007: 21300044
+      map5_healingShroom_idle0008: 21300012
+      map5_healingShroom_idle0009: 21300040
+      map5_healingShroom_idle0010: 21300064
+      map5_healingShroom_idle0011: 21300090
+      map5_healingShroom_idle0012: 21300068
+      map5_healingShroom_idle0013: 21300054
+      map5_healingShroom_idle0014: 21300000
+      map5_healingShroom_idle0015: 21300104
+      map5_healingShroom_idle0016: 21300088
+      map5_healingShroom_idle0017: 21300008
+      map5_healingShroom_idle0018: 21300096
+      map5_healingShroom_idle0019: 21300070
+      map5_healingShroom_idle0020: 21300060
+      map5_healingShroom_idle0021: 21300094
+      map5_healingShroom_idle0022: 21300074
+      map5_healingShroom_idle0023: 21300062
+      map5_healingShroom_idle0024: 21300082
+      map5_healingShroom_idle0025: 21300108
+      map5_healingShroom_idle0026: 21300066
+      map5_healingShroom_idle0027: 21300072
+      map5_healingShroom_idle0028: 21300102
+      map5_healingShroom_idle0029: 21300058
+      map5_healingShroom_idle0030: 21300050
+      map5_healingShroom_idle_glow0001: 21300048
+      map5_healingShroom_idle_glow0002: 21300016
+      map5_healingShroom_idle_glow0003: 21300076
+      map5_healingShroom_idle_glow0004: 21300020
+      map5_healingShroom_idle_glow0005: 21300038
+      map5_healingShroom_idle_glow0006: 21300100
+      map5_healingShroom_idle_glow0007: 21300078
+      map5_healingShroom_idle_glow0008: 21300002
+      map5_healingShroom_idle_glow0009: 21300106
+      map5_healingShroom_idle_glow0010: 21300028
+      map5_healingShroom_idle_glow0011: 21300046
+      map5_healingShroom_idle_glow0012: 21300030
+      map5_healingShroom_idle_glow0013: 21300116
+      map5_healingShroom_idle_glow0014: 21300010
+      map5_healingShroom_idle_glow0015: 21300018
+      map5_healingShroom_idle_glow0016: 21300114
+      map5_healingShroom_idle_glow0017: 21300056
+      map5_healingShroom_idle_glow0018: 21300112
+      map5_healingShroom_idle_glow0019: 21300036
+      map5_healingShroom_idle_glow0020: 21300084
+      map5_healingShroom_idle_glow0021: 21300024
+      map5_healingShroom_idle_glow0022: 21300034
+      map5_healingShroom_idle_glow0023: 21300004
+      map5_healingShroom_idle_glow0024: 21300092
+      map5_healingShroom_idle_glow0025: 21300042
+      map5_healingShroom_idle_glow0026: 21300022
+      map5_healingShroom_idle_glow0027: 21300086
+      map5_healingShroom_idle_glow0028: 21300080
+      map5_healingShroom_idle_glow0029: 21300052
+      map5_healingShroom_idle_glow0030: 21300118
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

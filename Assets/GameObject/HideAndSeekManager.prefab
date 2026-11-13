@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1709254077376921
+GameObject:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Component:
+  - component: {fileID: 4724804207875695}
+  - component: {fileID: 114618682377417806}
+  m_Layer: 0
+  m_Name: HideAndSeekManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1730242686860875
+GameObject:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Component:
+  - component: {fileID: 4703437598541787}
+  - component: {fileID: 114884547391421755}
+  m_Layer: 0
+  m_Name: Ping Pool
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4724804207875695
+Transform:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1709254077376921}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.7815817, y: 0.83732057, z: -512.16876}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4703437598541787}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114618682377417806
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1709254077376921}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d8ebf2c19c0002e6a1d5b2c7bf64d9f, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  SpawnId: 9
+  NetId: 0
+  SpawnFlags: 0
+  sendMode: 255
+  OwnerId: 0
+  gameSettingsList: {fileID: 11400000, guid: 9473b86cad4389049b8cf4f80b585da9, type: 2}
+  deadBodyPrefab:
+  - {fileID: 114703437598541787, guid: 0a0b22522dd955c4189ed0534fd44647, type: 2}
+  - {fileID: 114703437598541787, guid: 755341792b8d5af44950a09617f2f29f, type: 2}
+  FinalHideAlertSFX: {fileID: 8300000, guid: 4eebf00509b2d574db9a3570a85fc33f, type: 3}
+  FinalHideCountdownSFX: {fileID: 8300000, guid: d58029954099a6b46b4ac057c6d0a139, type: 3}
+  TimerBarPrefab: {fileID: 114587765826080250, guid: 4fb486ecca2372f48a8066226774958a, type: 2}
+  DeathPopupPrefab: {fileID: 114587397909062814, guid: 6de215bab8a8548408661e9978e52cd3, type: 2}
+  MusicCollection: {fileID: 11400000, guid: 692dbe2c5939f33478e660f719b315dc, type: 2}
+  TaskFinishedSound: {fileID: 8300000, guid: 9e25fea6009ba9946845fa9c41b15b55, type: 3}
+  PingPool: {fileID: 114884547391421755}
+  BrokenEmergencyButton: {fileID: 21300000, guid: 079f737f44eb3e541b82d09b06503149, type: 3}
+  horseBody: {fileID: 114243736805655561, guid: 06aaaaae271fbc441a968124d1a60d26, type: 2}
+--- !u!4 &4703437598541787
+Transform:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1730242686860875}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4724804207875695}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114884547391421755
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1730242686860875}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2739f1f5e3c73fcccfe21b6fba9fca44, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  poolSize: 20
+  inactiveChildren: []
+  activeChildren: []
+  Prefab: {fileID: 114884547391421755, guid: 25eedc89465bb6c45b96468d53145882, type: 2}
+  AutoInit: 0
+  DetachOnGet: 0

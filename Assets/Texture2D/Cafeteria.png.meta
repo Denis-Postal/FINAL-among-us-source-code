@@ -1,0 +1,425 @@
+fileFormatVersion: 2
+guid: f9f54cf8da00419428889ebca75195fc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: panel_emergencyButton
+  - first:
+      213: 21300002
+    second: panel_trashlever
+  - first:
+      213: 21300004
+    second: room_cafeteria
+  - first:
+      213: 21300006
+    second: electrical_caf
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: panel_emergencyButton
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 898
+        width: 51
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -25.5, y: -22.999998}
+        - {x: -25.5, y: 22.999998}
+        - {x: 25.5, y: 22.999998}
+        - {x: 25.5, y: -22.999998}
+      physicsShape:
+      - - {x: -13.499999, y: 21}
+        - {x: -19.5, y: 19.999998}
+        - {x: -22.5, y: 14.999999}
+        - {x: -24.499998, y: 2}
+        - {x: -24.499998, y: -19}
+        - {x: 24.499998, y: -19}
+        - {x: 24.499998, y: 17}
+        - {x: 19.5, y: 21}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3afda7363747ca83e45c69949f1f83
+      internalID: 21300000
+      vertices:
+      - {x: 51, y: 0.0000019073486}
+      - {x: 0, y: 0.0000019073486}
+      - {x: 0, y: 46}
+      - {x: 51, y: 46}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_trashlever
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 975
+        width: 28
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -14, y: -22.999998}
+        - {x: -14, y: 22.999998}
+        - {x: 14, y: 22.999998}
+        - {x: 14, y: -22.999998}
+      physicsShape:
+      - - {x: -12, y: 22}
+        - {x: -14, y: 21}
+        - {x: -14, y: 12}
+        - {x: -9, y: -12}
+        - {x: 4.9999995, y: -22.999998}
+        - {x: 12, y: -22.999998}
+        - {x: 14, y: -22}
+        - {x: 14, y: 9}
+        - {x: 0, y: 22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb91a79895e4807adc0f484586e2553
+      internalID: 21300002
+      vertices:
+      - {x: 28, y: 0.0000019073486}
+      - {x: 0, y: 0.0000019073486}
+      - {x: 0, y: 46}
+      - {x: 28, y: 46}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: room_cafeteria
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 32
+        width: 986
+        height: 989
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -307, y: 494.49997}
+        - {x: 232, y: 494.49997}
+        - {x: 475.99997, y: 250.49998}
+        - {x: 479.99997, y: 129.5}
+        - {x: 492.99997, y: 129.5}
+        - {x: 492.99997, y: -52.499996}
+        - {x: 479, y: -55.5}
+        - {x: 479, y: -239.5}
+        - {x: 260, y: -458.5}
+        - {x: 72.99999, y: -460.5}
+        - {x: 71, y: -494.49997}
+        - {x: 57, y: -494.49997}
+        - {x: 53.999996, y: -482.49997}
+        - {x: -66, y: -486.49997}
+        - {x: -66, y: -494.49997}
+        - {x: -79, y: -494.49997}
+        - {x: -83, y: -458.5}
+        - {x: -264, y: -458.5}
+        - {x: -475.99997, y: -246.49998}
+        - {x: -479.99997, y: -52.499996}
+        - {x: -492, y: -52.499996}
+        - {x: -492, y: -39.5}
+        - {x: -487, y: -36.499996}
+        - {x: -492.99997, y: 56.5}
+        - {x: -492.99997, y: 129.5}
+        - {x: -475, y: 133.49998}
+        - {x: -475, y: 326.5}
+      physicsShape:
+      - - {x: 481, y: -242.5}
+        - {x: 492.99997, y: -83.5}
+        - {x: 492.99997, y: 151.5}
+        - {x: 477.99997, y: 251.49998}
+        - {x: 233, y: 494.49997}
+        - {x: -308, y: 494.49997}
+        - {x: -477, y: 327.5}
+        - {x: -492.99997, y: 179.5}
+        - {x: -492.99997, y: -53.499996}
+        - {x: -477, y: -53.499996}
+        - {x: -477.99997, y: -245.5}
+        - {x: -266.99997, y: -460.5}
+        - {x: -91, y: -494.49997}
+        - {x: 72.99999, y: -494.49997}
+        - {x: 72.99999, y: -459.49997}
+        - {x: 262, y: -459.49997}
+      - - {x: -485, y: 415.49997}
+        - {x: -492, y: 410.5}
+        - {x: -492, y: 375.5}
+        - {x: -442.99997, y: 375.5}
+        - {x: -442.99997, y: 410.5}
+        - {x: -446, y: 415.49997}
+      - - {x: -441, y: 391.5}
+        - {x: -440, y: 385.5}
+        - {x: -427, y: 385.5}
+        - {x: -393.99997, y: 407.49997}
+        - {x: -393.99997, y: 425.5}
+        - {x: -406, y: 425.5}
+        - {x: -431, y: 410.5}
+        - {x: -441, y: 403.5}
+      - - {x: -410, y: 445.5}
+        - {x: -413, y: 451.5}
+        - {x: -439, y: 459.49997}
+        - {x: -444.99997, y: 490.49997}
+        - {x: -446.99997, y: 492.49997}
+        - {x: -464, y: 492.49997}
+        - {x: -477.99997, y: 490.49997}
+        - {x: -491, y: 481.5}
+        - {x: -491, y: 465.49997}
+        - {x: -485.99997, y: 438.49997}
+        - {x: -481.99997, y: 436.49997}
+        - {x: -465, y: 428.5}
+        - {x: -454.99997, y: 423.5}
+        - {x: -444, y: 423.5}
+        - {x: -436, y: 424.5}
+        - {x: -421.99997, y: 431.5}
+        - {x: -413, y: 435.5}
+        - {x: -410, y: 437.5}
+      - - {x: -266, y: 468.5}
+        - {x: -216.99998, y: 468.5}
+        - {x: -216.99998, y: 442.49997}
+        - {x: -266, y: 442.49997}
+      - - {x: -203, y: 468.5}
+        - {x: -132, y: 468.5}
+        - {x: -132, y: 442.49997}
+        - {x: -203, y: 442.49997}
+      - - {x: -117.99999, y: 468.5}
+        - {x: -47, y: 468.5}
+        - {x: -47, y: 442.49997}
+        - {x: -117.99999, y: 442.49997}
+      - - {x: -33, y: 468.5}
+        - {x: 39.999996, y: 468.5}
+        - {x: 39.999996, y: 442.49997}
+        - {x: -33, y: 442.49997}
+      - - {x: 53.999996, y: 468.5}
+        - {x: 130, y: 468.5}
+        - {x: 130, y: 442.49997}
+        - {x: 53.999996, y: 442.49997}
+      - - {x: 145, y: 468.5}
+        - {x: 192, y: 468.5}
+        - {x: 192, y: 442.49997}
+        - {x: 145, y: 442.49997}
+      - - {x: -404.99997, y: 493.5}
+        - {x: -406.99997, y: 492.49997}
+        - {x: -406.99997, y: 476.5}
+        - {x: -402, y: 459.49997}
+        - {x: -388, y: 448.5}
+        - {x: -382, y: 448.5}
+        - {x: -379, y: 449.5}
+        - {x: -379, y: 480.49997}
+        - {x: -391.99997, y: 493.5}
+      - - {x: -362, y: 494.49997}
+        - {x: -376, y: 479.5}
+        - {x: -376, y: 454.5}
+        - {x: -374, y: 453.5}
+        - {x: -367.99997, y: 453.5}
+        - {x: -353, y: 471.49997}
+        - {x: -353, y: 494.49997}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c9c83304a24cb7b203eb0000ce988c
+      internalID: 21300004
+      vertices:
+      - {x: 969, y: 745}
+      - {x: 973, y: 624}
+      - {x: 986, y: 624}
+      - {x: 986, y: 442}
+      - {x: 972, y: 439}
+      - {x: 972, y: 255}
+      - {x: 753, y: 36}
+      - {x: 566, y: 34}
+      - {x: 564, y: 0.000030517578}
+      - {x: 550, y: 0.000030517578}
+      - {x: 547, y: 12.0000305}
+      - {x: 427, y: 8.0000305}
+      - {x: 427, y: 0.000030517578}
+      - {x: 414, y: 0.000030517578}
+      - {x: 410, y: 36}
+      - {x: 229, y: 36}
+      - {x: 17.00003, y: 248.00002}
+      - {x: 13.0000305, y: 442}
+      - {x: 1, y: 442}
+      - {x: 1, y: 455}
+      - {x: 6, y: 458}
+      - {x: 0.000030517578, y: 551}
+      - {x: 0.000030517578, y: 624}
+      - {x: 18, y: 628}
+      - {x: 18, y: 821}
+      - {x: 186, y: 989}
+      - {x: 725, y: 989}
+      indices: 17000000190000001a00000017000000180000001900000015000000160000001700000001000000170000001a00000015000000110000001400000011000000130000001400000015000000170000001100000011000000120000001300000011000000170000000400000010000000110000000e000000100000000e0000000f0000001700000001000000040000000b0000000c0000000d0000000b0000000d0000000e0000000a0000000b0000000e000000070000000a0000000e0000000a00000007000000080000000a000000080000000900000004000000050000000600000004000000060000000700000004000000070000000e00000001000000030000000400000001000000020000000300000011000000040000000e00000000000000010000001a000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electrical_caf
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 982
+        width: 21
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -10.5, y: -19.5}
+        - {x: -10.5, y: 19.5}
+        - {x: 10.5, y: 19.5}
+        - {x: 10.5, y: -19.5}
+      physicsShape:
+      - - {x: 2.4999998, y: 19.5}
+        - {x: -10.5, y: 5.5}
+        - {x: -10.5, y: -19.5}
+        - {x: -3.5, y: -19.5}
+        - {x: 10.5, y: -4.5}
+        - {x: 10.5, y: 19.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb63357a50840a3beb581fb59bc8b69
+      internalID: 21300006
+      vertices:
+      - {x: 21, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 39}
+      - {x: 21, y: 39}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      electrical_caf: 21300006
+      panel_emergencyButton: 21300000
+      panel_trashlever: 21300002
+      room_cafeteria: 21300004
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

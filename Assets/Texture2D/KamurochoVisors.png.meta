@@ -1,0 +1,643 @@
+fileFormatVersion: 2
+guid: 3d60ab903346bcf4f9c4d1b0e7b33eee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: 2025_kamurocho_stars_visor_majimaEyepatch0002
+  - first:
+      213: 21300002
+    second: 2025_kamurocho_stars_visor_majimaEyepatch0001
+  - first:
+      213: 21300004
+    second: 2025_kamurocho_stars_visor_majimaEyepatch0004
+  - first:
+      213: 21300006
+    second: 2024_kamurocho_stars_visor_zhaoGlasses0003
+  - first:
+      213: 21300008
+    second: 2024_kamurocho_stars_visor_zhaoGlasses0001
+  - first:
+      213: 21300010
+    second: 2025_kamurocho_stars_visor_majimaEyepatch0003
+  - first:
+      213: 21300012
+    second: 2024_kamurocho_stars_visor_zhaoGlasses0002
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2025_kamurocho_stars_visor_majimaEyepatch0002
+      rect:
+        serializedVersion: 2
+        x: 4.0146723
+        y: 10.026751
+        width: 95.95858
+        height: 46.946495
+      alignment: 9
+      pivot: {x: 0.5625899, y: 0.574553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -45.993965, y: 23.5}
+        - {x: 57.006035, y: 23.5}
+        - {x: 35.006035, y: -21.499998}
+        - {x: -11.993965, y: -23.499996}
+        - {x: -50.993965, y: 1.5000019}
+      physicsShape:
+      - - {x: 44.006035, y: 20.500002}
+        - {x: 28.006035, y: 22.500002}
+        - {x: -28.993965, y: 22.500002}
+        - {x: -46.99396, y: 13.500001}
+        - {x: -46.99396, y: 4.500002}
+        - {x: -21.993965, y: -15.499998}
+        - {x: -12.993965, y: -22.499998}
+        - {x: -5.993965, y: -22.499998}
+        - {x: 34.006035, y: -21.499998}
+        - {x: 47.006035, y: -2.499998}
+        - {x: 47.006035, y: 12.500002}
+      - - {x: 28.006035, y: 9.500002}
+        - {x: 37.006035, y: 9.500002}
+        - {x: 35.006035, y: 7.500002}
+        - {x: 32.006035, y: 6.500002}
+        - {x: 32.006035, y: 7.500002}
+      - - {x: -27.993965, y: 7.500002}
+        - {x: -23.993963, y: 9.500002}
+        - {x: -19.993965, y: 9.500002}
+        - {x: -18.993965, y: 10.500002}
+        - {x: -0.99396515, y: 10.500002}
+        - {x: 11.006035, y: 13.500001}
+        - {x: 6.006035, y: 14.500002}
+        - {x: 2.0060349, y: 13.500001}
+        - {x: -0.99396515, y: 12.500002}
+        - {x: -5.993965, y: 10.500002}
+        - {x: -6.993965, y: 8.500002}
+        - {x: -28.993965, y: 8.500002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ebfea9aea84575afe629bf258f60bd
+      internalID: 21300000
+      vertices:
+      - {x: 76.979294, y: -1.5267525}
+      - {x: 29.97929, y: -3.5267506}
+      - {x: -9.02071, y: 21.473248}
+      - {x: -4.02071, y: 43.473244}
+      - {x: 98.979294, y: 43.473244}
+      indices: 010000000300000004000000010000000200000003000000000000000100000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2025_kamurocho_stars_visor_majimaEyepatch0001
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 42.076122
+        width: 99.97325
+        height: 60.872562
+      alignment: 9
+      pivot: {x: 0.24006422, y: 0.88584864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -36.986626, y: 29.487597}
+        - {x: 43.013374, y: 30.487597}
+        - {x: 54.013367, y: -28.512403}
+        - {x: -14.986626, y: -31.512403}
+        - {x: -8.986626, y: 9.4875965}
+        - {x: -49.986626, y: 16.487597}
+      physicsShape:
+      - - {x: 49.013374, y: 4.4875965}
+        - {x: 45.013374, y: 17.487597}
+        - {x: 26.013374, y: 30.487597}
+        - {x: 11.013374, y: 27.487597}
+        - {x: 6.0133743, y: 24.487597}
+        - {x: -5.9866276, y: 30.487597}
+        - {x: -39.986626, y: 30.487597}
+        - {x: -39.986626, y: 15.4875965}
+        - {x: -8.986626, y: 10.4875965}
+        - {x: -0.9866257, y: 0.48759842}
+        - {x: -10.986627, y: -6.5124016}
+        - {x: -12.986626, y: -27.512403}
+        - {x: -10.986627, y: -29.5124}
+        - {x: 21.013374, y: -29.5124}
+        - {x: 31.013374, y: -28.512403}
+        - {x: 36.013374, y: -19.5124}
+        - {x: 49.013374, y: -24.512403}
+      - - {x: -49.986626, y: -27.512403}
+        - {x: -48.986626, y: -28.512403}
+        - {x: -45.986626, y: -27.512403}
+        - {x: -45.986626, y: -20.512403}
+        - {x: -48.986626, y: -16.5124}
+        - {x: -49.986626, y: -16.5124}
+      - - {x: 2.0133743, y: -14.5124035}
+        - {x: 4.0133724, y: -11.5124035}
+        - {x: 9.013374, y: -11.5124035}
+        - {x: 10.013374, y: -10.5124035}
+        - {x: 12.013374, y: -12.5124035}
+        - {x: 13.013374, y: -11.5124035}
+        - {x: 9.013374, y: -10.5124035}
+        - {x: 5.0133743, y: -14.5124035}
+        - {x: 5.0133743, y: -18.512403}
+        - {x: 4.0133724, y: -19.5124}
+        - {x: 1.0133724, y: -20.512403}
+        - {x: 2.0133743, y: -19.5124}
+      - - {x: 19.013374, y: -16.5124}
+        - {x: 17.01337, y: -13.5124035}
+        - {x: 21.013374, y: -16.5124}
+        - {x: 21.013374, y: -18.512403}
+        - {x: 19.013374, y: -19.5124}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce03988e20a843f9968d975377c329ef
+      internalID: 21300002
+      vertices:
+      - {x: 129.98662, y: -21.563719}
+      - {x: 60.986626, y: -24.563719}
+      - {x: 66.986626, y: 16.436281}
+      - {x: 25.986626, y: 23.436281}
+      - {x: 38.986626, y: 36.43628}
+      - {x: 118.986626, y: 37.43628}
+      indices: 020000000400000005000000020000000300000004000000000000000200000005000000000000000100000002000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2025_kamurocho_stars_visor_majimaEyepatch0004
+      rect:
+        serializedVersion: 2
+        x: 217.04291
+        y: 1
+        width: 82.95709
+        height: 56
+      alignment: 9
+      pivot: {x: 0.10797261, y: 0.9285714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -17.521454, y: 28}
+        - {x: 41.478546, y: 28}
+        - {x: 41.478546, y: -28}
+        - {x: -40.521454, y: -28}
+        - {x: -43.521454, y: 4.000002}
+      physicsShape:
+      - - {x: 40.47854, y: 13}
+        - {x: 41.478546, y: 17}
+        - {x: 41.478546, y: 25}
+        - {x: 38.478546, y: 28}
+        - {x: 13.478542, y: 28}
+        - {x: 9.478546, y: 27}
+        - {x: 4.478546, y: 28}
+        - {x: -14.521454, y: 28}
+        - {x: -22.521454, y: 24}
+        - {x: -32.521454, y: 11}
+        - {x: -40.521454, y: -10}
+        - {x: -40.521454, y: -21.999996}
+        - {x: -39.521454, y: -27}
+        - {x: -29.521454, y: -26}
+        - {x: -19.521454, y: -11}
+        - {x: -17.521454, y: -28}
+        - {x: 26.478542, y: -28}
+        - {x: 31.478546, y: -9}
+        - {x: 21.478542, y: 6}
+        - {x: 22.478546, y: 15}
+      - - {x: -4.521454, y: -14}
+        - {x: -3.5214539, y: -13}
+        - {x: -0.52145386, y: -13}
+        - {x: 5.478546, y: -10}
+        - {x: 13.478542, y: -10}
+        - {x: 15.478546, y: -13}
+        - {x: 15.478546, y: -17}
+        - {x: 14.478546, y: -17}
+        - {x: 14.478546, y: -14}
+        - {x: 10.478542, y: -10}
+        - {x: 5.478546, y: -10}
+        - {x: 0.47854614, y: -13}
+        - {x: -0.52145386, y: -15.999996}
+        - {x: -0.52145386, y: -18}
+        - {x: -4.521454, y: -18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1296615ff8f244c8aef4665e819461ad
+      internalID: 21300004
+      vertices:
+      - {x: 115.478546, y: -24}
+      - {x: 33.478546, y: -24}
+      - {x: 30.478546, y: 8.000002}
+      - {x: 56.478546, y: 32}
+      - {x: 115.478546, y: 32}
+      indices: 000000000300000004000000010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_kamurocho_stars_visor_zhaoGlasses0003
+      rect:
+        serializedVersion: 2
+        x: 120.02675
+        y: 25.012913
+        width: 92.97325
+        height: 29.910965
+      alignment: 9
+      pivot: {x: 0.6343034, y: -1.8057897}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -3.5133781, y: 3.031601}
+        - {x: -38.51338, y: -31.9684}
+        - {x: -55.51338, y: 18.0316}
+        - {x: 46.48662, y: 14.031601}
+        - {x: 46.48662, y: -30.9684}
+      physicsShape:
+      - - {x: -10.513376, y: 15.031601}
+        - {x: -33.513374, y: 15.031601}
+        - {x: -45.51338, y: 3.031601}
+        - {x: -45.51338, y: -12.968399}
+        - {x: -42.51338, y: -13.968399}
+        - {x: -35.51338, y: -13.968399}
+        - {x: -3.5133781, y: 3.031601}
+        - {x: -2.5133772, y: 4.0315933}
+        - {x: -2.5133772, y: 10.031601}
+      - - {x: 7.4866223, y: 14.031601}
+        - {x: 3.4866219, y: 7.031601}
+        - {x: 3.4866219, y: 3.031601}
+        - {x: 12.486622, y: 1.031601}
+        - {x: 37.48662, y: -12.968399}
+        - {x: 43.48662, y: -12.968399}
+        - {x: 46.48662, y: -11.968399}
+        - {x: 46.48662, y: 6.031601}
+        - {x: 36.48662, y: 14.031601}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645099a8f6444ce9ba79817073d5909a
+      internalID: 21300006
+      vertices:
+      - {x: 80.486626, y: 97.95548}
+      - {x: 80.486626, y: 52.955482}
+      - {x: 30.486626, y: 86.95548}
+      - {x: -4.5133743, y: 51.955482}
+      - {x: -21.513374, y: 101.95548}
+      indices: 020000000300000004000000000000000100000002000000040000000000000002000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_kamurocho_stars_visor_zhaoGlasses0001
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 59
+        width: 130.97325
+        height: 43.923878
+      alignment: 9
+      pivot: {x: 0.33594647, y: 0.93343306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -4.4866257, y: 22.038061}
+        - {x: 78.513374, y: 22.038061}
+        - {x: 56.513374, y: -21.961939}
+        - {x: -64.48662, y: -21.961939}
+        - {x: -65.486626, y: 6.038061}
+      physicsShape:
+      - - {x: 53.513374, y: -21.961939}
+        - {x: 62.513374, y: -11.961939}
+        - {x: 65.513374, y: -5.961939}
+        - {x: 65.513374, y: 8.038061}
+        - {x: 63.513374, y: 15.038061}
+        - {x: 55.513374, y: 21.038061}
+        - {x: 37.51337, y: 21.038061}
+        - {x: 30.513374, y: 20.038061}
+        - {x: 19.513374, y: 15.038061}
+        - {x: 9.513374, y: 21.038061}
+        - {x: -8.486626, y: 21.038061}
+        - {x: -20.486626, y: 11.038061}
+        - {x: -38.486626, y: 10.038061}
+        - {x: -60.486626, y: 9.038062}
+        - {x: -65.486626, y: -3.961937}
+        - {x: -65.486626, y: -5.961939}
+        - {x: -63.486626, y: -8.961939}
+        - {x: -56.486626, y: -10.961937}
+        - {x: -36.486626, y: -3.961937}
+        - {x: -9.486626, y: -21.961939}
+        - {x: 10.513374, y: -21.961939}
+        - {x: 25.513374, y: -11.961939}
+        - {x: 30.513374, y: -18.961939}
+        - {x: 46.513374, y: -21.961939}
+      - - {x: -9.486626, y: -4.961939}
+        - {x: -4.4866257, y: -7.961937}
+        - {x: -2.4866257, y: -7.961937}
+        - {x: 2.5133743, y: -10.961937}
+        - {x: 3.5133743, y: -10.961937}
+        - {x: 3.5133743, y: -9.961939}
+        - {x: -3.4866257, y: -9.961939}
+        - {x: -4.4866257, y: -8.961939}
+      - - {x: 35.513374, y: -3.961937}
+        - {x: 41.513374, y: -6.961939}
+        - {x: 43.513374, y: -6.961939}
+        - {x: 46.513374, y: -8.961939}
+        - {x: 46.513374, y: -7.961937}
+        - {x: 40.513374, y: -7.961937}
+        - {x: 40.513374, y: -6.961939}
+      - - {x: -5.4866257, y: 2.0380611}
+        - {x: -9.486626, y: 2.0380611}
+        - {x: -7.4866257, y: -1.9619389}
+        - {x: 10.513374, y: -5.961939}
+        - {x: 8.513372, y: -3.961937}
+      - - {x: -65.486626, y: 12.038061}
+        - {x: -62.486626, y: 13.038061}
+        - {x: -61.48662, y: 18.038061}
+        - {x: -64.48662, y: 21.038061}
+        - {x: -65.486626, y: 21.038061}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589b31a88cd3492097b631afc4d47841
+      internalID: 21300008
+      vertices:
+      - {x: 143.48663, y: -19.038061}
+      - {x: 22.48663, y: -19.038061}
+      - {x: 21.486626, y: 8.961939}
+      - {x: 82.486626, y: 24.961939}
+      - {x: 165.48663, y: 24.961939}
+      indices: 000000000300000004000000010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2025_kamurocho_stars_visor_majimaEyepatch0003
+      rect:
+        serializedVersion: 2
+        x: 412.0761
+        y: 54.02675
+        width: 54.92388
+        height: 43.897133
+      alignment: 9
+      pivot: {x: 0.3081335, y: -0.8662695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 4.4619474, y: 6.024685}
+        - {x: -45.53805, y: 15.024685}
+        - {x: 8.461948, y: 27.024685}
+        - {x: 27.461948, y: 0.024681091}
+        - {x: 27.461948, y: -48.975315}
+      physicsShape:
+      - - {x: 12.4619465, y: 21.024685}
+        - {x: -21.538052, y: 21.024685}
+        - {x: -26.538052, y: 19.024685}
+        - {x: -26.538052, y: 13.024677}
+        - {x: -25.538052, y: 13.024677}
+        - {x: 5.4619484, y: 4.024685}
+        - {x: 17.461948, y: -20.975315}
+        - {x: 24.461948, y: -20.975315}
+        - {x: 27.461948, y: -16.975319}
+        - {x: 27.461948, y: 3.024685}
+        - {x: 14.461948, y: 20.024677}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efb03a113ea469ba40db4b8c6b532c7
+      internalID: 21300010
+      vertices:
+      - {x: 65.461945, y: 81.94856}
+      - {x: 65.461945, y: 32.948566}
+      - {x: 42.46194, y: 87.94856}
+      - {x: -7.538059, y: 96.94856}
+      - {x: 46.46194, y: 108.94856}
+      indices: 020000000300000004000000000000000100000002000000000000000200000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_kamurocho_stars_visor_zhaoGlasses0002
+      rect:
+        serializedVersion: 2
+        x: 16.042908
+        y: 59.026752
+        width: 153.95709
+        height: 43.921932
+      alignment: 9
+      pivot: {x: 0.5128513, y: 0.29537058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -30.021454, y: -21.987717}
+        - {x: -92.021454, y: 0.012281418}
+        - {x: -66.021454, y: 22.01228}
+        - {x: 76.978546, y: 21.01228}
+        - {x: 30.978546, y: -17.987719}
+      physicsShape:
+      - - {x: 66.978546, y: 16.01228}
+        - {x: 66.978546, y: 21.01228}
+        - {x: 3.9785461, y: 21.01228}
+        - {x: -1.0214539, y: 18.01228}
+        - {x: -7.021454, y: 21.01228}
+        - {x: -26.021454, y: 21.01228}
+        - {x: -36.021454, y: 20.01228}
+        - {x: -43.021454, y: 10.01228}
+        - {x: -67.021454, y: 21.01228}
+        - {x: -76.021454, y: 14.012279}
+        - {x: -76.021454, y: 5.0122805}
+        - {x: -74.021454, y: 0.012280464}
+        - {x: -69.021454, y: 2.0122805}
+        - {x: -47.02145, y: -0.98771954}
+        - {x: -46.021454, y: -9.98772}
+        - {x: -38.02145, y: -19.98772}
+        - {x: -32.021454, y: -20.98772}
+        - {x: 12.978546, y: -20.98772}
+        - {x: 27.978546, y: -19.98772}
+        - {x: 41.978542, y: -8.98772}
+        - {x: 61.978542, y: 6.0122795}
+      - - {x: -32.021454, y: -6.9877195}
+        - {x: -32.021454, y: -4.9877195}
+        - {x: -33.021454, y: -4.9877195}
+        - {x: -24.021454, y: -8.98772}
+        - {x: -21.021452, y: -5.9877195}
+        - {x: -21.021452, y: -2.9877195}
+        - {x: -23.021454, y: 0.012280464}
+        - {x: -30.021454, y: 3.0122805}
+        - {x: -32.021454, y: 3.0122805}
+        - {x: -26.021454, y: -0.98771954}
+        - {x: -22.021454, y: -2.9877195}
+        - {x: -17.021454, y: -2.9877195}
+        - {x: -15.021454, y: -4.9877195}
+        - {x: -20.021454, y: -2.9877195}
+        - {x: -23.021454, y: -5.9877195}
+        - {x: -23.021454, y: -7.9877195}
+        - {x: -20.021454, y: -10.98772}
+        - {x: -20.021454, y: -9.98772}
+        - {x: -27.021454, y: -9.98772}
+        - {x: -27.021454, y: -8.98772}
+      - - {x: 14.978546, y: -5.9877195}
+        - {x: 11.978545, y: -3.98772}
+        - {x: 10.978546, y: -2.9877195}
+        - {x: 11.978545, y: -3.98772}
+        - {x: 13.978546, y: -3.98772}
+        - {x: 17.978546, y: 0.012280464}
+        - {x: 17.978546, y: 2.0122805}
+        - {x: 14.978546, y: 5.0122805}
+        - {x: 12.978546, y: 5.0122805}
+        - {x: 12.978546, y: 4.0122805}
+        - {x: 19.978546, y: 0.012280464}
+        - {x: 22.978546, y: 0.012280464}
+        - {x: 24.978544, y: 2.0122805}
+        - {x: 23.978546, y: 1.0122795}
+        - {x: 26.978546, y: -2.9877195}
+        - {x: 30.978546, y: -3.98772}
+        - {x: 28.978544, y: -0.98771954}
+        - {x: 26.978546, y: -0.98771954}
+        - {x: 22.978546, y: 1.0122795}
+        - {x: 17.978546, y: 1.0122795}
+        - {x: 14.978546, y: -1.9877195}
+        - {x: 14.978546, y: -2.9877195}
+        - {x: 18.978546, y: -6.9877195}
+        - {x: 21.978544, y: -7.9877195}
+        - {x: 21.978544, y: -6.9877195}
+        - {x: 19.978546, y: -6.9877195}
+        - {x: 17.978546, y: -7.9877195}
+        - {x: 17.978546, y: -6.9877195}
+      - - {x: 62.978546, y: 3.0122805}
+        - {x: 62.978546, y: -9.98772}
+        - {x: 71.978546, y: -9.98772}
+        - {x: 76.978546, y: -2.9877195}
+        - {x: 76.978546, y: 8.01228}
+        - {x: 73.978546, y: 8.01228}
+        - {x: 69.978546, y: 7.0122805}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4dc5ec7e6848469960ad93618cbafa
+      internalID: 21300012
+      vertices:
+      - {x: 151.97855, y: 51.960964}
+      - {x: 105.978546, y: 12.960967}
+      - {x: 44.978546, y: 8.960968}
+      - {x: -17.021454, y: 30.960968}
+      - {x: 8.978546, y: 52.960968}
+      indices: 020000000300000004000000010000000200000004000000000000000100000004000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      2024_kamurocho_stars_visor_zhaoGlasses0001: 21300008
+      2024_kamurocho_stars_visor_zhaoGlasses0002: 21300012
+      2024_kamurocho_stars_visor_zhaoGlasses0003: 21300006
+      2025_kamurocho_stars_visor_majimaEyepatch0001: 21300002
+      2025_kamurocho_stars_visor_majimaEyepatch0002: 21300000
+      2025_kamurocho_stars_visor_majimaEyepatch0003: 21300010
+      2025_kamurocho_stars_visor_majimaEyepatch0004: 21300004
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

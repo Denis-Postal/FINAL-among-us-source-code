@@ -1,0 +1,2789 @@
+fileFormatVersion: 2
+guid: b3788f4f8923c544486a883388da3a04
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: HnS_Tally_Kill4_0008
+  - first:
+      213: 21300002
+    second: HnS_Tally_Kill2_Slash0004
+  - first:
+      213: 21300004
+    second: HnS_Tally_Kill1_0001
+  - first:
+      213: 21300006
+    second: HnS_Tally_Kill4_Slash0001
+  - first:
+      213: 21300008
+    second: HnS_Tally_Kill2_0012
+  - first:
+      213: 21300010
+    second: HnS_Tally_Kill1_0005
+  - first:
+      213: 21300012
+    second: HnS_Tally_Kill1_0003
+  - first:
+      213: 21300014
+    second: HnS_Tally_Kill2_0011
+  - first:
+      213: 21300016
+    second: HnS_Tally_Kill2_Slash0003
+  - first:
+      213: 21300018
+    second: HnS_Tally_Kill4_0012
+  - first:
+      213: 21300020
+    second: HnS_Tally_Kill4_0009
+  - first:
+      213: 21300022
+    second: HnS_Tally_Kill1_Slash0002
+  - first:
+      213: 21300024
+    second: HnS_Tally_Kill2_0010
+  - first:
+      213: 21300026
+    second: HnS_Tally_Kill2_0002
+  - first:
+      213: 21300028
+    second: HnS_Tally_Kill2_0009
+  - first:
+      213: 21300030
+    second: HnS_Tally_Kill2_0001
+  - first:
+      213: 21300032
+    second: HnS_Tally_Kill3_0007
+  - first:
+      213: 21300034
+    second: HnS_Tally_Kill4_0003
+  - first:
+      213: 21300036
+    second: HnS_Tally_Kill3_0003
+  - first:
+      213: 21300038
+    second: HnS_Tally_Kill2_Slash0001
+  - first:
+      213: 21300040
+    second: HnS_Tally_Kill4_0007
+  - first:
+      213: 21300042
+    second: HnS_Tally_Kill4_0010
+  - first:
+      213: 21300044
+    second: HnS_Tally_Kill4_0002
+  - first:
+      213: 21300046
+    second: HnS_Tally_Kill2_0013
+  - first:
+      213: 21300048
+    second: HnS_Tally_Kill4_0005
+  - first:
+      213: 21300050
+    second: HnS_Tally_Kill1_0009
+  - first:
+      213: 21300052
+    second: HnS_Tally_Kill2_0004
+  - first:
+      213: 21300054
+    second: HnS_Tally_Kill3_0008
+  - first:
+      213: 21300056
+    second: HnS_Tally_Kill3_0001
+  - first:
+      213: 21300058
+    second: HnS_Tally_Kill1_0006
+  - first:
+      213: 21300060
+    second: HnS_Tally_Kill3_0005
+  - first:
+      213: 21300062
+    second: HnS_Tally_Kill2_Slash0002
+  - first:
+      213: 21300064
+    second: HnS_Tally_Kill3_0010
+  - first:
+      213: 21300066
+    second: HnS_Tally_Kill4_0006
+  - first:
+      213: 21300068
+    second: HnS_Tally_Kill3_Slash0001
+  - first:
+      213: 21300070
+    second: HnS_Tally_Alive
+  - first:
+      213: 21300072
+    second: HnS_Tally_Kill1_0004
+  - first:
+      213: 21300074
+    second: HnS_Tally_Kill4_Slash0002
+  - first:
+      213: 21300076
+    second: HnS_Tally_Kill1_0007
+  - first:
+      213: 21300078
+    second: HnS_Tally_Kill2_0006
+  - first:
+      213: 21300080
+    second: HnS_Tally_Kill1_Slash0001
+  - first:
+      213: 21300082
+    second: HnS_Tally_Kill3_0006
+  - first:
+      213: 21300084
+    second: HnS_Tally_Kill1_0002
+  - first:
+      213: 21300086
+    second: HnS_Tally_Kill2_0008
+  - first:
+      213: 21300088
+    second: HnS_Tally_Kill2_0003
+  - first:
+      213: 21300090
+    second: HnS_Tally_Kill3_0004
+  - first:
+      213: 21300092
+    second: HnS_Tally_Kill3_0002
+  - first:
+      213: 21300094
+    second: HnS_Tally_Kill3_0009
+  - first:
+      213: 21300096
+    second: HnS_Tally_Kill4_0011
+  - first:
+      213: 21300098
+    second: HnS_Tally_Kill1_0008
+  - first:
+      213: 21300100
+    second: HnS_Tally_Kill4_0004
+  - first:
+      213: 21300102
+    second: HnS_Tally_Kill2_0005
+  - first:
+      213: 21300104
+    second: HnS_Tally_Kill3_Slash0002
+  - first:
+      213: 21300106
+    second: HnS_Tally_Kill1_0010
+  - first:
+      213: 21300108
+    second: HnS_Tally_Kill2_0007
+  - first:
+      213: 21300110
+    second: HnS_Tally_Kill4_0001
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HnS_Tally_Kill4_0008
+      rect:
+        serializedVersion: 2
+        x: 141.07613
+        y: 210.07613
+        width: 57.897125
+        height: 71.84776
+      alignment: 9
+      pivot: {x: 0.49093756, y: 0.52087736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -17.024689, y: 35.999992}
+        - {x: 31.975311, y: 35.999992}
+        - {x: 22.975311, y: -33.000008}
+        - {x: -17.024689, y: -38.000008}
+        - {x: -35.02469, y: -1.0000074}
+      physicsShape:
+      - - {x: 17.975311, y: 34.99999}
+        - {x: -10.024689, y: 34.99999}
+        - {x: -18.024689, y: 32.999992}
+        - {x: -28.024689, y: 20.999992}
+        - {x: -28.024689, y: -24.000008}
+        - {x: -14.024688, y: -35.000004}
+        - {x: 10.97531, y: -35.000004}
+        - {x: 18.975311, y: -34.000008}
+        - {x: 27.975311, y: -21.000008}
+        - {x: 27.975311, y: 26.999992}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf529b4b5dba451fa89b7f8f41c572c1
+      internalID: 21300000
+      vertices:
+      - {x: 52.448563, y: 1.4238815}
+      - {x: 12.448563, y: -3.5761185}
+      - {x: -5.5514374, y: 33.42388}
+      - {x: 12.448563, y: 70.42388}
+      - {x: 61.448563, y: 70.42388}
+      indices: 000000000300000004000000000000000200000003000000000000000100000002000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill2_Slash0004
+      rect:
+        serializedVersion: 2
+        x: 228.01291
+        y: 244.02675
+        width: 94.98709
+        height: 64.9465
+      alignment: 9
+      pivot: {x: 0.5209876, y: 0.45380813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -41.50645, y: 8.499999}
+        - {x: -51.506447, y: 15.5}
+        - {x: 20.49355, y: 20.5}
+        - {x: 47.49355, y: 34.5}
+        - {x: 47.49355, y: -21.5}
+        - {x: -41.50645, y: -32.5}
+      physicsShape:
+      - - {x: 43.49355, y: -22.5}
+        - {x: 44.49355, y: -20.5}
+        - {x: 44.49355, y: -15.5}
+        - {x: 27.49355, y: -4.5}
+        - {x: 14.493549, y: 1.5}
+        - {x: 34.49355, y: 17.5}
+        - {x: 44.49355, y: 26.499998}
+        - {x: 44.49355, y: 29.5}
+        - {x: 42.49355, y: 30.499996}
+        - {x: 40.49355, y: 30.499996}
+        - {x: 12.493549, y: 15.5}
+        - {x: -2.5064507, y: 6.5}
+        - {x: -35.50645, y: 14.5}
+        - {x: -41.50645, y: 15.5}
+        - {x: -43.50645, y: 13.5}
+        - {x: -43.50645, y: 11.5}
+        - {x: -18.50645, y: -3.5}
+        - {x: -25.50645, y: -10.5}
+        - {x: -42.50645, y: -26.5}
+        - {x: -41.50645, y: -31.5}
+        - {x: -34.506447, y: -31.5}
+        - {x: -27.506449, y: -29.499998}
+        - {x: -0.5064504, y: -11.5}
+        - {x: 20.49355, y: -20.5}
+        - {x: 29.49355, y: -21.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490cf3c2ed3d40c8b542f0daae94d6fa
+      internalID: 21300002
+      vertices:
+      - {x: 92.993546, y: 13.973251}
+      - {x: 3.9935455, y: 2.9732533}
+      - {x: 3.9935455, y: 43.97325}
+      - {x: -6.0064507, y: 50.97325}
+      - {x: 65.993546, y: 55.97325}
+      - {x: 92.993546, y: 69.97325}
+      indices: 020000000300000004000000010000000200000004000000000000000400000005000000000000000100000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill1_0001
+      rect:
+        serializedVersion: 2
+        x: 141.07613
+        y: 210.07613
+        width: 57.897125
+        height: 71.84776
+      alignment: 9
+      pivot: {x: 0.54275364, y: 0.548714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -17.024687, y: 35.999992}
+        - {x: 31.975311, y: 35.999992}
+        - {x: 22.975313, y: -33.000004}
+        - {x: -17.024687, y: -38.000008}
+        - {x: -35.02469, y: -1.0000076}
+      physicsShape:
+      - - {x: 17.975313, y: 34.999992}
+        - {x: -10.024687, y: 34.999992}
+        - {x: -18.024687, y: 32.999992}
+        - {x: -28.024687, y: 20.999992}
+        - {x: -28.024687, y: -24.000008}
+        - {x: -14.024687, y: -35.000008}
+        - {x: 10.975313, y: -35.000008}
+        - {x: 18.975313, y: -34.000008}
+        - {x: 27.975313, y: -21.000006}
+        - {x: 27.975313, y: 26.999992}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2112bf8c3f04130b71124ca24d0bba0
+      internalID: 21300004
+      vertices:
+      - {x: 49.448563, y: -0.57611465}
+      - {x: 9.448563, y: -5.5761185}
+      - {x: -8.551437, y: 31.423882}
+      - {x: 9.448563, y: 68.42388}
+      - {x: 58.448563, y: 68.42388}
+      indices: 000000000300000004000000000000000200000003000000000000000100000002000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill4_Slash0001
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 389
+        width: 77
+        height: 13
+      alignment: 9
+      pivot: {x: 0.83766234, y: 0.7307692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 12.500001, y: 6.5}
+        - {x: 38.5, y: -6.5}
+        - {x: -38.5, y: -6.5}
+      physicsShape:
+      - - {x: -4.5, y: 3.5}
+        - {x: -17.5, y: -2.5}
+        - {x: -17.5, y: -5.5}
+        - {x: -16.5, y: -6.5}
+        - {x: 7.5, y: -6.5}
+        - {x: 18.5, y: -2.5}
+        - {x: 18.5, y: 1.5}
+        - {x: 17.5, y: 3.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a18af7d0d0c41d89352f11a65d47c4e
+      internalID: 21300006
+      vertices:
+      - {x: 51, y: -3}
+      - {x: -26, y: -3}
+      - {x: 25, y: 10}
+      indices: 000000000100000002000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill2_0012
+      rect:
+        serializedVersion: 2
+        x: 2.0761204
+        y: 17.07612
+        width: 57.872562
+        height: 72.84776
+      alignment: 9
+      pivot: {x: 0.50842535, y: 0.52745444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 30.987597, y: 29.499996}
+        - {x: 23.987597, y: -29.500004}
+        - {x: -6.0124035, y: -44.500004}
+        - {x: -28.012403, y: -20.500004}
+        - {x: -29.012402, y: 17.499996}
+        - {x: -5.0124035, y: 39.499996}
+      physicsShape:
+      - - {x: 15.9875965, y: 33.499992}
+        - {x: 11.987596, y: 35.499996}
+        - {x: -5.0124035, y: 35.499996}
+        - {x: -10.0124035, y: 34.499992}
+        - {x: -28.012403, y: 16.499996}
+        - {x: -28.012403, y: -15.500004}
+        - {x: -15.0124035, y: -35.5}
+        - {x: 19.987597, y: -35.5}
+        - {x: 23.987597, y: -27.500004}
+        - {x: 27.987597, y: -0.5000038}
+        - {x: 27.987597, y: 20.499996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31917e94812a4f45beeee99ebfaaad4c
+      internalID: 21300008
+      vertices:
+      - {x: 59.43628, y: 63.923885}
+      - {x: 52.43628, y: 4.9238853}
+      - {x: 22.436281, y: -10.076115}
+      - {x: 0.4362812, y: 13.923885}
+      - {x: -0.5637169, y: 51.923885}
+      - {x: 23.436281, y: 73.92389}
+      indices: 000000000100000004000000010000000300000004000000010000000200000003000000000000000400000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill1_0005
+      rect:
+        serializedVersion: 2
+        x: 2.0761204
+        y: 17.07612
+        width: 57.872562
+        height: 72.84776
+      alignment: 9
+      pivot: {x: 0.4738667, y: 0.47254547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 30.987598, y: 29.5}
+        - {x: 23.987598, y: -29.5}
+        - {x: -6.0124016, y: -44.5}
+        - {x: -28.0124, y: -20.5}
+        - {x: -29.012402, y: 17.5}
+        - {x: -5.0124016, y: 39.5}
+      physicsShape:
+      - - {x: 15.987598, y: 33.5}
+        - {x: 11.987597, y: 35.5}
+        - {x: -5.0124016, y: 35.5}
+        - {x: -10.012402, y: 34.499996}
+        - {x: -28.0124, y: 16.5}
+        - {x: -28.0124, y: -15.499999}
+        - {x: -15.012401, y: -35.499996}
+        - {x: 19.987597, y: -35.499996}
+        - {x: 23.987598, y: -27.5}
+        - {x: 27.987597, y: -0.5}
+        - {x: 27.987597, y: 20.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3ab684732b415aba1c576ba25cc585
+      internalID: 21300010
+      vertices:
+      - {x: 61.43628, y: 67.92388}
+      - {x: 54.43628, y: 8.923882}
+      - {x: 24.436281, y: -6.0761185}
+      - {x: 2.436283, y: 17.923882}
+      - {x: 1.4362812, y: 55.92388}
+      - {x: 25.436281, y: 77.92388}
+      indices: 000000000100000004000000010000000300000004000000010000000200000003000000000000000400000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill1_0003
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 315
+        width: 55
+        height: 71
+      alignment: 9
+      pivot: {x: 0.42727274, y: 0.42957747}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -27.5, y: -35.5}
+        - {x: -27.5, y: 35.5}
+        - {x: 27.5, y: 35.5}
+        - {x: 27.5, y: -35.5}
+      physicsShape:
+      - - {x: 27.5, y: 24.499998}
+        - {x: 11.5, y: 35.5}
+        - {x: -8.5, y: 35.5}
+        - {x: -17.5, y: 28.499996}
+        - {x: -27.5, y: 16.499998}
+        - {x: -27.5, y: -19.5}
+        - {x: -25.499998, y: -21.5}
+        - {x: -14.5, y: -35.5}
+        - {x: 7.499999, y: -35.5}
+        - {x: 18.5, y: -34.5}
+        - {x: 26.5, y: -23.5}
+        - {x: 25.499998, y: 5.5}
+        - {x: 27.5, y: 8.499999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0018ecd02c924b9c86a4d723b19465bd
+      internalID: 21300012
+      vertices:
+      - {x: 59, y: 5}
+      - {x: 4, y: 5}
+      - {x: 4, y: 76}
+      - {x: 59, y: 76}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill2_0011
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 315
+        width: 55
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5181818, y: 0.5140845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -27.5, y: -35.499996}
+        - {x: -27.5, y: 35.5}
+        - {x: 27.499998, y: 35.5}
+        - {x: 27.499998, y: -35.499996}
+      physicsShape:
+      - - {x: 27.499998, y: 24.5}
+        - {x: 11.5, y: 35.5}
+        - {x: -8.5, y: 35.5}
+        - {x: -17.5, y: 28.5}
+        - {x: -27.5, y: 16.5}
+        - {x: -27.5, y: -19.5}
+        - {x: -25.499998, y: -21.5}
+        - {x: -14.5, y: -35.499996}
+        - {x: 7.5, y: -35.499996}
+        - {x: 18.5, y: -34.5}
+        - {x: 26.5, y: -23.499998}
+        - {x: 25.499998, y: 5.5}
+        - {x: 27.499998, y: 8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241515859cfd40cd8a330834315c82d4
+      internalID: 21300014
+      vertices:
+      - {x: 54, y: -0.9999962}
+      - {x: -1, y: -0.9999962}
+      - {x: -1, y: 70}
+      - {x: 54, y: 70}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill2_Slash0003
+      rect:
+        serializedVersion: 2
+        x: 234.01291
+        y: 330.0761
+        width: 94.98709
+        height: 55.910965
+      alignment: 9
+      pivot: {x: 0.5209876, y: 0.34740752}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 7.4935493, y: -23.031593}
+        - {x: -52.50645, y: 8.968407}
+        - {x: 47.49355, y: 27.968403}
+        - {x: 47.49355, y: -31.031593}
+      physicsShape:
+      - - {x: 14.493549, y: -5.0315933}
+        - {x: -28.50645, y: 7.9684067}
+        - {x: -40.50645, y: 9.968407}
+        - {x: -42.50645, y: 9.968407}
+        - {x: -43.50645, y: 6.9684067}
+        - {x: -41.50645, y: 3.9684067}
+        - {x: 2.4935493, y: -18.031593}
+        - {x: 15.493548, y: -23.031593}
+        - {x: 28.493547, y: -27.031593}
+        - {x: 43.49355, y: -27.031593}
+        - {x: 44.49355, y: -25.031593}
+        - {x: 44.49355, y: -21.031593}
+        - {x: 40.49355, y: -17.031593}
+      - - {x: 41.49355, y: 24.968403}
+        - {x: 35.493546, y: 24.968403}
+        - {x: 10.493549, y: 6.9684067}
+        - {x: 10.493549, y: -0.031593323}
+        - {x: 18.49355, y: -0.031593323}
+        - {x: 27.49355, y: 2.9684057}
+        - {x: 44.49355, y: 20.968405}
+        - {x: 44.49355, y: 23.968407}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1168cc0ca23487ea58cc708a275c1d9
+      internalID: 21300016
+      vertices:
+      - {x: 92.993546, y: 5.4554825}
+      - {x: 52.993546, y: 13.4554825}
+      - {x: -7.0064545, y: 45.455482}
+      - {x: 92.993546, y: 64.455475}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill4_0012
+      rect:
+        serializedVersion: 2
+        x: 141.07613
+        y: 210.07613
+        width: 57.897125
+        height: 71.84776
+      alignment: 9
+      pivot: {x: 0.5082096, y: 0.52087736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -17.024689, y: 35.999992}
+        - {x: 31.975311, y: 35.999992}
+        - {x: 22.975311, y: -33.000008}
+        - {x: -17.024689, y: -38.000008}
+        - {x: -35.02469, y: -1.0000074}
+      physicsShape:
+      - - {x: 17.975311, y: 34.99999}
+        - {x: -10.024689, y: 34.99999}
+        - {x: -18.024689, y: 32.999992}
+        - {x: -28.024689, y: 20.999992}
+        - {x: -28.024689, y: -24.000008}
+        - {x: -14.024689, y: -35.000004}
+        - {x: 10.975311, y: -35.000004}
+        - {x: 18.975311, y: -34.000008}
+        - {x: 27.975311, y: -21.000008}
+        - {x: 27.975311, y: 26.999992}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409e83ffb6b34b3e801a05effa02357c
+      internalID: 21300018
+      vertices:
+      - {x: 51.448563, y: 1.4238815}
+      - {x: 11.448563, y: -3.5761185}
+      - {x: -6.5514374, y: 33.42388}
+      - {x: 11.448563, y: 70.42388}
+      - {x: 60.448563, y: 70.42388}
+      indices: 000000000300000004000000000000000200000003000000000000000100000002000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill4_0009
+      rect:
+        serializedVersion: 2
+        x: 73.07612
+        y: 109.02675
+        width: 57.897125
+        height: 71.89713
+      alignment: 9
+      pivot: {x: 0.5254817, y: 0.5212065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -32.02468, y: -9.975314}
+        - {x: -26.024683, y: 27.024685}
+        - {x: 1.975317, y: 39.024685}
+        - {x: 30.975315, y: 25.024685}
+        - {x: 22.975315, y: -30.975315}
+        - {x: -12.024682, y: -41.975315}
+      physicsShape:
+      - - {x: 27.975315, y: 21.024685}
+        - {x: 15.975317, y: 33.024685}
+        - {x: 9.975317, y: 35.02468}
+        - {x: -11.024683, y: 35.02468}
+        - {x: -21.024683, y: 23.024683}
+        - {x: -28.024681, y: 18.024685}
+        - {x: -28.024681, y: -19.975313}
+        - {x: -17.024683, y: -35.975315}
+        - {x: 7.975317, y: -35.975315}
+        - {x: 21.975317, y: -31.975311}
+        - {x: 25.975315, y: -13.975315}
+        - {x: 27.975315, y: 7.024685}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b37ff5f01e4bcea90f0733c9db16e9
+      internalID: 21300020
+      vertices:
+      - {x: 58.448563, y: 59.448566}
+      - {x: 50.448563, y: 3.4485664}
+      - {x: 15.448564, y: -7.5514336}
+      - {x: -4.5514336, y: 24.448566}
+      - {x: 1.4485626, y: 61.448566}
+      - {x: 29.448563, y: 73.44856}
+      indices: 030000000400000005000000000000000100000003000000010000000200000003000000000000000300000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill1_Slash0002
+      rect:
+        serializedVersion: 2
+        x: 12.07612
+        y: 281.0761
+        width: 68.8324
+        height: 78.914215
+      alignment: 9
+      pivot: {x: 0.48558357, y: 0.46156308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -7.492317, y: 6.4667816}
+        - {x: 54.507683, y: 63.46678}
+        - {x: -16.492317, y: -41.53322}
+        - {x: -44.492317, y: -38.53322}
+      physicsShape:
+      - - {x: 28.50768, y: 26.46678}
+        - {x: 33.507683, y: 34.46678}
+        - {x: 33.507683, y: 36.46678}
+        - {x: 32.50768, y: 37.46678}
+        - {x: 27.507683, y: 37.46678}
+        - {x: -25.492315, y: -8.533218}
+        - {x: -33.492317, y: -28.533218}
+        - {x: -33.492317, y: -39.533215}
+        - {x: -26.492317, y: -39.533215}
+        - {x: -10.492317, y: -26.533218}
+        - {x: 16.507683, y: 9.466782}
+        - {x: 26.507683, y: 24.466782}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f93df47212c4e4b898c6ea66a9722bd
+      internalID: 21300022
+      vertices:
+      - {x: 18.916199, y: 0.95710754}
+      - {x: -9.083801, y: 3.9571075}
+      - {x: 27.916199, y: 48.957108}
+      - {x: 89.9162, y: 105.95711}
+      indices: 000000000200000003000000000000000100000002000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill2_0010
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 315
+        width: 55
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5181818, y: 0.5422535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -27.5, y: -35.5}
+        - {x: -27.5, y: 35.5}
+        - {x: 27.499998, y: 35.5}
+        - {x: 27.499998, y: -35.5}
+      physicsShape:
+      - - {x: 27.499998, y: 24.499998}
+        - {x: 11.5, y: 35.5}
+        - {x: -8.5, y: 35.5}
+        - {x: -17.5, y: 28.5}
+        - {x: -27.5, y: 16.5}
+        - {x: -27.5, y: -19.5}
+        - {x: -25.499998, y: -21.499998}
+        - {x: -14.5, y: -35.5}
+        - {x: 7.5, y: -35.5}
+        - {x: 18.5, y: -34.5}
+        - {x: 26.5, y: -23.499998}
+        - {x: 25.499998, y: 5.5}
+        - {x: 27.499998, y: 8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: da56b71130204079974df470abc7cdb7
+      internalID: 21300024
+      vertices:
+      - {x: 54, y: -3}
+      - {x: -1, y: -3}
+      - {x: -1, y: 68}
+      - {x: 54, y: 68}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill2_0002
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 134
+        width: 56
+        height: 70
+      alignment: 9
+      pivot: {x: 0.38392857, y: 0.5642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -27.999998, y: -35}
+        - {x: -27.999998, y: 35}
+        - {x: 28, y: 35}
+        - {x: 28, y: -35}
+      physicsShape:
+      - - {x: 28, y: 20}
+        - {x: 22.999998, y: 27}
+        - {x: 16, y: 35}
+        - {x: -9, y: 35}
+        - {x: -16, y: 28}
+        - {x: -27.999998, y: 18}
+        - {x: -27.999998, y: -18}
+        - {x: -15, y: -35}
+        - {x: 4.999999, y: -35}
+        - {x: 19, y: -33}
+        - {x: 24, y: -30}
+        - {x: 26.999996, y: -6.999999}
+        - {x: 28, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffc026ee2a340bd878004be998d844a
+      internalID: 21300026
+      vertices:
+      - {x: 62.5, y: -4.5}
+      - {x: 6.500002, y: -4.5}
+      - {x: 6.500002, y: 65.5}
+      - {x: 62.5, y: 65.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill2_0009
+      rect:
+        serializedVersion: 2
+        x: 101.07612
+        y: 433.02676
+        width: 57.887596
+        height: 72.89713
+      alignment: 9
+      pivot: {x: 0.4910185, y: 0.5140564}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -27.019915, y: -21.47533}
+        - {x: -34.019913, y: 27.524668}
+        - {x: 6.980083, y: 40.52467}
+        - {x: 29.980083, y: 21.52467}
+        - {x: 22.980083, y: -29.47533}
+        - {x: -1.0199165, y: -47.47533}
+      physicsShape:
+      - - {x: 24.980083, y: 24.52467}
+        - {x: 11.980083, y: 35.52467}
+        - {x: -7.0199165, y: 35.52467}
+        - {x: -11.019917, y: 34.524666}
+        - {x: -28.019917, y: 13.52467}
+        - {x: -28.019917, y: -19.47533}
+        - {x: -19.019917, y: -35.475327}
+        - {x: 19.980083, y: -35.475327}
+        - {x: 23.980082, y: -30.47533}
+        - {x: 27.980083, y: -2.4753304}
+        - {x: 27.980083, y: 21.52467}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1861a7d544f432b9826cef7b8daf840
+      internalID: 21300028
+      vertices:
+      - {x: 59.443798, y: 56.948566}
+      - {x: 52.443798, y: 5.9485664}
+      - {x: 28.443798, y: -12.051434}
+      - {x: 2.4438, y: 13.948566}
+      - {x: -4.556198, y: 62.948563}
+      - {x: 36.443798, y: 75.94856}
+      indices: 030000000400000005000000000000000100000003000000010000000200000003000000000000000300000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill2_0001
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 134
+        width: 56
+        height: 70
+      alignment: 9
+      pivot: {x: 0.49107143, y: 0.53571427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -28, y: -35}
+        - {x: -28, y: 35}
+        - {x: 28, y: 35}
+        - {x: 28, y: -35}
+      physicsShape:
+      - - {x: 28, y: 23}
+        - {x: 15, y: 35}
+        - {x: -11, y: 35}
+        - {x: -24, y: 19}
+        - {x: -28, y: 13}
+        - {x: -28, y: -16}
+        - {x: -19, y: -33.999996}
+        - {x: -13.999999, y: -35}
+        - {x: 10, y: -35}
+        - {x: 19, y: -33}
+        - {x: 23, y: -29}
+        - {x: 28, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9949d637e441939effdc2e92f4e32b
+      internalID: 21300030
+      vertices:
+      - {x: 56.5, y: -2.5}
+      - {x: 0.5, y: -2.5}
+      - {x: 0.5, y: 67.5}
+      - {x: 56.5, y: 67.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill3_0007
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 315
+        width: 55
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5181818, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -27.5, y: -35.5}
+        - {x: -27.5, y: 35.5}
+        - {x: 27.499998, y: 35.5}
+        - {x: 27.499998, y: -35.5}
+      physicsShape:
+      - - {x: 27.499998, y: 24.499998}
+        - {x: 11.5, y: 35.5}
+        - {x: -8.5, y: 35.5}
+        - {x: -17.5, y: 28.5}
+        - {x: -27.5, y: 16.5}
+        - {x: -27.5, y: -19.5}
+        - {x: -25.499998, y: -21.499998}
+        - {x: -14.5, y: -35.5}
+        - {x: 7.5, y: -35.5}
+        - {x: 18.5, y: -34.5}
+        - {x: 26.5, y: -23.5}
+        - {x: 25.499998, y: 5.5}
+        - {x: 27.499998, y: 8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8e31c032414ed7a1404f6b9e01e473
+      internalID: 21300032
+      vertices:
+      - {x: 54, y: 0}
+      - {x: -1, y: 0}
+      - {x: -1, y: 71}
+      - {x: 54, y: 71}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill4_0003
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 30
+        width: 55
+        height: 70
+      alignment: 9
+      pivot: {x: 0.6090909, y: 0.5214286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -27.499996, y: -34.999996}
+        - {x: -27.499996, y: 34.999996}
+        - {x: 27.499998, y: 34.999996}
+        - {x: 27.499998, y: -34.999996}
+      physicsShape:
+      - - {x: 27.499998, y: 21}
+        - {x: 17.5, y: 30.999998}
+        - {x: 10.5, y: 34.999996}
+        - {x: -9.5, y: 34.999996}
+        - {x: -27.499996, y: 16}
+        - {x: -27.499996, y: -21}
+        - {x: -19.5, y: -34}
+        - {x: -16.5, y: -34.999996}
+        - {x: 12.5, y: -34.999996}
+        - {x: 16.5, y: -34}
+        - {x: 23.5, y: -31}
+        - {x: 27.499998, y: -5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd241071bc442ff89812784c9f79338
+      internalID: 21300034
+      vertices:
+      - {x: 49, y: -1.4999962}
+      - {x: -5.999996, y: -1.4999962}
+      - {x: -5.999996, y: 68.5}
+      - {x: 49, y: 68.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill3_0003
+      rect:
+        serializedVersion: 2
+        x: 7.0761204
+        y: 98.02675
+        width: 57.847755
+        height: 71.9465
+      alignment: 9
+      pivot: {x: 0.54321694, y: 0.43745354}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 30.000004, y: 19}
+        - {x: 23.000004, y: -36}
+        - {x: -23.999994, y: -37}
+        - {x: -33.999992, y: 10}
+        - {x: -0.9999962, y: 50}
+      physicsShape:
+      - - {x: 28.000004, y: 24}
+        - {x: 21.000004, y: 35}
+        - {x: -9.999996, y: 35}
+        - {x: -27.999996, y: 18}
+        - {x: -27.999996, y: -22}
+        - {x: -13.999996, y: -36}
+        - {x: 4.000004, y: -36}
+        - {x: 18.000004, y: -34}
+        - {x: 25.000004, y: -25}
+        - {x: 28.000004, y: -17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f636f253fae94a01ba05332a73095978
+      internalID: 21300036
+      vertices:
+      - {x: 56.423878, y: 59.47325}
+      - {x: 49.423878, y: 4.4732513}
+      - {x: 2.4238796, y: 3.4732513}
+      - {x: -7.5761185, y: 50.47325}
+      - {x: 25.423878, y: 90.47325}
+      indices: 000000000100000003000000010000000200000003000000000000000300000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill2_Slash0001
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 286
+        width: 59
+        height: 18
+      alignment: 9
+      pivot: {x: 0.94067794, y: -0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 3.5, y: -9}
+        - {x: -29.5, y: 8}
+        - {x: -12.5, y: 9}
+        - {x: 29.5, y: -8}
+      physicsShape:
+      - - {x: -15.5, y: 8}
+        - {x: -18.5, y: 8}
+        - {x: -19.5, y: 7}
+        - {x: -19.5, y: 5}
+        - {x: -15.5, y: 0}
+        - {x: 0.5, y: -8}
+        - {x: 12.500001, y: -8}
+        - {x: 14.500001, y: -7}
+        - {x: 14.500001, y: -2}
+        - {x: -1.5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b742b8e393fe414f905299f59aa45e92
+      internalID: 21300038
+      vertices:
+      - {x: 33, y: 11.5}
+      - {x: 7, y: 10.5}
+      - {x: -26, y: 27.5}
+      - {x: -9, y: 28.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill4_0007
+      rect:
+        serializedVersion: 2
+        x: 107.07612
+        y: 310.02676
+        width: 57.872566
+        height: 71.9465
+      alignment: 9
+      pivot: {x: 0.54298407, y: 0.52084863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -31.012398, y: -12.000014}
+        - {x: -26.012402, y: 31.999985}
+        - {x: 9.987598, y: 38.999985}
+        - {x: 29.987598, y: 18.999985}
+        - {x: 22.987598, y: -34.000015}
+        - {x: -14.012402, y: -38.000015}
+      physicsShape:
+      - - {x: 27.987598, y: 24.999985}
+        - {x: 15.987597, y: 34.99998}
+        - {x: -11.012401, y: 34.99998}
+        - {x: -28.012402, y: 18.999985}
+        - {x: -28.012402, y: -15.000015}
+        - {x: -24.0124, y: -21.000015}
+        - {x: -16.012402, y: -35.00001}
+        - {x: 19.987598, y: -35.00001}
+        - {x: 23.987597, y: -26.000015}
+        - {x: 27.987598, y: -14.000015}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585a8db252e64138b785226aad681218
+      internalID: 21300040
+      vertices:
+      - {x: 56.436283, y: 53.47325}
+      - {x: 49.436283, y: 0.47325134}
+      - {x: 12.436283, y: -3.5267487}
+      - {x: -4.563713, y: 22.473251}
+      - {x: 0.4362831, y: 66.47325}
+      - {x: 36.436283, y: 73.47325}
+      indices: 030000000400000005000000000000000100000003000000010000000200000003000000000000000300000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill4_0010
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 134
+        width: 56
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5089286, y: 0.5214286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -28, y: -34.999996}
+        - {x: -28, y: 34.999996}
+        - {x: 28, y: 34.999996}
+        - {x: 28, y: -34.999996}
+      physicsShape:
+      - - {x: 28.000002, y: 20}
+        - {x: 23.000002, y: 27}
+        - {x: 16.000002, y: 34.999996}
+        - {x: -8.999998, y: 34.999996}
+        - {x: -15.999998, y: 27.999998}
+        - {x: -27.999998, y: 18}
+        - {x: -27.999998, y: -18}
+        - {x: -14.999998, y: -34.999996}
+        - {x: 5.000002, y: -34.999996}
+        - {x: 19.000002, y: -33}
+        - {x: 24.000002, y: -30}
+        - {x: 27, y: -7}
+        - {x: 28.000002, y: 3.9999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a03b0c6d01345ffbd2bfa7db45d3630
+      internalID: 21300042
+      vertices:
+      - {x: 55.5, y: -1.4999962}
+      - {x: -0.5000019, y: -1.4999962}
+      - {x: -0.5000019, y: 68.5}
+      - {x: 55.5, y: 68.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill4_0002
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 30
+        width: 55
+        height: 70
+      alignment: 9
+      pivot: {x: 0.3909091, y: 0.50714284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -27.499998, y: -35}
+        - {x: -27.499998, y: 35}
+        - {x: 27.499996, y: 35}
+        - {x: 27.499996, y: -35}
+      physicsShape:
+      - - {x: 27.499996, y: 21}
+        - {x: 17.5, y: 31}
+        - {x: 10.5, y: 35}
+        - {x: -9.5, y: 35}
+        - {x: -27.499998, y: 16}
+        - {x: -27.499998, y: -20.999998}
+        - {x: -19.5, y: -34}
+        - {x: -16.5, y: -35}
+        - {x: 12.5, y: -35}
+        - {x: 16.5, y: -34}
+        - {x: 23.499998, y: -31}
+        - {x: 27.499996, y: -5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: af467dbc9f574281b32a34389cad5c42
+      internalID: 21300044
+      vertices:
+      - {x: 60.999996, y: -0.5}
+      - {x: 6.000002, y: -0.5}
+      - {x: 6.000002, y: 69.5}
+      - {x: 60.999996, y: 69.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill2_0013
+      rect:
+        serializedVersion: 2
+        x: 7.0761204
+        y: 98.02675
+        width: 57.847755
+        height: 71.9465
+      alignment: 9
+      pivot: {x: 0.5086434, y: 0.5208488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 29.999998, y: 19}
+        - {x: 23, y: -36}
+        - {x: -23.999998, y: -37}
+        - {x: -34, y: 10}
+        - {x: -1, y: 50}
+      physicsShape:
+      - - {x: 28, y: 24}
+        - {x: 21, y: 34.999996}
+        - {x: -10, y: 34.999996}
+        - {x: -28, y: 18}
+        - {x: -28, y: -22}
+        - {x: -14, y: -36}
+        - {x: 4, y: -36}
+        - {x: 18, y: -34}
+        - {x: 24.999998, y: -24.999998}
+        - {x: 28, y: -17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0282b50027bd455aaff677ee112abfde
+      internalID: 21300046
+      vertices:
+      - {x: 58.423874, y: 53.47325}
+      - {x: 51.423878, y: -1.5267487}
+      - {x: 4.4238796, y: -2.5267487}
+      - {x: -5.5761223, y: 44.47325}
+      - {x: 27.423878, y: 84.47325}
+      indices: 000000000100000003000000010000000200000003000000000000000300000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill4_0005
+      rect:
+        serializedVersion: 2
+        x: 7.0761204
+        y: 98.02675
+        width: 57.847755
+        height: 71.9465
+      alignment: 9
+      pivot: {x: 0.5605037, y: 0.5208488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 30.000002, y: 19}
+        - {x: 23.000004, y: -36}
+        - {x: -23.999996, y: -37}
+        - {x: -33.999996, y: 10}
+        - {x: -0.9999962, y: 50}
+      physicsShape:
+      - - {x: 28.000002, y: 24}
+        - {x: 21.000004, y: 34.999996}
+        - {x: -9.999995, y: 34.999996}
+        - {x: -27.999996, y: 18}
+        - {x: -27.999996, y: -22}
+        - {x: -13.999996, y: -36}
+        - {x: 4.000004, y: -36}
+        - {x: 18.000004, y: -34}
+        - {x: 25.000002, y: -24.999998}
+        - {x: 28.000002, y: -17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a16de715a94939ac2dff18610da95a
+      internalID: 21300048
+      vertices:
+      - {x: 55.423874, y: 53.47325}
+      - {x: 48.423878, y: -1.5267487}
+      - {x: 1.4238777, y: -2.5267487}
+      - {x: -8.576122, y: 44.47325}
+      - {x: 24.423878, y: 84.47325}
+      indices: 000000000100000003000000010000000200000003000000000000000300000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill1_0009
+      rect:
+        serializedVersion: 2
+        x: 2.0761204
+        y: 17.07612
+        width: 57.872562
+        height: 72.84776
+      alignment: 9
+      pivot: {x: 0.50842535, y: 0.51372725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 30.987597, y: 29.5}
+        - {x: 23.987597, y: -29.5}
+        - {x: -6.0124035, y: -44.5}
+        - {x: -28.012403, y: -20.499998}
+        - {x: -29.012402, y: 17.5}
+        - {x: -5.0124035, y: 39.5}
+      physicsShape:
+      - - {x: 15.9875965, y: 33.5}
+        - {x: 11.987596, y: 35.5}
+        - {x: -5.0124035, y: 35.5}
+        - {x: -10.0124035, y: 34.499996}
+        - {x: -28.012403, y: 16.5}
+        - {x: -28.012403, y: -15.5}
+        - {x: -15.0124035, y: -35.499996}
+        - {x: 19.987597, y: -35.499996}
+        - {x: 23.987597, y: -27.5}
+        - {x: 27.987597, y: -0.5}
+        - {x: 27.987597, y: 20.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e891d3ff0f0d4487bd60aad8df7b673b
+      internalID: 21300050
+      vertices:
+      - {x: 59.43628, y: 64.92388}
+      - {x: 52.43628, y: 5.9238815}
+      - {x: 22.436281, y: -9.076118}
+      - {x: 0.4362812, y: 14.923883}
+      - {x: -0.5637169, y: 52.92388}
+      - {x: 23.436281, y: 74.92388}
+      indices: 000000000100000004000000010000000300000004000000010000000200000003000000000000000400000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill2_0004
+      rect:
+        serializedVersion: 2
+        x: 7.0761204
+        y: 98.02675
+        width: 57.847755
+        height: 71.9465
+      alignment: 9
+      pivot: {x: 0.6469375, y: 0.5764457}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 30.000002, y: 19}
+        - {x: 23.000004, y: -36}
+        - {x: -23.999996, y: -37}
+        - {x: -33.999996, y: 10}
+        - {x: -0.9999962, y: 50}
+      physicsShape:
+      - - {x: 28.000004, y: 24}
+        - {x: 21.000004, y: 35}
+        - {x: -9.999996, y: 35}
+        - {x: -27.999992, y: 18}
+        - {x: -27.999992, y: -22}
+        - {x: -13.999996, y: -36}
+        - {x: 4.000004, y: -36}
+        - {x: 18.000004, y: -34}
+        - {x: 25.000004, y: -25}
+        - {x: 28.000004, y: -17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c5a8f85b0e40b29f38ee74d5eaf7e4
+      internalID: 21300052
+      vertices:
+      - {x: 50.423874, y: 49.47325}
+      - {x: 43.423878, y: -5.5267487}
+      - {x: -3.5761223, y: -6.5267487}
+      - {x: -13.576122, y: 40.47325}
+      - {x: 19.423878, y: 80.47325}
+      indices: 000000000100000003000000010000000200000003000000000000000300000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill3_0008
+      rect:
+        serializedVersion: 2
+        x: 141.07613
+        y: 210.07613
+        width: 57.897125
+        height: 71.84776
+      alignment: 9
+      pivot: {x: 0.5082096, y: 0.5347957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -17.024689, y: 35.99999}
+        - {x: 31.975311, y: 35.99999}
+        - {x: 22.975311, y: -33.000008}
+        - {x: -17.024689, y: -38.000008}
+        - {x: -35.02469, y: -1.0000076}
+      physicsShape:
+      - - {x: 17.975311, y: 34.999992}
+        - {x: -10.024689, y: 34.999992}
+        - {x: -18.024689, y: 32.999992}
+        - {x: -28.024689, y: 20.999992}
+        - {x: -28.024689, y: -24.000006}
+        - {x: -14.024689, y: -35.000008}
+        - {x: 10.975311, y: -35.000008}
+        - {x: 18.975311, y: -34.000004}
+        - {x: 27.975311, y: -21.000008}
+        - {x: 27.975311, y: 26.99999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ba24a569524d1898c747759990c432
+      internalID: 21300054
+      vertices:
+      - {x: 51.448563, y: 0.42388153}
+      - {x: 11.448563, y: -4.5761185}
+      - {x: -6.5514374, y: 32.42388}
+      - {x: 11.448563, y: 69.423874}
+      - {x: 60.448563, y: 69.423874}
+      indices: 000000000300000004000000000000000200000003000000000000000100000002000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill3_0001
+      rect:
+        serializedVersion: 2
+        x: 2.0761204
+        y: 17.07612
+        width: 57.872562
+        height: 72.84776
+      alignment: 9
+      pivot: {x: 0.50842535, y: 0.54118174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 30.987597, y: 29.499994}
+        - {x: 23.987597, y: -29.500004}
+        - {x: -6.0124035, y: -44.500004}
+        - {x: -28.012403, y: -20.500004}
+        - {x: -29.012402, y: 17.499996}
+        - {x: -5.0124035, y: 39.499992}
+      physicsShape:
+      - - {x: 15.9875965, y: 33.499996}
+        - {x: 11.987596, y: 35.499996}
+        - {x: -5.0124035, y: 35.499996}
+        - {x: -10.0124035, y: 34.499996}
+        - {x: -28.012403, y: 16.499996}
+        - {x: -28.012403, y: -15.500004}
+        - {x: -15.0124035, y: -35.500004}
+        - {x: 19.987597, y: -35.500004}
+        - {x: 23.987597, y: -27.500004}
+        - {x: 27.987597, y: -0.5000038}
+        - {x: 27.987597, y: 20.499996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f487bd59eed4ae6ab666710642a7307
+      internalID: 21300056
+      vertices:
+      - {x: 59.43628, y: 62.92388}
+      - {x: 52.43628, y: 3.9238815}
+      - {x: 22.436281, y: -11.076118}
+      - {x: 0.4362812, y: 12.923882}
+      - {x: -0.5637169, y: 50.92388}
+      - {x: 23.436281, y: 72.923874}
+      indices: 000000000100000004000000010000000300000004000000010000000200000003000000000000000400000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill1_0006
+      rect:
+        serializedVersion: 2
+        x: 72.07612
+        y: 199.02675
+        width: 57.847755
+        height: 71.9465
+      alignment: 9
+      pivot: {x: 0.54321694, y: 0.5486473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -25.999996, y: 32.000004}
+        - {x: 9.000004, y: 40}
+        - {x: 30.000004, y: 19.000004}
+        - {x: 23.000004, y: -32.999992}
+        - {x: -14.999996, y: -37.999996}
+        - {x: -29.999996, y: -11.999996}
+      physicsShape:
+      - - {x: 28.000004, y: 22.000004}
+        - {x: 20.000004, y: 34.000004}
+        - {x: 10.000004, y: 36.000004}
+        - {x: -9.999996, y: 36.000004}
+        - {x: -9.999996, y: 35.000004}
+        - {x: -27.999996, y: 20.000004}
+        - {x: -27.999996, y: -20.999994}
+        - {x: -18.999994, y: -34.999996}
+        - {x: 20.000004, y: -34.999996}
+        - {x: 24.000002, y: -24.999996}
+        - {x: 26.000004, y: -12.999996}
+        - {x: 28.000004, y: 6.000004}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b723bb5948c4e3eb4db4dd85d7ee1aa
+      internalID: 21300058
+      vertices:
+      - {x: 56.423878, y: 51.47325}
+      - {x: 49.423878, y: -0.52674484}
+      - {x: 11.423878, y: -5.5267487}
+      - {x: -3.5761223, y: 20.473251}
+      - {x: 0.42387772, y: 64.47325}
+      - {x: 35.423878, y: 72.47325}
+      indices: 000000000400000005000000000000000100000003000000010000000200000003000000000000000300000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill3_0005
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 134
+        width: 56
+        height: 70
+      alignment: 9
+      pivot: {x: 0.52678573, y: 0.47857141}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -27.999998, y: -34.999996}
+        - {x: -27.999998, y: 34.999996}
+        - {x: 27.999998, y: 34.999996}
+        - {x: 27.999998, y: -34.999996}
+      physicsShape:
+      - - {x: 27.999998, y: 19.999998}
+        - {x: 22.999998, y: 27}
+        - {x: 16, y: 34.999996}
+        - {x: -9, y: 34.999996}
+        - {x: -16, y: 27.999998}
+        - {x: -27.999998, y: 18}
+        - {x: -27.999998, y: -18}
+        - {x: -15, y: -34.999996}
+        - {x: 5, y: -34.999996}
+        - {x: 19, y: -33}
+        - {x: 24, y: -30}
+        - {x: 27, y: -7}
+        - {x: 27.999998, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c618300928d044bea4796f8bdc0d3fac
+      internalID: 21300060
+      vertices:
+      - {x: 54.5, y: 1.5000038}
+      - {x: -1.4999981, y: 1.5000038}
+      - {x: -1.4999981, y: 71.5}
+      - {x: 54.5, y: 71.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill2_Slash0002
+      rect:
+        serializedVersion: 2
+        x: 259.0129
+        y: 391
+        width: 89.910965
+        height: 36.88578
+      alignment: 9
+      pivot: {x: 0.5392789, y: 0.47443756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 11.031605, y: 3.5571098}
+        - {x: 66.0316, y: -18.44289}
+        - {x: 16.031605, y: -18.44289}
+        - {x: -39.968395, y: 10.557109}
+        - {x: -51.968395, y: 22.55711}
+      physicsShape:
+      - - {x: 30.031603, y: -2.4428902}
+        - {x: -30.968395, y: 16.55711}
+        - {x: -39.968395, y: 17.55711}
+        - {x: -41.968395, y: 14.55711}
+        - {x: -39.968395, y: 11.55711}
+        - {x: -23.968395, y: 1.5571096}
+        - {x: 5.031605, y: -12.442889}
+        - {x: 25.031603, y: -18.44289}
+        - {x: 44.031605, y: -18.44289}
+        - {x: 44.031605, y: -13.44289}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df5ab5a87ca4551bdd02cdaba0f41bf
+      internalID: 21300062
+      vertices:
+      - {x: 52.455482, y: 22.94289}
+      - {x: 107.45548, y: 0.94289017}
+      - {x: 57.455482, y: 0.94289017}
+      - {x: 1.4554825, y: 29.94289}
+      - {x: -10.5445175, y: 41.94289}
+      indices: 000000000100000002000000000000000200000003000000000000000300000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill3_0010
+      rect:
+        serializedVersion: 2
+        x: 141.07613
+        y: 210.07613
+        width: 57.897125
+        height: 71.84776
+      alignment: 9
+      pivot: {x: 0.5082096, y: 0.52087736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -17.024689, y: 35.999992}
+        - {x: 31.975311, y: 35.999992}
+        - {x: 22.975311, y: -33.000008}
+        - {x: -17.024689, y: -38.000008}
+        - {x: -35.02469, y: -1.0000074}
+      physicsShape:
+      - - {x: 17.975311, y: 34.99999}
+        - {x: -10.024689, y: 34.99999}
+        - {x: -18.024689, y: 32.999992}
+        - {x: -28.024689, y: 20.999992}
+        - {x: -28.024689, y: -24.000008}
+        - {x: -14.024689, y: -35.000004}
+        - {x: 10.975311, y: -35.000004}
+        - {x: 18.975311, y: -34.000008}
+        - {x: 27.975311, y: -21.000008}
+        - {x: 27.975311, y: 26.999992}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7b0b4dddfc478190ef2ed3b1192952
+      internalID: 21300064
+      vertices:
+      - {x: 51.448563, y: 1.4238815}
+      - {x: 11.448563, y: -3.5761185}
+      - {x: -6.5514374, y: 33.42388}
+      - {x: 11.448563, y: 70.42388}
+      - {x: 60.448563, y: 70.42388}
+      indices: 000000000300000004000000000000000200000003000000000000000100000002000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill4_0006
+      rect:
+        serializedVersion: 2
+        x: 72.07612
+        y: 199.02675
+        width: 57.847755
+        height: 71.9465
+      alignment: 9
+      pivot: {x: 0.47406992, y: 0.5208488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -25.999994, y: 32}
+        - {x: 9.000004, y: 40}
+        - {x: 30.000004, y: 19}
+        - {x: 23.000002, y: -33}
+        - {x: -14.999995, y: -38}
+        - {x: -29.999996, y: -11.999999}
+      physicsShape:
+      - - {x: 28.000002, y: 22}
+        - {x: 20.000002, y: 34}
+        - {x: 10.000003, y: 36}
+        - {x: -9.999996, y: 36}
+        - {x: -9.999996, y: 34.999996}
+        - {x: -27.999994, y: 20}
+        - {x: -27.999994, y: -21}
+        - {x: -18.999996, y: -34.999996}
+        - {x: 20.000002, y: -34.999996}
+        - {x: 24.000004, y: -24.999998}
+        - {x: 26.000004, y: -13}
+        - {x: 28.000002, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b080fa8d8574914b990f6d9c09ab0e3
+      internalID: 21300066
+      vertices:
+      - {x: 60.423878, y: 53.47325}
+      - {x: 53.423874, y: 1.4732513}
+      - {x: 15.423879, y: -3.5267487}
+      - {x: 0.42387772, y: 22.473251}
+      - {x: 4.4238796, y: 66.47325}
+      - {x: 39.423878, y: 74.47325}
+      indices: 000000000400000005000000000000000100000003000000010000000200000003000000000000000300000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill3_Slash0001
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 243
+        width: 14
+        height: 68
+      alignment: 9
+      pivot: {x: 0.89285713, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 7, y: 0.9999981}
+        - {x: 7, y: -34}
+        - {x: -7, y: 10}
+        - {x: -5.999999, y: 33.999996}
+      physicsShape:
+      - - {x: -3, y: 22}
+        - {x: -5.999999, y: 21}
+        - {x: -5.999999, y: 7.999996}
+        - {x: -3, y: 0}
+        - {x: -1, y: -6}
+        - {x: 4, y: -14.000001}
+        - {x: 7, y: -13}
+        - {x: 7, y: -3}
+        - {x: 1, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20ff46ca4a5445e870ce18ec8f6f666
+      internalID: 21300068
+      vertices:
+      - {x: 8.5, y: 60.5}
+      - {x: 8.5, y: 25.5}
+      - {x: -5.5, y: 69.5}
+      - {x: -4.499999, y: 93.5}
+      indices: 000000000100000002000000000000000200000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Alive
+      rect:
+        serializedVersion: 2
+        x: 165.07613
+        y: 438.0761
+        width: 69.89713
+        height: 71.84776
+      alignment: 9
+      pivot: {x: 0.5926405, y: 0.5208776}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -11.024693, y: 36.000008}
+        - {x: 37.975307, y: 36.000008}
+        - {x: 28.975307, y: -32.999992}
+        - {x: -11.024693, y: -37.999992}
+        - {x: -36.024693, y: -2.9999924}
+      physicsShape:
+      - - {x: 17.975307, y: 35.000004}
+        - {x: -5.0246916, y: 35.000004}
+        - {x: -21.024693, y: 17.000008}
+        - {x: -22.024693, y: 15.000007}
+        - {x: -22.024693, y: -13.999992}
+        - {x: -21.024693, y: -18.999992}
+        - {x: -11.024693, y: -34.99999}
+        - {x: 26.975307, y: -34.99999}
+        - {x: 31.975307, y: -19.99999}
+        - {x: 33.975307, y: -3.9999924}
+        - {x: 33.975307, y: 24.000008}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396bde820e924eb293bb9731942610d1
+      internalID: 21300070
+      vertices:
+      - {x: 57.448566, y: 1.4238815}
+      - {x: 17.448566, y: -3.5761185}
+      - {x: -7.5514336, y: 31.423882}
+      - {x: 17.448566, y: 70.42388}
+      - {x: 66.44856, y: 70.42388}
+      indices: 000000000300000004000000010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill1_0004
+      rect:
+        serializedVersion: 2
+        x: 101.07612
+        y: 433.02676
+        width: 57.887596
+        height: 72.89713
+      alignment: 9
+      pivot: {x: 0.5773928, y: 0.5826462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -27.019917, y: -21.47533}
+        - {x: -34.019917, y: 27.524668}
+        - {x: 6.9800835, y: 40.52467}
+        - {x: 29.980083, y: 21.52467}
+        - {x: 22.980083, y: -29.47533}
+        - {x: -1.0199165, y: -47.475327}
+      physicsShape:
+      - - {x: 24.980083, y: 24.52467}
+        - {x: 11.980083, y: 35.524666}
+        - {x: -7.0199156, y: 35.524666}
+        - {x: -11.019917, y: 34.52467}
+        - {x: -28.019917, y: 13.52467}
+        - {x: -28.019917, y: -19.47533}
+        - {x: -19.019917, y: -35.47533}
+        - {x: 19.980083, y: -35.47533}
+        - {x: 23.980083, y: -30.475327}
+        - {x: 27.980083, y: -2.4753304}
+        - {x: 27.980083, y: 21.52467}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd352dd808840ddba52018ebd4208dc
+      internalID: 21300072
+      vertices:
+      - {x: 54.443798, y: 51.948566}
+      - {x: 47.443798, y: 0.94856644}
+      - {x: 23.443798, y: -17.05143}
+      - {x: -2.556202, y: 8.948566}
+      - {x: -9.556202, y: 57.948563}
+      - {x: 31.443798, y: 70.94856}
+      indices: 030000000400000005000000000000000100000003000000010000000200000003000000000000000300000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill4_Slash0002
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 390
+        width: 122
+        height: 28
+      alignment: 9
+      pivot: {x: 0.42213115, y: 0.4107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -56, y: -7}
+        - {x: 18, y: 14}
+        - {x: 61, y: -0.00000023841858}
+        - {x: 8, y: -9}
+        - {x: -61, y: -13.999999}
+      physicsShape:
+      - - {x: 39.999996, y: 6}
+        - {x: 37, y: 8.999999}
+        - {x: 6, y: 8.999999}
+        - {x: -40, y: -1}
+        - {x: -53, y: -8}
+        - {x: -53, y: -10}
+        - {x: -52, y: -12}
+        - {x: -24, y: -12}
+        - {x: 14.999998, y: -7}
+        - {x: 26, y: -7}
+        - {x: 39.999996, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a947692c1d43b1977f015d905e9342
+      internalID: 21300074
+      vertices:
+      - {x: 131.5, y: 16.5}
+      - {x: 78.5, y: 7.5}
+      - {x: 9.5, y: 2.500001}
+      - {x: 14.5, y: 9.5}
+      - {x: 88.5, y: 30.5}
+      indices: 010000000300000004000000010000000200000003000000000000000100000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill1_0007
+      rect:
+        serializedVersion: 2
+        x: 141.07613
+        y: 210.07613
+        width: 57.897125
+        height: 71.84776
+      alignment: 9
+      pivot: {x: 0.49093756, y: 0.49304074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -17.024689, y: 35.99999}
+        - {x: 31.975311, y: 35.99999}
+        - {x: 22.975311, y: -33.000008}
+        - {x: -17.024689, y: -38.000008}
+        - {x: -35.02469, y: -1.0000076}
+      physicsShape:
+      - - {x: 17.975311, y: 34.999992}
+        - {x: -10.024689, y: 34.999992}
+        - {x: -18.024689, y: 32.99999}
+        - {x: -28.024689, y: 20.99999}
+        - {x: -28.024689, y: -24.000008}
+        - {x: -14.024688, y: -35.000008}
+        - {x: 10.97531, y: -35.000008}
+        - {x: 18.975311, y: -34.000004}
+        - {x: 27.975311, y: -21.000008}
+        - {x: 27.975311, y: 26.999992}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bc6b5d17914942b89ef02c9e02ffa4
+      internalID: 21300076
+      vertices:
+      - {x: 52.448563, y: 3.4238815}
+      - {x: 12.448563, y: -1.5761185}
+      - {x: -5.5514374, y: 35.42388}
+      - {x: 12.448563, y: 72.423874}
+      - {x: 61.448563, y: 72.423874}
+      indices: 000000000300000004000000000000000200000003000000000000000100000002000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill2_0006
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 134
+        width: 56
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4732143, y: 0.57857144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -27.999998, y: -35}
+        - {x: -27.999998, y: 35}
+        - {x: 27.999998, y: 35}
+        - {x: 27.999998, y: -35}
+      physicsShape:
+      - - {x: 27.999998, y: 23}
+        - {x: 15, y: 35}
+        - {x: -11, y: 35}
+        - {x: -24, y: 19}
+        - {x: -27.999998, y: 13}
+        - {x: -27.999998, y: -15.999998}
+        - {x: -19, y: -34}
+        - {x: -14, y: -35}
+        - {x: 9.999999, y: -35}
+        - {x: 19, y: -33}
+        - {x: 22.999998, y: -29}
+        - {x: 27.999998, y: -7.999999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16cb72c5df8549538b65a266b14c1513
+      internalID: 21300078
+      vertices:
+      - {x: 57.5, y: -5.5}
+      - {x: 1.5000019, y: -5.5}
+      - {x: 1.5000019, y: 64.5}
+      - {x: 57.5, y: 64.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill1_Slash0001
+      rect:
+        serializedVersion: 2
+        x: 336.02676
+        y: 465.0761
+        width: 30.960337
+        height: 33.897125
+      alignment: 9
+      pivot: {x: -0.1785111, y: -0.25300407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 24.493069, y: 27.975323}
+        - {x: -4.5069313, y: -17.024673}
+        - {x: -31.506931, y: -17.024673}
+      physicsShape:
+      - - {x: 7.4930687, y: 13.975327}
+        - {x: -13.506931, y: -5.0246735}
+        - {x: -14.506931, y: -9.024673}
+        - {x: -14.506931, y: -15.024673}
+        - {x: -13.506931, y: -17.024673}
+        - {x: -2.5069313, y: -17.024673}
+        - {x: 12.493065, y: 5.9753265}
+        - {x: 12.493065, y: 13.975327}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0868a9bdbdb24b57936949a99a443966
+      internalID: 21300080
+      vertices:
+      - {x: 31.980167, y: 25.448563}
+      - {x: 4.9801683, y: 25.448563}
+      - {x: 60.980167, y: 70.44856}
+      indices: 000000000100000002000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill3_0006
+      rect:
+        serializedVersion: 2
+        x: 107.07612
+        y: 310.02676
+        width: 57.872566
+        height: 71.9465
+      alignment: 9
+      pivot: {x: 0.50842535, y: 0.54864705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -31.0124, y: -12.000015}
+        - {x: -26.012402, y: 31.999985}
+        - {x: 9.987597, y: 38.999985}
+        - {x: 29.987598, y: 18.999985}
+        - {x: 22.987597, y: -34.000015}
+        - {x: -14.012402, y: -38.000015}
+      physicsShape:
+      - - {x: 27.987597, y: 24.999983}
+        - {x: 15.9875965, y: 34.999985}
+        - {x: -11.012403, y: 34.999985}
+        - {x: -28.012403, y: 18.999985}
+        - {x: -28.012403, y: -15.000015}
+        - {x: -24.012402, y: -21.000013}
+        - {x: -16.012403, y: -35.000015}
+        - {x: 19.987597, y: -35.000015}
+        - {x: 23.987597, y: -26.000013}
+        - {x: 27.987597, y: -14.000015}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a787333fca4a2599743e08297a073d
+      internalID: 21300082
+      vertices:
+      - {x: 58.436287, y: 51.47325}
+      - {x: 51.436283, y: -1.5267487}
+      - {x: 14.436285, y: -5.5267487}
+      - {x: -2.563713, y: 20.473251}
+      - {x: 2.436285, y: 64.47325}
+      - {x: 38.436283, y: 71.47325}
+      indices: 030000000400000005000000000000000100000003000000010000000200000003000000000000000300000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill1_0002
+      rect:
+        serializedVersion: 2
+        x: 2.0761204
+        y: 17.07612
+        width: 57.872562
+        height: 72.84776
+      alignment: 9
+      pivot: {x: 0.64666015, y: 0.6372726}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 30.9876, y: 29.499996}
+        - {x: 23.9876, y: -29.500004}
+        - {x: -6.0123997, y: -44.5}
+        - {x: -28.012396, y: -20.500004}
+        - {x: -29.0124, y: 17.499996}
+        - {x: -5.0123987, y: 39.499996}
+      physicsShape:
+      - - {x: 15.9876, y: 33.499996}
+        - {x: 11.9876, y: 35.499996}
+        - {x: -5.0123987, y: 35.499996}
+        - {x: -10.0124, y: 34.499996}
+        - {x: -28.012396, y: 16.499996}
+        - {x: -28.012396, y: -15.500002}
+        - {x: -15.0124, y: -35.5}
+        - {x: 19.987598, y: -35.5}
+        - {x: 23.9876, y: -27.500004}
+        - {x: 27.9876, y: -0.5000038}
+        - {x: 27.9876, y: 20.499996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418c85af1bea4859a8510a5d402b0b61
+      internalID: 21300084
+      vertices:
+      - {x: 51.43628, y: 55.923878}
+      - {x: 44.43628, y: -3.0761223}
+      - {x: 14.436281, y: -18.076118}
+      - {x: -7.563715, y: 5.9238777}
+      - {x: -8.563719, y: 43.923878}
+      - {x: 15.436282, y: 65.923874}
+      indices: 000000000100000004000000010000000300000004000000010000000200000003000000000000000400000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill2_0008
+      rect:
+        serializedVersion: 2
+        x: 2.0761204
+        y: 17.07612
+        width: 57.872562
+        height: 72.84776
+      alignment: 9
+      pivot: {x: 0.54298407, y: 0.54118174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 30.9876, y: 29.499994}
+        - {x: 23.9876, y: -29.500004}
+        - {x: -6.0123997, y: -44.500004}
+        - {x: -28.0124, y: -20.500004}
+        - {x: -29.012398, y: 17.499996}
+        - {x: -5.0123997, y: 39.499992}
+      physicsShape:
+      - - {x: 15.987597, y: 33.499996}
+        - {x: 11.987598, y: 35.499996}
+        - {x: -5.012401, y: 35.499996}
+        - {x: -10.012402, y: 34.499996}
+        - {x: -28.012402, y: 16.499996}
+        - {x: -28.012402, y: -15.500004}
+        - {x: -15.012402, y: -35.500004}
+        - {x: 19.987598, y: -35.500004}
+        - {x: 23.987597, y: -27.500004}
+        - {x: 27.987598, y: -0.5000038}
+        - {x: 27.987598, y: 20.499996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e6c66af7704a9da222f5308da06206
+      internalID: 21300086
+      vertices:
+      - {x: 57.436283, y: 62.92388}
+      - {x: 50.436283, y: 3.9238815}
+      - {x: 20.436283, y: -11.076118}
+      - {x: -1.5637169, y: 12.923882}
+      - {x: -2.563715, y: 50.92388}
+      - {x: 21.436283, y: 72.923874}
+      indices: 000000000100000004000000010000000300000004000000010000000200000003000000000000000400000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill2_0003
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 134
+        width: 56
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5089286, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -28, y: -35}
+        - {x: -28, y: 35}
+        - {x: 28, y: 35}
+        - {x: 28, y: -35}
+      physicsShape:
+      - - {x: 28.000002, y: 20}
+        - {x: 23.000002, y: 27}
+        - {x: 16.000002, y: 35}
+        - {x: -8.999998, y: 35}
+        - {x: -15.999998, y: 27.999998}
+        - {x: -27.999998, y: 18}
+        - {x: -27.999998, y: -17.999998}
+        - {x: -14.999998, y: -35}
+        - {x: 5.000002, y: -35}
+        - {x: 19.000002, y: -32.999996}
+        - {x: 24.000002, y: -29.999996}
+        - {x: 27, y: -7}
+        - {x: 28.000002, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da08edc937f4682b9f6139e5b2e468c
+      internalID: 21300088
+      vertices:
+      - {x: 55.5, y: -3.5}
+      - {x: -0.5000019, y: -3.5}
+      - {x: -0.5000019, y: 66.5}
+      - {x: 55.5, y: 66.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill3_0004
+      rect:
+        serializedVersion: 2
+        x: 73.07612
+        y: 109.02675
+        width: 57.897125
+        height: 71.89713
+      alignment: 9
+      pivot: {x: 0.4909377, y: 0.57684153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -32.02468, y: -9.975315}
+        - {x: -26.024681, y: 27.024683}
+        - {x: 1.9753187, y: 39.02468}
+        - {x: 30.975319, y: 25.024685}
+        - {x: 22.975319, y: -30.975311}
+        - {x: -12.02468, y: -41.975315}
+      physicsShape:
+      - - {x: 27.975319, y: 21.024685}
+        - {x: 15.975319, y: 33.024685}
+        - {x: 9.975319, y: 35.02468}
+        - {x: -11.024681, y: 35.02468}
+        - {x: -21.024681, y: 23.024685}
+        - {x: -28.024681, y: 18.024685}
+        - {x: -28.024681, y: -19.975315}
+        - {x: -17.024681, y: -35.975315}
+        - {x: 7.975319, y: -35.975315}
+        - {x: 21.975319, y: -31.975315}
+        - {x: 25.975317, y: -13.975315}
+        - {x: 27.975319, y: 7.024685}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d83537fffe4840a711e2af0013382b
+      internalID: 21300090
+      vertices:
+      - {x: 60.448563, y: 55.448566}
+      - {x: 52.448563, y: -0.55142975}
+      - {x: 17.448563, y: -11.551434}
+      - {x: -2.5514374, y: 20.448566}
+      - {x: 3.4485626, y: 57.448563}
+      - {x: 31.448563, y: 69.44856}
+      indices: 030000000400000005000000000000000100000003000000010000000200000003000000000000000300000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill3_0002
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 134
+        width: 56
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4732143, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -27.999998, y: -35}
+        - {x: -27.999998, y: 35}
+        - {x: 27.999998, y: 35}
+        - {x: 27.999998, y: -35}
+      physicsShape:
+      - - {x: 27.999998, y: 20}
+        - {x: 22.999998, y: 27}
+        - {x: 16, y: 35}
+        - {x: -9, y: 35}
+        - {x: -16, y: 28}
+        - {x: -27.999998, y: 18}
+        - {x: -27.999998, y: -18}
+        - {x: -14.999999, y: -35}
+        - {x: 5, y: -35}
+        - {x: 19, y: -33}
+        - {x: 24, y: -30}
+        - {x: 27, y: -7}
+        - {x: 27.999998, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904fae13f3034313b86eac62885c1fa7
+      internalID: 21300092
+      vertices:
+      - {x: 57.5, y: -10.5}
+      - {x: 1.5000019, y: -10.5}
+      - {x: 1.5000019, y: 59.5}
+      - {x: 57.5, y: 59.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill3_0009
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 30
+        width: 55
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5181818, y: 0.50714284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -27.5, y: -35}
+        - {x: -27.5, y: 35}
+        - {x: 27.499998, y: 35}
+        - {x: 27.499998, y: -35}
+      physicsShape:
+      - - {x: 27.499998, y: 21}
+        - {x: 17.5, y: 31}
+        - {x: 10.5, y: 35}
+        - {x: -9.5, y: 35}
+        - {x: -27.5, y: 16}
+        - {x: -27.5, y: -20.999998}
+        - {x: -19.5, y: -34}
+        - {x: -16.5, y: -35}
+        - {x: 12.499999, y: -35}
+        - {x: 16.5, y: -34}
+        - {x: 23.5, y: -31}
+        - {x: 27.499998, y: -5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e9dcfb14f5435b9fefe8033e347e63
+      internalID: 21300094
+      vertices:
+      - {x: 54, y: -0.5}
+      - {x: -1, y: -0.5}
+      - {x: -1, y: 69.5}
+      - {x: 54, y: 69.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill4_0011
+      rect:
+        serializedVersion: 2
+        x: 141.07613
+        y: 210.07613
+        width: 57.897125
+        height: 71.84776
+      alignment: 9
+      pivot: {x: 0.5082096, y: 0.52087736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -17.024689, y: 35.999992}
+        - {x: 31.975311, y: 35.999992}
+        - {x: 22.975311, y: -33.000008}
+        - {x: -17.024689, y: -38.000008}
+        - {x: -35.02469, y: -1.0000074}
+      physicsShape:
+      - - {x: 17.975311, y: 34.99999}
+        - {x: -10.024689, y: 34.99999}
+        - {x: -18.024689, y: 32.999992}
+        - {x: -28.024689, y: 20.999992}
+        - {x: -28.024689, y: -24.000008}
+        - {x: -14.024689, y: -35.000004}
+        - {x: 10.975311, y: -35.000004}
+        - {x: 18.975311, y: -34.000008}
+        - {x: 27.975311, y: -21.000008}
+        - {x: 27.975311, y: 26.999992}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef4e4f5f2a24729a96b1820e68cf2b2
+      internalID: 21300096
+      vertices:
+      - {x: 51.448563, y: 1.4238815}
+      - {x: 11.448563, y: -3.5761185}
+      - {x: -6.5514374, y: 33.42388}
+      - {x: 11.448563, y: 70.42388}
+      - {x: 60.448563, y: 70.42388}
+      indices: 000000000300000004000000000000000200000003000000000000000100000002000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill1_0008
+      rect:
+        serializedVersion: 2
+        x: 6.0761204
+        y: 197.02675
+        width: 57.897125
+        height: 71.9465
+      alignment: 9
+      pivot: {x: 0.5254817, y: 0.534748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 22.975315, y: -29}
+        - {x: 1.975317, y: -45}
+        - {x: -25.024681, y: -29}
+        - {x: -33.02468, y: 8}
+        - {x: -8.024683, y: 42}
+        - {x: 31.975317, y: 28}
+      physicsShape:
+      - - {x: 27.975315, y: 22}
+        - {x: 14.975316, y: 33}
+        - {x: 9.975317, y: 35.999996}
+        - {x: -7.024683, y: 35.999996}
+        - {x: -17.024683, y: 34}
+        - {x: -28.024681, y: 19}
+        - {x: -28.024681, y: -21}
+        - {x: -15.024683, y: -35}
+        - {x: 3.9753168, y: -35}
+        - {x: 18.975317, y: -33}
+        - {x: 24.975317, y: -28}
+        - {x: 27.975315, y: -7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181780bad8984423a500b21c9cd017e5
+      internalID: 21300098
+      vertices:
+      - {x: 59.448563, y: 61.47325}
+      - {x: 50.448563, y: 4.4732513}
+      - {x: 29.448563, y: -11.526749}
+      - {x: 2.4485645, y: 4.4732513}
+      - {x: -5.5514374, y: 41.47325}
+      - {x: 19.448563, y: 75.47325}
+      indices: 030000000100000002000000030000000400000001000000000000000100000004000000000000000400000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill4_0004
+      rect:
+        serializedVersion: 2
+        x: 101.07612
+        y: 433.02676
+        width: 57.887596
+        height: 72.89713
+      alignment: 9
+      pivot: {x: 0.4564688, y: 0.5140564}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -27.019915, y: -21.47533}
+        - {x: -34.019917, y: 27.524668}
+        - {x: 6.9800835, y: 40.52467}
+        - {x: 29.980083, y: 21.52467}
+        - {x: 22.980083, y: -29.47533}
+        - {x: -1.0199165, y: -47.47533}
+      physicsShape:
+      - - {x: 24.980083, y: 24.52467}
+        - {x: 11.980083, y: 35.52467}
+        - {x: -7.0199165, y: 35.52467}
+        - {x: -11.019917, y: 34.524666}
+        - {x: -28.019917, y: 13.52467}
+        - {x: -28.019917, y: -19.47533}
+        - {x: -19.019917, y: -35.475327}
+        - {x: 19.980083, y: -35.475327}
+        - {x: 23.980082, y: -30.47533}
+        - {x: 27.980083, y: -2.4753304}
+        - {x: 27.980083, y: 21.52467}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebf1ae0bce442dc9f7738f737177b90
+      internalID: 21300100
+      vertices:
+      - {x: 61.443798, y: 56.948566}
+      - {x: 54.443798, y: 5.9485664}
+      - {x: 30.443798, y: -12.051434}
+      - {x: 4.4438, y: 13.948566}
+      - {x: -2.556202, y: 62.948563}
+      - {x: 38.443798, y: 75.94856}
+      indices: 030000000400000005000000000000000100000003000000010000000200000003000000000000000300000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill2_0005
+      rect:
+        serializedVersion: 2
+        x: 101.07612
+        y: 433.02676
+        width: 57.887596
+        height: 72.89713
+      alignment: 9
+      pivot: {x: 0.4564688, y: 0.45918453}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -27.019915, y: -21.47533}
+        - {x: -34.019917, y: 27.52467}
+        - {x: 6.9800835, y: 40.52467}
+        - {x: 29.980083, y: 21.524668}
+        - {x: 22.980083, y: -29.475328}
+        - {x: -1.0199165, y: -47.47533}
+      physicsShape:
+      - - {x: 24.980083, y: 24.52467}
+        - {x: 11.980083, y: 35.52467}
+        - {x: -7.0199165, y: 35.52467}
+        - {x: -11.019917, y: 34.52467}
+        - {x: -28.019917, y: 13.52467}
+        - {x: -28.019917, y: -19.47533}
+        - {x: -19.019917, y: -35.47533}
+        - {x: 19.980083, y: -35.47533}
+        - {x: 23.980082, y: -30.47533}
+        - {x: 27.980083, y: -2.4753304}
+        - {x: 27.980083, y: 21.524668}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c836d39b9f40e4af680dcbd0914601
+      internalID: 21300102
+      vertices:
+      - {x: 61.443798, y: 60.948563}
+      - {x: 54.443798, y: 9.948568}
+      - {x: 30.443798, y: -8.051434}
+      - {x: 4.4438, y: 17.948566}
+      - {x: -2.556202, y: 66.94856}
+      - {x: 38.443798, y: 79.94856}
+      indices: 030000000400000005000000000000000100000003000000010000000200000003000000000000000300000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill3_Slash0002
+      rect:
+        serializedVersion: 2
+        x: 50.07612
+        y: 408.0761
+        width: 32.847755
+        height: 99.91097
+      alignment: 9
+      pivot: {x: 0.40866968, y: 0.47466147}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -11.499996, y: 48.968403}
+        - {x: 25.500004, y: -48.031597}
+        - {x: 1.5000038, y: -52.031593}
+        - {x: -21.499996, y: 51.968403}
+      physicsShape:
+      - - {x: 1.5000038, y: 15.968403}
+        - {x: -8.499996, y: 39.968403}
+        - {x: -12.499996, y: 46.9684}
+        - {x: -15.499996, y: 45.968403}
+        - {x: -15.499996, y: 41.968403}
+        - {x: -14.499995, y: 32.968403}
+        - {x: -12.499996, y: 18.968401}
+        - {x: -8.499996, y: -12.031597}
+        - {x: 4.5000033, y: -43.031597}
+        - {x: 11.500004, y: -49.031597}
+        - {x: 14.500004, y: -49.031597}
+        - {x: 15.500004, y: -46.031597}
+        - {x: 15.500004, y: -27.031595}
+        - {x: 9.500004, y: -8.031597}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f406c008b44a289fcb56172364fb64
+      internalID: 21300104
+      vertices:
+      - {x: 7.9238777, y: 101.45549}
+      - {x: 44.923878, y: 4.4554863}
+      - {x: 20.923878, y: 0.4554901}
+      - {x: -2.0761223, y: 104.45549}
+      indices: 000000000100000002000000000000000200000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill1_0010
+      rect:
+        serializedVersion: 2
+        x: 141.07613
+        y: 210.07613
+        width: 57.897125
+        height: 71.84776
+      alignment: 9
+      pivot: {x: 0.5082096, y: 0.52087736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -17.024689, y: 35.999992}
+        - {x: 31.975311, y: 35.999992}
+        - {x: 22.975311, y: -33.000008}
+        - {x: -17.024689, y: -38.000008}
+        - {x: -35.02469, y: -1.0000074}
+      physicsShape:
+      - - {x: 17.975311, y: 34.99999}
+        - {x: -10.024689, y: 34.99999}
+        - {x: -18.024689, y: 32.999992}
+        - {x: -28.024689, y: 20.999992}
+        - {x: -28.024689, y: -24.000008}
+        - {x: -14.024689, y: -35.000004}
+        - {x: 10.975311, y: -35.000004}
+        - {x: 18.975311, y: -34.000008}
+        - {x: 27.975311, y: -21.000008}
+        - {x: 27.975311, y: 26.999992}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84fae02d3394d05a2b57715334dbde1
+      internalID: 21300106
+      vertices:
+      - {x: 51.448563, y: 1.4238815}
+      - {x: 11.448563, y: -3.5761185}
+      - {x: -6.5514374, y: 33.42388}
+      - {x: 11.448563, y: 70.42388}
+      - {x: 60.448563, y: 70.42388}
+      indices: 000000000300000004000000000000000200000003000000000000000100000002000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill2_0007
+      rect:
+        serializedVersion: 2
+        x: 6.0761204
+        y: 197.02675
+        width: 57.897125
+        height: 71.9465
+      alignment: 9
+      pivot: {x: 0.5254817, y: 0.49305046}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 22.975315, y: -28.999998}
+        - {x: 1.975317, y: -45}
+        - {x: -25.024681, y: -28.999998}
+        - {x: -33.02468, y: 8}
+        - {x: -8.024683, y: 42}
+        - {x: 31.975317, y: 28}
+      physicsShape:
+      - - {x: 27.975315, y: 22.000004}
+        - {x: 14.975316, y: 33}
+        - {x: 9.975317, y: 36}
+        - {x: -7.024683, y: 36}
+        - {x: -17.024683, y: 34.000004}
+        - {x: -28.024681, y: 19.000004}
+        - {x: -28.024681, y: -20.999996}
+        - {x: -15.024683, y: -34.999996}
+        - {x: 3.9753168, y: -34.999996}
+        - {x: 18.975317, y: -32.999996}
+        - {x: 24.975317, y: -27.999996}
+        - {x: 27.975315, y: -6.999996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df1a7eb533c452e9d9f69828131f012
+      internalID: 21300108
+      vertices:
+      - {x: 59.448563, y: 64.47325}
+      - {x: 50.448563, y: 7.4732494}
+      - {x: 29.448563, y: -8.526752}
+      - {x: 2.4485645, y: 7.4732494}
+      - {x: -5.5514374, y: 44.473248}
+      - {x: 19.448563, y: 78.47325}
+      indices: 030000000100000002000000030000000400000001000000000000000100000004000000000000000400000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HnS_Tally_Kill4_0001
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 134
+        width: 56
+        height: 70
+      alignment: 9
+      pivot: {x: 0.49107143, y: 0.5214286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -28, y: -34.999996}
+        - {x: -28, y: 34.999996}
+        - {x: 28, y: 34.999996}
+        - {x: 28, y: -34.999996}
+      physicsShape:
+      - - {x: 28, y: 20}
+        - {x: 23, y: 27}
+        - {x: 16, y: 34.999996}
+        - {x: -9, y: 34.999996}
+        - {x: -16, y: 27.999998}
+        - {x: -28, y: 18}
+        - {x: -28, y: -18}
+        - {x: -15, y: -34.999996}
+        - {x: 5, y: -34.999996}
+        - {x: 19, y: -33}
+        - {x: 23.999998, y: -30}
+        - {x: 27, y: -7}
+        - {x: 28, y: 3.9999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9dfd6921eb8460fa6c2f4aa8d4c2f82
+      internalID: 21300110
+      vertices:
+      - {x: 56.5, y: -1.4999962}
+      - {x: 0.5, y: -1.4999962}
+      - {x: 0.5, y: 68.5}
+      - {x: 56.5, y: 68.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HnS_Tally_Alive: 21300070
+      HnS_Tally_Kill1_0001: 21300004
+      HnS_Tally_Kill1_0002: 21300084
+      HnS_Tally_Kill1_0003: 21300012
+      HnS_Tally_Kill1_0004: 21300072
+      HnS_Tally_Kill1_0005: 21300010
+      HnS_Tally_Kill1_0006: 21300058
+      HnS_Tally_Kill1_0007: 21300076
+      HnS_Tally_Kill1_0008: 21300098
+      HnS_Tally_Kill1_0009: 21300050
+      HnS_Tally_Kill1_0010: 21300106
+      HnS_Tally_Kill1_Slash0001: 21300080
+      HnS_Tally_Kill1_Slash0002: 21300022
+      HnS_Tally_Kill2_0001: 21300030
+      HnS_Tally_Kill2_0002: 21300026
+      HnS_Tally_Kill2_0003: 21300088
+      HnS_Tally_Kill2_0004: 21300052
+      HnS_Tally_Kill2_0005: 21300102
+      HnS_Tally_Kill2_0006: 21300078
+      HnS_Tally_Kill2_0007: 21300108
+      HnS_Tally_Kill2_0008: 21300086
+      HnS_Tally_Kill2_0009: 21300028
+      HnS_Tally_Kill2_0010: 21300024
+      HnS_Tally_Kill2_0011: 21300014
+      HnS_Tally_Kill2_0012: 21300008
+      HnS_Tally_Kill2_0013: 21300046
+      HnS_Tally_Kill2_Slash0001: 21300038
+      HnS_Tally_Kill2_Slash0002: 21300062
+      HnS_Tally_Kill2_Slash0003: 21300016
+      HnS_Tally_Kill2_Slash0004: 21300002
+      HnS_Tally_Kill3_0001: 21300056
+      HnS_Tally_Kill3_0002: 21300092
+      HnS_Tally_Kill3_0003: 21300036
+      HnS_Tally_Kill3_0004: 21300090
+      HnS_Tally_Kill3_0005: 21300060
+      HnS_Tally_Kill3_0006: 21300082
+      HnS_Tally_Kill3_0007: 21300032
+      HnS_Tally_Kill3_0008: 21300054
+      HnS_Tally_Kill3_0009: 21300094
+      HnS_Tally_Kill3_0010: 21300064
+      HnS_Tally_Kill3_Slash0001: 21300068
+      HnS_Tally_Kill3_Slash0002: 21300104
+      HnS_Tally_Kill4_0001: 21300110
+      HnS_Tally_Kill4_0002: 21300044
+      HnS_Tally_Kill4_0003: 21300034
+      HnS_Tally_Kill4_0004: 21300100
+      HnS_Tally_Kill4_0005: 21300048
+      HnS_Tally_Kill4_0006: 21300066
+      HnS_Tally_Kill4_0007: 21300040
+      HnS_Tally_Kill4_0008: 21300000
+      HnS_Tally_Kill4_0009: 21300020
+      HnS_Tally_Kill4_0010: 21300042
+      HnS_Tally_Kill4_0011: 21300096
+      HnS_Tally_Kill4_0012: 21300018
+      HnS_Tally_Kill4_Slash0001: 21300006
+      HnS_Tally_Kill4_Slash0002: 21300074
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

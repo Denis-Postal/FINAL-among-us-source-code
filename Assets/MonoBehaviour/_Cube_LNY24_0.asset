@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 825ac4e4914361a3d7ea08f1b54d9d4f, type: 3}
+  m_Name: _Cube_LNY24
+  m_EditorClassIdentifier:
+  StoreImageRef:
+    m_AssetGUID: ef31348efe37a48159b844c7edb456cb
+    m_SubObjectName:
+    m_SubObjectType:
+  CosmicubePrefabRef:
+    m_AssetGUID: 462f88749f7b74fbd92a2a4bc3fc48f3
+    m_SubObjectName:
+    m_SubObjectType:
+  podIconRef:
+    m_AssetGUID: e2390e6d4ac2343f89319a0f97f18926
+    m_SubObjectName:
+    m_SubObjectType:
+  DateCreated: 01/09/2024
+  allUnlockables:
+  - {fileID: 11400000, guid: 4b99d5731ae8b6944a7741e4e1d7b39a, type: 2}
+  - {fileID: 11400000, guid: 5c8f743f316f3dc45b798ad73b6f4ab6, type: 2}
+  - {fileID: 11400000, guid: d76add1c4459713469367059a5ecaa66, type: 2}
+  - {fileID: 11400000, guid: d0d1783dd190d824f86a4679514aed5e, type: 2}
+  - {fileID: 11400000, guid: e42d9dbfc9bd76c4d943054139408d63, type: 2}
+  - {fileID: 11400000, guid: a8dc6965a9934b0499e6ad50dd45b19b, type: 2}
+  - {fileID: 11400000, guid: 10d81f6ec37c65e479a1b47e5e86000e, type: 2}
+  - {fileID: 11400000, guid: 425a6cf2b893d9943a65b7d28be76ade, type: 2}
+  - {fileID: 11400000, guid: 29ff9562d080a264990e04b1cb56e540, type: 2}
+  - {fileID: 11400000, guid: 5b5f9ffefdefab447b43ef60c62f6ce5, type: 2}
+  - {fileID: 11400000, guid: 58fe3d7b4d36f0a42bc51621b061a1fa, type: 2}
+  - {fileID: 11400000, guid: a6e4af4891dfe944c84d00af26b6325b, type: 2}
+  - {fileID: 11400000, guid: 55244a890ff8a4d489cb736b5e3d2a6b, type: 2}
+  - {fileID: 11400000, guid: f2ba617642691104a85cfcd7dbae45de, type: 2}
+  - {fileID: 11400000, guid: 120a2f73cad6c2c41b1efad16043651d, type: 2}
+  - {fileID: 11400000, guid: f6c389535f9a96b479aebefccb3db581, type: 2}
+  - {fileID: 11400000, guid: 20a5c55ce80a6de4481dc14145c000f3, type: 2}
+  - {fileID: 11400000, guid: 003d1d6a2a8bb5b41a0896e05895d571, type: 2}
+  - {fileID: 11400000, guid: 457cea9501dd8d14bb08fc96276a5c62, type: 2}
+  - {fileID: 11400000, guid: fbb8a89a442a5664784e794eea9d34e5, type: 2}
+  starCost: 20
+  beanCost: 0
+  Order: 0
+  Free: 0
+  NotInStore: 0
+  XRange:
+    min: -1
+    max: 1
+  YRange:
+    min: -1
+    max: 1
+  podId: lny24
+  productId: cube_lny24
+  cosmicubeName: Lunar New Year
+  limitedTime:
+    timeStart:
+      limitedYear: 2025
+      limitedMonth: 1
+      limitedDay: 27
+      limitedHour: 18
+      limitedMinute: 0
+    timeEnd:
+      limitedYear: 2025
+      limitedMonth: 2
+      limitedDay: 27
+      limitedHour: 18
+      limitedMinute: 0
+  epicId:

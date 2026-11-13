@@ -1,0 +1,267 @@
+fileFormatVersion: 2
+guid: 98f5efc1ed2a4d142a9a2d4110eba370
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: IMAGE-FolderBGTabs-Short
+  - first:
+      213: 21300002
+    second: IMAGE-FolderBG
+  - first:
+      213: 21300004
+    second: IMAGE-FolderBGTabs
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IMAGE-FolderBGTabs-Short
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 7
+        width: 180
+        height: 184
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -90, y: -92}
+        - {x: -90, y: 92}
+        - {x: 90, y: 92}
+        - {x: 90, y: -92}
+      physicsShape:
+      - - {x: 85.99999, y: 76}
+        - {x: 78, y: 87}
+        - {x: 70, y: 90}
+        - {x: 63, y: 91.99999}
+        - {x: -72.99999, y: 91.99999}
+        - {x: -87, y: 87}
+        - {x: -87, y: -85.99999}
+        - {x: 77, y: -85.99999}
+        - {x: 87, y: -70}
+        - {x: 87, y: 68}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4f0d6d124641e1b416e4d602402540
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 184}
+      - {x: 180, y: 184}
+      - {x: 0, y: 0}
+      - {x: 180, y: 0}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMAGE-FolderBG
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 196
+        width: 1822
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -910.99994, y: -632}
+        - {x: -910.99994, y: 632}
+        - {x: 910.99994, y: 632}
+        - {x: 910.99994, y: -632}
+      physicsShape:
+      - - {x: 908, y: 485}
+        - {x: 889.99994, y: 506}
+        - {x: 880, y: 502.99997}
+        - {x: -623, y: 610}
+        - {x: -641, y: 632}
+        - {x: -889.99994, y: 632}
+        - {x: -908, y: 617}
+        - {x: -908, y: -607}
+        - {x: -896, y: -623}
+        - {x: -884.99994, y: -626}
+        - {x: 892, y: -626}
+        - {x: 908, y: -608.99994}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30eb91c87ae841ab8b4e829cf202f8e8
+      internalID: 21300002
+      vertices:
+      - {x: 0.000061035156, y: 1264}
+      - {x: 1822, y: 1264}
+      - {x: 0.000061035156, y: 0}
+      - {x: 1822, y: 0}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMAGE-FolderBGTabs
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 7
+        width: 275
+        height: 184
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -137.5, y: -92}
+        - {x: -137.5, y: 92}
+        - {x: 137.5, y: 92}
+        - {x: 137.5, y: -92}
+      physicsShape:
+      - - {x: -115.5, y: 91.99999}
+        - {x: -118.49999, y: 91}
+        - {x: -129.5, y: 83}
+        - {x: -132.5, y: 75}
+        - {x: -134.5, y: 68}
+        - {x: -134.5, y: -71}
+        - {x: -130.5, y: -85.99999}
+        - {x: 122.5, y: -85.99999}
+        - {x: 134.5, y: -71}
+        - {x: 134.5, y: 76}
+        - {x: 120.49999, y: 91.99999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20697df9b0794cf0b1f0f7343afe4971
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 184}
+      - {x: 275, y: 184}
+      - {x: 0, y: 0}
+      - {x: 275, y: 0}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      IMAGE-FolderBG: 21300002
+      IMAGE-FolderBGTabs: 21300004
+      IMAGE-FolderBGTabs-Short: 21300000
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

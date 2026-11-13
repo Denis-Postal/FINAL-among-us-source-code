@@ -1,0 +1,293 @@
+fileFormatVersion: 2
+guid: e22c9cdd2184aea418c2a4daa56f0d77
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: 2023_d2_bean_nameplate_warlock
+  - first:
+      213: 21300002
+    second: 2023_d2_bean_nameplate_titan
+  - first:
+      213: 21300004
+    second: 2023_d2_bean_nameplate_hunter
+  - first:
+      213: 21300006
+    second: 2023_d2_bean_nameplate_lightfall
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2023_d2_bean_nameplate_warlock
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 241
+        width: 274
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49242425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -137, y: -33}
+        - {x: -137, y: 32.999996}
+        - {x: 137, y: 32.999996}
+        - {x: 137, y: -33}
+      physicsShape:
+      - - {x: -133.99998, y: 32.999996}
+        - {x: -137, y: 30}
+        - {x: -137, y: -26.999998}
+        - {x: -130, y: -33}
+        - {x: 137, y: -33}
+        - {x: 137, y: 28.999998}
+        - {x: 133, y: 32.999996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c6975b4898443b97246834ce07f4f6
+      internalID: 21300000
+      vertices:
+      - {x: 274, y: 0.5}
+      - {x: 0, y: 0.5}
+      - {x: 0, y: 66.5}
+      - {x: 274, y: 66.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2023_d2_bean_nameplate_titan
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 309
+        width: 274
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49242425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -137, y: -33}
+        - {x: -137, y: 32.999996}
+        - {x: 137, y: 32.999996}
+        - {x: 137, y: -33}
+      physicsShape:
+      - - {x: -137, y: 32.999996}
+        - {x: -137, y: -32}
+        - {x: -136, y: -33}
+        - {x: 137, y: -33}
+        - {x: 137, y: 25}
+        - {x: 136, y: 32.999996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0110af8a892f4228b6b6f5df9590688b
+      internalID: 21300002
+      vertices:
+      - {x: 274, y: 0.5}
+      - {x: 0, y: 0.5}
+      - {x: 0, y: 66.5}
+      - {x: 274, y: 66.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2023_d2_bean_nameplate_hunter
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 445
+        width: 274
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49242425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -137, y: -33}
+        - {x: -137, y: 32.999996}
+        - {x: 137, y: 32.999996}
+        - {x: 137, y: -33}
+      physicsShape:
+      - - {x: -133, y: 32.999996}
+        - {x: -137, y: 28.999998}
+        - {x: -137, y: -33}
+        - {x: 137, y: -33}
+        - {x: 137, y: 25.999998}
+        - {x: 129, y: 32.999996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edc8b2dea414b20bd86b80687e9c613
+      internalID: 21300004
+      vertices:
+      - {x: 274, y: 0.5}
+      - {x: 0, y: 0.5}
+      - {x: 0, y: 66.5}
+      - {x: 274, y: 66.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2023_d2_bean_nameplate_lightfall
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 377
+        width: 274
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49242425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -137, y: -33}
+        - {x: -137, y: 32.999996}
+        - {x: 137, y: 32.999996}
+        - {x: 137, y: -33}
+      physicsShape:
+      - - {x: -137, y: 32.999996}
+        - {x: -137, y: -32}
+        - {x: -136, y: -33}
+        - {x: 137, y: -33}
+        - {x: 137, y: 25}
+        - {x: 136, y: 32.999996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cb4edc675a45d6a6762401fc9937a9
+      internalID: 21300006
+      vertices:
+      - {x: 274, y: 0.5}
+      - {x: 0, y: 0.5}
+      - {x: 0, y: 66.5}
+      - {x: 274, y: 66.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      2023_d2_bean_nameplate_hunter: 21300004
+      2023_d2_bean_nameplate_lightfall: 21300006
+      2023_d2_bean_nameplate_titan: 21300002
+      2023_d2_bean_nameplate_warlock: 21300000
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

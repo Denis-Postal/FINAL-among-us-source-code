@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fbdf57f19df93d09b0c77f4c0195892, type: 3}
+  m_Name: Mira Cube
+  m_EditorClassIdentifier:
+  ids:
+  - hat_mira_bush
+  - hat_mira_case
+  - hat_mira_cloud
+  - hat_mira_flower
+  - hat_mira_flower_red
+  - hat_mira_gem
+  - hat_mira_headset_blue
+  - hat_mira_headset_pink
+  - hat_mira_headset_yellow
+  - hat_mira_leaf
+  - hat_mira_milk
+  - hat_mira_sign_blue
+  - nameplate_Mira_Cafeteria
+  - nameplate_Mira_Glass
+  - nameplate_Mira_Tiles
+  - nameplate_Mira_Vines
+  - nameplate_Mira_Wood
+  - pet_Bush
+  - skin_Bushskin
+  - skin_BusinessFem-Aquaskin
+  - skin_BusinessFemskin
+  - skin_BusinessFem-Tanskin
+  - skin_Hazmat-Blackskin
+  - skin_Hazmat-Blueskin
+  - skin_Hazmat-Greenskin
+  - skin_Hazmat-Pinkskin
+  - skin_Hazmat-Redskin
+  - skin_Hazmat-Whiteskin
+  - visor_mira_card_blue
+  - visor_mira_card_red
+  - visor_mira_glasses
+  - visor_mira_mask_black
+  - visor_mira_mask_blue
+  - visor_mira_mask_green
+  - visor_mira_mask_purple
+  - visor_mira_mask_red
+  - visor_mira_mask_white
+  date: 2021-02-15

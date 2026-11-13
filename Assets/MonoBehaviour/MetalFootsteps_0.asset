@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6633565c32bcb2522138b426775ef120, type: 3}
+  m_Name: MetalFootsteps
+  m_EditorClassIdentifier:
+  Clips:
+  - {fileID: 8300000, guid: feca957b578dbfd4a9c4e90dd0ee7cd0, type: 3}
+  - {fileID: 8300000, guid: 4d98456d9343af14ab9b0a8a6f875c50, type: 3}
+  - {fileID: 8300000, guid: 2c58254aa95d6ba45ba5c71a82afc751, type: 3}
+  - {fileID: 8300000, guid: 15ed1d4ac62c5654ea1b5d70305f02cb, type: 3}
+  - {fileID: 8300000, guid: c194b2d61ed88c94a890a5a77cf81b55, type: 3}
+  - {fileID: 8300000, guid: 3d3f711b4a2d8d64abedf7a60ebdc254, type: 3}
+  - {fileID: 8300000, guid: b47727c852cf27a4cb1b74a7fd630ae8, type: 3}
+  - {fileID: 8300000, guid: 3c4fbac8338694e488aff3a9a0c1af94, type: 3}

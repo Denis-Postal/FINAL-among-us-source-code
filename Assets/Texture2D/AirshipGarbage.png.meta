@@ -1,0 +1,710 @@
+fileFormatVersion: 2
+guid: 94382048fefbe1a4cae17056bf597ce4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: garbage_bin2front
+  - first:
+      213: 21300002
+    second: garbage_earspulling
+  - first:
+      213: 21300004
+    second: garbage_earsdefault
+  - first:
+      213: 21300006
+    second: garbage_bagwhite
+  - first:
+      213: 21300008
+    second: garbage_bin1front
+  - first:
+      213: 21300010
+    second: garbage_bin3bg
+  - first:
+      213: 21300012
+    second: garbage_bin3front
+  - first:
+      213: 21300014
+    second: garbage_bin1bg
+  - first:
+      213: 21300016
+    second: garbage_bin2bg
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: garbage_bin2front
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1270
+        width: 286
+        height: 245
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -143, y: 101.5}
+        - {x: -122, y: 122.5}
+        - {x: -98.99999, y: 122.5}
+        - {x: -66, y: 97.5}
+        - {x: 42.999996, y: 95.5}
+        - {x: 98.99999, y: 122.5}
+        - {x: 127, y: 122.5}
+        - {x: 143, y: 90.5}
+        - {x: 143, y: 60.499996}
+        - {x: 111, y: 43.5}
+        - {x: 111, y: -113.5}
+        - {x: 39.999996, y: -122.5}
+        - {x: -88, y: -122.5}
+        - {x: -112, y: -98.49999}
+        - {x: -115, y: 45.5}
+        - {x: -143, y: 59.499996}
+      physicsShape:
+      - - {x: 106.99999, y: -99.5}
+        - {x: 109, y: -96.5}
+        - {x: 112, y: -89.5}
+        - {x: 142, y: 57.5}
+        - {x: 143, y: 60.499996}
+        - {x: 143, y: 88.5}
+        - {x: 135, y: 111.5}
+        - {x: 122, y: 116.5}
+        - {x: 116, y: 122.5}
+        - {x: 98.99999, y: 122.5}
+        - {x: 88, y: 109.5}
+        - {x: 75, y: 102.5}
+        - {x: 4.9999995, y: 93.5}
+        - {x: -48, y: 94.5}
+        - {x: -74, y: 99.5}
+        - {x: -98.99999, y: 122.5}
+        - {x: -117.99999, y: 122.5}
+        - {x: -131, y: 114.5}
+        - {x: -135, y: 108.49999}
+        - {x: -143, y: 90.5}
+        - {x: -143, y: 60.499996}
+        - {x: -139, y: 58.499996}
+        - {x: -112, y: 58.499996}
+        - {x: -113, y: -96.5}
+        - {x: -102, y: -109.5}
+        - {x: -91.99999, y: -115.5}
+        - {x: -66, y: -122.5}
+        - {x: 44, y: -122.5}
+        - {x: 61, y: -119.49999}
+        - {x: 79, y: -115.5}
+        - {x: 96, y: -109.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3957735039244465b6ccd16838c10eff
+      internalID: 21300000
+      vertices:
+      - {x: 77, y: 220}
+      - {x: 186, y: 218}
+      - {x: 242, y: 245}
+      - {x: 270, y: 245}
+      - {x: 286, y: 213}
+      - {x: 286, y: 183}
+      - {x: 254, y: 166}
+      - {x: 254, y: 9}
+      - {x: 183, y: 0}
+      - {x: 55, y: 0}
+      - {x: 31, y: 24.000008}
+      - {x: 28, y: 168}
+      - {x: 0, y: 182}
+      - {x: 0, y: 224}
+      - {x: 21, y: 245}
+      - {x: 44.000008, y: 245}
+      indices: 0d0000000e0000000f0000000b0000000d0000000f0000000b0000000c0000000d0000000a00000008000000090000000a0000000b000000080000000800000001000000060000000b000000000000000100000004000000050000000600000002000000030000000400000002000000040000000600000008000000060000000700000001000000020000000600000001000000080000000b000000000000000b0000000f000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_earspulling
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 790
+        width: 35
+        height: 126
+      alignment: 9
+      pivot: {x: 0.54285717, y: 0.023809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -17.5, y: -63}
+        - {x: -17.5, y: 63}
+        - {x: 17.5, y: 63}
+        - {x: 17.5, y: -63}
+      physicsShape:
+      - - {x: 17.5, y: 60.999992}
+        - {x: 15.5, y: 63}
+        - {x: 8.5, y: 63}
+        - {x: 5.5, y: 58.999992}
+        - {x: 2.5, y: 33}
+        - {x: 0.5, y: 11}
+        - {x: -7.5, y: 62}
+        - {x: -8.499999, y: 63}
+        - {x: -17.5, y: 63}
+        - {x: -17.5, y: -22}
+        - {x: -13.499999, y: -60}
+        - {x: -9.5, y: -63}
+        - {x: 7.5, y: -63}
+        - {x: 17.5, y: -61}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07c17f85b6b48a7b4371cb71bb06c5c
+      internalID: 21300002
+      vertices:
+      - {x: 33.5, y: 60}
+      - {x: -1.5, y: 60}
+      - {x: -1.5, y: 186}
+      - {x: 33.5, y: 186}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_earsdefault
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 918
+        width: 97
+        height: 91
+      alignment: 9
+      pivot: {x: 0.6185567, y: 0.054945055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 31.5, y: 45.499992}
+        - {x: 48.5, y: 45.499992}
+        - {x: 48.5, y: 14.5}
+        - {x: 24.5, y: -45.5}
+        - {x: -2.499999, y: -45.5}
+        - {x: -19.499998, y: -11.5}
+        - {x: -48.5, y: 17.5}
+        - {x: -48.5, y: 33.5}
+        - {x: 13.5, y: 19.499996}
+      physicsShape:
+      - - {x: -48.5, y: 10.5}
+        - {x: -48.5, y: -45.5}
+        - {x: -9.500004, y: -45.5}
+        - {x: -9.500004, y: -40.5}
+        - {x: -10.500004, y: -33.5}
+        - {x: -33.500004, y: -2.5}
+        - {x: -43.500004, y: 8.499996}
+      - - {x: 48.499996, y: 43.5}
+        - {x: 46.499996, y: 45.499992}
+        - {x: 35.499996, y: 45.499992}
+        - {x: 29.499996, y: 40.5}
+        - {x: 18.499996, y: 23.5}
+        - {x: 13.499996, y: 11.5}
+        - {x: 8.499996, y: -4.5}
+        - {x: 3.4999962, y: 3.5}
+        - {x: -14.500004, y: 21.5}
+        - {x: -31.5, y: 29.5}
+        - {x: -45.500004, y: 31.5}
+        - {x: -48.5, y: 27.5}
+        - {x: -48.5, y: 18.499996}
+        - {x: -43.500004, y: 11.5}
+        - {x: -25.500004, y: 3.5}
+        - {x: -17.500004, y: -5.5}
+        - {x: -4.500004, y: -43.5}
+        - {x: -2.5000038, y: -45.5}
+        - {x: 15.499996, y: -45.5}
+        - {x: 25.499996, y: -43.5}
+        - {x: 33.499996, y: -25.5}
+        - {x: 35.499996, y: -13.500002}
+        - {x: 48.499996, y: 26.499992}
+      - - {x: -48.5, y: 45.499992}
+        - {x: -48.5, y: 38.5}
+        - {x: -44.500004, y: 38.5}
+        - {x: -38.500004, y: 39.499992}
+        - {x: -32.500004, y: 43.5}
+        - {x: -32.500004, y: 45.499992}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a311105c4947bc8e99795773bdbd7c
+      internalID: 21300004
+      vertices:
+      - {x: 85.5, y: 100.5}
+      - {x: 61.500004, y: 40.5}
+      - {x: 34.500004, y: 40.5}
+      - {x: 17.500006, y: 74.5}
+      - {x: -11.499996, y: 103.5}
+      - {x: -11.499996, y: 119.5}
+      - {x: 50.500004, y: 105.5}
+      - {x: 68.5, y: 131.5}
+      - {x: 85.5, y: 131.5}
+      indices: 000000000700000008000000040000000500000006000000030000000400000006000000000000000600000007000000030000000100000002000000030000000600000001000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_bagwhite
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 991
+        width: 218
+        height: 277
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 79.99999, y: 100.5}
+        - {x: 109, y: 45.5}
+        - {x: 109, y: -90.5}
+        - {x: 78, y: -121.49999}
+        - {x: 26.999998, y: -138.5}
+        - {x: -36, y: -138.5}
+        - {x: -83, y: -124.5}
+        - {x: -106.99999, y: -78.5}
+        - {x: -109, y: -68.5}
+        - {x: -109, y: 35.5}
+        - {x: -74, y: 113.5}
+        - {x: -28, y: 138.5}
+        - {x: 42, y: 138.5}
+      physicsShape:
+      - - {x: 85.99999, y: -114.5}
+        - {x: 97.99999, y: -101.5}
+        - {x: 106.99999, y: -74.5}
+        - {x: 109, y: -57.5}
+        - {x: 109, y: 1.5}
+        - {x: 107.99999, y: 8.5}
+        - {x: 104.99999, y: 33.499996}
+        - {x: 104, y: 38.5}
+        - {x: 98.99999, y: 51.5}
+        - {x: 93, y: 73.49999}
+        - {x: 85, y: 88.5}
+        - {x: 82, y: 94.5}
+        - {x: 69, y: 110.5}
+        - {x: 58.999996, y: 121.49999}
+        - {x: 36, y: 138.5}
+        - {x: -19.999998, y: 138.5}
+        - {x: -26, y: 136.5}
+        - {x: -39, y: 131.5}
+        - {x: -58, y: 119.49999}
+        - {x: -65, y: 114.5}
+        - {x: -77, y: 101.5}
+        - {x: -101, y: 49.499996}
+        - {x: -103, y: 42.5}
+        - {x: -104, y: 34.5}
+        - {x: -106.99999, y: 19.5}
+        - {x: -109, y: -2.4999998}
+        - {x: -109, y: -69.5}
+        - {x: -107.99999, y: -73.49999}
+        - {x: -98.99999, y: -92.49999}
+        - {x: -89, y: -111.5}
+        - {x: -78, y: -120.49999}
+        - {x: -64, y: -130.5}
+        - {x: -39, y: -136.5}
+        - {x: -32, y: -138.5}
+        - {x: 9, y: -138.5}
+        - {x: 47, y: -131.5}
+        - {x: 69, y: -123.5}
+      - - {x: 64, y: -138.5}
+        - {x: 63, y: -135.5}
+        - {x: 57, y: -135.5}
+        - {x: 56, y: -138.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2a1b47977b4eeb86d4793b9af04063
+      internalID: 21300006
+      vertices:
+      - {x: 189, y: 239}
+      - {x: 218, y: 184}
+      - {x: 218, y: 48}
+      - {x: 187, y: 17.000008}
+      - {x: 136, y: 0}
+      - {x: 73, y: 0}
+      - {x: 26, y: 14}
+      - {x: 2.0000076, y: 60}
+      - {x: 0, y: 70}
+      - {x: 0, y: 174}
+      - {x: 35, y: 252}
+      - {x: 81, y: 277}
+      - {x: 151, y: 277}
+      indices: 0900000000000000010000000a00000000000000090000000a0000000b00000000000000040000000200000003000000070000000800000005000000070000000500000006000000040000000500000008000000010000000200000004000000010000000400000008000000010000000800000009000000000000000b0000000c000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_bin1front
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 491
+        width: 227
+        height: 243
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -113.5, y: 121.49999}
+        - {x: -98.49999, y: 121.49999}
+        - {x: -77.5, y: 100.5}
+        - {x: -25.5, y: 93.5}
+        - {x: 62.5, y: 98.49999}
+        - {x: 98.49999, y: 121.49999}
+        - {x: 113.5, y: 121.49999}
+        - {x: 113.5, y: -106.49999}
+        - {x: 52.499996, y: -121.49999}
+        - {x: -70.5, y: -121.49999}
+        - {x: -100.5, y: -112.5}
+        - {x: -113.5, y: -102.5}
+      physicsShape:
+      - - {x: 112.5, y: -95.5}
+        - {x: 113.5, y: -93.5}
+        - {x: 113.5, y: 121.49999}
+        - {x: 99.5, y: 121.49999}
+        - {x: 97.5, y: 120.49999}
+        - {x: 83.5, y: 105.49999}
+        - {x: 38.5, y: 94.5}
+        - {x: -17.5, y: 92.49999}
+        - {x: -59.499996, y: 95.5}
+        - {x: -94.5, y: 111.5}
+        - {x: -94.5, y: 121.49999}
+        - {x: -113.5, y: 121.49999}
+        - {x: -113.5, y: -101.5}
+        - {x: -90.5, y: -118.49999}
+        - {x: -71.5, y: -120.49999}
+        - {x: -57.5, y: -121.49999}
+        - {x: 43.5, y: -121.49999}
+        - {x: 73.49999, y: -117.49999}
+        - {x: 81.5, y: -115.5}
+        - {x: 102.5, y: -106.49999}
+      - - {x: 71.5, y: 119.49999}
+        - {x: 71.5, y: 121.49999}
+        - {x: -84.5, y: 121.49999}
+        - {x: -84.5, y: 118.49999}
+        - {x: -68.5, y: 107.49999}
+        - {x: -34.5, y: 98.49999}
+        - {x: -16.5, y: 96.5}
+        - {x: -6.5, y: 96.5}
+        - {x: 15.5, y: 100.5}
+        - {x: 42.5, y: 106.49999}
+        - {x: 64.5, y: 114.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2df61168b65408d88b9168f402ed771
+      internalID: 21300008
+      vertices:
+      - {x: 36, y: 222}
+      - {x: 88, y: 215}
+      - {x: 176, y: 220}
+      - {x: 212, y: 243}
+      - {x: 227, y: 243}
+      - {x: 227, y: 15.000008}
+      - {x: 166, y: 0.0000076293945}
+      - {x: 43, y: 0.0000076293945}
+      - {x: 13, y: 9}
+      - {x: 0, y: 19}
+      - {x: 0, y: 243}
+      - {x: 15.000008, y: 243}
+      indices: 000000000a0000000b00000009000000000000000100000007000000080000000900000009000000010000000700000007000000010000000600000002000000040000000500000002000000030000000400000006000000020000000500000006000000010000000200000000000000090000000a000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_bin3bg
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 231
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -115.5, y: -44}
+        - {x: -115.5, y: 44}
+        - {x: 115.5, y: 44}
+        - {x: 115.5, y: -44}
+      physicsShape:
+      - - {x: -115.5, y: 44}
+        - {x: -115.5, y: -44}
+        - {x: 115.5, y: -44}
+        - {x: 115.5, y: 44}
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff80ecb808b4e9284c247cc80000fde
+      internalID: 21300010
+      vertices:
+      - {x: 231, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 88}
+      - {x: 231, y: 88}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_bin3front
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 292
+        width: 231
+        height: 197
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -115.5, y: -98.49999}
+        - {x: -115.5, y: 98.49999}
+        - {x: 115.5, y: 98.49999}
+        - {x: 115.5, y: -98.49999}
+      physicsShape:
+      - - {x: -115.5, y: 98.49999}
+        - {x: -115.5, y: -91.5}
+        - {x: -107.49999, y: -98.49999}
+        - {x: 107.49999, y: -98.49999}
+        - {x: 114.5, y: -88.5}
+        - {x: 115.5, y: -60.499996}
+        - {x: 115.5, y: 98.49999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5871a1f645924c479b76eaf05e806342
+      internalID: 21300012
+      vertices:
+      - {x: 231, y: 0.0000076293945}
+      - {x: 0, y: 0.0000076293945}
+      - {x: 0, y: 197}
+      - {x: 231, y: 197}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_bin1bg
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 184
+        width: 227
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -63.5, y: 52.999996}
+        - {x: 86.5, y: 52.999996}
+        - {x: 113.5, y: 26}
+        - {x: 113.5, y: -52.999996}
+        - {x: -113.5, y: -52.999996}
+        - {x: -113.5, y: 42.999996}
+      physicsShape:
+      - - {x: 63.5, y: 52}
+        - {x: 57.5, y: 52.999996}
+        - {x: -72.5, y: 52.999996}
+        - {x: -99.5, y: 42.999996}
+        - {x: -113.5, y: 34}
+        - {x: -113.5, y: -52.999996}
+        - {x: 113.5, y: -52.999996}
+        - {x: 113.5, y: 25}
+        - {x: 105.49999, y: 39}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7a55d59a5c415f88eecfa12c42143b
+      internalID: 21300014
+      vertices:
+      - {x: 227, y: 79}
+      - {x: 227, y: 0.0000038146973}
+      - {x: 0, y: 0.0000038146973}
+      - {x: 0, y: 96}
+      - {x: 50, y: 106}
+      - {x: 200, y: 106}
+      indices: 010000000400000005000000020000000300000004000000010000000200000004000000000000000100000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_bin2bg
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 91
+        width: 229
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -55.5, y: 45.5}
+        - {x: 75.5, y: 45.5}
+        - {x: 114.5, y: 24.499998}
+        - {x: 114.5, y: -39.5}
+        - {x: -102.5, y: -45.5}
+        - {x: -114.5, y: -45.5}
+        - {x: -114.5, y: 31.5}
+        - {x: -75.5, y: 43.5}
+      physicsShape:
+      - - {x: 101.5, y: -38.5}
+        - {x: 110.5, y: -42.5}
+        - {x: 114.5, y: -21.499998}
+        - {x: 114.5, y: 21.499998}
+        - {x: 96.5, y: 36.499996}
+        - {x: 63.5, y: 44.5}
+        - {x: 40.5, y: 45.5}
+        - {x: -56.5, y: 45.5}
+        - {x: -76.5, y: 43.5}
+        - {x: -104.49999, y: 34.5}
+        - {x: -114.5, y: 21.499998}
+        - {x: -114.5, y: -18.5}
+        - {x: -111.5, y: -42.5}
+        - {x: -110.5, y: -45.5}
+        - {x: -77.5, y: -45.5}
+        - {x: -32.5, y: -42.5}
+        - {x: -3.5, y: -41.5}
+        - {x: 26.499998, y: -40.5}
+        - {x: 55.5, y: -39.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d20218f30bc4f2ba8fcd471b3961e4c
+      internalID: 21300016
+      vertices:
+      - {x: 229, y: 70}
+      - {x: 229, y: 6}
+      - {x: 12, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 77}
+      - {x: 39, y: 89}
+      - {x: 59, y: 91}
+      - {x: 190, y: 91}
+      indices: 010000000600000007000000020000000500000006000000040000000200000003000000040000000500000002000000010000000200000006000000000000000100000007000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      garbage_bagwhite: 21300006
+      garbage_bin1bg: 21300014
+      garbage_bin1front: 21300008
+      garbage_bin2bg: 21300016
+      garbage_bin2front: 21300000
+      garbage_bin3bg: 21300010
+      garbage_bin3front: 21300012
+      garbage_earsdefault: 21300004
+      garbage_earspulling: 21300002
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

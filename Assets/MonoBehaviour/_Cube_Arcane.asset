@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 825ac4e4914361a3d7ea08f1b54d9d4f, type: 3}
+  m_Name: _Cube_Arcane
+  m_EditorClassIdentifier:
+  StoreImageRef:
+    m_AssetGUID: 8cfcb0a7875664434bd309de44b1d5cc
+    m_SubObjectName: cosmicube_arcane
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  CosmicubePrefabRef:
+    m_AssetGUID: b31aa13925ac64c35a0d127f3e90d4c8
+    m_SubObjectName:
+    m_SubObjectType:
+  podIconRef:
+    m_AssetGUID: 6286777d688e64bf496cb60c131cdd46
+    m_SubObjectName: UI_currency_Arcane
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  DateCreated:
+  allUnlockables:
+  - {fileID: 11400000, guid: 269ddcb5e77ad0b4a9695b5124e89ada, type: 2}
+  - {fileID: 11400000, guid: 777a3c366d1afec459073408dfb93031, type: 2}
+  - {fileID: 11400000, guid: f0f15499ec8cdd147a997b5028eab4d8, type: 2}
+  - {fileID: 11400000, guid: e34c1ee5463ee534a93a7df7411c7f66, type: 2}
+  - {fileID: 11400000, guid: d6ed653a5ee73a344908c3bd76d0dab1, type: 2}
+  - {fileID: 11400000, guid: 8a1d751f68e538c46be510742de48d02, type: 2}
+  - {fileID: 11400000, guid: b99a8a23f2a049745bd8e84b985f51cd, type: 2}
+  - {fileID: 11400000, guid: 41314ae71d6f65941a0ca856b87a7420, type: 2}
+  - {fileID: 11400000, guid: 2adcbf492242f6646b6c9432fbb1f893, type: 2}
+  - {fileID: 11400000, guid: e43475185d89485428e624d26965d4fe, type: 2}
+  - {fileID: 11400000, guid: acadb40978c841743b5f9a49c9d1b390, type: 2}
+  - {fileID: 11400000, guid: a51d6e8ebf354224c97f1ee77dd434ad, type: 2}
+  - {fileID: 11400000, guid: 2d60767186a765d4fae41e89f9d921e0, type: 2}
+  - {fileID: 11400000, guid: 3a1e8d24f6fe9dd4784c9f7ff4e41b7d, type: 2}
+  - {fileID: 11400000, guid: ce3872d7fd500b1459d20b6e0103f975, type: 2}
+  - {fileID: 11400000, guid: f39f2b4281765044a8d5e871c22ab7b5, type: 2}
+  - {fileID: 11400000, guid: d75b37e2d0eb64e418dad952bb658f95, type: 2}
+  starCost: 80
+  beanCost: 0
+  Order: 0
+  Free: 0
+  NotInStore: 0
+  XRange:
+    min: -0.25
+    max: 0.11
+  YRange:
+    min: -0.5
+    max: 0.3
+  podId: arcane
+  productId: cube_arcane
+  cosmicubeName: Arcane
+  limitedTime:
+    timeStart:
+      limitedYear: 2021
+      limitedMonth: 11
+      limitedDay: 12
+      limitedHour: 19
+      limitedMinute: 0
+    timeEnd:
+      limitedYear: 2021
+      limitedMonth: 12
+      limitedDay: 31
+      limitedHour: 23
+      limitedMinute: 59
+  epicId:

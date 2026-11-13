@@ -1,0 +1,4 @@
+namespace Epic.OnlineServices.RTCData
+{
+	public delegate void OnDataReceivedCallback(ref DataReceivedCallbackInfo data);
+}

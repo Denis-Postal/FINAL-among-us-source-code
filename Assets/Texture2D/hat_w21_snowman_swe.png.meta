@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: 9f4ff2af15bc7574fbd1892736d043bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8973358827377397318
+    second: hat_w21_snowman_swe_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hat_w21_snowman_swe_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 103
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e02f38f46c78c70800000000000000
+      internalID: 8973358827377397318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -45.5, y: -47}
+      - {x: -51.5, y: -35}
+      - {x: -51.5, y: 55}
+      - {x: 12.5, y: 55}
+      - {x: 25.5, y: 37}
+      - {x: 32.5, y: 15.000001}
+      - {x: 41.5, y: 26}
+      - {x: 51.5, y: 27.000002}
+      - {x: 51.5, y: -54.000004}
+      - {x: 45.5, y: -55}
+      - {x: -36.5, y: -55}
+    customData: 
+    physicsShape:
+    - - {x: 35.5, y: -3}
+      - {x: 50.5, y: 6}
+      - {x: 51.5, y: 7}
+      - {x: 51.5, y: 14.999999}
+      - {x: 49.499996, y: 22}
+      - {x: 42.5, y: 25}
+      - {x: 27.5, y: 9.999999}
+      - {x: 23.5, y: 37}
+      - {x: 12.5, y: 52}
+      - {x: 9.5, y: 55}
+      - {x: -15.5, y: 55}
+      - {x: -23.5, y: 48.999996}
+      - {x: -25.5, y: 25}
+      - {x: -24.499998, y: 2}
+      - {x: -38.5, y: 21}
+      - {x: -48.5, y: 19}
+      - {x: -51.5, y: 14.999999}
+      - {x: -51.5, y: 2}
+      - {x: -40.5, y: -9.999999}
+      - {x: -34.5, y: -22.999998}
+      - {x: -36.499996, y: -39.999996}
+      - {x: -20.5, y: -55}
+      - {x: 23.5, y: -55}
+      - {x: 39.5, y: -48}
+      - {x: 48.5, y: -39.999996}
+      - {x: 47.5, y: -18}
+    bones: []
+    spriteID: 743bc11c58604bcdb6fbc1b084a100d0
+    internalID: 0
+    vertices:
+    - {x: 103, y: 82}
+    - {x: 97, y: 0}
+    - {x: 103, y: 0.9999962}
+    - {x: 93, y: 81}
+    - {x: 84, y: 70}
+    - {x: 77, y: 92}
+    - {x: 64, y: 110}
+    - {x: 15, y: 0}
+    - {x: 6, y: 8}
+    - {x: 0, y: 110}
+    - {x: 0, y: 20}
+    indices: 0a0000000900000008000000060000000800000009000000070000000800000006000000010000000700000006000000050000000100000006000000040000000100000005000000030000000100000004000000000000000100000003000000020000000100000000000000i
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

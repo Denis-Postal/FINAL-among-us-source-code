@@ -1,0 +1,388 @@
+fileFormatVersion: 2
+guid: fcb6c29aa425062429246c6bc4cc594d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: panel_weather2_screendisabled
+  - first:
+      213: 21300002
+    second: panel_weather2_lampOn
+  - first:
+      213: 21300004
+    second: panel_weather2_lampOff
+  - first:
+      213: 21300006
+    second: panel_weather2_switch
+  - first:
+      213: 21300008
+    second: panel_weather_BG
+  - first:
+      213: 21300010
+    second: panel_weather2_screen
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: panel_weather2_screendisabled
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 83
+        width: 336
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -168, y: -28.5}
+        - {x: -168, y: 28.5}
+        - {x: 168, y: 28.5}
+        - {x: 168, y: -28.5}
+      physicsShape:
+      - - {x: -168, y: 28.5}
+        - {x: -168, y: -28.5}
+        - {x: 168, y: -28.5}
+        - {x: 168, y: 28.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445b9b76aa4144a690cfdffdc76e4e48
+      internalID: 21300000
+      vertices:
+      - {x: 336, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 57}
+      - {x: 336, y: 57}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_weather2_lampOn
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 2
+        width: 82
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5304878, y: 0.47468355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -40.999996, y: -39.5}
+        - {x: -40.999996, y: 39.5}
+        - {x: 41, y: 39.5}
+        - {x: 41, y: -39.5}
+      physicsShape:
+      - - {x: 30.999996, y: 27.499998}
+        - {x: 10.999996, y: 33.5}
+        - {x: -6.000004, y: 33.5}
+        - {x: -15.000004, y: 31.499996}
+        - {x: -32.000004, y: 15.5}
+        - {x: -35.000004, y: 7.5}
+        - {x: -35.000004, y: -8.5}
+        - {x: -32.000004, y: -18.5}
+        - {x: -20.000004, y: -30.5}
+        - {x: -12.000004, y: -33.5}
+        - {x: 16.999996, y: -33.5}
+        - {x: 31.999994, y: -21.5}
+        - {x: 34.999996, y: -16.5}
+        - {x: 34.999996, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13741d942996415186e78a2386497898
+      internalID: 21300002
+      vertices:
+      - {x: 79.5, y: 2}
+      - {x: -2.4999924, y: 2}
+      - {x: -2.4999924, y: 81}
+      - {x: 79.5, y: 81}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_weather2_lampOff
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 28
+        width: 56
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -9, y: 26.499998}
+        - {x: 12, y: 26.499998}
+        - {x: 28, y: 20.5}
+        - {x: 28, y: -26.499998}
+        - {x: -16, y: -26.499998}
+        - {x: -25, y: -17.5}
+        - {x: -28, y: -11.499999}
+        - {x: -28, y: 10.5}
+        - {x: -17, y: 24.499998}
+      physicsShape:
+      - - {x: -14, y: 26.499998}
+        - {x: -17, y: 25.5}
+        - {x: -28, y: 18.5}
+        - {x: -28, y: -22.5}
+        - {x: -19, y: -26.499998}
+        - {x: 18, y: -26.499998}
+        - {x: 28, y: -17.5}
+        - {x: 28, y: 14.5}
+        - {x: 14.999999, y: 26.499998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94254c3207cd4121a215b7a97f66f32c
+      internalID: 21300004
+      vertices:
+      - {x: 56, y: 47}
+      - {x: 56, y: 0.0000019073486}
+      - {x: 12, y: 0.0000019073486}
+      - {x: 3, y: 9}
+      - {x: 0, y: 15.000001}
+      - {x: 0, y: 37}
+      - {x: 11, y: 51}
+      - {x: 19, y: 53}
+      - {x: 40, y: 53}
+      indices: 020000000700000008000000050000000600000007000000040000000500000007000000030000000400000007000000020000000300000007000000010000000200000008000000000000000100000008000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_weather2_switch
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 17
+        width: 115
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 12.5, y: 32}
+        - {x: 57.5, y: 32}
+        - {x: 57.5, y: -32}
+        - {x: -57.5, y: -32}
+        - {x: -57.5, y: 25}
+      physicsShape:
+      - - {x: -26.499998, y: 32}
+        - {x: -57.5, y: 26}
+        - {x: -57.5, y: -32}
+        - {x: 57.5, y: -32}
+        - {x: 57.5, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9060edf148e4716a0cc55b1f884b663
+      internalID: 21300006
+      vertices:
+      - {x: 115, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 57}
+      - {x: 70, y: 64}
+      - {x: 115, y: 64}
+      indices: 000000000300000004000000010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_weather_BG
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 142
+        width: 655
+        height: 585
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -327.5, y: -292.5}
+        - {x: -327.5, y: 292.5}
+        - {x: 327.5, y: 292.5}
+        - {x: 327.5, y: -292.5}
+      physicsShape:
+      - - {x: -327.5, y: 292.5}
+        - {x: -327.5, y: -292.5}
+        - {x: 327.5, y: -292.5}
+        - {x: 327.5, y: 292.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50baaf12fed410caea4bbd1aec22385
+      internalID: 21300008
+      vertices:
+      - {x: 655, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 585}
+      - {x: 655, y: 585}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_weather2_screen
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 83
+        width: 336
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -168, y: -28.5}
+        - {x: -168, y: 28.5}
+        - {x: 168, y: 28.5}
+        - {x: 168, y: -28.5}
+      physicsShape:
+      - - {x: -168, y: 28.5}
+        - {x: -168, y: -28.5}
+        - {x: 168, y: -28.5}
+        - {x: 168, y: 28.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3fd3cb03094c30b38bb7a727800d65
+      internalID: 21300010
+      vertices:
+      - {x: 336, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 57}
+      - {x: 336, y: 57}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      panel_weather2_lampOff: 21300004
+      panel_weather2_lampOn: 21300002
+      panel_weather2_screen: 21300010
+      panel_weather2_screendisabled: 21300000
+      panel_weather2_switch: 21300006
+      panel_weather_BG: 21300008
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2658 @@
+fileFormatVersion: 2
+guid: c95535b7e941607479c1f7289b5f5b8f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Electric-engine_electric0002
+  - first:
+      213: 21300002
+    second: Engine-EngineIdle0007
+  - first:
+      213: 21300004
+    second: Steam-Engine_steam0008
+  - first:
+      213: 21300006
+    second: Electric-engine_electric0017
+  - first:
+      213: 21300008
+    second: Engine-EngineIdle0004
+  - first:
+      213: 21300010
+    second: chain02
+  - first:
+      213: 21300012
+    second: Steam-Engine_steam0011
+  - first:
+      213: 21300014
+    second: Engine-EngineIdle0008
+  - first:
+      213: 21300016
+    second: Electric-engine_electric0030
+  - first:
+      213: 21300018
+    second: Electric-engine_electric0027
+  - first:
+      213: 21300020
+    second: engine_railback
+  - first:
+      213: 21300022
+    second: panel_enginefuel
+  - first:
+      213: 21300024
+    second: Steam-Engine_steam0002
+  - first:
+      213: 21300026
+    second: Steam-Engine_steam0004
+  - first:
+      213: 21300028
+    second: Electric-engine_electric0015
+  - first:
+      213: 21300030
+    second: Steam-Engine_steam0009
+  - first:
+      213: 21300032
+    second: chain01
+  - first:
+      213: 21300034
+    second: Engine-EngineIdle0001
+  - first:
+      213: 21300036
+    second: Steam-Engine_steam0013
+  - first:
+      213: 21300038
+    second: Engine-EngineIdle0002
+  - first:
+      213: 21300040
+    second: Steam-Engine_steam0006
+  - first:
+      213: 21300042
+    second: Electric-engine_electric0046
+  - first:
+      213: 21300044
+    second: Steam-Engine_steam0010
+  - first:
+      213: 21300046
+    second: Engine-EngineIdle0006
+  - first:
+      213: 21300048
+    second: Engine-EngineIdle0003
+  - first:
+      213: 21300050
+    second: Electric-engine_electric0028
+  - first:
+      213: 21300052
+    second: Steam-Engine_steam0007
+  - first:
+      213: 21300054
+    second: Electric-engine_electric0004
+  - first:
+      213: 21300056
+    second: Steam-Engine_steam0014
+  - first:
+      213: 21300058
+    second: Electric-engine_electric0001
+  - first:
+      213: 21300060
+    second: room_REng
+  - first:
+      213: 21300062
+    second: room_LEng
+  - first:
+      213: 21300064
+    second: panel_enginealign
+  - first:
+      213: 21300066
+    second: Steam-Engine_steam0001
+  - first:
+      213: 21300068
+    second: Steam-Engine_steam0005
+  - first:
+      213: 21300070
+    second: Engine-EngineIdle0005
+  - first:
+      213: 21300072
+    second: engine_rail
+  - first:
+      213: 21300074
+    second: Electric-engine_electric0049
+  - first:
+      213: 21300076
+    second: Steam-Engine_steam0003
+  - first:
+      213: 21300078
+    second: Electric-engine_electric0047
+  - first:
+      213: 21300080
+    second: Steam-Engine_steam0012
+  - first:
+      213: 21300082
+    second: Electric-engine_electric0014
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Electric-engine_electric0002
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 952
+        width: 66
+        height: 20
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -33, y: -10}
+        - {x: -33, y: 9.999998}
+        - {x: 33, y: 9.999998}
+        - {x: 33, y: -10}
+      physicsShape:
+      - - {x: -23.999998, y: 3}
+        - {x: -23.999998, y: -1}
+        - {x: -6, y: -5.0000005}
+        - {x: 16, y: -5.0000005}
+        - {x: 24, y: -0.0000009536743}
+        - {x: 24, y: 6}
+        - {x: -23, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f90f30b8634578ae0c121f929b7e29
+      internalID: 21300000
+      vertices:
+      - {x: 63, y: 10}
+      - {x: -3, y: 10}
+      - {x: -3, y: 29.999998}
+      - {x: 63, y: 29.999998}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine-EngineIdle0007
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 392
+        width: 310
+        height: 273
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -155, y: 136.5}
+        - {x: -125, y: 136.5}
+        - {x: -61, y: 112.5}
+        - {x: 126, y: 102.5}
+        - {x: 155, y: 37.5}
+        - {x: 155, y: -46.5}
+        - {x: 133.99998, y: -89.5}
+        - {x: -52.999996, y: -91.5}
+        - {x: -56, y: -125.5}
+        - {x: -70, y: -136.5}
+        - {x: -155, y: -136.5}
+      physicsShape:
+      - - {x: 129, y: -89.5}
+        - {x: 133, y: -87.5}
+        - {x: 146.99998, y: -63.5}
+        - {x: 155, y: -28.5}
+        - {x: 155, y: 30.5}
+        - {x: 141, y: 70.5}
+        - {x: 137, y: 77.5}
+        - {x: 116, y: 100.5}
+        - {x: 104.99999, y: 103.5}
+        - {x: 47, y: 106.49999}
+        - {x: -53.999996, y: 106.49999}
+        - {x: -62, y: 121.49999}
+        - {x: -85, y: 108.49999}
+        - {x: -125, y: 136.5}
+        - {x: -155, y: 136.5}
+        - {x: -155, y: -136.5}
+        - {x: -69, y: -136.5}
+        - {x: -56, y: -123.5}
+        - {x: -56, y: -89.5}
+      - - {x: 116.99999, y: -132.5}
+        - {x: 124, y: -135.5}
+        - {x: 145, y: -135.5}
+        - {x: 155, y: -117.49999}
+        - {x: 155, y: -94.5}
+        - {x: -52, y: -94.5}
+        - {x: -53.999996, y: -96.5}
+        - {x: -53.999996, y: -104.49999}
+        - {x: -31, y: -111.5}
+        - {x: -26, y: -135.5}
+        - {x: 109, y: -135.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bb993712104ac3b7a07d2aff7bc4da
+      internalID: 21300002
+      vertices:
+      - {x: 94, y: 249}
+      - {x: 281, y: 239}
+      - {x: 310, y: 174}
+      - {x: 310, y: 90}
+      - {x: 289, y: 47}
+      - {x: 102, y: 45}
+      - {x: 99, y: 11}
+      - {x: 85, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 273}
+      - {x: 30, y: 273}
+      indices: 05000000090000000a00000005000000060000000700000005000000070000000800000005000000080000000900000003000000040000000500000000000000020000000500000005000000020000000300000000000000010000000200000000000000050000000a000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam-Engine_steam0008
+      rect:
+        serializedVersion: 2
+        x: 469.0429
+        y: 983
+        width: 62.957092
+        height: 40
+      alignment: 9
+      pivot: {x: 0.51554304, y: -0.5375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -11.521454, y: 20}
+        - {x: 31.478546, y: 20}
+        - {x: 31.478546, y: -20.000002}
+        - {x: -30.521454, y: -20.000002}
+        - {x: -31.521454, y: 10.999996}
+      physicsShape:
+      - - {x: -15.521454, y: 17.999996}
+        - {x: -26.521454, y: 10.999996}
+        - {x: -27.521454, y: 6}
+        - {x: -27.521454, y: -15.000002}
+        - {x: -22.521454, y: -17.000002}
+        - {x: 4.478546, y: -17.000002}
+        - {x: 11.478546, y: -16}
+        - {x: 27.478544, y: -6}
+        - {x: 27.478544, y: 7.999996}
+        - {x: 14.478545, y: 17.999996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd20aee89de4d4f91b07d58aa84d99a
+      internalID: 21300004
+      vertices:
+      - {x: 61.978546, y: 41.5}
+      - {x: -0.021453857, y: 41.5}
+      - {x: -1.0214539, y: 72.5}
+      - {x: 18.978546, y: 81.5}
+      - {x: 61.978546, y: 81.5}
+      indices: 000000000300000004000000010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric-engine_electric0017
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 978
+        width: 78
+        height: 45
+      alignment: 9
+      pivot: {x: 0.525641, y: 0.24444444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 39, y: 22.5}
+        - {x: 39, y: -22.5}
+        - {x: -6, y: 22.5}
+      - - {x: -39, y: 4.5}
+        - {x: -39, y: 22.5}
+        - {x: -14, y: 22.5}
+        - {x: -14, y: 4.5}
+      physicsShape:
+      - - {x: -30, y: 18.499998}
+        - {x: -34, y: 15.499998}
+        - {x: -34, y: 10.5}
+        - {x: -33, y: 8.499998}
+        - {x: -20, y: 8.499998}
+        - {x: -17.999998, y: 11.499998}
+        - {x: -17.999998, y: 15.499998}
+        - {x: -22, y: 18.499998}
+      - - {x: 14, y: 18.499998}
+        - {x: 14, y: 12.5}
+        - {x: 15, y: 8.499998}
+        - {x: 34, y: 8.499998}
+        - {x: 34, y: 18.499998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071a5f1871dc408a961f511d8a7c822a
+      internalID: 21300006
+      vertices:
+      - {x: 76, y: 11.5}
+      - {x: 31, y: 56.5}
+      - {x: 76, y: 56.5}
+      - {x: 23, y: 38.5}
+      - {x: -2, y: 38.5}
+      - {x: -2, y: 56.5}
+      - {x: 23, y: 56.5}
+      indices: 000000000100000002000000040000000500000006000000030000000400000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine-EngineIdle0004
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 392
+        width: 310
+        height: 273
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -155, y: 136.5}
+        - {x: -125, y: 136.5}
+        - {x: -61, y: 112.5}
+        - {x: 126, y: 102.5}
+        - {x: 155, y: 37.5}
+        - {x: 155, y: -46.5}
+        - {x: 133.99998, y: -89.5}
+        - {x: -52.999996, y: -91.5}
+        - {x: -56, y: -125.5}
+        - {x: -70, y: -136.5}
+        - {x: -155, y: -136.5}
+      physicsShape:
+      - - {x: 129, y: -89.5}
+        - {x: 133, y: -87.5}
+        - {x: 146.99998, y: -63.5}
+        - {x: 155, y: -28.5}
+        - {x: 155, y: 30.5}
+        - {x: 141, y: 70.5}
+        - {x: 137, y: 77.5}
+        - {x: 116, y: 100.5}
+        - {x: 104.99999, y: 103.5}
+        - {x: 47, y: 106.49999}
+        - {x: -53.999996, y: 106.49999}
+        - {x: -62, y: 121.49999}
+        - {x: -85, y: 108.49999}
+        - {x: -125, y: 136.5}
+        - {x: -155, y: 136.5}
+        - {x: -155, y: -136.5}
+        - {x: -69, y: -136.5}
+        - {x: -56, y: -123.5}
+        - {x: -56, y: -89.5}
+      - - {x: 116.99999, y: -132.5}
+        - {x: 124, y: -135.5}
+        - {x: 145, y: -135.5}
+        - {x: 155, y: -117.49999}
+        - {x: 155, y: -94.5}
+        - {x: -52, y: -94.5}
+        - {x: -53.999996, y: -96.5}
+        - {x: -53.999996, y: -104.49999}
+        - {x: -31, y: -111.5}
+        - {x: -26, y: -135.5}
+        - {x: 109, y: -135.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf964a2668c44469ac4e369e5777f49
+      internalID: 21300008
+      vertices:
+      - {x: 94, y: 249}
+      - {x: 281, y: 239}
+      - {x: 310, y: 174}
+      - {x: 310, y: 90}
+      - {x: 289, y: 47}
+      - {x: 102, y: 45}
+      - {x: 99, y: 11}
+      - {x: 85, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 273}
+      - {x: 30, y: 273}
+      indices: 05000000090000000a00000005000000060000000700000005000000070000000800000005000000080000000900000003000000040000000500000000000000020000000500000005000000020000000300000000000000010000000200000000000000050000000a000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain02
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 903
+        width: 6
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -3, y: -18.5}
+        - {x: -3, y: 18.5}
+        - {x: 3, y: 18.5}
+        - {x: 3, y: -18.5}
+      physicsShape:
+      - - {x: -3, y: 18.5}
+        - {x: -3, y: -18.5}
+        - {x: 3, y: -18.5}
+        - {x: 3, y: 18.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01ee496a7694074afb9052478e90d46
+      internalID: 21300010
+      vertices:
+      - {x: 6, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 37}
+      - {x: 6, y: 37}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam-Engine_steam0011
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 928
+        width: 58
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5258621, y: -0.39285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -27, y: -3}
+        - {x: -28.999998, y: 19}
+        - {x: 17, y: 20.999996}
+        - {x: 29, y: -21}
+      physicsShape:
+      - - {x: -28.999998, y: -21}
+        - {x: -6.999998, y: -21}
+        - {x: -8.999998, y: -14}
+        - {x: -18.999998, y: -6}
+        - {x: -28.999998, y: -6}
+      - - {x: 6.000002, y: -5}
+        - {x: 6.000002, y: -6}
+        - {x: 8.000002, y: -9}
+        - {x: 11.000002, y: -9}
+        - {x: 19.000002, y: -5}
+        - {x: 19.000002, y: -2}
+        - {x: 17.000002, y: 0}
+        - {x: 11.000002, y: 0}
+      - - {x: -7.999998, y: 17}
+        - {x: -21.999998, y: 5}
+        - {x: -21.999998, y: 1}
+        - {x: -20.999998, y: 0}
+        - {x: -9.999997, y: 0}
+        - {x: 3.000002, y: 1}
+        - {x: 13.000001, y: 2}
+        - {x: 14.000002, y: 4}
+        - {x: 14.000002, y: 17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10519c1a89e475299b00f80b6257df7
+      internalID: 21300012
+      vertices:
+      - {x: 56.5, y: 37.5}
+      - {x: 0.4999981, y: 55.5}
+      - {x: -1.5, y: 77.5}
+      - {x: 44.499996, y: 79.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine-EngineIdle0008
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 392
+        width: 310
+        height: 273
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -155, y: 136.5}
+        - {x: -125, y: 136.5}
+        - {x: -61, y: 112.5}
+        - {x: 126, y: 102.5}
+        - {x: 155, y: 37.5}
+        - {x: 155, y: -46.5}
+        - {x: 133.99998, y: -89.5}
+        - {x: -52.999996, y: -91.5}
+        - {x: -56, y: -125.5}
+        - {x: -70, y: -136.5}
+        - {x: -155, y: -136.5}
+      physicsShape:
+      - - {x: 129, y: -89.5}
+        - {x: 133, y: -87.5}
+        - {x: 146.99998, y: -63.5}
+        - {x: 155, y: -28.5}
+        - {x: 155, y: 30.5}
+        - {x: 141, y: 70.5}
+        - {x: 137, y: 77.5}
+        - {x: 116, y: 100.5}
+        - {x: 104.99999, y: 103.5}
+        - {x: 47, y: 106.49999}
+        - {x: -53.999996, y: 106.49999}
+        - {x: -62, y: 121.49999}
+        - {x: -85, y: 108.49999}
+        - {x: -125, y: 136.5}
+        - {x: -155, y: 136.5}
+        - {x: -155, y: -136.5}
+        - {x: -69, y: -136.5}
+        - {x: -56, y: -123.5}
+        - {x: -56, y: -89.5}
+      - - {x: 116.99999, y: -132.5}
+        - {x: 124, y: -135.5}
+        - {x: 145, y: -135.5}
+        - {x: 155, y: -117.49999}
+        - {x: 155, y: -94.5}
+        - {x: -52, y: -94.5}
+        - {x: -53.999996, y: -96.5}
+        - {x: -53.999996, y: -104.49999}
+        - {x: -31, y: -111.5}
+        - {x: -26, y: -135.5}
+        - {x: 109, y: -135.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcecf22f02f847ac9d6a0bcea3f9d802
+      internalID: 21300014
+      vertices:
+      - {x: 94, y: 249}
+      - {x: 281, y: 239}
+      - {x: 310, y: 174}
+      - {x: 310, y: 90}
+      - {x: 289, y: 47}
+      - {x: 102, y: 45}
+      - {x: 99, y: 11}
+      - {x: 85, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 273}
+      - {x: 30, y: 273}
+      indices: 05000000090000000a00000005000000060000000700000005000000070000000800000005000000080000000900000003000000040000000500000000000000020000000500000005000000020000000300000000000000010000000200000000000000050000000a000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric-engine_electric0030
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 957
+        width: 32
+        height: 24
+      alignment: 9
+      pivot: {x: -0.09375, y: 1.2916666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -16, y: -12}
+        - {x: -16, y: 12}
+        - {x: 16, y: 12}
+        - {x: 16, y: -12}
+      physicsShape:
+      - - {x: 0.9999981, y: 8}
+        - {x: -10, y: 0}
+        - {x: -10, y: -3}
+        - {x: -9.000001, y: -5}
+        - {x: -2, y: -3.999998}
+        - {x: 5, y: -7.999998}
+        - {x: 9, y: -7.999998}
+        - {x: 10.999998, y: -7}
+        - {x: 10.999998, y: -0.9999981}
+        - {x: 7, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf8314195ee44b5ae1d9892c1795083
+      internalID: 21300016
+      vertices:
+      - {x: 51, y: -19}
+      - {x: 19, y: -19}
+      - {x: 19, y: 5}
+      - {x: 51, y: 5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric-engine_electric0027
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 366
+        width: 50
+        height: 35
+      alignment: 9
+      pivot: {x: 0.78, y: 0.82857144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -25, y: -3.499999}
+        - {x: -4, y: 17.5}
+        - {x: 25, y: -17.5}
+        - {x: -25, y: -17.5}
+      physicsShape:
+      - - {x: -20, y: -7.5}
+        - {x: -20, y: -12.5}
+        - {x: 5, y: -12.5}
+        - {x: 5, y: -7.5}
+        - {x: -2, y: 5.5}
+        - {x: -7, y: 5.5}
+        - {x: -11, y: 4.5}
+      - - {x: 2, y: 17.5}
+        - {x: 3, y: 13.5}
+        - {x: 7, y: 9.5}
+        - {x: 9, y: 9.5}
+        - {x: 14, y: 14.5}
+        - {x: 14, y: 17.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093ac0f0801a4d2cbbfbd52d6d7eb237
+      internalID: 21300018
+      vertices:
+      - {x: 36, y: -11.5}
+      - {x: -14, y: -11.5}
+      - {x: -14, y: 2.500001}
+      - {x: 7, y: 23.5}
+      indices: 000000000200000003000000000000000100000002000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engine_railback
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 870
+        width: 63
+        height: 153
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -9.5, y: 61.5}
+        - {x: -31.5, y: 21.499998}
+        - {x: -31.5, y: 76.5}
+        - {x: 31.5, y: 76.5}
+        - {x: 31.5, y: -76.5}
+        - {x: 22.5, y: -76.5}
+        - {x: 17.5, y: 38.5}
+        - {x: -2.4999998, y: 38.5}
+      physicsShape:
+      - - {x: -3.5, y: -39.5}
+        - {x: -31.5, y: -39.5}
+        - {x: -31.5, y: -76.5}
+        - {x: 18.5, y: -76.5}
+        - {x: 18.5, y: -72.5}
+        - {x: 5.5, y: -41.5}
+      - - {x: -31.5, y: 76.5}
+        - {x: -31.5, y: 29.499998}
+        - {x: 1.5, y: -76.5}
+        - {x: 31.5, y: -76.5}
+        - {x: 31.5, y: 76.5}
+      - - {x: 8.5, y: -11.499999}
+        - {x: -11.499999, y: -11.499999}
+        - {x: -21.499998, y: 4.5}
+        - {x: -25.5, y: 4.5}
+        - {x: -31.5, y: 1.5}
+        - {x: -31.5, y: -26.499998}
+        - {x: -30.5, y: -28.5}
+        - {x: -19.5, y: -28.5}
+        - {x: -9.5, y: -23.5}
+        - {x: 0.5, y: -22.5}
+        - {x: 9.5, y: -16.5}
+        - {x: 9.5, y: -13.499999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada1adf11f7f436fb2cbb14cda67498c
+      internalID: 21300020
+      vertices:
+      - {x: 63, y: 0}
+      - {x: 54, y: 0}
+      - {x: 49, y: 115}
+      - {x: 29, y: 115}
+      - {x: 22, y: 138}
+      - {x: 0, y: 98}
+      - {x: 0, y: 153}
+      - {x: 63, y: 153}
+      indices: 040000000500000006000000040000000600000007000000020000000400000007000000020000000300000004000000000000000200000007000000000000000100000002000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enginefuel
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 957.02673
+        width: 47
+        height: 65.9465
+      alignment: 9
+      pivot: {x: 0.5106383, y: 0.49241832}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23.499998, y: 12.000015}
+        - {x: 23.499998, y: 3.0000153}
+        - {x: 4.5, y: -31.999985}
+        - {x: -21.5, y: -32.999985}
+        - {x: -23.5, y: -14.999985}
+        - {x: -23.5, y: 24.000013}
+        - {x: -0.5, y: 32.000015}
+        - {x: 5.4999995, y: 33.00001}
+      physicsShape:
+      - - {x: 19.5, y: 17.000015}
+        - {x: 8.5, y: 30.000015}
+        - {x: 4.5, y: 32.000015}
+        - {x: -2.5, y: 32.000015}
+        - {x: -10.5, y: 27.000015}
+        - {x: -23.5, y: -0.99998474}
+        - {x: -23.5, y: -20.999985}
+        - {x: -18.5, y: -31.999985}
+        - {x: 6.5, y: -31.999985}
+        - {x: 23.499998, y: -0.99998474}
+        - {x: 23.499998, y: 13.000014}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8822e54bb93b4351b71970f263255b00
+      internalID: 21300022
+      vertices:
+      - {x: 46.5, y: 45.47325}
+      - {x: 46.5, y: 36.47325}
+      - {x: 27.5, y: 1.4732513}
+      - {x: 1.5, y: 0.47325134}
+      - {x: -0.5, y: 18.473251}
+      - {x: -0.5, y: 57.47325}
+      - {x: 22.5, y: 65.47325}
+      - {x: 28.5, y: 66.47325}
+      indices: 000000000100000006000000050000000100000004000000050000000600000001000000020000000300000004000000010000000200000004000000000000000600000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam-Engine_steam0002
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 947
+        width: 20
+        height: 76
+      alignment: 9
+      pivot: {x: 0.325, y: 0.7697368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -10, y: -37.999996}
+        - {x: -10, y: 38}
+        - {x: 9.999999, y: 38}
+        - {x: 9.999999, y: -37.999996}
+      physicsShape:
+      - - {x: -6, y: 34}
+        - {x: -6, y: 13}
+        - {x: -1.0000002, y: -25}
+        - {x: 3, y: -25}
+        - {x: 6, y: -24}
+        - {x: 7, y: -10}
+        - {x: 7, y: 29}
+        - {x: 1, y: 34}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58dea54358a9490284831736f3a14cc4
+      internalID: 21300024
+      vertices:
+      - {x: 23.5, y: -20.499996}
+      - {x: 3.5, y: -20.499996}
+      - {x: 3.5, y: 55.5}
+      - {x: 23.5, y: 55.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam-Engine_steam0004
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 927
+        width: 37
+        height: 60
+      alignment: 9
+      pivot: {x: 0.44594595, y: 0.19166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -18.5, y: -30}
+        - {x: -18.5, y: 30}
+        - {x: 18.5, y: 30}
+        - {x: 18.5, y: -30}
+      physicsShape:
+      - - {x: -4.5, y: 26}
+        - {x: -12.5, y: 22}
+        - {x: -15.499999, y: 12}
+        - {x: -15.499999, y: -3}
+        - {x: 0.49999976, y: -27}
+        - {x: 13.5, y: -27}
+        - {x: 15.5, y: -26}
+        - {x: 15.5, y: 14.999996}
+        - {x: 4.5, y: 26}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a94e35806ea470485bbb26706a41b86
+      internalID: 21300026
+      vertices:
+      - {x: 39, y: 18.5}
+      - {x: 2, y: 18.5}
+      - {x: 2, y: 78.5}
+      - {x: 39, y: 78.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric-engine_electric0015
+      rect:
+        serializedVersion: 2
+        x: 615.0761
+        y: 989.0761
+        width: 65.92388
+        height: 33.92388
+      alignment: 9
+      pivot: {x: 0.52976084, y: -0.061199095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -22.038052, y: 16.961948}
+        - {x: 32.96195, y: 16.961948}
+        - {x: 32.96195, y: -3.0380516}
+        - {x: -23.038052, y: -20.038052}
+        - {x: -37.03805, y: 7.9619465}
+        - {x: -28.03805, y: 14.961948}
+      physicsShape:
+      - - {x: 24.961946, y: 6.9619484}
+        - {x: 9.961948, y: 12.961948}
+        - {x: 4.9619484, y: 12.961948}
+        - {x: -4.0380516, y: 5.9619484}
+        - {x: -15.038052, y: 9.961948}
+        - {x: -22.038052, y: 11.961948}
+        - {x: -27.038052, y: 7.9619465}
+        - {x: -27.038052, y: 1.9619484}
+        - {x: -21.03805, y: -12.038052}
+        - {x: -16.038052, y: -12.038052}
+        - {x: -11.038052, y: -8.038052}
+        - {x: 23.961948, y: 0.9619465}
+        - {x: 25.961948, y: 3.9619465}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ced697c1a4b4f8e995bb540a20db40b
+      internalID: 21300028
+      vertices:
+      - {x: 63.96194, y: 32.96194}
+      - {x: 7.961941, y: 15.961941}
+      - {x: -6.038059, y: 43.961937}
+      - {x: 2.9619427, y: 50.96194}
+      - {x: 8.961941, y: 52.96194}
+      - {x: 63.96194, y: 52.96194}
+      indices: 000000000400000005000000010000000300000004000000010000000200000003000000000000000100000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam-Engine_steam0009
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 989
+        width: 58.973248
+        height: 34
+      alignment: 9
+      pivot: {x: 0.55109733, y: -0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -29.486624, y: -17}
+        - {x: -29.486624, y: 16.999996}
+        - {x: 17.513376, y: 16.999996}
+        - {x: 35.513374, y: -10}
+        - {x: 18.513376, y: -17}
+      physicsShape:
+      - - {x: 13.513376, y: 13}
+        - {x: -9.486624, y: 13}
+        - {x: -27.486624, y: 0}
+        - {x: -27.486624, y: -12}
+        - {x: -26.486622, y: -14}
+        - {x: 13.513376, y: -14}
+        - {x: 20.513376, y: -12}
+        - {x: 24.513374, y: -8}
+        - {x: 24.513374, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cab831e5254227915719de6cdf8cf8
+      internalID: 21300030
+      vertices:
+      - {x: 61.986626, y: 49.5}
+      - {x: 44.986626, y: 42.5}
+      - {x: -3.0133762, y: 42.5}
+      - {x: -3.0133762, y: 76.5}
+      - {x: 43.986626, y: 76.5}
+      indices: 020000000300000004000000010000000200000004000000000000000100000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain01
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 723
+        width: 8
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -4, y: -24}
+        - {x: -4, y: 24}
+        - {x: 4, y: 24}
+        - {x: 4, y: -24}
+      physicsShape:
+      - - {x: -4, y: 24}
+        - {x: -4, y: -24}
+        - {x: 4, y: -24}
+        - {x: 4, y: 24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d88ed2835342d3b58d1add60b229ce
+      internalID: 21300032
+      vertices:
+      - {x: 8, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 48}
+      - {x: 8, y: 48}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine-EngineIdle0001
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 117
+        width: 310
+        height: 273
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -155, y: 136.5}
+        - {x: -126, y: 136.5}
+        - {x: -42, y: 106.49999}
+        - {x: 118.99999, y: 106.49999}
+        - {x: 155, y: 49.499996}
+        - {x: 155, y: -44.5}
+        - {x: 132, y: -91.5}
+        - {x: -52.999996, y: -91.5}
+        - {x: -56, y: -125.5}
+        - {x: -70, y: -136.5}
+        - {x: -155, y: -136.5}
+      physicsShape:
+      - - {x: -56, y: -89.5}
+        - {x: 128, y: -89.5}
+        - {x: 132, y: -86.5}
+        - {x: 144, y: -73.49999}
+        - {x: 155, y: -38.5}
+        - {x: 155, y: 29.499998}
+        - {x: 142, y: 69.5}
+        - {x: 130, y: 87.5}
+        - {x: 117.99999, y: 98.49999}
+        - {x: 104.99999, y: 104.49999}
+        - {x: 45.999996, y: 106.49999}
+        - {x: -78, y: 115.5}
+        - {x: -85, y: 104.49999}
+        - {x: -125, y: 136.5}
+        - {x: -155, y: 136.5}
+        - {x: -155, y: -136.5}
+        - {x: -70, y: -136.5}
+        - {x: -66, y: -133.49998}
+        - {x: -56, y: -123.5}
+      - - {x: 18, y: 117.49999}
+        - {x: 19, y: 114.5}
+        - {x: 22, y: 114.5}
+        - {x: 24, y: 116.5}
+        - {x: 22.999998, y: 119.49999}
+        - {x: 19.999998, y: 119.49999}
+      - - {x: -47, y: 122.5}
+        - {x: -47, y: 117.49999}
+        - {x: -22, y: 117.49999}
+        - {x: -22, y: 122.5}
+        - {x: -29, y: 135.5}
+        - {x: -34, y: 135.5}
+        - {x: -38, y: 134.5}
+      - - {x: 7, y: 134.5}
+        - {x: 0, y: 130.5}
+        - {x: -2, y: 127.5}
+        - {x: -1, y: 124.5}
+        - {x: 4.9999995, y: 124.5}
+        - {x: 17, y: 126.5}
+        - {x: 19, y: 129.5}
+        - {x: 19, y: 133.49998}
+        - {x: 14.999999, y: 134.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e4f7f7df3c4579bc171fd9cb65e725
+      internalID: 21300034
+      vertices:
+      - {x: 113, y: 243}
+      - {x: 274, y: 243}
+      - {x: 310, y: 186}
+      - {x: 310, y: 92}
+      - {x: 287, y: 45}
+      - {x: 102, y: 45}
+      - {x: 99, y: 11}
+      - {x: 85, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 273}
+      - {x: 29, y: 273}
+      indices: 05000000090000000a00000005000000060000000700000005000000070000000800000005000000080000000900000003000000040000000500000005000000000000000200000005000000020000000300000000000000010000000200000000000000050000000a000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam-Engine_steam0013
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 365
+        width: 51
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5392157, y: -1.0517242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -5.4999995, y: -14.5}
+        - {x: -25.5, y: 5.5}
+        - {x: 1.5, y: 14.499996}
+        - {x: 12.5, y: 10.5}
+        - {x: 25.5, y: -14.5}
+      physicsShape:
+      - - {x: 7.5, y: -8.500004}
+        - {x: 8.5, y: -11.500004}
+        - {x: 11.5, y: -11.500004}
+        - {x: 13.499999, y: -9.5}
+        - {x: 12.5, y: -6.5}
+        - {x: 9.5, y: -6.5}
+      - - {x: 7.5, y: 8.499996}
+        - {x: -3.5, y: 8.499996}
+        - {x: -11.499999, y: 5.5}
+        - {x: -12.5, y: 1.5}
+        - {x: -11.499999, y: -1.5}
+        - {x: -8.5, y: -1.5}
+        - {x: -0.49999976, y: 0.5}
+        - {x: 5.5, y: 1.5}
+        - {x: 8.5, y: 4.499996}
+        - {x: 8.5, y: 5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e55cf5428c64274bb7402a3f7978311
+      internalID: 21300036
+      vertices:
+      - {x: 36, y: 70}
+      - {x: 49, y: 45}
+      - {x: 18, y: 45}
+      - {x: -2, y: 65}
+      - {x: 25, y: 74}
+      indices: 020000000300000004000000000000000100000002000000000000000200000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine-EngineIdle0002
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 117
+        width: 310
+        height: 273
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -155, y: 136.5}
+        - {x: -126, y: 136.5}
+        - {x: -42, y: 106.49999}
+        - {x: 118.99999, y: 106.49999}
+        - {x: 155, y: 49.499996}
+        - {x: 155, y: -44.5}
+        - {x: 132, y: -91.5}
+        - {x: -52.999996, y: -91.5}
+        - {x: -56, y: -125.5}
+        - {x: -70, y: -136.5}
+        - {x: -155, y: -136.5}
+      physicsShape:
+      - - {x: -56, y: -89.5}
+        - {x: 128, y: -89.5}
+        - {x: 132, y: -86.5}
+        - {x: 144, y: -73.49999}
+        - {x: 155, y: -38.5}
+        - {x: 155, y: 29.499998}
+        - {x: 142, y: 69.5}
+        - {x: 130, y: 87.5}
+        - {x: 117.99999, y: 98.49999}
+        - {x: 104.99999, y: 104.49999}
+        - {x: 45.999996, y: 106.49999}
+        - {x: -78, y: 115.5}
+        - {x: -85, y: 104.49999}
+        - {x: -125, y: 136.5}
+        - {x: -155, y: 136.5}
+        - {x: -155, y: -136.5}
+        - {x: -70, y: -136.5}
+        - {x: -66, y: -133.49998}
+        - {x: -56, y: -123.5}
+      - - {x: 18, y: 117.49999}
+        - {x: 19, y: 114.5}
+        - {x: 22, y: 114.5}
+        - {x: 24, y: 116.5}
+        - {x: 22.999998, y: 119.49999}
+        - {x: 19.999998, y: 119.49999}
+      - - {x: -47, y: 122.5}
+        - {x: -47, y: 117.49999}
+        - {x: -22, y: 117.49999}
+        - {x: -22, y: 122.5}
+        - {x: -29, y: 135.5}
+        - {x: -34, y: 135.5}
+        - {x: -38, y: 134.5}
+      - - {x: 7, y: 134.5}
+        - {x: 0, y: 130.5}
+        - {x: -2, y: 127.5}
+        - {x: -1, y: 124.5}
+        - {x: 4.9999995, y: 124.5}
+        - {x: 17, y: 126.5}
+        - {x: 19, y: 129.5}
+        - {x: 19, y: 133.49998}
+        - {x: 14.999999, y: 134.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d63372d8c71414b8efb350ee772e719
+      internalID: 21300038
+      vertices:
+      - {x: 113, y: 243}
+      - {x: 274, y: 243}
+      - {x: 310, y: 186}
+      - {x: 310, y: 92}
+      - {x: 287, y: 45}
+      - {x: 102, y: 45}
+      - {x: 99, y: 11}
+      - {x: 85, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 273}
+      - {x: 29, y: 273}
+      indices: 05000000090000000a00000005000000060000000700000005000000070000000800000005000000080000000900000003000000040000000500000005000000000000000200000005000000020000000300000000000000010000000200000000000000050000000a000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam-Engine_steam0006
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 984
+        width: 41
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5243902, y: -0.37179488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -20.499998, y: -19.5}
+        - {x: -20.499998, y: 19.499996}
+        - {x: 20.5, y: 19.499996}
+        - {x: 20.5, y: -19.5}
+      physicsShape:
+      - - {x: -11.5, y: 16.5}
+        - {x: -17.5, y: 1.5}
+        - {x: -17.5, y: -14.5}
+        - {x: -9.5, y: -15.5}
+        - {x: -5.5, y: -16.5}
+        - {x: 10.5, y: -16.5}
+        - {x: 16.5, y: -8.5}
+        - {x: 16.5, y: 7.5}
+        - {x: 4.5, y: 16.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72523f1feb141db8823fd7deb5a2310
+      internalID: 21300040
+      vertices:
+      - {x: 40, y: 34}
+      - {x: -0.9999981, y: 34}
+      - {x: -0.9999981, y: 73}
+      - {x: 40, y: 73}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric-engine_electric0046
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 997
+        width: 65
+        height: 26
+      alignment: 9
+      pivot: {x: 0.6, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -32.5, y: -12.999999}
+        - {x: -32.5, y: 13}
+        - {x: 32.5, y: 13}
+        - {x: 32.5, y: -12.999999}
+      physicsShape:
+      - - {x: -27.5, y: 8.000001}
+        - {x: -27.5, y: -8.999998}
+        - {x: 19.5, y: -8.999998}
+        - {x: 23.5, y: -7.999999}
+        - {x: 23.5, y: -0.99999905}
+        - {x: 20.5, y: 5.000001}
+        - {x: 14.5, y: 8.000001}
+      - - {x: 24.5, y: -6.999999}
+        - {x: 27.5, y: -5.999999}
+        - {x: 27.5, y: -2.999999}
+        - {x: 24.5, y: -1.999999}
+        - {x: 22.5, y: -3.9999986}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d95cbbb8751409db3679825a4028bc4
+      internalID: 21300042
+      vertices:
+      - {x: 58.5, y: -1}
+      - {x: -6.5, y: -1}
+      - {x: -6.5, y: 25}
+      - {x: 58.5, y: 25}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam-Engine_steam0010
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 989
+        width: 58.973248
+        height: 34
+      alignment: 9
+      pivot: {x: 0.55109733, y: -0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -29.486624, y: -17}
+        - {x: -29.486624, y: 16.999996}
+        - {x: 17.513376, y: 16.999996}
+        - {x: 35.513374, y: -10}
+        - {x: 18.513376, y: -17}
+      physicsShape:
+      - - {x: 13.513376, y: 13}
+        - {x: -9.486624, y: 13}
+        - {x: -27.486624, y: 0}
+        - {x: -27.486624, y: -12}
+        - {x: -26.486622, y: -14}
+        - {x: 13.513376, y: -14}
+        - {x: 20.513376, y: -12}
+        - {x: 24.513374, y: -8}
+        - {x: 24.513374, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36335b2479e248e4bb1e5a2754ddc060
+      internalID: 21300044
+      vertices:
+      - {x: 61.986626, y: 49.5}
+      - {x: 44.986626, y: 42.5}
+      - {x: -3.0133762, y: 42.5}
+      - {x: -3.0133762, y: 76.5}
+      - {x: 43.986626, y: 76.5}
+      indices: 020000000300000004000000010000000200000004000000000000000100000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine-EngineIdle0006
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 667
+        width: 310
+        height: 273
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -155, y: 136.5}
+        - {x: -126, y: 136.5}
+        - {x: -41, y: 106.49999}
+        - {x: 125, y: 106.49999}
+        - {x: 155, y: 38.5}
+        - {x: 155, y: -63.5}
+        - {x: 129, y: -89.5}
+        - {x: -52.999996, y: -91.5}
+        - {x: -56, y: -125.5}
+        - {x: -70, y: -136.5}
+        - {x: -155, y: -136.5}
+      physicsShape:
+      - - {x: 132, y: -86.5}
+        - {x: 146.99998, y: -61.5}
+        - {x: 155, y: -38.5}
+        - {x: 155, y: 40.5}
+        - {x: 137, y: 81.5}
+        - {x: 117.99999, y: 99.5}
+        - {x: 104.99999, y: 104.49999}
+        - {x: 47, y: 107.49999}
+        - {x: -55, y: 107.49999}
+        - {x: -62, y: 115.5}
+        - {x: -77, y: 113.5}
+        - {x: -123, y: 136.5}
+        - {x: -155, y: 136.5}
+        - {x: -155, y: -136.5}
+        - {x: -69, y: -136.5}
+        - {x: -56, y: -123.5}
+        - {x: -56, y: -89.5}
+        - {x: 128, y: -89.5}
+      - - {x: 144, y: 136.5}
+        - {x: 144, y: 65.5}
+        - {x: 145.99998, y: 63.5}
+        - {x: 153, y: 63.5}
+        - {x: 155, y: 65.5}
+        - {x: 155, y: 136.5}
+      - - {x: 58.999996, y: 116.5}
+        - {x: 58.999996, y: 122.5}
+        - {x: 57, y: 127.5}
+        - {x: 52.999996, y: 134.5}
+        - {x: 48.999996, y: 132.5}
+        - {x: 31, y: 135.5}
+        - {x: 12, y: 135.5}
+        - {x: -4.9999995, y: 122.5}
+        - {x: -4.9999995, y: 112.5}
+        - {x: 47, y: 112.5}
+        - {x: 51, y: 115.5}
+        - {x: 51, y: 121.49999}
+        - {x: 51, y: 119.49999}
+        - {x: 53.999996, y: 115.5}
+      - - {x: 111, y: 133.49998}
+        - {x: 100, y: 136.5}
+        - {x: 82, y: 136.5}
+        - {x: 75, y: 129.5}
+        - {x: 75, y: 127.5}
+        - {x: 76, y: 125.5}
+        - {x: 79.99999, y: 124.5}
+        - {x: 89, y: 124.5}
+        - {x: 94, y: 114.5}
+        - {x: 103, y: 114.5}
+        - {x: 132, y: 123.5}
+        - {x: 132, y: 127.5}
+        - {x: 131, y: 131.5}
+      - - {x: -34, y: 136.5}
+        - {x: -32, y: 130.5}
+        - {x: -29, y: 126.5}
+        - {x: -22.999998, y: 126.5}
+        - {x: -18, y: 127.5}
+        - {x: -18, y: 136.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9c7c57a53644a4871159b51356e1a7
+      internalID: 21300046
+      vertices:
+      - {x: 114, y: 243}
+      - {x: 280, y: 243}
+      - {x: 310, y: 175}
+      - {x: 310, y: 73}
+      - {x: 284, y: 47}
+      - {x: 102, y: 45}
+      - {x: 99, y: 11}
+      - {x: 85, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 273}
+      - {x: 29, y: 273}
+      indices: 05000000090000000a00000005000000060000000700000005000000070000000800000005000000080000000900000005000000020000000400000005000000000000000200000004000000020000000300000000000000010000000200000000000000050000000a000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine-EngineIdle0003
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 392
+        width: 310
+        height: 273
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -155, y: 136.5}
+        - {x: -125, y: 136.5}
+        - {x: -61, y: 112.5}
+        - {x: 126, y: 102.5}
+        - {x: 155, y: 37.5}
+        - {x: 155, y: -46.5}
+        - {x: 133.99998, y: -89.5}
+        - {x: -52.999996, y: -91.5}
+        - {x: -56, y: -125.5}
+        - {x: -70, y: -136.5}
+        - {x: -155, y: -136.5}
+      physicsShape:
+      - - {x: 129, y: -89.5}
+        - {x: 133, y: -87.5}
+        - {x: 146.99998, y: -63.5}
+        - {x: 155, y: -28.5}
+        - {x: 155, y: 30.5}
+        - {x: 141, y: 70.5}
+        - {x: 137, y: 77.5}
+        - {x: 116, y: 100.5}
+        - {x: 104.99999, y: 103.5}
+        - {x: 47, y: 106.49999}
+        - {x: -53.999996, y: 106.49999}
+        - {x: -62, y: 121.49999}
+        - {x: -85, y: 108.49999}
+        - {x: -125, y: 136.5}
+        - {x: -155, y: 136.5}
+        - {x: -155, y: -136.5}
+        - {x: -69, y: -136.5}
+        - {x: -56, y: -123.5}
+        - {x: -56, y: -89.5}
+      - - {x: 116.99999, y: -132.5}
+        - {x: 124, y: -135.5}
+        - {x: 145, y: -135.5}
+        - {x: 155, y: -117.49999}
+        - {x: 155, y: -94.5}
+        - {x: -52, y: -94.5}
+        - {x: -53.999996, y: -96.5}
+        - {x: -53.999996, y: -104.49999}
+        - {x: -31, y: -111.5}
+        - {x: -26, y: -135.5}
+        - {x: 109, y: -135.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad66570a5c99444184ce02b3e0bc55f5
+      internalID: 21300048
+      vertices:
+      - {x: 94, y: 249}
+      - {x: 281, y: 239}
+      - {x: 310, y: 174}
+      - {x: 310, y: 90}
+      - {x: 289, y: 47}
+      - {x: 102, y: 45}
+      - {x: 99, y: 11}
+      - {x: 85, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 273}
+      - {x: 30, y: 273}
+      indices: 05000000090000000a00000005000000060000000700000005000000070000000800000005000000080000000900000003000000040000000500000000000000020000000500000005000000020000000300000000000000010000000200000000000000050000000a000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric-engine_electric0028
+      rect:
+        serializedVersion: 2
+        x: 581.0761
+        y: 912
+        width: 73.92388
+        height: 37.923878
+      alignment: 9
+      pivot: {x: 0.553595, y: 0.817427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -36.03805, y: -18.961939}
+        - {x: -37.03805, y: -0.96193886}
+        - {x: -11.038052, y: 19.038061}
+        - {x: 36.96195, y: 18.038061}
+        - {x: 36.96195, y: -18.961939}
+      physicsShape:
+      - - {x: 28.961952, y: -10.961937}
+        - {x: 31.961952, y: -11.961939}
+        - {x: 32.961952, y: -9.961939}
+        - {x: 32.961952, y: -1.9619389}
+        - {x: 26.96195, y: 7.0380616}
+        - {x: 8.961952, y: 8.038061}
+        - {x: -12.038048, y: 8.038061}
+        - {x: -26.038046, y: 1.0380611}
+        - {x: -31.038048, y: -7.961937}
+        - {x: -31.038048, y: -12.961939}
+        - {x: -29.038048, y: -13.961939}
+        - {x: -15.038048, y: -14.961937}
+        - {x: 20.961952, y: -14.961937}
+        - {x: 24.961952, y: -11.961939}
+        - {x: 24.961952, y: -5.961939}
+        - {x: 24.961952, y: -7.961937}
+      - - {x: 21.961952, y: 8.038061}
+        - {x: 28.961952, y: 8.038061}
+        - {x: 28.961952, y: 11.038061}
+        - {x: 26.96195, y: 14.038061}
+        - {x: 22.961952, y: 14.038061}
+        - {x: 21.961952, y: 11.038061}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe0f2fe97d247b185c13612f885b69c
+      internalID: 21300050
+      vertices:
+      - {x: 69.96194, y: 24.961939}
+      - {x: 69.96194, y: -12.038061}
+      - {x: -3.038063, y: -12.038061}
+      - {x: -4.038063, y: 5.961939}
+      - {x: 21.961937, y: 25.961939}
+      indices: 020000000300000004000000010000000200000004000000000000000100000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam-Engine_steam0007
+      rect:
+        serializedVersion: 2
+        x: 469.0429
+        y: 983
+        width: 62.957092
+        height: 40
+      alignment: 9
+      pivot: {x: 0.51554304, y: -0.5375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -11.521454, y: 20}
+        - {x: 31.478546, y: 20}
+        - {x: 31.478546, y: -20.000002}
+        - {x: -30.521454, y: -20.000002}
+        - {x: -31.521454, y: 10.999996}
+      physicsShape:
+      - - {x: -15.521454, y: 17.999996}
+        - {x: -26.521454, y: 10.999996}
+        - {x: -27.521454, y: 6}
+        - {x: -27.521454, y: -15.000002}
+        - {x: -22.521454, y: -17.000002}
+        - {x: 4.478546, y: -17.000002}
+        - {x: 11.478546, y: -16}
+        - {x: 27.478544, y: -6}
+        - {x: 27.478544, y: 7.999996}
+        - {x: 14.478545, y: 17.999996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1558af892c6745119527a020fa884639
+      internalID: 21300052
+      vertices:
+      - {x: 61.978546, y: 41.5}
+      - {x: -0.021453857, y: 41.5}
+      - {x: -1.0214539, y: 72.5}
+      - {x: 18.978546, y: 81.5}
+      - {x: 61.978546, y: 81.5}
+      indices: 000000000300000004000000010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric-engine_electric0004
+      rect:
+        serializedVersion: 2
+        x: 657.0761
+        y: 913.06213
+        width: 73.92388
+        height: 41.937885
+      alignment: 9
+      pivot: {x: 0.553595, y: 0.16543195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -11.038052, y: 20.968924}
+        - {x: 2.9619484, y: 20.968924}
+        - {x: 4.9619484, y: 6.9689236}
+        - {x: 36.96195, y: 4.9689236}
+        - {x: 36.96195, y: -22.031076}
+        - {x: -36.03805, y: -21.031076}
+        - {x: -37.03805, y: 2.9689236}
+      physicsShape:
+      - - {x: 9.961952, y: 0.9689226}
+        - {x: -0.03804779, y: 14.968924}
+        - {x: -1.0380473, y: 16.968924}
+        - {x: -6.038047, y: 16.968924}
+        - {x: -9.038048, y: 15.968922}
+        - {x: -27.038048, y: -2.0310764}
+        - {x: -26.038046, y: -6.0310764}
+        - {x: -15.038048, y: -5.0310764}
+        - {x: -11.038047, y: -16.031076}
+        - {x: 2.9619522, y: -16.031076}
+        - {x: 29.961952, y: -6.0310764}
+        - {x: 29.961952, y: -3.0310764}
+        - {x: 28.961952, y: 0.9689226}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b617a207080f4146b9e1623b36b592b4
+      internalID: 21300054
+      vertices:
+      - {x: 37.961937, y: 41.96894}
+      - {x: 69.96194, y: 39.96894}
+      - {x: 69.96194, y: 12.968943}
+      - {x: -3.038063, y: 13.968943}
+      - {x: -4.038063, y: 37.96894}
+      - {x: 21.961937, y: 55.96894}
+      - {x: 35.961937, y: 55.96894}
+      indices: 000000000500000006000000040000000000000003000000000000000100000002000000000000000200000003000000040000000500000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam-Engine_steam0014
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 365
+        width: 51
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5392157, y: -1.0517242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -5.4999995, y: -14.5}
+        - {x: -25.5, y: 5.5}
+        - {x: 1.5, y: 14.499996}
+        - {x: 12.5, y: 10.5}
+        - {x: 25.5, y: -14.5}
+      physicsShape:
+      - - {x: 7.5, y: -8.500004}
+        - {x: 8.5, y: -11.500004}
+        - {x: 11.5, y: -11.500004}
+        - {x: 13.499999, y: -9.5}
+        - {x: 12.5, y: -6.5}
+        - {x: 9.5, y: -6.5}
+      - - {x: 7.5, y: 8.499996}
+        - {x: -3.5, y: 8.499996}
+        - {x: -11.499999, y: 5.5}
+        - {x: -12.5, y: 1.5}
+        - {x: -11.499999, y: -1.5}
+        - {x: -8.5, y: -1.5}
+        - {x: -0.49999976, y: 0.5}
+        - {x: 5.5, y: 1.5}
+        - {x: 8.5, y: 4.499996}
+        - {x: 8.5, y: 5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708f60edae25452a83d11fc99d14d616
+      internalID: 21300056
+      vertices:
+      - {x: 36, y: 70}
+      - {x: 49, y: 45}
+      - {x: 18, y: 45}
+      - {x: -2, y: 65}
+      - {x: 25, y: 74}
+      indices: 020000000300000004000000000000000100000002000000000000000200000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric-engine_electric0001
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 991
+        width: 69
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -34.5, y: -15}
+        - {x: -34.5, y: 14.999998}
+        - {x: 34.5, y: 14.999998}
+        - {x: 34.5, y: -15}
+      physicsShape:
+      - - {x: -17.5, y: 10.999998}
+        - {x: -27.5, y: 4}
+        - {x: -27.5, y: -3}
+        - {x: -24.5, y: -5}
+        - {x: -9.5, y: 2}
+        - {x: 9.5, y: -10}
+        - {x: 20.5, y: -10}
+        - {x: 28.499998, y: -2.000001}
+        - {x: 28.499998, y: 0}
+        - {x: 6.4999995, y: 10.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d521e5731d094c5f84cb4b6c4e1aaa2f
+      internalID: 21300058
+      vertices:
+      - {x: 67.5, y: 12}
+      - {x: -1.5, y: 12}
+      - {x: -1.5, y: 42}
+      - {x: 67.5, y: 42}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: room_REng
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 534
+        width: 434
+        height: 489
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -64, y: 214.5}
+        - {x: -64, y: 244.5}
+        - {x: -48, y: 244.5}
+        - {x: -45.999996, y: 171.49998}
+        - {x: 72.99999, y: 173.5}
+        - {x: 72.99999, y: 244.5}
+        - {x: 89, y: 244.5}
+        - {x: 93, y: 210.5}
+        - {x: 195.99998, y: 210.5}
+        - {x: 200, y: 74.5}
+        - {x: 216.99998, y: 74.5}
+        - {x: 216.99998, y: -2.4999998}
+        - {x: 204, y: -6.5}
+        - {x: 208, y: -94.5}
+        - {x: 212.99998, y: -94.5}
+        - {x: 212.99998, y: -109.5}
+        - {x: 195.99998, y: -113.5}
+        - {x: 195.99998, y: -244.5}
+        - {x: -115, y: -244.5}
+        - {x: -209.99998, y: -169.5}
+        - {x: -216.99998, y: -160.5}
+        - {x: -216.99998, y: 210.5}
+      physicsShape:
+      - - {x: -208, y: -237.5}
+        - {x: -206, y: -244.5}
+        - {x: -200, y: -244.5}
+        - {x: -201, y: -239.5}
+        - {x: -205, y: -234.5}
+        - {x: -207, y: -234.5}
+      - - {x: -189, y: -233.5}
+        - {x: -194, y: -244.5}
+        - {x: -187, y: -244.5}
+        - {x: -184.99998, y: -239.5}
+        - {x: -183, y: -233.5}
+        - {x: -186, y: -231.5}
+      - - {x: -173, y: -216.5}
+        - {x: -179, y: -220.5}
+        - {x: -179, y: -223.49998}
+        - {x: -170, y: -244.5}
+        - {x: -145.99998, y: -244.5}
+        - {x: -145.99998, y: -229.49998}
+        - {x: -159.99998, y: -216.5}
+      - - {x: 216.99998, y: -39.5}
+        - {x: 216.99998, y: 75.5}
+        - {x: 195.99998, y: 74.5}
+        - {x: 199, y: 210.5}
+        - {x: 101, y: 244.5}
+        - {x: 72.99999, y: 244.5}
+        - {x: 72.99999, y: 169.5}
+        - {x: -47, y: 244.5}
+        - {x: -68, y: 244.5}
+        - {x: -78, y: 224.49998}
+        - {x: -215.99998, y: 210.5}
+        - {x: -216.99998, y: 210.5}
+        - {x: -216.99998, y: -161.5}
+        - {x: -193, y: -182.5}
+        - {x: -116, y: -244.5}
+        - {x: 200, y: -244.5}
+        - {x: 216.99998, y: -145.5}
+        - {x: 216.99998, y: -96.5}
+        - {x: 212.99998, y: -87.5}
+      - - {x: 208, y: -110.5}
+        - {x: 206, y: -113.5}
+        - {x: 206, y: -244.5}
+        - {x: 216.99998, y: -244.5}
+        - {x: 216.99998, y: -110.5}
+      - - {x: 211.99998, y: -4.5}
+        - {x: 206, y: -8.5}
+        - {x: 206, y: -46.5}
+        - {x: 207, y: -54.5}
+        - {x: 209.99998, y: -58.499996}
+        - {x: 216.99998, y: -58.499996}
+        - {x: 216.99998, y: -7.4999995}
+        - {x: 213.99998, y: -4.5}
+      - - {x: 208, y: 107.49999}
+        - {x: 208, y: 86.5}
+        - {x: 209.99998, y: 84.5}
+        - {x: 212.99998, y: 85.49999}
+        - {x: 213.99998, y: 96.5}
+        - {x: 213.99998, y: 109.5}
+        - {x: 210.99998, y: 110.5}
+      - - {x: 201, y: 162.5}
+        - {x: 197.99998, y: 160.5}
+        - {x: 197.99998, y: 146.49998}
+        - {x: 200, y: 125.5}
+        - {x: 203, y: 121.49999}
+        - {x: 206, y: 121.49999}
+        - {x: 209.99998, y: 123.5}
+        - {x: 209.99998, y: 161.5}
+        - {x: 205, y: 162.5}
+      - - {x: 208, y: 240.5}
+        - {x: 199, y: 213.5}
+        - {x: 199, y: 182.5}
+        - {x: 203, y: 179.5}
+        - {x: 216.99998, y: 179.5}
+        - {x: 216.99998, y: 240.5}
+      - - {x: 6, y: 201.49998}
+        - {x: 1, y: 195.5}
+        - {x: 1, y: 189.5}
+        - {x: 18, y: 189.5}
+        - {x: 18, y: 196.49998}
+        - {x: 11, y: 201.49998}
+      - - {x: 57, y: 201.49998}
+        - {x: 57, y: 197.49998}
+        - {x: 58.999996, y: 193.5}
+        - {x: 63, y: 191.5}
+        - {x: 66, y: 192.5}
+        - {x: 66, y: 198.5}
+        - {x: 64, y: 203.49998}
+        - {x: 61, y: 203.49998}
+      - - {x: 118.99999, y: 238.5}
+        - {x: 114, y: 237.5}
+        - {x: 102, y: 227.49998}
+        - {x: 102, y: 224.49998}
+        - {x: 109, y: 222.49998}
+        - {x: 127, y: 222.49998}
+        - {x: 138, y: 217.5}
+        - {x: 156, y: 217.5}
+        - {x: 158, y: 222.49998}
+        - {x: 158, y: 229.49998}
+        - {x: 126, y: 238.5}
+      - - {x: -196.99998, y: 229.49998}
+        - {x: -201, y: 229.49998}
+        - {x: -209.99998, y: 224.49998}
+        - {x: -209.99998, y: 218.5}
+        - {x: -156, y: 218.5}
+        - {x: -156, y: 221.49998}
+        - {x: -157, y: 224.49998}
+        - {x: -168, y: 225.49998}
+      - - {x: -87, y: 234.5}
+        - {x: -100, y: 239.5}
+        - {x: -115, y: 239.5}
+        - {x: -126, y: 235.5}
+        - {x: -126, y: 223.49998}
+        - {x: -107.99999, y: 222.49998}
+        - {x: -85.99999, y: 222.49998}
+        - {x: -76, y: 226.49998}
+        - {x: -75, y: 230.5}
+        - {x: -78, y: 236.5}
+      - - {x: -74, y: 224.49998}
+        - {x: -71, y: 225.49998}
+        - {x: -71, y: 228.49998}
+        - {x: -74, y: 229.49998}
+        - {x: -76, y: 227.49998}
+      - - {x: -36, y: 240.5}
+        - {x: -39.999996, y: 237.5}
+        - {x: -39.999996, y: 232.5}
+        - {x: -39, y: 230.5}
+        - {x: -26, y: 230.5}
+        - {x: -24, y: 233.5}
+        - {x: -24, y: 237.5}
+        - {x: -28, y: 240.5}
+      - - {x: 18, y: 240.5}
+        - {x: 8, y: 236.5}
+        - {x: 8, y: 234.5}
+        - {x: 9, y: 230.5}
+        - {x: 26.999998, y: 230.5}
+        - {x: 28, y: 231.5}
+        - {x: 28, y: 237.5}
+        - {x: 24, y: 240.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133d26370c8c45788757ab6819d2027e
+      internalID: 21300060
+      vertices:
+      - {x: 171, y: 416}
+      - {x: 290, y: 418}
+      - {x: 290, y: 489}
+      - {x: 306, y: 489}
+      - {x: 310, y: 455}
+      - {x: 413, y: 455}
+      - {x: 417, y: 319}
+      - {x: 434, y: 319}
+      - {x: 434, y: 242}
+      - {x: 421, y: 238}
+      - {x: 425, y: 150}
+      - {x: 430, y: 150}
+      - {x: 430, y: 135}
+      - {x: 413, y: 131}
+      - {x: 413, y: 0}
+      - {x: 102, y: 0}
+      - {x: 7.0000153, y: 75}
+      - {x: 0.000015258789, y: 84}
+      - {x: 0.000015258789, y: 455}
+      - {x: 153, y: 459}
+      - {x: 153, y: 489}
+      - {x: 169, y: 489}
+      indices: 13000000140000001500000000000000120000001300000000000000130000001500000011000000000000001000000010000000000000000f0000000d0000000e0000000f0000000a0000000b0000000c0000000a0000000c0000000d000000090000000a0000000d00000000000000090000000d000000060000000700000008000000060000000800000009000000090000000000000001000000010000000500000006000000010000000400000005000000020000000300000004000000010000000200000004000000090000000100000006000000000000000d0000000f000000000000001100000012000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: room_LEng
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 43
+        width: 422
+        height: 489
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -109, y: 244.5}
+        - {x: 202, y: 244.5}
+        - {x: 206, y: 141.5}
+        - {x: 210.99998, y: 141.5}
+        - {x: 210.99998, y: -42.5}
+        - {x: 202, y: -45.5}
+        - {x: 202, y: -210.5}
+        - {x: 97, y: -212.5}
+        - {x: 95, y: -244.5}
+        - {x: 79, y: -244.5}
+        - {x: 76, y: -235.5}
+        - {x: -42, y: -239.5}
+        - {x: -42, y: -244.5}
+        - {x: -58, y: -244.5}
+        - {x: -62, y: -210.5}
+        - {x: -210.99998, y: -210.5}
+        - {x: -210.99998, y: 161.5}
+        - {x: -206, y: 170.5}
+      physicsShape:
+      - - {x: -210.99998, y: -213.5}
+        - {x: -210.99998, y: -244.5}
+        - {x: -164, y: -244.5}
+        - {x: -164, y: -231.5}
+        - {x: -168, y: -213.5}
+      - - {x: 96, y: -210.5}
+        - {x: 200, y: -210.5}
+        - {x: 202, y: -208.5}
+        - {x: 210.99998, y: -82.5}
+        - {x: 210.99998, y: 141.5}
+        - {x: 203, y: 143.5}
+        - {x: 202, y: 244.5}
+        - {x: -104.99999, y: 244.5}
+        - {x: -107.99999, y: 243.5}
+        - {x: -206, y: 166.5}
+        - {x: -210.99998, y: 160.5}
+        - {x: -210.99998, y: -210.5}
+        - {x: -61, y: -244.5}
+        - {x: -39, y: -244.5}
+        - {x: -36, y: -241.5}
+        - {x: 57, y: -244.5}
+        - {x: 96, y: -244.5}
+      - - {x: -199, y: 244.5}
+        - {x: -199, y: 240.5}
+        - {x: -194, y: 237.5}
+        - {x: -190, y: 237.5}
+        - {x: -186, y: 239.5}
+        - {x: -183, y: 243.5}
+        - {x: -183, y: 244.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cde6863b7b4d2db0faf61864af9291
+      internalID: 21300062
+      vertices:
+      - {x: 417, y: 386}
+      - {x: 422, y: 386}
+      - {x: 422, y: 202}
+      - {x: 413, y: 199}
+      - {x: 413, y: 34}
+      - {x: 308, y: 32}
+      - {x: 306, y: 0}
+      - {x: 290, y: 0}
+      - {x: 287, y: 9}
+      - {x: 169, y: 5}
+      - {x: 169, y: 0}
+      - {x: 153, y: 0}
+      - {x: 149, y: 34}
+      - {x: 0.000015258789, y: 34}
+      - {x: 0.000015258789, y: 406}
+      - {x: 5, y: 415}
+      - {x: 102, y: 489}
+      - {x: 413, y: 489}
+      indices: 0000000010000000110000000e0000000f000000100000000e00000010000000030000000c0000000d0000000e000000030000001000000000000000090000000a0000000b000000090000000b0000000c00000008000000090000000c00000005000000080000000c0000000800000005000000060000000800000006000000070000000300000004000000050000000e000000030000000c0000000000000002000000030000000000000001000000020000000c0000000300000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_enginealign
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 28
+        width: 48.923878
+        height: 46.923878
+      alignment: 9
+      pivot: {x: 0.51099795, y: 0.46884444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -24.461937, y: -23.461939}
+        - {x: -24.461937, y: 22.538061}
+        - {x: 19.538063, y: 23.538061}
+        - {x: 25.538063, y: -23.461939}
+      physicsShape:
+      - - {x: -24.461937, y: 22.538061}
+        - {x: -24.461937, y: -23.461939}
+        - {x: 23.538061, y: -23.461939}
+        - {x: 23.538061, y: -4.461939}
+        - {x: 20.538061, y: 22.538061}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e035e1dc751a410d9f67903de56a2660
+      internalID: 21300064
+      vertices:
+      - {x: 49.461937, y: 1.4619389}
+      - {x: -0.53806114, y: 1.4619389}
+      - {x: -0.53806114, y: 47.461937}
+      - {x: 43.461937, y: 48.461937}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam-Engine_steam0001
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 855
+        width: 13
+        height: 46
+      alignment: 9
+      pivot: {x: -0.115384616, y: 1.1195652}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -6.5, y: -23}
+        - {x: -6.5, y: 23}
+        - {x: 6.5, y: 23}
+        - {x: 6.5, y: -23}
+      physicsShape:
+      - - {x: -2.5, y: 8}
+        - {x: -2.5, y: -13}
+        - {x: -0.5000005, y: -15}
+        - {x: 2.5, y: -14}
+        - {x: 3.499999, y: -3}
+        - {x: 3.499999, y: 10}
+        - {x: 0.5, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b485753f4844f8b56faf468f6732c8
+      internalID: 21300066
+      vertices:
+      - {x: 21, y: -28.5}
+      - {x: 8, y: -28.5}
+      - {x: 8, y: 17.5}
+      - {x: 21, y: 17.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam-Engine_steam0005
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 984
+        width: 41
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5243902, y: -0.37179488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -20.499998, y: -19.5}
+        - {x: -20.499998, y: 19.499996}
+        - {x: 20.5, y: 19.499996}
+        - {x: 20.5, y: -19.5}
+      physicsShape:
+      - - {x: -11.5, y: 16.5}
+        - {x: -17.5, y: 1.5}
+        - {x: -17.5, y: -14.5}
+        - {x: -9.5, y: -15.5}
+        - {x: -5.5, y: -16.5}
+        - {x: 10.5, y: -16.5}
+        - {x: 16.5, y: -8.5}
+        - {x: 16.5, y: 7.5}
+        - {x: 4.5, y: 16.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7dccae1417444b1983b9ca52b3d5465
+      internalID: 21300068
+      vertices:
+      - {x: 40, y: 34}
+      - {x: -0.9999981, y: 34}
+      - {x: -0.9999981, y: 73}
+      - {x: 40, y: 73}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine-EngineIdle0005
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 667
+        width: 310
+        height: 273
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -155, y: 136.5}
+        - {x: -126, y: 136.5}
+        - {x: -41, y: 106.49999}
+        - {x: 125, y: 106.49999}
+        - {x: 155, y: 38.5}
+        - {x: 155, y: -63.5}
+        - {x: 129, y: -89.5}
+        - {x: -52.999996, y: -91.5}
+        - {x: -56, y: -125.5}
+        - {x: -70, y: -136.5}
+        - {x: -155, y: -136.5}
+      physicsShape:
+      - - {x: 132, y: -86.5}
+        - {x: 146.99998, y: -61.5}
+        - {x: 155, y: -38.5}
+        - {x: 155, y: 40.5}
+        - {x: 137, y: 81.5}
+        - {x: 117.99999, y: 99.5}
+        - {x: 104.99999, y: 104.49999}
+        - {x: 47, y: 107.49999}
+        - {x: -55, y: 107.49999}
+        - {x: -62, y: 115.5}
+        - {x: -77, y: 113.5}
+        - {x: -123, y: 136.5}
+        - {x: -155, y: 136.5}
+        - {x: -155, y: -136.5}
+        - {x: -69, y: -136.5}
+        - {x: -56, y: -123.5}
+        - {x: -56, y: -89.5}
+        - {x: 128, y: -89.5}
+      - - {x: 144, y: 136.5}
+        - {x: 144, y: 65.5}
+        - {x: 145.99998, y: 63.5}
+        - {x: 153, y: 63.5}
+        - {x: 155, y: 65.5}
+        - {x: 155, y: 136.5}
+      - - {x: 58.999996, y: 116.5}
+        - {x: 58.999996, y: 122.5}
+        - {x: 57, y: 127.5}
+        - {x: 52.999996, y: 134.5}
+        - {x: 48.999996, y: 132.5}
+        - {x: 31, y: 135.5}
+        - {x: 12, y: 135.5}
+        - {x: -4.9999995, y: 122.5}
+        - {x: -4.9999995, y: 112.5}
+        - {x: 47, y: 112.5}
+        - {x: 51, y: 115.5}
+        - {x: 51, y: 121.49999}
+        - {x: 51, y: 119.49999}
+        - {x: 53.999996, y: 115.5}
+      - - {x: 111, y: 133.49998}
+        - {x: 100, y: 136.5}
+        - {x: 82, y: 136.5}
+        - {x: 75, y: 129.5}
+        - {x: 75, y: 127.5}
+        - {x: 76, y: 125.5}
+        - {x: 79.99999, y: 124.5}
+        - {x: 89, y: 124.5}
+        - {x: 94, y: 114.5}
+        - {x: 103, y: 114.5}
+        - {x: 132, y: 123.5}
+        - {x: 132, y: 127.5}
+        - {x: 131, y: 131.5}
+      - - {x: -34, y: 136.5}
+        - {x: -32, y: 130.5}
+        - {x: -29, y: 126.5}
+        - {x: -22.999998, y: 126.5}
+        - {x: -18, y: 127.5}
+        - {x: -18, y: 136.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e831c8ec3684ef9be6ef8c29bd34973
+      internalID: 21300070
+      vertices:
+      - {x: 114, y: 243}
+      - {x: 280, y: 243}
+      - {x: 310, y: 175}
+      - {x: 310, y: 73}
+      - {x: 284, y: 47}
+      - {x: 102, y: 45}
+      - {x: 99, y: 11}
+      - {x: 85, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 273}
+      - {x: 29, y: 273}
+      indices: 05000000090000000a00000005000000060000000700000005000000070000000800000005000000080000000900000005000000020000000400000005000000000000000200000004000000020000000300000000000000010000000200000000000000050000000a000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engine_rail
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 396
+        width: 217
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 96.5, y: 19.5}
+        - {x: 99.5, y: 21.499998}
+        - {x: 108.49999, y: 21.499998}
+        - {x: 108.49999, y: -21.499998}
+        - {x: -81.5, y: -21.499998}
+        - {x: -90.5, y: 5.5}
+        - {x: -108.49999, y: 5.5}
+        - {x: -108.49999, y: 16.5}
+      physicsShape:
+      - - {x: 108.49999, y: 21.499998}
+        - {x: 99.5, y: 21.499998}
+        - {x: 98.49999, y: 16.5}
+        - {x: -108.49999, y: 16.5}
+        - {x: -108.49999, y: -2.4999998}
+        - {x: -81.5, y: -21.499998}
+        - {x: -66.5, y: -21.499998}
+        - {x: -51.5, y: 4.5}
+        - {x: -50.5, y: -21.499998}
+        - {x: 108.49999, y: -21.499998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de1ce4866724c0f8402553b94966ecd
+      internalID: 21300072
+      vertices:
+      - {x: 217, y: 0.0000019073486}
+      - {x: 27, y: 0.0000019073486}
+      - {x: 18, y: 27}
+      - {x: 0.0000076293945, y: 27}
+      - {x: 0.0000076293945, y: 38}
+      - {x: 205, y: 41}
+      - {x: 208, y: 43}
+      - {x: 217, y: 43}
+      indices: 050000000600000007000000020000000400000005000000020000000300000004000000010000000200000005000000000000000500000007000000000000000100000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric-engine_electric0049
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 963.0761
+        width: 75
+        height: 23.847757
+      alignment: 9
+      pivot: {x: 0.5466667, y: 0.70966375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 37.5, y: 29.000011}
+        - {x: 37.5, y: -20.999989}
+        - {x: 9.5, y: -0.9999895}
+      - - {x: -37.5, y: -10.9999895}
+        - {x: -37.5, y: 9.0000105}
+        - {x: -10.5, y: 9.0000105}
+        - {x: -10.5, y: -10.9999895}
+      physicsShape:
+      - - {x: -27.5, y: 5.0000105}
+        - {x: -32.5, y: -0.9999895}
+        - {x: -32.5, y: -6.9999895}
+        - {x: -15.5, y: -6.9999895}
+        - {x: -15.5, y: 0.000010967255}
+        - {x: -22.5, y: 5.0000105}
+      - - {x: 23.499998, y: 5.0000105}
+        - {x: 23.499998, y: 1.0000105}
+        - {x: 25.5, y: -2.9999895}
+        - {x: 29.5, y: -4.9999886}
+        - {x: 32.5, y: -3.9999895}
+        - {x: 32.5, y: 2.0000105}
+        - {x: 30.499998, y: 7.0000105}
+        - {x: 27.5, y: 7.0000105}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a737c9bda6464a9fa2d97536e782be
+      internalID: 21300074
+      vertices:
+      - {x: 71.5, y: -14.076121}
+      - {x: 43.5, y: 5.9238787}
+      - {x: 71.5, y: 35.923878}
+      - {x: 23.5, y: -4.0761213}
+      - {x: -3.5, y: -4.0761213}
+      - {x: -3.5, y: 15.923879}
+      - {x: 23.5, y: 15.923879}
+      indices: 000000000100000002000000040000000500000006000000030000000400000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam-Engine_steam0003
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 927
+        width: 37
+        height: 60
+      alignment: 9
+      pivot: {x: 0.44594595, y: 0.19166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -18.5, y: -30}
+        - {x: -18.5, y: 30}
+        - {x: 18.5, y: 30}
+        - {x: 18.5, y: -30}
+      physicsShape:
+      - - {x: -4.5, y: 26}
+        - {x: -12.5, y: 22}
+        - {x: -15.499999, y: 12}
+        - {x: -15.499999, y: -3}
+        - {x: 0.49999976, y: -27}
+        - {x: 13.5, y: -27}
+        - {x: 15.5, y: -26}
+        - {x: 15.5, y: 14.999996}
+        - {x: 4.5, y: 26}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934cd4a74cf942499c629f17b1a0ee3b
+      internalID: 21300076
+      vertices:
+      - {x: 39, y: 18.5}
+      - {x: 2, y: 18.5}
+      - {x: 2, y: 78.5}
+      - {x: 39, y: 78.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric-engine_electric0047
+      rect:
+        serializedVersion: 2
+        x: 4.0429077
+        y: 520.02673
+        width: 72.95709
+        height: 51.97325
+      alignment: 9
+      pivot: {x: 0.520266, y: 0.4805023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -29.521454, y: -35.01336}
+        - {x: -39.521454, y: 1.9866409}
+        - {x: 10.478546, y: 25.986639}
+        - {x: 36.478546, y: 0.98664093}
+        - {x: 36.478546, y: -15.013359}
+      physicsShape:
+      - - {x: -30.521454, y: -16.01336}
+        - {x: -24.521452, y: -21.013357}
+        - {x: -16.521454, y: -21.013357}
+        - {x: -7.521454, y: -13.013359}
+        - {x: -5.521454, y: -1.0133591}
+        - {x: -8.521454, y: 0.98664093}
+        - {x: -30.521454, y: -1.0133591}
+      - - {x: 13.478546, y: 15.986641}
+        - {x: -1.5214536, y: 15.986641}
+        - {x: -1.5214536, y: 6.986641}
+        - {x: 2.4785461, y: 2.986641}
+        - {x: 10.478546, y: -12.013359}
+        - {x: 12.478546, y: -13.013359}
+        - {x: 25.478544, y: -13.013359}
+        - {x: 31.478546, y: -8.013359}
+        - {x: 31.478546, y: -4.013359}
+        - {x: 27.478546, y: 2.986641}
+      - - {x: 19.478546, y: 25.986639}
+        - {x: 19.478546, y: 18.986639}
+        - {x: 33.478546, y: 11.986641}
+        - {x: 36.478546, y: 11.986641}
+        - {x: 36.478546, y: 25.986639}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfbc108712a4d5fa75db7974873aa3a
+      internalID: 21300078
+      vertices:
+      - {x: 71.478546, y: 27.986626}
+      - {x: 71.478546, y: 11.986626}
+      - {x: 5.4785423, y: -8.013374}
+      - {x: -4.5214577, y: 28.986626}
+      - {x: 45.478542, y: 52.986626}
+      indices: 020000000300000004000000010000000200000004000000000000000100000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam-Engine_steam0012
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 928
+        width: 58
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5258621, y: -0.39285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -27, y: -3}
+        - {x: -28.999998, y: 19}
+        - {x: 17, y: 20.999996}
+        - {x: 29, y: -21}
+      physicsShape:
+      - - {x: -28.999998, y: -21}
+        - {x: -6.999998, y: -21}
+        - {x: -8.999998, y: -14}
+        - {x: -18.999998, y: -6}
+        - {x: -28.999998, y: -6}
+      - - {x: 6.000002, y: -5}
+        - {x: 6.000002, y: -6}
+        - {x: 8.000002, y: -9}
+        - {x: 11.000002, y: -9}
+        - {x: 19.000002, y: -5}
+        - {x: 19.000002, y: -2}
+        - {x: 17.000002, y: 0}
+        - {x: 11.000002, y: 0}
+      - - {x: -7.999998, y: 17}
+        - {x: -21.999998, y: 5}
+        - {x: -21.999998, y: 1}
+        - {x: -20.999998, y: 0}
+        - {x: -9.999997, y: 0}
+        - {x: 3.000002, y: 1}
+        - {x: 13.000001, y: 2}
+        - {x: 14.000002, y: 4}
+        - {x: 14.000002, y: 17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd86e786bd3c4427936c8554a885d571
+      internalID: 21300080
+      vertices:
+      - {x: 56.5, y: 37.5}
+      - {x: 0.4999981, y: 55.5}
+      - {x: -1.5, y: 77.5}
+      - {x: 44.499996, y: 79.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric-engine_electric0014
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 993
+        width: 69
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5072464, y: -0.7894737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -34.5, y: -9.499999}
+        - {x: -34.5, y: 9.5}
+        - {x: 34.5, y: 9.5}
+        - {x: 34.5, y: -9.499999}
+      physicsShape:
+      - - {x: -27.5, y: -5.5}
+        - {x: 26.5, y: -5.5}
+        - {x: 26.5, y: -1.5000019}
+        - {x: 25.5, y: 1.5}
+        - {x: -14.499999, y: 5.499998}
+        - {x: -19.499998, y: 5.499998}
+        - {x: -27.5, y: 0.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a640eaa4e0c9439aa7567cd603337549
+      internalID: 21300082
+      vertices:
+      - {x: 68.5, y: 24.5}
+      - {x: -0.5, y: 24.5}
+      - {x: -0.5, y: 43.5}
+      - {x: 68.5, y: 43.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Electric-engine_electric0001: 21300058
+      Electric-engine_electric0002: 21300000
+      Electric-engine_electric0004: 21300054
+      Electric-engine_electric0014: 21300082
+      Electric-engine_electric0015: 21300028
+      Electric-engine_electric0017: 21300006
+      Electric-engine_electric0027: 21300018
+      Electric-engine_electric0028: 21300050
+      Electric-engine_electric0030: 21300016
+      Electric-engine_electric0046: 21300042
+      Electric-engine_electric0047: 21300078
+      Electric-engine_electric0049: 21300074
+      Engine-EngineIdle0001: 21300034
+      Engine-EngineIdle0002: 21300038
+      Engine-EngineIdle0003: 21300048
+      Engine-EngineIdle0004: 21300008
+      Engine-EngineIdle0005: 21300070
+      Engine-EngineIdle0006: 21300046
+      Engine-EngineIdle0007: 21300002
+      Engine-EngineIdle0008: 21300014
+      Steam-Engine_steam0001: 21300066
+      Steam-Engine_steam0002: 21300024
+      Steam-Engine_steam0003: 21300076
+      Steam-Engine_steam0004: 21300026
+      Steam-Engine_steam0005: 21300068
+      Steam-Engine_steam0006: 21300040
+      Steam-Engine_steam0007: 21300052
+      Steam-Engine_steam0008: 21300004
+      Steam-Engine_steam0009: 21300030
+      Steam-Engine_steam0010: 21300044
+      Steam-Engine_steam0011: 21300012
+      Steam-Engine_steam0012: 21300080
+      Steam-Engine_steam0013: 21300036
+      Steam-Engine_steam0014: 21300056
+      chain01: 21300032
+      chain02: 21300010
+      engine_rail: 21300072
+      engine_railback: 21300020
+      panel_enginealign: 21300064
+      panel_enginefuel: 21300022
+      room_LEng: 21300062
+      room_REng: 21300060
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

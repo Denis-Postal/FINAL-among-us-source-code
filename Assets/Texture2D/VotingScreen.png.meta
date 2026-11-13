@@ -1,0 +1,557 @@
+fileFormatVersion: 2
+guid: a26a4b4cb3dcfc64fa215e348388a96f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: chatBase
+  - first:
+      213: 21300002
+    second: chatTextBubble
+  - first:
+      213: 21300004
+    second: dead_GreyedOut
+  - first:
+      213: 21300006
+    second: deadX_border
+  - first:
+      213: 21300008
+    second: playerIcon
+  - first:
+      213: 21300010
+    second: playerVoteResults
+  - first:
+      213: 21300012
+    second: votePlayerBase
+  - first:
+      213: 21300014
+    second: chatBar
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 25
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chatBase
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 235
+        width: 700
+        height: 496
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -347, y: 248}
+        - {x: 301, y: 248}
+        - {x: 308, y: 233}
+        - {x: 350, y: 232}
+        - {x: 350, y: 227}
+        - {x: 305, y: 192}
+        - {x: 303, y: -248}
+        - {x: -350, y: -248}
+        - {x: -350, y: 245}
+        - {x: -349, y: 247}
+      physicsShape:
+      - - {x: 304, y: -129}
+        - {x: 310, y: -131}
+        - {x: 303, y: -150}
+        - {x: 303, y: -157}
+        - {x: 304, y: -163}
+        - {x: 311, y: -173}
+        - {x: 316, y: -176}
+        - {x: 307, y: -189}
+        - {x: 303, y: -199}
+        - {x: 303, y: -206}
+        - {x: 304, y: -211.99998}
+        - {x: 316.99997, y: -248}
+        - {x: 350, y: -248}
+        - {x: 350, y: 70}
+        - {x: 322, y: 69}
+        - {x: 311, y: 66.99999}
+        - {x: 306, y: 61}
+        - {x: 304, y: 58}
+        - {x: 304, y: 55}
+        - {x: 307, y: 38}
+        - {x: 304, y: 19}
+        - {x: 304, y: -25}
+        - {x: 310, y: -31}
+        - {x: 306, y: -52}
+        - {x: 304, y: -66}
+        - {x: 304, y: -71}
+        - {x: 308, y: -74}
+        - {x: 304, y: -81}
+        - {x: 304, y: 195.99998}
+        - {x: 309, y: 197.99998}
+        - {x: 326, y: 209.99998}
+        - {x: 350, y: 228}
+        - {x: 350, y: 233}
+        - {x: 314, y: 248}
+        - {x: -350, y: 248}
+        - {x: -350, y: -248}
+        - {x: 301, y: -248}
+        - {x: 301, y: -246}
+        - {x: 303, y: -242.99998}
+        - {x: 303, y: -130}
+      - - {x: -341.99997, y: -239.99998}
+        - {x: -341.99997, y: 239.99998}
+        - {x: -339, y: 239.99998}
+        - {x: -338, y: 240.99998}
+        - {x: 290, y: 240.99998}
+        - {x: 291, y: 239.99998}
+        - {x: 293.99997, y: 239.99998}
+        - {x: 293.99997, y: 234.99998}
+        - {x: 295, y: 233.99998}
+        - {x: 295, y: 227}
+        - {x: 298, y: 224}
+        - {x: 330, y: 225}
+        - {x: 324, y: 222}
+        - {x: 321, y: 219}
+        - {x: 316.99997, y: 216.99998}
+        - {x: 315, y: 213.99998}
+        - {x: 314, y: 213.99998}
+        - {x: 311, y: 211.99998}
+        - {x: 307, y: 209.99998}
+        - {x: 304, y: 207}
+        - {x: 300, y: 205}
+        - {x: 295, y: 199}
+        - {x: 295, y: -128}
+        - {x: 293.99997, y: -129}
+        - {x: 293.99997, y: -239.99998}
+        - {x: 292.99997, y: -240.99998}
+        - {x: -341, y: -240.99998}
+        - {x: -341, y: -239.99998}
+      - - {x: 314, y: 129}
+        - {x: 304, y: 124}
+        - {x: 304, y: 88}
+        - {x: 314, y: 70}
+        - {x: 325, y: 70}
+        - {x: 350, y: 85.99999}
+        - {x: 350, y: 129}
+      - - {x: 333, y: 181}
+        - {x: 323, y: 188}
+        - {x: 306, y: 188}
+        - {x: 306, y: 177}
+        - {x: 310, y: 170}
+        - {x: 319.99997, y: 159.99998}
+        - {x: 308, y: 157}
+        - {x: 306, y: 150}
+        - {x: 306, y: 135}
+        - {x: 312, y: 130}
+        - {x: 324, y: 135}
+        - {x: 339, y: 150}
+        - {x: 350, y: 149}
+        - {x: 350, y: 180}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8452828367c94cc386606422fa58e450
+      internalID: 21300000
+      vertices:
+      - {x: 658, y: 481}
+      - {x: 700, y: 480}
+      - {x: 700, y: 475}
+      - {x: 655, y: 440}
+      - {x: 653, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 493}
+      - {x: 1, y: 495}
+      - {x: 3, y: 496}
+      - {x: 651, y: 496}
+      indices: 030000000800000009000000060000000700000008000000050000000300000004000000080000000300000005000000080000000500000006000000000000000100000002000000000000000200000003000000090000000000000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatTextBubble
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 115
+        width: 552
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 138, y: 15, z: 138, w: 16}
+      customData: 
+      outline:
+      - - {x: -276, y: -31}
+        - {x: -276, y: 31}
+        - {x: 276, y: 31}
+        - {x: 276, y: -31}
+      physicsShape:
+      - - {x: -274, y: 31}
+        - {x: -276, y: 29}
+        - {x: -276, y: -28}
+        - {x: 273, y: -28}
+        - {x: 273, y: 31}
+      tessellationDetail: 0
+      bones: []
+      spriteID: de58664fe4ee44e6b42ed9483b879f1a
+      internalID: 21300002
+      vertices:
+      - {x: 552, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 62}
+      - {x: 552, y: 62}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dead_GreyedOut
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 53
+        width: 345
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -172.49998, y: -29.999998}
+        - {x: -172.49998, y: 29.999998}
+        - {x: 172.49998, y: 29.999998}
+        - {x: 172.49998, y: -29.999998}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7091e17bec44d0b4645aee8703e90a
+      internalID: 21300004
+      vertices:
+      - {x: 345, y: 0.0000019073486}
+      - {x: 0.000015258789, y: 0.0000019073486}
+      - {x: 0.000015258789, y: 60}
+      - {x: 345, y: 60}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deadX_border
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 613.0761
+        width: 65.948685
+        height: 59.923878
+      alignment: 9
+      pivot: {x: 0.4928074, y: 0.5077089}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -32.974342, y: -22.03805}
+        - {x: -32.974342, y: 29.96195}
+        - {x: 28.025658, y: 29.96195}
+        - {x: 33.025654, y: -27.03805}
+        - {x: -30.974342, y: -31.038048}
+      physicsShape:
+      - - {x: 32.025658, y: -30.038052}
+        - {x: 32.025658, y: -18.038052}
+        - {x: 13.025657, y: 0.9619484}
+        - {x: 28.025658, y: 12.961948}
+        - {x: 28.025658, y: 29.961946}
+        - {x: 21.025656, y: 29.961946}
+        - {x: 4.0256577, y: 20.961948}
+        - {x: -25.974342, y: 29.961946}
+        - {x: -29.97434, y: 29.961946}
+        - {x: -32.974342, y: 23.961948}
+        - {x: -32.974342, y: 16.961948}
+        - {x: -20.974342, y: -2.0380514}
+        - {x: -28.974342, y: -7.038051}
+        - {x: -32.974342, y: -10.038052}
+        - {x: -32.974342, y: -24.03805}
+        - {x: -31.974342, y: -27.038052}
+        - {x: -27.974342, y: -30.038052}
+        - {x: -15.974342, y: -25.038052}
+        - {x: -0.97434235, y: -9.038052}
+        - {x: 9.025658, y: -16.038052}
+        - {x: 30.025658, y: -30.038052}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0618a4ff384138a5d0b19cda6b4ca3
+      internalID: 21300006
+      vertices:
+      - {x: 66.474335, y: 2.4619408}
+      - {x: 2.4743423, y: -1.5380573}
+      - {x: 0.47434235, y: 7.461941}
+      - {x: 0.47434235, y: 59.46194}
+      - {x: 61.474342, y: 59.46194}
+      indices: 020000000300000004000000000000000200000004000000000000000100000002000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerIcon
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 407
+        width: 55
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -27.5, y: -22.999998}
+        - {x: -27.5, y: 22.999998}
+        - {x: 27.5, y: 22.999998}
+        - {x: 27.5, y: -22.999998}
+      physicsShape:
+      - - {x: -20.5, y: 22.999998}
+        - {x: -26.499998, y: 12}
+        - {x: -27.5, y: 7}
+        - {x: -27.5, y: -22.999998}
+        - {x: 27.5, y: -22.999998}
+        - {x: 27.5, y: 21}
+        - {x: 22.5, y: 22.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9cd55935ff4aca8a530578d442d54c
+      internalID: 21300008
+      vertices:
+      - {x: 55, y: 0.0000019073486}
+      - {x: 0, y: 0.0000019073486}
+      - {x: 0, y: 46}
+      - {x: 55, y: 46}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerVoteResults
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 443
+        width: 30
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -14.999999, y: -12.5}
+        - {x: -14.999999, y: 12.5}
+        - {x: 14.999999, y: 12.5}
+        - {x: 14.999999, y: -12.5}
+      physicsShape:
+      - - {x: -9, y: 12.5}
+        - {x: -14.999999, y: 4.5}
+        - {x: -14.999999, y: -12.5}
+        - {x: 14.999999, y: -12.5}
+        - {x: 14.999999, y: 1.5}
+        - {x: 4.9999995, y: 12.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00e32d65e504e12b233aeaf336cf379
+      internalID: 21300010
+      vertices:
+      - {x: 30, y: 0}
+      - {x: 0.0000009536743, y: 0}
+      - {x: 0.0000009536743, y: 25}
+      - {x: 30, y: 25}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: votePlayerBase
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 50
+        width: 348
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -174, y: -31.5}
+        - {x: -174, y: 31.5}
+        - {x: 174, y: 31.5}
+        - {x: 174, y: -31.5}
+      physicsShape:
+      - - {x: 170, y: 31.5}
+        - {x: -174, y: 31.5}
+        - {x: -174, y: -30.5}
+        - {x: 170, y: -30.5}
+        - {x: 173, y: -27.5}
+        - {x: 173, y: 29.499998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c6ddf6b71a4620a6de6525558651b7
+      internalID: 21300012
+      vertices:
+      - {x: 348, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 63}
+      - {x: 348, y: 63}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatBar
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 179
+        width: 606
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 152, y: 13, z: 151, w: 14}
+      customData: 
+      outline:
+      - - {x: -303, y: -26.999998}
+        - {x: -303, y: 26.999998}
+        - {x: 303, y: 26.999998}
+        - {x: 303, y: -26.999998}
+      physicsShape:
+      - - {x: -303, y: 26.999998}
+        - {x: -303, y: -26.999998}
+        - {x: 300, y: -26.999998}
+        - {x: 303, y: -26}
+        - {x: 303, y: 26.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33cda64a318b43d8929a6f38e8680118
+      internalID: 21300014
+      vertices:
+      - {x: 606, y: 0.0000019073486}
+      - {x: 0, y: 0.0000019073486}
+      - {x: 0, y: 54}
+      - {x: 606, y: 54}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      chatBar: 21300014
+      chatBase: 21300000
+      chatTextBubble: 21300002
+      deadX_border: 21300006
+      dead_GreyedOut: 21300004
+      playerIcon: 21300008
+      playerVoteResults: 21300010
+      votePlayerBase: 21300012
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

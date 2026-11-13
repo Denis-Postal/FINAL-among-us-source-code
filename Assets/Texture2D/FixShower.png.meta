@@ -1,0 +1,636 @@
+fileFormatVersion: 2
+guid: 5237a0947c8b70247a8fc9b5fe162895
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: shower_showerhead
+  - first:
+      213: 21300002
+    second: shower_powermaxoff
+  - first:
+      213: 21300004
+    second: showeR_mallet
+  - first:
+      213: 21300006
+    second: shower_powerlow
+  - first:
+      213: 21300008
+    second: shower_powerlowoff
+  - first:
+      213: 21300010
+    second: shower_powermedium
+  - first:
+      213: 21300012
+    second: shower_powermax
+  - first:
+      213: 21300014
+    second: shower_poweroutline
+  - first:
+      213: 21300016
+    second: shower_bg
+  - first:
+      213: 21300018
+    second: shower_powermediumoff
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shower_showerhead
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 178
+        width: 259
+        height: 225
+      alignment: 9
+      pivot: {x: 0.5135135, y: 0.8577778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 34.5, y: 90.5}
+        - {x: 46.499996, y: 51.5}
+        - {x: 129.5, y: -43.5}
+        - {x: 129.5, y: -72.5}
+        - {x: 88.5, y: -99.5}
+        - {x: 36.5, y: -112.5}
+        - {x: -107.5, y: -112.5}
+        - {x: -129.5, y: -87.5}
+        - {x: -129.5, y: -59.5}
+        - {x: -89.5, y: 1.5}
+        - {x: -48.5, y: 30.5}
+        - {x: -21.5, y: 112.5}
+        - {x: 21.5, y: 112.5}
+      physicsShape:
+      - - {x: 106.5, y: -87.5}
+        - {x: 117.5, y: -80.5}
+        - {x: 129.5, y: -66.499985}
+        - {x: 129.5, y: -46.5}
+        - {x: 121.49999, y: -33.5}
+        - {x: 97.5, y: -11.499992}
+        - {x: 91.5, y: -0.5}
+        - {x: 75.5, y: 17.5}
+        - {x: 64.5, y: 23.5}
+        - {x: 44.5, y: 44.5}
+        - {x: 37.5, y: 53.5}
+        - {x: 37.5, y: 77.5}
+        - {x: 34.5, y: 89.5}
+        - {x: 29.5, y: 97.5}
+        - {x: 21.5, y: 106.5}
+        - {x: 13.499999, y: 112.5}
+        - {x: -12.5, y: 112.5}
+        - {x: -27.5, y: 97.5}
+        - {x: -28.5, y: 68.5}
+        - {x: -29.5, y: 46.5}
+        - {x: -41.5, y: 33.5}
+        - {x: -63.499992, y: 20.500004}
+        - {x: -75.5, y: 6.5}
+        - {x: -101.49999, y: -17.499992}
+        - {x: -107.5, y: -27.499992}
+        - {x: -111.5, y: -33.5}
+        - {x: -129.5, y: -67.5}
+        - {x: -129.5, y: -86.5}
+        - {x: -124.5, y: -93.5}
+        - {x: -99.5, y: -105.5}
+        - {x: -84.5, y: -108.5}
+        - {x: -54.5, y: -112.5}
+        - {x: 15.5, y: -112.5}
+        - {x: 43.499996, y: -109.5}
+        - {x: 65.5, y: -103.499985}
+        - {x: 81.5, y: -99.5}
+      - - {x: -63.499992, y: 112.5}
+        - {x: -129.5, y: 112.5}
+        - {x: -129.5, y: -15.5}
+        - {x: -128.5, y: -16.5}
+        - {x: -103.49999, y: -16.5}
+        - {x: -62.5, y: 40.500004}
+        - {x: -62.5, y: 111.5}
+      - - {x: 53.5, y: 112.5}
+        - {x: 53.5, y: 51.5}
+        - {x: 54.5, y: 42.5}
+        - {x: 75.5, y: 40.500004}
+        - {x: 79.5, y: 24.5}
+        - {x: 90.5, y: 7.5000076}
+        - {x: 129.5, y: 7.5000076}
+        - {x: 129.5, y: 112.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091e98fea21948d48c42e58f06cd1c4c
+      internalID: 21300000
+      vertices:
+      - {x: 160.5, y: 122.5}
+      - {x: 172.5, y: 83.5}
+      - {x: 255.5, y: -11.5}
+      - {x: 255.5, y: -40.5}
+      - {x: 214.5, y: -67.5}
+      - {x: 162.5, y: -80.5}
+      - {x: 18.5, y: -80.5}
+      - {x: -3.5, y: -55.5}
+      - {x: -3.5, y: -27.5}
+      - {x: 36.5, y: 33.5}
+      - {x: 77.5, y: 62.5}
+      - {x: 104.5, y: 144.5}
+      - {x: 147.5, y: 144.5}
+      indices: 0a0000000000000001000000090000000500000006000000080000000600000007000000010000000400000005000000080000000900000006000000090000000a0000000500000001000000050000000a0000000200000003000000040000000100000002000000040000000a0000000b00000000000000000000000b0000000c000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shower_powermaxoff
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 277
+        width: 20
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -9.999999, y: -31}
+        - {x: -9.999999, y: 31}
+        - {x: 9.999999, y: 31}
+        - {x: 9.999999, y: -31}
+      physicsShape:
+      - - {x: -9.999999, y: 31}
+        - {x: -9.999999, y: -31}
+        - {x: 9.999999, y: -31}
+        - {x: 9.999999, y: 31}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5227dcbc6794bbb85ab8549e9801b3f
+      internalID: 21300002
+      vertices:
+      - {x: 20, y: 0}
+      - {x: 0.0000009536743, y: 0}
+      - {x: 0.0000009536743, y: 62}
+      - {x: 20, y: 62}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: showeR_mallet
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 139
+        width: 199
+        height: 264
+      alignment: 9
+      pivot: {x: 0.52261305, y: 0.12878788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -99.5, y: 132}
+        - {x: 83.5, y: 132}
+        - {x: 99.5, y: 117.999985}
+        - {x: 99.5, y: 27}
+        - {x: 26.5, y: 25}
+        - {x: 24.499998, y: -132}
+        - {x: -17.5, y: -132}
+        - {x: -19.5, y: 22.999992}
+        - {x: -89.5, y: 27}
+        - {x: -99.5, y: 51}
+      physicsShape:
+      - - {x: 22.5, y: 27}
+        - {x: 77.49999, y: 27}
+        - {x: 88.5, y: 28}
+        - {x: 99.5, y: 47.999985}
+        - {x: 99.5, y: 110}
+        - {x: 96.49999, y: 121}
+        - {x: 82.5, y: 132}
+        - {x: -81.49999, y: 132}
+        - {x: -94.49999, y: 124}
+        - {x: -99.5, y: 110.999985}
+        - {x: -99.5, y: 43}
+        - {x: -87.49999, y: 27}
+        - {x: -16.5, y: 25}
+        - {x: -14.5, y: -16}
+        - {x: -19.5, y: -72}
+        - {x: -18.499998, y: -123}
+        - {x: -12.5, y: -130}
+        - {x: -10.499999, y: -132}
+        - {x: 22.5, y: -132}
+        - {x: 26.5, y: -124}
+        - {x: 24.499998, y: -49.000004}
+        - {x: 20.5, y: -19}
+      - - {x: 27.499998, y: 21.999992}
+        - {x: 27.499998, y: -132}
+        - {x: 99.5, y: -132}
+        - {x: 99.5, y: 26}
+        - {x: 32.5, y: 26}
+      - - {x: -57.5, y: -14}
+        - {x: -96.5, y: 31}
+        - {x: -99.5, y: 31}
+        - {x: -99.5, y: -80}
+        - {x: -93.49999, y: -80}
+        - {x: -57.5, y: -64}
+        - {x: -45.5, y: -44.000004}
+        - {x: -45.5, y: -31.000008}
+      - - {x: -22.499998, y: 24}
+        - {x: -39.5, y: 24}
+        - {x: -44.499996, y: 19.999992}
+        - {x: -44.499996, y: -40}
+        - {x: -40.5, y: -44.000004}
+        - {x: -22.499998, y: -44.000004}
+        - {x: -18.499998, y: -40}
+        - {x: -18.499998, y: 20.999992}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58fe30562754e1687127b8f0e7dadee
+      internalID: 21300004
+      vertices:
+      - {x: 194.5, y: 348}
+      - {x: 194.5, y: 257}
+      - {x: 121.5, y: 255}
+      - {x: 119.5, y: 98}
+      - {x: 77.5, y: 98}
+      - {x: 75.5, y: 253}
+      - {x: 5.5, y: 257}
+      - {x: -4.5, y: 281}
+      - {x: -4.5, y: 362}
+      - {x: 178.5, y: 362}
+      indices: 050000000800000009000000050000000700000008000000050000000600000007000000030000000400000005000000020000000300000005000000020000000500000009000000000000000100000002000000000000000200000009000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shower_powerlow
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 230
+        width: 20
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -9.999999, y: -31}
+        - {x: -9.999999, y: 31}
+        - {x: 9.999999, y: 31}
+        - {x: 9.999999, y: -31}
+      physicsShape:
+      - - {x: -9.999999, y: 31}
+        - {x: -9.999999, y: -31}
+        - {x: 9.999999, y: -31}
+        - {x: 9.999999, y: 31}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198effe2a1844729afd83cc65733c230
+      internalID: 21300006
+      vertices:
+      - {x: 20, y: 0}
+      - {x: 0.0000009536743, y: 0}
+      - {x: 0.0000009536743, y: 62}
+      - {x: 20, y: 62}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shower_powerlowoff
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 341
+        width: 20
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -9.999999, y: -31}
+        - {x: -9.999999, y: 31}
+        - {x: 9.999999, y: 31}
+        - {x: 9.999999, y: -31}
+      physicsShape:
+      - - {x: -9.999999, y: 31}
+        - {x: -9.999999, y: -31}
+        - {x: 9.999999, y: -31}
+        - {x: 9.999999, y: 31}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8772648461b448db5db44b9b9481f64
+      internalID: 21300008
+      vertices:
+      - {x: 20, y: 0}
+      - {x: 0.0000009536743, y: 0}
+      - {x: 0.0000009536743, y: 62}
+      - {x: 20, y: 62}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shower_powermedium
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 341
+        width: 20
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -9.999999, y: -31}
+        - {x: -9.999999, y: 31}
+        - {x: 9.999999, y: 31}
+        - {x: 9.999999, y: -31}
+      physicsShape:
+      - - {x: -9.999999, y: 31}
+        - {x: -9.999999, y: -31}
+        - {x: 9.999999, y: -31}
+        - {x: 9.999999, y: 31}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0d63c6c11b43c09eda0d9b5b101219
+      internalID: 21300010
+      vertices:
+      - {x: 20, y: 0}
+      - {x: 0.0000009536743, y: 0}
+      - {x: 0.0000009536743, y: 62}
+      - {x: 20, y: 62}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shower_powermax
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 341
+        width: 20
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -9.999999, y: -31}
+        - {x: -9.999999, y: 31}
+        - {x: 9.999999, y: 31}
+        - {x: 9.999999, y: -31}
+      physicsShape:
+      - - {x: -9.999999, y: 31}
+        - {x: -9.999999, y: -31}
+        - {x: 9.999999, y: -31}
+        - {x: 9.999999, y: 31}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e8340b9a9c4f729c742be68ac568a9
+      internalID: 21300012
+      vertices:
+      - {x: 20, y: 0}
+      - {x: 0.0000009536743, y: 0}
+      - {x: 0.0000009536743, y: 62}
+      - {x: 20, y: 62}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shower_poweroutline
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 53
+        width: 336
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 168, y: -42}
+        - {x: -168, y: -42}
+        - {x: -168, y: 42}
+        - {x: 168, y: 42}
+      physicsShape:
+      - - {x: -168, y: 42}
+        - {x: -168, y: -42}
+        - {x: 168, y: -42}
+        - {x: 168, y: 42}
+      - - {x: -150, y: 24}
+        - {x: 150, y: 24}
+        - {x: 150, y: -24}
+        - {x: -150, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e163514d704e5394c9e8bfe45a6d32
+      internalID: 21300014
+      vertices:
+      - {x: 336, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 84}
+      - {x: 336, y: 84}
+      - {x: 19, y: 67}
+      - {x: 19, y: 17}
+      - {x: 317, y: 17}
+      - {x: 317, y: 67}
+      indices: 050000000000000001000000050000000100000002000000040000000500000002000000040000000200000003000000070000000400000003000000060000000700000003000000000000000500000006000000030000000000000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shower_bg
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1
+        width: 81
+        height: 293
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -40.5, y: -146.49998}
+        - {x: -40.5, y: 146.49998}
+        - {x: 40.5, y: 146.49998}
+        - {x: 40.5, y: -146.49998}
+      physicsShape:
+      - - {x: -40.5, y: 146.49998}
+        - {x: -40.5, y: -146.49998}
+        - {x: 40.5, y: -146.49998}
+        - {x: 40.5, y: 146.49998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf886fce40fc4dc780e1c147584b1cb9
+      internalID: 21300016
+      vertices:
+      - {x: 81, y: 0.000015258789}
+      - {x: 0, y: 0.000015258789}
+      - {x: 0, y: 293}
+      - {x: 81, y: 293}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shower_powermediumoff
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 341
+        width: 20
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -9.999999, y: -31}
+        - {x: -9.999999, y: 31}
+        - {x: 9.999999, y: 31}
+        - {x: 9.999999, y: -31}
+      physicsShape:
+      - - {x: -9.999999, y: 31}
+        - {x: -9.999999, y: -31}
+        - {x: 9.999999, y: -31}
+        - {x: 9.999999, y: 31}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ea5004cb6d44a59ef965d4cfd9d7d8
+      internalID: 21300018
+      vertices:
+      - {x: 20, y: 0}
+      - {x: 0.0000009536743, y: 0}
+      - {x: 0.0000009536743, y: 62}
+      - {x: 20, y: 62}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      showeR_mallet: 21300004
+      shower_bg: 21300016
+      shower_powerlow: 21300006
+      shower_powerlowoff: 21300008
+      shower_powermax: 21300012
+      shower_powermaxoff: 21300002
+      shower_powermedium: 21300010
+      shower_powermediumoff: 21300018
+      shower_poweroutline: 21300014
+      shower_showerhead: 21300000
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

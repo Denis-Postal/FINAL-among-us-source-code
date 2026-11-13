@@ -1,0 +1,859 @@
+fileFormatVersion: 2
+guid: d3ebec2e037970c4f91d246a4b6dd74d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: 2024_LNY_beans_nameplate_dragon
+  - first:
+      213: 21300002
+    second: 2024_LNY_beans_nameplate_cat
+  - first:
+      213: 21300004
+    second: 2024_LNY_beans_nameplate_clouds
+  - first:
+      213: 21300006
+    second: 2024_LNY_beans_nameplate_incense
+  - first:
+      213: 21300008
+    second: 2024_LNY_beans_nameplate_rabbit
+  - first:
+      213: 21300010
+    second: 2024_LNY_beans_nameplate_boar
+  - first:
+      213: 21300012
+    second: 2024_LNY_beans_nameplate_goat
+  - first:
+      213: 21300014
+    second: 2024_LNY_beans_nameplate_snake
+  - first:
+      213: 21300016
+    second: 2024_LNY_beans_nameplate_redPackets
+  - first:
+      213: 21300018
+    second: 2024_LNY_beans_nameplate_beanDragon
+  - first:
+      213: 21300020
+    second: 2024_LNY_beans_nameplate_rat
+  - first:
+      213: 21300022
+    second: 2024_LNY_beans_nameplate_dog
+  - first:
+      213: 21300024
+    second: 2024_LNY_beans_nameplate_ox
+  - first:
+      213: 21300026
+    second: 2024_LNY_beans_nameplate_horse
+  - first:
+      213: 21300028
+    second: 2024_LNY_beans_nameplates_tiger
+  - first:
+      213: 21300030
+    second: 2024_LNY_beans_nameplate_monkey
+  - first:
+      213: 21300032
+    second: 2024_LNY_beans_nameplate_rooster
+  - first:
+      213: 21300034
+    second: 2024_LNY_beans_nameplate_lanterns
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2024_LNY_beans_nameplate_dragon
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 279
+        width: 276
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -138, y: -33.5}
+        - {x: -138, y: 33.5}
+        - {x: 138, y: 33.5}
+        - {x: 138, y: -33.5}
+      physicsShape:
+      - - {x: -138, y: 33.5}
+        - {x: -138, y: -31.5}
+        - {x: -132, y: -33.5}
+        - {x: 133.99998, y: -33.5}
+        - {x: 138, y: -29.5}
+        - {x: 138, y: 27.5}
+        - {x: 132, y: 33.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eab574c3a524e21b2742eadb87aa90c
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 67.5}
+      - {x: 276, y: 67.5}
+      - {x: 0, y: 0.5}
+      - {x: 276, y: 0.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_LNY_beans_nameplate_cat
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 348
+        width: 276
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -138, y: -33.5}
+        - {x: -138, y: 33.5}
+        - {x: 138, y: 33.5}
+        - {x: 138, y: -33.5}
+      physicsShape:
+      - - {x: 131, y: 33.5}
+        - {x: -136, y: 33.5}
+        - {x: -138, y: 29.499998}
+        - {x: -138, y: -27.499998}
+        - {x: -133, y: -33.5}
+        - {x: 133.99998, y: -33.5}
+        - {x: 138, y: -31.5}
+        - {x: 138, y: 26.499998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190fe98b0106430e840d46a4bbc149d1
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 67.5}
+      - {x: 276, y: 67.5}
+      - {x: 0, y: 0.5}
+      - {x: 276, y: 0.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_LNY_beans_nameplate_clouds
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 279
+        width: 276
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -138, y: -33.5}
+        - {x: -138, y: 33.5}
+        - {x: 138, y: 33.5}
+        - {x: 138, y: -33.5}
+      physicsShape:
+      - - {x: 131, y: 33.5}
+        - {x: -137, y: 33.5}
+        - {x: -138, y: 29.499998}
+        - {x: -138, y: -31.5}
+        - {x: -133, y: -33.5}
+        - {x: 133.99998, y: -33.5}
+        - {x: 138, y: -29.5}
+        - {x: 138, y: 23.5}
+        - {x: 136, y: 29.499998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b368733f8c224f17ab3bc928c2d6a777
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 67.5}
+      - {x: 276, y: 67.5}
+      - {x: 0, y: 0.5}
+      - {x: 276, y: 0.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_LNY_beans_nameplate_incense
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 210
+        width: 276
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -138, y: -33.5}
+        - {x: -138, y: 33.5}
+        - {x: 138, y: 33.5}
+        - {x: 138, y: -33.5}
+      physicsShape:
+      - - {x: -133.99998, y: 33.5}
+        - {x: -138, y: 30.5}
+        - {x: -138, y: -33.5}
+        - {x: 138, y: -33.5}
+        - {x: 138, y: 27.5}
+        - {x: 130, y: 33.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: be61c0e062bd4231ad391cce258cb115
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 67.5}
+      - {x: 276, y: 67.5}
+      - {x: 0, y: 0.5}
+      - {x: 276, y: 0.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_LNY_beans_nameplate_rabbit
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 141
+        width: 276
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -138, y: -33.5}
+        - {x: -138, y: 33.5}
+        - {x: 138, y: 33.5}
+        - {x: 138, y: -33.5}
+      physicsShape:
+      - - {x: -138, y: 33.5}
+        - {x: -138, y: -33.5}
+        - {x: 137, y: -33.5}
+        - {x: 138, y: -30.499998}
+        - {x: 138, y: 28.5}
+        - {x: 132, y: 33.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a2e86d3efd47eabce62fdf7de9a24f
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 67.5}
+      - {x: 276, y: 67.5}
+      - {x: 0, y: 0.5}
+      - {x: 276, y: 0.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_LNY_beans_nameplate_boar
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 348
+        width: 276
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -138, y: -33.5}
+        - {x: -138, y: 33.5}
+        - {x: 138, y: 33.5}
+        - {x: 138, y: -33.5}
+      physicsShape:
+      - - {x: -136, y: 33.5}
+        - {x: -138, y: 31.5}
+        - {x: -138, y: -33.5}
+        - {x: 138, y: -33.5}
+        - {x: 138, y: 27.5}
+        - {x: 137, y: 33.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489a841565494eca81bd0f1d7056bf3e
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 67.5}
+      - {x: 276, y: 67.5}
+      - {x: 0, y: 0.5}
+      - {x: 276, y: 0.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_LNY_beans_nameplate_goat
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 210
+        width: 276
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -138, y: -33.5}
+        - {x: -138, y: 33.5}
+        - {x: 138, y: 33.5}
+        - {x: 138, y: -33.5}
+      physicsShape:
+      - - {x: -138, y: 33.5}
+        - {x: -138, y: -30.499998}
+        - {x: -133, y: -33.5}
+        - {x: 133.99998, y: -33.5}
+        - {x: 138, y: -29.5}
+        - {x: 138, y: 27.5}
+        - {x: 132, y: 33.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3634234f04b34c3aa5fbbd0b88c36420
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 67.5}
+      - {x: 276, y: 67.5}
+      - {x: 0, y: 0.5}
+      - {x: 276, y: 0.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_LNY_beans_nameplate_snake
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 72
+        width: 276
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -138, y: -33.5}
+        - {x: -138, y: 33.5}
+        - {x: 138, y: 33.5}
+        - {x: 138, y: -33.5}
+      physicsShape:
+      - - {x: -138, y: -30.499998}
+        - {x: -135, y: -33.5}
+        - {x: 138, y: -33.5}
+        - {x: 138, y: 29.499998}
+        - {x: 137, y: 33.5}
+        - {x: -137, y: 33.5}
+        - {x: -138, y: 32.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c4b5ca70804869bb04f92814a9816c
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 67.5}
+      - {x: 276, y: 67.5}
+      - {x: 0, y: 0.5}
+      - {x: 276, y: 0.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_LNY_beans_nameplate_redPackets
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 72
+        width: 276
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -138, y: -33.5}
+        - {x: -138, y: 33.5}
+        - {x: 138, y: 33.5}
+        - {x: 138, y: -33.5}
+      physicsShape:
+      - - {x: 135, y: 33.5}
+        - {x: -138, y: 33.5}
+        - {x: -138, y: -24.5}
+        - {x: -133, y: -33.5}
+        - {x: 136, y: -33.5}
+        - {x: 138, y: -31.5}
+        - {x: 138, y: 23.5}
+        - {x: 137, y: 30.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d3145a95e8409db6ecfbb3cd0be6be
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 67.5}
+      - {x: 276, y: 67.5}
+      - {x: 0, y: 0.5}
+      - {x: 276, y: 0.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_LNY_beans_nameplate_beanDragon
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 348
+        width: 276
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -138, y: -33.5}
+        - {x: -138, y: 33.5}
+        - {x: 138, y: 33.5}
+        - {x: 138, y: -33.5}
+      physicsShape:
+      - - {x: -133.99998, y: 33.5}
+        - {x: -138, y: 31.5}
+        - {x: -138, y: -27.499998}
+        - {x: -133.99998, y: -33.5}
+        - {x: 138, y: -33.5}
+        - {x: 138, y: 25.5}
+        - {x: 131, y: 33.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000bf13c2eaa43c488e8a7b9b5265f10
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 67.5}
+      - {x: 276, y: 67.5}
+      - {x: 0, y: 0.5}
+      - {x: 276, y: 0.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_LNY_beans_nameplate_rat
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 4
+        width: 273
+        height: 66
+      alignment: 9
+      pivot: {x: 0.50183153, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -136.49998, y: -33}
+        - {x: -136.49998, y: 33}
+        - {x: 136.50002, y: 33}
+        - {x: 136.50002, y: -33}
+      physicsShape:
+      - - {x: -136.49998, y: 33}
+        - {x: -136.49998, y: -29.999998}
+        - {x: -132.49998, y: -33}
+        - {x: 136.50002, y: -33}
+        - {x: 136.50002, y: 33}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331161a711194b4d914c7b99e413c945
+      internalID: 21300020
+      vertices:
+      - {x: -0.5, y: 66}
+      - {x: 272.5, y: 66}
+      - {x: -0.5, y: 0}
+      - {x: 272.5, y: 0}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_LNY_beans_nameplate_dog
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 279
+        width: 276
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -138, y: -33.5}
+        - {x: -138, y: 33.5}
+        - {x: 138, y: 33.5}
+        - {x: 138, y: -33.5}
+      physicsShape:
+      - - {x: -138, y: 33.5}
+        - {x: -138, y: -33.5}
+        - {x: 138, y: -33.5}
+        - {x: 138, y: 33.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe785129cbbc413cb299993eae9948cf
+      internalID: 21300022
+      vertices:
+      - {x: 0, y: 67.5}
+      - {x: 276, y: 67.5}
+      - {x: 0, y: 0.5}
+      - {x: 276, y: 0.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_LNY_beans_nameplate_ox
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4
+        width: 273
+        height: 66
+      alignment: 9
+      pivot: {x: 0.50183153, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -136.5, y: -33}
+        - {x: -136.5, y: 33}
+        - {x: 136.5, y: 33}
+        - {x: 136.5, y: -33}
+      physicsShape:
+      - - {x: -136.5, y: 33}
+        - {x: -136.5, y: -29.999998}
+        - {x: -132.5, y: -33}
+        - {x: 136.5, y: -33}
+        - {x: 136.5, y: 33}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4fd726159d49b1b184c9aac0ff3bc3
+      internalID: 21300024
+      vertices:
+      - {x: -0.50001526, y: 66}
+      - {x: 272.5, y: 66}
+      - {x: -0.50001526, y: 0}
+      - {x: 272.5, y: 0}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_LNY_beans_nameplate_horse
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 210
+        width: 276
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -138, y: -33.5}
+        - {x: -138, y: 33.5}
+        - {x: 138, y: 33.5}
+        - {x: 138, y: -33.5}
+      physicsShape:
+      - - {x: -136, y: 33.5}
+        - {x: -138, y: 32.5}
+        - {x: -138, y: -28.5}
+        - {x: -132, y: -33.5}
+        - {x: 135, y: -33.5}
+        - {x: 138, y: -32.5}
+        - {x: 138, y: 26.499998}
+        - {x: 137, y: 33.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1529fd10713146c79186d8c4bb556b9a
+      internalID: 21300026
+      vertices:
+      - {x: 0, y: 67.5}
+      - {x: 276, y: 67.5}
+      - {x: 0, y: 0.5}
+      - {x: 276, y: 0.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_LNY_beans_nameplates_tiger
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 5
+        width: 273
+        height: 65
+      alignment: 9
+      pivot: {x: 0.50183153, y: 0.4923077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -136.49998, y: -32.5}
+        - {x: -136.49998, y: 32.5}
+        - {x: 136.50002, y: 32.5}
+        - {x: 136.50002, y: -32.5}
+      physicsShape:
+      - - {x: -136.49998, y: -32.5}
+        - {x: 136.50002, y: -32.5}
+        - {x: 136.50002, y: 32.5}
+        - {x: -136.49998, y: 32.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56106143ee7543c39a6424f580342c38
+      internalID: 21300028
+      vertices:
+      - {x: -0.5, y: 65.5}
+      - {x: 272.5, y: 65.5}
+      - {x: -0.5, y: 0.5}
+      - {x: 272.5, y: 0.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_LNY_beans_nameplate_monkey
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 141
+        width: 276
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -138, y: -33.5}
+        - {x: -138, y: 33.5}
+        - {x: 138, y: 33.5}
+        - {x: 138, y: -33.5}
+      physicsShape:
+      - - {x: -138, y: -33.5}
+        - {x: 138, y: -33.5}
+        - {x: 138, y: 33.5}
+        - {x: -138, y: 33.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77921c49c2174a1e9984a30ddd4a68b6
+      internalID: 21300030
+      vertices:
+      - {x: 0, y: 67.5}
+      - {x: 276, y: 67.5}
+      - {x: 0, y: 0.5}
+      - {x: 276, y: 0.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_LNY_beans_nameplate_rooster
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 72
+        width: 276
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -138, y: -33.5}
+        - {x: -138, y: 33.5}
+        - {x: 138, y: 33.5}
+        - {x: 138, y: -33.5}
+      physicsShape:
+      - - {x: -138, y: -33.5}
+        - {x: 138, y: -33.5}
+        - {x: 138, y: 30.5}
+        - {x: 137, y: 33.5}
+        - {x: -137, y: 33.5}
+        - {x: -138, y: 30.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e9e5a5423046faadb12515d6197187
+      internalID: 21300032
+      vertices:
+      - {x: 0, y: 67.5}
+      - {x: 276, y: 67.5}
+      - {x: 0, y: 0.5}
+      - {x: 276, y: 0.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_LNY_beans_nameplate_lanterns
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 141
+        width: 276
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -138, y: -33.5}
+        - {x: -138, y: 33.5}
+        - {x: 138, y: 33.5}
+        - {x: 138, y: -33.5}
+      physicsShape:
+      - - {x: 135, y: 33.5}
+        - {x: -138, y: 33.5}
+        - {x: -138, y: -24.5}
+        - {x: -133, y: -33.5}
+        - {x: 136, y: -33.5}
+        - {x: 138, y: -31.5}
+        - {x: 138, y: 23.5}
+        - {x: 137, y: 30.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f107e1db5124437fa00e7883713f3086
+      internalID: 21300034
+      vertices:
+      - {x: 0, y: 67.5}
+      - {x: 276, y: 67.5}
+      - {x: 0, y: 0.5}
+      - {x: 276, y: 0.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      2024_LNY_beans_nameplate_beanDragon: 21300018
+      2024_LNY_beans_nameplate_boar: 21300010
+      2024_LNY_beans_nameplate_cat: 21300002
+      2024_LNY_beans_nameplate_clouds: 21300004
+      2024_LNY_beans_nameplate_dog: 21300022
+      2024_LNY_beans_nameplate_dragon: 21300000
+      2024_LNY_beans_nameplate_goat: 21300012
+      2024_LNY_beans_nameplate_horse: 21300026
+      2024_LNY_beans_nameplate_incense: 21300006
+      2024_LNY_beans_nameplate_lanterns: 21300034
+      2024_LNY_beans_nameplate_monkey: 21300030
+      2024_LNY_beans_nameplate_ox: 21300024
+      2024_LNY_beans_nameplate_rabbit: 21300008
+      2024_LNY_beans_nameplate_rat: 21300020
+      2024_LNY_beans_nameplate_redPackets: 21300016
+      2024_LNY_beans_nameplate_rooster: 21300032
+      2024_LNY_beans_nameplate_snake: 21300014
+      2024_LNY_beans_nameplates_tiger: 21300028
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

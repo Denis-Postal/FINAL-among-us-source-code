@@ -1,0 +1,627 @@
+fileFormatVersion: 2
+guid: 65526de9f6846184794bd497b048df38
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: TrackerAction
+  - first:
+      213: 21300002
+    second: PhantomActions-Vanish
+  - first:
+      213: 21300004
+    second: PhantomAction-Reappear
+  - first:
+      213: 21300006
+    second: DetectiveAction
+  - first:
+      213: 21300008
+    second: SpiritGuideRefresh
+  - first:
+      213: 21300010
+    second: viper-kill-icon_small
+  - first:
+      213: 21300012
+    second: SpiritGuideSend
+  - first:
+      213: 21300014
+    second: SpiritGuideAbilityIcon
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 25
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TrackerAction
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 114.07612
+        width: 112
+        height: 114.84776
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -56, y: 12.5}
+        - {x: -48, y: 37.5}
+        - {x: -19, y: 57.5}
+        - {x: 31, y: 56.5}
+        - {x: 56, y: 20.5}
+        - {x: 56, y: -21.499998}
+        - {x: 31, y: -56.5}
+        - {x: -19, y: -57.5}
+        - {x: -48.999996, y: -37.5}
+        - {x: -56, y: -12.5}
+      physicsShape:
+      - - {x: 56, y: 15.5}
+        - {x: 48, y: 35.5}
+        - {x: 35, y: 46.5}
+        - {x: 16, y: 56.5}
+        - {x: -22, y: 56.5}
+        - {x: -51, y: 37.5}
+        - {x: -56, y: 14.5}
+        - {x: -56, y: -10.5}
+        - {x: -53.999996, y: -21.499998}
+        - {x: -45.999996, y: -34.5}
+        - {x: -29, y: -50.5}
+        - {x: -18, y: -56.5}
+        - {x: 21, y: -56.5}
+        - {x: 37, y: -47.5}
+        - {x: 55, y: -21.499998}
+        - {x: 56, y: -13.499999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500d3227b0ed4507b45154248a7d9dd8
+      internalID: 21300000
+      vertices:
+      - {x: 87, y: 113.92388}
+      - {x: 112, y: 77.92388}
+      - {x: 112, y: 35.92388}
+      - {x: 87, y: 0.92388153}
+      - {x: 37, y: -0.07611847}
+      - {x: 7.000004, y: 19.923882}
+      - {x: 0, y: 44.92388}
+      - {x: 0, y: 69.92388}
+      - {x: 8, y: 94.92388}
+      - {x: 37, y: 114.92388}
+      indices: 070000000800000009000000010000000700000009000000020000000300000004000000040000000500000006000000020000000400000006000000010000000200000006000000010000000600000007000000000000000100000009000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhantomActions-Vanish
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 687
+        width: 115
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -14.5, y: 53.499996}
+        - {x: 57.5, y: 53.499996}
+        - {x: 57.5, y: -23.5}
+        - {x: 19.5, y: -53.499996}
+        - {x: -26.499998, y: -53.499996}
+        - {x: -57.5, y: -22.5}
+        - {x: -57.5, y: 20.5}
+      physicsShape:
+      - - {x: 57.5, y: -0.5}
+        - {x: 57.5, y: 41.5}
+        - {x: 41.5, y: 52.499996}
+        - {x: 29.499998, y: 51.5}
+        - {x: 25.5, y: 53.499996}
+        - {x: 1.5, y: 53.499996}
+        - {x: -10.5, y: 51.5}
+        - {x: -25.5, y: 44.5}
+        - {x: -51.5, y: 15.5}
+        - {x: -57.5, y: 3.5}
+        - {x: -57.5, y: -11.499999}
+        - {x: -52.499996, y: -27.5}
+        - {x: -44.5, y: -37.5}
+        - {x: -25.5, y: -44.5}
+        - {x: -17.5, y: -50.5}
+        - {x: -7.4999995, y: -53.499996}
+        - {x: 15.5, y: -53.499996}
+        - {x: 26.499998, y: -48.5}
+        - {x: 46.5, y: -31.5}
+        - {x: 50.5, y: -21.499998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9acbf8bc6374aab8f0484bdef96c4f7
+      internalID: 21300002
+      vertices:
+      - {x: 115, y: 30}
+      - {x: 77, y: 0.0000038146973}
+      - {x: 31.000002, y: 0.0000038146973}
+      - {x: 0, y: 31}
+      - {x: 0, y: 74}
+      - {x: 43, y: 107}
+      - {x: 115, y: 107}
+      indices: 000000000500000006000000030000000400000005000000020000000300000005000000010000000200000005000000000000000100000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhantomAction-Reappear
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 796
+        width: 115
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 15.5, y: 53.499996}
+        - {x: 57.5, y: 53.499996}
+        - {x: 57.5, y: -21.499998}
+        - {x: 19.5, y: -53.499996}
+        - {x: -26.499998, y: -53.499996}
+        - {x: -57.5, y: -22.5}
+        - {x: -57.5, y: 12.5}
+        - {x: -23.5, y: 48.5}
+      physicsShape:
+      - - {x: 57.5, y: -3.5}
+        - {x: 57.5, y: 37.5}
+        - {x: 47.5, y: 50.5}
+        - {x: 41.5, y: 51.5}
+        - {x: 28.5, y: 53.499996}
+        - {x: 6.5, y: 53.499996}
+        - {x: -15.5, y: 50.5}
+        - {x: -32.5, y: 40.5}
+        - {x: -52.499996, y: 13.499999}
+        - {x: -57.5, y: 3.5}
+        - {x: -57.5, y: -8.5}
+        - {x: -53.499996, y: -25.5}
+        - {x: -44.5, y: -36.499996}
+        - {x: -38.5, y: -40.5}
+        - {x: -10.5, y: -53.499996}
+        - {x: 17.5, y: -53.499996}
+        - {x: 41.5, y: -36.499996}
+        - {x: 49.499996, y: -25.5}
+        - {x: 50.5, y: -14.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514b65c01a5d4258bb6c34edf89b7cf8
+      internalID: 21300004
+      vertices:
+      - {x: 115, y: 32}
+      - {x: 77, y: 0.0000038146973}
+      - {x: 31.000002, y: 0.0000038146973}
+      - {x: 0, y: 31}
+      - {x: 0, y: 66}
+      - {x: 34, y: 102}
+      - {x: 73, y: 107}
+      - {x: 115, y: 107}
+      indices: 000000000600000007000000010000000500000006000000040000000200000003000000040000000500000002000000010000000200000005000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DetectiveAction
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 231
+        width: 112
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 22, y: 66.5}
+        - {x: 56, y: 66.5}
+        - {x: 56, y: 24.499998}
+        - {x: 42, y: -6.5}
+        - {x: 56, y: -42.5}
+        - {x: 56, y: -66.5}
+        - {x: 19, y: -66.5}
+        - {x: -56, y: -29.499998}
+        - {x: -56, y: 40.5}
+      physicsShape:
+      - - {x: 39, y: -19.5}
+        - {x: 52, y: 17.5}
+        - {x: 56, y: 24.499998}
+        - {x: 56, y: 59.499996}
+        - {x: 51, y: 66.5}
+        - {x: 18, y: 66.5}
+        - {x: 12, y: 65.5}
+        - {x: 4.9999995, y: 58.499996}
+        - {x: -12, y: 54.5}
+        - {x: -35, y: 48.5}
+        - {x: -52, y: 29.499998}
+        - {x: -56, y: 19.5}
+        - {x: -56, y: -11.499999}
+        - {x: -55, y: -16.5}
+        - {x: -50, y: -26.499998}
+        - {x: -32, y: -42.5}
+        - {x: -25, y: -45.5}
+        - {x: -9, y: -48.5}
+        - {x: 12, y: -46.5}
+        - {x: 26, y: -66.5}
+        - {x: 47, y: -66.5}
+        - {x: 56, y: -58.499996}
+        - {x: 56, y: -40.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: af750b9507b2439a8ce69c9f2bfe99bf
+      internalID: 21300006
+      vertices:
+      - {x: 112, y: 91}
+      - {x: 98, y: 60}
+      - {x: 112, y: 24}
+      - {x: 112, y: 0}
+      - {x: 75, y: 0}
+      - {x: 0, y: 37}
+      - {x: 0, y: 107}
+      - {x: 78, y: 133}
+      - {x: 112, y: 133}
+      indices: 000000000700000008000000060000000100000005000000050000000100000004000000020000000300000004000000010000000200000004000000060000000700000001000000000000000100000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiritGuideRefresh
+      rect:
+        serializedVersion: 2
+        x: 3.0761204
+        y: 366
+        width: 111.89713
+        height: 107
+      alignment: 9
+      pivot: {x: 0.495311, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 55.975315, y: 17.5}
+        - {x: 50.975315, y: -22.5}
+        - {x: 26.975315, y: -53.499996}
+        - {x: -32.024685, y: -53.499996}
+        - {x: -55.024685, y: -6.5}
+        - {x: -58.024685, y: 24.499998}
+        - {x: -4.024685, y: 51.5}
+        - {x: 37.975315, y: 53.499996}
+        - {x: 50.975315, y: 53.499996}
+      physicsShape:
+      - - {x: 50.975315, y: -17.5}
+        - {x: 50.975315, y: -8.5}
+        - {x: 43.975315, y: -1.5}
+        - {x: 54.975315, y: 10.5}
+        - {x: 54.975315, y: 20.5}
+        - {x: 50.975315, y: 30.5}
+        - {x: 51.97531, y: 52.499996}
+        - {x: 50.975315, y: 53.499996}
+        - {x: 19.975315, y: 53.499996}
+        - {x: 5.975315, y: 52.499996}
+        - {x: 0.9753151, y: 53.499996}
+        - {x: -3.0246847, y: 53.499996}
+        - {x: -9.024685, y: 44.5}
+        - {x: -44.024685, y: 30.5}
+        - {x: -47.024685, y: 27.5}
+        - {x: -56.024685, y: 6.5}
+        - {x: -56.024685, y: -8.5}
+        - {x: -43.024685, y: -26.499998}
+        - {x: -32.024685, y: -32.5}
+        - {x: -31.024685, y: -51.5}
+        - {x: -29.024685, y: -53.499996}
+        - {x: -20.024685, y: -53.499996}
+        - {x: -7.024685, y: -48.5}
+        - {x: 23.975313, y: -43.5}
+        - {x: 33.975315, y: -40.5}
+        - {x: 42.975315, y: -33.499996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1df7ae6daa14e9bb2a7d3c6c4c66dea
+      internalID: 21300008
+      vertices:
+      - {x: 112.44856, y: 71}
+      - {x: 107.44856, y: 31}
+      - {x: 83.44856, y: 0.0000038146973}
+      - {x: 24.448566, y: 0.0000038146973}
+      - {x: 1.4485664, y: 47}
+      - {x: -1.5514336, y: 78}
+      - {x: 52.448566, y: 105}
+      - {x: 94.44856, y: 107}
+      - {x: 107.44856, y: 107}
+      indices: 060000000000000001000000040000000100000002000000040000000500000006000000040000000200000003000000040000000600000001000000060000000700000000000000000000000700000008000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viper-kill-icon_small
+      rect:
+        serializedVersion: 2
+        x: 4.026751
+        y: 2
+        width: 101.97325
+        height: 110
+      alignment: 9
+      pivot: {x: 0.49986884, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -11.013378, y: 55}
+        - {x: -0.013378143, y: 55}
+        - {x: 50.986618, y: 29.999998}
+        - {x: 50.986618, y: -17}
+        - {x: 21.986622, y: -55}
+        - {x: -27.013378, y: -55}
+        - {x: -54.01338, y: 11}
+        - {x: -44.01338, y: 39}
+      physicsShape:
+      - - {x: 50.986618, y: -14.999999}
+        - {x: 50.986618, y: 25}
+        - {x: 43.986618, y: 34}
+        - {x: 36.98662, y: 39}
+        - {x: 13.986621, y: 42.999996}
+        - {x: 2.9866219, y: 53.999996}
+        - {x: -2.013378, y: 55}
+        - {x: -11.013378, y: 55}
+        - {x: -34.01338, y: 44}
+        - {x: -45.013374, y: 33}
+        - {x: -50.013374, y: 22.999998}
+        - {x: -50.013374, y: 3}
+        - {x: -48.013374, y: -8}
+        - {x: -39.013374, y: -26}
+        - {x: -31.013378, y: -37}
+        - {x: -14.013377, y: -51}
+        - {x: 2.9866219, y: -55}
+        - {x: 17.986622, y: -55}
+        - {x: 21.986622, y: -51}
+        - {x: 28.986622, y: -39}
+        - {x: 39.98662, y: -33}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56241311d1d4b798c620d8ad1b89bf1
+      internalID: 21300010
+      vertices:
+      - {x: 101.98662, y: 85}
+      - {x: 101.98662, y: 38}
+      - {x: 72.98662, y: 0}
+      - {x: 23.986622, y: 0}
+      - {x: -3.0133781, y: 66}
+      - {x: 6.986622, y: 94}
+      - {x: 39.98662, y: 110}
+      - {x: 50.98662, y: 110}
+      indices: 040000000600000007000000040000000500000006000000010000000200000004000000020000000300000004000000010000000400000007000000000000000100000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiritGuideSend
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 578.0761
+        width: 115
+        height: 106.92388
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49964413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -34.5, y: 53.461945}
+        - {x: 57.5, y: 53.461945}
+        - {x: 57.5, y: -0.5380516}
+        - {x: 25.5, y: -53.538048}
+        - {x: -57.5, y: -52.538048}
+        - {x: -57.5, y: 3.4619484}
+      physicsShape:
+      - - {x: 53.499996, y: -8.538052}
+        - {x: 57.5, y: 3.4619484}
+        - {x: 57.5, y: 33.461945}
+        - {x: 55.5, y: 41.46195}
+        - {x: 49.499996, y: 46.46195}
+        - {x: 37.5, y: 43.46195}
+        - {x: 17.5, y: 44.46195}
+        - {x: 13.499999, y: 53.461945}
+        - {x: -11.499999, y: 53.461945}
+        - {x: -28.5, y: 45.46195}
+        - {x: -27.5, y: 24.461946}
+        - {x: -53.499996, y: 13.461947}
+        - {x: -57.5, y: 4.4619484}
+        - {x: -57.5, y: -30.538052}
+        - {x: -47.5, y: -40.53805}
+        - {x: -25.5, y: -51.53805}
+        - {x: -21.499998, y: -52.538048}
+        - {x: 8.5, y: -52.538048}
+        - {x: 22.5, y: -48.53805}
+        - {x: 33.499996, y: -42.53805}
+        - {x: 36.499996, y: -17.538052}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946d8e965d00464ca959b3892a04c9dc
+      internalID: 21300012
+      vertices:
+      - {x: 115, y: 52.96194}
+      - {x: 83, y: -0.03805542}
+      - {x: 0, y: 0.9619446}
+      - {x: 0, y: 56.96194}
+      - {x: 23, y: 106.96194}
+      - {x: 115, y: 106.96194}
+      indices: 000000000400000005000000000000000300000004000000010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiritGuideAbilityIcon
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 475
+        width: 115
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47029704}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -57.5, y: -50.5}
+        - {x: -57.5, y: 50.499996}
+        - {x: 57.5, y: 50.499996}
+        - {x: 57.5, y: -50.5}
+      physicsShape:
+      - - {x: 57.5, y: -9.5}
+        - {x: 56.5, y: -1.5}
+        - {x: 56.5, y: 47.5}
+        - {x: 51.5, y: 50.499996}
+        - {x: -38.5, y: 50.499996}
+        - {x: -43.5, y: 47.5}
+        - {x: -57.5, y: 35.5}
+        - {x: -57.5, y: 30.499996}
+        - {x: -56.5, y: 23.499998}
+        - {x: -57.5, y: 0.5}
+        - {x: -57.5, y: -36.499996}
+        - {x: -54.5, y: -41.5}
+        - {x: -44.5, y: -50.5}
+        - {x: -32.5, y: -50.5}
+        - {x: -5.5, y: -46.5}
+        - {x: 29.499998, y: -50.5}
+        - {x: 46.5, y: -50.5}
+        - {x: 52.499996, y: -40.5}
+        - {x: 57.5, y: -29.499998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d655bfcb374a09b45695d873c17a68
+      internalID: 21300014
+      vertices:
+      - {x: 115, y: 3}
+      - {x: 0, y: 3}
+      - {x: 0, y: 104}
+      - {x: 115, y: 104}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DetectiveAction: 21300006
+      PhantomAction-Reappear: 21300004
+      PhantomActions-Vanish: 21300002
+      SpiritGuideAbilityIcon: 21300014
+      SpiritGuideRefresh: 21300008
+      SpiritGuideSend: 21300012
+      TrackerAction: 21300000
+      viper-kill-icon_small: 21300010
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

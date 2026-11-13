@@ -1,0 +1,17 @@
+/[Ll]ibrary/
+/[Ll]ogs/
+/[Uu]serSettings/
+/[Mm]emoryCaptures/
+/[Oo]bj/
+/[Pp]ackages/cache/
+/[Pp]ackages/temp/
+/[Bb]uild/
+/[Bb]uilds/
+/UserSettings/
+*.csproj
+*.sln
+*.user
+*.userprefs
+.DS_Store
+game_build/
+game_build/

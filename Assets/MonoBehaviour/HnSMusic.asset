@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2ff936643aa124f629c20e3941c7c1f, type: 3}
+  m_Name: HnSMusic
+  m_EditorClassIdentifier:
+  NormalMusic: {fileID: 8300000, guid: aecb99626c1f9f84ea4ab5742d444cf2, type: 3}
+  TaskMusic: {fileID: 8300000, guid: 975b7527e39f595419d2fa3faa0e037e, type: 3}
+  DangerLevel1Music: {fileID: 8300000, guid: a5e9de2d45671ad46818ab9362818d8b, type: 3}
+  DangerLevel2Music: {fileID: 8300000, guid: 9983de90c799dda41b5be769013064a6, type: 3}
+  ImpostorShortMusic: {fileID: 8300000, guid: 6bf17a96c31ff844cb68afb1621b526b, type: 3}
+  ImpostorLongMusic: {fileID: 8300000, guid: 1f74b8d78dce1834d8d89e9c76ceef65, type: 3}
+  ImpostorRanchMusic: {fileID: 8300000, guid: d2d56040d3f6f9a4082220d755568416, type: 3}

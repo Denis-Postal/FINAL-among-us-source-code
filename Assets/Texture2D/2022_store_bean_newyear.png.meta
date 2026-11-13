@@ -1,0 +1,390 @@
+fileFormatVersion: 2
+guid: f33bca4e037610f4485307a2ab3f982e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: 2022_store_bean_newyear_20230004
+  - first:
+      213: 21300002
+    second: 2022_store_bean_newyear_20230001
+  - first:
+      213: 21300004
+    second: 2022_store_bean_newyear_20230002
+  - first:
+      213: 21300006
+    second: 2022_store_bean_newyear_20230003
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2022_store_bean_newyear_20230004
+      rect:
+        serializedVersion: 2
+        x: 4.0761204
+        y: 110.036285
+        width: 112.86975
+        height: 126.89734
+      alignment: 9
+      pivot: {x: 0.46003363, y: 0.14944142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -44.51099, y: 54.51504}
+        - {x: 53.489006, y: 69.515045}
+        - {x: 58.489006, y: -31.484955}
+        - {x: -17.510994, y: -40.484955}
+        - {x: -41.510994, y: -86.484955}
+        - {x: -59.510994, y: 25.515049}
+      physicsShape:
+      - - {x: 17.489006, y: -32.48495}
+        - {x: 33.489006, y: -34.48495}
+        - {x: 48.489002, y: -25.484951}
+        - {x: 53.489006, y: -17.484953}
+        - {x: 55.489002, y: -11.484951}
+        - {x: 55.489002, y: 24.515049}
+        - {x: 54.489002, y: 45.51505}
+        - {x: 42.489006, y: 59.51505}
+        - {x: 30.489006, y: 63.51504}
+        - {x: 10.489005, y: 63.51504}
+        - {x: -3.510994, y: 56.51505}
+        - {x: -28.510994, y: 58.51505}
+        - {x: -52.510994, y: 43.51505}
+        - {x: -56.510994, y: 30.515049}
+        - {x: -56.510994, y: 6.515049}
+        - {x: -44.51099, y: -34.48495}
+        - {x: -47.51099, y: -40.48495}
+        - {x: -46.510994, y: -56.48495}
+        - {x: -40.510994, y: -62.48495}
+        - {x: -33.510994, y: -62.48495}
+        - {x: -27.510992, y: -61.48495}
+        - {x: -27.510992, y: -57.48495}
+        - {x: -26.510994, y: -42.48495}
+        - {x: -22.510994, y: -37.48495}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f34ce79dce84000825df878260b6621
+      internalID: 21300000
+      vertices:
+      - {x: 119.434875, y: 76.44867}
+      - {x: 43.434875, y: 67.44867}
+      - {x: 19.434875, y: 21.44867}
+      - {x: 1.4348755, y: 133.44867}
+      - {x: 16.43488, y: 162.44867}
+      - {x: 114.434875, y: 177.44867}
+      indices: 010000000400000005000000010000000200000003000000010000000300000004000000000000000100000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_newyear_20230001
+      rect:
+        serializedVersion: 2
+        x: 124.02675
+        y: 117.036285
+        width: 121.9465
+        height: 123.936966
+      alignment: 9
+      pivot: {x: 0.5492019, y: 0.15301096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -46.999996, y: 57.99523}
+        - {x: 32, y: 63.995224}
+        - {x: 58.999996, y: 38.99523}
+        - {x: 64, y: -27.004768}
+        - {x: -6, y: -37.00477}
+        - {x: -28, y: -79.00477}
+        - {x: -64, y: 38.99523}
+      physicsShape:
+      - - {x: 54, y: -26.004768}
+        - {x: 57, y: -22.004768}
+        - {x: 61, y: -9.004768}
+        - {x: 61, y: 14.995232}
+        - {x: 59.999996, y: 26.995232}
+        - {x: 53, y: 41.99523}
+        - {x: 41, y: 54.995224}
+        - {x: 37, y: 58.99523}
+        - {x: 18, y: 60.99523}
+        - {x: 5, y: 60.99523}
+        - {x: -5, y: 56.99523}
+        - {x: -22, y: 59.99523}
+        - {x: -45, y: 56.99523}
+        - {x: -51, y: 51.99523}
+        - {x: -60, y: 39.99523}
+        - {x: -60.999992, y: 36.995224}
+        - {x: -60.999992, y: 26.995232}
+        - {x: -52, y: 7.9952316}
+        - {x: -46, y: -13.00477}
+        - {x: -35, y: -39.00477}
+        - {x: -36.999996, y: -51.00477}
+        - {x: -33, y: -59.00477}
+        - {x: -30, y: -61.00477}
+        - {x: -23, y: -61.00477}
+        - {x: -16.999998, y: -60.00477}
+        - {x: -8, y: -36.00477}
+        - {x: 5, y: -31.004768}
+        - {x: 41, y: -28.004768}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c807eb7e9a74f718f541dbbe22b62d0
+      internalID: 21300002
+      vertices:
+      - {x: 113.97325, y: 143.96848}
+      - {x: 118.97325, y: 77.96848}
+      - {x: 48.97325, y: 67.96848}
+      - {x: 26.973251, y: 25.968483}
+      - {x: -9.026749, y: 143.96848}
+      - {x: 7.973255, y: 162.96848}
+      - {x: 86.97325, y: 168.96848}
+      indices: 020000000500000006000000020000000400000005000000020000000300000004000000000000000100000002000000000000000200000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_newyear_20230002
+      rect:
+        serializedVersion: 2
+        x: 151.05132
+        y: 8
+        width: 118.921936
+        height: 82.92388
+      alignment: 9
+      pivot: {x: 0.5629633, y: 0.36177757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -47.512283, y: -25.46194}
+        - {x: -65.512276, y: 22.53806}
+        - {x: 30.487715, y: 48.538055}
+        - {x: 51.487717, y: 27.53806}
+        - {x: 60.487713, y: -16.46194}
+        - {x: 48.487717, y: -41.461937}
+        - {x: -8.512283, y: -41.461937}
+      physicsShape:
+      - - {x: 56.487713, y: -6.4619412}
+        - {x: 46.487717, y: 3.5380583}
+        - {x: 55.487717, y: 8.538057}
+        - {x: 54.487717, y: 16.53806}
+        - {x: 38.487717, y: 40.53806}
+        - {x: 12.487717, y: 40.53806}
+        - {x: -6.5122833, y: 34.538055}
+        - {x: -13.512283, y: 29.53806}
+        - {x: -33.512283, y: 30.53806}
+        - {x: -57.512283, y: 20.53806}
+        - {x: -58.512283, y: 17.53806}
+        - {x: -58.512283, y: 3.5380583}
+        - {x: -52.51228, y: 0.53805923}
+        - {x: -40.512283, y: -3.4619408}
+        - {x: -49.512283, y: -9.461941}
+        - {x: -50.512283, y: -19.46194}
+        - {x: -45.51228, y: -26.46194}
+        - {x: -27.512283, y: -27.46194}
+        - {x: -18.512283, y: -36.46194}
+        - {x: -9.512283, y: -41.461937}
+        - {x: 36.487717, y: -41.461937}
+        - {x: 58.487717, y: -22.46194}
+        - {x: 59.487717, y: -15.461941}
+        - {x: 59.487717, y: -12.461941}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce2105e0dc9405e97083162613970c6
+      internalID: 21300004
+      vertices:
+      - {x: 103.46097, y: 80.461945}
+      - {x: 112.46097, y: 36.46194}
+      - {x: 100.46097, y: 11.461943}
+      - {x: 43.460968, y: 11.461943}
+      - {x: 4.460968, y: 27.46194}
+      - {x: -13.539024, y: 75.461945}
+      - {x: 82.46097, y: 101.46194}
+      indices: 040000000500000006000000030000000400000006000000010000000200000003000000000000000100000003000000000000000300000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_newyear_20230003
+      rect:
+        serializedVersion: 2
+        x: 9.07612
+        y: 5.026751
+        width: 133.92387
+        height: 79.89713
+      alignment: 9
+      pivot: {x: 0.4623812, y: 0.09979393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 33.961945, y: -42.97532}
+        - {x: -75.038055, y: -35.97532}
+        - {x: -51.03805, y: 40.02468}
+        - {x: 28.961945, y: 39.02468}
+        - {x: 66.961945, y: 1.024683}
+        - {x: 66.961945, y: -31.975317}
+      physicsShape:
+      - - {x: 66.961945, y: -22.975317}
+        - {x: 66.961945, y: -13.975317}
+        - {x: 57.961945, y: 0.024682999}
+        - {x: 46.961945, y: 21.02468}
+        - {x: 31.961945, y: 36.02468}
+        - {x: 19.961945, y: 39.02468}
+        - {x: 5.9619446, y: 39.02468}
+        - {x: -5.0380554, y: 38.02468}
+        - {x: -45.03805, y: 36.02468}
+        - {x: -55.038055, y: 32.02468}
+        - {x: -53.038055, y: 10.024683}
+        - {x: -62.038055, y: -1.9753189}
+        - {x: -66.038055, y: -9.975317}
+        - {x: -66.038055, y: -27.975317}
+        - {x: -65.038055, y: -32.97532}
+        - {x: -59.03805, y: -36.975315}
+        - {x: -48.03805, y: -35.97532}
+        - {x: -43.038055, y: -28.975317}
+        - {x: -17.038055, y: -36.975315}
+        - {x: -9.038055, y: -38.97532}
+        - {x: 7.9619446, y: -38.97532}
+        - {x: 14.961943, y: -36.975315}
+        - {x: 28.961945, y: -38.97532}
+        - {x: 40.96194, y: -38.97532}
+        - {x: 55.961945, y: -36.975315}
+        - {x: 64.961945, y: -30.975317}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268a92ac05bb4e9f98337cd63c250fd7
+      internalID: 21300006
+      vertices:
+      - {x: 100.96194, y: 110.94856}
+      - {x: 138.96194, y: 72.94856}
+      - {x: 138.96194, y: 39.948566}
+      - {x: 105.96194, y: 28.948566}
+      - {x: -3.038063, y: 35.948566}
+      - {x: 20.96194, y: 111.94856}
+      indices: 030000000400000005000000030000000000000001000000030000000100000002000000000000000300000005000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      2022_store_bean_newyear_20230001: 21300002
+      2022_store_bean_newyear_20230002: 21300004
+      2022_store_bean_newyear_20230003: 21300006
+      2022_store_bean_newyear_20230004: 21300000
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

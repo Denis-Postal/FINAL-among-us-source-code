@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fbdf57f19df93d09b0c77f4c0195892, type: 3}
+  m_Name: Food Cube - Stars
+  m_EditorClassIdentifier:
+  ids:
+  - hat_Baguette
+  - hat_BreadLoaf
+  - hat_Butter
+  - hat_OrangeHat
+  - hat_PancakeStack
+  - hat_Pineapple
+  - hat_PizzaSliceHat
+  - hat_StrawberryLeavesHat
+  - hat_ToastButterHat
+  - nameplate_BlimeyPlate
+  - nameplate_BreadPlate
+  - nameplate_EggPlate
+  - nameplate_PinkPlate
+  - nameplate_PizzaPlate
+  - nameplate_PlatePlate
+  - pet_BredPet
+  - pet_ChewiePet
+  - pet_HamPet
+  - skin_Bananaskin
+  - skin_BlueApronskin
+  - skin_BlueSuspskin
+  - skin_ChefBlackskin
+  - skin_Hotdogskin
+  - skin_OrangeSuspskin
+  - skin_PinkApronskin
+  - skin_PinkSuspskin
+  - skin_YellowApronskin
+  - skin_YellowSuspskin
+  - visor_BaconVisor
+  - visor_BananaVisor
+  - visor_BubbleBumVisor
+  - visor_CucumberVisor
+  - visor_IceCreamChocolateVisor
+  - visor_IceCreamMintVisor
+  - visor_IceCreamStrawberryVisor
+  - visor_IceCreamUbeVisor
+  - visor_PizzaVisor
+  - visor_ToastVisor
+  date: 2022-07-20

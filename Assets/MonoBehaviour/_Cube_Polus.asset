@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 825ac4e4914361a3d7ea08f1b54d9d4f, type: 3}
+  m_Name: _Cube_Polus
+  m_EditorClassIdentifier:
+  StoreImageRef:
+    m_AssetGUID: a4f084439dcf449f9a3a6098fa9f6f27
+    m_SubObjectName: cosmicube_Polus
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  CosmicubePrefabRef:
+    m_AssetGUID: e625970058851ec44a679105687caaa9
+    m_SubObjectName:
+    m_SubObjectType:
+  podIconRef:
+    m_AssetGUID: 37af0a29458fe4c14b253dc6fd99a0b5
+    m_SubObjectName: UI_Currency_Polus
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  DateCreated:
+  allUnlockables:
+  - {fileID: 11400000, guid: e5d93599b1cbc724db621388d57a550c, type: 2}
+  - {fileID: 11400000, guid: bc7b21e808a85c74196be440124e8aad, type: 2}
+  - {fileID: 11400000, guid: 39388ba9f3acb764aa47cdde8d65614e, type: 2}
+  - {fileID: 11400000, guid: 51f400689cca3fa4a937310be289a5fd, type: 2}
+  - {fileID: 11400000, guid: 56853a6b2d5fb8b468a0a1d38929baf9, type: 2}
+  - {fileID: 11400000, guid: 368244d44fee7f74b8d51172aa20f9b8, type: 2}
+  - {fileID: 11400000, guid: 29a1bf2ec49220640b2ca61d164c25a0, type: 2}
+  - {fileID: 11400000, guid: 0aa4b836cbd57e747b998e2f6d298907, type: 2}
+  - {fileID: 11400000, guid: 3ef1782ab2759c64785aed1be8a6bcf2, type: 2}
+  - {fileID: 11400000, guid: 808b17feb3e74d446b708dc2f9de5c0f, type: 2}
+  - {fileID: 11400000, guid: 7dd4872b2a3af5d4390949e2abcd15fe, type: 2}
+  - {fileID: 11400000, guid: 868586fd56221814eaa74bfaa86618d5, type: 2}
+  - {fileID: 11400000, guid: 0907b199c19bf8e41b0231bcbc93d856, type: 2}
+  - {fileID: 11400000, guid: 2aabe7461cee5af49bc4bd20dd761520, type: 2}
+  - {fileID: 11400000, guid: 944845c7ebfd9ca47b0da7913da922da, type: 2}
+  - {fileID: 11400000, guid: 4496a1eb367c8a344b136966b2d4c2d6, type: 2}
+  - {fileID: 11400000, guid: 49f190fb34e71bb40a0c92b9e23a35c7, type: 2}
+  - {fileID: 11400000, guid: 769f539163040b749803da28f0207217, type: 2}
+  - {fileID: 11400000, guid: e1a6eb4e2e8cfdf4ba99ed36fbe92908, type: 2}
+  - {fileID: 11400000, guid: 2f3ee313799e1e34fa3ee2f4b97ee336, type: 2}
+  - {fileID: 11400000, guid: 028190170004f7d40974e5f767024136, type: 2}
+  - {fileID: 11400000, guid: 9c00d3afe1ddf904daceae3ad0c2b910, type: 2}
+  - {fileID: 11400000, guid: f7aee1c6cee327b4b8286778d216aad0, type: 2}
+  - {fileID: 11400000, guid: d6b144dadd925d745aa1f333608d6fb8, type: 2}
+  - {fileID: 11400000, guid: a043d77a5b100ab4dac876af0d7ea053, type: 2}
+  - {fileID: 11400000, guid: f9e5ff020c367d648b4cbe721a3f2afe, type: 2}
+  - {fileID: 11400000, guid: f46f36e7769f9294b933feb9903106fe, type: 2}
+  - {fileID: 11400000, guid: 74d66ec362716304eb2fad6c71215d42, type: 2}
+  - {fileID: 11400000, guid: 1b11220ab1072404ea3586d04de265a4, type: 2}
+  - {fileID: 11400000, guid: e36d7763aedea514babc96f3d0ed1b15, type: 2}
+  - {fileID: 11400000, guid: 16faa93d96d714640972d006ae781b85, type: 2}
+  - {fileID: 11400000, guid: 29a186db7c73f224dab9ca00784231de, type: 2}
+  - {fileID: 11400000, guid: e901c354d26067644a4daf683bd2f2bb, type: 2}
+  - {fileID: 11400000, guid: ffb021cfdc7ffc44b97c7d0af63a1a4e, type: 2}
+  - {fileID: 11400000, guid: 946c6fbaec91a8747be37b2d74450ef9, type: 2}
+  - {fileID: 11400000, guid: d1b23c133e0f82d4abaa0b6d36900930, type: 2}
+  - {fileID: 11400000, guid: d68ff5a6e17501143ac4e15245cb73d5, type: 2}
+  - {fileID: 11400000, guid: 42f7d6645fafa6245b0e0cf7a892273c, type: 2}
+  - {fileID: 11400000, guid: 55fba6896b5c6db4592bbc02f2559570, type: 2}
+  - {fileID: 11400000, guid: c2275674d935407478f8aadce1d77644, type: 2}
+  - {fileID: 11400000, guid: 312c103a942960248b398ebc11560c2c, type: 2}
+  - {fileID: 11400000, guid: d75ee482d5214614a887760997d2f5aa, type: 2}
+  - {fileID: 11400000, guid: 2def3f2804bb4114ca0dd8bf15b040cf, type: 2}
+  - {fileID: 11400000, guid: ad3322e80d8555b46b8c8699685235f2, type: 2}
+  - {fileID: 11400000, guid: 9f25f8df166c8f7419ce7b9b402b0c45, type: 2}
+  - {fileID: 11400000, guid: fdf5a35e357a0d14d8cc0df87a484127, type: 2}
+  - {fileID: 11400000, guid: 1896c7d563959ab4b9acd8269011e3be, type: 2}
+  - {fileID: 11400000, guid: 8323ef0aca51ec04c9c2801059b44f14, type: 2}
+  starCost: 0
+  beanCost: 3000
+  Order: 0
+  Free: 0
+  NotInStore: 0
+  XRange:
+    min: -1
+    max: 1
+  YRange:
+    min: -0.8
+    max: 0.8
+  podId: polus
+  productId: cube_polus
+  cosmicubeName: Polus
+  limitedTime:
+    timeStart:
+      limitedYear: 0
+      limitedMonth: 0
+      limitedDay: 0
+      limitedHour: 0
+      limitedMinute: 0
+    timeEnd:
+      limitedYear: 0
+      limitedMonth: 0
+      limitedDay: 0
+      limitedHour: 0
+      limitedMinute: 0
+  epicId:

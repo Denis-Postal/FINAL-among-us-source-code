@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 825ac4e4914361a3d7ea08f1b54d9d4f, type: 3}
+  m_Name: _Cube_Food_Paid
+  m_EditorClassIdentifier:
+  StoreImageRef:
+    m_AssetGUID: b0b583a129fb80e4d95d6c78f3993a12
+    m_SubObjectName: cosmicube_food_Paid
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  CosmicubePrefabRef:
+    m_AssetGUID: c66756af5e1b0c442a90152dd6883105
+    m_SubObjectName:
+    m_SubObjectType:
+  podIconRef:
+    m_AssetGUID: 155d4f84f7d298946a78d0a15353d897
+    m_SubObjectName: PaidFoodCubePods
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  DateCreated: 7/7/2022
+  allUnlockables:
+  - {fileID: 11400000, guid: c61faa89400a4fe40af4067f24e774a9, type: 2}
+  - {fileID: 11400000, guid: 282a3d21f48d3514c9036235629c91e5, type: 2}
+  - {fileID: 11400000, guid: 3f5d0982f0ea2444d82f8e855ebf4cab, type: 2}
+  - {fileID: 11400000, guid: 2082f935104c5ed42b29e281198b376a, type: 2}
+  - {fileID: 11400000, guid: 7d3c1394a0d7bcf4fb39a6933dd65888, type: 2}
+  - {fileID: 11400000, guid: 617465628df816640916cbeae466a6f1, type: 2}
+  - {fileID: 11400000, guid: 3cab4380652e0eb478cb1fb1526f78be, type: 2}
+  - {fileID: 11400000, guid: e8e46dd8b92e423458cea785c11fb54e, type: 2}
+  - {fileID: 11400000, guid: 82b100e7fb0ddf149991459c44a69f37, type: 2}
+  - {fileID: 11400000, guid: 4f5ab72ee86899f4e8499793fb77af23, type: 2}
+  - {fileID: 11400000, guid: 4cffdaa42bc55bd41b99dc2897a9f335, type: 2}
+  - {fileID: 11400000, guid: 18306b58ff661ec459ceb29ea871daae, type: 2}
+  - {fileID: 11400000, guid: 70c677a039ffebf4ba0506bca3f61263, type: 2}
+  - {fileID: 11400000, guid: 6f5b0d5b9a7e3144a99cbf4f4c214363, type: 2}
+  - {fileID: 11400000, guid: 4f10af76b901533408c9ca46fb6705fe, type: 2}
+  - {fileID: 11400000, guid: 5e1934b99ed2f4144af89b2f1ced5104, type: 2}
+  - {fileID: 11400000, guid: 576aa55e4c476c84693da3a61a715184, type: 2}
+  - {fileID: 11400000, guid: e923a24de6a3c4840ae94bb4eda7b23f, type: 2}
+  - {fileID: 11400000, guid: 874e6f02aea53834dbacf23df8c0104c, type: 2}
+  - {fileID: 11400000, guid: c7426c8fc02200742bb1cee6d25f86f9, type: 2}
+  - {fileID: 11400000, guid: d03a453f3bc86f741a1912b7a8fdd15d, type: 2}
+  - {fileID: 11400000, guid: 2ab5f238acb817d4c8199d8dce424b63, type: 2}
+  - {fileID: 11400000, guid: 5121474bb554d6243a4ea5eacd192455, type: 2}
+  - {fileID: 11400000, guid: 17ce74835a1e6d34bb9ddaf357bf7ce5, type: 2}
+  - {fileID: 11400000, guid: 63747ba3c1d422046a74db88ef041ab0, type: 2}
+  - {fileID: 11400000, guid: b021b45e7b2b0bf44b02629b19f02c97, type: 2}
+  - {fileID: 11400000, guid: 589c691cf6d080749a7cee33c33a9c20, type: 2}
+  - {fileID: 11400000, guid: f43a63a2a0dd88547a93aa9802380c38, type: 2}
+  - {fileID: 11400000, guid: b82cc2ad1cb9984439c3e2bb4d2b4e65, type: 2}
+  - {fileID: 11400000, guid: 68c4593c031dedf49b32d741bd07962f, type: 2}
+  - {fileID: 11400000, guid: 83d48e2da107f8f42837845b848441f5, type: 2}
+  - {fileID: 11400000, guid: b8670b7ac4746ad4794b39e92f23130f, type: 2}
+  - {fileID: 11400000, guid: 0d7c79f17a7aab347abac6a9b39021ab, type: 2}
+  - {fileID: 11400000, guid: fe3feab081670074f888b030101ed2a1, type: 2}
+  - {fileID: 11400000, guid: 7562227419dd22842836d1cd8a820b6f, type: 2}
+  - {fileID: 11400000, guid: dbf73a20627df9d47bfe385e4d932521, type: 2}
+  - {fileID: 11400000, guid: 1858ea4619cb66445a157984f8869a66, type: 2}
+  - {fileID: 11400000, guid: 7015d9eb5366c7444af4c8d05e27c83f, type: 2}
+  starCost: 110
+  beanCost: 0
+  Order: 0
+  Free: 0
+  NotInStore: 0
+  XRange:
+    min: -0.45
+    max: 0.8
+  YRange:
+    min: -0.5
+    max: 1.3
+  podId: food_paid
+  productId: cube_food_paid
+  cosmicubeName: Feast
+  limitedTime:
+    timeStart:
+      limitedYear: 0
+      limitedMonth: 0
+      limitedDay: 0
+      limitedHour: 0
+      limitedMinute: 0
+    timeEnd:
+      limitedYear: 0
+      limitedMonth: 0
+      limitedDay: 0
+      limitedHour: 0
+      limitedMinute: 0
+  epicId:

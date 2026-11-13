@@ -1,0 +1,606 @@
+fileFormatVersion: 2
+guid: 87a3af916443e1b419694cb932ec8bf9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: hat_xbox_MChief0002
+  - first:
+      213: 21300002
+    second: hat_xbox_MChief0003
+  - first:
+      213: 21300004
+    second: hat_xbox_MChief0001
+  - first:
+      213: 21300006
+    second: hat_PS_Ratchet0003
+  - first:
+      213: 21300008
+    second: hat_PS_Ratchet0001
+  - first:
+      213: 21300010
+    second: hat_PS_Ratchet0004
+  - first:
+      213: 21300012
+    second: hat_PS_Ratchet0002
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 25
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hat_xbox_MChief0002
+      rect:
+        serializedVersion: 2
+        x: 386.02676
+        y: 3
+        width: 148.93697
+        height: 113.97325
+      alignment: 9
+      pivot: {x: 0.5705316, y: 0.16670579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -49.495247, y: 57.013374}
+        - {x: 67.50475, y: 57.013374}
+        - {x: 50.504753, y: 26.013374}
+        - {x: 82.50475, y: -41.986626}
+        - {x: 42.504753, y: -56.986626}
+        - {x: -31.495247, y: -56.986626}
+        - {x: -85.49524, y: -29.986626}
+      physicsShape:
+      - - {x: 73.50476, y: -24.986626}
+        - {x: 64.50476, y: -1.9866257}
+        - {x: 54.50476, y: 7.0133743}
+        - {x: 48.50476, y: 6.0133743}
+        - {x: 39.50476, y: 23.013374}
+        - {x: 48.50476, y: 26.013374}
+        - {x: 56.504757, y: 37.013374}
+        - {x: 52.50476, y: 50.013374}
+        - {x: 45.50476, y: 57.013374}
+        - {x: 39.50476, y: 57.013374}
+        - {x: 30.504759, y: 54.013367}
+        - {x: 26.50476, y: 51.013374}
+        - {x: 4.5047607, y: 54.013367}
+        - {x: -24.49524, y: 54.013367}
+        - {x: -43.495235, y: 45.013374}
+        - {x: -61.49524, y: 25.013374}
+        - {x: -66.49524, y: 10.013374}
+        - {x: -73.49524, y: -11.986626}
+        - {x: -73.49524, y: -22.986626}
+        - {x: -69.49523, y: -35.986626}
+        - {x: -33.49524, y: -56.986626}
+        - {x: 11.504761, y: -56.986626}
+        - {x: 43.50476, y: -55.986626}
+        - {x: 65.50476, y: -47.986626}
+        - {x: 72.50476, y: -36.986626}
+        - {x: 73.50476, y: -31.986626}
+      tessellationDetail: 0
+      bones: []
+      spriteID: aceb3b4095594cd895e3386d4bda6110
+      internalID: 21300000
+      vertices:
+      - {x: 114.468475, y: 120.986626}
+      - {x: 146.46848, y: 52.986626}
+      - {x: 106.468475, y: 37.986626}
+      - {x: 32.468475, y: 37.986626}
+      - {x: -21.531517, y: 64.986626}
+      - {x: 14.468475, y: 151.98663}
+      - {x: 131.46848, y: 151.98663}
+      indices: 000000000500000006000000030000000400000005000000000000000100000002000000000000000200000003000000000000000300000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_xbox_MChief0003
+      rect:
+        serializedVersion: 2
+        x: 6.0761204
+        y: 4.0761204
+        width: 130.92387
+        height: 104.84776
+      alignment: 9
+      pivot: {x: 0.55699456, y: 0.19002675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -63.538055, y: -47.5}
+        - {x: -70.538055, y: 46.5}
+        - {x: 8.461945, y: 54.5}
+        - {x: 47.46194, y: 41.5}
+        - {x: 65.461945, y: 5.5}
+        - {x: 65.461945, y: -46.5}
+        - {x: 10.461945, y: -52.5}
+      physicsShape:
+      - - {x: 65.461945, y: -8.5}
+        - {x: 64.461945, y: 6.5}
+        - {x: 57.461945, y: 21.499996}
+        - {x: 47.46194, y: 33.5}
+        - {x: 22.461945, y: 50.5}
+        - {x: 17.461945, y: 51.5}
+        - {x: -9.538055, y: 51.5}
+        - {x: -27.538055, y: 50.5}
+        - {x: -48.538055, y: 41.5}
+        - {x: -56.538055, y: 34.499992}
+        - {x: -57.538055, y: 22.5}
+        - {x: -65.53805, y: -2.500002}
+        - {x: -65.53805, y: -19.5}
+        - {x: -61.538055, y: -41.5}
+        - {x: -39.538055, y: -50.5}
+        - {x: -27.538055, y: -47.5}
+        - {x: -8.538055, y: -51.5}
+        - {x: 32.461945, y: -51.5}
+        - {x: 56.46194, y: -39.5}
+        - {x: 62.461945, y: -32.5}
+        - {x: 65.461945, y: -27.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c8ee47b87f4ffda3c041c68f5b8cb6
+      internalID: 21300002
+      vertices:
+      - {x: 105.46193, y: 126.42388}
+      - {x: 123.46194, y: 90.42388}
+      - {x: 123.46194, y: 38.42388}
+      - {x: 68.46194, y: 32.42388}
+      - {x: -5.538063, y: 37.42388}
+      - {x: -12.538063, y: 131.42389}
+      - {x: 66.46194, y: 139.42389}
+      indices: 040000000500000006000000030000000400000006000000010000000200000003000000010000000300000006000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_xbox_MChief0001
+      rect:
+        serializedVersion: 2
+        x: 373.06836
+        y: 120.07612
+        width: 142.85551
+        height: 124.84776
+      alignment: 9
+      pivot: {x: 0.43352643, y: 0.6081317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -45.496117, y: 52.5}
+        - {x: -11.496117, y: 68.5}
+        - {x: 69.50388, y: 44.5}
+        - {x: 72.50388, y: 17.5}
+        - {x: 31.503883, y: 1.5}
+        - {x: 63.503876, y: -9.499998}
+        - {x: 63.503876, y: -61.5}
+        - {x: 5.5038824, y: -63.5}
+        - {x: -42.496117, y: -38.5}
+        - {x: -82.49611, y: 1.5}
+      physicsShape:
+      - - {x: 35.503883, y: -6.499998}
+        - {x: 5.5038824, y: -12.5}
+        - {x: -4.496117, y: -6.499998}
+        - {x: -4.496117, y: 5.5}
+        - {x: 10.503881, y: 4.5}
+        - {x: 60.503883, y: 12.5}
+        - {x: 66.50388, y: 17.5}
+        - {x: 70.503876, y: 20.5}
+        - {x: 70.503876, y: 35.5}
+        - {x: 69.50388, y: 41.5}
+        - {x: 64.50388, y: 44.5}
+        - {x: 47.503883, y: 44.5}
+        - {x: 23.503883, y: 56.499996}
+        - {x: 9.503883, y: 62.499996}
+        - {x: -14.496117, y: 62.499996}
+        - {x: -30.496117, y: 58.5}
+        - {x: -42.496117, y: 51.5}
+        - {x: -54.496117, y: 39.5}
+        - {x: -69.49611, y: 18.5}
+        - {x: -71.49612, y: -1.499999}
+        - {x: -71.49612, y: -6.499998}
+        - {x: -42.496117, y: -38.5}
+        - {x: -33.496117, y: -43.5}
+        - {x: -13.496117, y: -49.5}
+        - {x: 20.503881, y: -61.5}
+        - {x: 52.503883, y: -61.5}
+        - {x: 65.50388, y: -47.5}
+        - {x: 65.50388, y: -15.5}
+        - {x: 54.503883, y: -4.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b182fabcf6340baa631dfd38420fd8c
+      internalID: 21300004
+      vertices:
+      - {x: 150.42776, y: 93.42388}
+      - {x: 153.42776, y: 66.42388}
+      - {x: 112.42776, y: 50.42388}
+      - {x: 144.42775, y: 39.42388}
+      - {x: 144.42775, y: -12.576118}
+      - {x: 86.42776, y: -14.576118}
+      - {x: 38.427757, y: 10.423882}
+      - {x: -1.5722351, y: 50.42388}
+      - {x: 35.427757, y: 101.42388}
+      - {x: 69.42776, y: 117.42388}
+      indices: 020000000800000009000000060000000700000008000000020000000500000006000000020000000400000005000000020000000300000004000000020000000600000008000000000000000100000002000000000000000200000009000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_PS_Ratchet0003
+      rect:
+        serializedVersion: 2
+        x: 148.02675
+        y: 120.02675
+        width: 205.95857
+        height: 120.89713
+      alignment: 9
+      pivot: {x: 0.519392, y: 0.16520864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -111.006035, y: 32.524677}
+        - {x: -101.00604, y: 61.524685}
+        - {x: -41.006042, y: 35.524685}
+        - {x: 36.993958, y: 19.524681}
+        - {x: 108.99396, y: 70.52469}
+        - {x: 99.99395, y: 13.524681}
+        - {x: 60.993954, y: -62.475315}
+        - {x: 17.993958, y: -42.475315}
+        - {x: -42.006042, y: -49.475315}
+        - {x: -60.006042, y: -66.47531}
+      physicsShape:
+      - - {x: 23.993948, y: -41.475315}
+        - {x: 29.99395, y: -40.475315}
+        - {x: 41.99395, y: -36.475315}
+        - {x: 46.993946, y: -47.475315}
+        - {x: 53.99395, y: -59.475315}
+        - {x: 61.99395, y: -59.475315}
+        - {x: 66.99395, y: -52.475315}
+        - {x: 66.99395, y: -30.475315}
+        - {x: 76.99394, y: -24.475315}
+        - {x: 85.99395, y: -11.475315}
+        - {x: 93.99395, y: -0.4753189}
+        - {x: 101.99394, y: 17.524685}
+        - {x: 101.99394, y: 58.524677}
+        - {x: 99.99395, y: 59.524685}
+        - {x: 94.99395, y: 59.524685}
+        - {x: 82.99395, y: 47.524685}
+        - {x: 58.99395, y: 29.524685}
+        - {x: 39.99395, y: 20.524685}
+        - {x: 31.99395, y: 19.524681}
+        - {x: 17.99395, y: 24.524685}
+        - {x: -7.00605, y: 25.524685}
+        - {x: -20.00605, y: 22.524685}
+        - {x: -36.006046, y: 18.524681}
+        - {x: -60.00605, y: 29.524685}
+        - {x: -87.00605, y: 49.524685}
+        - {x: -98.00605, y: 59.524685}
+        - {x: -100.00605, y: 59.524685}
+        - {x: -102.00604, y: 57.524677}
+        - {x: -102.00604, y: 20.524685}
+        - {x: -101.00604, y: 12.524681}
+        - {x: -92.00605, y: -2.475315}
+        - {x: -87.00605, y: -12.475315}
+        - {x: -74.00605, y: -28.475315}
+        - {x: -66.00605, y: -32.475315}
+        - {x: -65.00605, y: -54.475315}
+        - {x: -61.00605, y: -58.475315}
+        - {x: -58.00605, y: -59.475315}
+        - {x: -52.00605, y: -59.475315}
+        - {x: -49.006046, y: -54.475315}
+        - {x: -45.006046, y: -41.475315}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a0cd0b548e40858c4ee56bd1a1b328
+      internalID: 21300006
+      vertices:
+      - {x: 198.97928, y: 114.44856}
+      - {x: 159.9793, y: 38.448566}
+      - {x: 116.979294, y: 58.448566}
+      - {x: 56.979294, y: 51.448566}
+      - {x: 38.979294, y: 34.448566}
+      - {x: -12.020699, y: 133.44856}
+      - {x: -2.0207062, y: 162.44856}
+      - {x: 57.979294, y: 136.44856}
+      - {x: 135.9793, y: 120.44856}
+      - {x: 207.9793, y: 171.44856}
+      indices: 050000000600000007000000020000000700000008000000030000000400000005000000030000000500000007000000000000000800000009000000020000000300000007000000010000000200000008000000000000000100000008000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_PS_Ratchet0001
+      rect:
+        serializedVersion: 2
+        x: 1.026751
+        y: 124.02675
+        width: 135.89713
+        height: 122.897125
+      alignment: 9
+      pivot: {x: 0.6399933, y: 0.28457338}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 6.0246887, y: -23.475311}
+        - {x: -26.975307, y: -72.47531}
+        - {x: -66.9753, y: 18.524689}
+        - {x: -67.97531, y: 65.52468}
+        - {x: -5.9753113, y: 21.524689}
+        - {x: 63.02469, y: 21.524689}
+        - {x: 69.02469, y: -7.4753113}
+      physicsShape:
+      - - {x: 20.024689, y: -7.4753113}
+        - {x: 37.02469, y: -8.475311}
+        - {x: 45.02469, y: -11.475312}
+        - {x: 66.02469, y: -10.475311}
+        - {x: 67.02469, y: -7.4753113}
+        - {x: 67.02469, y: 2.5246887}
+        - {x: 64.02469, y: 6.5246887}
+        - {x: 55.02469, y: 15.524689}
+        - {x: 41.02469, y: 19.524685}
+        - {x: 32.02469, y: 22.524685}
+        - {x: 6.0246887, y: 20.524689}
+        - {x: -7.9753094, y: 23.524689}
+        - {x: -34.975307, y: 36.52469}
+        - {x: -60.975304, y: 60.52469}
+        - {x: -65.97531, y: 60.52469}
+        - {x: -66.9753, y: 59.52468}
+        - {x: -66.9753, y: 15.524689}
+        - {x: -56.97531, y: -0.47531128}
+        - {x: -51.97531, y: -11.475312}
+        - {x: -36.97531, y: -30.475311}
+        - {x: -32.97531, y: -57.47531}
+        - {x: -31.975311, y: -60.47531}
+        - {x: -20.975307, y: -60.47531}
+        - {x: -15.975311, y: -59.47531}
+        - {x: -14.975311, y: -52.47531}
+        - {x: -8.975311, y: -38.47531}
+        - {x: 3.0246887, y: -26.475311}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4cce57c49b4bd9ae9314628d7620c3
+      internalID: 21300008
+      vertices:
+      - {x: 42.948563, y: 109.44856}
+      - {x: 111.94856, y: 109.44856}
+      - {x: 117.94856, y: 80.44856}
+      - {x: 54.948563, y: 64.44856}
+      - {x: 21.948566, y: 15.448566}
+      - {x: -18.05143, y: 106.44856}
+      - {x: -19.051437, y: 153.44855}
+      indices: 030000000400000005000000000000000300000005000000010000000200000003000000000000000100000003000000000000000500000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_PS_Ratchet0004
+      rect:
+        serializedVersion: 2
+        x: 524.03625
+        y: 152.02675
+        width: 82.963715
+        height: 94.89713
+      alignment: 9
+      pivot: {x: -0.09686469, y: 0.031331297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -24.518112, y: -33.475315}
+        - {x: -46.518112, y: 0.5246849}
+        - {x: -1.5181122, y: 16.524685}
+        - {x: 41.481888, y: 51.524685}
+        - {x: 41.481888, y: 3.524685}
+        - {x: 5.481888, y: -59.475315}
+      physicsShape:
+      - - {x: 32.481888, y: -14.475317}
+        - {x: 40.481888, y: 0.5246849}
+        - {x: 41.481888, y: 13.524685}
+        - {x: 41.481888, y: 44.524685}
+        - {x: 40.481888, y: 47.524677}
+        - {x: 37.481888, y: 47.524677}
+        - {x: -0.518116, y: 16.524685}
+        - {x: -40.518112, y: 3.524685}
+        - {x: -40.518112, y: -10.475315}
+        - {x: -25.518112, y: -29.475315}
+        - {x: -9.518116, y: -44.475315}
+        - {x: -3.518116, y: -46.475315}
+        - {x: 0.48188782, y: -46.475315}
+        - {x: 13.481888, y: -39.475315}
+        - {x: 16.481888, y: -35.475315}
+        - {x: 26.481888, y: -24.475317}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0867ca73939245c9b223429e721b8342
+      internalID: 21300010
+      vertices:
+      - {x: 132.48186, y: 95.44856}
+      - {x: 96.48186, y: 32.448566}
+      - {x: 66.48186, y: 58.448566}
+      - {x: 44.481857, y: 92.44856}
+      - {x: 89.48186, y: 108.44856}
+      - {x: 132.48186, y: 143.44856}
+      indices: 020000000300000004000000000000000400000005000000020000000400000000000000020000000000000001000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_PS_Ratchet0002
+      rect:
+        serializedVersion: 2
+        x: 142.02675
+        y: 57
+        width: 215.89713
+        height: 52.923878
+      alignment: 9
+      pivot: {x: 0.509378, y: 0.32121608}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -77.9753, y: 21.538061}
+        - {x: 72.02469, y: 27.538061}
+        - {x: 123.02468, y: -6.461939}
+        - {x: 9.024689, y: -26.461939}
+        - {x: -86.97531, y: -26.461939}
+        - {x: -110.97531, y: -2.4619389}
+      physicsShape:
+      - - {x: 26.024689, y: -21.461939}
+        - {x: 42.024685, y: -21.461939}
+        - {x: 64.02469, y: -16.461939}
+        - {x: 71.02469, y: -6.461939}
+        - {x: 90.02469, y: -7.461939}
+        - {x: 99.02469, y: -5.461939}
+        - {x: 105.02469, y: -3.4619389}
+        - {x: 108.02468, y: -0.46193886}
+        - {x: 106.02469, y: 5.53806}
+        - {x: 78.02469, y: 23.538061}
+        - {x: 68.02469, y: 25.538061}
+        - {x: 31.024689, y: 25.538061}
+        - {x: 11.024689, y: 16.538061}
+        - {x: -11.975311, y: 15.538061}
+        - {x: -32.97531, y: 20.53806}
+        - {x: -61.97531, y: 20.53806}
+        - {x: -71.97531, y: 19.538061}
+        - {x: -93.97531, y: 8.538061}
+        - {x: -106.97531, y: -1.4619389}
+        - {x: -106.97531, y: -5.461939}
+        - {x: -104.9753, y: -9.461939}
+        - {x: -85.97531, y: -11.461939}
+        - {x: -72.97531, y: -26.461939}
+        - {x: -37.975307, y: -26.461939}
+        - {x: -20.97531, y: -25.461939}
+        - {x: -5.9753113, y: -22.461939}
+        - {x: 19.024689, y: -26.461939}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8769d3b100e04daab2cb52c74eb8e161
+      internalID: 21300012
+      vertices:
+      - {x: 228.94855, y: 29.461939}
+      - {x: 114.94856, y: 9.461939}
+      - {x: 18.948563, y: 9.461939}
+      - {x: -5.0514374, y: 33.461937}
+      - {x: 27.94857, y: 57.461937}
+      - {x: 177.94856, y: 63.461937}
+      indices: 010000000400000005000000020000000300000004000000010000000200000004000000000000000100000005000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hat_PS_Ratchet0001: 21300008
+      hat_PS_Ratchet0002: 21300012
+      hat_PS_Ratchet0003: 21300006
+      hat_PS_Ratchet0004: 21300010
+      hat_xbox_MChief0001: 21300004
+      hat_xbox_MChief0002: 21300000
+      hat_xbox_MChief0003: 21300002
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

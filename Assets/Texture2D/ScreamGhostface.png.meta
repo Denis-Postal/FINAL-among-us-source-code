@@ -1,0 +1,329 @@
+fileFormatVersion: 2
+guid: bc8306d38cea0ec4cb742c4a5c17e5e1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: hat_ghostface0001
+  - first:
+      213: 21300002
+    second: hat_ghostface0003
+  - first:
+      213: 21300004
+    second: hat_ghostface0002
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 25
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hat_ghostface0001
+      rect:
+        serializedVersion: 2
+        x: 11.07612
+        y: 226.02675
+        width: 132.84775
+        height: 171.9465
+      alignment: 9
+      pivot: {x: 0.39837998, y: 0.5872364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 48.500008, y: 70}
+        - {x: 70.50001, y: 1}
+        - {x: 36.500008, y: -95}
+        - {x: -2.4999924, y: -75}
+        - {x: -76.49999, y: -1}
+        - {x: -38.499992, y: 75}
+        - {x: 10.500008, y: 91}
+      physicsShape:
+      - - {x: 64.50001, y: -17.000008}
+        - {x: 66.5, y: -12.000006}
+        - {x: 66.5, y: -0.00000667572}
+        - {x: 62.500008, y: 21.999992}
+        - {x: 54.500008, y: 48.999992}
+        - {x: 41.500008, y: 68.999985}
+        - {x: 23.500008, y: 84.99999}
+        - {x: -8.499992, y: 84.99999}
+        - {x: -13.499992, y: 81.999985}
+        - {x: -28.499992, y: 74.999985}
+        - {x: -42.499992, y: 59.999992}
+        - {x: -53.49999, y: 40.999992}
+        - {x: -65.49999, y: 18.999992}
+        - {x: -65.49999, y: -11.000008}
+        - {x: -59.49999, y: -21.000008}
+        - {x: -37.499992, y: -36.000008}
+        - {x: -10.499992, y: -42.000008}
+        - {x: -10.499992, y: -50.000008}
+        - {x: -8.499992, y: -57.000008}
+        - {x: -2.4999924, y: -72.00001}
+        - {x: 15.500008, y: -85.00001}
+        - {x: 30.500008, y: -85.00001}
+        - {x: 42.500008, y: -76.00001}
+        - {x: 44.500008, y: -69.00001}
+        - {x: 47.500008, y: -37.000008}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe60eac7ca724881a1de8fd3754ade11
+      internalID: 21300000
+      vertices:
+      - {x: 128.42387, y: 140.97327}
+      - {x: 150.42387, y: 71.97326}
+      - {x: 116.423874, y: -24.026741}
+      - {x: 77.423874, y: -4.026741}
+      - {x: 3.423874, y: 69.97326}
+      - {x: 41.423874, y: 145.97327}
+      - {x: 90.423874, y: 161.97327}
+      indices: 000000000100000005000000040000000500000001000000010000000200000003000000040000000100000003000000000000000500000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_ghostface0003
+      rect:
+        serializedVersion: 2
+        x: 4.0761204
+        y: 67.07612
+        width: 137.84775
+        height: 140.89713
+      alignment: 9
+      pivot: {x: 0.54352635, y: 0.29754958}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -24.999992, y: 67.47532}
+        - {x: 28.000008, y: 77.47531}
+        - {x: 75.00001, y: -16.524681}
+        - {x: 57.000008, y: -60.52468}
+        - {x: -5.9999924, y: -75.52468}
+        - {x: -62.999992, y: -60.52468}
+        - {x: -71.99999, y: -20.524681}
+        - {x: -51.999992, y: 41.47532}
+      physicsShape:
+      - - {x: 65, y: -42.52468}
+        - {x: 68.00001, y: -30.524681}
+        - {x: 68.00001, y: -12.524681}
+        - {x: 61.000008, y: 9.475319}
+        - {x: 48.000008, y: 39.47532}
+        - {x: 41.000008, y: 50.47532}
+        - {x: 30.000008, y: 62.47532}
+        - {x: 18.000008, y: 69.47531}
+        - {x: -9.999992, y: 69.47531}
+        - {x: -18.999992, y: 67.47532}
+        - {x: -28.999992, y: 61.47532}
+        - {x: -41.999992, y: 49.47532}
+        - {x: -46.99999, y: 40.47532}
+        - {x: -67.99999, y: -6.524681}
+        - {x: -68.99999, y: -21.524681}
+        - {x: -68.99999, y: -34.52468}
+        - {x: -67.99999, y: -41.52468}
+        - {x: -57.999992, y: -53.52468}
+        - {x: -50.999992, y: -59.52468}
+        - {x: -24.999992, y: -69.52468}
+        - {x: 16.000008, y: -69.52468}
+        - {x: 20.000008, y: -68.52467}
+        - {x: 39.000008, y: -64.52468}
+        - {x: 54.000008, y: -56.52468}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93992ed00e64687b1a8d662d2b1b0f3
+      internalID: 21300002
+      vertices:
+      - {x: 137.92387, y: 82.44856}
+      - {x: 119.923874, y: 38.448563}
+      - {x: 56.923874, y: 23.448563}
+      - {x: -0.0761261, y: 38.448563}
+      - {x: -9.076126, y: 78.44856}
+      - {x: 10.923874, y: 140.44856}
+      - {x: 37.923874, y: 166.44856}
+      - {x: 90.923874, y: 176.44855}
+      indices: 000000000600000007000000000000000500000006000000020000000400000005000000020000000300000004000000000000000100000002000000000000000200000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_ghostface0002
+      rect:
+        serializedVersion: 2
+        x: 14.07612
+        y: 405
+        width: 172.86568
+        height: 101.92388
+      alignment: 9
+      pivot: {x: 0.5896132, y: 0.37282723}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -68.50896, y: 38.03806}
+        - {x: -8.508957, y: 55.03806}
+        - {x: 80.49104, y: 24.03806}
+        - {x: 88.491035, y: -18.96194}
+        - {x: 64.49104, y: -50.96194}
+        - {x: -57.50895, y: -50.96194}
+        - {x: -99.50896, y: -8.961941}
+      physicsShape:
+      - - {x: 71.49104, y: -41.96194}
+        - {x: 85.49104, y: -21.96194}
+        - {x: 85.49104, y: -4.961941}
+        - {x: 83.49104, y: 7.0380573}
+        - {x: 81.49104, y: 12.038059}
+        - {x: 70.49104, y: 23.03806}
+        - {x: 42.491043, y: 30.038055}
+        - {x: 34.491043, y: 29.03806}
+        - {x: 10.491043, y: 48.03806}
+        - {x: 1.4910431, y: 51.03806}
+        - {x: -12.508957, y: 51.03806}
+        - {x: -20.508957, y: 50.03806}
+        - {x: -50.508957, y: 43.03806}
+        - {x: -63.508957, y: 37.03806}
+        - {x: -79.50896, y: 19.03806}
+        - {x: -85.50896, y: 6.038059}
+        - {x: -85.50896, y: -13.961941}
+        - {x: -78.50896, y: -28.96194}
+        - {x: -71.50896, y: -36.96194}
+        - {x: -56.508957, y: -45.96194}
+        - {x: -40.508957, y: -49.96194}
+        - {x: -26.508957, y: -50.96194}
+        - {x: 5.491044, y: -50.96194}
+        - {x: 25.491043, y: -47.96194}
+        - {x: 42.491043, y: -46.96194}
+        - {x: 54.491043, y: -48.96194}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8466452bb74a61925fd94b06f15c07
+      internalID: 21300004
+      vertices:
+      - {x: 151.43283, y: 87.961945}
+      - {x: 159.43283, y: 44.96194}
+      - {x: 135.43283, y: 12.961941}
+      - {x: 13.432846, y: 12.961941}
+      - {x: -28.567162, y: 54.96194}
+      - {x: 2.4328384, y: 101.961945}
+      - {x: 62.43284, y: 118.961945}
+      indices: 030000000500000006000000030000000400000005000000020000000300000006000000000000000100000002000000000000000200000006000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hat_ghostface0001: 21300000
+      hat_ghostface0002: 21300004
+      hat_ghostface0003: 21300002
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

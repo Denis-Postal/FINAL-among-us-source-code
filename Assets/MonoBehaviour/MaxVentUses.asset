@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8445d8c6ad647a3e6d73b074213dfe37, type: 3}
+  m_Name: MaxVentUses
+  m_EditorClassIdentifier:
+  Title: 2700
+  Type: 5
+  OptionName: 101
+  Value: 1
+  Increment: 1
+  ValidRange:
+    min: 0
+    max: 5
+  ZeroIsInfinity: 0
+  SuffixType: 0
+  FormatString:

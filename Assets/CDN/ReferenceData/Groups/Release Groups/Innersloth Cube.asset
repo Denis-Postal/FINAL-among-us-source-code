@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fbdf57f19df93d09b0c77f4c0195892, type: 3}
+  m_Name: Innersloth Cube
+  m_EditorClassIdentifier:
+  ids:
+  - hat_Basketball
+  - hat_Bowlingball
+  - hat_Deitied
+  - hat_Dodgeball
+  - hat_DrillMetal
+  - hat_DrillStone
+  - hat_DrillWood
+  - hat_Janitor
+  - hat_Pot
+  - hat_Soccer
+  - hat_Voleyball
+  - nameplate_is_dig
+  - nameplate_is_game
+  - nameplate_is_ghost
+  - nameplate_is_green
+  - nameplate_is_sand
+  - nameplate_is_trees
+  - nameplate_is_yard
+  - pet_Cube
+  - skin_D2Cskin
+  - skin_Janitorskin
+  - skin_SportsBlueskin
+  - skin_SportsRedskin
+  - visor_D2CGoggles
+  - visor_is_beard
+  - visor_JanitorStache
+  - visor_Mouth
+  - visor_shopglasses
+  date: 2021-04-02

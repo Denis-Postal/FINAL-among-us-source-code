@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fbdf57f19df93d09b0c77f4c0195892, type: 3}
+  m_Name: Halloween 2021 Cube - Stars
+  m_EditorClassIdentifier:
+  ids:
+  - hat_arrowhead
+  - hat_axe
+  - hat_bone
+  - hat_candycorn
+  - hat_clown_purple
+  - hat_fairywings
+  - hat_fishhed
+  - hat_frankenbolts
+  - hat_frankenbride
+  - hat_glowstick
+  - hat_tombstone
+  - nameplate_hw_candy
+  - nameplate_hw_pumpkin
+  - nameplate_hw_woods
+  - pet_frankendog
+  - skin_clown
+  - skin_fairy
+  - skin_fishmonger
+  - skin_pumpkin
+  - skin_vampire
+  - skin_witch
+  - visor_clownnose
+  - visor_eyeball
+  - visor_masque_blue
+  - visor_masque_green
+  - visor_masque_red
+  - visor_masque_white
+  date: 2021-10-31

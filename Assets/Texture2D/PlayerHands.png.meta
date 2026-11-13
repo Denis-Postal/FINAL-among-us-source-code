@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: 419b3eb7b3374574d9b89282a7e4e898
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: hand_open
+  - first:
+      213: 21300002
+    second: hand_grab_top
+  - first:
+      213: 21300004
+    second: hand_grabdown
+  - first:
+      213: 21300006
+    second: hand_grabdown_top
+  - first:
+      213: 21300008
+    second: hand_grab
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 25
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hand_open
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 116
+        width: 119
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -24.5, y: -68}
+        - {x: -59.500004, y: -44}
+        - {x: -59.500004, y: 64}
+        - {x: -42.5, y: 68}
+        - {x: 23.5, y: 68}
+        - {x: 59.500004, y: 2}
+        - {x: 59.500004, y: -50}
+        - {x: 54.5, y: -66}
+        - {x: 51.5, y: -68}
+      physicsShape:
+      - - {x: 50.5, y: 3}
+        - {x: 28.5, y: 50}
+        - {x: 23.5, y: 58.999996}
+        - {x: 12.5, y: 68}
+        - {x: 2.4999998, y: 66.99999}
+        - {x: -4.5, y: 68}
+        - {x: -26.499998, y: 68}
+        - {x: -29.499998, y: 64}
+        - {x: -31.5, y: 57}
+        - {x: -40.5, y: 61}
+        - {x: -47.5, y: 61}
+        - {x: -57.5, y: 52.999996}
+        - {x: -55.5, y: 39.999996}
+        - {x: -49.499996, y: 29}
+        - {x: -24.499998, y: -1}
+        - {x: -26.499998, y: -7}
+        - {x: -37.5, y: -2}
+        - {x: -51.5, y: -1}
+        - {x: -59.499996, y: -8}
+        - {x: -59.499996, y: -26.999998}
+        - {x: -56.5, y: -32}
+        - {x: -50.5, y: -37}
+        - {x: -26.499998, y: -58.999996}
+        - {x: 4.5, y: -68}
+        - {x: 28.5, y: -68}
+        - {x: 48.5, y: -58.999996}
+        - {x: 59.499996, y: -45}
+        - {x: 59.499996, y: -11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a16fe8635214dbebfd6173a69a1a201
+      internalID: 21300000
+      vertices:
+      - {x: 119, y: 70}
+      - {x: 114, y: 2}
+      - {x: 119, y: 18}
+      - {x: 111, y: 0}
+      - {x: 83, y: 136}
+      - {x: 35, y: 0}
+      - {x: 17, y: 136}
+      - {x: -0.0000038146973, y: 132}
+      - {x: -0.0000038146973, y: 24}
+      indices: 080000000700000005000000060000000500000007000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_grab_top
+      rect:
+        serializedVersion: 2
+        x: 270.0363
+        y: 3
+        width: 102.963715
+        height: 73.9665
+      alignment: 9
+      pivot: {x: 0.4561191, y: 0.6489424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -35.518143, y: -36.98325}
+        - {x: -51.518143, y: -19.98325}
+        - {x: -51.518143, y: 16.01675}
+        - {x: -33.518143, y: 37.01675}
+        - {x: 32.481857, y: 37.01675}
+        - {x: 48.481853, y: 33.01675}
+        - {x: 51.481857, y: 21.01675}
+        - {x: 51.481857, y: -30.98325}
+        - {x: 45.481857, y: -36.98325}
+      physicsShape:
+      - - {x: 16.481857, y: 29.01675}
+        - {x: 9.481857, y: 28.01675}
+        - {x: -1.5181427, y: 35.01675}
+        - {x: -23.518143, y: 35.01675}
+        - {x: -30.518143, y: 34.016747}
+        - {x: -48.518143, y: 8.01675}
+        - {x: -49.518143, y: -2.9832497}
+        - {x: -40.518143, y: -20.98325}
+        - {x: -25.518143, y: -33.98325}
+        - {x: -11.518143, y: -36.98325}
+        - {x: 39.481857, y: -36.98325}
+        - {x: 51.481857, y: -21.98325}
+        - {x: 51.481857, y: 16.01675}
+        - {x: 40.481857, y: 30.01675}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e733f0ceaebe4385a8eae19a1b6230e6
+      internalID: 21300002
+      vertices:
+      - {x: 104.48186, y: 58.98325}
+      - {x: 107.48186, y: -5.0167503}
+      - {x: 107.48186, y: 46.98325}
+      - {x: 101.48186, y: -11.01675}
+      - {x: 88.48186, y: 62.98325}
+      - {x: 22.481857, y: 62.98325}
+      - {x: 20.481857, y: -11.01675}
+      - {x: 4.4818573, y: 41.98325}
+      - {x: 4.4818573, y: 5.9832497}
+      indices: 080000000700000006000000050000000600000007000000030000000600000005000000040000000300000005000000000000000300000004000000010000000300000000000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_grabdown
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 134
+        width: 111
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -32.5, y: -50.5}
+        - {x: -55.5, y: -40.5}
+        - {x: -55.5, y: 43.5}
+        - {x: -28.5, y: 50.5}
+        - {x: 37.5, y: 50.5}
+        - {x: 55.5, y: 12.5}
+        - {x: 55.5, y: -40.5}
+        - {x: 48.5, y: -50.5}
+      physicsShape:
+      - - {x: 55.5, y: 5.5}
+        - {x: 44.5, y: 22.5}
+        - {x: 35.5, y: 30.5}
+        - {x: 32.5, y: 42.5}
+        - {x: 22.5, y: 50.5}
+        - {x: -16.5, y: 50.5}
+        - {x: -34.5, y: 44.5}
+        - {x: -52.499996, y: 30.5}
+        - {x: -54.5, y: 22.5}
+        - {x: -55.5, y: 12.5}
+        - {x: -55.5, y: -16.5}
+        - {x: -52.499996, y: -25.5}
+        - {x: -35.5, y: -42.5}
+        - {x: -15.5, y: -50.5}
+        - {x: 26.499998, y: -50.5}
+        - {x: 43.5, y: -42.5}
+        - {x: 54.5, y: -29.499998}
+        - {x: 55.5, y: -28.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79698769445347cfb02277bb2f16e985
+      internalID: 21300004
+      vertices:
+      - {x: 111, y: 63}
+      - {x: 104, y: 0}
+      - {x: 111, y: 10}
+      - {x: 93, y: 101}
+      - {x: 27, y: 101}
+      - {x: 23, y: 0}
+      - {x: 0, y: 94}
+      - {x: 0, y: 10}
+      indices: 070000000600000005000000040000000500000006000000010000000500000004000000030000000100000004000000000000000100000003000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_grabdown_top
+      rect:
+        serializedVersion: 2
+        x: 10.026751
+        y: 134
+        width: 108.97325
+        height: 101
+      alignment: 9
+      pivot: {x: 0.4907007, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -54.51338, y: 45.5}
+        - {x: -35.513374, y: 50.5}
+        - {x: 54.486626, y: 50.5}
+        - {x: 54.486626, y: -50.5}
+        - {x: -34.513374, y: -50.5}
+        - {x: -54.51338, y: -4.5}
+      physicsShape:
+      - - {x: 43.486626, y: 22.5}
+        - {x: 31.486626, y: 42.5}
+        - {x: 21.486626, y: 50.5}
+        - {x: -17.513374, y: 50.5}
+        - {x: -35.513374, y: 44.5}
+        - {x: -54.51337, y: 32.5}
+        - {x: -54.51337, y: 12.5}
+        - {x: -48.513374, y: 6.5}
+        - {x: -34.51337, y: 11.499999}
+        - {x: -20.513374, y: -11.499999}
+        - {x: -6.5133743, y: -33.499996}
+        - {x: -12.513373, y: -46.5}
+        - {x: -10.513374, y: -50.5}
+        - {x: 32.48662, y: -50.5}
+        - {x: 54.486626, y: -32.5}
+        - {x: 54.486626, y: 5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f58f540d8d64d23b9b70cbc05629f3f
+      internalID: 21300006
+      vertices:
+      - {x: 31.986626, y: 16}
+      - {x: 34.986626, y: 12}
+      - {x: 34.986626, y: 15}
+      - {x: 31.986626, y: 11}
+      - {x: 29.986626, y: 14}
+      - {x: 109.986626, y: 101}
+      - {x: 43.986626, y: 24.000002}
+      - {x: 109.986626, y: 0}
+      - {x: 38.986626, y: 24.000002}
+      - {x: 37.986626, y: 22}
+      - {x: 37.986626, y: 19}
+      - {x: 24.986628, y: 50}
+      - {x: 23.986626, y: 52}
+      - {x: 19.986626, y: 101}
+      - {x: 19.986626, y: 52}
+      - {x: 17.986626, y: 51}
+      - {x: 0.98662186, y: 96}
+      - {x: 17.986626, y: 49}
+      - {x: 43.986626, y: 19}
+      - {x: 42.986626, y: 18}
+      - {x: 39.986626, y: 18}
+      - {x: 24.986628, y: 46}
+      - {x: 21.986626, y: 45}
+      - {x: 20.986626, y: 0}
+      - {x: 0.98662186, y: 46}
+      indices: 110000000f000000160000000e000000160000000f0000000c000000160000000e00000015000000160000000c0000000b000000150000000c0000000a00000009000000140000000800000014000000090000000600000014000000080000001300000014000000060000001200000013000000060000001800000010000000170000001100000017000000100000001600000017000000110000000400000017000000160000000300000017000000040000000700000017000000030000001500000004000000160000000b00000004000000150000000100000007000000030000000200000007000000010000001400000007000000020000000a00000014000000020000001300000007000000140000001200000007000000130000000600000007000000120000000d0000000f0000001000000011000000100000000f0000000e0000000f0000000d0000000c0000000e0000000d000000050000000c0000000d0000000b0000000c00000005000000080000000b00000005000000040000000b000000080000000000000004000000080000000900000000000000080000000200000000000000090000000a0000000200000009000000060000000800000005000000070000000600000005000000040000000000000003000000010000000300000000000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_grab
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 3
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -31, y: -48}
+        - {x: -56, y: -22}
+        - {x: -56, y: 36}
+        - {x: -52.999996, y: 48}
+        - {x: 39, y: 48}
+        - {x: 56, y: 34}
+        - {x: 56, y: -35}
+        - {x: 54.000004, y: -48}
+      physicsShape:
+      - - {x: 56, y: 28}
+        - {x: 28, y: 48}
+        - {x: -21, y: 48}
+        - {x: -26, y: 45.999996}
+        - {x: -47, y: 39.999996}
+        - {x: -56, y: 26}
+        - {x: -56, y: 2}
+        - {x: -52.999996, y: -7}
+        - {x: -26.999998, y: -42.999996}
+        - {x: -4, y: -48}
+        - {x: 26, y: -48}
+        - {x: 39, y: -47}
+        - {x: 51, y: -39}
+        - {x: 56, y: -31}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56efc6632e814cf39827a66ad88bbe87
+      internalID: 21300008
+      vertices:
+      - {x: 112, y: 82}
+      - {x: 110, y: 0}
+      - {x: 112, y: 13}
+      - {x: 95, y: 96}
+      - {x: 25, y: 0}
+      - {x: 3.0000038, y: 96}
+      - {x: 0, y: 84}
+      - {x: 0, y: 26}
+      indices: 070000000600000004000000050000000400000006000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hand_grab: 21300008
+      hand_grab_top: 21300002
+      hand_grabdown: 21300004
+      hand_grabdown_top: 21300006
+      hand_open: 21300000
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

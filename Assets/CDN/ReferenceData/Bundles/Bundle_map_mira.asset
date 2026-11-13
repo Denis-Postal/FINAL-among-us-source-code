@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41d112223c32f1b0c40a10d1a14033b8, type: 3}
+  m_Name: Bundle_map_mira
+  m_EditorClassIdentifier:
+  BundleSize: 1
+  productId: map_mira
+  beanCost: 0
+  starCost: 20
+  cosmetics:
+  - {fileID: 11400000, guid: 2ff36c0c8e6ce5b47a275a51cc400ef2, type: 2}
+  - {fileID: 11400000, guid: 3d087b7c5d4e2264e8cf6fe1696ec494, type: 2}
+  - {fileID: 11400000, guid: 14f4aeeb56a48634d88ff5e1868a4557, type: 2}
+  - {fileID: 11400000, guid: cf4f4bda26841984c940de6c7f84e83d, type: 2}
+  - {fileID: 11400000, guid: 066521be5ded09240b9780524aa5fd2f, type: 2}
+  - {fileID: 11400000, guid: cdcfd151d0758ee45a9d9ee0167b422d, type: 2}
+  - {fileID: 11400000, guid: a7a4dd93024039e4998db53ee98d60b1, type: 2}
+  StoreImage: {fileID: 21300008, guid: f63f5b9167069d9438726a58514b5ad8, type: 3}
+  NotInStore: 0
+  Free: 0
+  paidOnMobile: 0
+  limitedTime:
+    timeStart:
+      limitedYear: 0
+      limitedMonth: 0
+      limitedDay: 0
+      limitedHour: 0
+      limitedMinute: 0
+    timeEnd:
+      limitedYear: 0
+      limitedMonth: 0
+      limitedDay: 0
+      limitedHour: 0
+      limitedMinute: 0

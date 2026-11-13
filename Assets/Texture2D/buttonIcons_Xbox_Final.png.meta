@@ -1,0 +1,1008 @@
+fileFormatVersion: 2
+guid: fca185ca6e5e52043a365340e4b3d041
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: buttonIcons_Xbox_Final_5
+  - first:
+      213: 21300002
+    second: buttonIcons_Xbox_Final_13
+  - first:
+      213: 21300004
+    second: buttonIcons_Xbox_Final_6
+  - first:
+      213: 21300006
+    second: buttonIcons_Xbox_Final_17
+  - first:
+      213: 21300008
+    second: buttonIcons_Xbox_Final_8
+  - first:
+      213: 21300010
+    second: buttonIcons_Xbox_Final_9
+  - first:
+      213: 21300012
+    second: buttonIcons_Xbox_Final_15
+  - first:
+      213: 21300014
+    second: buttonIcons_Xbox_Final_10
+  - first:
+      213: 21300016
+    second: buttonIcons_Xbox_Final_7
+  - first:
+      213: 21300018
+    second: buttonIcons_Xbox_Final_14
+  - first:
+      213: 21300020
+    second: buttonIcons_Xbox_Final_2
+  - first:
+      213: 21300022
+    second: buttonIcons_Xbox_Final_18
+  - first:
+      213: 21300024
+    second: buttonIcons_Xbox_Final_11
+  - first:
+      213: 21300026
+    second: buttonIcons_Xbox_Final_0
+  - first:
+      213: 21300028
+    second: buttonIcons_Xbox_Final_16
+  - first:
+      213: 21300030
+    second: buttonIcons_Xbox_Final_12
+  - first:
+      213: 21300032
+    second: buttonIcons_Xbox_Final_1
+  - first:
+      213: 21300034
+    second: buttonIcons_Xbox_Final_3
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: buttonIcons_Xbox_Final_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 167
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -16, y: -34}
+        - {x: -34, y: -16}
+        - {x: -34, y: 18}
+        - {x: -30, y: 34}
+        - {x: 18, y: 34}
+        - {x: 34, y: 30}
+        - {x: 34, y: -16}
+        - {x: 16, y: -34}
+      physicsShape:
+      - - {x: -15, y: 34.000004}
+        - {x: -34.000004, y: 15}
+        - {x: -34.000004, y: -15}
+        - {x: -15, y: -34.000004}
+        - {x: 15, y: -34.000004}
+        - {x: 34.000004, y: -15}
+        - {x: 34.000004, y: 15}
+        - {x: 15, y: 34.000004}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7139d0b8c8914f4a8ea6324d20044a0d
+      internalID: 21300000
+      vertices:
+      - {x: 52, y: 68}
+      - {x: 68, y: 18}
+      - {x: 68, y: 64}
+      - {x: 50, y: 0}
+      - {x: 18, y: 0}
+      - {x: 4, y: 68}
+      - {x: 0, y: 52}
+      - {x: 0, y: 18}
+      indices: 070000000600000004000000050000000400000006000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_Xbox_Final_13
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 76
+        width: 65
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -25.5, y: -38.5}
+        - {x: -32.5, y: -36.5}
+        - {x: -32.5, y: 38.5}
+        - {x: 25.5, y: 38.5}
+        - {x: 32.5, y: 23.5}
+        - {x: 32.5, y: -32.5}
+        - {x: 22.5, y: -38.5}
+      physicsShape:
+      - - {x: 23.5, y: 29.500002}
+        - {x: 13.500001, y: 38.500004}
+        - {x: -11.500001, y: 38.500004}
+        - {x: -22.500002, y: 32.5}
+        - {x: -32.5, y: 11.500001}
+        - {x: -32.5, y: -23.5}
+        - {x: -22.500002, y: -34.500004}
+        - {x: -16.5, y: -38.500004}
+        - {x: 14.5, y: -38.500004}
+        - {x: 30.500004, y: -28.500002}
+        - {x: 32.5, y: -20.500002}
+        - {x: 32.5, y: 14.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9ff1edb16543fabf50a10063d1595e
+      internalID: 21300002
+      vertices:
+      - {x: 58, y: 77}
+      - {x: 65, y: 6}
+      - {x: 65, y: 62}
+      - {x: 55, y: 0}
+      - {x: 7, y: 0}
+      - {x: 0, y: 77}
+      - {x: 0, y: 2}
+      indices: 060000000500000004000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_Xbox_Final_6
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 167
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -16, y: -34}
+        - {x: -34, y: -16}
+        - {x: -34, y: 18}
+        - {x: -30, y: 34}
+        - {x: 18, y: 34}
+        - {x: 34, y: 30}
+        - {x: 34, y: -16}
+        - {x: 16, y: -34}
+      physicsShape:
+      - - {x: -15, y: 34.000004}
+        - {x: -34.000004, y: 15}
+        - {x: -34.000004, y: -15}
+        - {x: -15, y: -34.000004}
+        - {x: 15, y: -34.000004}
+        - {x: 34.000004, y: -15}
+        - {x: 34.000004, y: 15}
+        - {x: 15, y: 34.000004}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d7135d5ccd43e08fc2b8fb7b970bc1
+      internalID: 21300004
+      vertices:
+      - {x: 52, y: 68}
+      - {x: 68, y: 18}
+      - {x: 68, y: 64}
+      - {x: 50, y: 0}
+      - {x: 18, y: 0}
+      - {x: 4, y: 68}
+      - {x: 0, y: 52}
+      - {x: 0, y: 18}
+      indices: 070000000600000004000000050000000400000006000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_Xbox_Final_17
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 32
+        width: 80
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -27.5}
+        - {x: -40, y: -27.5}
+        - {x: -40, y: 27.5}
+        - {x: 40, y: 27.5}
+        - {x: 40, y: 21.5}
+      physicsShape:
+      - - {x: -40, y: 27.5}
+        - {x: -40, y: -27.5}
+        - {x: 21.000002, y: -27.5}
+        - {x: 40, y: 21.5}
+        - {x: 40, y: 27.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2d526df69e4ae08cb65827bb540675
+      internalID: 21300006
+      vertices:
+      - {x: 80, y: 55}
+      - {x: 63, y: 0}
+      - {x: 80, y: 49}
+      - {x: 0, y: 55}
+      - {x: 0, y: 0}
+      indices: 040000000300000001000000000000000100000003000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_Xbox_Final_8
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 167
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -16, y: -34}
+        - {x: -34, y: -16}
+        - {x: -34, y: 18}
+        - {x: -30, y: 34}
+        - {x: 18, y: 34}
+        - {x: 34, y: 30}
+        - {x: 34, y: -16}
+        - {x: 16, y: -34}
+      physicsShape:
+      - - {x: -15, y: 34.000004}
+        - {x: -34.000004, y: 15}
+        - {x: -34.000004, y: -15}
+        - {x: -15, y: -34.000004}
+        - {x: 15, y: -34.000004}
+        - {x: 34.000004, y: -15}
+        - {x: 34.000004, y: 15}
+        - {x: 15, y: 34.000004}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafb178a96804def908e2a176ba20e9e
+      internalID: 21300008
+      vertices:
+      - {x: 52, y: 68}
+      - {x: 68, y: 18}
+      - {x: 68, y: 64}
+      - {x: 50, y: 0}
+      - {x: 18, y: 0}
+      - {x: 4, y: 68}
+      - {x: 0, y: 52}
+      - {x: 0, y: 18}
+      indices: 070000000600000004000000050000000400000006000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_Xbox_Final_9
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 168
+        width: 65
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -18.5, y: -32.5}
+        - {x: -32.5, y: -18.5}
+        - {x: -32.5, y: 17.5}
+        - {x: -22.5, y: 32.5}
+        - {x: 22.5, y: 32.5}
+        - {x: 32.5, y: 25.5}
+        - {x: 32.5, y: -19.5}
+        - {x: 28.5, y: -32.5}
+      physicsShape:
+      - - {x: -30.500004, y: 32.5}
+        - {x: -32.5, y: 30.500004}
+        - {x: -32.5, y: -25.5}
+        - {x: -16.5, y: -32.5}
+        - {x: 18.5, y: -32.5}
+        - {x: 32.5, y: -16.5}
+        - {x: 32.5, y: 28.500002}
+        - {x: 19.500002, y: 32.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657aa7982d534597a7014baadb2ebae5
+      internalID: 21300010
+      vertices:
+      - {x: 65, y: 58}
+      - {x: 61, y: 0}
+      - {x: 65, y: 13}
+      - {x: 55, y: 65}
+      - {x: 14, y: 0}
+      - {x: 10, y: 65}
+      - {x: 0, y: 50}
+      - {x: 0, y: 14}
+      indices: 070000000600000004000000050000000400000006000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_Xbox_Final_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 65
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 19.5, y: -32.5}
+        - {x: -32.5, y: -32.5}
+        - {x: -32.5, y: 32.5}
+        - {x: 28.5, y: 32.5}
+        - {x: 32.5, y: 31.499998}
+        - {x: 32.5, y: -24.5}
+      physicsShape:
+      - - {x: 16.5, y: 32.5}
+        - {x: -23.5, y: 32.5}
+        - {x: -32.5, y: 22.500002}
+        - {x: -32.5, y: -20.500002}
+        - {x: -15.500001, y: -32.5}
+        - {x: 16.5, y: -32.5}
+        - {x: 32.5, y: -25.5}
+        - {x: 32.5, y: 23.5}
+        - {x: 24.500002, y: 30.500004}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e5c2b4193e4cd4ad1691a39066a47f
+      internalID: 21300012
+      vertices:
+      - {x: 61, y: 65}
+      - {x: 65, y: 8}
+      - {x: 65, y: 64}
+      - {x: 52, y: 0}
+      - {x: 0, y: 65}
+      - {x: 0, y: 0}
+      indices: 050000000400000003000000000000000300000004000000010000000300000000000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_Xbox_Final_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 89
+        width: 65
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -31.499998, y: -32.5}
+        - {x: -32.5, y: -29.5}
+        - {x: -32.5, y: 32.5}
+        - {x: 28.5, y: 32.5}
+        - {x: 32.5, y: 23.5}
+        - {x: 32.5, y: -28.5}
+        - {x: 29.5, y: -32.5}
+      physicsShape:
+      - - {x: 20.500002, y: 32.5}
+        - {x: -23.5, y: 32.5}
+        - {x: -32.5, y: 20.500002}
+        - {x: -32.5, y: -18.5}
+        - {x: -18.5, y: -32.5}
+        - {x: 15.500001, y: -32.5}
+        - {x: 30.500004, y: -21.5}
+        - {x: 32.5, y: -15.500001}
+        - {x: 32.5, y: 20.500002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39d34cd49c042a3be98ed764e7ef77e
+      internalID: 21300014
+      vertices:
+      - {x: 65, y: 56}
+      - {x: 62, y: 0}
+      - {x: 65, y: 4}
+      - {x: 61, y: 65}
+      - {x: 1.0000019, y: 0}
+      - {x: 0, y: 65}
+      - {x: 0, y: 3}
+      indices: 060000000500000004000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_Xbox_Final_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 167
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -16, y: -34}
+        - {x: -34, y: -16}
+        - {x: -34, y: 18}
+        - {x: -30, y: 34}
+        - {x: 18, y: 34}
+        - {x: 34, y: 30}
+        - {x: 34, y: -16}
+        - {x: 16, y: -34}
+      physicsShape:
+      - - {x: -15, y: 34.000004}
+        - {x: -34.000004, y: 15}
+        - {x: -34.000004, y: -15}
+        - {x: -15, y: -34.000004}
+        - {x: 15, y: -34.000004}
+        - {x: 34.000004, y: -15}
+        - {x: 34.000004, y: 15}
+        - {x: 15, y: 34.000004}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6a9700c2574ac5ad0d4891c33f4170
+      internalID: 21300016
+      vertices:
+      - {x: 52, y: 68}
+      - {x: 68, y: 18}
+      - {x: 68, y: 64}
+      - {x: 50, y: 0}
+      - {x: 18, y: 0}
+      - {x: 4, y: 68}
+      - {x: 0, y: 52}
+      - {x: 0, y: 18}
+      indices: 070000000600000004000000050000000400000006000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_Xbox_Final_14
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 73
+        width: 65
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -25.5, y: -38.5}
+        - {x: -32.5, y: -36.5}
+        - {x: -32.5, y: 38.5}
+        - {x: 25.5, y: 38.5}
+        - {x: 32.5, y: 23.5}
+        - {x: 32.5, y: -32.5}
+        - {x: 22.5, y: -38.5}
+      physicsShape:
+      - - {x: 23.5, y: 29.500002}
+        - {x: 13.500001, y: 38.500004}
+        - {x: -11.500001, y: 38.500004}
+        - {x: -22.500002, y: 32.5}
+        - {x: -32.5, y: 11.500001}
+        - {x: -32.5, y: -23.5}
+        - {x: -22.500002, y: -34.500004}
+        - {x: -16.5, y: -38.500004}
+        - {x: 14.5, y: -38.500004}
+        - {x: 30.500004, y: -28.500002}
+        - {x: 32.5, y: -20.500002}
+        - {x: 32.5, y: 14.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e74bc657ae44c6abd2ca476fd7f18f
+      internalID: 21300018
+      vertices:
+      - {x: 58, y: 77}
+      - {x: 65, y: 6}
+      - {x: 65, y: 62}
+      - {x: 55, y: 0}
+      - {x: 7, y: 0}
+      - {x: 0, y: 77}
+      - {x: 0, y: 2}
+      indices: 060000000500000004000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_Xbox_Final_2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 247
+        width: 65
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -19.5, y: -32.5}
+        - {x: -32.5, y: -21.5}
+        - {x: -32.5, y: 19.5}
+        - {x: -20.5, y: 32.5}
+        - {x: 21.5, y: 32.5}
+        - {x: 32.5, y: 15.5}
+        - {x: 32.5, y: -17.5}
+        - {x: 31.499998, y: -22.5}
+        - {x: 15.5, y: -32.5}
+      physicsShape:
+      - - {x: -26.500002, y: 32.5}
+        - {x: -32.5, y: 24.500002}
+        - {x: -32.5, y: -21.5}
+        - {x: -18.5, y: -32.5}
+        - {x: 16.5, y: -32.5}
+        - {x: 21.5, y: -31.500002}
+        - {x: 32.5, y: -13.500001}
+        - {x: 32.5, y: 26.500002}
+        - {x: 19.500002, y: 32.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db9c67baa58476da3ec32eb5023406d
+      internalID: 21300020
+      vertices:
+      - {x: 65, y: 48}
+      - {x: 64, y: 10}
+      - {x: 65, y: 15}
+      - {x: 54, y: 65}
+      - {x: 48, y: 0}
+      - {x: 13, y: 0}
+      - {x: 12, y: 65}
+      - {x: 0, y: 52}
+      - {x: 0, y: 11}
+      indices: 080000000700000005000000060000000500000007000000030000000500000006000000040000000500000003000000010000000400000003000000000000000100000003000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_Xbox_Final_18
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 5
+        width: 65
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -18.5, y: -32.5}
+        - {x: -32.5, y: -18.5}
+        - {x: -32.5, y: 17.5}
+        - {x: -22.5, y: 32.5}
+        - {x: 22.5, y: 32.5}
+        - {x: 32.5, y: 25.5}
+        - {x: 32.5, y: -19.5}
+        - {x: 28.5, y: -32.5}
+      physicsShape:
+      - - {x: -30.500004, y: 32.5}
+        - {x: -32.5, y: 30.500004}
+        - {x: -32.5, y: -25.5}
+        - {x: -16.5, y: -32.5}
+        - {x: 18.5, y: -32.5}
+        - {x: 32.5, y: -16.5}
+        - {x: 32.5, y: 28.500002}
+        - {x: 19.500002, y: 32.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7640351e79b8463ca5230c32ed0db708
+      internalID: 21300022
+      vertices:
+      - {x: 65, y: 58}
+      - {x: 61, y: 0}
+      - {x: 65, y: 13}
+      - {x: 55, y: 65}
+      - {x: 14, y: 0}
+      - {x: 10, y: 65}
+      - {x: 0, y: 50}
+      - {x: 0, y: 14}
+      indices: 070000000600000004000000050000000400000006000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_Xbox_Final_11
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 97
+        width: 75
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 37.5, y: -25}
+        - {x: -37.5, y: -25}
+        - {x: -37.5, y: 18}
+        - {x: -31.499998, y: 25}
+        - {x: 37.5, y: 25}
+      physicsShape:
+      - - {x: -32.5, y: 25.000002}
+        - {x: -37.500004, y: 19.000002}
+        - {x: -37.500004, y: -25.000002}
+        - {x: 37.500004, y: -25.000002}
+        - {x: 37.500004, y: 25.000002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9af9367fdf4fcf89770024f0583edc
+      internalID: 21300024
+      vertices:
+      - {x: 6.000002, y: 50}
+      - {x: 75, y: 0}
+      - {x: 75, y: 50}
+      - {x: 0, y: 43}
+      - {x: 0, y: 0}
+      indices: 040000000300000001000000000000000100000003000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_Xbox_Final_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 247
+        width: 65
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -28.5, y: -32.5}
+        - {x: -32.5, y: -22.5}
+        - {x: -32.5, y: 30.5}
+        - {x: -24.5, y: 32.5}
+        - {x: 21.5, y: 32.5}
+        - {x: 32.5, y: 16.5}
+        - {x: 32.5, y: -15.5}
+        - {x: 30.5, y: -21.5}
+        - {x: 18.5, y: -32.5}
+      physicsShape:
+      - - {x: 15.500001, y: 32.5}
+        - {x: -20.500002, y: 32.5}
+        - {x: -32.5, y: 26.500002}
+        - {x: -32.5, y: -31.500002}
+        - {x: -30.500004, y: -32.5}
+        - {x: 20.500002, y: -32.5}
+        - {x: 32.5, y: -28.500002}
+        - {x: 32.5, y: 15.500001}
+        - {x: 22.500002, y: 31.500002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5993dfaa567f40889f038203ea59239f
+      internalID: 21300026
+      vertices:
+      - {x: 65, y: 49}
+      - {x: 63, y: 11}
+      - {x: 65, y: 17}
+      - {x: 54, y: 65}
+      - {x: 51, y: 0}
+      - {x: 8, y: 65}
+      - {x: 4, y: 0}
+      - {x: 0, y: 63}
+      - {x: 0, y: 10}
+      indices: 080000000700000006000000050000000600000007000000040000000600000005000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_Xbox_Final_16
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 34
+        width: 80
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -22, y: -27.5}
+        - {x: -40, y: 21.5}
+        - {x: -40, y: 27.5}
+        - {x: 40, y: 27.5}
+        - {x: 40, y: -27.5}
+      physicsShape:
+      - - {x: -40, y: 27.5}
+        - {x: -40, y: 23.5}
+        - {x: -22, y: -27.5}
+        - {x: 40, y: -27.5}
+        - {x: 40, y: 27.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b9e7fbb0b04417b239fd6885ad8cc4
+      internalID: 21300028
+      vertices:
+      - {x: 80, y: 55}
+      - {x: 18, y: 0}
+      - {x: 80, y: 0}
+      - {x: 0, y: 55}
+      - {x: 0, y: 49}
+      indices: 040000000300000001000000000000000100000003000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_Xbox_Final_12
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 97
+        width: 74
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 37, y: -25}
+        - {x: -37, y: -25}
+        - {x: -37, y: 25}
+        - {x: 32, y: 25}
+        - {x: 37, y: 17}
+      physicsShape:
+      - - {x: -37, y: 25.000002}
+        - {x: -37, y: -25.000002}
+        - {x: 37, y: -25.000002}
+        - {x: 37, y: 16}
+        - {x: 33, y: 25.000002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07e4e0918dd46b297e4ae188c58d893
+      internalID: 21300030
+      vertices:
+      - {x: 69, y: 50}
+      - {x: 74, y: 0}
+      - {x: 74, y: 42}
+      - {x: 0, y: 50}
+      - {x: 0, y: 0}
+      indices: 040000000300000001000000000000000100000003000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_Xbox_Final_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 247
+        width: 65
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -28.5, y: -32.5}
+        - {x: -32.5, y: -22.5}
+        - {x: -32.5, y: 30.5}
+        - {x: -24.5, y: 32.5}
+        - {x: 21.5, y: 32.5}
+        - {x: 32.5, y: 16.5}
+        - {x: 32.5, y: -15.5}
+        - {x: 30.5, y: -21.5}
+        - {x: 18.5, y: -32.5}
+      physicsShape:
+      - - {x: 15.500001, y: 32.5}
+        - {x: -20.500002, y: 32.5}
+        - {x: -32.5, y: 26.500002}
+        - {x: -32.5, y: -31.500002}
+        - {x: -30.500004, y: -32.5}
+        - {x: 20.500002, y: -32.5}
+        - {x: 32.5, y: -28.500002}
+        - {x: 32.5, y: 15.500001}
+        - {x: 22.500002, y: 31.500002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d8cda439b3423c99c78cff3b8ceaec
+      internalID: 21300032
+      vertices:
+      - {x: 65, y: 49}
+      - {x: 63, y: 11}
+      - {x: 65, y: 17}
+      - {x: 54, y: 65}
+      - {x: 51, y: 0}
+      - {x: 8, y: 65}
+      - {x: 4, y: 0}
+      - {x: 0, y: 63}
+      - {x: 0, y: 10}
+      indices: 080000000700000006000000050000000600000007000000040000000600000005000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_Xbox_Final_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 247
+        width: 65
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -28.5, y: -32.5}
+        - {x: -32.5, y: -22.5}
+        - {x: -32.5, y: 30.5}
+        - {x: -24.5, y: 32.5}
+        - {x: 21.5, y: 32.5}
+        - {x: 32.5, y: 16.5}
+        - {x: 32.5, y: -15.5}
+        - {x: 30.5, y: -21.5}
+        - {x: 18.5, y: -32.5}
+      physicsShape:
+      - - {x: 15.500001, y: 32.5}
+        - {x: -20.500002, y: 32.5}
+        - {x: -32.5, y: 26.500002}
+        - {x: -32.5, y: -31.500002}
+        - {x: -30.500004, y: -32.5}
+        - {x: 20.500002, y: -32.5}
+        - {x: 32.5, y: -28.500002}
+        - {x: 32.5, y: 15.500001}
+        - {x: 22.500002, y: 31.500002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ccc63db8f04c6ab48a339584265086
+      internalID: 21300034
+      vertices:
+      - {x: 65, y: 49}
+      - {x: 63, y: 11}
+      - {x: 65, y: 17}
+      - {x: 54, y: 65}
+      - {x: 51, y: 0}
+      - {x: 8, y: 65}
+      - {x: 4, y: 0}
+      - {x: 0, y: 63}
+      - {x: 0, y: 10}
+      indices: 080000000700000006000000050000000600000007000000040000000600000005000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      buttonIcons_Xbox_Final_0: 21300026
+      buttonIcons_Xbox_Final_1: 21300032
+      buttonIcons_Xbox_Final_10: 21300014
+      buttonIcons_Xbox_Final_11: 21300024
+      buttonIcons_Xbox_Final_12: 21300030
+      buttonIcons_Xbox_Final_13: 21300002
+      buttonIcons_Xbox_Final_14: 21300018
+      buttonIcons_Xbox_Final_15: 21300012
+      buttonIcons_Xbox_Final_16: 21300028
+      buttonIcons_Xbox_Final_17: 21300006
+      buttonIcons_Xbox_Final_18: 21300022
+      buttonIcons_Xbox_Final_2: 21300020
+      buttonIcons_Xbox_Final_3: 21300034
+      buttonIcons_Xbox_Final_5: 21300000
+      buttonIcons_Xbox_Final_6: 21300004
+      buttonIcons_Xbox_Final_7: 21300016
+      buttonIcons_Xbox_Final_8: 21300008
+      buttonIcons_Xbox_Final_9: 21300010
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

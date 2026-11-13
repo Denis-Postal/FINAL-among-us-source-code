@@ -1,0 +1,350 @@
+fileFormatVersion: 2
+guid: 6a596127849bbf8418657998dd625275
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: HallwayL_main
+  - first:
+      213: 21300002
+    second: panel_wireHallwayL
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HallwayL_main
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4
+        width: 1090
+        height: 441
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -286, y: 209.5}
+        - {x: -286, y: 220.5}
+        - {x: -222, y: 220.5}
+        - {x: -218, y: 103.5}
+        - {x: -50, y: 101.5}
+        - {x: -48, y: 220.5}
+        - {x: -9, y: 220.5}
+        - {x: -6, y: 211.5}
+        - {x: 533.99994, y: 212.5}
+        - {x: 545, y: 146.49998}
+        - {x: 545, y: 131.5}
+        - {x: 537, y: 95.5}
+        - {x: 538, y: -76.5}
+        - {x: 545, y: -78.5}
+        - {x: 545, y: -131.5}
+        - {x: 500.99997, y: -142.5}
+        - {x: 489, y: -133.49998}
+        - {x: 336, y: -134.5}
+        - {x: 305, y: -164.5}
+        - {x: 305, y: -220.5}
+        - {x: 96, y: -220.5}
+        - {x: 91.99999, y: -145.5}
+        - {x: 69, y: -145.5}
+        - {x: 66.99999, y: -132.5}
+        - {x: -545, y: -132.5}
+        - {x: -545, y: -79.49999}
+        - {x: -533.99994, y: -76.5}
+        - {x: -533.99994, y: 82.5}
+        - {x: -522, y: 112.5}
+        - {x: -545, y: 135.5}
+        - {x: -545, y: 200.49998}
+        - {x: -533, y: 212.5}
+      physicsShape:
+      - - {x: 326, y: -143.5}
+        - {x: 323, y: -131.5}
+        - {x: 498.99997, y: -130.5}
+        - {x: 498, y: -137.5}
+        - {x: 504.99997, y: -140.5}
+        - {x: 510, y: -130.5}
+        - {x: 541, y: -129.5}
+        - {x: 545, y: -128.5}
+        - {x: 543, y: -115.5}
+        - {x: 545, y: -101.5}
+        - {x: 545, y: -80.5}
+        - {x: 533.99994, y: -79.49999}
+        - {x: 533, y: 44.5}
+        - {x: 538, y: 44.5}
+        - {x: 533, y: 84.5}
+        - {x: 532, y: 91.5}
+        - {x: 521, y: 95.5}
+        - {x: 533, y: 112.5}
+        - {x: 527, y: 133.49998}
+        - {x: 545, y: 133.49998}
+        - {x: 545, y: 144.5}
+        - {x: 539, y: 157.5}
+        - {x: 540, y: 166.5}
+        - {x: 533.99994, y: 204.49998}
+        - {x: 510, y: 209.5}
+        - {x: -13, y: 209.5}
+        - {x: -9.999999, y: 216.5}
+        - {x: -11, y: 220.5}
+        - {x: -45, y: 220.5}
+        - {x: -45.999996, y: 219.5}
+        - {x: -47, y: 190.5}
+        - {x: -111, y: 97.5}
+        - {x: -112, y: 98.49999}
+        - {x: -200, y: 99.5}
+        - {x: -213.99998, y: 102.5}
+        - {x: -223, y: 100.5}
+        - {x: -224, y: 219.5}
+        - {x: -225, y: 220.5}
+        - {x: -283, y: 220.5}
+        - {x: -284, y: 219.5}
+        - {x: -284, y: 217.5}
+        - {x: -282, y: 206.5}
+        - {x: -469.99997, y: 206.5}
+        - {x: -471, y: 207.5}
+        - {x: -488, y: 210.5}
+        - {x: -537, y: 206.5}
+        - {x: -541, y: 201.49998}
+        - {x: -545, y: 151.5}
+        - {x: -543, y: 137.5}
+        - {x: -540, y: 133.49998}
+        - {x: -516, y: 111.5}
+        - {x: -519, y: 92.49999}
+        - {x: -533, y: 84.5}
+        - {x: -532, y: 67.5}
+        - {x: -530, y: 61.5}
+        - {x: -533.99994, y: 59.499996}
+        - {x: -530, y: 52.499996}
+        - {x: -532, y: 49.499996}
+        - {x: -532, y: 46.5}
+        - {x: -530, y: 44.5}
+        - {x: -544, y: -81.5}
+        - {x: -545, y: -81.5}
+        - {x: -545, y: -126.5}
+        - {x: -543, y: -129.5}
+        - {x: -539, y: -130.5}
+        - {x: 72.99999, y: -130.5}
+        - {x: 70, y: -137.5}
+        - {x: 72, y: -144.5}
+        - {x: 97.99999, y: -146.49998}
+        - {x: 93, y: -157.5}
+        - {x: 91, y: -169.5}
+        - {x: 94, y: -184.49998}
+        - {x: 93, y: -200.49998}
+        - {x: 91, y: -212.5}
+        - {x: 100, y: -219.5}
+        - {x: 145.99998, y: -220.5}
+        - {x: 291.99997, y: -220.5}
+        - {x: 306, y: -218.5}
+        - {x: 305, y: -149.5}
+        - {x: 304, y: -144.5}
+      - - {x: -100, y: 219.5}
+        - {x: -104, y: 216.5}
+        - {x: -104, y: 189.5}
+        - {x: -100, y: 184.49998}
+        - {x: -55, y: 184.49998}
+        - {x: -55, y: 219.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8612874f7b4c1797c6fb422f4572cf
+      internalID: 21300000
+      vertices:
+      - {x: 327, y: 324}
+      - {x: 495, y: 322}
+      - {x: 497, y: 441}
+      - {x: 536, y: 441}
+      - {x: 539, y: 432}
+      - {x: 1079, y: 433}
+      - {x: 1090, y: 367}
+      - {x: 1090, y: 352}
+      - {x: 1082, y: 316}
+      - {x: 1083, y: 144}
+      - {x: 1090, y: 142}
+      - {x: 1090, y: 89}
+      - {x: 1046, y: 78}
+      - {x: 1034, y: 87.000015}
+      - {x: 881, y: 86}
+      - {x: 850, y: 56}
+      - {x: 850, y: 0}
+      - {x: 641, y: 0}
+      - {x: 637, y: 75}
+      - {x: 614, y: 75}
+      - {x: 612, y: 88}
+      - {x: 0, y: 88}
+      - {x: 0, y: 141}
+      - {x: 11.000061, y: 144}
+      - {x: 11.000061, y: 303}
+      - {x: 23, y: 333}
+      - {x: 0, y: 356}
+      - {x: 0, y: 421}
+      - {x: 12, y: 433}
+      - {x: 259, y: 430}
+      - {x: 259, y: 441}
+      - {x: 323, y: 441}
+      indices: 1d0000001e0000001f000000190000001c0000001d0000001a0000001b0000001c000000000000001d0000001f000000190000001a0000001c000000190000000000000018000000190000001d000000000000001500000016000000170000000000000017000000180000001200000013000000140000000f00000010000000110000000f00000011000000120000000e0000000f00000012000000140000000400000012000000090000000b0000000d0000000b0000000c0000000d000000090000000d0000000e00000012000000040000000e000000090000000a0000000b0000001400000001000000040000000e00000008000000090000000e0000000400000008000000080000000400000005000000080000000500000006000000020000000300000004000000010000000200000004000000080000000600000007000000000000000100000014000000000000001400000015000000000000001500000017000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_wireHallwayL
+      rect:
+        serializedVersion: 2
+        x: 444.0761
+        y: 408.0761
+        width: 49.847755
+        height: 35.847755
+      alignment: 9
+      pivot: {x: 0.51003075, y: 0.5139482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -25.999989, y: -17.999989}
+        - {x: -25.999989, y: 19.000011}
+        - {x: 26.000011, y: 19.000011}
+        - {x: 26.000011, y: -17.999989}
+      physicsShape:
+      - - {x: 23.00001, y: 18.000011}
+        - {x: -19.99999, y: 18.000011}
+        - {x: -24.99999, y: 17.000011}
+        - {x: -24.99999, y: -13.999989}
+        - {x: -23.999989, y: -16.999989}
+        - {x: 22.000008, y: -16.999989}
+        - {x: 24.00001, y: -14.999989}
+        - {x: 24.00001, y: 17.000011}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f795d9c405c4f6ea18697e13f08d82b
+      internalID: 21300002
+      vertices:
+      - {x: 50.42388, y: -0.5761223}
+      - {x: -1.5761204, y: -0.5761223}
+      - {x: -1.5761204, y: 36.423878}
+      - {x: 50.42388, y: 36.423878}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HallwayL_main: 21300000
+      panel_wireHallwayL: 21300002
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

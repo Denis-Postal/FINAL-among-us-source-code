@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 825ac4e4914361a3d7ea08f1b54d9d4f, type: 3}
+  m_Name: _Cube_IndieCube2023
+  m_EditorClassIdentifier:
+  StoreImageRef:
+    m_AssetGUID: 7236e8cdb90da4101bb6a02fa656bcc6
+    m_SubObjectName:
+    m_SubObjectType:
+  CosmicubePrefabRef:
+    m_AssetGUID: 3386fce0e46074ace9032d7bca1c6522
+    m_SubObjectName:
+    m_SubObjectType:
+  podIconRef:
+    m_AssetGUID: f7f7cc8c6cfcd4198b787794815c1dd1
+    m_SubObjectName:
+    m_SubObjectType:
+  DateCreated: 10/25/2023
+  allUnlockables:
+  - {fileID: 11400000, guid: 2ec141d30f9389c49839282abdff9b2d, type: 2}
+  - {fileID: 11400000, guid: 5964d9cfb42329c439b5cd72fc04c14b, type: 2}
+  - {fileID: 11400000, guid: 769d2a0f5b6c0704fa8cd2a76a40322d, type: 2}
+  - {fileID: 11400000, guid: 87ceb4933c19b1749a9de2e3a1aade34, type: 2}
+  - {fileID: 11400000, guid: 8e763dce2f609374080a931443505fb2, type: 2}
+  - {fileID: 11400000, guid: a1eb96bb89ce496479b3432fd1a4bc98, type: 2}
+  - {fileID: 11400000, guid: 045b07b7876d385449a87d7babc77a4e, type: 2}
+  - {fileID: 11400000, guid: 72eaea2e06e9f7140b0446bc95a874d6, type: 2}
+  - {fileID: 11400000, guid: 8c3fa8a4754e3c646b37375ac6938514, type: 2}
+  - {fileID: 11400000, guid: c68dda615895f9940ad204d6788e081b, type: 2}
+  - {fileID: 11400000, guid: 7642bc0d7b922db49b7b34b7f0ac264d, type: 2}
+  - {fileID: 11400000, guid: 732308d538485a3418f64548259d1656, type: 2}
+  - {fileID: 11400000, guid: 5eab04a2162607c4c9a60c4f5f0318f7, type: 2}
+  - {fileID: 11400000, guid: f98b388111f043642b361d502b90a38a, type: 2}
+  - {fileID: 11400000, guid: 5ad80cb99da520b4d86c65c96ee7e43f, type: 2}
+  - {fileID: 11400000, guid: b2b018d3bb668d244b85b5db92fa2089, type: 2}
+  - {fileID: 11400000, guid: 586d548f891d75c46b57c2affa6abd22, type: 2}
+  - {fileID: 11400000, guid: 606533f536c72a047917fd0507ef82ab, type: 2}
+  - {fileID: 11400000, guid: 969b179850b54d24ab01ca852c878e48, type: 2}
+  - {fileID: 11400000, guid: a87535459c49deb4782c8bc1a9b53e50, type: 2}
+  - {fileID: 11400000, guid: ff3817f67198ed541b76535fdb6435d5, type: 2}
+  - {fileID: 11400000, guid: 711bc7531b63196478921cc6e5d0d1d8, type: 2}
+  - {fileID: 11400000, guid: 0479eecce742e23418687f1cf00dbcb1, type: 2}
+  - {fileID: 11400000, guid: e18f05e1853eb3c4b9068dc90a65e7d7, type: 2}
+  - {fileID: 11400000, guid: 0e29acc5b971c0247b34e1671366baae, type: 2}
+  - {fileID: 11400000, guid: c609d218ddd88ec4c8dc378446ba26ec, type: 2}
+  - {fileID: 11400000, guid: 511d9d60d6bab614892bfd64d5d1bd6b, type: 2}
+  - {fileID: 11400000, guid: a1900a933aebaf5459533b7389bc895e, type: 2}
+  - {fileID: 11400000, guid: dca5c365f3229c54fa5163e94e56114f, type: 2}
+  - {fileID: 11400000, guid: 358930d8c540a8a47af214214d4236e0, type: 2}
+  - {fileID: 11400000, guid: ae50bb67dd290ba4c9f90804211d80fb, type: 2}
+  - {fileID: 11400000, guid: cf421da26b28f4d468db60a6504125c9, type: 2}
+  - {fileID: 11400000, guid: 15bff646e5dd90642b19d30c9db1dfc9, type: 2}
+  - {fileID: 11400000, guid: bb243aa5be9102c4793f26e889d0c0a4, type: 2}
+  - {fileID: 11400000, guid: 5d45f476db5ebc841aa55f7e786cb1cc, type: 2}
+  - {fileID: 11400000, guid: 7cb22cacc79eb344b89820584e9bc205, type: 2}
+  - {fileID: 11400000, guid: 84d84a65c09109948b419bd1e7bd7c3c, type: 2}
+  - {fileID: 11400000, guid: 0ec3ddc3ad606a0429ca06ca5e21fa20, type: 2}
+  - {fileID: 11400000, guid: 1194044d92e973f4ab6937c69328f880, type: 2}
+  - {fileID: 11400000, guid: 9e5825db3107d3048b626c6649283afe, type: 2}
+  - {fileID: 11400000, guid: 7161c40c55cafb6418a2a86ea798285b, type: 2}
+  - {fileID: 11400000, guid: 5977cbb98ad5e2347adef4d7a739df8f, type: 2}
+  - {fileID: 11400000, guid: b302e653ccf3719459218ef2e97211d4, type: 2}
+  - {fileID: 11400000, guid: c3c202dec88507c44844db1780b038ff, type: 2}
+  - {fileID: 11400000, guid: 1b4ec22126ebbd4429e36cf104240197, type: 2}
+  - {fileID: 11400000, guid: 7bf706cad99ddc04f84e17a5e573ef08, type: 2}
+  - {fileID: 11400000, guid: d57709d2a7dc273439636bace6d3d1a7, type: 2}
+  - {fileID: 11400000, guid: 3d322939bcbf6fc4d8e41355a7e0aa82, type: 2}
+  - {fileID: 11400000, guid: f06016e20ce3e9a4391832e7ab94ef04, type: 2}
+  - {fileID: 11400000, guid: 6c33bcb3a49ce244baee553abcf8d5c0, type: 2}
+  - {fileID: 11400000, guid: 0a085892d17228542b74f4770c4a0907, type: 2}
+  - {fileID: 11400000, guid: 220144073611feb4a83b7fcb0fecd1ef, type: 2}
+  - {fileID: 11400000, guid: 369596ac60f0aab469476d25cee49f71, type: 2}
+  - {fileID: 11400000, guid: 2d493c9fae0e9404c8744f431e0776e3, type: 2}
+  - {fileID: 11400000, guid: cb3f156b24b9e2e42a394ebd7c65b564, type: 2}
+  - {fileID: 11400000, guid: 90a0fc3d78275384688c04412403f262, type: 2}
+  - {fileID: 11400000, guid: e36f248c229934347accbd503dce9ef3, type: 2}
+  - {fileID: 11400000, guid: 2e341d81989549748abf4360dc5ec0b8, type: 2}
+  - {fileID: 11400000, guid: f4e8afa1b37027d40971a770cdf0a421, type: 2}
+  - {fileID: 11400000, guid: 4cef3e178324b6b41889bde2742ec71f, type: 2}
+  - {fileID: 11400000, guid: e12a9a7cb5476ae468fc436433d10728, type: 2}
+  - {fileID: 11400000, guid: c8eff2c936391314f9070fc81df4ca81, type: 2}
+  - {fileID: 11400000, guid: 445d243dd983fed408d0eebae7076b26, type: 2}
+  - {fileID: 11400000, guid: 31d72af6a682fa74990c2e30125fecba, type: 2}
+  - {fileID: 11400000, guid: 1b412f1de6613fa40955574dcf7a408b, type: 2}
+  - {fileID: 11400000, guid: 17a838033e554ed47a0175027851b9c1, type: 2}
+  - {fileID: 11400000, guid: bf2b548ac0cead243accae780b669d95, type: 2}
+  - {fileID: 11400000, guid: 848e659ced2e24e49a041595baa27c04, type: 2}
+  - {fileID: 11400000, guid: 6e82032c0664f5c4aaec6bdba8f433fa, type: 2}
+  - {fileID: 11400000, guid: 80a5cb7bbfe9825448bfd731f1ef30cd, type: 2}
+  starCost: 0
+  beanCost: 7000
+  Order: 0
+  Free: 0
+  NotInStore: 0
+  XRange:
+    min: -1
+    max: 1
+  YRange:
+    min: -1
+    max: 1
+  podId: indie
+  productId: cube_indie
+  cosmicubeName: Indie
+  limitedTime:
+    timeStart:
+      limitedYear: 2026
+      limitedMonth: 7
+      limitedDay: 13
+      limitedHour: 17
+      limitedMinute: 0
+    timeEnd:
+      limitedYear: 2026
+      limitedMonth: 10
+      limitedDay: 14
+      limitedHour: 17
+      limitedMinute: 0
+  epicId:

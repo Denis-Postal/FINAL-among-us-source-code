@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: 00364f15c124e854f87c689bf0596c0e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7418658260014489205
+    second: skin_kamurocho_ichiban_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: skin_kamurocho_ichiban_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 146
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e5e2ab16e54f660800000000000000
+      internalID: 7418658260014489205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -68, y: -59.500004}
+      - {x: -73, y: -37.5}
+      - {x: -73, y: 30.5}
+      - {x: -69, y: 59.500004}
+      - {x: 73, y: 59.500004}
+      - {x: 73, y: -44.5}
+      - {x: 54.000004, y: -58.499996}
+      - {x: 41, y: -59.500004}
+    customData: 
+    physicsShape:
+    - - {x: 45.999996, y: -44.5}
+      - {x: 52.999996, y: -23.5}
+      - {x: 64, y: -11.499999}
+      - {x: 64, y: -3.5}
+      - {x: 59.999996, y: 19.5}
+      - {x: 66, y: 21.499998}
+      - {x: 72.99999, y: 27.5}
+      - {x: 72.99999, y: 34.5}
+      - {x: 57, y: 57.5}
+      - {x: 29, y: 49.499996}
+      - {x: 22.999998, y: 42.5}
+      - {x: 12, y: 46.5}
+      - {x: -9.999999, y: 51.5}
+      - {x: -26, y: 59.499996}
+      - {x: -62, y: 59.499996}
+      - {x: -68, y: 51.5}
+      - {x: -68, y: 16.5}
+      - {x: -72.99999, y: -2.4999998}
+      - {x: -72.99999, y: -11.499999}
+      - {x: -63, y: -27.5}
+      - {x: -62, y: -46.5}
+      - {x: -53.999996, y: -58.499996}
+      - {x: -52, y: -59.499996}
+      - {x: -16, y: -59.499996}
+      - {x: -4.9999995, y: -50.5}
+      - {x: 12, y: -53.499996}
+      - {x: 36, y: -52.499996}
+    - - {x: 21, y: 32.5}
+      - {x: 22, y: 32.5}
+      - {x: 21, y: 33.499996}
+    bones: []
+    spriteID: 1217576ee72c4fe483db2d1483265745
+    internalID: 0
+    vertices:
+    - {x: 146, y: 119}
+    - {x: 127, y: 1.0000038}
+    - {x: 146, y: 15}
+    - {x: 114, y: -0.0000038146973}
+    - {x: 5, y: -0.0000038146973}
+    - {x: 4, y: 119}
+    - {x: 0, y: 90}
+    - {x: 0, y: 22}
+    indices: 070000000600000004000000050000000400000006000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000i
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

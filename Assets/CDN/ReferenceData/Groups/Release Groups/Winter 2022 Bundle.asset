@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fbdf57f19df93d09b0c77f4c0195892, type: 3}
+  m_Name: Winter 2022 Bundle
+  m_EditorClassIdentifier:
+  ids:
+  - hat_babybean
+  - hat_cashHat
+  - hat_crownBean
+  - hat_crownDouble
+  - hat_crownTall
+  - hat_mareLwyd
+  - hat_schnapp
+  - hat_Sorry
+  - hat_tinFoil
+  - hat_wigJudge
+  - hat_wigTall
+  - nameplate_ballPit
+  - nameplate_cafeteria
+  - nameplate_deadbodyfound
+  - nameplate_ejected
+  - nameplate_flagAce
+  - nameplate_flagAgend
+  - nameplate_flagBi
+  - nameplate_flagGendF
+  - nameplate_flagGendQ
+  - nameplate_flagLesbian
+  - nameplate_flagNonbinary
+  - nameplate_flagPan
+  - nameplate_flagPride
+  - nameplate_flagRainbow
+  - nameplate_flagTrans
+  - nameplate_flashlight
+  - nameplate_impostor
+  - nameplate_ninjas
+  - nameplate_polus
+  - nameplate_reactor
+  - nameplate_ripple
+  - nameplate_seeker
+  - nameplate_shhh
+  - pet_HolidayHamPet
+  - pet_nuggetPet
+  - pet_YuleGoatPet
+  - skin_benoit
+  - skin_Box1skin
+  - skin_BubbleWrapskin
+  - skin_Burlapskin
+  - skin_BushSign1skin
+  - skin_Horse1skin
+  - skin_Sack1skin
+  - visor_anime
+  - visor_beautyMark
+  - visor_Plsno
+  - visor_Stealthgoggles
+  - visor_teary
+  - visor_tvColorTest
+  - visor_wash
+  date: 2022-12-08

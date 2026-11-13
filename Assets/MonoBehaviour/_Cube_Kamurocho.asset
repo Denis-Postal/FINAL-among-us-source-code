@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 825ac4e4914361a3d7ea08f1b54d9d4f, type: 3}
+  m_Name: _Cube_Kamurocho
+  m_EditorClassIdentifier:
+  StoreImageRef:
+    m_AssetGUID: 7a3928629a2d544a6b6d2037f2f5a64a
+    m_SubObjectName:
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  CosmicubePrefabRef:
+    m_AssetGUID: bcb52d002ad8343ab8397e0b78925e61
+    m_SubObjectName:
+    m_SubObjectType:
+  podIconRef:
+    m_AssetGUID: a36f389ce97ab4bbdb40b56d84cd2227
+    m_SubObjectName:
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  DateCreated: 2/5/2025
+  allUnlockables:
+  - {fileID: 11400000, guid: ecf51bb28f4cfbf43b594ed4b4eff6fd, type: 2}
+  - {fileID: 11400000, guid: 7c0b1e168a33d50468e1f70449463143, type: 2}
+  - {fileID: 11400000, guid: fee5ebdcffe502b488d5f0c64662a6c6, type: 2}
+  - {fileID: 11400000, guid: 6938d298fdcc8c447ba4cfc55141cc76, type: 2}
+  - {fileID: 11400000, guid: aff3692a7e2864947915933a1276fcfb, type: 2}
+  - {fileID: 11400000, guid: b169e4cff33c6ea4e9e6826f78bf04ec, type: 2}
+  - {fileID: 11400000, guid: b4f52ebcf8972de47a61dddf12efd001, type: 2}
+  - {fileID: 11400000, guid: d88082b6e361dee48a4c89deeec9b440, type: 2}
+  - {fileID: 11400000, guid: f5cbcbb849e21a7408ff2db98f631072, type: 2}
+  - {fileID: 11400000, guid: d13139a2d90437f40bb96c501df42ae1, type: 2}
+  - {fileID: 11400000, guid: 772e83c6e0da19f418d58f0b5e148c57, type: 2}
+  - {fileID: 11400000, guid: 2c6bfad95e17c2646acd40208f4804ea, type: 2}
+  - {fileID: 11400000, guid: abec616c34a87514f8a54921e161f671, type: 2}
+  - {fileID: 11400000, guid: 4ed20136668350848ab43b1bfc6d8a28, type: 2}
+  - {fileID: 11400000, guid: 100d7e63d0c9dfe4882ddde24d99f5e8, type: 2}
+  - {fileID: 11400000, guid: bf846b2d125a0eb43b6f42b91f1541a1, type: 2}
+  - {fileID: 11400000, guid: 8ded27b24d598044fb04613ea6b65564, type: 2}
+  - {fileID: 11400000, guid: abdac5d0a8cbd8248ba9b2660c57e7a8, type: 2}
+  - {fileID: 11400000, guid: d8740dff6224b9148aa4c4a5317710ee, type: 2}
+  - {fileID: 11400000, guid: cfc2a679dd751d141ac70d44948a4388, type: 2}
+  - {fileID: 11400000, guid: e315af285371988498e3394127a185ed, type: 2}
+  - {fileID: 11400000, guid: bdb618b298a6ed24885d72d84e07d272, type: 2}
+  - {fileID: 11400000, guid: d1f7457af84e3464c931472aaac03ff5, type: 2}
+  - {fileID: 11400000, guid: fdd725ea52f8195419d04625f5b32c1e, type: 2}
+  - {fileID: 11400000, guid: 4a161b438f666504a93edc9c4a8ea329, type: 2}
+  - {fileID: 11400000, guid: 0ce52d79ba98bd74d9bfdafd609d3265, type: 2}
+  starCost: 110
+  beanCost: 0
+  Order: 0
+  Free: 0
+  NotInStore: 0
+  XRange:
+    min: -0.4
+    max: 0.5
+  YRange:
+    min: -0.3
+    max: 0.5
+  podId: kamurocho_2025
+  productId: cube_kamurocho_2025
+  cosmicubeName: Kamurocho
+  limitedTime:
+    timeStart:
+      limitedYear: 2025
+      limitedMonth: 3
+      limitedDay: 25
+      limitedHour: 17
+      limitedMinute: 0
+    timeEnd:
+      limitedYear: 2025
+      limitedMonth: 6
+      limitedDay: 23
+      limitedHour: 17
+      limitedMinute: 0
+  epicId:

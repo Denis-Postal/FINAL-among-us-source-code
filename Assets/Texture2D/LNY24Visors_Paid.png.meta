@@ -1,0 +1,991 @@
+fileFormatVersion: 2
+guid: 2ae22a2a6cfb1a042897008e0018d185
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: 2024_lny_star_visor_tiger0001
+  - first:
+      213: 21300002
+    second: 2024_LNY_star_visor_rat0001
+  - first:
+      213: 21300004
+    second: 2024_LNY_star_visor_pig0001
+  - first:
+      213: 21300006
+    second: 2024_LNY_star_visor_rat0002
+  - first:
+      213: 21300008
+    second: 2024_LNY_star_visor_dragon0003
+  - first:
+      213: 21300010
+    second: 2024_LNY_star_visor_snake0003
+  - first:
+      213: 21300012
+    second: 2024_LNY_star_visor_snake0001
+  - first:
+      213: 21300014
+    second: 2024_LNY_star_visor_snake0002
+  - first:
+      213: 21300016
+    second: 2024_LNY_star_visor_pig0002
+  - first:
+      213: 21300018
+    second: 2024_lny_star_visor_tiger0002
+  - first:
+      213: 21300020
+    second: 2024_lny_star_visor_tiger0003
+  - first:
+      213: 21300022
+    second: 2024_LNY_star_visor_pig0003
+  - first:
+      213: 21300024
+    second: 2024_LNY_star_visor_dragon0001
+  - first:
+      213: 21300026
+    second: 2024_LNY_star_visor_rat0003
+  - first:
+      213: 21300028
+    second: 2024_LNY_star_visor_dragon0002
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 25
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2024_lny_star_visor_tiger0001
+      rect:
+        serializedVersion: 2
+        x: 3.0761204
+        y: 5.026751
+        width: 115.92388
+        height: 43.973248
+      alignment: 9
+      pivot: {x: 0.24088116, y: 1.0227411}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -13.038061, y: 7.9866247}
+        - {x: -13.038061, y: 21.986624}
+        - {x: 19.961939, y: 21.986624}
+        - {x: 19.961939, y: -1.0133762}
+        - {x: -6.038061, y: -1.0133762}
+        - {x: -53.03806, y: -25.013376}
+        - {x: -60.03806, y: 14.986624}
+      - - {x: 27.961939, y: -13.013376}
+        - {x: 27.961939, y: 15.986624}
+        - {x: 57.961937, y: 15.986624}
+        - {x: 57.961937, y: -13.013376}
+      physicsShape:
+      - - {x: -36.038063, y: -2.0133762}
+        - {x: -45.03806, y: -4.0133743}
+        - {x: -53.03806, y: -12.013376}
+        - {x: -53.03806, y: -21.013376}
+        - {x: -45.03806, y: -21.013376}
+        - {x: -21.038061, y: -11.013376}
+        - {x: -21.038061, y: -2.0133762}
+      - - {x: 40.961937, y: -0.013374329}
+        - {x: 27.961939, y: -0.013374329}
+        - {x: 27.961939, y: -5.013376}
+        - {x: 43.961937, y: -13.013376}
+        - {x: 55.96193, y: -13.013376}
+        - {x: 56.961937, y: -10.013376}
+        - {x: 56.961937, y: -6.013376}
+        - {x: 50.961937, y: -1.0133762}
+      - - {x: -35.03806, y: 9.986624}
+        - {x: -56.038063, y: 9.986624}
+        - {x: -57.03806, y: 6.986624}
+        - {x: -57.03806, y: 1.9866238}
+        - {x: -54.038063, y: 0.98662376}
+        - {x: -37.038063, y: -1.0133762}
+        - {x: -25.038061, y: -1.0133762}
+        - {x: -24.038061, y: -0.013374329}
+        - {x: -24.038061, y: 4.986624}
+        - {x: -30.038061, y: 8.986624}
+      - - {x: -11.038061, y: 21.986624}
+        - {x: -14.038061, y: 17.986624}
+        - {x: -14.038061, y: 5.986624}
+        - {x: -13.038061, y: 1.9866238}
+        - {x: -11.038061, y: -1.0133762}
+        - {x: 19.961939, y: -1.0133762}
+        - {x: 19.961939, y: 19.986624}
+        - {x: 16.961939, y: 21.986624}
+      - - {x: 42.96193, y: 16.986624}
+        - {x: 28.961935, y: 6.986624}
+        - {x: 28.961935, y: 1.9866238}
+        - {x: 43.961937, y: 1.9866238}
+        - {x: 55.96193, y: 3.9866238}
+        - {x: 57.961937, y: 10.986624}
+        - {x: 57.961937, y: 13.986624}
+        - {x: 53.961937, y: 16.986624}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a691c285390e4b7daababdbcbf3495ce
+      internalID: 21300000
+      vertices:
+      - {x: 107.961945, y: -2.0133762}
+      - {x: 81.961945, y: -2.0133762}
+      - {x: 34.961945, y: -26.013376}
+      - {x: 27.961943, y: 13.986624}
+      - {x: 74.961945, y: 6.9866247}
+      - {x: 74.961945, y: 20.986624}
+      - {x: 107.961945, y: 20.986624}
+      - {x: 145.96194, y: -14.013376}
+      - {x: 115.961945, y: -14.013376}
+      - {x: 115.961945, y: 14.986624}
+      - {x: 145.96194, y: 14.986624}
+      indices: 04000000050000000600000002000000030000000400000001000000040000000600000001000000020000000400000000000000010000000600000008000000090000000a00000007000000080000000a000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_LNY_star_visor_rat0001
+      rect:
+        serializedVersion: 2
+        x: 174.07613
+        y: 168.07613
+        width: 56.92388
+        height: 30.880972
+      alignment: 9
+      pivot: {x: -0.54592425, y: 1.2280661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 28.46193, y: 19.483387}
+        - {x: 28.46193, y: -29.516613}
+        - {x: -39.53807, y: 5.483387}
+      physicsShape:
+      - - {x: -6.5380745, y: 14.483387}
+        - {x: -26.53807, y: 8.483387}
+        - {x: -28.53807, y: 4.483387}
+        - {x: -28.53807, y: -1.516613}
+        - {x: 2.4619293, y: -14.516613}
+        - {x: 22.46193, y: -14.516613}
+        - {x: 28.46193, y: -6.516613}
+        - {x: 28.46193, y: 12.483388}
+        - {x: 20.461922, y: 14.483387}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a370eabb1eaf4ae9b82ec8136a4b7967
+      internalID: 21300002
+      vertices:
+      - {x: 116.461945, y: -36.559513}
+      - {x: 48.461937, y: -1.559514}
+      - {x: 116.461945, y: 12.440486}
+      indices: 000000000100000002000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_LNY_star_visor_pig0001
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 205
+        width: 70
+        height: 51
+      alignment: 9
+      pivot: {x: -0.042857144, y: 1.137255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -35, y: -25.5}
+        - {x: -35, y: 25.5}
+        - {x: 34.999992, y: 25.5}
+        - {x: 34.999992, y: -25.5}
+      physicsShape:
+      - - {x: 34.999992, y: 11.500004}
+        - {x: 20, y: 25.500004}
+        - {x: -12, y: 25.500004}
+        - {x: -26, y: 23.500004}
+        - {x: -35, y: 11.500004}
+        - {x: -35, y: -15.499996}
+        - {x: -33, y: -25.499996}
+        - {x: 14, y: -25.499996}
+        - {x: 27, y: -24.499996}
+        - {x: 34.999992, y: -20.499992}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40594932dbe47c494aa36a03b29c997
+      internalID: 21300004
+      vertices:
+      - {x: 107.99999, y: -32.500004}
+      - {x: 38, y: -32.500004}
+      - {x: 38, y: 18.499996}
+      - {x: 107.99999, y: 18.499996}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_LNY_star_visor_rat0002
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 109
+        width: 81
+        height: 43
+      alignment: 9
+      pivot: {x: 0.56790125, y: 0.37209302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -40.499996, y: -21.5}
+        - {x: -40.499996, y: 21.499998}
+        - {x: 40.5, y: 21.499998}
+        - {x: 40.5, y: -21.5}
+      physicsShape:
+      - - {x: 29.5, y: 17.499998}
+        - {x: 9.5, y: 15.5}
+        - {x: -15.5, y: 21.499998}
+        - {x: -37.499996, y: 21.499998}
+        - {x: -40.499996, y: 3.5}
+        - {x: -40.499996, y: -14.5}
+        - {x: -31.5, y: -21.5}
+        - {x: 4.5, y: -21.5}
+        - {x: 28.499998, y: -15.499999}
+        - {x: 40.5, y: -9.5}
+        - {x: 40.5, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7f1cf36ebb4dbb91a59f88876e2d18
+      internalID: 21300006
+      vertices:
+      - {x: 75.5, y: 5.5}
+      - {x: -5.499996, y: 5.5}
+      - {x: -5.499996, y: 48.5}
+      - {x: 75.5, y: 48.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_LNY_star_visor_dragon0003
+      rect:
+        serializedVersion: 2
+        x: 6.026751
+        y: 311.05637
+        width: 194.89713
+        height: 49.930717
+      alignment: 9
+      pivot: {x: 0.54373944, y: -0.5819337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -91.47531, y: 4.9782715}
+        - {x: -39.47531, y: 26.978275}
+        - {x: -11.475309, y: 18.978268}
+        - {x: -50.475307, y: -20.021725}
+        - {x: -102.47531, y: -26.021725}
+      - - {x: 53.52469, y: -24.021727}
+        - {x: 14.524689, y: 21.978275}
+        - {x: 38.52469, y: 24.978275}
+        - {x: 88.52468, y: 7.9782753}
+        - {x: 104.52469, y: -24.021727}
+      physicsShape:
+      - - {x: -19.475311, y: 15.978275}
+        - {x: -19.475311, y: 22.978275}
+        - {x: -22.475311, y: 23.978275}
+        - {x: -48.47531, y: 23.978275}
+        - {x: -55.47531, y: 14.978275}
+        - {x: -69.47531, y: 7.9782753}
+        - {x: -86.47531, y: 8.978275}
+        - {x: -96.4753, y: -5.0217285}
+        - {x: -96.4753, y: -23.021725}
+        - {x: -94.47531, y: -24.021727}
+        - {x: -85.47531, y: -24.021727}
+        - {x: -78.47531, y: -20.021725}
+        - {x: -47.47531, y: -22.021725}
+        - {x: -40.475307, y: -3.0217247}
+      - - {x: 62.524685, y: 6.9782753}
+        - {x: 48.524685, y: 23.978275}
+        - {x: 28.524687, y: 23.978275}
+        - {x: 20.524689, y: 19.978275}
+        - {x: 20.524689, y: 15.978275}
+        - {x: 38.52469, y: 3.9782753}
+        - {x: 45.52469, y: -18.021725}
+        - {x: 60.52469, y: -24.021727}
+        - {x: 94.52468, y: -24.021727}
+        - {x: 97.52469, y: -23.021725}
+        - {x: 97.52469, y: -4.0217247}
+        - {x: 83.52469, y: 10.978275}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e0e85f2ccb441e98159fe47331f3ad
+      internalID: 21300008
+      vertices:
+      - {x: 77.44856, y: 97.96535}
+      - {x: 38.448566, y: 58.96536}
+      - {x: -13.551437, y: 52.96536}
+      - {x: -2.5514374, y: 83.965355}
+      - {x: 49.448563, y: 105.96536}
+      - {x: 177.44855, y: 86.96536}
+      - {x: 193.44856, y: 54.965355}
+      - {x: 142.44856, y: 54.965355}
+      - {x: 103.44856, y: 100.96536}
+      - {x: 127.44856, y: 103.96536}
+      indices: 010000000300000004000000010000000200000003000000000000000100000004000000070000000800000009000000050000000600000007000000050000000700000009000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_LNY_star_visor_snake0003
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 351
+        width: 27
+        height: 12
+      alignment: 9
+      pivot: {x: 0.8148148, y: -6.0833335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -13.5, y: -6.0000076}
+        - {x: -13.5, y: 6}
+        - {x: 13.5, y: 6}
+        - {x: 13.5, y: -6.0000076}
+      physicsShape:
+      - - {x: -13.5, y: -5}
+        - {x: -2.5, y: -6.0000076}
+        - {x: 13.5, y: -6.0000076}
+        - {x: 13.5, y: 4}
+        - {x: 4.5, y: 6}
+        - {x: -12.5, y: 6}
+        - {x: -13.5, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bc31bc12854dfeac5a0fa25c09ee19
+      internalID: 21300010
+      vertices:
+      - {x: 18.5, y: 78.99999}
+      - {x: -8.5, y: 78.99999}
+      - {x: -8.5, y: 91}
+      - {x: 18.5, y: 91}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_LNY_star_visor_snake0001
+      rect:
+        serializedVersion: 2
+        x: 194.07613
+        y: 259.02676
+        width: 43.92388
+        height: 48.973248
+      alignment: 9
+      pivot: {x: -0.27493304, y: 1.3267088}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -7.038069, y: -25.51339}
+        - {x: -25.038067, y: 24.48661}
+        - {x: 21.961933, y: 24.48661}
+        - {x: 21.961933, y: -23.51339}
+      physicsShape:
+      - - {x: 21.961933, y: 13.486612}
+        - {x: 21.961933, y: 17.486612}
+        - {x: 10.961933, y: 24.48661}
+        - {x: -10.038067, y: 24.48661}
+        - {x: -21.038067, y: 22.48661}
+        - {x: -21.038067, y: 10.486612}
+        - {x: -17.038067, y: 2.4866104}
+        - {x: -6.038067, y: 6.4866104}
+        - {x: -5.038067, y: -21.51339}
+        - {x: -0.038066864, y: -24.51339}
+        - {x: 16.961933, y: -24.51339}
+        - {x: 21.961933, y: -23.51339}
+        - {x: 21.961933, y: -10.51339}
+        - {x: 17.961933, y: 4.4866104}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff9f88c3fb04455ad2f9132ee8ecf43
+      internalID: 21300012
+      vertices:
+      - {x: 77.961945, y: -39.513374}
+      - {x: 48.961937, y: -41.513374}
+      - {x: 30.96194, y: 8.486624}
+      - {x: 77.961945, y: 8.486624}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_LNY_star_visor_snake0002
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 84
+        width: 58
+        height: 23
+      alignment: 9
+      pivot: {x: 0.6034483, y: 0.3478261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -29, y: -11.5}
+        - {x: -29, y: 11.499999}
+        - {x: 28.999998, y: 11.499999}
+        - {x: 28.999998, y: -11.5}
+      physicsShape:
+      - - {x: 9, y: 11.499999}
+        - {x: -16.999998, y: 11.499999}
+        - {x: -27, y: 9.5}
+        - {x: -29, y: 7.5}
+        - {x: -29, y: 0.5}
+        - {x: -27, y: -6.5}
+        - {x: -20.999998, y: -8.5}
+        - {x: 7, y: -11.5}
+        - {x: 28, y: -11.5}
+        - {x: 28.999998, y: -10.5}
+        - {x: 28.999998, y: 8.5}
+        - {x: 15, y: 9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f489afb1fb44218ef8b3f52095f87a
+      internalID: 21300014
+      vertices:
+      - {x: 52, y: 3.5}
+      - {x: -6, y: 3.5}
+      - {x: -6, y: 26.5}
+      - {x: 52, y: 26.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_LNY_star_visor_pig0002
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 6
+        width: 66
+        height: 43
+      alignment: 9
+      pivot: {x: 0.59090906, y: 0.3488372}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -33, y: -21.5}
+        - {x: -33, y: 21.5}
+        - {x: 33, y: 21.5}
+        - {x: 33, y: -21.5}
+      physicsShape:
+      - - {x: 33, y: 12.499999}
+        - {x: 15.999999, y: 21.5}
+        - {x: -19, y: 21.5}
+        - {x: -33, y: 11.499999}
+        - {x: -33, y: -10.500001}
+        - {x: -26, y: -19.5}
+        - {x: -16.999998, y: -21.5}
+        - {x: -6, y: -21.5}
+        - {x: 23, y: -20.5}
+        - {x: 33, y: -16.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f31b4feb3534b9cb735b7a17fc0310e
+      internalID: 21300016
+      vertices:
+      - {x: 60, y: 6.500001}
+      - {x: -6, y: 6.500001}
+      - {x: -6, y: 49.5}
+      - {x: 60, y: 49.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_lny_star_visor_tiger0002
+      rect:
+        serializedVersion: 2
+        x: 9.026751
+        y: 55.07612
+        width: 111.89713
+        height: 52.897125
+      alignment: 9
+      pivot: {x: 0.54490453, y: 0.31993952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 59.024685, y: -30.524681}
+        - {x: -63.97531, y: -18.524681}
+        - {x: -32.97531, y: 14.475319}
+        - {x: -41.97531, y: 42.47532}
+        - {x: -2.9753113, y: 3.475319}
+        - {x: 49.02469, y: 3.475319}
+      physicsShape:
+      - - {x: 42.02469, y: -1.5246811}
+        - {x: 24.024689, y: -12.524681}
+        - {x: 26.024689, y: -15.524681}
+        - {x: 31.024689, y: -16.524681}
+        - {x: 24.024689, y: -16.524681}
+        - {x: 22.024689, y: -18.524681}
+        - {x: 22.024689, y: -20.524681}
+        - {x: 29.024689, y: -25.524681}
+        - {x: 38.02469, y: -26.524681}
+        - {x: 54.024685, y: -26.524681}
+        - {x: 56.02469, y: -24.524681}
+        - {x: 56.02469, y: -7.524681}
+        - {x: 52.02469, y: -1.5246811}
+      - - {x: 26.024689, y: -0.5246811}
+        - {x: 19.024689, y: 2.475319}
+        - {x: 11.024689, y: 4.475319}
+        - {x: -2.9753113, y: 4.475319}
+        - {x: -11.975311, y: 2.475319}
+        - {x: -21.97531, y: -9.524681}
+        - {x: -21.97531, y: -14.524681}
+        - {x: -19.975311, y: -15.524681}
+        - {x: 1.0246887, y: -19.524681}
+        - {x: 11.024689, y: -19.524681}
+        - {x: 14.024689, y: -16.524681}
+        - {x: 23.024689, y: -9.524681}
+        - {x: 26.024689, y: -5.524681}
+      - - {x: -33.97531, y: -2.524681}
+        - {x: -47.975307, y: -2.524681}
+        - {x: -55.97531, y: -6.524681}
+        - {x: -55.97531, y: -17.524681}
+        - {x: -53.975307, y: -18.524681}
+        - {x: -44.97531, y: -18.524681}
+        - {x: -28.975311, y: -10.524681}
+        - {x: -28.975311, y: -6.524681}
+        - {x: -29.975311, y: -5.524681}
+      - - {x: -25.975311, y: 25.475319}
+        - {x: -33.97531, y: 25.475319}
+        - {x: -34.975307, y: 22.475319}
+        - {x: -34.975307, y: 14.475319}
+        - {x: -30.975311, y: 1.4753189}
+        - {x: -24.97531, y: -2.524681}
+        - {x: -19.975311, y: -2.524681}
+        - {x: -18.975311, y: -1.5246811}
+        - {x: -17.97531, y: 11.475319}
+        - {x: -17.97531, y: 18.475319}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6906b10167b245329cddc91a0620d4c6
+      internalID: 21300018
+      vertices:
+      - {x: 47.948566, y: 39.448563}
+      - {x: 99.94856, y: 39.448563}
+      - {x: 109.94856, y: 5.4485626}
+      - {x: -13.051434, y: 17.448563}
+      - {x: 17.948566, y: 50.448563}
+      - {x: 8.948566, y: 78.44856}
+      indices: 000000000200000003000000000000000100000002000000040000000500000000000000000000000300000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_lny_star_visor_tiger0003
+      rect:
+        serializedVersion: 2
+        x: 3.026751
+        y: 135.03629
+        width: 132.9465
+        height: 46.887592
+      alignment: 9
+      pivot: {x: 0.5639355, y: -0.70458484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -63.5, y: 23.519913}
+        - {x: -21.499998, y: -4.4800797}
+        - {x: -68.5, y: -32.48008}
+      - - {x: -18.499998, y: -2.4800835}
+        - {x: -19.5, y: 29.519913}
+        - {x: 25.5, y: 10.519913}
+        - {x: 52.5, y: 38.51992}
+        - {x: 75.49999, y: -12.48008}
+        - {x: -18.499998, y: -7.4800835}
+        - {x: -21.499998, y: -4.4800797}
+      physicsShape:
+      - - {x: -58.499992, y: -7.4800835}
+        - {x: -65.5, y: -11.48008}
+        - {x: -65.5, y: -22.48008}
+        - {x: -56.5, y: -22.48008}
+        - {x: -42.5, y: -18.48008}
+        - {x: -37.499996, y: -12.48008}
+        - {x: -37.499996, y: -8.48008}
+        - {x: -38.5, y: -7.4800835}
+      - - {x: 43.5, y: 0.51992035}
+        - {x: 34.5, y: -0.48007965}
+        - {x: 31.499998, y: -4.4800797}
+        - {x: 31.499998, y: -7.4800835}
+        - {x: 38.5, y: -10.480083}
+        - {x: 65.5, y: -10.480083}
+        - {x: 65.5, y: -2.4800835}
+        - {x: 62.499996, y: 0.51992035}
+      - - {x: -63.5, y: 11.51992}
+        - {x: -63.5, y: 4.5199203}
+        - {x: -60.5, y: -2.4800835}
+        - {x: -41.5, y: -6.4800797}
+        - {x: -29.5, y: -6.4800797}
+        - {x: -29.5, y: 0.51992035}
+        - {x: -32.5, y: 8.51992}
+        - {x: -44.499996, y: 11.51992}
+      - - {x: -15.5, y: 20.51992}
+        - {x: -18.499998, y: 17.51992}
+        - {x: -18.499998, y: -1.4800797}
+        - {x: -8.5, y: -1.4800797}
+        - {x: 16.5, y: 0.51992035}
+        - {x: 17.5, y: 4.5199203}
+        - {x: 15.5, y: 12.51992}
+        - {x: -1.499999, y: 20.51992}
+      - - {x: 37.5, y: 22.51992}
+        - {x: 22.5, y: 10.519913}
+        - {x: 22.5, y: 2.5199165}
+        - {x: 30.5, y: 2.5199165}
+        - {x: 46.5, y: 8.51992}
+        - {x: 51.499996, y: 12.51992}
+        - {x: 51.499996, y: 20.51992}
+        - {x: 50.5, y: 22.51992}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cfd2ca76264281a4c4b64b1dc313b8
+      internalID: 21300020
+      vertices:
+      - {x: 36.47325, y: 75.443794}
+      - {x: -10.526749, y: 47.443794}
+      - {x: -5.5267487, y: 103.44379}
+      - {x: 133.47324, y: 67.443794}
+      - {x: 39.47325, y: 72.443794}
+      - {x: 36.47325, y: 75.443794}
+      - {x: 39.47325, y: 77.443794}
+      - {x: 38.47325, y: 109.44379}
+      - {x: 83.47325, y: 90.44379}
+      - {x: 110.47325, y: 118.443794}
+      indices: 000000000100000002000000060000000700000008000000040000000600000008000000040000000500000006000000030000000400000008000000090000000300000008000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_LNY_star_visor_pig0003
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 60
+        width: 54
+        height: 22
+      alignment: 9
+      pivot: {x: 0.6666667, y: -3.090909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -27, y: -11}
+        - {x: -27, y: 11}
+        - {x: 27, y: 11}
+        - {x: 27, y: -11}
+      physicsShape:
+      - - {x: 19, y: 11}
+        - {x: -19, y: 11}
+        - {x: -20.999998, y: 10}
+        - {x: -27, y: -3}
+        - {x: -27, y: -11}
+        - {x: -20.999998, y: -11}
+        - {x: 5, y: -6.0000076}
+        - {x: 25, y: -11}
+        - {x: 27, y: -9}
+        - {x: 27, y: -2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9097da494424c5a84253a7c19580eed
+      internalID: 21300022
+      vertices:
+      - {x: 45, y: 79}
+      - {x: -9, y: 79}
+      - {x: -9, y: 101}
+      - {x: 45, y: 101}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_LNY_star_visor_dragon0001
+      rect:
+        serializedVersion: 2
+        x: 8.026751
+        y: 209.03629
+        width: 152.97325
+        height: 49.887592
+      alignment: 9
+      pivot: {x: 0.36590222, y: 1.1418413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 76.486626, y: 22.01992}
+        - {x: 76.486626, y: -34.980072}
+        - {x: 18.486626, y: 0.01992035}
+        - {x: 27.486626, y: 23.01992}
+      - - {x: -70.513374, y: 5.0199223}
+        - {x: -19.513374, y: 31.01992}
+        - {x: 12.486626, y: 18.01992}
+        - {x: 9.486624, y: -4.9800797}
+        - {x: -36.513374, y: -21.980076}
+        - {x: -83.513374, y: -21.980076}
+      physicsShape:
+      - - {x: 56.486626, y: 22.01992}
+        - {x: 40.486626, y: 22.01992}
+        - {x: 25.486622, y: 19.01992}
+        - {x: 24.486626, y: 16.01992}
+        - {x: 24.486626, y: -0.98007965}
+        - {x: 26.486626, y: -5.9800797}
+        - {x: 56.486626, y: -12.98008}
+        - {x: 60.486626, y: -23.98008}
+        - {x: 71.48662, y: -23.98008}
+        - {x: 76.486626, y: -12.98008}
+        - {x: 76.486626, y: 7.0199203}
+        - {x: 69.486626, y: 12.019922}
+      - - {x: 4.4866257, y: 20.01992}
+        - {x: -0.51337624, y: 22.01992}
+        - {x: -4.5133743, y: 24.01992}
+        - {x: -21.513374, y: 24.01992}
+        - {x: -32.513374, y: 16.01992}
+        - {x: -62.513374, y: 10.01992}
+        - {x: -75.513374, y: -1.9800797}
+        - {x: -75.513374, y: -21.980076}
+        - {x: -39.513374, y: -21.980076}
+        - {x: -28.513374, y: -20.980076}
+        - {x: 8.486626, y: -6.9800797}
+        - {x: 11.486626, y: 5.0199223}
+        - {x: 11.486626, y: 13.01992}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1faa319a373b4ea0a3634b83d97bf9d4
+      internalID: 21300024
+      vertices:
+      - {x: 173.48663, y: 14.943797}
+      - {x: 173.48663, y: -42.0562}
+      - {x: 115.486626, y: -7.056204}
+      - {x: 124.486626, y: 15.943796}
+      - {x: 109.486626, y: 10.943796}
+      - {x: 106.486626, y: -12.056204}
+      - {x: 60.486626, y: -29.0562}
+      - {x: 13.486626, y: -29.0562}
+      - {x: 26.486626, y: -2.056202}
+      - {x: 77.486626, y: 23.943796}
+      indices: 000000000100000002000000000000000200000003000000060000000800000009000000060000000700000008000000050000000600000009000000040000000500000009000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_LNY_star_visor_rat0003
+      rect:
+        serializedVersion: 2
+        x: 127.051315
+        y: 53.076122
+        width: 48.872562
+        height: 44.847755
+      alignment: 9
+      pivot: {x: 0.6741755, y: -1.5179383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 17.512403, y: 17.499992}
+        - {x: 26.512403, y: -21.5}
+        - {x: -25.487597, y: -22.5}
+        - {x: -13.4875965, y: 31.5}
+      physicsShape:
+      - - {x: 14.5124035, y: 20.5}
+        - {x: 6.5124035, y: 21.5}
+        - {x: -13.4875965, y: 21.5}
+        - {x: -19.487597, y: 2.5}
+        - {x: -23.487597, y: -14.5}
+        - {x: -23.487597, y: -21.5}
+        - {x: 23.512402, y: -21.5}
+        - {x: 23.512402, y: -3.5}
+        - {x: 20.512403, y: 11.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c671fd869784569977d31fec28a81c3
+      internalID: 21300026
+      vertices:
+      - {x: 33.43628, y: 130.42387}
+      - {x: 42.43628, y: 91.423874}
+      - {x: -9.563719, y: 90.423874}
+      - {x: 2.4362812, y: 144.42387}
+      indices: 000000000100000002000000000000000200000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_LNY_star_visor_dragon0002
+      rect:
+        serializedVersion: 2
+        x: 16.02675
+        y: 267.05133
+        width: 172.97325
+        height: 39.905777
+      alignment: 9
+      pivot: {x: 0.5721882, y: 0.72542554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -38.513374, y: -20.00422}
+        - {x: -101.513374, y: -17.00422}
+        - {x: -65.513374, y: 20.99578}
+        - {x: 86.486626, y: 18.99578}
+        - {x: 86.486626, y: -13.004219}
+        - {x: 19.486626, y: -13.004219}
+      physicsShape:
+      - - {x: 13.486626, y: 2.995781}
+        - {x: -0.5133743, y: 17.99578}
+        - {x: -4.5133743, y: 19.99578}
+        - {x: -34.513374, y: 19.99578}
+        - {x: -41.51337, y: 5.995781}
+        - {x: -52.513374, y: 12.995781}
+        - {x: -77.513374, y: 11.995781}
+        - {x: -85.51337, y: -2.004219}
+        - {x: -85.51337, y: -17.00422}
+        - {x: -79.51337, y: -19.00422}
+        - {x: -33.51337, y: -19.00422}
+        - {x: -21.513374, y: -12.004219}
+        - {x: 2.4866266, y: -16.00422}
+        - {x: 13.486626, y: -9.004219}
+      - - {x: 71.48662, y: 14.995781}
+        - {x: 62.486626, y: 15.995781}
+        - {x: 37.486626, y: 15.995781}
+        - {x: 27.486626, y: 10.995781}
+        - {x: 19.486626, y: 1.995781}
+        - {x: 19.486626, y: -14.004217}
+        - {x: 85.48662, y: -14.004217}
+        - {x: 86.486626, y: -9.004219}
+        - {x: 86.486626, y: 2.995781}
+        - {x: 85.48662, y: 2.995781}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e0a0f376174762a3ea6fa751c33bae
+      internalID: 21300028
+      vertices:
+      - {x: 160.48663, y: 29.952888}
+      - {x: 160.48663, y: -2.0471115}
+      - {x: 93.486626, y: -2.0471115}
+      - {x: 35.486626, y: -9.0471115}
+      - {x: -27.513374, y: -6.0471115}
+      - {x: 8.486626, y: 31.952888}
+      indices: 030000000400000005000000020000000300000005000000000000000100000002000000000000000200000005000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      2024_LNY_star_visor_dragon0001: 21300024
+      2024_LNY_star_visor_dragon0002: 21300028
+      2024_LNY_star_visor_dragon0003: 21300008
+      2024_LNY_star_visor_pig0001: 21300004
+      2024_LNY_star_visor_pig0002: 21300016
+      2024_LNY_star_visor_pig0003: 21300022
+      2024_LNY_star_visor_rat0001: 21300002
+      2024_LNY_star_visor_rat0002: 21300006
+      2024_LNY_star_visor_rat0003: 21300026
+      2024_LNY_star_visor_snake0001: 21300012
+      2024_LNY_star_visor_snake0002: 21300014
+      2024_LNY_star_visor_snake0003: 21300010
+      2024_lny_star_visor_tiger0001: 21300000
+      2024_lny_star_visor_tiger0002: 21300018
+      2024_lny_star_visor_tiger0003: 21300020
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

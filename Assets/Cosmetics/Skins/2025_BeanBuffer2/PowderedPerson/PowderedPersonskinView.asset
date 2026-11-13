@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2efda0ea3e7a348e06d332b81853bee7, type: 3}
+  m_Name: PowderedPersonskinView
+  m_EditorClassIdentifier:
+  IdleFrame: {fileID: 21300816, guid: 28d7c568dcf97524999aa87016b732f8, type: 3}
+  EjectFrame: {fileID: 21300856, guid: 28d7c568dcf97524999aa87016b732f8, type: 3}
+  RelatedHat: {fileID: 0}
+  RelatedVisor: {fileID: 0}
+  MatchPlayerColor: 0
+  IdleAnim: {fileID: 7400000, guid: ee2951917d4320a4f9b7d4de9bb5c123, type: 2}
+  IdleLeftAnim: {fileID: 0}
+  RunAnim: {fileID: 7400000, guid: e7dec1d6779b30646adc0d587cd469ac, type: 2}
+  RunLeftAnim: {fileID: 0}
+  EnterVentAnim: {fileID: 7400000, guid: 5b3c5751fc72d99438f2f0ac867a0dfc, type: 2}
+  ExitVentAnim: {fileID: 7400000, guid: 9f8392c3649c9d54c832e94248b0cec2, type: 2}
+  EnterLeftVentAnim: {fileID: 0}
+  ExitLeftVentAnim: {fileID: 0}
+  ClimbAnim: {fileID: 7400000, guid: defdf9be0074e7b4cbd43d740d1218d5, type: 2}
+  ClimbDownAnim: {fileID: 7400000, guid: 071bf5b667e446044b84f603f471197f, type: 2}
+  SpawnAnim: {fileID: 7400000, guid: 97bd1fad95b3a674a9d531a32affadc0, type: 2}
+  SpawnLeftAnim: {fileID: 0}
+  KillTongueImpostor: {fileID: 7400000, guid: 47c49ccbd6ec2b94abc76c9f1fbc821d, type: 2}
+  KillTongueVictim: {fileID: 7400000, guid: 493fb0dcd4bc2e943a3773316ea15ee8, type: 2}
+  KillShootImpostor: {fileID: 7400000, guid: 814f6d68c203e1649bde4c0107d79385, type: 2}
+  KillShootVictim: {fileID: 7400000, guid: 6a1be06ec737b5c42b507703753e4f97, type: 2}
+  KillNeckImpostor: {fileID: 7400000, guid: aef60c4c1fe192143b2740317ac0cb73, type: 2}
+  KillNeckVictim: {fileID: 7400000, guid: 1faa73a784adf8840990fbe1fe3b4edd, type: 2}
+  KillStabImpostor: {fileID: 7400000, guid: e73424cd143c68c429156290cd686c74, type: 2}
+  KillStabVictim: {fileID: 7400000, guid: 0bcbd477cbfdbb948b3e0ec3f05c286e, type: 2}
+  KillRHMVictim: {fileID: 7400000, guid: 347a58bfbe05c3e41a8762e68874ed48, type: 2}
+  CustomKillAnimID: 0
+  VisorID_KillAnim:
+  HatID_KillAnim:

@@ -1,0 +1,1191 @@
+fileFormatVersion: 2
+guid: b589e0bd89868e845b0ed08917a41c6c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: animated-ruby_sparkle0004
+  - first:
+      213: 21300002
+    second: animated-ruby_sparkle0001
+  - first:
+      213: 21300004
+    second: animated-ruby_sparkle0010
+  - first:
+      213: 21300006
+    second: ruby_mark1
+  - first:
+      213: 21300008
+    second: animated-ruby_sparkle0008
+  - first:
+      213: 21300010
+    second: ruby_mark6
+  - first:
+      213: 21300012
+    second: ruby_mark4
+  - first:
+      213: 21300014
+    second: animated-ruby_sparkle0003
+  - first:
+      213: 21300016
+    second: animated-ruby_sparkle0011
+  - first:
+      213: 21300018
+    second: animated-ruby_sparkle0005
+  - first:
+      213: 21300020
+    second: animated-ruby_sparkle0006
+  - first:
+      213: 21300022
+    second: ruby_mark7
+  - first:
+      213: 21300024
+    second: ruby_mark2
+  - first:
+      213: 21300026
+    second: ruby_ruby
+  - first:
+      213: 21300028
+    second: animated-ruby_sparkle0012
+  - first:
+      213: 21300030
+    second: ruby_mark5
+  - first:
+      213: 21300032
+    second: animated-ruby_sparkle0009
+  - first:
+      213: 21300034
+    second: animated-ruby_sparkle0007
+  - first:
+      213: 21300036
+    second: ruby_mark3
+  - first:
+      213: 21300038
+    second: animated-ruby_sparkle0002
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: animated-ruby_sparkle0004
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 256
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5277778, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 4, y: 9.999999}
+        - {x: 9, y: 9.999999}
+        - {x: 5, y: -9.999999}
+        - {x: -9, y: -9.999999}
+        - {x: -5, y: 4}
+      physicsShape:
+      - - {x: 2.9999998, y: 9.999999}
+        - {x: -6, y: 3}
+        - {x: -8, y: -9.999999}
+        - {x: 2, y: -9.999999}
+        - {x: 7.9999995, y: -4.9999995}
+        - {x: 9, y: 9.999999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed846cbd8794a8eb3762015eb8d3dd4
+      internalID: 21300000
+      vertices:
+      - {x: 13.5, y: 0.0000009536743}
+      - {x: -0.5, y: 0.0000009536743}
+      - {x: 3.5, y: 14}
+      - {x: 12.5, y: 20}
+      - {x: 17.5, y: 20}
+      indices: 000000000300000004000000000000000200000003000000000000000100000002000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-ruby_sparkle0001
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 539
+        width: 7
+        height: 16
+      alignment: 9
+      pivot: {x: 0.64285713, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -3.5, y: -7.999999}
+        - {x: -3.5, y: 8}
+        - {x: 3.4999998, y: 8}
+        - {x: 3.4999998, y: -7.999999}
+      physicsShape:
+      - - {x: 0.5, y: 8}
+        - {x: -3.5, y: 5}
+        - {x: -3.5, y: -7.999999}
+        - {x: 2.5, y: -7.999999}
+        - {x: 3.4999998, y: -6}
+        - {x: 3.4999998, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5555e5acdc1547fc97685dc89d7bac10
+      internalID: 21300002
+      vertices:
+      - {x: 6, y: -1.999999}
+      - {x: -1, y: -1.999999}
+      - {x: -1, y: 14}
+      - {x: 6, y: 14}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-ruby_sparkle0010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 244
+        width: 30
+        height: 10
+      alignment: 9
+      pivot: {x: 0.45, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -14.999999, y: -5}
+        - {x: -14.999999, y: 5}
+        - {x: 5, y: 5}
+        - {x: 15, y: -5}
+      physicsShape:
+      - - {x: -14, y: 5}
+        - {x: -14.999999, y: 4}
+        - {x: -14.999999, y: -2}
+        - {x: 0, y: -5}
+        - {x: 11.999999, y: -5}
+        - {x: 11.999999, y: -3}
+        - {x: 11, y: 0}
+        - {x: 0, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2ad520472248ba86ed3f1a59cb7a3c
+      internalID: 21300004
+      vertices:
+      - {x: 31.5, y: -1}
+      - {x: 1.500001, y: -1}
+      - {x: 1.500001, y: 9}
+      - {x: 21.5, y: 9}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby_mark1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 419
+        width: 41
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -20.5, y: 28}
+        - {x: 20.5, y: 28}
+        - {x: 20.5, y: -13}
+        - {x: 1.5, y: -28}
+        - {x: -20.5, y: -28}
+      physicsShape:
+      - - {x: 16.5, y: 28}
+        - {x: -8.5, y: 28}
+        - {x: -15.5, y: 26.999998}
+        - {x: -20.5, y: 16}
+        - {x: -20.5, y: -11}
+        - {x: -11.499999, y: -28}
+        - {x: 2.4999998, y: -28}
+        - {x: 5.5, y: -26}
+        - {x: 20.5, y: -8}
+        - {x: 20.5, y: 22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfeb802004642498684649cbbd48bd3
+      internalID: 21300006
+      vertices:
+      - {x: 41, y: 15}
+      - {x: 22, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 56}
+      - {x: 41, y: 56}
+      indices: 000000000300000004000000010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-ruby_sparkle0008
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 543
+        width: 35
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -17.5, y: -6}
+        - {x: -17.5, y: 5.9999995}
+        - {x: 17.5, y: 5.9999995}
+        - {x: 17.5, y: -6}
+      physicsShape:
+      - - {x: -13.499999, y: -6}
+        - {x: 12.5, y: -6}
+        - {x: 17.5, y: -3.9999995}
+        - {x: 17.5, y: 3}
+        - {x: 12.5, y: 5.9999995}
+        - {x: -12.5, y: 5.9999995}
+        - {x: -17.5, y: 3}
+        - {x: -17.5, y: -3.9999995}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a033abec3c4b3f90a11b7918476dad
+      internalID: 21300008
+      vertices:
+      - {x: 35, y: -1}
+      - {x: 0, y: -1}
+      - {x: 0, y: 11}
+      - {x: 35, y: 11}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby_mark6
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 482
+        width: 39
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -19.5, y: 36.499996}
+        - {x: 4.5, y: 36.499996}
+        - {x: 19.5, y: 5.5}
+        - {x: 19.5, y: -36.499996}
+        - {x: -19.5, y: -36.499996}
+      physicsShape:
+      - - {x: -1.5, y: 36.499996}
+        - {x: -15.5, y: 36.499996}
+        - {x: -17.5, y: 35.5}
+        - {x: -19.5, y: 32.5}
+        - {x: -19.5, y: -15.5}
+        - {x: -4.5, y: -26.499998}
+        - {x: -0.5, y: -36.499996}
+        - {x: 16.5, y: -36.499996}
+        - {x: 19.5, y: -35.5}
+        - {x: 19.5, y: 5.5}
+        - {x: 14.5, y: 15.5}
+      - - {x: 16.5, y: 19.5}
+        - {x: 18.5, y: 17.5}
+        - {x: 19.5, y: 17.5}
+        - {x: 19.5, y: 22.5}
+        - {x: 17.5, y: 22.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba88c4c58f9a4edc8a41da9e4b91f0f4
+      internalID: 21300010
+      vertices:
+      - {x: 39, y: 42}
+      - {x: 39, y: 0.0000038146973}
+      - {x: 0, y: 0.0000038146973}
+      - {x: 0, y: 73}
+      - {x: 24, y: 73}
+      indices: 000000000300000004000000000000000100000002000000000000000200000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby_mark4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 80
+        width: 21
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -10.5, y: -28}
+        - {x: -10.5, y: 28}
+        - {x: 10.5, y: 28}
+        - {x: 10.5, y: -28}
+      physicsShape:
+      - - {x: -10.5, y: 28}
+        - {x: -10.5, y: -9}
+        - {x: -2.4999998, y: -18}
+        - {x: 5.5, y: -28}
+        - {x: 10.5, y: -28}
+        - {x: 10.5, y: 13}
+        - {x: 3.5, y: 28}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7240b53157c14d6c87f7e33ba27edd5d
+      internalID: 21300012
+      vertices:
+      - {x: 21, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 56}
+      - {x: 21, y: 56}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-ruby_sparkle0003
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 256
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5277778, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 4, y: 9.999999}
+        - {x: 9, y: 9.999999}
+        - {x: 5, y: -9.999999}
+        - {x: -9, y: -9.999999}
+        - {x: -5, y: 4}
+      physicsShape:
+      - - {x: 2.9999998, y: 9.999999}
+        - {x: -6, y: 3}
+        - {x: -8, y: -9.999999}
+        - {x: 2, y: -9.999999}
+        - {x: 7.9999995, y: -4.9999995}
+        - {x: 9, y: 9.999999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc56997129e45eea5ee957022defc63
+      internalID: 21300014
+      vertices:
+      - {x: 13.5, y: 0.0000009536743}
+      - {x: -0.5, y: 0.0000009536743}
+      - {x: 3.5, y: 14}
+      - {x: 12.5, y: 20}
+      - {x: 17.5, y: 20}
+      indices: 000000000300000004000000000000000200000003000000000000000100000002000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-ruby_sparkle0011
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 546
+        width: 8
+        height: 9
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.5555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -4, y: -4.4999995}
+        - {x: -4, y: 4.5}
+        - {x: 4, y: 4.5}
+        - {x: 4, y: -4.4999995}
+      physicsShape:
+      - - {x: -2.9999998, y: 4.5}
+        - {x: -2.9999998, y: -2.5}
+        - {x: 0, y: -3.5}
+        - {x: 1.9999998, y: -3.5}
+        - {x: 4, y: -0.5}
+        - {x: 4, y: 0.5}
+        - {x: 0, y: 4.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aecce25502e488da12e835f92502680
+      internalID: 21300016
+      vertices:
+      - {x: 8.5, y: -0.49999952}
+      - {x: 0.5, y: -0.49999952}
+      - {x: 0.5, y: 8.5}
+      - {x: 8.5, y: 8.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-ruby_sparkle0005
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 536
+        width: 35
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -17.5, y: 3.5}
+        - {x: 17.5, y: 9.5}
+        - {x: 17.5, y: -9.499999}
+        - {x: -17.5, y: -9.499999}
+      physicsShape:
+      - - {x: 5.5, y: 8.5}
+        - {x: -3.5, y: 7.5}
+        - {x: -17.5, y: -6.5}
+        - {x: -16.5, y: -9.499999}
+        - {x: -12.5, y: -9.499999}
+        - {x: -0.5, y: -8.5}
+        - {x: 17.5, y: 4.5}
+        - {x: 17.5, y: 8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908607d65f4a43f3a3f7688b0c713049
+      internalID: 21300018
+      vertices:
+      - {x: 35, y: -0.49999905}
+      - {x: 0, y: -0.49999905}
+      - {x: 0, y: 12.5}
+      - {x: 35, y: 18.5}
+      indices: 000000000200000003000000000000000100000002000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-ruby_sparkle0006
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 536
+        width: 35
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -17.5, y: 3.5}
+        - {x: 17.5, y: 9.5}
+        - {x: 17.5, y: -9.499999}
+        - {x: -17.5, y: -9.499999}
+      physicsShape:
+      - - {x: 5.5, y: 8.5}
+        - {x: -3.5, y: 7.5}
+        - {x: -17.5, y: -6.5}
+        - {x: -16.5, y: -9.499999}
+        - {x: -12.5, y: -9.499999}
+        - {x: -0.5, y: -8.5}
+        - {x: 17.5, y: 4.5}
+        - {x: 17.5, y: 8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e40bebd42034838a220a35d2fb13a3e
+      internalID: 21300020
+      vertices:
+      - {x: 35, y: -0.49999905}
+      - {x: 0, y: -0.49999905}
+      - {x: 0, y: 12.5}
+      - {x: 35, y: 18.5}
+      indices: 000000000200000003000000000000000100000002000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby_mark7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 187
+        width: 36
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -18, y: -2.4999998}
+        - {x: -18, y: 27.5}
+        - {x: 18, y: 27.5}
+        - {x: 18, y: -27.5}
+        - {x: -4.9999995, y: -27.5}
+        - {x: -11, y: -22.5}
+      physicsShape:
+      - - {x: 3, y: 27.5}
+        - {x: -14.999999, y: 27.5}
+        - {x: -18, y: 22.5}
+        - {x: -18, y: -23.5}
+        - {x: -6, y: -27.5}
+        - {x: 18, y: -27.5}
+        - {x: 18, y: -1.5}
+        - {x: 7, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0ce514f6eb4aa680a504209b660c4a
+      internalID: 21300022
+      vertices:
+      - {x: 36, y: 0}
+      - {x: 13, y: 0}
+      - {x: 7, y: 5}
+      - {x: 0, y: 25}
+      - {x: 0, y: 55}
+      - {x: 36, y: 55}
+      indices: 030000000400000005000000000000000300000005000000020000000300000000000000020000000000000001000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby_mark2
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 522
+        width: 39
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -19.5, y: -0.5}
+        - {x: -19.5, y: 16.5}
+        - {x: 19.5, y: 16.5}
+        - {x: 19.5, y: -16.5}
+        - {x: -3.5, y: -16.5}
+      physicsShape:
+      - - {x: -13.499999, y: -16.5}
+        - {x: -14.5, y: -13.499999}
+        - {x: -19.5, y: -11.499999}
+        - {x: -19.5, y: -16.5}
+      - - {x: -19.5, y: 16.5}
+        - {x: -19.5, y: -5.5}
+        - {x: -9.5, y: -15.5}
+        - {x: -5.5, y: -16.5}
+        - {x: 19.5, y: -16.5}
+        - {x: 19.5, y: 8.5}
+        - {x: 14.5, y: 16.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2d9947be1d4bd7b94125d71e6a8502
+      internalID: 21300024
+      vertices:
+      - {x: 39, y: 0}
+      - {x: 16, y: 0}
+      - {x: 0, y: 16}
+      - {x: 0, y: 33}
+      - {x: 39, y: 33}
+      indices: 020000000300000004000000010000000200000004000000000000000100000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby_ruby
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 414
+        height: 553
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -75, y: 275.5}
+        - {x: -74, y: 276.5}
+        - {x: -62, y: 276.5}
+        - {x: 132, y: 159.49998}
+        - {x: 207, y: -61.5}
+        - {x: 207, y: -78.5}
+        - {x: 105.99999, y: -276.5}
+        - {x: 94, y: -276.5}
+        - {x: -116.99999, y: -172.49998}
+        - {x: -207, y: 66.5}
+        - {x: -207, y: 81.5}
+      physicsShape:
+      - - {x: 158, y: -171.49998}
+        - {x: 169, y: -150.5}
+        - {x: 170.99998, y: -148.5}
+        - {x: 207, y: -75.5}
+        - {x: 207, y: -62.5}
+        - {x: 183, y: 7.4999995}
+        - {x: 144, y: 121.49999}
+        - {x: 136, y: 144.5}
+        - {x: 133, y: 154.5}
+        - {x: 129, y: 159.49998}
+        - {x: 103, y: 175.5}
+        - {x: 74, y: 192.5}
+        - {x: 65, y: 198.5}
+        - {x: 51, y: 206.5}
+        - {x: 42, y: 212.5}
+        - {x: 34, y: 216.5}
+        - {x: 29, y: 220.5}
+        - {x: 16, y: 227.49998}
+        - {x: 1, y: 237.5}
+        - {x: -9, y: 243.5}
+        - {x: -19.999998, y: 250.49998}
+        - {x: -41, y: 262.5}
+        - {x: -45, y: 265.5}
+        - {x: -59.999996, y: 274.5}
+        - {x: -64, y: 276.5}
+        - {x: -74, y: 276.5}
+        - {x: -78, y: 272.5}
+        - {x: -81, y: 266.5}
+        - {x: -88, y: 256.5}
+        - {x: -112, y: 220.5}
+        - {x: -118.99999, y: 210.5}
+        - {x: -146.99998, y: 168.5}
+        - {x: -154, y: 158.49998}
+        - {x: -170, y: 134.5}
+        - {x: -175, y: 126.5}
+        - {x: -191, y: 103.5}
+        - {x: -197.99998, y: 93.5}
+        - {x: -202, y: 87.5}
+        - {x: -207, y: 79.49999}
+        - {x: -207, y: 66.5}
+        - {x: -202, y: 56.5}
+        - {x: -201, y: 51.5}
+        - {x: -199, y: 46.5}
+        - {x: -194, y: 33.499996}
+        - {x: -192, y: 28.5}
+        - {x: -187, y: 15.5}
+        - {x: -184.99998, y: 10.5}
+        - {x: -180, y: -2.4999998}
+        - {x: -176, y: -12.5}
+        - {x: -171.99998, y: -20.5}
+        - {x: -170.99998, y: -25.5}
+        - {x: -165, y: -38.5}
+        - {x: -164, y: -43.5}
+        - {x: -162, y: -48.5}
+        - {x: -157, y: -61.5}
+        - {x: -153, y: -71.5}
+        - {x: -149, y: -79.49999}
+        - {x: -148, y: -84.5}
+        - {x: -142, y: -97.5}
+        - {x: -141, y: -102.5}
+        - {x: -137, y: -112.5}
+        - {x: -132, y: -125.5}
+        - {x: -130, y: -130.5}
+        - {x: -125, y: -143.5}
+        - {x: -120.99999, y: -153.5}
+        - {x: -116, y: -166.5}
+        - {x: -112, y: -171.49998}
+        - {x: -45.999996, y: -204.49998}
+        - {x: -44, y: -206.5}
+        - {x: 7, y: -231.5}
+        - {x: 9, y: -233.5}
+        - {x: 79.99999, y: -268.5}
+        - {x: 82, y: -270.5}
+        - {x: 95, y: -276.5}
+        - {x: 104.99999, y: -276.5}
+        - {x: 106.99999, y: -275.5}
+        - {x: 155, y: -178.5}
+        - {x: 158, y: -173.5}
+      - - {x: -195.99998, y: -139.5}
+        - {x: -197.99998, y: -139.5}
+        - {x: -205, y: -142.5}
+        - {x: -207, y: -145.5}
+        - {x: -207, y: -172.49998}
+        - {x: -202, y: -190.5}
+        - {x: -190, y: -201.49998}
+        - {x: -183, y: -201.49998}
+        - {x: -183, y: -180.5}
+        - {x: -189, y: -145.5}
+      - - {x: -170, y: -95.5}
+        - {x: -168, y: -87.5}
+        - {x: -168, y: -77.5}
+        - {x: -174, y: -55.5}
+        - {x: -183.99998, y: -40.5}
+        - {x: -190, y: -33.499996}
+        - {x: -200, y: -33.499996}
+        - {x: -207, y: -40.5}
+        - {x: -207, y: -67.5}
+        - {x: -202, y: -83.5}
+        - {x: -195, y: -91.5}
+        - {x: -186, y: -92.49999}
+        - {x: -205, y: -108.49999}
+        - {x: -207, y: -116.5}
+        - {x: -207, y: -135.5}
+        - {x: -194, y: -143.5}
+        - {x: -187, y: -143.5}
+        - {x: -178, y: -133.49998}
+        - {x: -168, y: -118.49999}
+        - {x: -168, y: -115.5}
+      - - {x: -188, y: -0.5}
+        - {x: -189, y: 0.5}
+        - {x: -192, y: 0.5}
+        - {x: -204, y: -9.5}
+        - {x: -207, y: -19.5}
+        - {x: -207, y: -31.5}
+        - {x: -192, y: -34.5}
+        - {x: -180, y: -34.5}
+        - {x: -180, y: -32.5}
+        - {x: -181, y: -29.499998}
+        - {x: -193, y: -23.5}
+      - - {x: -170, y: 208.5}
+        - {x: -167, y: 223.49998}
+        - {x: -169, y: 233.5}
+        - {x: -167, y: 226.49998}
+        - {x: -148, y: 199.5}
+        - {x: -128, y: 205.5}
+        - {x: -127, y: 212.5}
+        - {x: -127, y: 229.49998}
+        - {x: -130, y: 243.5}
+        - {x: -135, y: 255.49998}
+        - {x: -144, y: 265.5}
+        - {x: -152, y: 276.5}
+        - {x: -164, y: 276.5}
+        - {x: -171.99998, y: 266.5}
+        - {x: -182, y: 276.5}
+        - {x: -201, y: 276.5}
+        - {x: -205, y: 274.5}
+        - {x: -207, y: 262.5}
+        - {x: -207, y: 201.49998}
+        - {x: -201, y: 196.49998}
+        - {x: -193, y: 195.5}
+        - {x: -190, y: 195.5}
+        - {x: -186, y: 199.5}
+        - {x: -183.99998, y: 199.5}
+        - {x: -187, y: 197.49998}
+        - {x: -188, y: 195.5}
+        - {x: -190, y: 195.5}
+        - {x: -200, y: 191.5}
+        - {x: -207, y: 186.5}
+        - {x: -207, y: 153.5}
+        - {x: -197.99998, y: 140.5}
+        - {x: -196.99998, y: 139.5}
+        - {x: -184.99998, y: 139.5}
+        - {x: -170, y: 152.5}
+        - {x: -158, y: 169.5}
+        - {x: -173, y: 200.49998}
+      - - {x: 9.999999, y: 275.5}
+        - {x: 4.9999995, y: 276.5}
+        - {x: -26, y: 276.5}
+        - {x: -28, y: 273.5}
+        - {x: -28, y: 261.5}
+        - {x: -26.999998, y: 257.5}
+        - {x: -24, y: 259.5}
+        - {x: -22, y: 261.5}
+        - {x: -9, y: 246.49998}
+        - {x: 6, y: 240.5}
+        - {x: 13, y: 240.5}
+        - {x: 22, y: 251.49998}
+        - {x: 22.999998, y: 256.5}
+        - {x: 22.999998, y: 259.5}
+      - - {x: -103, y: 275.5}
+        - {x: -118.99999, y: 273.5}
+        - {x: -133, y: 260.5}
+        - {x: -132, y: 257.5}
+        - {x: -118.99999, y: 257.5}
+        - {x: -97, y: 268.5}
+        - {x: -97, y: 275.5}
+      - - {x: 34, y: 276.5}
+        - {x: 22, y: 272.5}
+        - {x: 22, y: 266.5}
+        - {x: 26, y: 264.5}
+        - {x: 50, y: 264.5}
+        - {x: 56, y: 268.5}
+        - {x: 58, y: 270.5}
+        - {x: 57, y: 273.5}
+        - {x: 42.999996, y: 276.5}
+      - - {x: -39, y: 276.5}
+        - {x: -41, y: 274.5}
+        - {x: -41, y: 270.5}
+        - {x: -38, y: 268.5}
+        - {x: -35, y: 268.5}
+        - {x: -34, y: 270.5}
+        - {x: -34, y: 274.5}
+        - {x: -38, y: 276.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c01c30c4f4439e8724c909870384fa
+      internalID: 21300026
+      vertices:
+      - {x: 339, y: 436}
+      - {x: 414, y: 215}
+      - {x: 414, y: 198}
+      - {x: 313, y: 0}
+      - {x: 301, y: 0}
+      - {x: 90.00001, y: 104.000015}
+      - {x: 0, y: 343}
+      - {x: 0, y: 358}
+      - {x: 132, y: 552}
+      - {x: 133, y: 553}
+      - {x: 145, y: 553}
+      indices: 08000000090000000a00000007000000080000000a00000000000000070000000a000000050000000000000001000000020000000300000004000000020000000400000005000000010000000200000005000000050000000600000000000000000000000600000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-ruby_sparkle0012
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 546
+        width: 8
+        height: 9
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.5555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -4, y: -4.4999995}
+        - {x: -4, y: 4.5}
+        - {x: 4, y: 4.5}
+        - {x: 4, y: -4.4999995}
+      physicsShape:
+      - - {x: -2.9999998, y: 4.5}
+        - {x: -2.9999998, y: -2.5}
+        - {x: 0, y: -3.5}
+        - {x: 1.9999998, y: -3.5}
+        - {x: 4, y: -0.5}
+        - {x: 4, y: 0.5}
+        - {x: 0, y: 4.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e77dfb51b04eee94a71fbfba4f6a02
+      internalID: 21300028
+      vertices:
+      - {x: 8.5, y: -0.49999952}
+      - {x: 0.5, y: -0.49999952}
+      - {x: 0.5, y: 8.5}
+      - {x: 8.5, y: 8.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby_mark5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 138
+        width: 36
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 2, y: 23.5}
+        - {x: 18, y: 23.5}
+        - {x: 18, y: -23.5}
+        - {x: -18, y: -23.5}
+        - {x: -18, y: 3.5}
+      physicsShape:
+      - - {x: 1, y: 23.5}
+        - {x: -16, y: 9.5}
+        - {x: -18, y: 2.4999998}
+        - {x: -18, y: -22.5}
+        - {x: -17, y: -23.5}
+        - {x: 4.9999995, y: -23.5}
+        - {x: 18, y: -12.5}
+        - {x: 18, y: 23.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8f55163a564ceab4ebf63940aee748
+      internalID: 21300030
+      vertices:
+      - {x: 36, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 27}
+      - {x: 20, y: 47}
+      - {x: 36, y: 47}
+      indices: 000000000300000004000000000000000200000003000000000000000100000002000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-ruby_sparkle0009
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 244
+        width: 30
+        height: 10
+      alignment: 9
+      pivot: {x: 0.45, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -14.999999, y: -5}
+        - {x: -14.999999, y: 5}
+        - {x: 5, y: 5}
+        - {x: 15, y: -5}
+      physicsShape:
+      - - {x: -14, y: 5}
+        - {x: -14.999999, y: 4}
+        - {x: -14.999999, y: -2}
+        - {x: 0, y: -5}
+        - {x: 11.999999, y: -5}
+        - {x: 11.999999, y: -3}
+        - {x: 11, y: 0}
+        - {x: 0, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4860364a52304151a9397a1cf8c657ef
+      internalID: 21300032
+      vertices:
+      - {x: 31.5, y: -1}
+      - {x: 1.500001, y: -1}
+      - {x: 1.500001, y: 9}
+      - {x: 21.5, y: 9}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-ruby_sparkle0007
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 543
+        width: 35
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -17.5, y: -6}
+        - {x: -17.5, y: 5.9999995}
+        - {x: 17.5, y: 5.9999995}
+        - {x: 17.5, y: -6}
+      physicsShape:
+      - - {x: -13.499999, y: -6}
+        - {x: 12.5, y: -6}
+        - {x: 17.5, y: -3.9999995}
+        - {x: 17.5, y: 3}
+        - {x: 12.5, y: 5.9999995}
+        - {x: -12.5, y: 5.9999995}
+        - {x: -17.5, y: 3}
+        - {x: -17.5, y: -3.9999995}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434110098028483faf493654f2320d18
+      internalID: 21300034
+      vertices:
+      - {x: 35, y: -1}
+      - {x: 0, y: -1}
+      - {x: 0, y: 11}
+      - {x: 35, y: 11}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby_mark3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 477
+        width: 36
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -18, y: -39}
+        - {x: -18, y: 39}
+        - {x: 18, y: 39}
+        - {x: 18, y: -39}
+      physicsShape:
+      - - {x: -9.999999, y: 39}
+        - {x: -14.999999, y: 36}
+        - {x: -18, y: 26}
+        - {x: -18, y: -38}
+        - {x: -17, y: -39}
+        - {x: 9.999999, y: -39}
+        - {x: 16, y: -38}
+        - {x: 18, y: -32}
+        - {x: 18, y: 24}
+        - {x: 6, y: 39}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484f3db2d8bd4d609e2f0cd94662b1c5
+      internalID: 21300036
+      vertices:
+      - {x: 36, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 78}
+      - {x: 36, y: 78}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-ruby_sparkle0002
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 539
+        width: 7
+        height: 16
+      alignment: 9
+      pivot: {x: 0.64285713, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -3.5, y: -7.999999}
+        - {x: -3.5, y: 8}
+        - {x: 3.4999998, y: 8}
+        - {x: 3.4999998, y: -7.999999}
+      physicsShape:
+      - - {x: 0.5, y: 8}
+        - {x: -3.5, y: 5}
+        - {x: -3.5, y: -7.999999}
+        - {x: 2.5, y: -7.999999}
+        - {x: 3.4999998, y: -6}
+        - {x: 3.4999998, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a72ba81eea406da8f3f13b7a3238d5
+      internalID: 21300038
+      vertices:
+      - {x: 6, y: -1.999999}
+      - {x: -1, y: -1.999999}
+      - {x: -1, y: 14}
+      - {x: 6, y: 14}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      animated-ruby_sparkle0001: 21300002
+      animated-ruby_sparkle0002: 21300038
+      animated-ruby_sparkle0003: 21300014
+      animated-ruby_sparkle0004: 21300000
+      animated-ruby_sparkle0005: 21300018
+      animated-ruby_sparkle0006: 21300020
+      animated-ruby_sparkle0007: 21300034
+      animated-ruby_sparkle0008: 21300008
+      animated-ruby_sparkle0009: 21300032
+      animated-ruby_sparkle0010: 21300004
+      animated-ruby_sparkle0011: 21300016
+      animated-ruby_sparkle0012: 21300028
+      ruby_mark1: 21300006
+      ruby_mark2: 21300024
+      ruby_mark3: 21300036
+      ruby_mark4: 21300012
+      ruby_mark5: 21300030
+      ruby_mark6: 21300010
+      ruby_mark7: 21300022
+      ruby_ruby: 21300026
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

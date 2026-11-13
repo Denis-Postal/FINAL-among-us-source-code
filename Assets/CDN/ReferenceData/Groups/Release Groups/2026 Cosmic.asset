@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fbdf57f19df93d09b0c77f4c0195892, type: 3}
+  m_Name: 2026 Cosmic
+  m_EditorClassIdentifier:
+  ids:
+  - hat_bday_guard
+  - pet_cosmic_cat
+  - skin_cosmic_rocket
+  - visor_cosmic_alien
+  - visor_cosmic_infinity
+  - visor_cosmic_nebula
+  - visor_cosmic_stars
+  - visor_cosmic_sunglasses
+  - visor_cosmic_threeEyes
+  - nameplate_cosmic_launch
+  - nameplate_cosmic_nebula
+  - nameplate_cosmic_rings
+  - hat_cosmic_alienAntenna
+  - hat_cosmic_hood
+  - hat_cosmic_lure
+  - hat_cosmic_cosmonaut
+  - hat_cosmic_meteor
+  - hat_cosmic_moon
+  - hat_cosmic_rings
+  - hat_cosmic_crash
+  - hat_cosmic_rocket
+  - hat_cosmic_satellite
+  - hat_cosmic_starAntenna
+  - hat_cosmic_star
+  - hat_cosmic_sun
+  - hat_cosmic_telescope
+  date: 2026-6-6

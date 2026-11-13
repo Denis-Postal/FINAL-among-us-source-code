@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: e4dfdaa2be778b84fa91b700852095fd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7723297507131267780
+    second: StarButton-Base_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.49865577, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StarButton-Base_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 367
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca1837b92aae2b60800000000000000
+      internalID: 7723297507131267780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -174.9918, y: -40}
+      - {x: -182.9918, y: -31}
+      - {x: -182.9918, y: 23}
+      - {x: -175.9918, y: 32}
+      - {x: -168.9918, y: 34}
+      - {x: -153.9918, y: 46}
+      - {x: -139.9918, y: 61}
+      - {x: -134.9918, y: 66}
+      - {x: 177.0082, y: 66}
+      - {x: 183.0082, y: 58.999996}
+      - {x: 183.0082, y: -57}
+      - {x: 179.0082, y: -62}
+      - {x: 174.0082, y: -66}
+      - {x: -133.9918, y: -66}
+      - {x: -143.9918, y: -60.000004}
+      - {x: -152.9918, y: -52}
+      - {x: -161.9918, y: -42}
+    customData: 
+    physicsShape:
+    - - {x: 183.00818, y: 62}
+      - {x: 177.0082, y: 66}
+      - {x: -133.99179, y: 66}
+      - {x: -138.9918, y: 62}
+      - {x: -158.99179, y: 39.999996}
+      - {x: -182.9918, y: 29}
+      - {x: -182.9918, y: -29.999998}
+      - {x: -133.99179, y: -66}
+      - {x: 173.0082, y: -66}
+      - {x: 179.0082, y: -63}
+      - {x: 183.00818, y: -58}
+    bones: []
+    spriteID: cb4b38a76ee849c08693921ed2dab38c
+    internalID: 0
+    vertices:
+    - {x: 366.43207, y: 125}
+    - {x: 362.43207, y: 4}
+    - {x: 366.43207, y: 9}
+    - {x: 360.43207, y: 132}
+    - {x: 357.43207, y: 0}
+    - {x: 49.432083, y: 0}
+    - {x: 48.432083, y: 132}
+    - {x: 43.432083, y: 127}
+    - {x: 39.432083, y: 5.999996}
+    - {x: 30.432083, y: 14}
+    - {x: 29.432083, y: 112}
+    - {x: 21.432083, y: 24}
+    - {x: 14.432083, y: 100}
+    - {x: 8.432083, y: 26}
+    - {x: 7.432083, y: 98}
+    - {x: 0.43208313, y: 89}
+    - {x: 0.43208313, y: 35}
+    indices: 100000000f0000000d0000000e0000000d0000000f0000000c0000000d0000000e0000000b0000000d0000000c0000000a0000000b0000000c000000090000000b0000000a00000007000000090000000a000000080000000900000007000000050000000800000007000000060000000500000007000000030000000500000006000000040000000500000003000000010000000400000003000000000000000100000003000000020000000100000000000000i
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: ca2885183d528614a87a45f9734b0729
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7232679068973499063
+    second: hat_pk06_Santa_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hat_pk06_Santa_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 159
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d7e6705bc50ab90800000000000000
+      internalID: -7232679068973499063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: 5.5, y: -49.5}
+      - {x: 4.5, y: -45.5}
+      - {x: 4.5, y: -51.5}
+      - {x: -8.5, y: -54.5}
+      - {x: -52.499996, y: -54.5}
+      - {x: -77.5, y: -32.5}
+      - {x: -79.5, y: -21.5}
+      - {x: -79.5, y: 44.5}
+      - {x: -43.5, y: 54.5}
+      - {x: 39.5, y: 54.5}
+      - {x: 77.5, y: 21.5}
+      - {x: 79.5, y: 15.5}
+      - {x: 79.5, y: 14.5}
+      - {x: 74.5, y: 7.5000005}
+      - {x: 76.5, y: 9.5}
+      - {x: 79.5, y: 9.5}
+      - {x: 79.5, y: -36.5}
+      - {x: 51.5, y: -42.5}
+      - {x: 18.5, y: -45.5}
+    customData: 
+    physicsShape:
+    - - {x: 79.49999, y: -30.5}
+      - {x: 79.49999, y: 1.5}
+      - {x: 67.5, y: 17.5}
+      - {x: 61.5, y: 22.5}
+      - {x: 56.5, y: 25.5}
+      - {x: 35.5, y: 40.5}
+      - {x: 15.5, y: 50.5}
+      - {x: 9.5, y: 54.5}
+      - {x: -17.5, y: 54.5}
+      - {x: -29.499998, y: 51.5}
+      - {x: -38.5, y: 41.5}
+      - {x: -55.5, y: 25.5}
+      - {x: -70.5, y: 21.499998}
+      - {x: -79.49999, y: 11.499999}
+      - {x: -79.49999, y: -4.5}
+      - {x: -69.5, y: -24.499998}
+      - {x: -65.5, y: -27.5}
+      - {x: -60.499996, y: -30.5}
+      - {x: -50.5, y: -49.499996}
+      - {x: -44.5, y: -51.5}
+      - {x: -17.5, y: -51.5}
+      - {x: 5.5, y: -39.5}
+      - {x: 43.5, y: -33.499996}
+      - {x: 68.5, y: -34.5}
+    bones: []
+    spriteID: d420849c64274a49a28e6dfc4b5e0f54
+    internalID: 0
+    vertices:
+    - {x: 84, y: 13}
+    - {x: 84, y: 3}
+    - {x: 84, y: 9}
+    - {x: 82, y: 15}
+    - {x: 71, y: 0}
+    - {x: 157, y: 76}
+    - {x: 159, y: 69}
+    - {x: 159, y: 70}
+    - {x: 154, y: 62}
+    - {x: 131, y: 12}
+    - {x: 119, y: 109}
+    - {x: 98, y: 9}
+    - {x: 85, y: 5}
+    - {x: 84, y: 16}
+    - {x: 36, y: 109}
+    - {x: 27.000004, y: 0}
+    - {x: 2, y: 22}
+    - {x: 0, y: 99}
+    - {x: 0, y: 33}
+    - {x: 156, y: 64}
+    - {x: 159, y: 18}
+    - {x: 159, y: 64}
+    indices: 02000000000000000c0000000d0000000c000000000000000900000008000000140000001300000014000000080000001500000014000000130000001200000011000000100000000e00000010000000110000000f000000100000000e000000040000000f0000000e0000000a000000040000000e00000003000000040000000a0000000d000000030000000a0000000c0000000d0000000a0000000b0000000c0000000a000000090000000b0000000a00000005000000090000000a000000080000000900000005000000060000000800000005000000070000000600000005000000040000000300000001000000000000000100000003000000020000000100000000000000i
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

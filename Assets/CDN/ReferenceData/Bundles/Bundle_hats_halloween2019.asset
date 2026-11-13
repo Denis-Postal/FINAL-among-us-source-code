@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41d112223c32f1b0c40a10d1a14033b8, type: 3}
+  m_Name: Bundle_hats_halloween2019
+  m_EditorClassIdentifier:
+  BundleSize: 1
+  productId: hats_halloween2019
+  beanCost: 2000
+  starCost: 0
+  cosmetics:
+  - {fileID: 11400000, guid: 8c82922d56abbf147a951f3f1c09a4d8, type: 2}
+  - {fileID: 11400000, guid: 5530877fce86c584fbcf671947f88a55, type: 2}
+  - {fileID: 11400000, guid: 3cd168a855f2ce74aade9c94809d5d77, type: 2}
+  - {fileID: 11400000, guid: 902138d0de4268240a5acad57676fc1f, type: 2}
+  - {fileID: 11400000, guid: 645a8a7e442318d42aa9ca5a4a985bd9, type: 2}
+  - {fileID: 11400000, guid: 047010106c748a84f9de3e91e9243b5b, type: 2}
+  - {fileID: 11400000, guid: 5c1df9082b441b649bed8a872bd55ec6, type: 2}
+  - {fileID: 11400000, guid: ff6592840f2a98c46a5553d4b19e67d2, type: 2}
+  - {fileID: 11400000, guid: 6da1720ba22c8bd4bb6b00b6bdc3b15b, type: 2}
+  - {fileID: 11400000, guid: 07659f285d4326147872d5fb9edc2a82, type: 2}
+  - {fileID: 11400000, guid: eead01be7ab715442acc2e8c3281549b, type: 2}
+  - {fileID: 11400000, guid: c68c683f20026024b912626da103b812, type: 2}
+  - {fileID: 11400000, guid: 29d9c8cf333f72d4caccab5aa815bda8, type: 2}
+  StoreImage: {fileID: 21300000, guid: 7d34be14c3d1f1f40a08a5829d3e580b, type: 3}
+  NotInStore: 0
+  Free: 0
+  paidOnMobile: 0
+  limitedTime:
+    timeStart:
+      limitedYear: 2026
+      limitedMonth: 10
+      limitedDay: 1
+      limitedHour: 7
+      limitedMinute: 0
+    timeEnd:
+      limitedYear: 2026
+      limitedMonth: 11
+      limitedDay: 1
+      limitedHour: 7
+      limitedMinute: 0

@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: b819aa665dd5ef2448c7698fb61fb455
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: map5_doorSab_bg
+  - first:
+      213: 21300002
+    second: map5_doorSab_mushroom
+  - first:
+      213: 21300004
+    second: map5_doorSab_counterIcon
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: map5_doorSab_bg
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 500
+        height: 500
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -250, y: -250}
+        - {x: -250, y: 250}
+        - {x: 250, y: 250}
+        - {x: 250, y: -250}
+      physicsShape:
+      - - {x: -250, y: 250}
+        - {x: -250, y: -250}
+        - {x: 250, y: -250}
+        - {x: 250, y: 250}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ae7ad262cd46fcbc2792f2d2ec26b1
+      internalID: 21300000
+      vertices:
+      - {x: 500, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 500}
+      - {x: 500, y: 500}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_doorSab_mushroom
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 393
+        width: 77
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -38.5, y: 9}
+        - {x: -38.5, y: 55}
+        - {x: 38.5, y: 55}
+        - {x: 38.5, y: -19.999998}
+        - {x: 3.5, y: -55}
+        - {x: -4.5, y: -55}
+        - {x: -37.5, y: 6}
+      physicsShape:
+      - - {x: 37.5, y: 47}
+        - {x: 21.499998, y: 55}
+        - {x: -17.5, y: 55}
+        - {x: -34.5, y: 42}
+        - {x: -38.5, y: 35}
+        - {x: -38.5, y: 0}
+        - {x: -4.5, y: -55}
+        - {x: 3.5, y: -55}
+        - {x: 8.5, y: -52.999996}
+        - {x: 27.5, y: -26}
+        - {x: 38.5, y: 7}
+        - {x: 38.5, y: 42}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53833e51d6e940dfb5e16e159cbca591
+      internalID: 21300002
+      vertices:
+      - {x: 77, y: 35}
+      - {x: 42, y: 0}
+      - {x: 34, y: 0}
+      - {x: 1, y: 61}
+      - {x: 0, y: 64}
+      - {x: 0, y: 110}
+      - {x: 77, y: 110}
+      indices: 040000000500000006000000030000000400000006000000000000000300000006000000020000000300000000000000020000000000000001000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_doorSab_counterIcon
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 347
+        width: 42
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -21, y: -22}
+        - {x: -21, y: 22}
+        - {x: 21, y: 22}
+        - {x: 21, y: -22}
+      physicsShape:
+      - - {x: -19, y: 22}
+        - {x: -21, y: 21}
+        - {x: -21, y: -9.999999}
+        - {x: -14.999999, y: -14.999999}
+        - {x: -3, y: -22}
+        - {x: 14, y: -22}
+        - {x: 21, y: -16}
+        - {x: 21, y: 18}
+        - {x: 19, y: 22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6916e92af0884cdb8c3fdaab9385c812
+      internalID: 21300004
+      vertices:
+      - {x: 42, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 44}
+      - {x: 42, y: 44}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      map5_doorSab_bg: 21300000
+      map5_doorSab_counterIcon: 21300004
+      map5_doorSab_mushroom: 21300002
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

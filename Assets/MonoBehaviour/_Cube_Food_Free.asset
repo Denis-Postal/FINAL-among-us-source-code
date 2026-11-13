@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 825ac4e4914361a3d7ea08f1b54d9d4f, type: 3}
+  m_Name: _Cube_Food_Free
+  m_EditorClassIdentifier:
+  StoreImageRef:
+    m_AssetGUID: 4f5930917cff58d479e8c818fe4614bf
+    m_SubObjectName: cosmicube_food_free
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  CosmicubePrefabRef:
+    m_AssetGUID: b17b69ac820eef34c9771df71f0e5d31
+    m_SubObjectName:
+    m_SubObjectType:
+  podIconRef:
+    m_AssetGUID: e36ebea7e95ebf94791bf98d50d852f5
+    m_SubObjectName: UI_currency_2022_food_Free
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  DateCreated: 7/7/2022
+  allUnlockables:
+  - {fileID: 11400000, guid: 1b7a1135de4c3a948955c0c25ef80d46, type: 2}
+  - {fileID: 11400000, guid: abffe840bd5e6114d94a0118afeec04d, type: 2}
+  - {fileID: 11400000, guid: b4d8ae0e3a6574d4898b4303f3c6a738, type: 2}
+  - {fileID: 11400000, guid: 401d4a340b0d6c543b6449ec64b6e9f1, type: 2}
+  - {fileID: 11400000, guid: b5521be57eed23844969e43f8958c875, type: 2}
+  - {fileID: 11400000, guid: 9a4236f522dee9942b9ec0b8bac36818, type: 2}
+  - {fileID: 11400000, guid: 410973160941b9c47a83b514ff72a5cd, type: 2}
+  - {fileID: 11400000, guid: 9ac2fe3b083c2dc4ba0675b59093c52b, type: 2}
+  - {fileID: 11400000, guid: 6ed6be66545147c489aab5e010101548, type: 2}
+  - {fileID: 11400000, guid: 7f9c17206734a064dafc5ac11f00c7b4, type: 2}
+  - {fileID: 11400000, guid: 9595476aa973b9949bb3f5ed48a3b95d, type: 2}
+  - {fileID: 11400000, guid: 4ecc79c0a0560334db3a1a094bdbe02a, type: 2}
+  - {fileID: 11400000, guid: 0d8e3216109d72f4a9e7e384b6d8cc33, type: 2}
+  - {fileID: 11400000, guid: 843031c7743be5043b462e6a978040d5, type: 2}
+  - {fileID: 11400000, guid: a015b7afd37d0d94ab00e0df5d7511fa, type: 2}
+  - {fileID: 11400000, guid: 9c63d2b487c534e49a14d9654a14deae, type: 2}
+  - {fileID: 11400000, guid: c6c9ecb9db8396a4b8f3299cd21b7cb2, type: 2}
+  - {fileID: 11400000, guid: 787f84718e4ba0c45a171886c0a5a7ab, type: 2}
+  - {fileID: 11400000, guid: d6e4770853b802c4e901dc87af2878a8, type: 2}
+  - {fileID: 11400000, guid: c913b6e69fe11ec45a6763b0333f693e, type: 2}
+  - {fileID: 11400000, guid: 1f6f0a978eec73c438d08fe759da183f, type: 2}
+  - {fileID: 11400000, guid: 6bfabba5e9e16ea4abbbcffae9391ee4, type: 2}
+  - {fileID: 11400000, guid: 7dd8952f810d2374195e3bade058eaec, type: 2}
+  - {fileID: 11400000, guid: 48f68fb405c42e64d84ec745fbd2316d, type: 2}
+  - {fileID: 11400000, guid: bc2386f0169649d44bea685a206b2fca, type: 2}
+  - {fileID: 11400000, guid: 168d0e6ef7bdf404cb6879cefdd4ede9, type: 2}
+  - {fileID: 11400000, guid: b7dfd6451b94d9d4190799a9aea3a771, type: 2}
+  - {fileID: 11400000, guid: 6102738675f9e6e4caef25e96b68b185, type: 2}
+  - {fileID: 11400000, guid: 1843aa7fb6cd6774bb7899a846f35e7e, type: 2}
+  - {fileID: 11400000, guid: 4454e2b853bb4cf42aa3d7705ac54054, type: 2}
+  starCost: 0
+  beanCost: 2500
+  Order: 0
+  Free: 0
+  NotInStore: 0
+  XRange:
+    min: -0.65
+    max: 0.65
+  YRange:
+    min: 0.15
+    max: 0.75
+  podId: food_free
+  productId: cube_food_free
+  cosmicubeName: Snack
+  limitedTime:
+    timeStart:
+      limitedYear: 0
+      limitedMonth: 0
+      limitedDay: 0
+      limitedHour: 0
+      limitedMinute: 0
+    timeEnd:
+      limitedYear: 0
+      limitedMonth: 0
+      limitedDay: 0
+      limitedHour: 0
+      limitedMinute: 0
+  epicId:

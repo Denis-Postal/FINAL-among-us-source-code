@@ -1,0 +1,623 @@
+fileFormatVersion: 2
+guid: e01745cb05396cf48b80467b90237118
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: towel_towel
+  - first:
+      213: 21300002
+    second: towels_back
+  - first:
+      213: 21300004
+    second: towels_front
+  - first:
+      213: 21300006
+    second: towels_filled
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: towel_towel
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 677
+        width: 228
+        height: 154
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -42.999996, y: 77}
+        - {x: -17, y: 77}
+        - {x: 114, y: 26}
+        - {x: 114, y: -4.9999995}
+        - {x: 36, y: -77}
+        - {x: 16, y: -77}
+        - {x: -21, y: -65}
+        - {x: -104.99999, y: -19}
+        - {x: -114, y: -9.999999}
+        - {x: -114, y: 6}
+      physicsShape:
+      - - {x: 69, y: -45}
+        - {x: 88, y: -19.999998}
+        - {x: 96, y: -16}
+        - {x: 114, y: -4.9999995}
+        - {x: 114, y: 11}
+        - {x: 109, y: 14}
+        - {x: 103, y: 16}
+        - {x: 81, y: 34}
+        - {x: 65, y: 44}
+        - {x: 48, y: 52}
+        - {x: 22, y: 59.999996}
+        - {x: 3, y: 63}
+        - {x: -4, y: 68}
+        - {x: -17, y: 77}
+        - {x: -35, y: 77}
+        - {x: -45, y: 69}
+        - {x: -57, y: 52}
+        - {x: -83, y: 36}
+        - {x: -91, y: 29}
+        - {x: -100, y: 18}
+        - {x: -114, y: 8}
+        - {x: -114, y: -11}
+        - {x: -110, y: -14}
+        - {x: -95, y: -22.999998}
+        - {x: -78, y: -28}
+        - {x: -47, y: -48.999996}
+        - {x: -19.999998, y: -66}
+        - {x: 4, y: -72}
+        - {x: 19, y: -77}
+        - {x: 35, y: -77}
+        - {x: 42, y: -72.99999}
+        - {x: 48, y: -62}
+        - {x: 58, y: -55}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29919008d3ab4822bc42968bdca0e38c
+      internalID: 21300000
+      vertices:
+      - {x: 228, y: 103}
+      - {x: 228, y: 72}
+      - {x: 150, y: 0}
+      - {x: 130, y: 0}
+      - {x: 93, y: 12}
+      - {x: 9.000008, y: 58}
+      - {x: 0, y: 67}
+      - {x: 0, y: 83}
+      - {x: 71, y: 154}
+      - {x: 97, y: 154}
+      indices: 040000000800000009000000070000000500000006000000070000000800000005000000040000000500000008000000030000000400000009000000020000000300000009000000010000000200000009000000000000000100000009000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towels_back
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 246
+        width: 378
+        height: 293
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 180, y: 146.49998}
+        - {x: 189, y: 146.49998}
+        - {x: 189, y: 33.499996}
+        - {x: 164, y: -96.5}
+        - {x: 132, y: -131.5}
+        - {x: 72, y: -146.49998}
+        - {x: -100, y: -146.49998}
+        - {x: -178, y: -102.5}
+        - {x: -189, y: 82.5}
+        - {x: -189, y: 145.5}
+        - {x: -176, y: 143.5}
+        - {x: -158.99998, y: 131.5}
+        - {x: 105.99999, y: 128.5}
+      physicsShape:
+      - - {x: 133, y: -127.5}
+        - {x: 145, y: -116.5}
+        - {x: 156, y: -104.49999}
+        - {x: 165, y: -84.5}
+        - {x: 171.99998, y: -54.5}
+        - {x: 171.99998, y: -47.5}
+        - {x: 178, y: -18.5}
+        - {x: 186, y: 12.5}
+        - {x: 183.99998, y: 60.499996}
+        - {x: 186, y: 71.5}
+        - {x: 189, y: 97.5}
+        - {x: 189, y: 146.49998}
+        - {x: 177, y: 146.49998}
+        - {x: 158, y: 133.49998}
+        - {x: 139, y: 128.5}
+        - {x: 125, y: 127.5}
+        - {x: 76, y: 127.5}
+        - {x: 59.999996, y: 125.5}
+        - {x: 33, y: 123.5}
+        - {x: 32, y: 124.5}
+        - {x: 28, y: 125.5}
+        - {x: -9.999999, y: 128.5}
+        - {x: -56, y: 128.5}
+        - {x: -96, y: 127.5}
+        - {x: -132, y: 126.5}
+        - {x: -133, y: 127.5}
+        - {x: -166, y: 133.49998}
+        - {x: -177, y: 143.5}
+        - {x: -182, y: 143.5}
+        - {x: -186, y: 138.5}
+        - {x: -189, y: 132.5}
+        - {x: -189, y: 80.5}
+        - {x: -187, y: 58.499996}
+        - {x: -188, y: 49.499996}
+        - {x: -181, y: 10.5}
+        - {x: -177, y: -6.5}
+        - {x: -177, y: -16.5}
+        - {x: -176, y: -35.5}
+        - {x: -174, y: -59.499996}
+        - {x: -174, y: -80.5}
+        - {x: -170, y: -94.5}
+        - {x: -155, y: -111.5}
+        - {x: -144, y: -119.49999}
+        - {x: -120.99999, y: -130.5}
+        - {x: -120.99999, y: -134.5}
+        - {x: -109, y: -139.5}
+        - {x: -102, y: -143.5}
+        - {x: -89, y: -146.49998}
+        - {x: -59.999996, y: -146.49998}
+        - {x: 3, y: -145.5}
+        - {x: 3, y: -146.49998}
+        - {x: 63, y: -146.49998}
+        - {x: 75, y: -145.5}
+        - {x: 96, y: -141.5}
+        - {x: 119.99999, y: -134.5}
+      - - {x: 181, y: -56.5}
+        - {x: 170.99998, y: -80.5}
+        - {x: 170.99998, y: -99.5}
+        - {x: 176, y: -127.5}
+        - {x: 183.99998, y: -146.49998}
+        - {x: 189, y: -146.49998}
+        - {x: 189, y: -52.499996}
+        - {x: 188, y: -52.499996}
+      - - {x: -84, y: 146.49998}
+        - {x: -83, y: 143.5}
+        - {x: -51, y: 137.5}
+        - {x: -22, y: 134.5}
+        - {x: 71, y: 134.5}
+        - {x: 88, y: 135.5}
+        - {x: 127, y: 143.5}
+        - {x: 128, y: 145.5}
+        - {x: 128, y: 146.49998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d464d62568d454c96d8c4d22c6e233b
+      internalID: 21300002
+      vertices:
+      - {x: 378, y: 180}
+      - {x: 353, y: 50}
+      - {x: 321, y: 15}
+      - {x: 261, y: 0.000015258789}
+      - {x: 89, y: 0.000015258789}
+      - {x: 11, y: 44}
+      - {x: 0, y: 229}
+      - {x: 0, y: 292}
+      - {x: 13, y: 290}
+      - {x: 30.000015, y: 278}
+      - {x: 295, y: 275}
+      - {x: 369, y: 293}
+      - {x: 378, y: 293}
+      indices: 000000000b0000000c00000006000000080000000900000006000000070000000800000006000000090000000a00000004000000060000000a00000003000000010000000200000004000000050000000600000003000000040000000a000000030000000a000000000000000300000000000000010000000a0000000b00000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towels_front
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 530
+        width: 422
+        height: 301
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -210.99998, y: 121.49999}
+        - {x: -210.99998, y: 150.5}
+        - {x: -182, y: 150.5}
+        - {x: -173, y: 141.5}
+        - {x: -161, y: -29.499998}
+        - {x: -135, y: -95.5}
+        - {x: -72, y: -124.5}
+        - {x: -44, y: -127.5}
+        - {x: 72.99999, y: -125.5}
+        - {x: 129, y: -102.5}
+        - {x: 162, y: -34.5}
+        - {x: 170.99998, y: 150.5}
+        - {x: 210.99998, y: 150.5}
+        - {x: 210.99998, y: 119.49999}
+        - {x: 201, y: 97.5}
+        - {x: 191, y: -67.5}
+        - {x: 149, y: -141.5}
+        - {x: 64, y: -150.5}
+        - {x: -107.99999, y: -150.5}
+        - {x: -170, y: -119.49999}
+        - {x: -194, y: -31.5}
+        - {x: -196.99998, y: 77.5}
+      physicsShape:
+      - - {x: -205, y: -145.5}
+        - {x: -207, y: -150.5}
+        - {x: -195.99998, y: -150.5}
+        - {x: -195.99998, y: -147.5}
+        - {x: -199, y: -144.5}
+        - {x: -203, y: -144.5}
+      - - {x: 130, y: -139.5}
+        - {x: 145.99998, y: -130.5}
+        - {x: 165, y: -113.5}
+        - {x: 182, y: -76.5}
+        - {x: 187, y: -54.5}
+        - {x: 191, y: -30.5}
+        - {x: 193, y: -14.5}
+        - {x: 194, y: 16.5}
+        - {x: 193, y: 17.5}
+        - {x: 194, y: 60.499996}
+        - {x: 202, y: 99.5}
+        - {x: 210.99998, y: 120.49999}
+        - {x: 210.99998, y: 143.5}
+        - {x: 204, y: 150.5}
+        - {x: 181, y: 150.5}
+        - {x: 173, y: 139.5}
+        - {x: 171.99998, y: 127.5}
+        - {x: 170.99998, y: 99.5}
+        - {x: 169, y: 68.5}
+        - {x: 168, y: 44.5}
+        - {x: 165, y: 14.5}
+        - {x: 165, y: -3.5}
+        - {x: 163, y: -21.499998}
+        - {x: 156, y: -55.5}
+        - {x: 143, y: -85.49999}
+        - {x: 135, y: -97.5}
+        - {x: 122, y: -110.5}
+        - {x: 97.99999, y: -119.49999}
+        - {x: 81, y: -124.5}
+        - {x: 42, y: -127.5}
+        - {x: -9, y: -127.5}
+        - {x: -29.999998, y: -126.5}
+        - {x: -42, y: -127.5}
+        - {x: -81, y: -124.5}
+        - {x: -112, y: -115.5}
+        - {x: -122, y: -110.5}
+        - {x: -138, y: -92.49999}
+        - {x: -153, y: -64.5}
+        - {x: -157, y: -56.5}
+        - {x: -163, y: -25.5}
+        - {x: -165, y: -2.4999998}
+        - {x: -166, y: 29.499998}
+        - {x: -168, y: 44.5}
+        - {x: -169, y: 69.5}
+        - {x: -170, y: 82.5}
+        - {x: -170.99998, y: 99.5}
+        - {x: -171.99998, y: 127.5}
+        - {x: -173, y: 138.5}
+        - {x: -177, y: 146.49998}
+        - {x: -183, y: 150.5}
+        - {x: -205, y: 150.5}
+        - {x: -210.99998, y: 145.5}
+        - {x: -210.99998, y: 120.49999}
+        - {x: -202, y: 99.5}
+        - {x: -201, y: 90.5}
+        - {x: -194, y: 60.499996}
+        - {x: -193, y: 60.499996}
+        - {x: -194, y: 16.5}
+        - {x: -193, y: -14.5}
+        - {x: -189, y: -48.5}
+        - {x: -183, y: -70.5}
+        - {x: -178, y: -85.49999}
+        - {x: -168, y: -106.49999}
+        - {x: -164, y: -113.5}
+        - {x: -145.99998, y: -130.5}
+        - {x: -130, y: -139.5}
+        - {x: -116, y: -142.5}
+        - {x: -87, y: -147.5}
+        - {x: -65, y: -150.5}
+        - {x: 65, y: -150.5}
+        - {x: 87, y: -147.5}
+        - {x: 115, y: -142.5}
+      - - {x: 146.99998, y: -149.5}
+        - {x: 146.99998, y: -150.5}
+        - {x: 168, y: -150.5}
+        - {x: 168, y: -144.5}
+        - {x: 166, y: -138.5}
+        - {x: 161, y: -138.5}
+        - {x: 154, y: -140.5}
+      - - {x: 126, y: 35.5}
+        - {x: 139, y: 53.499996}
+        - {x: 158, y: 62.5}
+        - {x: 168, y: 73.49999}
+        - {x: 168, y: 80.5}
+        - {x: 167, y: 83.5}
+        - {x: 159.99998, y: 88.5}
+        - {x: 154, y: 89.5}
+        - {x: 125, y: 112.5}
+        - {x: 116, y: 117.49999}
+        - {x: 98.99999, y: 125.5}
+        - {x: 72.99999, y: 133.49998}
+        - {x: 55, y: 137.5}
+        - {x: 35, y: 150.5}
+        - {x: 16, y: 150.5}
+        - {x: 6, y: 142.5}
+        - {x: -6, y: 125.5}
+        - {x: -32, y: 109.5}
+        - {x: -39.999996, y: 102.5}
+        - {x: -48, y: 91.5}
+        - {x: -56, y: 86.5}
+        - {x: -62, y: 80.5}
+        - {x: -66, y: 73.49999}
+        - {x: -66, y: 66.5}
+        - {x: -50, y: 52.499996}
+        - {x: -37, y: 47.5}
+        - {x: -22, y: 41.5}
+        - {x: 19, y: 15.5}
+        - {x: 32, y: 8.5}
+        - {x: 42, y: 5.5}
+        - {x: 56, y: 2.4999998}
+        - {x: 75, y: -6.5}
+        - {x: 81, y: -6.5}
+        - {x: 94, y: 4.5}
+        - {x: 97.99999, y: 12.5}
+        - {x: 109, y: 17.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2173d97a73f9435e9563c11ba7ef6ffd
+      internalID: 21300004
+      vertices:
+      - {x: 38, y: 292}
+      - {x: 50, y: 121}
+      - {x: 76, y: 55}
+      - {x: 139, y: 26}
+      - {x: 167, y: 23}
+      - {x: 284, y: 25}
+      - {x: 340, y: 48}
+      - {x: 373, y: 116}
+      - {x: 382, y: 301}
+      - {x: 422, y: 301}
+      - {x: 422, y: 270}
+      - {x: 412, y: 248}
+      - {x: 402, y: 83}
+      - {x: 360, y: 9}
+      - {x: 275, y: 0}
+      - {x: 103.00001, y: 0}
+      - {x: 41, y: 31.000008}
+      - {x: 17, y: 119}
+      - {x: 14.000015, y: 228}
+      - {x: 0.000015258789, y: 272}
+      - {x: 0.000015258789, y: 301}
+      - {x: 29, y: 301}
+      indices: 1300000014000000150000000000000013000000150000000000000012000000130000001100000002000000100000000f00000003000000040000000e0000000400000005000000070000000b0000000c00000008000000090000000a0000000b0000000700000008000000080000000a0000000b00000006000000070000000c000000060000000c0000000d00000005000000060000000d0000000e000000050000000d0000000f000000040000000e00000002000000030000000f000000020000000f00000010000000110000000100000002000000120000000000000001000000120000000100000011000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towels_filled
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4
+        width: 375
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 17.5, y: 119.99999}
+        - {x: 69.5, y: 119.99999}
+        - {x: 187.5, y: 113}
+        - {x: 187.5, y: -19}
+        - {x: 154.5, y: -100}
+        - {x: 79.49999, y: -119.99999}
+        - {x: -137.5, y: -119.99999}
+        - {x: -165.5, y: -91.99999}
+        - {x: -187.5, y: -35}
+        - {x: -187.5, y: 118.99999}
+        - {x: -105.49999, y: 118.99999}
+        - {x: -74.5, y: 109}
+      physicsShape:
+      - - {x: 81.5, y: -119.99999}
+        - {x: 87.5, y: -116.99999}
+        - {x: 118.49999, y: -109}
+        - {x: 141.5, y: -98.99999}
+        - {x: 149.5, y: -93}
+        - {x: 159.49998, y: -83}
+        - {x: 165.5, y: -71}
+        - {x: 182.5, y: -29.999998}
+        - {x: 185.49998, y: -14.999999}
+        - {x: 187.5, y: 0}
+        - {x: 187.5, y: 53.999996}
+        - {x: 186.5, y: 58}
+        - {x: 186.5, y: 111}
+        - {x: 184.49998, y: 114}
+        - {x: 145.5, y: 115}
+        - {x: 116.5, y: 111}
+        - {x: 91.5, y: 117.99999}
+        - {x: 72.5, y: 119.99999}
+        - {x: 16.5, y: 119.99999}
+        - {x: -9.5, y: 115}
+        - {x: -45.5, y: 106.99999}
+        - {x: -46.5, y: 105.99999}
+        - {x: -83.5, y: 109}
+        - {x: -102.5, y: 119.99999}
+        - {x: -144.5, y: 119.99999}
+        - {x: -155.5, y: 116.99999}
+        - {x: -172.49998, y: 113}
+        - {x: -187.5, y: 105.99999}
+        - {x: -187.5, y: -19}
+        - {x: -185.49998, y: -33}
+        - {x: -183.49998, y: -42.999996}
+        - {x: -168.5, y: -82}
+        - {x: -162.5, y: -95}
+        - {x: -152.5, y: -104}
+        - {x: -148.5, y: -107.99999}
+        - {x: -141.5, y: -113}
+        - {x: -124.5, y: -119.99999}
+        - {x: -109.5, y: -119.99999}
+        - {x: -103.5, y: -118.99999}
+        - {x: -71.5, y: -119.99999}
+        - {x: -71.5, y: -117.99999}
+        - {x: -26.499998, y: -118.99999}
+        - {x: -23.5, y: -119.99999}
+        - {x: 27.5, y: -119.99999}
+        - {x: 36.499996, y: -118.99999}
+        - {x: 62.5, y: -117.99999}
+        - {x: 64.5, y: -119.99999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9baf6d610344be3ad8a15d39b6d4482
+      internalID: 21300006
+      vertices:
+      - {x: 375, y: 233}
+      - {x: 375, y: 101}
+      - {x: 342, y: 20}
+      - {x: 267, y: 0.0000076293945}
+      - {x: 50, y: 0.0000076293945}
+      - {x: 22, y: 28.000008}
+      - {x: 0, y: 85}
+      - {x: 0, y: 239}
+      - {x: 82.00001, y: 239}
+      - {x: 113, y: 229}
+      - {x: 205, y: 240}
+      - {x: 257, y: 240}
+      indices: 030000000a0000000b00000006000000080000000900000006000000070000000800000003000000090000000a00000006000000040000000500000006000000090000000400000003000000040000000900000001000000020000000300000001000000030000000b00000000000000010000000b000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      towel_towel: 21300000
+      towels_back: 21300002
+      towels_filled: 21300006
+      towels_front: 21300004
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

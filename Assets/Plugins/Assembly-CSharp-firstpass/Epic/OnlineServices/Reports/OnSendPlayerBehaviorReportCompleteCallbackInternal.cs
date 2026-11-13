@@ -1,0 +1,7 @@
+using System.Runtime.InteropServices;
+
+namespace Epic.OnlineServices.Reports
+{
+	[UnmanagedFunctionPointer(CallingConvention.Cdecl)]
+	internal delegate void OnSendPlayerBehaviorReportCompleteCallbackInternal(ref SendPlayerBehaviorReportCompleteCallbackInfoInternal data);
+}

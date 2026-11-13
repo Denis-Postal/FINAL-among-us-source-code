@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e65bf483b6b7de711829e639a4b9d308, type: 3}
+  m_Name: ScreamGhostFaceMask
+  m_EditorClassIdentifier:
+  unlockOnSelectPlatforms:
+  freeRedeemableCosmetic: 1
+  redeemPopUpColor: 6
+  epicId:
+  BundleId:
+  ProductId: hat_screamghostface
+  ChipOffset: {x: 0, y: 0.3}
+  beanCost: 0
+  starCost: 0
+  paidOnMobile: 0
+  limitedTime:
+    timeStart:
+      limitedYear: 2023
+      limitedMonth: 7
+      limitedDay: 7
+      limitedHour: 17
+      limitedMinute: 0
+    timeEnd:
+      limitedYear: 2023
+      limitedMonth: 7
+      limitedDay: 22
+      limitedHour: 7
+      limitedMinute: 0
+  displayOrder: 0
+  NotInStore: 1
+  Free: 0
+  PreviewData:
+    m_AssetGUID: 5cf9d6edd0f04ec4083f7e1d9ab09cd2
+    m_SubObjectName:
+    m_SubObjectType:
+  PreviewCrewmateColor: 1
+  ViewDataRef:
+    m_AssetGUID: d8f8f243c9db241109867c770c1e787f
+    m_SubObjectName:
+    m_SubObjectType:
+  InFront: 1
+  NoBounce: 1
+  BlocksVisors: 1
+  StoreName:
+  RelatedSkin: {fileID: 11400000, guid: 0aeee6a342d60354e9dc463ebe09cd5e, type: 2}

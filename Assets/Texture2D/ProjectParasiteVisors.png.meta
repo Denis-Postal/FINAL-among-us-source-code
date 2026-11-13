@@ -1,0 +1,477 @@
+fileFormatVersion: 2
+guid: db5031f262257e945a5ea5bb49ac5831
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: 2024_parasite_beans_visor_black0002
+  - first:
+      213: 21300002
+    second: 2024_parasite_beans_visor_black0003
+  - first:
+      213: 21300004
+    second: 2024_parasite_beans_visor_black0001
+  - first:
+      213: 21300006
+    second: 2024_parasite_beans_visor_lime0001
+  - first:
+      213: 21300008
+    second: 2024_parasite_beans_visor_lime0002
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2024_parasite_beans_visor_black0002
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 19
+        width: 130.92387
+        height: 52
+      alignment: 9
+      pivot: {x: 0.62631816, y: 0.3653846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -12.461937, y: 19}
+        - {x: 46.538063, y: 26}
+        - {x: 72.53806, y: -11}
+        - {x: 46.538063, y: -26}
+        - {x: -11.461937, y: -25}
+        - {x: -65.46194, y: -1}
+      physicsShape:
+      - - {x: -65.46194, y: -8}
+        - {x: -65.46194, y: -26}
+        - {x: -54.461937, y: -26}
+        - {x: -54.461937, y: -11}
+        - {x: -58.461937, y: -8}
+      - - {x: 64.53806, y: -10}
+        - {x: 62.53806, y: -8}
+        - {x: 60.538063, y: 7}
+        - {x: 50.538063, y: 15.999998}
+        - {x: 44.538063, y: 21}
+        - {x: 31.538063, y: 21}
+        - {x: 28.538063, y: 19.999998}
+        - {x: 11.538063, y: 19.999998}
+        - {x: 3.538063, y: 21}
+        - {x: -10.461935, y: 21}
+        - {x: -24.461937, y: 18}
+        - {x: -49.461937, y: 0}
+        - {x: -50.46193, y: -3}
+        - {x: -50.46193, y: -6}
+        - {x: -46.461937, y: -9}
+        - {x: -31.461937, y: -11}
+        - {x: -17.461937, y: -24}
+        - {x: -0.46193695, y: -21}
+        - {x: 8.538063, y: -26}
+        - {x: 21.538063, y: -26}
+        - {x: 27.538063, y: -22}
+        - {x: 41.538063, y: -25}
+        - {x: 49.538063, y: -25}
+        - {x: 64.53806, y: -15}
+      - - {x: -1.461937, y: -6}
+        - {x: -8.461937, y: -2.0000005}
+        - {x: -13.461935, y: -2.0000005}
+        - {x: -16.461937, y: -1}
+        - {x: -15.461937, y: 0}
+        - {x: -8.461937, y: 0}
+        - {x: -7.461937, y: -1}
+        - {x: -4.461937, y: -1}
+        - {x: -0.46193695, y: -3}
+        - {x: 9.538063, y: -3}
+        - {x: 21.538063, y: 2.999999}
+        - {x: 22.538063, y: 2}
+        - {x: 26.538063, y: 1}
+        - {x: 34.538063, y: 1}
+        - {x: 35.538063, y: 2}
+        - {x: 41.538063, y: 2.999999}
+        - {x: 45.538063, y: 5}
+        - {x: 45.538063, y: 2}
+        - {x: 40.538063, y: -3}
+        - {x: 37.538063, y: -5}
+        - {x: 32.538063, y: -4}
+        - {x: 18.538063, y: -4}
+        - {x: 17.538063, y: -5}
+        - {x: 13.538063, y: -5}
+        - {x: 9.538063, y: -6}
+        - {x: 8.538063, y: -7}
+        - {x: 1.538064, y: -7}
+        - {x: 0.53806305, y: -6}
+      - - {x: -65.46194, y: 26}
+        - {x: -65.46194, y: 6}
+        - {x: -63.46193, y: 4}
+        - {x: -58.461937, y: 4}
+        - {x: -57.461937, y: 7}
+        - {x: -57.461937, y: 24}
+        - {x: -59.461937, y: 26}
+      - - {x: -45.461937, y: 24}
+        - {x: -45.461937, y: 26}
+        - {x: -50.46193, y: 26}
+        - {x: -48.461937, y: 22.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c9c4924d5a44529db38bf49e0eb5a8
+      internalID: 21300000
+      vertices:
+      - {x: 121.46194, y: 22}
+      - {x: 95.46194, y: 7}
+      - {x: 37.461937, y: 8}
+      - {x: -16.538063, y: 32}
+      - {x: 36.461937, y: 52}
+      - {x: 95.46194, y: 59}
+      indices: 010000000400000005000000020000000300000004000000010000000200000004000000000000000100000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_parasite_beans_visor_black0003
+      rect:
+        serializedVersion: 2
+        x: 108.07612
+        y: 61
+        width: 106.880974
+        height: 75.92388
+      alignment: 9
+      pivot: {x: 0.57937235, y: -0.23707956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -53.5166, y: 19.03806}
+        - {x: 3.4833984, y: 40.03806}
+        - {x: 46.4834, y: 19.03806}
+        - {x: 58.483395, y: -35.961945}
+        - {x: 17.483398, y: 3.0380554}
+        - {x: -14.516602, y: 1.0380592}
+        - {x: -52.5166, y: -37.96194}
+      physicsShape:
+      - - {x: -5.5166054, y: -37.96194}
+        - {x: -6.5166044, y: -34.96194}
+        - {x: -13.516605, y: -34.96194}
+        - {x: -14.516603, y: -37.96194}
+      - - {x: 7.4833946, y: -37.96194}
+        - {x: 17.483395, y: -37.96194}
+        - {x: 16.483395, y: -34.96194}
+        - {x: 10.483395, y: -33.96194}
+        - {x: 7.4833946, y: -36.96194}
+      - - {x: 33.483395, y: -34.96194}
+        - {x: 33.483395, y: -37.96194}
+        - {x: 42.483395, y: -37.96194}
+        - {x: 42.483395, y: -36.96194}
+        - {x: 39.483395, y: -33.96194}
+        - {x: 35.48339, y: -32.961945}
+      - - {x: 49.483395, y: -25.961943}
+        - {x: 52.483395, y: -25.961943}
+        - {x: 52.483395, y: -8.961941}
+        - {x: 51.48339, y: 0.038059235}
+        - {x: 49.483395, y: 19.03806}
+        - {x: 10.483395, y: 26.03806}
+        - {x: 3.483395, y: 35.03806}
+        - {x: 2.4833946, y: 37.03806}
+        - {x: -1.5166044, y: 37.03806}
+        - {x: -7.5166054, y: 33.03806}
+        - {x: -22.516605, y: 20.03806}
+        - {x: -41.516605, y: 22.03806}
+        - {x: -48.516605, y: 18.03806}
+        - {x: -43.516605, y: 8.038059}
+        - {x: -52.516605, y: -7.961941}
+        - {x: -52.516605, y: -29.96194}
+        - {x: -50.5166, y: -30.96194}
+        - {x: -46.516605, y: -30.96194}
+        - {x: -21.516603, y: 1.0380592}
+        - {x: -5.5166054, y: 6.038059}
+        - {x: 21.483395, y: 2.0380592}
+      - - {x: 10.483395, y: -9.961945}
+        - {x: -8.516605, y: -9.961945}
+        - {x: -10.516605, y: -11.961941}
+        - {x: -9.516605, y: -14.961941}
+        - {x: -7.5166054, y: -25.961943}
+        - {x: -4.5166054, y: -26.96194}
+        - {x: 7.4833946, y: -26.96194}
+        - {x: 15.483395, y: -20.96194}
+        - {x: 16.483395, y: -18.96194}
+        - {x: 16.483395, y: -13.961941}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73deb47343c499192202fdb77da3951
+      internalID: 21300002
+      vertices:
+      - {x: 91.44049, y: 112.961945}
+      - {x: 103.44049, y: 57.961937}
+      - {x: 62.44049, y: 96.96194}
+      - {x: 30.44049, y: 94.961945}
+      - {x: -7.5595093, y: 55.96194}
+      - {x: -8.559509, y: 112.961945}
+      - {x: 48.44049, y: 133.96194}
+      indices: 030000000500000006000000030000000400000005000000020000000300000006000000000000000100000002000000000000000200000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_parasite_beans_visor_black0001
+      rect:
+        serializedVersion: 2
+        x: 1.0040407
+        y: 37.026752
+        width: 102.96921
+        height: 96.89713
+      alignment: 9
+      pivot: {x: 0.25246343, y: 0.6705384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -51.488644, y: 32.524685}
+        - {x: 27.511353, y: 53.524685}
+        - {x: 47.51135, y: 33.524685}
+        - {x: 54.51135, y: -33.475315}
+        - {x: 20.511353, y: -48.475315}
+        - {x: -33.488644, y: -47.475315}
+      physicsShape:
+      - - {x: 25.511356, y: -47.475315}
+        - {x: 27.511353, y: -44.475315}
+        - {x: 34.511353, y: -31.475315}
+        - {x: 47.51135, y: -39.475315}
+        - {x: 50.511356, y: -35.475315}
+        - {x: 50.511356, y: 20.524685}
+        - {x: 46.511356, y: 38.524685}
+        - {x: 41.51135, y: 35.524685}
+        - {x: 33.511353, y: 28.524685}
+        - {x: 22.511356, y: 47.524685}
+        - {x: 18.511356, y: 47.524685}
+        - {x: 15.511356, y: 44.524685}
+        - {x: 10.511356, y: 33.524685}
+        - {x: -6.4886436, y: 38.524685}
+        - {x: -19.488644, y: 42.524685}
+        - {x: -33.488644, y: 30.524685}
+        - {x: -49.488644, y: 33.524685}
+        - {x: -50.488644, y: 29.524685}
+        - {x: -41.488644, y: 8.524685}
+        - {x: -42.488644, y: -16.475315}
+        - {x: -36.488644, y: -44.475315}
+        - {x: -12.488644, y: -42.47531}
+        - {x: -7.4886436, y: -47.475315}
+        - {x: 2.5113564, y: -47.475315}
+        - {x: 9.511356, y: -38.475315}
+        - {x: 16.511356, y: -44.475315}
+        - {x: 23.511353, y: -47.475315}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039428ffca654154a8c630ba3624978d
+      internalID: 21300004
+      vertices:
+      - {x: 124.4846, y: 65.44856}
+      - {x: 131.48459, y: -1.5514336}
+      - {x: 97.484604, y: -16.551434}
+      - {x: 43.484604, y: -15.551434}
+      - {x: 25.484604, y: 64.44856}
+      - {x: 104.484604, y: 85.44856}
+      indices: 000000000400000005000000020000000300000004000000000000000100000002000000000000000200000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_parasite_beans_visor_lime0001
+      rect:
+        serializedVersion: 2
+        x: 71.14935
+        y: 13.036285
+        width: 56.85065
+        height: 28.963715
+      alignment: 9
+      pivot: {x: 0.85928035, y: 1.1035779}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -8.574678, y: 14.481857}
+        - {x: 28.425322, y: -1.5181427}
+        - {x: -29.574678, y: -25.518139}
+      physicsShape:
+      - - {x: -7.5746784, y: 9.481857}
+        - {x: -14.574678, y: 4.4818573}
+        - {x: -14.574678, y: -13.518143}
+        - {x: 1.4253216, y: -13.518143}
+        - {x: 6.4253216, y: -9.518141}
+        - {x: 6.4253216, y: 6.4818573}
+        - {x: 2.4253216, y: 9.481857}
+      - - {x: 10.425323, y: 14.481857}
+        - {x: 10.425323, y: 11.481857}
+        - {x: 16.425322, y: 7.4818583}
+        - {x: 28.425322, y: 7.4818583}
+        - {x: 28.425322, y: 14.481857}
+      - - {x: -27.574678, y: 14.481857}
+        - {x: -26.574678, y: 11.481857}
+        - {x: -22.574675, y: 11.481857}
+        - {x: -20.574678, y: 13.481857}
+        - {x: -20.574678, y: 14.481857}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c671722ad47943a395ab8d004a656f92
+      internalID: 21300006
+      vertices:
+      - {x: 36.425323, y: -4.5181427}
+      - {x: -21.574675, y: -28.518139}
+      - {x: -0.5746746, y: 11.481857}
+      indices: 000000000100000002000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_parasite_beans_visor_lime0002
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 67
+        width: 47
+        height: 27
+      alignment: 9
+      pivot: {x: 1.1276596, y: 0.37037036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -23.499996, y: 13.5}
+        - {x: 23.5, y: 3.5}
+        - {x: -14.5, y: -13.499999}
+      physicsShape:
+      - - {x: 1.5, y: 8.5}
+        - {x: -19.499996, y: 8.5}
+        - {x: -19.499996, y: -8.5}
+        - {x: -0.4999981, y: -8.5}
+        - {x: 6.500002, y: -1.5}
+        - {x: 7.5, y: 0.5}
+        - {x: 7.5, y: 4.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb21be836624039aa2e950059515d55
+      internalID: 21300008
+      vertices:
+      - {x: 17.5, y: 20.5}
+      - {x: -20.5, y: 3.500001}
+      - {x: -29.499996, y: 30.5}
+      indices: 000000000100000002000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      2024_parasite_beans_visor_black0001: 21300004
+      2024_parasite_beans_visor_black0002: 21300000
+      2024_parasite_beans_visor_black0003: 21300002
+      2024_parasite_beans_visor_lime0001: 21300006
+      2024_parasite_beans_visor_lime0002: 21300008
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

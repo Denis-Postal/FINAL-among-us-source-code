@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34dbbca2782109f6e3adf5c13b847bbc, type: 3}
+  m_Name: ReferenceData
+  m_EditorClassIdentifier:
+  userFacingVersion:
+  privacyPolicyVersion: 0
+  credits: {fileID: 0}
+  cosmicubes: []
+  starBundles: []
+  pets: []
+  hats: []
+  skins: []
+  visors: []
+  nameplates: []
+  bundles: []
+  CosmeticBlacklist: []
+  LongModeBlacklist: []
+  languages: []
+  FeaturedItemGroups: []
+  Groups: {fileID: 0}
+  AprilFoolLimitedTime:
+    timeStart:
+      limitedYear: 0
+      limitedMonth: 0
+      limitedDay: 0
+      limitedHour: 0
+      limitedMinute: 0
+    timeEnd:
+      limitedYear: 0
+      limitedMonth: 0
+      limitedDay: 0
+      limitedHour: 0
+      limitedMinute: 0
+  StoreBundlesVersion: 05/06/2022
+  StoreHatsVersion: 05/06/2022
+  StoreOutfitsVersion: 05/06/2022
+  StorePetsVersion: 05/06/2022
+  StoreNameplatesVersion: 05/06/2022
+  StoreVisorsVersion: 05/06/2022
+  StoreCubesVersion: 05/06/2022

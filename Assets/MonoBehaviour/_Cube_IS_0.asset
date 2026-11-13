@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 825ac4e4914361a3d7ea08f1b54d9d4f, type: 3}
+  m_Name: _Cube_IS
+  m_EditorClassIdentifier:
+  StoreImageRef:
+    m_AssetGUID: 1909d160da1cd48fbad65fc89bab5306
+    m_SubObjectName: cosmicube_Innersloth
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  CosmicubePrefabRef:
+    m_AssetGUID: cd6cceb16a49fd44fbeaa48a1218b649
+    m_SubObjectName:
+    m_SubObjectType:
+  podIconRef:
+    m_AssetGUID: 71a0af619b98e4224b42fd62ace968fc
+    m_SubObjectName: UI_Currency_Physical
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  DateCreated:
+  allUnlockables:
+  - {fileID: 11400000, guid: 6365bd3987e0b884cabcb7c082d3eb49, type: 2}
+  - {fileID: 11400000, guid: 47c7425930058ef46b2cd43c104f6fb4, type: 2}
+  - {fileID: 11400000, guid: 219e85e1ad986724cb8aaef8ad90dcab, type: 2}
+  - {fileID: 11400000, guid: 8b024e1f194cb054eabea8ff35733d2b, type: 2}
+  - {fileID: 11400000, guid: 7fb7f67aecbb56741b6d9ac56c512d94, type: 2}
+  - {fileID: 11400000, guid: 5ad4536a00e4c864a9e88424c94beb8a, type: 2}
+  - {fileID: 11400000, guid: cf62b5a5fdc44084d9736891d14a3b78, type: 2}
+  - {fileID: 11400000, guid: e56116aa489ff5c4ebe9396ccd926eab, type: 2}
+  - {fileID: 11400000, guid: 3047bf98d1ac7424784902ef450b8e47, type: 2}
+  - {fileID: 11400000, guid: 762c108317a032e4ba89ec9d05469436, type: 2}
+  - {fileID: 11400000, guid: e67c0c334d52f744fb631b206b2e42a1, type: 2}
+  - {fileID: 11400000, guid: 0e12ebf97782cd943a48388f671715fd, type: 2}
+  - {fileID: 11400000, guid: c6b8bc20c99f9244ca481a76162ae7ea, type: 2}
+  - {fileID: 11400000, guid: 5f5fe97dd8fae44469b93fbb6f8a6d98, type: 2}
+  - {fileID: 11400000, guid: 65f0f56c5037f954ea09bf55c9b27096, type: 2}
+  - {fileID: 11400000, guid: 8dc56132a3276ec41a67fd98309c27e2, type: 2}
+  - {fileID: 11400000, guid: 57624bda67754dc4f8abeaa0f19339d0, type: 2}
+  - {fileID: 11400000, guid: eb137db74ec31d641849f1d94bc10829, type: 2}
+  - {fileID: 11400000, guid: 1e561f606acc6db4b96a4eec82754a8f, type: 2}
+  - {fileID: 11400000, guid: 02bbfa4b61b59f6498b209b5838f9ff2, type: 2}
+  - {fileID: 11400000, guid: 2dfde0c3cc6535a49a05fa5201082b2e, type: 2}
+  - {fileID: 11400000, guid: b68c864ddd72d5a4eab563fd4e5c52bf, type: 2}
+  - {fileID: 11400000, guid: feef144bde1bf224184cf1f0c0f685ff, type: 2}
+  - {fileID: 11400000, guid: 78a5c7e71f59d66418b6a24f8d287159, type: 2}
+  - {fileID: 11400000, guid: d141b04ab77e0184f892316bf4073d39, type: 2}
+  - {fileID: 11400000, guid: e518a09c1a9defa46bdd79a039a94c73, type: 2}
+  - {fileID: 11400000, guid: 9c176f4df549ffa489f76877975a4d5e, type: 2}
+  - {fileID: 11400000, guid: 04d8ce558ea7d4241bdc8db8ca903bd1, type: 2}
+  - {fileID: 11400000, guid: 93b42ab854e69d14fb4db9610fc62b3f, type: 2}
+  starCost: 50
+  beanCost: 0
+  Order: 0
+  Free: 0
+  NotInStore: 1
+  XRange:
+    min: -0.55
+    max: 0.53
+  YRange:
+    min: -0.51
+    max: 0.8
+  podId: innersloth
+  productId: cube_innersloth
+  cosmicubeName: Innersloth
+  limitedTime:
+    timeStart:
+      limitedYear: 0
+      limitedMonth: 0
+      limitedDay: 0
+      limitedHour: 0
+      limitedMinute: 0
+    timeEnd:
+      limitedYear: 0
+      limitedMonth: 0
+      limitedDay: 0
+      limitedHour: 0
+      limitedMinute: 0
+  epicId:

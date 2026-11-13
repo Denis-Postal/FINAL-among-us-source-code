@@ -1,0 +1,992 @@
+fileFormatVersion: 2
+guid: ac6fd16926cac384098cd78b52728e2a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: 2022_foodcube_pet_GummyCrewmate_walk0007
+  - first:
+      213: 21300002
+    second: 2022_foodcube_pet_GummyCrewmate_scared0002
+  - first:
+      213: 21300004
+    second: 2022_foodcube_pet_GummyCrewmate_idle
+  - first:
+      213: 21300006
+    second: 2022_foodcube_pet_GummyCrewmate_sad
+  - first:
+      213: 21300008
+    second: 2022_foodcube_pet_GummyCrewmate_walk0015
+  - first:
+      213: 21300010
+    second: 2022_foodcube_pet_GummyCrewmate_scared0001
+  - first:
+      213: 21300012
+    second: 2022_foodcube_pet_GummyCrewmate_scared0003
+  - first:
+      213: 21300014
+    second: 2022_foodcube_pet_GummyCrewmate_walk0001
+  - first:
+      213: 21300016
+    second: 2022_foodcube_pet_GummyCrewmate_scared0004
+  - first:
+      213: 21300018
+    second: 2022_foodcube_pet_GummyCrewmate_walk0012
+  - first:
+      213: 21300020
+    second: 2022_foodcube_pet_GummyCrewmate_walk0016
+  - first:
+      213: 21300022
+    second: 2022_foodcube_pet_GummyCrewmate_walk0010
+  - first:
+      213: 21300024
+    second: 2022_foodcube_pet_GummyCrewmate_walk0005
+  - first:
+      213: 21300026
+    second: 2022_foodcube_pet_GummyCrewmate_walk0004
+  - first:
+      213: 21300028
+    second: 2022_foodcube_pet_GummyCrewmate_walk0003
+  - first:
+      213: 21300030
+    second: 2022_foodcube_pet_GummyCrewmate_walk0014
+  - first:
+      213: 21300032
+    second: 2022_foodcube_pet_GummyCrewmate_walk0008
+  - first:
+      213: 21300034
+    second: 2022_foodcube_pet_GummyCrewmate_walk0002
+  - first:
+      213: 21300036
+    second: 2022_foodcube_pet_GummyCrewmate_walk0013
+  - first:
+      213: 21300038
+    second: 2022_foodcube_pet_GummyCrewmate_walk0009
+  - first:
+      213: 21300040
+    second: 2022_foodcube_pet_GummyCrewmate_walk0006
+  - first:
+      213: 21300042
+    second: 2022_foodcube_pet_GummyCrewmate_walk0011
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 25
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2022_foodcube_pet_GummyCrewmate_walk0007
+      rect:
+        serializedVersion: 2
+        x: 6.0761204
+        y: 147.07613
+        width: 97.89713
+        height: 97.89713
+      alignment: 9
+      pivot: {x: 0.42824423, y: 0.44867375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -54.024685, y: -1.0246925}
+        - {x: -34.02468, y: 41.975307}
+        - {x: 0.9753151, y: 50.975307}
+        - {x: 37.975315, y: 39.975307}
+        - {x: 51.97531, y: -44.024693}
+        - {x: -0.024684906, y: -54.02469}
+        - {x: -41.024685, y: -46.024693}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d31c482dc524f97b287e492a924b803
+      internalID: 21300000
+      vertices:
+      - {x: 93.94856, y: 93.94856}
+      - {x: 107.94856, y: 9.948566}
+      - {x: 55.948566, y: -0.05142975}
+      - {x: 14.948566, y: 7.9485664}
+      - {x: 1.9485664, y: 52.948566}
+      - {x: 21.948568, y: 95.94856}
+      - {x: 56.948566, y: 104.94856}
+      indices: 040000000500000006000000020000000400000006000000020000000300000004000000000000000100000002000000000000000200000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_foodcube_pet_GummyCrewmate_scared0002
+      rect:
+        serializedVersion: 2
+        x: 757.05133
+        y: 133
+        width: 93.948685
+        height: 110.92388
+      alignment: 9
+      pivot: {x: 0.531659, y: 0.52288115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -51.025673, y: -2.461937}
+        - {x: -35.025673, y: 50.538063}
+        - {x: -8.025673, y: 58.53806}
+        - {x: 26.974327, y: 46.53806}
+        - {x: 46.974327, y: -7.461937}
+        - {x: 46.974327, y: -55.461937}
+        - {x: -19.025673, y: -55.461937}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d11fe29f52406db6fddc6906f637f0
+      internalID: 21300002
+      vertices:
+      - {x: 70.97435, y: 99.46193}
+      - {x: 90.97435, y: 45.461937}
+      - {x: 90.97435, y: -2.538063}
+      - {x: 24.974346, y: -2.538063}
+      - {x: -7.025654, y: 50.461937}
+      - {x: 8.974346, y: 103.46194}
+      - {x: 35.974346, y: 111.46193}
+      indices: 040000000500000006000000000000000100000004000000010000000200000003000000010000000300000004000000000000000400000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_foodcube_pet_GummyCrewmate_idle
+      rect:
+        serializedVersion: 2
+        x: 643.0761
+        y: 15.026751
+        width: 89.84776
+        height: 109.89713
+      alignment: 9
+      pivot: {x: 0.46661028, y: 0.5366222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 35.000008, y: -47.975315}
+        - {x: -5.9999924, y: -58.975315}
+        - {x: -41.999992, y: -45.975315}
+        - {x: -51.99999, y: 13.024681}
+        - {x: -5.9999924, y: 61.02468}
+        - {x: 51.000004, y: 43.024677}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc23d3ec6774241bf53f19d31107bd5
+      internalID: 21300004
+      vertices:
+      - {x: 98.923874, y: 93.94856}
+      - {x: 82.92388, y: 2.948574}
+      - {x: 41.92388, y: -8.051426}
+      - {x: 5.9238815, y: 4.948574}
+      - {x: -4.0761147, y: 63.94857}
+      - {x: 41.92388, y: 111.94857}
+      indices: 010000000200000004000000020000000300000004000000010000000400000005000000000000000100000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_foodcube_pet_GummyCrewmate_sad
+      rect:
+        serializedVersion: 2
+        x: 1064.0762
+        y: 12.07612
+        width: 92.89713
+        height: 105.84776
+      alignment: 9
+      pivot: {x: 0.40823466, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -42.52474, y: 39}
+        - {x: 17.475262, y: 63}
+        - {x: 42.47526, y: 26.999998}
+        - {x: 47.47526, y: -44}
+        - {x: -13.524738, y: -62}
+        - {x: -51.524734, y: -21}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7601b0e04873407387a6bdce64612a17
+      internalID: 21300006
+      vertices:
+      - {x: 97.44856, y: 79.92388}
+      - {x: 102.44856, y: 8.923882}
+      - {x: 41.448566, y: -9.076118}
+      - {x: 3.4485703, y: 31.923882}
+      - {x: 12.448566, y: 91.92388}
+      - {x: 72.44856, y: 115.92388}
+      indices: 000000000400000005000000020000000000000001000000020000000300000000000000000000000300000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_foodcube_pet_GummyCrewmate_walk0015
+      rect:
+        serializedVersion: 2
+        x: 3.0761204
+        y: 27.02675
+        width: 88.92388
+        height: 104.89713
+      alignment: 9
+      pivot: {x: 0.44896692, y: 0.47640246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 44.461937, y: 42.524685}
+        - {x: 44.461937, y: -56.47531}
+        - {x: -41.53806, y: -43.475315}
+        - {x: -46.53806, y: 11.524685}
+        - {x: -18.53806, y: 60.524685}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172262caba6346b6ba017513d6f36075
+      internalID: 21300008
+      vertices:
+      - {x: 93.46194, y: 97.44856}
+      - {x: 93.46194, y: -1.5514297}
+      - {x: 7.461941, y: 11.448566}
+      - {x: 2.4619408, y: 66.44856}
+      - {x: 30.46194, y: 115.44856}
+      indices: 000000000100000003000000010000000200000003000000000000000300000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_foodcube_pet_GummyCrewmate_scared0001
+      rect:
+        serializedVersion: 2
+        x: 757.05133
+        y: 133
+        width: 93.948685
+        height: 110.92388
+      alignment: 9
+      pivot: {x: 0.531659, y: 0.52288115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -51.025673, y: -2.461937}
+        - {x: -35.025673, y: 50.538063}
+        - {x: -8.025673, y: 58.53806}
+        - {x: 26.974327, y: 46.53806}
+        - {x: 46.974327, y: -7.461937}
+        - {x: 46.974327, y: -55.461937}
+        - {x: -19.025673, y: -55.461937}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ea2465ce7e4cc181921296a80c9904
+      internalID: 21300010
+      vertices:
+      - {x: 70.97435, y: 99.46193}
+      - {x: 90.97435, y: 45.461937}
+      - {x: 90.97435, y: -2.538063}
+      - {x: 24.974346, y: -2.538063}
+      - {x: -7.025654, y: 50.461937}
+      - {x: 8.974346, y: 103.46194}
+      - {x: 35.974346, y: 111.46193}
+      indices: 040000000500000006000000000000000100000004000000010000000200000003000000010000000300000004000000000000000400000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_foodcube_pet_GummyCrewmate_scared0003
+      rect:
+        serializedVersion: 2
+        x: 532.02673
+        y: 14.026751
+        width: 95.89713
+        height: 111.89713
+      alignment: 9
+      pivot: {x: 0.53154105, y: 0.52703094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -34.9753, y: 53.024685}
+        - {x: 12.0247, y: 62.02468}
+        - {x: 34.0247, y: 31.024685}
+        - {x: 54.0247, y: -54.975315}
+        - {x: -18.9753, y: -55.97531}
+        - {x: -49.9753, y: -5.975315}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1addfd1769c8449eacf87419832ae367
+      internalID: 21300012
+      vertices:
+      - {x: 78.94857, y: 83.94856}
+      - {x: 98.94857, y: -2.0514336}
+      - {x: 25.94857, y: -3.0514297}
+      - {x: -5.0514297, y: 46.948566}
+      - {x: 9.94857, y: 105.94856}
+      - {x: 56.94857, y: 114.94856}
+      indices: 000000000400000005000000000000000300000004000000000000000100000002000000000000000200000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_foodcube_pet_GummyCrewmate_walk0001
+      rect:
+        serializedVersion: 2
+        x: 554.0761
+        y: 140.02675
+        width: 87.89713
+        height: 101.9465
+      alignment: 9
+      pivot: {x: 0.4428346, y: 0.6177088}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -47.024677, y: 16}
+        - {x: -7.0246773, y: 56}
+        - {x: 51.975323, y: 39}
+        - {x: 29.975323, y: -43}
+        - {x: -0.024677753, y: -57}
+        - {x: -41.024677, y: -24}
+      physicsShape:
+      - - {x: -38.024677, y: 4}
+        - {x: -36.024677, y: -2}
+        - {x: -25.024675, y: -2}
+        - {x: -25.024675, y: 12}
+        - {x: -26.024677, y: 15}
+        - {x: -32.024673, y: 15}
+        - {x: -38.024677, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41452aa9c1fe41849f98bef32e04a6a7
+      internalID: 21300014
+      vertices:
+      - {x: 100.94856, y: 77.97325}
+      - {x: 78.94856, y: -4.0267487}
+      - {x: 48.948566, y: -18.026749}
+      - {x: 7.9485664, y: 14.973251}
+      - {x: 1.9485664, y: 54.97325}
+      - {x: 41.948566, y: 94.97325}
+      indices: 010000000400000005000000010000000200000003000000010000000300000004000000000000000100000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_foodcube_pet_GummyCrewmate_scared0004
+      rect:
+        serializedVersion: 2
+        x: 748.02673
+        y: 11.026751
+        width: 93.89713
+        height: 111.89713
+      alignment: 9
+      pivot: {x: 0.521563, y: 0.52703094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -29.9753, y: 53.024685}
+        - {x: 11.0247, y: 64.02469}
+        - {x: 38.0247, y: 30.024683}
+        - {x: 51.0247, y: -54.975315}
+        - {x: -20.9753, y: -56.97531}
+        - {x: -53.975296, y: 6.024685}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8021cee5fd4eafb440f2e594b98263
+      internalID: 21300016
+      vertices:
+      - {x: 82.94856, y: 82.94856}
+      - {x: 95.94856, y: -2.0514336}
+      - {x: 23.948563, y: -4.0514297}
+      - {x: -9.051434, y: 58.948566}
+      - {x: 14.948563, y: 105.94856}
+      - {x: 55.948563, y: 116.94856}
+      indices: 000000000400000005000000000000000300000004000000000000000100000002000000000000000200000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_foodcube_pet_GummyCrewmate_walk0012
+      rect:
+        serializedVersion: 2
+        x: 1080.0762
+        y: 134.02675
+        width: 88.92388
+        height: 104.89713
+      alignment: 9
+      pivot: {x: 0.44896632, y: 0.5526677}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 44.461884, y: 42.524685}
+        - {x: 44.461884, y: -56.47531}
+        - {x: -41.538113, y: -43.475315}
+        - {x: -46.538113, y: 11.524685}
+        - {x: -18.538113, y: 60.524685}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf7792722eb470aa437010fb3ab13f9
+      internalID: 21300018
+      vertices:
+      - {x: 93.46194, y: 89.44856}
+      - {x: 93.46194, y: -9.551434}
+      - {x: 7.461941, y: 3.4485626}
+      - {x: 2.4619408, y: 58.448563}
+      - {x: 30.46194, y: 107.44856}
+      indices: 000000000100000003000000010000000200000003000000000000000300000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_foodcube_pet_GummyCrewmate_walk0016
+      rect:
+        serializedVersion: 2
+        x: 210.07613
+        y: 21.07612
+        width: 89.89713
+        height: 104.89713
+      alignment: 9
+      pivot: {x: 0.4441062, y: 0.5140644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 12.975307, y: -56.52469}
+        - {x: -38.024693, y: -39.52469}
+        - {x: -51.02469, y: 14.475311}
+        - {x: -5.0246925, y: 60.475307}
+        - {x: 42.975307, y: 37.47531}
+        - {x: 45.975307, y: -49.52469}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f408ab388dea420195f878cb4b92022d
+      internalID: 21300020
+      vertices:
+      - {x: 92.94856, y: 88.44856}
+      - {x: 95.94856, y: 1.4485664}
+      - {x: 62.948566, y: -5.5514336}
+      - {x: 11.948566, y: 11.448566}
+      - {x: -1.0514297, y: 65.44856}
+      - {x: 44.948566, y: 111.44856}
+      indices: 030000000000000002000000030000000400000000000000000000000100000002000000000000000400000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_foodcube_pet_GummyCrewmate_walk0010
+      rect:
+        serializedVersion: 2
+        x: 240.07613
+        y: 143.02675
+        width: 85.92388
+        height: 100.9465
+      alignment: 9
+      pivot: {x: 0.4530041, y: 0.59410924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -40.038067, y: 34.5}
+        - {x: -2.038067, y: 53.5}
+        - {x: 42.961933, y: 43.5}
+        - {x: 42.961933, y: -11.5}
+        - {x: 19.961933, y: -57.499992}
+        - {x: -23.038067, y: -46.5}
+        - {x: -57.038067, y: 3.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022eedc03c49422dac364faa3f6c6cc2
+      internalID: 21300022
+      vertices:
+      - {x: 89.961945, y: 84.47325}
+      - {x: 89.961945, y: 29.473251}
+      - {x: 66.961945, y: -16.526741}
+      - {x: 23.961945, y: -5.5267487}
+      - {x: -10.038055, y: 44.47325}
+      - {x: 6.9619446, y: 75.47325}
+      - {x: 44.961945, y: 94.47325}
+      indices: 010000000500000006000000030000000400000005000000010000000200000003000000010000000300000005000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_foodcube_pet_GummyCrewmate_walk0005
+      rect:
+        serializedVersion: 2
+        x: 6.0761204
+        y: 147.07613
+        width: 97.89713
+        height: 97.89713
+      alignment: 9
+      pivot: {x: 0.42824423, y: 0.44867375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -54.024685, y: -1.0246925}
+        - {x: -34.02468, y: 41.975307}
+        - {x: 0.9753151, y: 50.975307}
+        - {x: 37.975315, y: 39.975307}
+        - {x: 51.97531, y: -44.024693}
+        - {x: -0.024684906, y: -54.02469}
+        - {x: -41.024685, y: -46.024693}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c6880a84ce4026af07732ab7658f55
+      internalID: 21300024
+      vertices:
+      - {x: 93.94856, y: 93.94856}
+      - {x: 107.94856, y: 9.948566}
+      - {x: 55.948566, y: -0.05142975}
+      - {x: 14.948566, y: 7.9485664}
+      - {x: 1.9485664, y: 52.948566}
+      - {x: 21.948568, y: 95.94856}
+      - {x: 56.948566, y: 104.94856}
+      indices: 040000000500000006000000020000000400000006000000020000000300000004000000000000000100000002000000000000000200000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_foodcube_pet_GummyCrewmate_walk0004
+      rect:
+        serializedVersion: 2
+        x: 6.0761204
+        y: 147.07613
+        width: 97.89713
+        height: 97.89713
+      alignment: 9
+      pivot: {x: 0.42824423, y: 0.5099626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -54.024685, y: -1.0246923}
+        - {x: -34.02468, y: 41.975307}
+        - {x: 0.9753151, y: 50.975304}
+        - {x: 37.975315, y: 39.975307}
+        - {x: 51.97531, y: -44.02469}
+        - {x: -0.024684906, y: -54.02469}
+        - {x: -41.024685, y: -46.024693}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b869776ecdb4b17a65196879a396353
+      internalID: 21300026
+      vertices:
+      - {x: 93.94856, y: 87.94856}
+      - {x: 107.94856, y: 3.9485664}
+      - {x: 55.948566, y: -6.0514336}
+      - {x: 14.948566, y: 1.9485626}
+      - {x: 1.9485664, y: 46.948563}
+      - {x: 21.948568, y: 89.94856}
+      - {x: 56.948566, y: 98.94856}
+      indices: 040000000500000006000000020000000400000006000000020000000300000004000000000000000100000002000000000000000200000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_foodcube_pet_GummyCrewmate_walk0003
+      rect:
+        serializedVersion: 2
+        x: 6.0761204
+        y: 147.07613
+        width: 97.89713
+        height: 97.89713
+      alignment: 9
+      pivot: {x: 0.42824423, y: 0.5099626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -54.024685, y: -1.0246923}
+        - {x: -34.02468, y: 41.975307}
+        - {x: 0.9753151, y: 50.975304}
+        - {x: 37.975315, y: 39.975307}
+        - {x: 51.97531, y: -44.02469}
+        - {x: -0.024684906, y: -54.02469}
+        - {x: -41.024685, y: -46.024693}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c7174bc2a54048a6607e6393cfbbed
+      internalID: 21300028
+      vertices:
+      - {x: 93.94856, y: 87.94856}
+      - {x: 107.94856, y: 3.9485664}
+      - {x: 55.948566, y: -6.0514336}
+      - {x: 14.948566, y: 1.9485626}
+      - {x: 1.9485664, y: 46.948563}
+      - {x: 21.948568, y: 89.94856}
+      - {x: 56.948566, y: 98.94856}
+      indices: 040000000500000006000000020000000400000006000000020000000300000004000000000000000100000002000000000000000200000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_foodcube_pet_GummyCrewmate_walk0014
+      rect:
+        serializedVersion: 2
+        x: 3.0761204
+        y: 27.02675
+        width: 88.92388
+        height: 104.89713
+      alignment: 9
+      pivot: {x: 0.44896692, y: 0.47640246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 44.461937, y: 42.524685}
+        - {x: 44.461937, y: -56.47531}
+        - {x: -41.53806, y: -43.475315}
+        - {x: -46.53806, y: 11.524685}
+        - {x: -18.53806, y: 60.524685}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3239db6c33964e0a8aab71013463f6ef
+      internalID: 21300030
+      vertices:
+      - {x: 93.46194, y: 97.44856}
+      - {x: 93.46194, y: -1.5514297}
+      - {x: 7.461941, y: 11.448566}
+      - {x: 2.4619408, y: 66.44856}
+      - {x: 30.46194, y: 115.44856}
+      indices: 000000000100000003000000010000000200000003000000000000000300000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_foodcube_pet_GummyCrewmate_walk0008
+      rect:
+        serializedVersion: 2
+        x: 6.0761204
+        y: 147.07613
+        width: 97.89713
+        height: 97.89713
+      alignment: 9
+      pivot: {x: 0.42824423, y: 0.47931817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -54.024685, y: -1.0246925}
+        - {x: -34.02468, y: 41.975307}
+        - {x: 0.9753151, y: 50.975304}
+        - {x: 37.975315, y: 39.975307}
+        - {x: 51.97531, y: -44.024693}
+        - {x: -0.024684906, y: -54.024693}
+        - {x: -41.024685, y: -46.024693}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c241593f87fc4b25902276270db0fd43
+      internalID: 21300032
+      vertices:
+      - {x: 93.94856, y: 90.94856}
+      - {x: 107.94856, y: 6.9485664}
+      - {x: 55.948566, y: -3.0514336}
+      - {x: 14.948566, y: 4.9485664}
+      - {x: 1.9485664, y: 49.948566}
+      - {x: 21.948568, y: 92.94856}
+      - {x: 56.948566, y: 101.94856}
+      indices: 040000000500000006000000020000000400000006000000020000000300000004000000000000000100000002000000000000000200000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_foodcube_pet_GummyCrewmate_walk0002
+      rect:
+        serializedVersion: 2
+        x: 554.0761
+        y: 140.02675
+        width: 87.89713
+        height: 101.9465
+      alignment: 9
+      pivot: {x: 0.4428346, y: 0.6177088}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -47.024677, y: 16}
+        - {x: -7.0246773, y: 56}
+        - {x: 51.975323, y: 39}
+        - {x: 29.975323, y: -43}
+        - {x: -0.024677753, y: -57}
+        - {x: -41.024677, y: -24}
+      physicsShape:
+      - - {x: -38.024677, y: 4}
+        - {x: -36.024677, y: -2}
+        - {x: -25.024675, y: -2}
+        - {x: -25.024675, y: 12}
+        - {x: -26.024677, y: 15}
+        - {x: -32.024673, y: 15}
+        - {x: -38.024677, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b709707dca044efa5aa88fd1d72ca35
+      internalID: 21300034
+      vertices:
+      - {x: 100.94856, y: 77.97325}
+      - {x: 78.94856, y: -4.0267487}
+      - {x: 48.948566, y: -18.026749}
+      - {x: 7.9485664, y: 14.973251}
+      - {x: 1.9485664, y: 54.97325}
+      - {x: 41.948566, y: 94.97325}
+      indices: 010000000400000005000000010000000200000003000000010000000300000004000000000000000100000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_foodcube_pet_GummyCrewmate_walk0013
+      rect:
+        serializedVersion: 2
+        x: 3.0761204
+        y: 27.02675
+        width: 88.92388
+        height: 104.89713
+      alignment: 9
+      pivot: {x: 0.44896692, y: 0.47640246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 44.461937, y: 42.524685}
+        - {x: 44.461937, y: -56.47531}
+        - {x: -41.53806, y: -43.475315}
+        - {x: -46.53806, y: 11.524685}
+        - {x: -18.53806, y: 60.524685}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7ae167362f4f9d9d9f0742e54d09b7
+      internalID: 21300036
+      vertices:
+      - {x: 93.46194, y: 97.44856}
+      - {x: 93.46194, y: -1.5514297}
+      - {x: 7.461941, y: 11.448566}
+      - {x: 2.4619408, y: 66.44856}
+      - {x: 30.46194, y: 115.44856}
+      indices: 000000000100000003000000010000000200000003000000000000000300000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_foodcube_pet_GummyCrewmate_walk0009
+      rect:
+        serializedVersion: 2
+        x: 240.07613
+        y: 143.02675
+        width: 85.92388
+        height: 100.9465
+      alignment: 9
+      pivot: {x: 0.4530041, y: 0.59410924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -40.038067, y: 34.5}
+        - {x: -2.038067, y: 53.5}
+        - {x: 42.961933, y: 43.5}
+        - {x: 42.961933, y: -11.5}
+        - {x: 19.961933, y: -57.499992}
+        - {x: -23.038067, y: -46.5}
+        - {x: -57.038067, y: 3.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa240bcb6c146dfb83569ebe8979e09
+      internalID: 21300038
+      vertices:
+      - {x: 89.961945, y: 84.47325}
+      - {x: 89.961945, y: 29.473251}
+      - {x: 66.961945, y: -16.526741}
+      - {x: 23.961945, y: -5.5267487}
+      - {x: -10.038055, y: 44.47325}
+      - {x: 6.9619446, y: 75.47325}
+      - {x: 44.961945, y: 94.47325}
+      indices: 010000000500000006000000030000000400000005000000010000000200000003000000010000000300000005000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_foodcube_pet_GummyCrewmate_walk0006
+      rect:
+        serializedVersion: 2
+        x: 6.0761204
+        y: 147.07613
+        width: 97.89713
+        height: 97.89713
+      alignment: 9
+      pivot: {x: 0.42824423, y: 0.44867375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -54.024685, y: -1.0246925}
+        - {x: -34.02468, y: 41.975307}
+        - {x: 0.9753151, y: 50.975307}
+        - {x: 37.975315, y: 39.975307}
+        - {x: 51.97531, y: -44.024693}
+        - {x: -0.024684906, y: -54.02469}
+        - {x: -41.024685, y: -46.024693}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27e78d468124290b8f27d355adc9b81
+      internalID: 21300040
+      vertices:
+      - {x: 93.94856, y: 93.94856}
+      - {x: 107.94856, y: 9.948566}
+      - {x: 55.948566, y: -0.05142975}
+      - {x: 14.948566, y: 7.9485664}
+      - {x: 1.9485664, y: 52.948566}
+      - {x: 21.948568, y: 95.94856}
+      - {x: 56.948566, y: 104.94856}
+      indices: 040000000500000006000000020000000400000006000000020000000300000004000000000000000100000002000000000000000200000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_foodcube_pet_GummyCrewmate_walk0011
+      rect:
+        serializedVersion: 2
+        x: 1080.0762
+        y: 134.02675
+        width: 88.92388
+        height: 104.89713
+      alignment: 9
+      pivot: {x: 0.44896632, y: 0.5526677}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 44.461884, y: 42.524685}
+        - {x: 44.461884, y: -56.47531}
+        - {x: -41.538113, y: -43.475315}
+        - {x: -46.538113, y: 11.524685}
+        - {x: -18.538113, y: 60.524685}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe1b65a78da4f828bf9b7294888f3f3
+      internalID: 21300042
+      vertices:
+      - {x: 93.46194, y: 89.44856}
+      - {x: 93.46194, y: -9.551434}
+      - {x: 7.461941, y: 3.4485626}
+      - {x: 2.4619408, y: 58.448563}
+      - {x: 30.46194, y: 107.44856}
+      indices: 000000000100000003000000010000000200000003000000000000000300000004000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      2022_foodcube_pet_GummyCrewmate_idle: 21300004
+      2022_foodcube_pet_GummyCrewmate_sad: 21300006
+      2022_foodcube_pet_GummyCrewmate_scared0001: 21300010
+      2022_foodcube_pet_GummyCrewmate_scared0002: 21300002
+      2022_foodcube_pet_GummyCrewmate_scared0003: 21300012
+      2022_foodcube_pet_GummyCrewmate_scared0004: 21300016
+      2022_foodcube_pet_GummyCrewmate_walk0001: 21300014
+      2022_foodcube_pet_GummyCrewmate_walk0002: 21300034
+      2022_foodcube_pet_GummyCrewmate_walk0003: 21300028
+      2022_foodcube_pet_GummyCrewmate_walk0004: 21300026
+      2022_foodcube_pet_GummyCrewmate_walk0005: 21300024
+      2022_foodcube_pet_GummyCrewmate_walk0006: 21300040
+      2022_foodcube_pet_GummyCrewmate_walk0007: 21300000
+      2022_foodcube_pet_GummyCrewmate_walk0008: 21300032
+      2022_foodcube_pet_GummyCrewmate_walk0009: 21300038
+      2022_foodcube_pet_GummyCrewmate_walk0010: 21300022
+      2022_foodcube_pet_GummyCrewmate_walk0011: 21300042
+      2022_foodcube_pet_GummyCrewmate_walk0012: 21300018
+      2022_foodcube_pet_GummyCrewmate_walk0013: 21300036
+      2022_foodcube_pet_GummyCrewmate_walk0014: 21300030
+      2022_foodcube_pet_GummyCrewmate_walk0015: 21300008
+      2022_foodcube_pet_GummyCrewmate_walk0016: 21300020
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

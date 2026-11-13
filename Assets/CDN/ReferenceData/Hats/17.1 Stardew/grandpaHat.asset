@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e65bf483b6b7de711829e639a4b9d308, type: 3}
+  m_Name: grandpaHat
+  m_EditorClassIdentifier:
+  unlockOnSelectPlatforms:
+  freeRedeemableCosmetic: 0
+  redeemPopUpColor: -1
+  epicId:
+  BundleId:
+  ProductId: hat_stardew_grandpa
+  ChipOffset: {x: 0, y: 0}
+  beanCost: 0
+  starCost: 0
+  paidOnMobile: 0
+  limitedTime:
+    timeStart:
+      limitedYear: 0
+      limitedMonth: 0
+      limitedDay: 0
+      limitedHour: 0
+      limitedMinute: 0
+    timeEnd:
+      limitedYear: 0
+      limitedMonth: 0
+      limitedDay: 0
+      limitedHour: 0
+      limitedMinute: 0
+  displayOrder: 0
+  NotInStore: 1
+  Free: 0
+  PreviewData:
+    m_AssetGUID: b2b28cbf3b40f454985028010c115ece
+    m_SubObjectName:
+    m_SubObjectType:
+  PreviewCrewmateColor: 0
+  ViewDataRef:
+    m_AssetGUID: bc04a20931631432e9a7a1927683823a
+    m_SubObjectName:
+    m_SubObjectType:
+  InFront: 0
+  NoBounce: 1
+  BlocksVisors: 0
+  StoreName:
+  RelatedSkin: {fileID: 0}

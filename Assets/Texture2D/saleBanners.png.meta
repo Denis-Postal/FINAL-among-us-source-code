@@ -1,0 +1,436 @@
+fileFormatVersion: 2
+guid: b15688616e6a3ec458083bdd9be1aa58
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: UI_Bundles_Bedcrab
+  - first:
+      213: 21300002
+    second: UI_Bundles_Stickmin
+  - first:
+      213: 21300004
+    second: UI_Bundle_Polus
+  - first:
+      213: 21300006
+    second: UI_Bundles_Hamster
+  - first:
+      213: 21300008
+    second: UI_Bundles_Mira
+  - first:
+      213: 21300010
+    second: UI_Bundles_MiniCrewmate
+  - first:
+      213: 21300012
+    second: UI_Bundles_Brainslug
+  - first:
+      213: 21300014
+    second: UI_Bundles_AirshipHats
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_Bundles_Bedcrab
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1728
+        width: 553
+        height: 319
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -276.5, y: -159.49998}
+        - {x: -276.5, y: 159.49998}
+        - {x: 276.5, y: 159.49998}
+        - {x: 276.5, y: -159.49998}
+      physicsShape:
+      - - {x: -276.5, y: 159.49998}
+        - {x: -276.5, y: -159.49998}
+        - {x: 276.5, y: -159.49998}
+        - {x: 276.5, y: 159.49998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aaa9f45a48c45e88b0efe675df86d33
+      internalID: 21300000
+      vertices:
+      - {x: 553, y: 0.000015258789}
+      - {x: 0, y: 0.000015258789}
+      - {x: 0, y: 319}
+      - {x: 553, y: 319}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bundles_Stickmin
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1086
+        width: 553
+        height: 319
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -276.5, y: -159.49998}
+        - {x: -276.5, y: 159.49998}
+        - {x: 276.5, y: 159.49998}
+        - {x: 276.5, y: -159.49998}
+      physicsShape:
+      - - {x: -276.5, y: 159.49998}
+        - {x: -276.5, y: -159.49998}
+        - {x: 276.5, y: -159.49998}
+        - {x: 276.5, y: 159.49998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41986fef5634198b01eae5e936eac64
+      internalID: 21300002
+      vertices:
+      - {x: 553, y: 0.000015258789}
+      - {x: 0, y: 0.000015258789}
+      - {x: 0, y: 319}
+      - {x: 553, y: 319}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bundle_Polus
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1378
+        width: 555
+        height: 669
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -277.5, y: -334.5}
+        - {x: -277.5, y: 334.5}
+        - {x: 277.5, y: 334.5}
+        - {x: 277.5, y: -334.5}
+      physicsShape:
+      - - {x: -277.5, y: 334.5}
+        - {x: -277.5, y: -334.5}
+        - {x: 277.5, y: -334.5}
+        - {x: 277.5, y: 334.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7818f084694480a13416ef8713041f
+      internalID: 21300004
+      vertices:
+      - {x: 555, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 669}
+      - {x: 555, y: 669}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bundles_Hamster
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1407
+        width: 553
+        height: 319
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -276.5, y: -159.49998}
+        - {x: -276.5, y: 159.49998}
+        - {x: 276.5, y: 159.49998}
+        - {x: 276.5, y: -159.49998}
+      physicsShape:
+      - - {x: -276.5, y: 159.49998}
+        - {x: -276.5, y: -159.49998}
+        - {x: 276.5, y: -159.49998}
+        - {x: 276.5, y: 159.49998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d060766d5f6f4c5fab09c4892e08d405
+      internalID: 21300006
+      vertices:
+      - {x: 553, y: 0.000015258789}
+      - {x: 0, y: 0.000015258789}
+      - {x: 0, y: 319}
+      - {x: 553, y: 319}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bundles_Mira
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 36
+        width: 555
+        height: 669
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -277.5, y: -334.5}
+        - {x: -277.5, y: 334.5}
+        - {x: 277.5, y: 334.5}
+        - {x: 277.5, y: -334.5}
+      physicsShape:
+      - - {x: -277.5, y: 334.5}
+        - {x: -277.5, y: -334.5}
+        - {x: 277.5, y: -334.5}
+        - {x: 277.5, y: 334.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf9596c28da44fa8d867814b41a4ef1
+      internalID: 21300008
+      vertices:
+      - {x: 555, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 669}
+      - {x: 555, y: 669}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bundles_MiniCrewmate
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 1407
+        width: 553
+        height: 319
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -276.5, y: -159.49998}
+        - {x: -276.5, y: 159.49998}
+        - {x: 276.5, y: 159.49998}
+        - {x: 276.5, y: -159.49998}
+      physicsShape:
+      - - {x: -276.5, y: 159.49998}
+        - {x: -276.5, y: -159.49998}
+        - {x: 276.5, y: -159.49998}
+        - {x: 276.5, y: 159.49998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1266117437df4a45b3d7d8a7711ff55f
+      internalID: 21300010
+      vertices:
+      - {x: 553, y: 0.000015258789}
+      - {x: 0, y: 0.000015258789}
+      - {x: 0, y: 319}
+      - {x: 553, y: 319}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bundles_Brainslug
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 1728
+        width: 553
+        height: 319
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -276.5, y: -159.49998}
+        - {x: -276.5, y: 159.49998}
+        - {x: 276.5, y: 159.49998}
+        - {x: 276.5, y: -159.49998}
+      physicsShape:
+      - - {x: -276.5, y: 159.49998}
+        - {x: -276.5, y: -159.49998}
+        - {x: 276.5, y: -159.49998}
+        - {x: 276.5, y: 159.49998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9691ce3dda8471dac9621b047998ee3
+      internalID: 21300012
+      vertices:
+      - {x: 553, y: 0.000015258789}
+      - {x: 0, y: 0.000015258789}
+      - {x: 0, y: 319}
+      - {x: 553, y: 319}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bundles_AirshipHats
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 707
+        width: 555
+        height: 669
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -277.5, y: -334.5}
+        - {x: -277.5, y: 334.5}
+        - {x: 277.5, y: 334.5}
+        - {x: 277.5, y: -334.5}
+      physicsShape:
+      - - {x: -277.5, y: 334.5}
+        - {x: -277.5, y: -334.5}
+        - {x: 277.5, y: -334.5}
+        - {x: 277.5, y: 334.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295bb19a4d0b4a4fb9b838eee729efb1
+      internalID: 21300014
+      vertices:
+      - {x: 555, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 669}
+      - {x: 555, y: 669}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UI_Bundle_Polus: 21300004
+      UI_Bundles_AirshipHats: 21300014
+      UI_Bundles_Bedcrab: 21300000
+      UI_Bundles_Brainslug: 21300012
+      UI_Bundles_Hamster: 21300006
+      UI_Bundles_MiniCrewmate: 21300010
+      UI_Bundles_Mira: 21300008
+      UI_Bundles_Stickmin: 21300002
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

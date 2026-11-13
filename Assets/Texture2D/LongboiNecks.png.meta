@@ -1,0 +1,1090 @@
+fileFormatVersion: 2
+guid: 5aca8599e5ef866489032bd2bff81f72
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: EjectNeck
+  - first:
+      213: 21300002
+    second: VentNeck3
+  - first:
+      213: 21300004
+    second: ClimbUpNeck0009
+  - first:
+      213: 21300006
+    second: IdleNeck1
+  - first:
+      213: 21300008
+    second: ClimbUpNeck0006
+  - first:
+      213: 21300010
+    second: ghostNeck
+  - first:
+      213: 21300012
+    second: ClimbUpNeck0012
+  - first:
+      213: 21300014
+    second: ClimbDownNeck
+  - first:
+      213: 21300016
+    second: ClimbUpNeck0011
+  - first:
+      213: 21300018
+    second: ClimbUpNeck0010
+  - first:
+      213: 21300020
+    second: ClimbUpNeck0003
+  - first:
+      213: 21300022
+    second: WalkNeck4
+  - first:
+      213: 21300024
+    second: ClimbUpNeck0004
+  - first:
+      213: 21300026
+    second: WalkNeck2
+  - first:
+      213: 21300028
+    second: VentNeck1
+  - first:
+      213: 21300030
+    second: ClimbUpNeck0005
+  - first:
+      213: 21300032
+    second: ClimbUpNeck0002
+  - first:
+      213: 21300034
+    second: ClimbUpNeck0001
+  - first:
+      213: 21300036
+    second: ClimbUpNeck0007
+  - first:
+      213: 21300038
+    second: WalkNeck1
+  - first:
+      213: 21300040
+    second: VentNeck2
+  - first:
+      213: 21300042
+    second: WalkNeck3
+  - first:
+      213: 21300044
+    second: ClimbUpNeck0008
+  - first:
+      213: 21300046
+    second: ClimbUpNeck0013
+  - first:
+      213: 21300048
+    second: hors_Neck
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 25
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EjectNeck
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 15
+        width: 179
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -89.5, y: -4}
+        - {x: -89.5, y: 4}
+        - {x: 89.5, y: 4}
+        - {x: 89.5, y: -4}
+      physicsShape:
+      - - {x: 71.5, y: -4}
+        - {x: 71.5, y: 4}
+        - {x: -46.5, y: 4}
+        - {x: -46.5, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b982cca883748668bc72b025639b08c
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 179, y: 12}
+      - {x: 0, y: 4}
+      - {x: 179, y: 4}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentNeck3
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 2
+        width: 230
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -115, y: -4}
+        - {x: -115, y: 4}
+        - {x: 115, y: 4}
+        - {x: 115, y: -4}
+      physicsShape:
+      - - {x: 55, y: -4}
+        - {x: 55, y: 4}
+        - {x: -63, y: 4}
+        - {x: -63, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58639b37f78246508032358bbe00a96c
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 230, y: 12}
+      - {x: 0, y: 4}
+      - {x: 230, y: 4}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbUpNeck0009
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 15
+        width: 154
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -77, y: -4}
+        - {x: -77, y: 4}
+        - {x: 77, y: 4}
+        - {x: 77, y: -4}
+      physicsShape:
+      - - {x: 62, y: -4}
+        - {x: 62, y: 4}
+        - {x: -62, y: 4}
+        - {x: -62, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c119dea99fa84a65a540b71a3e43304e
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 154, y: 12}
+      - {x: 0, y: 4}
+      - {x: 154, y: 4}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleNeck1
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 15
+        width: 178
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -89, y: -4}
+        - {x: -89, y: 4}
+        - {x: 89, y: 4}
+        - {x: 89, y: -4}
+      physicsShape:
+      - - {x: 64, y: -4}
+        - {x: 64, y: 4}
+        - {x: -52, y: 4}
+        - {x: -52, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7911d961ca47cb97c13d4af2e4d1c9
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 178, y: 12}
+      - {x: 0, y: 4}
+      - {x: 178, y: 4}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbUpNeck0006
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 15
+        width: 154
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -77, y: -4}
+        - {x: -77, y: 4}
+        - {x: 77, y: 4}
+        - {x: 77, y: -4}
+      physicsShape:
+      - - {x: 52.999996, y: -4}
+        - {x: 52.999996, y: 4}
+        - {x: -52.999996, y: 4}
+        - {x: -52.999996, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f6ab577f9c442f99a686a8ff4dcc17
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 154, y: 12}
+      - {x: 0, y: 4}
+      - {x: 154, y: 4}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostNeck
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 15
+        width: 317
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -158.5, y: -4}
+        - {x: -158.5, y: 4}
+        - {x: 158.5, y: 4}
+        - {x: 158.5, y: -4}
+      physicsShape:
+      - - {x: -29.499998, y: -4}
+        - {x: -29.499998, y: 4}
+        - {x: -42.5, y: 4}
+        - {x: -42.5, y: -4}
+      - - {x: 73.49999, y: -4}
+        - {x: 73.49999, y: 4}
+        - {x: 60.499996, y: 4}
+        - {x: 60.499996, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d8fbf45ee4495c86a8c699985baba8
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 317, y: 12}
+      - {x: 0, y: 4}
+      - {x: 317, y: 4}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbUpNeck0012
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 15
+        width: 154
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -77, y: -4}
+        - {x: -77, y: 4}
+        - {x: 77, y: 4}
+        - {x: 77, y: -4}
+      physicsShape:
+      - - {x: 50, y: -4}
+        - {x: 50, y: 4}
+        - {x: -50, y: 4}
+        - {x: -50, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fafd8c059074a0e913f6dca1b6784fe
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 154, y: 12}
+      - {x: 0, y: 4}
+      - {x: 154, y: 4}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbDownNeck
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 15
+        width: 207
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -103.5, y: -4}
+        - {x: -103.5, y: 4}
+        - {x: 103.5, y: 4}
+        - {x: 103.5, y: -4}
+      physicsShape:
+      - - {x: 59.499996, y: -4}
+        - {x: 59.499996, y: 4}
+        - {x: -64.5, y: 4}
+        - {x: -64.5, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7540c1f3aec745f88af3c2a3b3bcb8bc
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 207, y: 12}
+      - {x: 0, y: 4}
+      - {x: 207, y: 4}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbUpNeck0011
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 15
+        width: 154
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -77, y: -4}
+        - {x: -77, y: 4}
+        - {x: 77, y: 4}
+        - {x: 77, y: -4}
+      physicsShape:
+      - - {x: 62, y: -4}
+        - {x: 62, y: 4}
+        - {x: -62, y: 4}
+        - {x: -62, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc405960f51c423bb25b637917c457c5
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 154, y: 12}
+      - {x: 0, y: 4}
+      - {x: 154, y: 4}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbUpNeck0010
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 15
+        width: 154
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -77, y: -4}
+        - {x: -77, y: 4}
+        - {x: 77, y: 4}
+        - {x: 77, y: -4}
+      physicsShape:
+      - - {x: 62, y: -4}
+        - {x: 62, y: 4}
+        - {x: -62, y: 4}
+        - {x: -62, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748d52a5ae7549259563a68598004c99
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 154, y: 12}
+      - {x: 0, y: 4}
+      - {x: 154, y: 4}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbUpNeck0003
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 15
+        width: 154
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -77, y: -4}
+        - {x: -77, y: 4}
+        - {x: 77, y: 4}
+        - {x: 77, y: -4}
+      physicsShape:
+      - - {x: 62, y: -4}
+        - {x: 62, y: 4}
+        - {x: -62, y: 4}
+        - {x: -62, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162b8d96f3504ce786e8c76654d0fbc9
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 154, y: 12}
+      - {x: 0, y: 4}
+      - {x: 154, y: 4}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkNeck4
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 2
+        width: 184
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -92, y: -4}
+        - {x: -92, y: 4}
+        - {x: 92, y: 4}
+        - {x: 92, y: -4}
+      physicsShape:
+      - - {x: 63, y: -4}
+        - {x: 63, y: 4}
+        - {x: -56, y: 4}
+        - {x: -56, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0e6cb839df469d99788b9798b53275
+      internalID: 21300022
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 184, y: 12}
+      - {x: 0, y: 4}
+      - {x: 184, y: 4}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbUpNeck0004
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 15
+        width: 154
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -77, y: -4}
+        - {x: -77, y: 4}
+        - {x: 77, y: 4}
+        - {x: 77, y: -4}
+      physicsShape:
+      - - {x: 62, y: -4}
+        - {x: 62, y: 4}
+        - {x: -62, y: 4}
+        - {x: -62, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e27b59d2b7140acba22f12f6fe32441
+      internalID: 21300024
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 154, y: 12}
+      - {x: 0, y: 4}
+      - {x: 154, y: 4}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkNeck2
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 2
+        width: 184
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -92, y: -4}
+        - {x: -92, y: 4}
+        - {x: 92, y: 4}
+        - {x: 92, y: -4}
+      physicsShape:
+      - - {x: 63, y: -4}
+        - {x: 63, y: 4}
+        - {x: -56, y: 4}
+        - {x: -56, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0409b0cd5c98458d84abaf69072e0da9
+      internalID: 21300026
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 184, y: 12}
+      - {x: 0, y: 4}
+      - {x: 184, y: 4}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentNeck1
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 1
+        width: 230
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -115, y: -4.5}
+        - {x: -115, y: 4.5}
+        - {x: 115, y: 4.5}
+        - {x: 115, y: -4.5}
+      physicsShape:
+      - - {x: -52, y: 4.5}
+        - {x: -52.999996, y: 3.5}
+        - {x: -52.999996, y: -4.5}
+        - {x: 42.999996, y: -4.5}
+        - {x: 42.999996, y: 3.5}
+        - {x: 42, y: 4.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243607bbd8d84149b1bc3c7f0d4d16b2
+      internalID: 21300028
+      vertices:
+      - {x: 0, y: 13.5}
+      - {x: 230, y: 13.5}
+      - {x: 0, y: 4.5}
+      - {x: 230, y: 4.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbUpNeck0005
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 15
+        width: 154
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -77, y: -4}
+        - {x: -77, y: 4}
+        - {x: 77, y: 4}
+        - {x: 77, y: -4}
+      physicsShape:
+      - - {x: 62, y: -4}
+        - {x: 62, y: 4}
+        - {x: -62, y: 4}
+        - {x: -62, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669afa6102434bbe8b718ad720c0163a
+      internalID: 21300030
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 154, y: 12}
+      - {x: 0, y: 4}
+      - {x: 154, y: 4}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbUpNeck0002
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 15
+        width: 154
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -77, y: -4}
+        - {x: -77, y: 4}
+        - {x: 77, y: 4}
+        - {x: 77, y: -4}
+      physicsShape:
+      - - {x: 62, y: -4}
+        - {x: 62, y: 4}
+        - {x: -62, y: 4}
+        - {x: -62, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b0fac752974d888811b4e7ab4a189f
+      internalID: 21300032
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 154, y: 12}
+      - {x: 0, y: 4}
+      - {x: 154, y: 4}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbUpNeck0001
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 15
+        width: 154
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -77, y: -4}
+        - {x: -77, y: 4}
+        - {x: 77, y: 4}
+        - {x: 77, y: -4}
+      physicsShape:
+      - - {x: 62, y: -4}
+        - {x: 62, y: 4}
+        - {x: -62, y: 4}
+        - {x: -62, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067ec24dacea49cda67abb21adcd21ef
+      internalID: 21300034
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 154, y: 12}
+      - {x: 0, y: 4}
+      - {x: 154, y: 4}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbUpNeck0007
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 15
+        width: 154
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -77, y: -4}
+        - {x: -77, y: 4}
+        - {x: 77, y: 4}
+        - {x: 77, y: -4}
+      physicsShape:
+      - - {x: 58.999996, y: -4}
+        - {x: 58.999996, y: 4}
+        - {x: -58.999996, y: 4}
+        - {x: -58.999996, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aaeb17f09a547cd8d6f4b857a826089
+      internalID: 21300036
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 154, y: 12}
+      - {x: 0, y: 4}
+      - {x: 154, y: 4}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkNeck1
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 2
+        width: 184
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -92, y: -4}
+        - {x: -92, y: 4}
+        - {x: 92, y: 4}
+        - {x: 92, y: -4}
+      physicsShape:
+      - - {x: 61, y: -4}
+        - {x: 61, y: 4}
+        - {x: -52, y: 4}
+        - {x: -52, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6419b775084a028119ffe267981225
+      internalID: 21300038
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 184, y: 12}
+      - {x: 0, y: 4}
+      - {x: 184, y: 4}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentNeck2
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 1
+        width: 230
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -115, y: -4.5}
+        - {x: -115, y: 4.5}
+        - {x: 115, y: 4.5}
+        - {x: 115, y: -4.5}
+      physicsShape:
+      - - {x: -58.999996, y: 4.5}
+        - {x: -59.999996, y: 3.5}
+        - {x: -59.999996, y: -4.5}
+        - {x: 50, y: -4.5}
+        - {x: 50, y: 3.5}
+        - {x: 48.999996, y: 4.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a70e58fb8a44f9a9cc24b3cc11a306c
+      internalID: 21300040
+      vertices:
+      - {x: 0, y: 13.5}
+      - {x: 230, y: 13.5}
+      - {x: 0, y: 4.5}
+      - {x: 230, y: 4.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkNeck3
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 2
+        width: 184
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -92, y: -4}
+        - {x: -92, y: 4}
+        - {x: 92, y: 4}
+        - {x: 92, y: -4}
+      physicsShape:
+      - - {x: 61, y: -4}
+        - {x: 61, y: 4}
+        - {x: -51, y: 4}
+        - {x: -51, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511d0af975ef486b991e9d091d16f845
+      internalID: 21300042
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 184, y: 12}
+      - {x: 0, y: 4}
+      - {x: 184, y: 4}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbUpNeck0008
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 15
+        width: 154
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -77, y: -4}
+        - {x: -77, y: 4}
+        - {x: 77, y: 4}
+        - {x: 77, y: -4}
+      physicsShape:
+      - - {x: 62, y: -4}
+        - {x: 62, y: 4}
+        - {x: -62, y: 4}
+        - {x: -62, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86443e5ff76043b9b8c9b01a5c99cd28
+      internalID: 21300044
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 154, y: 12}
+      - {x: 0, y: 4}
+      - {x: 154, y: 4}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbUpNeck0013
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 15
+        width: 154
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -77, y: -4}
+        - {x: -77, y: 4}
+        - {x: 77, y: 4}
+        - {x: 77, y: -4}
+      physicsShape:
+      - - {x: 58, y: -4}
+        - {x: 58, y: 4}
+        - {x: -58.999996, y: 4}
+        - {x: -58.999996, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce535140c30450e85eb25920c0d633c
+      internalID: 21300046
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 154, y: 12}
+      - {x: 0, y: 4}
+      - {x: 154, y: 4}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hors_Neck
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 2
+        width: 209
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -104.49999, y: -4}
+        - {x: -104.49999, y: 4}
+        - {x: 104.49999, y: 4}
+        - {x: 104.49999, y: -4}
+      physicsShape:
+      - - {x: 80.5, y: -4}
+        - {x: 80.5, y: 4}
+        - {x: -79.49999, y: 4}
+        - {x: -79.49999, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930dbfb11cab487f8f4bbfd25275aec6
+      internalID: 21300048
+      vertices:
+      - {x: 0.0000076293945, y: 12}
+      - {x: 209, y: 12}
+      - {x: 0.0000076293945, y: 4}
+      - {x: 209, y: 4}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ClimbDownNeck: 21300014
+      ClimbUpNeck0001: 21300034
+      ClimbUpNeck0002: 21300032
+      ClimbUpNeck0003: 21300020
+      ClimbUpNeck0004: 21300024
+      ClimbUpNeck0005: 21300030
+      ClimbUpNeck0006: 21300008
+      ClimbUpNeck0007: 21300036
+      ClimbUpNeck0008: 21300044
+      ClimbUpNeck0009: 21300004
+      ClimbUpNeck0010: 21300018
+      ClimbUpNeck0011: 21300016
+      ClimbUpNeck0012: 21300012
+      ClimbUpNeck0013: 21300046
+      EjectNeck: 21300000
+      IdleNeck1: 21300006
+      VentNeck1: 21300028
+      VentNeck2: 21300040
+      VentNeck3: 21300002
+      WalkNeck1: 21300038
+      WalkNeck2: 21300026
+      WalkNeck3: 21300042
+      WalkNeck4: 21300022
+      ghostNeck: 21300010
+      hors_Neck: 21300048
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

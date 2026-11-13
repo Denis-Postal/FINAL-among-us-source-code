@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fbdf57f19df93d09b0c77f4c0195892, type: 3}
+  m_Name: Winter 2021 Cube - Stars
+  m_EditorClassIdentifier:
+  ids:
+  - hat_w21_gingerbread
+  - hat_w21_holly
+  - hat_w21_krampus
+  - hat_w21_log
+  - hat_w21_mistletoe
+  - hat_w21_mittens
+  - hat_w21_nutcracker
+  - hat_w21_pinecone
+  - hat_w21_snowflake
+  - hat_w21_snowman
+  - hat_w21_winterpuff
+  - nameplate_w21_fireplace
+  - nameplate_w21_snow
+  - nameplate_w21_tree
+  - skin_w21_deer
+  - skin_w21_elf
+  - skin_w21_msclaus
+  - skin_w21_nutcracker
+  - skin_w21_santa
+  - skin_w21_snowmate
+  - visor_w21_carrot
+  - visor_w21_nutstache
+  - visor_w21_santabeard
+  date: 2021-12-25

@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: d71ec35da634c5c4288ed56a9c36f5de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6079223911994629241
+    second: twitchAppButton_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.50000006, y: 0.51132005}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: twitchAppButton_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783ef77af0242aba0800000000000000
+      internalID: -6079223911994629241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -108.999985, y: -75.49999}
+      - {x: -110.999985, y: -57.499996}
+      - {x: -110.999985, y: 64.50001}
+      - {x: -108.999985, y: 84.50001}
+      - {x: -88.999985, y: 103.50001}
+      - {x: -73.999985, y: 110.500015}
+      - {x: 73.000015, y: 110.500015}
+      - {x: 88.000015, y: 103.50001}
+      - {x: 103.000015, y: 93.50001}
+      - {x: 111.000015, y: 67.50001}
+      - {x: 111.000015, y: -64.49999}
+      - {x: 109.000015, y: -84.49999}
+      - {x: 89.000015, y: -105.5}
+      - {x: 67.000015, y: -110.49999}
+      - {x: -76.999985, y: -110.49999}
+      - {x: -102.999985, y: -93.49999}
+    customData: 
+    physicsShape:
+    - - {x: 105.00001, y: -58.499992}
+      - {x: 105.00001, y: 73.50001}
+      - {x: 96.000015, y: 89.50001}
+      - {x: 87.000015, y: 97.50001}
+      - {x: 74.000015, y: 105.50001}
+      - {x: 60.00001, y: 107.5}
+      - {x: -56.999985, y: 107.5}
+      - {x: -73.999985, y: 105.50001}
+      - {x: -87.999985, y: 99.50001}
+      - {x: -104.99998, y: 75.5}
+      - {x: -104.99998, y: -68.49999}
+      - {x: -96.999985, y: -85.49999}
+      - {x: -76.999985, y: -99.49999}
+      - {x: -64.999985, y: -102.499985}
+      - {x: 73.00001, y: -102.499985}
+      - {x: 98.00001, y: -86.49999}
+    bones: []
+    spriteID: a5e1c2b30ac741238f10e55bf958b48d
+    internalID: 0
+    vertices:
+    - {x: 221.92387, y: 175.42387}
+    - {x: 219.92387, y: 23.423874}
+    - {x: 221.92387, y: 43.423874}
+    - {x: 213.92387, y: 201.42387}
+    - {x: 199.92387, y: 2.4238663}
+    - {x: 198.92387, y: 211.42387}
+    - {x: 183.92387, y: 218.42389}
+    - {x: 177.92387, y: -2.576126}
+    - {x: 36.923874, y: 218.42389}
+    - {x: 33.923874, y: -2.576126}
+    - {x: 21.923874, y: 211.42387}
+    - {x: 7.923874, y: 14.423874}
+    - {x: 1.9238739, y: 192.42387}
+    - {x: 1.9238739, y: 32.423874}
+    - {x: -0.0761261, y: 172.42387}
+    - {x: -0.0761261, y: 50.42387}
+    indices: 0f0000000e0000000d0000000c0000000d0000000e0000000b0000000d0000000c0000000a0000000b0000000c000000090000000b0000000a00000008000000090000000a000000070000000900000008000000060000000700000008000000040000000700000006000000050000000400000006000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000i
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

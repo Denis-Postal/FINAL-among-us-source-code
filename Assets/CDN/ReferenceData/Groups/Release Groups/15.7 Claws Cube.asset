@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fbdf57f19df93d09b0c77f4c0195892, type: 3}
+  m_Name: 15.7 Claws Cube
+  m_EditorClassIdentifier:
+  ids:
+  - hat_claws_spaceDog
+  - hat_claws_frog
+  - hat_claws_moose
+  - hat_claws_dragonRed
+  - hat_claws_bullHorns
+  - hat_claws_foxOrange
+  - hat_claws_squid
+  - hat_claws_kuduHorns
+  - hat_claws_buffaloHorns
+  - hat_claws_hippo
+  - nameplate_claws_spaceCat
+  - nameplate_claws_spaceDog
+  - nameplate_claws_tigerPrint
+  - nameplate_claws_lilypad
+  - pet_claws_spaceCat
+  - skin_claws_stripes
+  - skin_claws_squid
+  - skin_claws_dragonRed
+  - skin_claws_frogSuit
+  - skin_claws_hoofed
+  - skin_claws_foxOrange
+  - visor_claws_knife
+  - visor_claws_smallMuzzle
+  - visor_claws_whiskers
+  - visor_claws_bullRing
+  date: 2024-11-26

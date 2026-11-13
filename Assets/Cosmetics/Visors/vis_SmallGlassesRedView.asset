@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c5cf8bcc10abb2d8ac619b3f3911b5, type: 3}
+  m_Name: vis_SmallGlassesRedView
+  m_EditorClassIdentifier:
+  IdleFrame: {fileID: 21300418, guid: 2f074cd897a123741b0b687567d06a3f, type: 3}
+  LeftIdleFrame: {fileID: 0}
+  ClimbFrame: {fileID: 0}
+  FloorFrame: {fileID: 21300096, guid: 2f074cd897a123741b0b687567d06a3f, type: 3}
+  MatchPlayerColor: 0

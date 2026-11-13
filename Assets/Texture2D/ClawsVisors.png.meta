@@ -1,0 +1,775 @@
+fileFormatVersion: 2
+guid: f747d056c59d3f3489799e42c046c463
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: 2024_wuzzy_stars_visor_holdingKnife0002
+  - first:
+      213: 21300002
+    second: 2024_claws_stars_visor_whiskers0003
+  - first:
+      213: 21300004
+    second: 2024_claws_stars_visor_bullRing0001
+  - first:
+      213: 21300006
+    second: 2024_wuzzy_stars_visor_smallMuzzle0001
+  - first:
+      213: 21300008
+    second: 2024_wuzzy_stars_visor_holdingKnife0003
+  - first:
+      213: 21300010
+    second: 2024_claws_stars_visor_bullRing0002
+  - first:
+      213: 21300012
+    second: 2024_wuzzy_stars_visor_holdingKnife0001
+  - first:
+      213: 21300014
+    second: 2024_wuzzy_stars_visor_holdingKnife0004
+  - first:
+      213: 21300016
+    second: 2024_claws_stars_visor_whiskers0002
+  - first:
+      213: 21300018
+    second: 2024_claws_stars_visor_whiskers0001
+  - first:
+      213: 21300020
+    second: 2024_wuzzy_stars_visor_smallMuzzle0002
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2024_wuzzy_stars_visor_holdingKnife0002
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 22
+        width: 125
+        height: 33
+      alignment: 9
+      pivot: {x: 0.528, y: 0.5151515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -62.5, y: -16.5}
+        - {x: -62.5, y: 16.5}
+        - {x: 62.499996, y: 16.5}
+        - {x: 62.499996, y: -16.5}
+      physicsShape:
+      - - {x: 62.499996, y: 12.5}
+        - {x: 61.5, y: 16.5}
+        - {x: -24.5, y: 16.5}
+        - {x: -58.5, y: 13.5}
+        - {x: -62.5, y: 12.5}
+        - {x: -62.5, y: -1.5}
+        - {x: -55.499996, y: -16.5}
+        - {x: -33.5, y: -16.5}
+        - {x: -6.499999, y: -12.5}
+        - {x: 9.5, y: -16.5}
+        - {x: 25.5, y: -16.5}
+        - {x: 57.499996, y: -6.5}
+        - {x: 62.499996, y: 0.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5143fa3728f24fd9b1d5fa22191be053
+      internalID: 21300000
+      vertices:
+      - {x: 121.5, y: -0.5}
+      - {x: -3.5, y: -0.5}
+      - {x: -3.5, y: 32.5}
+      - {x: 121.5, y: 32.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_claws_stars_visor_whiskers0003
+      rect:
+        serializedVersion: 2
+        x: 1.0761205
+        y: 9.07612
+        width: 149.84775
+        height: 43.897125
+      alignment: 9
+      pivot: {x: 0.5734079, y: -0.8673943}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 69.00001, y: -25.024681}
+        - {x: 8.000008, y: -6.024685}
+        - {x: 50.000008, y: 22.975319}
+        - {x: 75.00001, y: -2.024681}
+      - - {x: -73.99999, y: -22.024681}
+        - {x: -74.999985, y: 10.975319}
+        - {x: -47.99999, y: 23.975319}
+        - {x: -3.9999914, y: -9.024681}
+      physicsShape:
+      - - {x: 49.000008, y: -8.024681}
+        - {x: 57.000004, y: -9.024681}
+        - {x: 68.00001, y: -10.024681}
+        - {x: 74.00001, y: -5.024681}
+        - {x: 74.00001, y: -0.024684906}
+        - {x: 59.000008, y: 8.975319}
+        - {x: 57.000004, y: 14.975319}
+        - {x: 45.000008, y: 14.975319}
+        - {x: 19.000008, y: 0.9753189}
+        - {x: 19.000008, y: -1.0246849}
+        - {x: 28.000008, y: -12.024681}
+        - {x: 55.000008, y: -21.024681}
+        - {x: 70, y: -21.024681}
+        - {x: 73.00001, y: -20.024685}
+        - {x: 69.00001, y: -12.024681}
+        - {x: 58.000008, y: -9.024681}
+        - {x: 50.000008, y: -9.024681}
+      - - {x: -41.99999, y: 20.975319}
+        - {x: -53.999992, y: 20.975319}
+        - {x: -56.999992, y: 19.975311}
+        - {x: -55.999985, y: 13.975319}
+        - {x: -48.99999, y: 8.975319}
+        - {x: -70.99999, y: 7.975319}
+        - {x: -74.999985, y: 4.975319}
+        - {x: -74.999985, y: 0.9753189}
+        - {x: -68.999985, y: -3.024681}
+        - {x: -49.999992, y: -5.024681}
+        - {x: -67.99999, y: -8.024681}
+        - {x: -72.99999, y: -13.024681}
+        - {x: -72.99999, y: -16.024681}
+        - {x: -70.99999, y: -18.024681}
+        - {x: -55.999985, y: -18.024681}
+        - {x: -29.999992, y: -13.024681}
+        - {x: -17.999992, y: -3.024681}
+        - {x: -17.999992, y: 0.9753189}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bdaf0e732c43388e78fa437b136a7b
+      internalID: 21300002
+      vertices:
+      - {x: 138.92387, y: 79.94856}
+      - {x: 132.92387, y: 56.948563}
+      - {x: 71.923874, y: 75.94856}
+      - {x: 113.923874, y: 104.94856}
+      - {x: 59.923874, y: 72.94856}
+      - {x: -10.076126, y: 59.948563}
+      - {x: -11.076118, y: 92.94856}
+      - {x: 15.923878, y: 105.94856}
+      indices: 010000000200000003000000000000000100000003000000050000000600000007000000040000000500000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_claws_stars_visor_bullRing0001
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 13
+        width: 47
+        height: 42
+      alignment: 9
+      pivot: {x: -0.38297874, y: 1.3095238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -23.5, y: -21}
+        - {x: -23.5, y: 21}
+        - {x: 23.5, y: 21}
+        - {x: 23.5, y: -21}
+      physicsShape:
+      - - {x: 17.499996, y: 21}
+        - {x: 12.499996, y: 21}
+        - {x: 1.4999962, y: 13}
+        - {x: 1.4999962, y: 4.000002}
+        - {x: 1.4999962, y: 9}
+        - {x: -1.5000038, y: 15}
+        - {x: -8.5, y: 18}
+        - {x: -16.5, y: 21}
+        - {x: -20.5, y: 21}
+        - {x: -23.5, y: 20}
+        - {x: -23.5, y: 8}
+        - {x: -18.500002, y: -11}
+        - {x: -11.500002, y: -19.999996}
+        - {x: -10.5, y: -21}
+        - {x: 19.5, y: -21}
+        - {x: 23.5, y: -14}
+        - {x: 23.5, y: 15}
+        - {x: 19.5, y: 20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1464ba1f48df44709f60f8754cf3b17d
+      internalID: 21300004
+      vertices:
+      - {x: 88.5, y: -34}
+      - {x: 41.5, y: -34}
+      - {x: 41.5, y: 8}
+      - {x: 88.5, y: 8}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_wuzzy_stars_visor_smallMuzzle0001
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 31
+        width: 32
+        height: 24
+      alignment: 9
+      pivot: {x: -0.65625, y: 1.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -16, y: -12}
+        - {x: -16, y: 12}
+        - {x: 15.999996, y: 12}
+        - {x: 15.999996, y: -12}
+      physicsShape:
+      - - {x: 11.999996, y: 12}
+        - {x: -7.000002, y: 12}
+        - {x: -12, y: 10}
+        - {x: -16, y: 3}
+        - {x: -16, y: -7}
+        - {x: -12, y: -12}
+        - {x: 14, y: -12}
+        - {x: 15.999996, y: -7}
+        - {x: 15.999996, y: 5}
+        - {x: 14, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c03bd0dc8f49ef80d395869e5f836b
+      internalID: 21300006
+      vertices:
+      - {x: 69, y: -24}
+      - {x: 37, y: -24}
+      - {x: 37, y: 0}
+      - {x: 69, y: 0}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_wuzzy_stars_visor_holdingKnife0003
+      rect:
+        serializedVersion: 2
+        x: 838.0761
+        y: 17.07612
+        width: 50.847755
+        height: 33.847755
+      alignment: 9
+      pivot: {x: 1.7684928, y: -1.095379}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -35.499985, y: 21.000004}
+        - {x: 28.500015, y: 14.000004}
+        - {x: -0.49998474, y: -29.999996}
+      physicsShape:
+      - - {x: -24.499985, y: 16.000004}
+        - {x: -24.499985, y: 7.000004}
+        - {x: -21.499977, y: -3.9999962}
+        - {x: 0.50001526, y: -15.999996}
+        - {x: 6.5000153, y: -15.999996}
+        - {x: 9.500015, y: -14.999996}
+        - {x: 24.50002, y: 9.000004}
+        - {x: 24.50002, y: 12.999996}
+        - {x: 13.500015, y: 16.000004}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3a2cadcef44e7f91a4bc23cd902380
+      internalID: 21300008
+      vertices:
+      - {x: -10.576122, y: 84.923874}
+      - {x: -39.576122, y: 40.923878}
+      - {x: -74.576126, y: 91.923874}
+      indices: 000000000100000002000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_claws_stars_visor_bullRing0002
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 31
+        width: 46
+        height: 24
+      alignment: 9
+      pivot: {x: 0.4347826, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -22.999998, y: -12}
+        - {x: -22.999998, y: 11.999999}
+        - {x: 23, y: 11.999999}
+        - {x: 23, y: -12}
+      physicsShape:
+      - - {x: -17, y: 11.999999}
+        - {x: -22.999998, y: 6.999999}
+        - {x: -22.999998, y: -7.9999995}
+        - {x: -12, y: -12}
+        - {x: 16.999998, y: -12}
+        - {x: 23, y: -7.9999995}
+        - {x: 23, y: 6}
+        - {x: 19.999998, y: 11.999999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8694775af04481f8fbc815137717b63
+      internalID: 21300010
+      vertices:
+      - {x: 49, y: 3}
+      - {x: 3.000002, y: 3}
+      - {x: 3.000002, y: 27}
+      - {x: 49, y: 27}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_wuzzy_stars_visor_holdingKnife0001
+      rect:
+        serializedVersion: 2
+        x: 311.0429
+        y: 12.07612
+        width: 115.88982
+        height: 42.92388
+      alignment: 9
+      pivot: {x: 0.04277418, y: 1.4659411}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -57.987816, y: 21.461943}
+        - {x: 77.012184, y: 21.461943}
+        - {x: 26.012184, y: -17.538055}
+        - {x: -57.987816, y: -27.53806}
+      physicsShape:
+      - - {x: 57.012184, y: 9.461941}
+        - {x: 57.012184, y: 21.461943}
+        - {x: 31.012184, y: 21.461943}
+        - {x: 6.0121803, y: 17.46194}
+        - {x: -2.9878159, y: 20.46194}
+        - {x: -17.987816, y: 17.46194}
+        - {x: -25.987818, y: 12.461941}
+        - {x: -37.987816, y: 20.46194}
+        - {x: -50.987816, y: 15.461941}
+        - {x: -56.987816, y: 6.461941}
+        - {x: -56.987816, y: -7.5380554}
+        - {x: -50.987816, y: -17.538055}
+        - {x: -34.987816, y: -20.53806}
+        - {x: -20.987816, y: -21.53806}
+        - {x: -4.987816, y: -21.53806}
+        - {x: 14.0121765, y: -17.538055}
+        - {x: 33.012177, y: -11.538055}
+        - {x: 56.012184, y: 4.461941}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596c261765ae4837ad0cc02395e1570c
+      internalID: 21300012
+      vertices:
+      - {x: 136.94492, y: -37.538055}
+      - {x: 52.94491, y: -47.53806}
+      - {x: 52.94491, y: 1.4619427}
+      - {x: 187.94492, y: 1.4619427}
+      indices: 000000000200000003000000000000000100000002000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_wuzzy_stars_visor_holdingKnife0004
+      rect:
+        serializedVersion: 2
+        x: 584.02673
+        y: 10.07612
+        width: 114.97325
+        height: 43.880974
+      alignment: 9
+      pivot: {x: 0.35637218, y: 1.4339674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -56.513355, y: 20.9834}
+        - {x: 57.48664, y: 22.983398}
+        - {x: 57.48664, y: -16.016602}
+        - {x: 15.486641, y: -28.016602}
+        - {x: -58.51336, y: -3.0166016}
+      physicsShape:
+      - - {x: 57.48664, y: 12.983398}
+        - {x: 35.48664, y: 20.9834}
+        - {x: 29.486637, y: 20.9834}
+        - {x: 18.48664, y: 17.9834}
+        - {x: 10.486639, y: 9.983398}
+        - {x: 2.486641, y: 18.983398}
+        - {x: -51.51336, y: 20.9834}
+        - {x: -55.51336, y: 20.9834}
+        - {x: -56.513355, y: 19.983398}
+        - {x: -56.513355, y: 14.983398}
+        - {x: -53.51336, y: 4.9833984}
+        - {x: -44.51336, y: -4.0166016}
+        - {x: -25.51336, y: -14.016602}
+        - {x: 6.486639, y: -22.016602}
+        - {x: 16.48664, y: -22.016602}
+        - {x: 22.48664, y: -17.016602}
+        - {x: 46.48664, y: -21.016602}
+        - {x: 57.48664, y: -9.016602}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662e183160c340609a71374120eba18b
+      internalID: 21300014
+      vertices:
+      - {x: 131.48663, y: -35.059513}
+      - {x: 89.486626, y: -47.059513}
+      - {x: 15.486626, y: -22.059513}
+      - {x: 17.48663, y: 1.9404888}
+      - {x: 131.48663, y: 3.940487}
+      indices: 010000000300000004000000010000000200000003000000000000000100000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_claws_stars_visor_whiskers0002
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 17
+        width: 153.92387
+        height: 31.936102
+      alignment: 9
+      pivot: {x: 0.47426042, y: 0.594938}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -76.96193, y: -15.968051}
+        - {x: -76.96193, y: 15.031949}
+        - {x: -21.961937, y: 15.031949}
+        - {x: -21.961937, y: -15.968051}
+      - - {x: 30.038063, y: -3.968051}
+        - {x: 22.038063, y: 10.031949}
+        - {x: 72.03806, y: 22.031948}
+        - {x: 78.03806, y: -14.968051}
+      physicsShape:
+      - - {x: -26.961935, y: 15.031949}
+        - {x: -76.96193, y: 15.031949}
+        - {x: -76.96193, y: -0.96805096}
+        - {x: -75.96194, y: -2.968051}
+        - {x: -72.96194, y: -3.968051}
+        - {x: -57.961933, y: -3.968051}
+        - {x: -56.961933, y: -2.968051}
+        - {x: -48.961937, y: -2.968051}
+        - {x: -50.961937, y: -2.968051}
+        - {x: -64.96194, y: -5.968051}
+        - {x: -67.96194, y: -12.968051}
+        - {x: -64.96194, y: -15.968051}
+        - {x: -50.961937, y: -15.968051}
+        - {x: -26.961935, y: -4.968051}
+        - {x: -21.961937, y: -2.968051}
+        - {x: -21.961937, y: 3.031949}
+      - - {x: 22.038063, y: -3.968051}
+        - {x: 16.038061, y: -2.968051}
+        - {x: -7.961937, y: -2.968051}
+        - {x: -8.961937, y: -6.96805}
+        - {x: -8.961937, y: -13.968051}
+        - {x: -7.961937, y: -14.968051}
+        - {x: 12.038063, y: -14.968051}
+        - {x: 22.038063, y: -10.968051}
+        - {x: 25.038063, y: -7.968051}
+        - {x: 25.038063, y: -6.96805}
+      - - {x: 77.03806, y: 5.031949}
+        - {x: 63.038055, y: 10.031949}
+        - {x: 62.038063, y: 14.031949}
+        - {x: 60.038063, y: 15.031949}
+        - {x: 37.038063, y: 15.031949}
+        - {x: 26.038061, y: 10.031949}
+        - {x: 26.038061, y: 3.031949}
+        - {x: 30.038063, y: -3.968051}
+        - {x: 61.038063, y: -11.96805}
+        - {x: 74.03806, y: -11.96805}
+        - {x: 77.03806, y: -10.968051}
+        - {x: 77.03806, y: -5.968051}
+        - {x: 76.038055, y: -3.968051}
+        - {x: 71.03806, y: -1.9680505}
+        - {x: 77.03806, y: -0.96805096}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0294b1c6695d4e21b54e483265bbee2c
+      internalID: 21300016
+      vertices:
+      - {x: 58.961937, y: -3.031949}
+      - {x: 3.9619446, y: -3.031949}
+      - {x: 3.9619446, y: 27.968052}
+      - {x: 58.961937, y: 27.968052}
+      - {x: 158.96194, y: -2.031949}
+      - {x: 110.96194, y: 8.968051}
+      - {x: 102.96194, y: 22.968052}
+      - {x: 152.96194, y: 34.968052}
+      indices: 010000000200000003000000000000000100000003000000050000000600000007000000040000000500000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_claws_stars_visor_whiskers0001
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 8.07612
+        width: 133
+        height: 46.92388
+      alignment: 9
+      pivot: {x: 0.2556391, y: 1.1065556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 66.49999, y: 22.46194}
+        - {x: 66.49999, y: -26.53806}
+        - {x: 22.5, y: -5.538059}
+        - {x: 25.5, y: 23.46194}
+      - - {x: -66.5, y: -22.53806}
+        - {x: -66.5, y: 21.46194}
+        - {x: -17.5, y: 21.46194}
+        - {x: -17.5, y: -22.53806}
+      physicsShape:
+      - - {x: -24.5, y: -0.53805923}
+        - {x: -46.5, y: -5.538059}
+        - {x: -57.5, y: -15.538059}
+        - {x: -57.5, y: -19.53806}
+        - {x: -55.5, y: -22.53806}
+        - {x: -43.5, y: -22.53806}
+        - {x: -16.5, y: -5.538059}
+        - {x: -16.5, y: -0.53805923}
+      - - {x: 26.499996, y: 0.46194077}
+        - {x: 25.5, y: -1.5380573}
+        - {x: 25.5, y: -3.5380592}
+        - {x: 42.5, y: -16.53806}
+        - {x: 47.499992, y: -17.538055}
+        - {x: 60.5, y: -17.538055}
+        - {x: 60.5, y: -8.538059}
+        - {x: 41.5, y: 0.46194077}
+      - - {x: -19.5, y: 5.4619427}
+        - {x: -64.5, y: 5.4619427}
+        - {x: -66.5, y: 2.4619408}
+        - {x: -66.5, y: -5.538059}
+        - {x: -62.5, y: -6.538059}
+        - {x: -37.5, y: -6.538059}
+        - {x: -30.5, y: -4.538059}
+        - {x: -19.5, y: 1.4619427}
+      - - {x: 27.499996, y: 7.461941}
+        - {x: 25.5, y: 5.4619427}
+        - {x: 26.499996, y: 2.4619408}
+        - {x: 33.5, y: -0.53805923}
+        - {x: 40.499992, y: -2.5380592}
+        - {x: 66.49999, y: -2.5380592}
+        - {x: 66.49999, y: 5.4619427}
+        - {x: 62.5, y: 7.461941}
+      - - {x: 11.5, y: 12.461941}
+        - {x: 11.5, y: 16.46194}
+        - {x: 9.5, y: 23.46194}
+        - {x: -4.5, y: 23.46194}
+        - {x: -9.500002, y: 20.46194}
+        - {x: -15.5, y: 14.461941}
+        - {x: -15.5, y: 4.461941}
+        - {x: -14.5, y: -0.53805923}
+        - {x: 14.5, y: -0.53805923}
+        - {x: 16.499996, y: 5.4619427}
+        - {x: 16.499996, y: 12.461941}
+      - - {x: -63.5, y: 21.46194}
+        - {x: -64.5, y: 20.46194}
+        - {x: -64.5, y: 14.461941}
+        - {x: -63.5, y: 9.461941}
+        - {x: -38.5, y: 7.461941}
+        - {x: -19.5, y: 7.461941}
+        - {x: -19.5, y: 12.461941}
+        - {x: -31.5, y: 21.46194}
+      - - {x: 46.5, y: 23.46194}
+        - {x: 25.5, y: 17.46194}
+        - {x: 25.5, y: 11.461941}
+        - {x: 26.499996, y: 8.461943}
+        - {x: 33.5, y: 8.461943}
+        - {x: 59.499992, y: 12.461941}
+        - {x: 62.5, y: 18.46194}
+        - {x: 62.5, y: 23.46194}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04505cb4ade44afe8372e582011b6402
+      internalID: 21300018
+      vertices:
+      - {x: 165.5, y: 17.46194}
+      - {x: 165.5, y: -31.53806}
+      - {x: 121.5, y: -10.538059}
+      - {x: 124.5, y: 18.46194}
+      - {x: 81.5, y: -27.53806}
+      - {x: 32.5, y: -27.53806}
+      - {x: 32.5, y: 16.46194}
+      - {x: 81.5, y: 16.46194}
+      indices: 000000000100000002000000000000000200000003000000050000000600000007000000040000000500000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_wuzzy_stars_visor_smallMuzzle0002
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 8
+        width: 62
+        height: 31
+      alignment: 9
+      pivot: {x: 0.58064514, y: 0.41935483}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -3, y: 15.5}
+        - {x: 31, y: 0.5}
+        - {x: -31, y: -15.5}
+      physicsShape:
+      - - {x: -13, y: 6.5}
+        - {x: -13, y: -5.5}
+        - {x: 9, y: -5.5}
+        - {x: 20, y: -3.5}
+        - {x: 21, y: -1.5}
+        - {x: 21, y: 4.5}
+        - {x: 19, y: 6.5}
+      - - {x: -31, y: 5.5}
+        - {x: -29, y: 5.5}
+        - {x: -26, y: 8.5}
+        - {x: -27, y: 11.5}
+        - {x: -31, y: 11.5}
+      - - {x: 24.999998, y: 15.5}
+        - {x: 24, y: 14.5}
+        - {x: 24, y: 10.5}
+        - {x: 27, y: 6.5}
+        - {x: 31, y: 6.5}
+        - {x: 31, y: 15.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd2e7386fa746ec8f001999e5ec3ff8
+      internalID: 21300020
+      vertices:
+      - {x: 57, y: 18.5}
+      - {x: -5, y: 2.5}
+      - {x: 23, y: 33.5}
+      indices: 000000000100000002000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      2024_claws_stars_visor_bullRing0001: 21300004
+      2024_claws_stars_visor_bullRing0002: 21300010
+      2024_claws_stars_visor_whiskers0001: 21300018
+      2024_claws_stars_visor_whiskers0002: 21300016
+      2024_claws_stars_visor_whiskers0003: 21300002
+      2024_wuzzy_stars_visor_holdingKnife0001: 21300012
+      2024_wuzzy_stars_visor_holdingKnife0002: 21300000
+      2024_wuzzy_stars_visor_holdingKnife0003: 21300008
+      2024_wuzzy_stars_visor_holdingKnife0004: 21300014
+      2024_wuzzy_stars_visor_smallMuzzle0001: 21300006
+      2024_wuzzy_stars_visor_smallMuzzle0002: 21300020
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

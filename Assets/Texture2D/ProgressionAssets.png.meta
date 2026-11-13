@@ -1,0 +1,560 @@
+fileFormatVersion: 2
+guid: 8cef443ebe13a794184b95771808b3da
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: UI_EndRound_XPBar
+  - first:
+      213: 21300002
+    second: UI_Currency_Star
+  - first:
+      213: 21300004
+    second: UI_EndRound_XPBarFill
+  - first:
+      213: 21300006
+    second: UI_Currency_Bean
+  - first:
+      213: 21300008
+    second: UI_EndRound_XPBarGlow
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_EndRound_XPBar
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 875
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5084746}
+      border: {x: 10, y: 10, z: 10, w: 10}
+      customData: 
+      outline:
+      - - {x: 29.999998, y: -29.499998}
+        - {x: -29.999998, y: -29.499998}
+        - {x: -29.999998, y: 29.5}
+        - {x: 29.999998, y: 29.5}
+      physicsShape:
+      - - {x: -29.999998, y: 29.5}
+        - {x: -29.999998, y: -29.499998}
+        - {x: 29.999998, y: -29.499998}
+        - {x: 29.999998, y: 29.5}
+      - - {x: -21, y: 20.499998}
+        - {x: 21, y: 20.499998}
+        - {x: 21, y: -20.5}
+        - {x: -21, y: -20.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9d870b3d604a4ea56cf909e5635520
+      internalID: 21300000
+      vertices:
+      - {x: 60, y: -0.4999981}
+      - {x: 0.0000019073486, y: -0.4999981}
+      - {x: 0.0000019073486, y: 58.5}
+      - {x: 60, y: 58.5}
+      - {x: 9, y: 49.5}
+      - {x: 9, y: 8.5}
+      - {x: 51, y: 8.5}
+      - {x: 51, y: 49.5}
+      indices: 050000000000000001000000050000000100000002000000040000000500000002000000040000000200000003000000070000000400000003000000060000000700000003000000000000000500000006000000030000000000000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Currency_Star
+      rect:
+        serializedVersion: 2
+        x: 4.0761204
+        y: 518.0761
+        width: 435.84778
+        height: 501.84778
+      alignment: 9
+      pivot: {x: 0.51606065, y: 0.4960147}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -49.00001, y: 236.99998}
+        - {x: 0.99998474, y: 254}
+        - {x: 44.999985, y: 239.99998}
+        - {x: 135.99998, y: 147}
+        - {x: 186.99998, y: 130}
+        - {x: 212.99997, y: 101}
+        - {x: 220.99998, y: -117}
+        - {x: 176.99998, y: -142}
+        - {x: 109.999985, y: -164}
+        - {x: 62.99998, y: -224}
+        - {x: 6.9999847, y: -255}
+        - {x: -45.000015, y: -241.99998}
+        - {x: -122.000015, y: -164}
+        - {x: -205.00002, y: -130}
+        - {x: -221.00002, y: -83}
+        - {x: -202.00002, y: 16}
+        - {x: -218, y: 77.99999}
+        - {x: -201.00002, y: 122}
+        - {x: -110.00001, y: 166}
+      physicsShape:
+      - - {x: 80.999985, y: -197.99998}
+        - {x: 93.999985, y: -183}
+        - {x: 106.999985, y: -166}
+        - {x: 115.99998, y: -159}
+        - {x: 127.99998, y: -157}
+        - {x: 150.99998, y: -150}
+        - {x: 169.99997, y: -144}
+        - {x: 184.99998, y: -137}
+        - {x: 197.99998, y: -129}
+        - {x: 207.99997, y: -118}
+        - {x: 213.99997, y: -105}
+        - {x: 216.99998, y: -93.99999}
+        - {x: 217.99998, y: -85}
+        - {x: 217.99998, y: -80}
+        - {x: 216.99998, y: -66}
+        - {x: 215.99998, y: -59}
+        - {x: 211.99997, y: -38}
+        - {x: 208.99997, y: -27}
+        - {x: 201.99998, y: -4}
+        - {x: 199.99998, y: 5}
+        - {x: 206.99997, y: 26}
+        - {x: 210.99997, y: 45}
+        - {x: 212.99997, y: 54}
+        - {x: 212.99997, y: 83.99999}
+        - {x: 210.99997, y: 93}
+        - {x: 206.99997, y: 103.99999}
+        - {x: 200.99998, y: 112}
+        - {x: 191.99998, y: 121}
+        - {x: 176.99998, y: 131}
+        - {x: 162.99998, y: 137}
+        - {x: 150.99998, y: 141}
+        - {x: 122.999985, y: 149}
+        - {x: 96.999985, y: 182.99998}
+        - {x: 84.999985, y: 197}
+        - {x: 54.999985, y: 226}
+        - {x: 42.999985, y: 235.99998}
+        - {x: 26.999985, y: 246}
+        - {x: 10.999985, y: 250}
+        - {x: -5.0000143, y: 250}
+        - {x: -17.000015, y: 247}
+        - {x: -36.000015, y: 238.99998}
+        - {x: -46.000015, y: 231}
+        - {x: -62.000015, y: 216}
+        - {x: -77.000015, y: 201}
+        - {x: -87.000015, y: 190}
+        - {x: -104.000015, y: 169.99998}
+        - {x: -120.00001, y: 151}
+        - {x: -134.00002, y: 148}
+        - {x: -153.00002, y: 142}
+        - {x: -170.00002, y: 136}
+        - {x: -191.00002, y: 125}
+        - {x: -203.00002, y: 111}
+        - {x: -210, y: 95}
+        - {x: -212, y: 86}
+        - {x: -212, y: 56.999996}
+        - {x: -207.00002, y: 31}
+        - {x: -200.00002, y: 7.999999}
+        - {x: -200.00002, y: 2.9999995}
+        - {x: -208.00002, y: -24}
+        - {x: -214, y: -49}
+        - {x: -217, y: -65}
+        - {x: -217, y: -91}
+        - {x: -215, y: -99.99999}
+        - {x: -208.00002, y: -114}
+        - {x: -196.00002, y: -127}
+        - {x: -185, y: -134}
+        - {x: -181.00002, y: -137}
+        - {x: -174, y: -140}
+        - {x: -167.00002, y: -144}
+        - {x: -129.00002, y: -154}
+        - {x: -117.000015, y: -156}
+        - {x: -101.000015, y: -175}
+        - {x: -92.000015, y: -186.99998}
+        - {x: -54.000015, y: -225}
+        - {x: -45.000015, y: -233}
+        - {x: -35.000015, y: -239.99998}
+        - {x: -23.000013, y: -247}
+        - {x: -11.000013, y: -250}
+        - {x: 7.9999847, y: -250}
+        - {x: 17.999985, y: -249}
+        - {x: 41.999985, y: -234}
+        - {x: 56.999985, y: -221}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e514836f9d614383a556e390f43bcdd2
+      internalID: 21300002
+      vertices:
+      - {x: 255.92387, y: 492.9239}
+      - {x: 346.9239, y: 399.9239}
+      - {x: 397.9239, y: 382.9239}
+      - {x: 423.92386, y: 353.9239}
+      - {x: 431.9239, y: 135.92389}
+      - {x: 387.9239, y: 110.92389}
+      - {x: 320.9239, y: 88.92389}
+      - {x: 273.92386, y: 28.92389}
+      - {x: 217.92387, y: -2.0761108}
+      - {x: 165.92387, y: 10.923904}
+      - {x: 88.923874, y: 88.92389}
+      - {x: 5.923874, y: 122.92389}
+      - {x: -10.076126, y: 169.92389}
+      - {x: 8.923874, y: 268.9239}
+      - {x: -7.076111, y: 330.9239}
+      - {x: 9.923874, y: 374.9239}
+      - {x: 100.92388, y: 418.9239}
+      - {x: 161.92387, y: 489.9239}
+      - {x: 211.92387, y: 506.9239}
+      indices: 0000000011000000120000000d0000000f0000001000000007000000090000000a0000000d0000000e0000000f0000000d000000060000000a0000000c0000000a0000000b0000000c0000000d0000000a00000006000000070000000a0000000700000008000000090000000d0000001000000006000000010000000600000010000000010000000500000006000000010000000300000005000000050000000300000004000000010000000200000003000000000000000100000010000000000000001000000011000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_EndRound_XPBarFill
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6
+        width: 50
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5102041}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -25, y: -24.5}
+        - {x: -25, y: 24.5}
+        - {x: 25, y: 24.5}
+        - {x: 25, y: -24.5}
+      physicsShape:
+      - - {x: -25, y: 24.5}
+        - {x: -25, y: -24.5}
+        - {x: 25, y: -24.5}
+        - {x: 25, y: 24.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25d437f0527428a8167a0714295643c
+      internalID: 21300004
+      vertices:
+      - {x: 50, y: -0.5}
+      - {x: 0, y: -0.5}
+      - {x: 0, y: 48.5}
+      - {x: 50, y: 48.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Currency_Bean
+      rect:
+        serializedVersion: 2
+        x: 9.07612
+        y: 62.07612
+        width: 485.84778
+        height: 445.84778
+      alignment: 9
+      pivot: {x: 0.49999994, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -16.000015, y: 212.99998}
+        - {x: 23.999985, y: 186.99997}
+        - {x: 72.999985, y: 110.99998}
+        - {x: 184.99998, y: 80.999985}
+        - {x: 224.99997, y: 42.999985}
+        - {x: 248.99997, y: -34.000015}
+        - {x: 221.99997, y: -115.00001}
+        - {x: 164.99998, y: -172.00002}
+        - {x: 92.999985, y: -218}
+        - {x: -15.000014, y: -228.00002}
+        - {x: -129.00002, y: -183.00002}
+        - {x: -196.00002, y: -134.00002}
+        - {x: -230, y: -67.000015}
+        - {x: -251, y: 13.999985}
+        - {x: -224, y: 118.999985}
+        - {x: -185.00002, y: 168.99998}
+        - {x: -143.00002, y: 206.99997}
+        - {x: -67.000015, y: 226.99997}
+      physicsShape:
+      - - {x: 108.999985, y: -205}
+        - {x: 124.999985, y: -196.99998}
+        - {x: 146.99998, y: -183}
+        - {x: 156.99998, y: -175}
+        - {x: 168.99997, y: -166}
+        - {x: 178.99998, y: -158}
+        - {x: 186.99998, y: -149}
+        - {x: 196.99998, y: -138}
+        - {x: 212.99998, y: -116}
+        - {x: 221.99997, y: -104}
+        - {x: 234.99998, y: -75}
+        - {x: 240.99998, y: -50}
+        - {x: 241.99997, y: -42.999996}
+        - {x: 241.99997, y: -24}
+        - {x: 240.99998, y: -16}
+        - {x: 238.99998, y: -7}
+        - {x: 235.99998, y: 4.9999995}
+        - {x: 229.99998, y: 22}
+        - {x: 222.99997, y: 38}
+        - {x: 216.99997, y: 47}
+        - {x: 206.99998, y: 58.999996}
+        - {x: 198.99998, y: 66.99999}
+        - {x: 181.99997, y: 78}
+        - {x: 172.99998, y: 83}
+        - {x: 158.99998, y: 87}
+        - {x: 149.99998, y: 89}
+        - {x: 124.999985, y: 93}
+        - {x: 110.999985, y: 94}
+        - {x: 83.999985, y: 95}
+        - {x: 74.999985, y: 97.99999}
+        - {x: 66.999985, y: 104.99999}
+        - {x: 62.99998, y: 114}
+        - {x: 58.999985, y: 124}
+        - {x: 42.999985, y: 156}
+        - {x: 33.999985, y: 169}
+        - {x: 20.999983, y: 183.99998}
+        - {x: 8.999985, y: 195}
+        - {x: -3.0000153, y: 204}
+        - {x: -26.000015, y: 214.99998}
+        - {x: -37.00001, y: 218}
+        - {x: -53.000015, y: 222}
+        - {x: -81.000015, y: 222}
+        - {x: -98.000015, y: 216.99998}
+        - {x: -109.00001, y: 213.99998}
+        - {x: -118.000015, y: 210.99998}
+        - {x: -140.00002, y: 201}
+        - {x: -153.00002, y: 194}
+        - {x: -169.00002, y: 181}
+        - {x: -191.00002, y: 158.99998}
+        - {x: -204, y: 141}
+        - {x: -215.00002, y: 123}
+        - {x: -221.00002, y: 110}
+        - {x: -230, y: 89}
+        - {x: -234.00002, y: 76}
+        - {x: -236.00002, y: 68}
+        - {x: -240.00002, y: 48.999996}
+        - {x: -242.00002, y: 33}
+        - {x: -242.00002, y: -9.999999}
+        - {x: -240.00002, y: -22.999998}
+        - {x: -236.00002, y: -41}
+        - {x: -231, y: -59.999996}
+        - {x: -228, y: -68}
+        - {x: -217.00002, y: -91.99999}
+        - {x: -202, y: -116}
+        - {x: -185.00002, y: -136}
+        - {x: -170.00002, y: -150}
+        - {x: -158.00002, y: -158.99998}
+        - {x: -141.00002, y: -170.99998}
+        - {x: -124.00001, y: -181}
+        - {x: -99.000015, y: -193}
+        - {x: -74.000015, y: -202}
+        - {x: -54.000015, y: -210.99998}
+        - {x: -41.000015, y: -213.99998}
+        - {x: -33.000015, y: -216.99998}
+        - {x: -6.0000153, y: -221}
+        - {x: 5.9999847, y: -222}
+        - {x: 38.999985, y: -222}
+        - {x: 49.99998, y: -221}
+        - {x: 56.99998, y: -220}
+        - {x: 84.999985, y: -214.99998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3779ed06ec474d8b9e9b005921e193
+      internalID: 21300006
+      vertices:
+      - {x: 226.9239, y: 435.9239}
+      - {x: 266.9239, y: 409.92386}
+      - {x: 315.9239, y: 333.92386}
+      - {x: 427.9239, y: 303.9239}
+      - {x: 467.9239, y: 265.9239}
+      - {x: 491.9239, y: 188.92387}
+      - {x: 464.9239, y: 107.92388}
+      - {x: 407.9239, y: 50.923874}
+      - {x: 335.9239, y: 4.923889}
+      - {x: 227.9239, y: -5.076126}
+      - {x: 113.923904, y: 39.923874}
+      - {x: 46.923904, y: 88.923874}
+      - {x: 12.92392, y: 155.92387}
+      - {x: -8.07608, y: 236.92387}
+      - {x: 18.92392, y: 341.9239}
+      - {x: 57.923904, y: 391.9239}
+      - {x: 99.923904, y: 429.92386}
+      - {x: 175.9239, y: 449.92386}
+      indices: 0f000000000000000100000001000000020000000f0000000d0000000e000000020000000d000000020000000c0000000e0000000f000000020000000a0000000b0000000c00000002000000080000000900000002000000070000000800000002000000090000000a000000020000000600000007000000030000000400000005000000030000000500000006000000020000000300000006000000020000000a0000000c0000000f0000001000000000000000000000001000000011000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_EndRound_XPBarGlow
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 936
+        width: 88
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 26, y: 26, z: 26, w: 26}
+      customData: 
+      outline:
+      - - {x: 44, y: -43.5}
+        - {x: -44, y: -43.5}
+        - {x: -44, y: 43.5}
+        - {x: 44, y: 43.5}
+      physicsShape:
+      - - {x: -28, y: 27.5}
+        - {x: -28, y: -26.499998}
+        - {x: -22.999998, y: -27.5}
+        - {x: 28, y: -27.5}
+        - {x: 28, y: 25.5}
+        - {x: 26.999998, y: 27.5}
+      - - {x: -21, y: 21.499998}
+        - {x: -22.999998, y: 22.5}
+        - {x: -22, y: 20.5}
+        - {x: 22, y: 20.5}
+        - {x: 22.999998, y: 22.5}
+        - {x: 21, y: 21.499998}
+        - {x: 21, y: -21.499998}
+        - {x: 22.999998, y: -22.5}
+        - {x: 22, y: -20.5}
+        - {x: -22, y: -20.5}
+        - {x: -22.999998, y: -22.5}
+        - {x: -21, y: -21.499998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543c05b25101479b9c0dc35a85ff7190
+      internalID: 21300008
+      vertices:
+      - {x: 88, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 87}
+      - {x: 88, y: 87}
+      - {x: 23, y: 64}
+      - {x: 23, y: 23}
+      - {x: 65, y: 23}
+      - {x: 65, y: 64}
+      indices: 050000000000000001000000050000000100000002000000040000000500000002000000040000000200000003000000070000000400000003000000060000000700000003000000000000000500000006000000030000000000000006000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UI_Currency_Bean: 21300006
+      UI_Currency_Star: 21300002
+      UI_EndRound_XPBar: 21300000
+      UI_EndRound_XPBarFill: 21300004
+      UI_EndRound_XPBarGlow: 21300008
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

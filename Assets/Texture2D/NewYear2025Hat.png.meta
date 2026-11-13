@@ -1,0 +1,387 @@
+fileFormatVersion: 2
+guid: 8c356bd88841676418cf7a0ceeb988a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: 2024_store_beans_hat_2025nye0001
+  - first:
+      213: 21300002
+    second: 2024_store_beans_hat_2025nye0003
+  - first:
+      213: 21300004
+    second: 2024_store_beans_hat_2025nye0002
+  - first:
+      213: 21300006
+    second: 2024_store_beans_hat_2025nye0004
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2024_store_beans_hat_2025nye0001
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 3
+        width: 102
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5686275, y: -0.070866145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -50.999996, y: -63.5}
+        - {x: -50.999996, y: 63.5}
+        - {x: 51.000004, y: 63.5}
+        - {x: 51.000004, y: -63.5}
+      physicsShape:
+      - - {x: 51.000004, y: -48.5}
+        - {x: 51.000004, y: -19.500004}
+        - {x: 48.000004, y: -10.5}
+        - {x: 46.000004, y: -5.5000076}
+        - {x: 37, y: -2.5}
+        - {x: 19.000004, y: -2.5}
+        - {x: 10.000004, y: 9.5}
+        - {x: 12.000004, y: 33.499992}
+        - {x: 10.000004, y: 37.5}
+        - {x: -0.9999962, y: 57.5}
+        - {x: -10.999996, y: 63.5}
+        - {x: -26.999996, y: 63.5}
+        - {x: -34.999996, y: 61.499985}
+        - {x: -42.999996, y: 52.5}
+        - {x: -49.999996, y: 42.5}
+        - {x: -50.999996, y: 35.499992}
+        - {x: -50.999996, y: 18.5}
+        - {x: -38.999992, y: 5.5}
+        - {x: -32.999992, y: 3.5}
+        - {x: -34.999996, y: -10.5}
+        - {x: -49.999996, y: -30.5}
+        - {x: -40.999996, y: -62.5}
+        - {x: -33.999996, y: -63.5}
+        - {x: -17.999996, y: -63.5}
+        - {x: 6.000004, y: -55.5}
+        - {x: 8.000004, y: -52.5}
+        - {x: 38.000004, y: -55.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d406f79498fd475b911f076755185740
+      internalID: 21300000
+      vertices:
+      - {x: -7, y: 199.5}
+      - {x: 95, y: 199.5}
+      - {x: -7, y: 72.5}
+      - {x: 95, y: 72.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_store_beans_hat_2025nye0003
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 132
+        width: 116
+        height: 108
+      alignment: 9
+      pivot: {x: 0.45689654, y: -0.037037037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -57.999996, y: -54}
+        - {x: -57.999996, y: 54}
+        - {x: 58, y: 54}
+        - {x: 58, y: -54}
+      physicsShape:
+      - - {x: 53, y: -1}
+        - {x: 58, y: 10}
+        - {x: 58, y: 37}
+        - {x: 51, y: 46.999992}
+        - {x: 40.999996, y: 54}
+        - {x: 14.999998, y: 54}
+        - {x: 7, y: 52}
+        - {x: 1, y: 46.999992}
+        - {x: -10, y: 33}
+        - {x: -10, y: 21.999992}
+        - {x: -44.999996, y: 20}
+        - {x: -50.999996, y: 17}
+        - {x: -57.999996, y: -1}
+        - {x: -57.999996, y: -17}
+        - {x: -53, y: -27}
+        - {x: -30, y: -49}
+        - {x: -21, y: -53}
+        - {x: -14, y: -54}
+        - {x: 13, y: -54}
+        - {x: 32, y: -41}
+        - {x: 34.999996, y: -20}
+        - {x: 43.999996, y: -11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588ea839ed59459c88242479889e8d39
+      internalID: 21300002
+      vertices:
+      - {x: 5.000004, y: 166}
+      - {x: 121, y: 166}
+      - {x: 5.000004, y: 58}
+      - {x: 121, y: 58}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_store_beans_hat_2025nye0002
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 242
+        width: 201
+        height: 125
+      alignment: 9
+      pivot: {x: 0.48258707, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -100.5, y: -62.5}
+        - {x: -100.5, y: 62.5}
+        - {x: 100.5, y: 62.5}
+        - {x: 100.5, y: -62.5}
+      physicsShape:
+      - - {x: 83.5, y: -20.5}
+        - {x: 64.5, y: -20.5}
+        - {x: 42.499996, y: -33.5}
+        - {x: 38.5, y: -35.5}
+        - {x: 38.5, y: -52.5}
+        - {x: 41.5, y: -62.5}
+        - {x: 77.5, y: -62.5}
+        - {x: 100.5, y: -45.5}
+        - {x: 100.5, y: -26.5}
+        - {x: 98.5, y: -23.5}
+      - - {x: -62.499996, y: 0.5}
+        - {x: -77.5, y: 0.5}
+        - {x: -87.5, y: -0.5000019}
+        - {x: -100.5, y: -11.5}
+        - {x: -100.5, y: -30.5}
+        - {x: -86.5, y: -50.5}
+        - {x: -64.5, y: -50.5}
+        - {x: -41.5, y: -40.5}
+        - {x: -41.5, y: -19.5}
+        - {x: -57.499996, y: -2.5}
+      - - {x: 49.499996, y: -1.5}
+        - {x: 71.5, y: 16.5}
+        - {x: 73.5, y: 22.5}
+        - {x: 73.5, y: 41.5}
+        - {x: 52.5, y: 49.5}
+        - {x: 50.499996, y: 57.5}
+        - {x: 46.5, y: 62.5}
+        - {x: 28.5, y: 62.5}
+        - {x: 22.5, y: 57.5}
+        - {x: 20.5, y: 46.5}
+        - {x: 7.5, y: 46.5}
+        - {x: 2.5, y: 38.5}
+        - {x: -28.5, y: 33.5}
+        - {x: -39.5, y: 19.5}
+        - {x: -39.5, y: -4.500002}
+        - {x: -22.5, y: -28.5}
+        - {x: -5.5, y: -40.5}
+        - {x: 0.5, y: -42.5}
+        - {x: 7.5, y: -43.5}
+        - {x: 22.5, y: -43.5}
+        - {x: 29.5, y: -42.5}
+        - {x: 40.5, y: -33.5}
+        - {x: 44.5, y: -25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d597790f7d246109e4b63364f3c5d7a
+      internalID: 21300004
+      vertices:
+      - {x: 3.5, y: 152.5}
+      - {x: 204.5, y: 152.5}
+      - {x: 3.5, y: 27.5}
+      - {x: 204.5, y: 27.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2024_store_beans_hat_2025nye0004
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 105
+        height: 129
+      alignment: 9
+      pivot: {x: 0.552381, y: -0.054263566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -52.5, y: -64.5}
+        - {x: -52.5, y: 64.5}
+        - {x: 52.5, y: 64.5}
+        - {x: 52.5, y: -64.5}
+      physicsShape:
+      - - {x: 52.499996, y: -29.5}
+        - {x: 51.5, y: -23.5}
+        - {x: 52.499996, y: -20.5}
+        - {x: 52.499996, y: -7.5}
+        - {x: 51.5, y: -3.5}
+        - {x: 26.5, y: 1.4999924}
+        - {x: 20.5, y: -4.5000076}
+        - {x: 8.5, y: 10.5}
+        - {x: 9.5, y: 23.5}
+        - {x: 9.5, y: 34.499992}
+        - {x: 8.5, y: 38.5}
+        - {x: 4.5, y: 48.499992}
+        - {x: -9.5, y: 64.5}
+        - {x: -33.499996, y: 64.5}
+        - {x: -52.5, y: 45.499992}
+        - {x: -52.5, y: 19.5}
+        - {x: -40.5, y: 6.5}
+        - {x: -34.5, y: 4.5}
+        - {x: -35.5, y: -10.5}
+        - {x: -52.5, y: -23.5}
+        - {x: -52.5, y: -37.5}
+        - {x: -50.499996, y: -52.5}
+        - {x: -36.499996, y: -64.5}
+        - {x: -19.5, y: -64.5}
+        - {x: 7.5, y: -58.5}
+        - {x: 48.5, y: -53.5}
+        - {x: 52.499996, y: -50.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee4b302247844d4972f2e5cc6a39927
+      internalID: 21300006
+      vertices:
+      - {x: -5.500004, y: 200.5}
+      - {x: 99.5, y: 200.5}
+      - {x: -5.500004, y: 71.5}
+      - {x: 99.5, y: 71.5}
+      indices: 000000000100000002000000020000000100000003000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      2024_store_beans_hat_2025nye0001: 21300000
+      2024_store_beans_hat_2025nye0002: 21300004
+      2024_store_beans_hat_2025nye0003: 21300002
+      2024_store_beans_hat_2025nye0004: 21300006
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

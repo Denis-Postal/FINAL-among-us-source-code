@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: c8bedd97f53d18a469b537489692108d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: 2022_foodcube_pet_Ham_petted0008
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.52216625, y: 0.7217259}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2022_foodcube_pet_Ham_petted0008
+      rect:
+        serializedVersion: 2
+        x: 490.02676
+        y: 545.02673
+        width: 113.89713
+        height: 87.9465
+      alignment: 9
+      pivot: {x: 0.52216625, y: 0.7217259}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -59.975327, y: 17.000015}
+        - {x: 37.024673, y: 55.000015}
+        - {x: 70.02467, y: 5.0000153}
+        - {x: 3.0246735, y: -51.999985}
+        - {x: -16.975327, y: -40.99998}
+        - {x: -18.975325, y: -16.99998}
+        - {x: -49.975323, y: -14.999985}
+      physicsShape:
+      - - {x: 12.024673, y: -42.999985}
+        - {x: 18.024673, y: -39.99998}
+        - {x: 19.024673, y: -22.999985}
+        - {x: 32.024673, y: -21.999985}
+        - {x: 46.024673, y: -15.999985}
+        - {x: 57.024673, y: -0.99998474}
+        - {x: 57.024673, y: 18.000015}
+        - {x: 52.02467, y: 34.000015}
+        - {x: 36.02467, y: 44.000015}
+        - {x: 14.0246725, y: 44.000015}
+        - {x: 3.0246735, y: 41.000015}
+        - {x: -18.975325, y: 29.000015}
+        - {x: -25.975327, y: 20.000015}
+        - {x: -46.975323, y: 22.000015}
+        - {x: -55.975323, y: 15.000015}
+        - {x: -55.975323, y: -0.99998474}
+        - {x: -46.975323, y: -16.99998}
+        - {x: -20.975327, y: -15.999985}
+        - {x: -10.975326, y: -20.999985}
+        - {x: -19.975327, y: -40.99998}
+        - {x: -11.975327, y: -42.999985}
+        - {x: -2.9753265, y: -42.999985}
+        - {x: 0.0246737, y: -36.999985}
+        - {x: 0.0246737, y: -39.99998}
+        - {x: 5.0246735, y: -42.999985}
+      tessellationDetail: 0
+      bones: []
+      spriteID: aedc9f0742ad454da0796cabf5d3ef2a
+      internalID: 21300000
+      vertices:
+      - {x: 124.44856, y: 29.473251}
+      - {x: 57.448566, y: -27.526749}
+      - {x: 37.448566, y: -16.526745}
+      - {x: 35.44857, y: 7.473255}
+      - {x: 4.4485703, y: 9.473251}
+      - {x: -5.5514336, y: 41.47325}
+      - {x: 91.44856, y: 79.47325}
+      indices: 030000000500000006000000030000000400000005000000000000000300000006000000010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      2022_foodcube_pet_Ham_petted0008: 21300000
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

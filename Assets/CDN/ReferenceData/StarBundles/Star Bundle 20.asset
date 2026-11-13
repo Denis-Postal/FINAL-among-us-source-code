@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd8ac00d606410a3c9e3ad98b8abebce, type: 3}
+  m_Name: Star Bundle 20
+  m_EditorClassIdentifier:
+  epicId: 2297cef6766a410fb5f36563ab69824d
+  productId: star_bundle_20
+  SteamAppId: 1
+  SteamPrice:
+  price: 1.99
+  starAmount: 20
+  StoreImage: {fileID: 21300010, guid: 607d359fa3599a641a32c998ed8d4272, type: 3}
+  StoreBackImage: {fileID: 21300002, guid: 607d359fa3599a641a32c998ed8d4272, type: 3}

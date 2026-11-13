@@ -1,0 +1,452 @@
+fileFormatVersion: 2
+guid: f8ec4f6641ac2c347bf9bc76f5ec9bac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: panel_temp_backgroundCold
+  - first:
+      213: 21300002
+    second: panel_temp_degreesSymbolcold
+  - first:
+      213: 21300004
+    second: panel_temp_buttonDown
+  - first:
+      213: 21300006
+    second: panel_temp_button
+  - first:
+      213: 21300008
+    second: panel_temp_backgroundHot
+  - first:
+      213: 21300010
+    second: panel_temp_degreesSymbol
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: panel_temp_backgroundCold
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1504
+        width: 644
+        height: 543
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -322, y: 271.5}
+        - {x: 218, y: 271.5}
+        - {x: 230, y: 248.49998}
+        - {x: 322, y: 247.49998}
+        - {x: 322, y: -120.49999}
+        - {x: 231, y: -124.5}
+        - {x: 215.99998, y: -152.5}
+        - {x: 85.99999, y: -155.5}
+        - {x: 85.99999, y: -263.5}
+        - {x: -72.99999, y: -265.5}
+        - {x: -75, y: -271.5}
+        - {x: -125, y: -271.5}
+        - {x: -176, y: -263.5}
+        - {x: -178, y: -154.5}
+        - {x: -322, y: -152.5}
+      physicsShape:
+      - - {x: 216.99998, y: -160.5}
+        - {x: 231, y: -127.5}
+        - {x: 316, y: -119.49999}
+        - {x: 322, y: -111.5}
+        - {x: 322, y: 230.5}
+        - {x: 311, y: 246.49998}
+        - {x: 211.99998, y: 271.5}
+        - {x: -314, y: 271.5}
+        - {x: -316, y: 270.5}
+        - {x: -322, y: 261.5}
+        - {x: -322, y: -141.5}
+        - {x: -317.99997, y: -148.5}
+        - {x: -302, y: -155.5}
+        - {x: -291, y: -153.5}
+        - {x: -174, y: -263.5}
+        - {x: -133, y: -271.5}
+        - {x: -68, y: -271.5}
+        - {x: -83, y: -264.5}
+        - {x: 89, y: -263.5}
+        - {x: 88, y: -153.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9f7e5421f847afafcef9901ef78c47
+      internalID: 21300000
+      vertices:
+      - {x: 552, y: 520}
+      - {x: 644, y: 519}
+      - {x: 644, y: 151}
+      - {x: 553, y: 147}
+      - {x: 538, y: 119}
+      - {x: 408, y: 116}
+      - {x: 408, y: 8}
+      - {x: 249, y: 6}
+      - {x: 247, y: 0}
+      - {x: 197, y: 0}
+      - {x: 146, y: 8}
+      - {x: 144, y: 117}
+      - {x: 0, y: 119}
+      - {x: 0, y: 543}
+      - {x: 540, y: 543}
+      indices: 0b0000000d0000000e0000000b0000000c0000000d000000000000000b0000000e000000090000000a0000000b00000007000000080000000900000007000000090000000b00000005000000060000000700000005000000070000000b00000000000000030000000500000003000000040000000500000000000000020000000300000000000000010000000200000000000000050000000b000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_temp_degreesSymbolcold
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 2032
+        width: 16
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -8, y: -6.5}
+        - {x: -8, y: 7.4999995}
+        - {x: 7, y: 7.4999995}
+        - {x: 8, y: 6.5}
+        - {x: 8, y: -7.4999995}
+        - {x: -7, y: -7.4999995}
+      physicsShape:
+      - - {x: -8, y: 7.4999995}
+        - {x: -8, y: -7.4999995}
+        - {x: 8, y: -7.4999995}
+        - {x: 8, y: 7.4999995}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee10ba784ede42c4b9536adcda3725ca
+      internalID: 21300002
+      vertices:
+      - {x: 16, y: 14}
+      - {x: 16, y: 0.00000047683716}
+      - {x: 1, y: 0.00000047683716}
+      - {x: 0, y: 1}
+      - {x: 0, y: 15}
+      - {x: 15, y: 15}
+      indices: 030000000400000005000000020000000300000005000000000000000100000002000000000000000200000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_temp_buttonDown
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1883
+        width: 217
+        height: 81
+      alignment: 9
+      pivot: {x: 0.50691247, y: 0.4814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -108.49999, y: -40.5}
+        - {x: -108.49999, y: 40.5}
+        - {x: 108.5, y: 40.5}
+        - {x: 108.5, y: -40.5}
+      physicsShape:
+      - - {x: 85.50001, y: 40.5}
+        - {x: -93.49999, y: 40.5}
+        - {x: -107.49999, y: 23.5}
+        - {x: -108.49999, y: 9.5}
+        - {x: -108.49999, y: -39.5}
+        - {x: 107.5, y: -39.5}
+        - {x: 107.5, y: 17.5}
+        - {x: 106.5, y: 24.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223c5f6601314bf09a0182e48c7093df
+      internalID: 21300004
+      vertices:
+      - {x: 215.5, y: 1.5}
+      - {x: -1.5, y: 1.5}
+      - {x: -1.5, y: 82.5}
+      - {x: 215.5, y: 82.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_temp_button
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1966
+        width: 217
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5092166, y: 0.4814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -108.5, y: -40.5}
+        - {x: -108.5, y: 40.5}
+        - {x: 108.49999, y: 40.5}
+        - {x: 108.49999, y: -40.5}
+      physicsShape:
+      - - {x: 85.5, y: 40.5}
+        - {x: -93.5, y: 40.5}
+        - {x: -107.5, y: 23.5}
+        - {x: -108.5, y: 9.5}
+        - {x: -108.5, y: -39.5}
+        - {x: 107.49999, y: -39.5}
+        - {x: 107.49999, y: 17.5}
+        - {x: 106.49999, y: 24.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ec94ec140349b1b23e5b8180818829
+      internalID: 21300006
+      vertices:
+      - {x: 215, y: 1.5}
+      - {x: -2, y: 1.5}
+      - {x: -2, y: 82.5}
+      - {x: 215, y: 82.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_temp_backgroundHot
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 959
+        width: 644
+        height: 543
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -322, y: 271.5}
+        - {x: 218, y: 271.5}
+        - {x: 230, y: 248.49998}
+        - {x: 322, y: 247.49998}
+        - {x: 322, y: -120.49999}
+        - {x: 231, y: -124.5}
+        - {x: 215.99998, y: -152.5}
+        - {x: 85.99999, y: -155.5}
+        - {x: 85.99999, y: -263.5}
+        - {x: -75, y: -265.5}
+        - {x: -75, y: -271.5}
+        - {x: -176, y: -271.5}
+        - {x: -180, y: -152.5}
+        - {x: -322, y: -152.5}
+      physicsShape:
+      - - {x: 88, y: -261.5}
+        - {x: 88, y: -153.5}
+        - {x: 216.99998, y: -160.5}
+        - {x: 231, y: -127.5}
+        - {x: 316, y: -119.49999}
+        - {x: 322, y: -111.5}
+        - {x: 322, y: 230.5}
+        - {x: 311, y: 246.49998}
+        - {x: 211.99998, y: 271.5}
+        - {x: -314, y: 271.5}
+        - {x: -316, y: 270.5}
+        - {x: -322, y: 261.5}
+        - {x: -322, y: -141.5}
+        - {x: -317.99997, y: -148.5}
+        - {x: -302, y: -155.5}
+        - {x: -291, y: -153.5}
+        - {x: -174, y: -262.5}
+        - {x: -133, y: -271.5}
+        - {x: -78, y: -271.5}
+        - {x: -77, y: -270.5}
+        - {x: -78, y: -267.5}
+        - {x: 85, y: -263.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083e7689b6994a73b66e712caaa06301
+      internalID: 21300008
+      vertices:
+      - {x: 552, y: 520}
+      - {x: 644, y: 519}
+      - {x: 644, y: 151}
+      - {x: 553, y: 147}
+      - {x: 538, y: 119}
+      - {x: 408, y: 116}
+      - {x: 408, y: 8}
+      - {x: 247, y: 6}
+      - {x: 247, y: 0}
+      - {x: 146, y: 0}
+      - {x: 142, y: 119}
+      - {x: 0, y: 119}
+      - {x: 0, y: 543}
+      - {x: 540, y: 543}
+      indices: 0a0000000c0000000d0000000a0000000b0000000c000000000000000a0000000d00000007000000080000000900000007000000090000000a00000005000000060000000700000005000000070000000a00000000000000030000000500000003000000040000000500000000000000020000000300000000000000010000000200000000000000050000000a000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_temp_degreesSymbol
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 2032
+        width: 16
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -8, y: -6.5}
+        - {x: -8, y: 7.4999995}
+        - {x: 7, y: 7.4999995}
+        - {x: 8, y: 6.5}
+        - {x: 8, y: -7.4999995}
+        - {x: -7, y: -7.4999995}
+      physicsShape:
+      - - {x: -8, y: 7.4999995}
+        - {x: -8, y: -7.4999995}
+        - {x: 8, y: -7.4999995}
+        - {x: 8, y: 7.4999995}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cbf9422c1e434fac19ce4edcb6d343
+      internalID: 21300010
+      vertices:
+      - {x: 16, y: 14}
+      - {x: 16, y: 0.00000047683716}
+      - {x: 1, y: 0.00000047683716}
+      - {x: 0, y: 1}
+      - {x: 0, y: 15}
+      - {x: 15, y: 15}
+      indices: 030000000400000005000000020000000300000005000000000000000100000002000000000000000200000005000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      panel_temp_backgroundCold: 21300000
+      panel_temp_backgroundHot: 21300008
+      panel_temp_button: 21300006
+      panel_temp_buttonDown: 21300004
+      panel_temp_degreesSymbol: 21300010
+      panel_temp_degreesSymbolcold: 21300002
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

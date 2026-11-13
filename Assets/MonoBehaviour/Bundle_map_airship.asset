@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41d112223c32f1b0c40a10d1a14033b8, type: 3}
+  m_Name: Bundle_map_airship
+  m_EditorClassIdentifier:
+  BundleSize: 1
+  productId: map_airship
+  beanCost: 0
+  starCost: 20
+  cosmetics:
+  - {fileID: 11400000, guid: d80192d138e779e4e868fcd33b64db15, type: 2}
+  - {fileID: 11400000, guid: 7518a91b94183b243a8a1869f8114465, type: 2}
+  - {fileID: 11400000, guid: 1544678618828164f9194e265647815e, type: 2}
+  - {fileID: 11400000, guid: c08e311035d07a4438cb4e4791c2ca1b, type: 2}
+  - {fileID: 11400000, guid: 67da7f139b14f1740ae0939568deae34, type: 2}
+  - {fileID: 11400000, guid: 2c55d55bb0d69b548b7bdfacc55ff57e, type: 2}
+  - {fileID: 11400000, guid: 1dbb0ed779094bb44b445e6197d90f36, type: 2}
+  - {fileID: 11400000, guid: 9f8c01e7ef00d9448b9abf25d8edaaec, type: 2}
+  - {fileID: 11400000, guid: 55c092b54ad80244da26ae0934dd1035, type: 2}
+  - {fileID: 11400000, guid: 925d197eec044a240a69a0261a98a81e, type: 2}
+  - {fileID: 11400000, guid: 9ce427668fd94bd45a0badad2ca594cd, type: 2}
+  - {fileID: 11400000, guid: 50673925901543949922d11b132f5e9e, type: 2}
+  - {fileID: 11400000, guid: b79a3cb8c677bae46acb5310fb192da5, type: 2}
+  - {fileID: 11400000, guid: 051838b6ec3f2d945add97eef738c5f8, type: 2}
+  - {fileID: 11400000, guid: be704bff953949746b9c5fa901b6de79, type: 2}
+  - {fileID: 11400000, guid: 725aef36995588047948cae4ff45a311, type: 2}
+  - {fileID: 11400000, guid: 413bafc1dede735499653b6f7dc75656, type: 2}
+  StoreImage: {fileID: 21300014, guid: b15688616e6a3ec458083bdd9be1aa58, type: 3}
+  NotInStore: 0
+  Free: 0
+  paidOnMobile: 0
+  limitedTime:
+    timeStart:
+      limitedYear: 0
+      limitedMonth: 0
+      limitedDay: 0
+      limitedHour: 0
+      limitedMinute: 0
+    timeEnd:
+      limitedYear: 0
+      limitedMonth: 0
+      limitedDay: 0
+      limitedHour: 0
+      limitedMinute: 0

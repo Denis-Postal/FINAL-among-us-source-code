@@ -1,0 +1,612 @@
+fileFormatVersion: 2
+guid: 6900568ee54139a4fbb0c47c10ebbca5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: htp_switch_player_5
+  - first:
+      213: 21300002
+    second: htp_switch_couchBase5People
+  - first:
+      213: 21300004
+    second: htp_switch_player_2
+  - first:
+      213: 21300006
+    second: htp_switch_player_3
+  - first:
+      213: 21300008
+    second: htp_switch_player_4
+  - first:
+      213: 21300010
+    second: htp_switch_player_1
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: htp_switch_player_5
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 251
+        width: 91
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -39.5, y: -46}
+        - {x: -45.5, y: -45}
+        - {x: -45.5, y: 24}
+        - {x: -32.5, y: 46}
+        - {x: 31.5, y: 46}
+        - {x: 45.5, y: 39}
+        - {x: 45.5, y: -43}
+        - {x: 42.5, y: -46}
+      physicsShape:
+      - - {x: 40.5, y: 36}
+        - {x: 12.5, y: 45.999996}
+        - {x: -11.499999, y: 45.999996}
+        - {x: -22.5, y: 37}
+        - {x: -26.499998, y: 26}
+        - {x: -28.5, y: 18}
+        - {x: -45.5, y: 11}
+        - {x: -45.5, y: -38}
+        - {x: -17.5, y: -45}
+        - {x: 28.5, y: -45}
+        - {x: 45.5, y: -36}
+        - {x: 45.5, y: 28}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d01086034c42559dc695789450bd75
+      internalID: 21300000
+      vertices:
+      - {x: 91, y: 85}
+      - {x: 88, y: 0}
+      - {x: 91, y: 3}
+      - {x: 77, y: 92}
+      - {x: 13, y: 92}
+      - {x: 6, y: 0}
+      - {x: 0, y: 70}
+      - {x: 0, y: 1}
+      indices: 070000000600000005000000040000000500000006000000010000000500000004000000030000000100000004000000000000000100000003000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: htp_switch_couchBase5People
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 148
+        width: 549
+        height: 332
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 43.5, y: 116}
+        - {x: -221.49998, y: 99}
+        - {x: -217.5, y: -23}
+        - {x: -274.5, y: -91}
+        - {x: -274.5, y: -166}
+        - {x: 274.5, y: -166}
+        - {x: 274.5, y: -81}
+        - {x: 207.5, y: -64}
+        - {x: 184.5, y: 5}
+        - {x: 140.5, y: 23}
+        - {x: 155.5, y: 166}
+        - {x: 46.5, y: 166}
+      physicsShape:
+      - - {x: 159.49998, y: -158}
+        - {x: 199.5, y: -151}
+        - {x: 228.49998, y: -145}
+        - {x: 251.49998, y: -137}
+        - {x: 267.5, y: -127}
+        - {x: 274.5, y: -122}
+        - {x: 274.5, y: -101}
+        - {x: 272.5, y: -98.99999}
+        - {x: 265.5, y: -93}
+        - {x: 255.49998, y: -87}
+        - {x: 237.5, y: -79}
+        - {x: 212.5, y: -72}
+        - {x: 184.49998, y: -68}
+        - {x: 184.49998, y: -58}
+        - {x: 190.5, y: -36}
+        - {x: 190.5, y: -24}
+        - {x: 188.5, y: -11}
+        - {x: 180.5, y: 1}
+        - {x: 177.5, y: 4}
+        - {x: 167.5, y: 9}
+        - {x: 144.5, y: 12}
+        - {x: 131.5, y: 16}
+        - {x: 131.5, y: 22.999998}
+        - {x: 127.5, y: 38}
+        - {x: 130.5, y: 66}
+        - {x: 146.49998, y: 66.99999}
+        - {x: 149.5, y: 71}
+        - {x: 141.5, y: 89}
+        - {x: 137.5, y: 97}
+        - {x: 134.5, y: 101}
+        - {x: 139.5, y: 102}
+        - {x: 143.5, y: 104.99999}
+        - {x: 147.5, y: 110}
+        - {x: 152.5, y: 124}
+        - {x: 132.5, y: 128}
+        - {x: 131.5, y: 141}
+        - {x: 122.5, y: 158}
+        - {x: 116.5, y: 165}
+        - {x: 112.5, y: 166}
+        - {x: 87.5, y: 166}
+        - {x: 81.5, y: 163}
+        - {x: 68.5, y: 162}
+        - {x: 57.5, y: 150}
+        - {x: 52.499996, y: 136}
+        - {x: 49.499996, y: 119.99999}
+        - {x: 49.499996, y: 107.99999}
+        - {x: 53.499996, y: 104}
+        - {x: 61.5, y: 101}
+        - {x: 55.5, y: 97.99999}
+        - {x: 42.5, y: 98.99999}
+        - {x: -9.5, y: 104}
+        - {x: -34.5, y: 104.99999}
+        - {x: -69.5, y: 104.99999}
+        - {x: -107.49999, y: 104}
+        - {x: -200.49998, y: 98.99999}
+        - {x: -216.5, y: 94}
+        - {x: -219.5, y: 91.99999}
+        - {x: -218.5, y: 74}
+        - {x: -212.5, y: 37}
+        - {x: -204.49998, y: -19.999998}
+        - {x: -208.5, y: -25}
+        - {x: -215.5, y: -36}
+        - {x: -217.5, y: -45}
+        - {x: -216.5, y: -64}
+        - {x: -228.49998, y: -63}
+        - {x: -233.5, y: -66.99999}
+        - {x: -234.5, y: -79}
+        - {x: -246.49998, y: -83}
+        - {x: -259.5, y: -89}
+        - {x: -263.5, y: -91.99999}
+        - {x: -272.5, y: -100}
+        - {x: -274.5, y: -103}
+        - {x: -274.5, y: -118.99999}
+        - {x: -267.5, y: -128}
+        - {x: -243.5, y: -140}
+        - {x: -227.49998, y: -144}
+        - {x: -194.5, y: -152}
+        - {x: -172.49998, y: -156}
+        - {x: -152.5, y: -158.99998}
+        - {x: -127.5, y: -162}
+        - {x: -105.49999, y: -164}
+        - {x: -76.5, y: -166}
+        - {x: 76.5, y: -166}
+        - {x: 105.49999, y: -164}
+        - {x: 135.5, y: -161}
+      - - {x: 237.5, y: 29}
+        - {x: 221.49998, y: 11}
+        - {x: 220.5, y: -4}
+        - {x: 204.49998, y: -6}
+        - {x: 204.49998, y: -13}
+        - {x: 206.5, y: -26}
+        - {x: 204.49998, y: -32}
+        - {x: 204.49998, y: -52}
+        - {x: 205.5, y: -57}
+        - {x: 230.5, y: -62}
+        - {x: 274.5, y: -62}
+        - {x: 274.5, y: 25}
+        - {x: 266.5, y: 29}
+      - - {x: 265.5, y: 103}
+        - {x: 269.5, y: 123}
+        - {x: 250.49998, y: 127}
+        - {x: 245.5, y: 141}
+        - {x: 237.5, y: 155}
+        - {x: 222.49998, y: 166}
+        - {x: 199.5, y: 166}
+        - {x: 192.5, y: 163}
+        - {x: 176.5, y: 152}
+        - {x: 173.5, y: 144}
+        - {x: 170.5, y: 113}
+        - {x: 170.5, y: 97.99999}
+        - {x: 179.5, y: 82}
+        - {x: 183.49998, y: 70}
+        - {x: 192.5, y: 66.99999}
+        - {x: 205.5, y: 66.99999}
+        - {x: 222.49998, y: 48}
+        - {x: 232.5, y: 48}
+        - {x: 249.49998, y: 52.999996}
+        - {x: 268.5, y: 52.999996}
+        - {x: 274.5, y: 75}
+        - {x: 274.5, y: 96}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70639501f5f4d40896a35974f48d37f
+      internalID: 21300002
+      vertices:
+      - {x: 549, y: 0}
+      - {x: 482, y: 102}
+      - {x: 549, y: 85}
+      - {x: 415, y: 189}
+      - {x: 459, y: 171}
+      - {x: 318, y: 282}
+      - {x: 321, y: 332}
+      - {x: 57, y: 143}
+      - {x: 0, y: 0}
+      - {x: 0, y: 75}
+      - {x: 430, y: 332}
+      - {x: 53.000015, y: 265}
+      indices: 0b000000070000000500000006000000030000000a000000090000000800000007000000000000000700000008000000050000000700000000000000030000000500000000000000060000000500000003000000010000000300000000000000040000000300000001000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: htp_switch_player_2
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 37
+        width: 114
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 44, y: -53.500004}
+        - {x: -57, y: -53.500004}
+        - {x: -57, y: 21.5}
+        - {x: -33, y: 53.500004}
+        - {x: 51, y: 53.500004}
+        - {x: 57, y: 29.499998}
+        - {x: 57, y: -49.5}
+      physicsShape:
+      - - {x: 42, y: -41.5}
+        - {x: 53.999996, y: -32.5}
+        - {x: 57, y: -15.5}
+        - {x: 57, y: 10.5}
+        - {x: 53.999996, y: 19.5}
+        - {x: 39, y: 43.5}
+        - {x: 26.999998, y: 43.5}
+        - {x: 11, y: 53.499996}
+        - {x: -14, y: 53.499996}
+        - {x: -26, y: 46.5}
+        - {x: -35, y: 27.5}
+        - {x: -41, y: 12.5}
+        - {x: -57, y: 8.5}
+        - {x: -57, y: -0.5}
+        - {x: -48, y: -18.5}
+        - {x: -57, y: -39.5}
+        - {x: -57, y: -53.499996}
+        - {x: -29.999998, y: -53.499996}
+        - {x: -24, y: -49.499996}
+        - {x: -18, y: -39.5}
+        - {x: 3, y: -42.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c8a841c3d947a3a49ea928215ba6e1
+      internalID: 21300004
+      vertices:
+      - {x: 108, y: 107}
+      - {x: 114, y: 4}
+      - {x: 114, y: 83}
+      - {x: 101, y: -0.0000038146973}
+      - {x: 24, y: 107}
+      - {x: 0, y: 75}
+      - {x: 0, y: -0.0000038146973}
+      indices: 060000000500000003000000040000000300000005000000000000000300000004000000010000000300000000000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: htp_switch_player_3
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 20
+        width: 137
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -58.499996, y: -62}
+        - {x: -68.5, y: -31}
+        - {x: -68.5, y: 24}
+        - {x: -52.499996, y: 62}
+        - {x: 24.5, y: 62}
+        - {x: 68.5, y: -7}
+        - {x: 68.5, y: -62}
+      physicsShape:
+      - - {x: 68.5, y: -19.999998}
+        - {x: 56.5, y: -14.999999}
+        - {x: 57.5, y: -1}
+        - {x: 53.499996, y: 2}
+        - {x: 36.499996, y: 2}
+        - {x: 37.5, y: 29}
+        - {x: 30.5, y: 48.999996}
+        - {x: 19.5, y: 58.999996}
+        - {x: 13.499999, y: 62}
+        - {x: -20.5, y: 62}
+        - {x: -44.5, y: 58.999996}
+        - {x: -49.499996, y: 56}
+        - {x: -59.499996, y: 34}
+        - {x: -66.5, y: -4.9999995}
+        - {x: -66.5, y: -24}
+        - {x: -52.499996, y: -53.999996}
+        - {x: -43.5, y: -62}
+        - {x: 20.5, y: -62}
+        - {x: 23.5, y: -61}
+        - {x: 64.5, y: -59.999996}
+        - {x: 68.5, y: -58}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f84b06ccac64b0582a0b4378712e8b0
+      internalID: 21300006
+      vertices:
+      - {x: 93, y: 124}
+      - {x: 137, y: 0}
+      - {x: 137, y: 55}
+      - {x: 16.000004, y: 124}
+      - {x: 10.000004, y: 0}
+      - {x: 0, y: 86}
+      - {x: 0, y: 31}
+      indices: 060000000500000004000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: htp_switch_player_4
+      rect:
+        serializedVersion: 2
+        x: 459.0429
+        y: 355.0761
+        width: 105.880974
+        height: 126.89713
+      alignment: 9
+      pivot: {x: 0.47182313, y: 0.49980554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -35.983395, y: -63.524677}
+        - {x: -52.983395, y: -53.52468}
+        - {x: -52.983395, y: 42.475323}
+        - {x: -41.983395, y: 63.475323}
+        - {x: 26.016605, y: 63.475323}
+        - {x: 53.016605, y: 24.475323}
+        - {x: 53.016605, y: -52.524673}
+        - {x: 50.0166, y: -57.524677}
+        - {x: 36.016605, y: -63.524677}
+      physicsShape:
+      - - {x: 51.0166, y: -6.5246773}
+        - {x: 42.016605, y: -1.5246773}
+        - {x: 45.016605, y: 17.475323}
+        - {x: 40.0166, y: 19.475323}
+        - {x: 27.016603, y: 22.475323}
+        - {x: 18.016605, y: 44.475323}
+        - {x: 4.0166054, y: 59.47532}
+        - {x: -5.9833946, y: 63.475323}
+        - {x: -18.983395, y: 63.475323}
+        - {x: -30.983395, y: 58.47532}
+        - {x: -46.983395, y: 47.475323}
+        - {x: -52.983395, y: 17.475323}
+        - {x: -52.983395, y: -5.5246773}
+        - {x: -51.98339, y: -9.524677}
+        - {x: -42.98339, y: -29.524675}
+        - {x: -33.983395, y: -37.524677}
+        - {x: -24.983395, y: -38.524677}
+        - {x: -1.9833946, y: -56.524677}
+        - {x: 9.016605, y: -56.524677}
+        - {x: 26.016605, y: -51.524677}
+        - {x: 44.016605, y: -50.524677}
+        - {x: 53.016605, y: -28.524677}
+        - {x: 53.016605, y: -10.524677}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f60e5a2bd541ef88df19fb55c444bf
+      internalID: 21300008
+      vertices:
+      - {x: 108.94049, y: 87.94856}
+      - {x: 105.94048, y: 5.9485664}
+      - {x: 108.94049, y: 10.94857}
+      - {x: 91.94049, y: -0.051433563}
+      - {x: 81.94049, y: 126.94856}
+      - {x: 19.940487, y: -0.051433563}
+      - {x: 13.940487, y: 126.94856}
+      - {x: 2.940487, y: 105.94856}
+      - {x: 2.940487, y: 9.948563}
+      indices: 080000000700000005000000060000000500000007000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: htp_switch_player_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 33
+        width: 176
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -72, y: -49}
+        - {x: -88, y: -47}
+        - {x: -88, y: 37}
+        - {x: -56, y: 49}
+        - {x: 57, y: 49}
+        - {x: 87, y: 32}
+        - {x: 88, y: 17}
+        - {x: 88, y: -42}
+        - {x: 43, y: -49}
+      physicsShape:
+      - - {x: 88, y: -29.999998}
+        - {x: 76, y: -11}
+        - {x: 72.99999, y: -8}
+        - {x: 71, y: 34}
+        - {x: 69, y: 36}
+        - {x: 34, y: 45}
+        - {x: 19, y: 48}
+        - {x: 12, y: 48.999996}
+        - {x: -52.999996, y: 48.999996}
+        - {x: -61, y: 48}
+        - {x: -71, y: 28}
+        - {x: -68, y: 0}
+        - {x: -87, y: 2}
+        - {x: -88, y: 0}
+        - {x: -88, y: -24}
+        - {x: -85.99999, y: -29}
+        - {x: -63, y: -35}
+        - {x: -57, y: -47}
+        - {x: -52.999996, y: -48.999996}
+        - {x: -9.999999, y: -48.999996}
+        - {x: 4, y: -42.999996}
+        - {x: 51, y: -42}
+        - {x: 88, y: -41}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6ec649050341f89537d92643adc7aa
+      internalID: 21300010
+      vertices:
+      - {x: 175, y: 81}
+      - {x: 176, y: 7}
+      - {x: 176, y: 66}
+      - {x: 145, y: 98}
+      - {x: 131, y: 0}
+      - {x: 32, y: 98}
+      - {x: 16, y: 0}
+      - {x: 0, y: 86}
+      - {x: 0, y: 2}
+      indices: 080000000700000006000000050000000600000007000000040000000600000005000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      htp_switch_couchBase5People: 21300002
+      htp_switch_player_1: 21300010
+      htp_switch_player_2: 21300004
+      htp_switch_player_3: 21300006
+      htp_switch_player_4: 21300008
+      htp_switch_player_5: 21300000
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

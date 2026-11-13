@@ -1,0 +1,296 @@
+fileFormatVersion: 2
+guid: a012bec0daec6e84f8a728a5f7b3d38a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: 2025_Hanami_stars_visor_petal0002
+  - first:
+      213: 21300002
+    second: 2025_Hanami_stars_visor_petal0004
+  - first:
+      213: 21300004
+    second: 2025_Hanami_stars_visor_petal0001
+  - first:
+      213: 21300006
+    second: 2025_Hanami_stars_visor_petal0003
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2025_Hanami_stars_visor_petal0002
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 121
+        width: 50
+        height: 34
+      alignment: 9
+      pivot: {x: 0.64, y: 0.3529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -25, y: -17}
+        - {x: -25, y: 17}
+        - {x: 25, y: 17}
+        - {x: 25, y: -17}
+      physicsShape:
+      - - {x: 16, y: 17}
+        - {x: -6, y: 17}
+        - {x: -25, y: 4}
+        - {x: -25, y: -16}
+        - {x: -22, y: -17}
+        - {x: 17, y: -17}
+        - {x: 23, y: -12}
+        - {x: 25, y: -2}
+        - {x: 25, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d471994c9f16495d9b8e2c8f40fa948d
+      internalID: 21300000
+      vertices:
+      - {x: 43, y: 5}
+      - {x: -7, y: 5}
+      - {x: -7, y: 39}
+      - {x: 43, y: 39}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2025_Hanami_stars_visor_petal0004
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 32
+        width: 40
+        height: 42
+      alignment: 9
+      pivot: {x: -0.575, y: 0.54761904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -20.000002, y: -20.999998}
+        - {x: -20.000002, y: 21}
+        - {x: 20, y: 21}
+        - {x: 20, y: -20.999998}
+      physicsShape:
+      - - {x: -3.0000038, y: 21}
+        - {x: -20.000002, y: 15}
+        - {x: -20.000002, y: -20.999998}
+        - {x: 15.999996, y: -20.999998}
+        - {x: 20, y: -16}
+        - {x: 20, y: 21}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e9ed430a82458e83c4458e5166c515
+      internalID: 21300002
+      vertices:
+      - {x: 83, y: -1.9999981}
+      - {x: 43, y: -1.9999981}
+      - {x: 43, y: 40}
+      - {x: 83, y: 40}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2025_Hanami_stars_visor_petal0001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 76
+        width: 40
+        height: 43
+      alignment: 9
+      pivot: {x: -0.375, y: 0.5813953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -20, y: -21.5}
+        - {x: -20, y: 21.5}
+        - {x: 20, y: 21.5}
+        - {x: 20, y: -21.5}
+      physicsShape:
+      - - {x: -20, y: 21.5}
+        - {x: -20, y: -10.5}
+        - {x: -19, y: -14.5}
+        - {x: -16, y: -21.5}
+        - {x: 20, y: -21.5}
+        - {x: 20, y: 14.5}
+        - {x: -1, y: 21.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ebd37b6ad149e1ba5b349929da97aa
+      internalID: 21300004
+      vertices:
+      - {x: 75, y: -3.5}
+      - {x: 35, y: -3.5}
+      - {x: 35, y: 39.5}
+      - {x: 75, y: 39.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2025_Hanami_stars_visor_petal0003
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 38
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5263158, y: -2.142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -18.999998, y: -14.000004}
+        - {x: -18.999998, y: 14}
+        - {x: 19, y: 14}
+        - {x: 19, y: -14.000004}
+      physicsShape:
+      - - {x: -18.999998, y: -9}
+        - {x: -13.999999, y: -14.000004}
+        - {x: 19, y: -14.000004}
+        - {x: 19, y: 14}
+        - {x: -11, y: 14}
+        - {x: -18.999998, y: 5.9999924}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b8cd27dcd048299aa7b63069bb3c27
+      internalID: 21300006
+      vertices:
+      - {x: 37, y: 74}
+      - {x: -0.9999981, y: 74}
+      - {x: -0.9999981, y: 102}
+      - {x: 37, y: 102}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      2025_Hanami_stars_visor_petal0001: 21300004
+      2025_Hanami_stars_visor_petal0002: 21300000
+      2025_Hanami_stars_visor_petal0003: 21300006
+      2025_Hanami_stars_visor_petal0004: 21300002
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4 @@
+namespace Epic.OnlineServices.CustomInvites
+{
+	public delegate void OnSendCustomNativeInviteRequestedCallback(ref SendCustomNativeInviteRequestedCallbackInfo data);
+}

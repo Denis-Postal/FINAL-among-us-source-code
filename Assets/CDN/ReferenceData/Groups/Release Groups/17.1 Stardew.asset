@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fbdf57f19df93d09b0c77f4c0195892, type: 3}
+  m_Name: 17.1 Stardew
+  m_EditorClassIdentifier:
+  ids:
+  - hat_2026nye
+  - hat_stardew_abigail
+  - hat_stardew_grandpa
+  - hat_stardew_lewis
+  - hat_stardew_linus
+  - hat_stardew_mrqi
+  - hat_stardew_sebastian
+  - hat_stardew_straw
+  - hat_stardew_shorts
+  - hat_stardew_melon
+  - hat_stardew_parsnip
+  - hat_stardew_chickenWhite
+  - hat_stardew_chickenBlue
+  - hat_stardew_chickenVoid
+  - hat_stardew_egg
+  - nameplate_stardew_jellies
+  - nameplate_stardew_night
+  - nameplate_stardew_title
+  - pet_stardew_junimo
+  - pet_stardew_krobus
+  - skin_stardew_abigail
+  - skin_stardew_lewis
+  - skin_stardew_linus
+  - skin_stardew_mrqi
+  - skin_stardew_sebastian
+  - skin_stardew_overalls
+  - visor_stardew_grandpa
+  - visor_stardew_lewis
+  - visor_stardew_linus
+  - visor_stardew_mrqi
+  date: 2025-9-25

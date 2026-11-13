@@ -1,0 +1,299 @@
+fileFormatVersion: 2
+guid: f28389af7e6de6e4ea38e9936a5b5dfb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: hallportrait_main
+  - first:
+      213: 21300002
+    second: hallway_window
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hallportrait_main
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 125
+        width: 866
+        height: 464
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -305, y: 232}
+        - {x: -106.99999, y: 232}
+        - {x: 397, y: 188}
+        - {x: 433, y: 163}
+        - {x: 433, y: 42}
+        - {x: 425, y: 34}
+        - {x: 425.99997, y: -111}
+        - {x: 433, y: -118.99999}
+        - {x: 433, y: -129}
+        - {x: 429, y: -232}
+        - {x: -425.99997, y: -232}
+        - {x: -433, y: -193}
+        - {x: -433, y: -112}
+        - {x: -416, y: -107.99999}
+        - {x: -425, y: 91}
+        - {x: -433, y: 100}
+        - {x: -433, y: 181}
+        - {x: -399, y: 219}
+      physicsShape:
+      - - {x: 427.99997, y: -141}
+        - {x: 433, y: -127}
+        - {x: 433, y: -119.99999}
+        - {x: 423, y: -117.99999}
+        - {x: 421.99997, y: 34}
+        - {x: 429, y: 42}
+        - {x: 429.99997, y: 45}
+        - {x: 427.99997, y: 57}
+        - {x: 423.99997, y: 91.99999}
+        - {x: 433, y: 95}
+        - {x: 433, y: 101}
+        - {x: 431.99997, y: 102}
+        - {x: 429, y: 110}
+        - {x: 427.99997, y: 119.99999}
+        - {x: 427, y: 143}
+        - {x: 429, y: 154}
+        - {x: 427.99997, y: 163}
+        - {x: 423, y: 168}
+        - {x: 408.99997, y: 175}
+        - {x: 364, y: 187}
+        - {x: 349, y: 188}
+        - {x: 242.99998, y: 197.99998}
+        - {x: 191, y: 202}
+        - {x: 90, y: 211.99998}
+        - {x: 78, y: 212.99998}
+        - {x: 11, y: 218}
+        - {x: -11, y: 221}
+        - {x: -95, y: 229}
+        - {x: -131, y: 232}
+        - {x: -265, y: 232}
+        - {x: -278, y: 231}
+        - {x: -291.99997, y: 230}
+        - {x: -321, y: 227}
+        - {x: -336, y: 225}
+        - {x: -369.99997, y: 219}
+        - {x: -383, y: 214.99998}
+        - {x: -415, y: 197.99998}
+        - {x: -429.99997, y: 177}
+        - {x: -433, y: 170.99998}
+        - {x: -431.99997, y: 151}
+        - {x: -427, y: 145.99998}
+        - {x: -427.99997, y: 118.99999}
+        - {x: -433, y: 104}
+        - {x: -433, y: 102}
+        - {x: -429.99997, y: 101}
+        - {x: -410, y: 101}
+        - {x: -417.99997, y: 56}
+        - {x: -421.99997, y: 53.999996}
+        - {x: -419, y: 48}
+        - {x: -415, y: 42.999996}
+        - {x: -416, y: 31}
+        - {x: -415, y: 29.999998}
+        - {x: -415, y: -114}
+        - {x: -427.99997, y: -114}
+        - {x: -429.99997, y: -116}
+        - {x: -431, y: -119.99999}
+        - {x: -425.99997, y: -133}
+        - {x: -423, y: -146.99998}
+        - {x: -433, y: -173}
+        - {x: -433, y: -192}
+        - {x: -427.99997, y: -200}
+        - {x: -425, y: -229}
+        - {x: -425, y: -231}
+        - {x: -423.99997, y: -232}
+        - {x: 427.99997, y: -232}
+        - {x: 427, y: -191}
+        - {x: 427.99997, y: -177}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c36f4aecf644833a333ef6ea1009f47
+      internalID: 21300000
+      vertices:
+      - {x: 830, y: 420}
+      - {x: 866, y: 395}
+      - {x: 866, y: 274}
+      - {x: 858, y: 266}
+      - {x: 859, y: 121}
+      - {x: 866, y: 113.00001}
+      - {x: 866, y: 103}
+      - {x: 862, y: 0}
+      - {x: 7.0000305, y: 0}
+      - {x: 0, y: 39}
+      - {x: 0, y: 120}
+      - {x: 17, y: 124.00001}
+      - {x: 8, y: 323}
+      - {x: 0, y: 332}
+      - {x: 0, y: 413}
+      - {x: 34, y: 451}
+      - {x: 128, y: 464}
+      - {x: 326, y: 464}
+      indices: 0c00000010000000110000000c0000000f000000100000000e0000000c0000000d0000000e0000000f0000000c0000000b0000000c00000011000000090000000a0000000b00000004000000070000000b00000008000000090000000b00000007000000080000000b000000040000000600000007000000040000000500000006000000040000000b00000011000000030000000400000011000000030000000000000001000000030000000100000002000000000000000300000011000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway_window
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 734
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -366.99997, y: -58.999996}
+        - {x: -366.99997, y: 58.999996}
+        - {x: 366.99997, y: 58.999996}
+        - {x: 366.99997, y: -58.999996}
+      physicsShape:
+      - - {x: -366.99997, y: 58.999996}
+        - {x: -366.99997, y: -58.999996}
+        - {x: 366.99997, y: -58.999996}
+        - {x: 366.99997, y: 58.999996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637fa1259454477ca27e17323ff6df8b
+      internalID: 21300002
+      vertices:
+      - {x: 734, y: 0.0000038146973}
+      - {x: 0.000030517578, y: 0.0000038146973}
+      - {x: 0.000030517578, y: 118}
+      - {x: 734, y: 118}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hallportrait_main: 21300000
+      hallway_window: 21300002
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

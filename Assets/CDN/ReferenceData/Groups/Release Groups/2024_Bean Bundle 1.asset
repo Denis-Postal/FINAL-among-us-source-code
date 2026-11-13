@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fbdf57f19df93d09b0c77f4c0195892, type: 3}
+  m_Name: 2024_Bean Bundle 1
+  m_EditorClassIdentifier:
+  ids:
+  - hat_bb1_bucketHatBee
+  - hat_bb1_bucketHatBlack
+  - hat_bb1_bucketHatCamo
+  - hat_bb1_bucketHatFlowers
+  - hat_bb1_bucketHatWhite
+  - hat_bb1_bunnyBlack
+  - hat_bb1_sunHatGreen
+  - hat_bb1_sunHatYellow
+  - hat_bb1_lilShroomRed
+  - hat_bb1_lilShroomBlue
+  - hat_bb1_lilShroomGlowing
+  - skin_bb1_rainbowTube
+  - skin_bb1_fungleDress
+  - nameplate_bb1_disco
+  - nameplate_bb1_hackerman
+  - nameplate_bb1_ram
+  - nameplate_bb1_rave
+  - nameplate_bb1_zen
+  date: 2024-06-04

@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 825ac4e4914361a3d7ea08f1b54d9d4f, type: 3}
+  m_Name: _Cube_Claws
+  m_EditorClassIdentifier:
+  StoreImageRef:
+    m_AssetGUID: 6951e8b26a1304e8a8796f5db41bd315
+    m_SubObjectName: cosmicube_claws_paid
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  CosmicubePrefabRef:
+    m_AssetGUID: 77b6ef96d89564fe5ae8d4d82adce838
+    m_SubObjectName:
+    m_SubObjectType:
+  podIconRef:
+    m_AssetGUID: 01186d92035ec467d9355e88aaa889df
+    m_SubObjectName: UI_currency_2024_claws_Paid
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  DateCreated: 9/24/2024
+  allUnlockables:
+  - {fileID: 11400000, guid: c64e0a962524a944784d31c23d18543b, type: 2}
+  - {fileID: 11400000, guid: af3f01d8572b0b447a5e48388f359cdf, type: 2}
+  - {fileID: 11400000, guid: af435303c893afb4699cd5daaf3eef6b, type: 2}
+  - {fileID: 11400000, guid: 2a608a35ab3353c458f6fa1cc1089899, type: 2}
+  - {fileID: 11400000, guid: 08c504c21341a294ba1de5efd2ff45d7, type: 2}
+  - {fileID: 11400000, guid: 3c8af7a665143c0458fe01a8983eb296, type: 2}
+  - {fileID: 11400000, guid: 1ea12f8442ba5ee4d85112d8cbf44791, type: 2}
+  - {fileID: 11400000, guid: cd3a5e83848396e4ca612a313b263b3a, type: 2}
+  - {fileID: 11400000, guid: 1f486d20cd3dbd84382a114742ef6c04, type: 2}
+  - {fileID: 11400000, guid: f6b5fe4091902834492350677f76d79e, type: 2}
+  - {fileID: 11400000, guid: d459ee0ebd682a94bb617bd2456777a3, type: 2}
+  - {fileID: 11400000, guid: 23fdabcc8fc1f6744b34846799fecb42, type: 2}
+  - {fileID: 11400000, guid: cb0d4ba9843432c4ebc1de5d5681a704, type: 2}
+  - {fileID: 11400000, guid: aaeee979dc5a1bb418055e9e70111108, type: 2}
+  - {fileID: 11400000, guid: b5c93ea4a6a8c0d40a996c800d736c81, type: 2}
+  - {fileID: 11400000, guid: b9b1af3358bc0ef4bb1d117ba58c7894, type: 2}
+  - {fileID: 11400000, guid: be1c315cbcc86a04999e36a92564fddf, type: 2}
+  - {fileID: 11400000, guid: 6227bdf5e10096d43a5b51a2f98175ce, type: 2}
+  - {fileID: 11400000, guid: 171e7139883146f45853e0628569c832, type: 2}
+  - {fileID: 11400000, guid: b413236682434fc4695284166e7082c7, type: 2}
+  - {fileID: 11400000, guid: d3a72c8663f978a4799617cfc8b830d6, type: 2}
+  - {fileID: 11400000, guid: eb899ceeba5fb864a8075ec2416981c8, type: 2}
+  - {fileID: 11400000, guid: 1df90284d5485694badbd2eb4a6991a6, type: 2}
+  - {fileID: 11400000, guid: 018d55f9c877a04489df70dbf1d0a4fc, type: 2}
+  - {fileID: 11400000, guid: a6c60eb1af04b134dbff75e95328186e, type: 2}
+  starCost: 80
+  beanCost: 0
+  Order: 0
+  Free: 0
+  NotInStore: 0
+  XRange:
+    min: -0.25
+    max: 0.675
+  YRange:
+    min: -0.5
+    max: 0.8
+  podId: claws
+  productId: cube_claws
+  cosmicubeName: Claws
+  limitedTime:
+    timeStart:
+      limitedYear: 2024
+      limitedMonth: 11
+      limitedDay: 19
+      limitedHour: 18
+      limitedMinute: 0
+    timeEnd:
+      limitedYear: 0
+      limitedMonth: 0
+      limitedDay: 0
+      limitedHour: 0
+      limitedMinute: 0
+  epicId:

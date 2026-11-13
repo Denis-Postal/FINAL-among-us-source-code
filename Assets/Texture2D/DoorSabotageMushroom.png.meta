@@ -1,0 +1,1106 @@
+fileFormatVersion: 2
+guid: 07a6ece78034dc24093e39f7741a00b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: map5_sabotage_mushroomB0007
+  - first:
+      213: 21300002
+    second: map5_sabotage_mushroomA0003
+  - first:
+      213: 21300004
+    second: map5_sabotage_mushroomA0005
+  - first:
+      213: 21300006
+    second: map5_sabotage_mushroomA0001
+  - first:
+      213: 21300008
+    second: map5_sabotage_mushroomB0003
+  - first:
+      213: 21300010
+    second: map5_sabotage_mushroomA0011
+  - first:
+      213: 21300012
+    second: map5_sabotage_mushroomB0005
+  - first:
+      213: 21300014
+    second: map5_sabotage_mushroomB0008
+  - first:
+      213: 21300016
+    second: map5_sabotage_mushroomA0004
+  - first:
+      213: 21300018
+    second: map5_sabotage_mushroomB0004
+  - first:
+      213: 21300020
+    second: map5_sabotage_mushroomA0006
+  - first:
+      213: 21300022
+    second: map5_sabotage_mushroomA0008
+  - first:
+      213: 21300024
+    second: map5_sabotage_mushroomB0006
+  - first:
+      213: 21300026
+    second: map5_sabotage_mushroomA0012
+  - first:
+      213: 21300028
+    second: map5_sabotage_mushroomA0002
+  - first:
+      213: 21300030
+    second: map5_sabotage_mushroomA0007
+  - first:
+      213: 21300032
+    second: map5_sabotage_mushroomB0002
+  - first:
+      213: 21300034
+    second: map5_sabotage_mushroomA0009
+  - first:
+      213: 21300036
+    second: map5_sabotage_mushroomB0001
+  - first:
+      213: 21300038
+    second: map5_sabotage_mushroomA0010
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: map5_sabotage_mushroomB0007
+      rect:
+        serializedVersion: 2
+        x: 52.076122
+        y: 118.02675
+        width: 43.847755
+        height: 124.89713
+      alignment: 9
+      pivot: {x: 0.52280617, y: 0.50019765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 15.999999, y: -58.47531}
+        - {x: 3, y: -64.47531}
+        - {x: -15, y: -60.47531}
+        - {x: -23, y: 40.524685}
+        - {x: -11, y: 62.524685}
+        - {x: 25, y: 61.524685}
+      physicsShape:
+      - - {x: 14, y: 14.524685}
+        - {x: 20, y: 24.524683}
+        - {x: 20.999998, y: 27.524685}
+        - {x: 20.999998, y: 46.524685}
+        - {x: 12, y: 61.524685}
+        - {x: -6, y: 61.524685}
+        - {x: -15, y: 54.524685}
+        - {x: -21, y: 42.524685}
+        - {x: -21, y: 26.524683}
+        - {x: -20, y: 21.524683}
+        - {x: -18.999998, y: -4.475315}
+        - {x: -17, y: -19.475315}
+        - {x: -15, y: -55.475315}
+        - {x: -7, y: -61.475315}
+        - {x: 10.999999, y: -61.475315}
+        - {x: 17, y: -55.475315}
+        - {x: 10.999999, y: -17.475315}
+        - {x: 15.999999, y: -11.475314}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4819d9c6d76544808921ede254bff4ed
+      internalID: 21300000
+      vertices:
+      - {x: 45.923878, y: 123.94856}
+      - {x: 36.923878, y: 3.9485703}
+      - {x: 23.923878, y: -2.0514336}
+      - {x: 5.9238777, y: 1.9485703}
+      - {x: -2.0761223, y: 102.94856}
+      - {x: 9.923878, y: 124.94856}
+      indices: 030000000100000002000000030000000400000001000000000000000100000004000000000000000400000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_sabotage_mushroomA0003
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 46
+        width: 34
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 1.5375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -17, y: -20}
+        - {x: -17, y: 20.000002}
+        - {x: 17, y: 20.000002}
+        - {x: 17, y: -20}
+      physicsShape:
+      - - {x: 7, y: 20.000002}
+        - {x: -8, y: 20.000002}
+        - {x: -17, y: 7}
+        - {x: -17, y: -17.999996}
+        - {x: -12, y: -20}
+        - {x: 14.999999, y: -20}
+        - {x: 17, y: -16.999996}
+        - {x: 17, y: 11}
+        - {x: 16, y: 17.000002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e745592762354e048f112f5305b4de6b
+      internalID: 21300002
+      vertices:
+      - {x: 34, y: -41.5}
+      - {x: 0, y: -41.5}
+      - {x: 0, y: -1.4999981}
+      - {x: 34, y: -1.4999981}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_sabotage_mushroomA0005
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 88
+        width: 37.973248
+        height: 70.97325
+      alignment: 9
+      pivot: {x: 0.47401792, y: 0.8665237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 22.013374, y: 20.513374}
+        - {x: 16.013376, y: -35.48662}
+        - {x: -18.986624, y: -35.48662}
+        - {x: -18.986624, y: 23.513374}
+        - {x: 0.013376236, y: 42.513374}
+      physicsShape:
+      - - {x: 13.013376, y: -16.486622}
+        - {x: 19.013374, y: -0.48661995}
+        - {x: 19.013374, y: 23.513378}
+        - {x: 7.013376, y: 35.51338}
+        - {x: -7.986624, y: 35.51338}
+        - {x: -18.986624, y: 22.513378}
+        - {x: -18.986624, y: -29.486622}
+        - {x: -10.986623, y: -35.48662}
+        - {x: 6.013376, y: -35.48662}
+        - {x: 12.013376, y: -34.486618}
+        - {x: 19.013374, y: -24.486622}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529be57eee4f47e2a45a335fff43e524
+      internalID: 21300004
+      vertices:
+      - {x: 41.98662, y: 29.986622}
+      - {x: 35.986626, y: -26.013374}
+      - {x: 0.98662376, y: -26.013374}
+      - {x: 0.98662376, y: 32.98662}
+      - {x: 19.986624, y: 51.98662}
+      indices: 000000000100000003000000010000000200000003000000000000000300000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_sabotage_mushroomA0001
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1
+        width: 24
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 5.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -12, y: -6}
+        - {x: -12, y: 6.000004}
+        - {x: 12, y: 6.000004}
+        - {x: 12, y: -6}
+      physicsShape:
+      - - {x: -8, y: 6.000004}
+        - {x: -11, y: 3.0000038}
+        - {x: -12, y: 1}
+        - {x: -12, y: -2.9999962}
+        - {x: -9, y: -6}
+        - {x: 8, y: -6}
+        - {x: 12, y: -2}
+        - {x: 12, y: 5}
+        - {x: 9, y: 6.000004}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3894aee5919d4cf2b9afd51e764b7bc5
+      internalID: 21300006
+      vertices:
+      - {x: 24, y: -55.5}
+      - {x: 0, y: -55.5}
+      - {x: 0, y: -43.499996}
+      - {x: 24, y: -43.499996}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_sabotage_mushroomB0003
+      rect:
+        serializedVersion: 2
+        x: 132.02675
+        y: 5.026751
+        width: 43.915043
+        height: 100.9465
+      alignment: 9
+      pivot: {x: 0.5231294, y: 0.6188748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23.015728, y: 35.499992}
+        - {x: 14.015728, y: -54.500008}
+        - {x: -14.984272, y: -48.500004}
+        - {x: -22.984272, y: 25.499992}
+        - {x: -6.984272, y: 65.499985}
+      physicsShape:
+      - - {x: 21.015726, y: 17.499992}
+        - {x: 21.015726, y: 36.499992}
+        - {x: 10.015728, y: 50.499992}
+        - {x: -5.984272, y: 50.499992}
+        - {x: -7.984272, y: 49.499992}
+        - {x: -17.984272, y: 41.499992}
+        - {x: -20.984272, y: 28.499992}
+        - {x: -20.984272, y: -7.5000076}
+        - {x: -14.984272, y: -42.500008}
+        - {x: -9.984272, y: -49.500008}
+        - {x: 9.015728, y: -49.500008}
+        - {x: 15.015728, y: -44.500008}
+        - {x: 18.015728, y: -20.500008}
+        - {x: 18.015728, y: 12.499992}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8800968de37f4d22b38c2faa858b7c07
+      internalID: 21300008
+      vertices:
+      - {x: 43.95752, y: 73.97325}
+      - {x: 34.95752, y: -16.026749}
+      - {x: 5.9575214, y: -10.026745}
+      - {x: -2.0424786, y: 63.97325}
+      - {x: 13.957521, y: 103.97325}
+      indices: 000000000100000003000000010000000200000003000000000000000300000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_sabotage_mushroomA0011
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 3
+        width: 40
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5540541}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -19.999998, y: -55.499996}
+        - {x: -19.999998, y: 55.5}
+        - {x: 19.999998, y: 55.5}
+        - {x: 19.999998, y: -55.499996}
+      physicsShape:
+      - - {x: 19.999998, y: 7.500004}
+        - {x: 19.999998, y: 43.500004}
+        - {x: 18, y: 51.500004}
+        - {x: 7, y: 55.5}
+        - {x: -9, y: 55.5}
+        - {x: -11, y: 53.500004}
+        - {x: -19.999998, y: 38.500004}
+        - {x: -19.999998, y: 17.500004}
+        - {x: -16, y: 8.500004}
+        - {x: -19.999998, y: -39.499996}
+        - {x: -19.999998, y: -50.499996}
+        - {x: -11, y: -55.499996}
+        - {x: 14, y: -55.499996}
+        - {x: 19.999998, y: -44.499996}
+        - {x: 19.999998, y: -43.499992}
+        - {x: 19, y: -12.499996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b5dac924fa41338340be20b840f407
+      internalID: 21300010
+      vertices:
+      - {x: 40, y: -6}
+      - {x: 0.0000019073486, y: -6}
+      - {x: 0.0000019073486, y: 105}
+      - {x: 40, y: 105}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_sabotage_mushroomB0005
+      rect:
+        serializedVersion: 2
+        x: 222.02675
+        y: 9.026751
+        width: 43.897125
+        height: 123.9465
+      alignment: 9
+      pivot: {x: 0.52334297, y: 0.504034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 16.024689, y: -58}
+        - {x: 3.0246887, y: -64}
+        - {x: -14.975311, y: -60}
+        - {x: -22.975311, y: 40.999996}
+        - {x: -7.9753113, y: 65}
+        - {x: 24.024687, y: 56.999996}
+      physicsShape:
+      - - {x: 11.024688, y: 15.999996}
+        - {x: 21.024687, y: 21.999994}
+        - {x: 21.024687, y: 50.999996}
+        - {x: 9.024689, y: 60.999992}
+        - {x: -9.975311, y: 60.999992}
+        - {x: -20.975311, y: 43.999996}
+        - {x: -20.975311, y: -1.0000038}
+        - {x: -15.975311, y: -52}
+        - {x: -8.97531, y: -61.000004}
+        - {x: 9.024689, y: -61.000004}
+        - {x: 16.024689, y: -54.000004}
+        - {x: 13.024689, y: -20.000004}
+        - {x: 17.024689, y: -2.0000036}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987629dda14b419cbbb01c039ff4b5a9
+      internalID: 21300012
+      vertices:
+      - {x: 44.948563, y: 118.47325}
+      - {x: 36.948563, y: 3.4732552}
+      - {x: 23.948563, y: -2.5267487}
+      - {x: 5.9485626, y: 1.4732552}
+      - {x: -2.0514374, y: 102.47325}
+      - {x: 12.948563, y: 126.47325}
+      indices: 030000000100000002000000030000000400000001000000000000000100000004000000000000000400000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_sabotage_mushroomB0008
+      rect:
+        serializedVersion: 2
+        x: 270.02676
+        y: 29.02675
+        width: 43.897125
+        height: 124.897125
+      alignment: 9
+      pivot: {x: 0.52334267, y: 0.50019765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -12.975327, y: 59.52468}
+        - {x: 8.024673, y: 66.52469}
+        - {x: 23.024672, y: 45.524685}
+        - {x: 16.024673, y: -58.47531}
+        - {x: -0.97532654, y: -66.47531}
+        - {x: -14.975327, y: -60.47531}
+        - {x: -21.975327, y: 36.52468}
+      physicsShape:
+      - - {x: 16.024673, y: 6.524685}
+        - {x: 21.024673, y: 30.524685}
+        - {x: 21.024673, y: 51.524685}
+        - {x: 19.024675, y: 58.52468}
+        - {x: 9.024675, y: 61.524685}
+        - {x: -8.975324, y: 61.524685}
+        - {x: -15.975325, y: 52.52468}
+        - {x: -20.975325, y: 44.524685}
+        - {x: -20.975325, y: -42.475315}
+        - {x: -11.975325, y: -61.475315}
+        - {x: 9.024675, y: -61.475315}
+        - {x: 17.024675, y: -55.475315}
+        - {x: 12.024675, y: -27.475315}
+        - {x: 18.024675, y: -10.475315}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794033fbb5864baaa15ddea5320b4551
+      internalID: 21300014
+      vertices:
+      - {x: 43.94856, y: 107.94856}
+      - {x: 36.948563, y: 3.9485664}
+      - {x: 19.94856, y: -4.0514374}
+      - {x: 5.9485607, y: 1.9485664}
+      - {x: -1.0514393, y: 98.94856}
+      - {x: 7.9485607, y: 121.94856}
+      - {x: 28.94856, y: 128.94856}
+      indices: 000000000500000006000000000000000100000004000000030000000400000001000000030000000100000002000000000000000400000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_sabotage_mushroomA0004
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 187
+        width: 35
+        height: 56
+      alignment: 9
+      pivot: {x: 0.4857143, y: 1.0982143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -17.5, y: -28}
+        - {x: -17.5, y: 28}
+        - {x: 17.5, y: 28}
+        - {x: 17.5, y: -28}
+      physicsShape:
+      - - {x: 8.5, y: 28}
+        - {x: -5.4999995, y: 28}
+        - {x: -17.5, y: 23}
+        - {x: -17.5, y: -24.999996}
+        - {x: -14.5, y: -28}
+        - {x: 9.499999, y: -28}
+        - {x: 17.5, y: -21}
+        - {x: 17.5, y: 16}
+        - {x: 10.5, y: 27}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8556605157fc4871a69b0928ee1dfb7e
+      internalID: 21300016
+      vertices:
+      - {x: 35.5, y: -33.5}
+      - {x: 0.5, y: -33.5}
+      - {x: 0.5, y: 22.5}
+      - {x: 35.5, y: 22.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_sabotage_mushroomB0004
+      rect:
+        serializedVersion: 2
+        x: 102.02675
+        y: 125.02675
+        width: 43.897125
+        height: 117.9465
+      alignment: 9
+      pivot: {x: 0.52334297, y: 0.5296745}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -22.975311, y: 38}
+        - {x: -10.975311, y: 59}
+        - {x: 24.024687, y: 59}
+        - {x: 15.024689, y: -54.999996}
+        - {x: 2.0246887, y: -61}
+        - {x: -15.975311, y: -56.999996}
+      physicsShape:
+      - - {x: 21.024687, y: 13}
+        - {x: 21.024687, y: 39.999996}
+        - {x: 19.024689, y: 50}
+        - {x: 12.024689, y: 56.999996}
+        - {x: 6.0246882, y: 58}
+        - {x: -6.9753113, y: 58}
+        - {x: -17.975311, y: 49}
+        - {x: -20.975311, y: 35}
+        - {x: -20.975311, y: 0}
+        - {x: -19.975311, y: -7}
+        - {x: -15.975311, y: -52}
+        - {x: -7.9753113, y: -58}
+        - {x: 8.024689, y: -58}
+        - {x: 16.024689, y: -53}
+        - {x: 14.024689, y: -20.999998}
+        - {x: 17.024689, y: -3.9999995}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8d4abcab9a420d9010c3af2c1f2539
+      internalID: 21300018
+      vertices:
+      - {x: 35.948563, y: 0.47325516}
+      - {x: 22.948563, y: -5.5267487}
+      - {x: 4.9485626, y: -1.5267448}
+      - {x: -2.0514374, y: 93.47325}
+      - {x: 9.948563, y: 114.47325}
+      - {x: 44.948563, y: 114.47325}
+      indices: 030000000400000005000000000000000300000005000000020000000300000000000000020000000000000001000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_sabotage_mushroomA0006
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 160
+        width: 40
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7409639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -19.999998, y: -41.5}
+        - {x: -19.999998, y: 41.5}
+        - {x: 19.999998, y: 41.5}
+        - {x: 19.999998, y: -41.5}
+      physicsShape:
+      - - {x: 19.999998, y: 27.5}
+        - {x: 12, y: 41.5}
+        - {x: -11, y: 41.5}
+        - {x: -14.999999, y: 32.5}
+        - {x: -18, y: 25.5}
+        - {x: -19.999998, y: 20.5}
+        - {x: -19.999998, y: -32.499996}
+        - {x: -13, y: -41.5}
+        - {x: 9, y: -41.5}
+        - {x: 13, y: -40.499996}
+        - {x: 19.999998, y: -34.5}
+        - {x: 16, y: -7.5}
+        - {x: 19.999998, y: -2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e750f734b5b4a229bf7d8873c363ea7
+      internalID: 21300020
+      vertices:
+      - {x: 40, y: -20}
+      - {x: 0.0000019073486, y: -20}
+      - {x: 0.0000019073486, y: 63}
+      - {x: 40, y: 63}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_sabotage_mushroomA0008
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 138
+        width: 40
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -19.999998, y: -52.5}
+        - {x: -19.999998, y: 52.5}
+        - {x: 19.999998, y: 52.5}
+        - {x: 19.999998, y: -52.5}
+      physicsShape:
+      - - {x: 19.999998, y: 0.5}
+        - {x: 19.999998, y: 41.5}
+        - {x: 9, y: 52.5}
+        - {x: -7, y: 52.5}
+        - {x: -9.999999, y: 51.5}
+        - {x: -14.999999, y: 43.5}
+        - {x: -18, y: 36.5}
+        - {x: -19.999998, y: 31.5}
+        - {x: -19.999998, y: 14.5}
+        - {x: -16, y: -19.5}
+        - {x: -19, y: -42.5}
+        - {x: -13, y: -52.5}
+        - {x: 14, y: -52.5}
+        - {x: 19.999998, y: -41.5}
+        - {x: 19, y: -13.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdf7448aa0844e6b65746e33776696e
+      internalID: 21300022
+      vertices:
+      - {x: 40, y: -9}
+      - {x: 0.0000019073486, y: -9}
+      - {x: 0.0000019073486, y: 96}
+      - {x: 40, y: 96}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_sabotage_mushroomB0006
+      rect:
+        serializedVersion: 2
+        x: 2.026751
+        y: 118.02675
+        width: 43.946495
+        height: 123.921936
+      alignment: 9
+      pivot: {x: 0.52275497, y: 0.50413394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 16, y: -57.98771}
+        - {x: 3.000002, y: -63.987713}
+        - {x: -14.999998, y: -59.98771}
+        - {x: -22.999998, y: 42.012287}
+        - {x: -9.999998, y: 63.012287}
+        - {x: 25.000002, y: 61.012283}
+      physicsShape:
+      - - {x: 21, y: 30.012285}
+        - {x: 21, y: 42.012287}
+        - {x: 19.000002, y: 48.012287}
+        - {x: 16, y: 54.012283}
+        - {x: 8.000002, y: 61.012283}
+        - {x: -7.999998, y: 61.012283}
+        - {x: -17.999998, y: 52.012287}
+        - {x: -20.999998, y: 38.012287}
+        - {x: -20.999998, y: -5.987713}
+        - {x: -14.999998, y: -54.987713}
+        - {x: -6.999998, y: -60.987713}
+        - {x: 9.000002, y: -60.987713}
+        - {x: 18.000002, y: -54.987713}
+        - {x: 15.000002, y: -9.987713}
+        - {x: 15.000002, y: -1.9877126}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6feae51c6782422a91b46cea0cae58ab
+      internalID: 21300024
+      vertices:
+      - {x: 45.973248, y: 122.46097}
+      - {x: 36.973248, y: 3.4609718}
+      - {x: 23.973248, y: -2.539032}
+      - {x: 5.9732475, y: 1.4609718}
+      - {x: -2.0267525, y: 103.46097}
+      - {x: 10.973248, y: 124.46097}
+      indices: 030000000100000002000000030000000400000001000000000000000100000004000000000000000400000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_sabotage_mushroomA0012
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 3
+        width: 40
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5540541}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -19.999998, y: -55.499996}
+        - {x: -19.999998, y: 55.5}
+        - {x: 19.999998, y: 55.5}
+        - {x: 19.999998, y: -55.499996}
+      physicsShape:
+      - - {x: 19.999998, y: 12.500004}
+        - {x: 19.999998, y: 44.500004}
+        - {x: 9, y: 55.5}
+        - {x: -7, y: 55.5}
+        - {x: -9.999999, y: 54.500004}
+        - {x: -14.999999, y: 46.500004}
+        - {x: -18, y: 39.5}
+        - {x: -19.999998, y: 34.500004}
+        - {x: -19.999998, y: 17.500004}
+        - {x: -16, y: -16.499996}
+        - {x: -18, y: -49.499996}
+        - {x: -9.999999, y: -55.499996}
+        - {x: 14, y: -55.499996}
+        - {x: 19.999998, y: -44.499996}
+        - {x: 19.999998, y: -9.499996}
+        - {x: 18, y: 7.500004}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02d8df181114990ae6cb8c0d54bb536
+      internalID: 21300026
+      vertices:
+      - {x: 40, y: -6}
+      - {x: 0.0000019073486, y: -6}
+      - {x: 0.0000019073486, y: 105}
+      - {x: 40, y: 105}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_sabotage_mushroomA0002
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 18
+        width: 29
+        height: 26
+      alignment: 9
+      pivot: {x: 0.4827586, y: 2.3653846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -14.5, y: -13}
+        - {x: -14.5, y: 13}
+        - {x: 14.499999, y: 13}
+        - {x: 14.499999, y: -13}
+      physicsShape:
+      - - {x: 9.499999, y: 13}
+        - {x: -5.4999995, y: 13}
+        - {x: -14.5, y: 9}
+        - {x: -14.5, y: -8}
+        - {x: -11.5, y: -13}
+        - {x: 10.5, y: -13}
+        - {x: 14.499999, y: -9.999996}
+        - {x: 14.499999, y: 3}
+        - {x: 12.5, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5246c286e94551ab4f1e793dcbad4c
+      internalID: 21300028
+      vertices:
+      - {x: 29.5, y: -48.5}
+      - {x: 0.5, y: -48.5}
+      - {x: 0.5, y: -22.5}
+      - {x: 29.5, y: -22.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_sabotage_mushroomA0007
+      rect:
+        serializedVersion: 2
+        x: 1.0630665
+        y: 11
+        width: 41.910183
+        height: 96.97325
+      alignment: 9
+      pivot: {x: 0.49956673, y: 0.6341955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 22.98184, y: 39.513374}
+        - {x: 16.981842, y: -48.486626}
+        - {x: -20.018156, y: -48.486626}
+        - {x: -21.018158, y: 30.513374}
+        - {x: -6.018158, y: 54.513374}
+      physicsShape:
+      - - {x: 20.981842, y: 16.513374}
+        - {x: 20.981842, y: 33.513374}
+        - {x: 7.981842, y: 47.513374}
+        - {x: 7.981842, y: 48.513374}
+        - {x: -7.018158, y: 48.513374}
+        - {x: -19.018158, y: 44.513374}
+        - {x: -20.018156, y: 35.513374}
+        - {x: -20.018156, y: 2.5133743}
+        - {x: -15.018157, y: -15.486626}
+        - {x: -18.018158, y: -42.486626}
+        - {x: -10.018157, y: -48.486626}
+        - {x: 6.981842, y: -48.486626}
+        - {x: 13.981842, y: -47.48662}
+        - {x: 19.98184, y: -37.486626}
+        - {x: 19.98184, y: -23.486622}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da379159d454b0cae7a9ebce5a9e6d5
+      internalID: 21300030
+      vertices:
+      - {x: 43.95509, y: 74.986626}
+      - {x: 37.955093, y: -13.013374}
+      - {x: 0.9550934, y: -13.013374}
+      - {x: -0.044908524, y: 65.986626}
+      - {x: 14.955091, y: 89.986626}
+      indices: 000000000100000003000000010000000200000003000000000000000300000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_sabotage_mushroomB0002
+      rect:
+        serializedVersion: 2
+        x: 280.02676
+        y: 171.02675
+        width: 39.946495
+        height: 68.89713
+      alignment: 9
+      pivot: {x: 0.5250332, y: 0.8922469}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -15.000011, y: 30.524689}
+        - {x: 6.9999886, y: 37.52469}
+        - {x: 21.999989, y: 17.524689}
+        - {x: 14.999989, y: -30.475311}
+        - {x: 1.9999886, y: -37.47531}
+        - {x: -15.000011, y: -30.475311}
+        - {x: -21.000011, y: 10.524689}
+      physicsShape:
+      - - {x: 8.999989, y: 33.52469}
+        - {x: -9.0000105, y: 33.52469}
+        - {x: -19.00001, y: 21.524689}
+        - {x: -19.00001, y: -11.475311}
+        - {x: -15.000011, y: -26.475307}
+        - {x: -9.0000105, y: -34.47531}
+        - {x: 10.999988, y: -34.47531}
+        - {x: 16.999989, y: -29.475311}
+        - {x: 18.999989, y: -5.4753113}
+        - {x: 18.999989, y: 23.524689}
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2505d1e6dd45039079a14722d03524
+      internalID: 21300032
+      vertices:
+      - {x: 40.973248, y: 24.948566}
+      - {x: 33.973248, y: -23.051434}
+      - {x: 20.973248, y: -30.051434}
+      - {x: 3.9732475, y: -23.051434}
+      - {x: -2.0267525, y: 17.948566}
+      - {x: 3.9732475, y: 37.948566}
+      - {x: 25.973248, y: 44.948566}
+      indices: 000000000500000006000000000000000100000004000000030000000400000001000000030000000100000002000000000000000400000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_sabotage_mushroomA0009
+      rect:
+        serializedVersion: 2
+        x: 150.06306
+        y: 127
+        width: 41.910183
+        height: 109.97325
+      alignment: 9
+      pivot: {x: 0.4995668, y: 0.5592269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 21.981844, y: 47.01337}
+        - {x: 16.981844, y: -54.98663}
+        - {x: -20.018154, y: -54.98663}
+        - {x: -21.018156, y: 37.01337}
+        - {x: -6.018156, y: 61.01337}
+      physicsShape:
+      - - {x: 19.981842, y: 12.0133705}
+        - {x: 20.981844, y: 22.01337}
+        - {x: 20.981844, y: 42.01337}
+        - {x: 7.981844, y: 55.01337}
+        - {x: -10.018155, y: 55.01337}
+        - {x: -20.018154, y: 39.01337}
+        - {x: -20.018154, y: 17.01337}
+        - {x: -19.018156, y: 14.0133705}
+        - {x: -16.018156, y: -8.9866295}
+        - {x: -18.018156, y: -48.98663}
+        - {x: -10.018155, y: -54.98663}
+        - {x: 13.981844, y: -54.98663}
+        - {x: 19.981842, y: -43.98663}
+        - {x: 18.981844, y: -16.98663}
+        - {x: 12.981844, y: 7.0133705}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7251ac6b502c4635a0b2af69eec96bd6
+      internalID: 21300034
+      vertices:
+      - {x: 42.955093, y: 95.486626}
+      - {x: 37.955093, y: -6.5133743}
+      - {x: 0.9550934, y: -6.5133743}
+      - {x: -0.044908524, y: 85.486626}
+      - {x: 14.955091, y: 109.486626}
+      indices: 000000000100000003000000010000000200000003000000000000000300000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_sabotage_mushroomB0001
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 145
+        width: 25
+        height: 13
+      alignment: 9
+      pivot: {x: 0.48, y: 4.6538463}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -12.5, y: -6.499996}
+        - {x: -12.5, y: 6.5}
+        - {x: 12.5, y: 6.5}
+        - {x: 12.5, y: -6.499996}
+      physicsShape:
+      - - {x: -7.5, y: 6.5}
+        - {x: -12.5, y: 0.5000038}
+        - {x: -12.5, y: -4.499996}
+        - {x: -9.5, y: -6.499996}
+        - {x: 9.499999, y: -6.499996}
+        - {x: 12.5, y: -5.499996}
+        - {x: 12.5, y: -0.5}
+        - {x: 7.5, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1fe0a25d034e58a169a26a324e65ca
+      internalID: 21300036
+      vertices:
+      - {x: 25.5, y: -53.999996}
+      - {x: 0.5, y: -53.999996}
+      - {x: 0.5, y: -41}
+      - {x: 25.5, y: -41}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map5_sabotage_mushroomA0010
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 15
+        width: 40
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5590909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -19.999998, y: -55}
+        - {x: -19.999998, y: 55}
+        - {x: 19.999998, y: 55}
+        - {x: 19.999998, y: -55}
+      physicsShape:
+      - - {x: 19.999998, y: -4}
+        - {x: 19.999998, y: 44}
+        - {x: 9, y: 55}
+        - {x: -9, y: 55}
+        - {x: -19.999998, y: 39}
+        - {x: -19.999998, y: 16}
+        - {x: -16, y: -8}
+        - {x: -18, y: -49}
+        - {x: -9.999999, y: -55}
+        - {x: 14, y: -55}
+        - {x: 19.999998, y: -44}
+        - {x: 19.999998, y: -42.999996}
+        - {x: 19, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588765ef4b78421f855f852e6c9ea58f
+      internalID: 21300038
+      vertices:
+      - {x: 40, y: -6.5}
+      - {x: 0.0000019073486, y: -6.5}
+      - {x: 0.0000019073486, y: 103.5}
+      - {x: 40, y: 103.5}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      map5_sabotage_mushroomA0001: 21300006
+      map5_sabotage_mushroomA0002: 21300028
+      map5_sabotage_mushroomA0003: 21300002
+      map5_sabotage_mushroomA0004: 21300016
+      map5_sabotage_mushroomA0005: 21300004
+      map5_sabotage_mushroomA0006: 21300020
+      map5_sabotage_mushroomA0007: 21300030
+      map5_sabotage_mushroomA0008: 21300022
+      map5_sabotage_mushroomA0009: 21300034
+      map5_sabotage_mushroomA0010: 21300038
+      map5_sabotage_mushroomA0011: 21300010
+      map5_sabotage_mushroomA0012: 21300026
+      map5_sabotage_mushroomB0001: 21300036
+      map5_sabotage_mushroomB0002: 21300032
+      map5_sabotage_mushroomB0003: 21300008
+      map5_sabotage_mushroomB0004: 21300018
+      map5_sabotage_mushroomB0005: 21300012
+      map5_sabotage_mushroomB0006: 21300024
+      map5_sabotage_mushroomB0007: 21300000
+      map5_sabotage_mushroomB0008: 21300014
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 825ac4e4914361a3d7ea08f1b54d9d4f, type: 3}
+  m_Name: _Cube_CritRole
+  m_EditorClassIdentifier:
+  StoreImageRef:
+    m_AssetGUID: 500e629819fef4772997d106331adfb4
+    m_SubObjectName: Cosmicube_CritRole
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  CosmicubePrefabRef:
+    m_AssetGUID: 00bc8a137c5b4874ea8642fff695ce95
+    m_SubObjectName:
+    m_SubObjectType:
+  podIconRef:
+    m_AssetGUID: 906aa898e62544921a0194dd598a4342
+    m_SubObjectName: Currency_CritRole
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  DateCreated: 8/13/2024
+  allUnlockables:
+  - {fileID: 11400000, guid: e690d08f818f04045add07ee17ded4ea, type: 2}
+  - {fileID: 11400000, guid: 031baaa9f0183824ebec446c2eb85469, type: 2}
+  - {fileID: 11400000, guid: 0bd9afdec7b6c7949b5a71f1d59368a3, type: 2}
+  - {fileID: 11400000, guid: 97226bcce788c4d43b298a7eb5f84c25, type: 2}
+  - {fileID: 11400000, guid: b65156c6b31533b48b4fae843de0b9dd, type: 2}
+  - {fileID: 11400000, guid: ebd5c8b922ffb4c4c86b29abd026b4c9, type: 2}
+  - {fileID: 11400000, guid: e79d10949d33980439da5ace53f0cc93, type: 2}
+  - {fileID: 11400000, guid: 20fb34f6a1dbe1049b8d4d7b4c0b3972, type: 2}
+  - {fileID: 11400000, guid: 2f57f4b70edaaf9418db07d63cc206df, type: 2}
+  - {fileID: 11400000, guid: be0dcff5f2c5029409bf361dd308237d, type: 2}
+  - {fileID: 11400000, guid: 79cc0a52c5511a544820a44ac10f0fff, type: 2}
+  - {fileID: 11400000, guid: 23dc3a078488d7849a23f7f1d9171537, type: 2}
+  - {fileID: 11400000, guid: 5ec9339633130e642a921460cfd57da4, type: 2}
+  - {fileID: 11400000, guid: a522e135e3e4a1640bb11921ed680c73, type: 2}
+  - {fileID: 11400000, guid: 312701db9a950c44b9e1e744e5b2e643, type: 2}
+  - {fileID: 11400000, guid: 919182123c2e06541b5ac6b3de1a2da9, type: 2}
+  - {fileID: 11400000, guid: f13b0c61bb128324aa42a1402e4da828, type: 2}
+  - {fileID: 11400000, guid: 7d63a94b834012140a814444304372ff, type: 2}
+  - {fileID: 11400000, guid: ce8317bbbd6b1d4439151d459fbdf3f3, type: 2}
+  - {fileID: 11400000, guid: c32cd82164501e3448b9602c2f3c1008, type: 2}
+  - {fileID: 11400000, guid: 35d797e4d67e6eb46b24ed066278e94a, type: 2}
+  - {fileID: 11400000, guid: ef76ca0cb498eaa47a938a6260ae984f, type: 2}
+  - {fileID: 11400000, guid: 5168388c84846254b895b21193582b75, type: 2}
+  - {fileID: 11400000, guid: d490938d4db14ba43bb88f173c0061de, type: 2}
+  - {fileID: 11400000, guid: 3bd1602dac9857441b12e0e9c1602b7c, type: 2}
+  - {fileID: 11400000, guid: 2eaa576702d816f418628e542449e2f3, type: 2}
+  - {fileID: 11400000, guid: 372fce6b0c5586341a1be8e9dc8a53b1, type: 2}
+  - {fileID: 11400000, guid: 3919ffd81b37e054a9dda71ee0fcce70, type: 2}
+  - {fileID: 11400000, guid: 8e0289a9758bd1f428ce5f0256bbaf66, type: 2}
+  starCost: 110
+  beanCost: 0
+  Order: 0
+  Free: 0
+  NotInStore: 0
+  XRange:
+    min: -0.25
+    max: 0.675
+  YRange:
+    min: -0.5
+    max: 0.8
+  podId: critrole
+  productId: cube_critrole
+  cosmicubeName: Gilmore's Curious
+  limitedTime:
+    timeStart:
+      limitedYear: 2024
+      limitedMonth: 8
+      limitedDay: 13
+      limitedHour: 7
+      limitedMinute: 0
+    timeEnd:
+      limitedYear: 2024
+      limitedMonth: 11
+      limitedDay: 12
+      limitedHour: 7
+      limitedMinute: 0
+  epicId:

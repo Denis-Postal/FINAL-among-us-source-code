@@ -1,0 +1,407 @@
+fileFormatVersion: 2
+guid: fdad7d3b5e675144e91f3548d99f03ab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: panel_security_camnotselect
+  - first:
+      213: 21300002
+    second: panel_security_arrow
+  - first:
+      213: 21300004
+    second: panel_security_sidescreens
+  - first:
+      213: 21300006
+    second: panel_security_mainwindow
+  - first:
+      213: 21300008
+    second: panel_security_camselected
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: panel_security_camnotselect
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 459
+        width: 13
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -6.5, y: -6.5}
+        - {x: -6.5, y: 6.5}
+        - {x: 6.5, y: 6.5}
+        - {x: 6.5, y: -6.5}
+      physicsShape:
+      - - {x: -6.5, y: 6.5}
+        - {x: -6.5, y: -6.5}
+        - {x: 5.5, y: -6.5}
+        - {x: 6.5, y: -5.5}
+        - {x: 6.5, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2179a9202d5142d69cb7bce36a779195
+      internalID: 21300000
+      vertices:
+      - {x: 13, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 13}
+      - {x: 13, y: 13}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_security_arrow
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 373
+        width: 66
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -33, y: -42.999996}
+        - {x: -33, y: 42.999996}
+        - {x: 33, y: 42.999996}
+        - {x: 33, y: -42.999996}
+      physicsShape:
+      - - {x: -4, y: 26}
+        - {x: -26, y: 3}
+        - {x: -26, y: -13}
+        - {x: 2, y: -24}
+        - {x: 17, y: -24}
+        - {x: 21, y: -22.999998}
+        - {x: 21, y: 22.999998}
+        - {x: 17, y: 26}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73b6f352b6e43b693565376f60ee04b
+      internalID: 21300002
+      vertices:
+      - {x: 66, y: 0.0000038146973}
+      - {x: 0, y: 0.0000038146973}
+      - {x: 0, y: 86}
+      - {x: 66, y: 86}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_security_sidescreens
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1
+        width: 309
+        height: 726.9239
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5007402}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 2.4999998, y: -362.46194}
+        - {x: 1.5, y: -363.46194}
+        - {x: -154.5, y: -363.46194}
+        - {x: -154.5, y: 363.53806}
+        - {x: -121.49999, y: 349.53806}
+        - {x: 5.5, y: 319.53802}
+        - {x: 73.49999, y: 306.53806}
+        - {x: 154.5, y: 286.53806}
+        - {x: 154.5, y: -187.46194}
+        - {x: 88.5, y: -265.46194}
+      physicsShape:
+      - - {x: 17.5, y: -342.4619}
+        - {x: 25.5, y: -333.46194}
+        - {x: 40.5, y: -317.4619}
+        - {x: 40.5, y: -316.4619}
+        - {x: 61.5, y: -294.46194}
+        - {x: 78.5, y: -275.46194}
+        - {x: 88.5, y: -264.46194}
+        - {x: 110.5, y: -238.46193}
+        - {x: 117.49999, y: -229.46194}
+        - {x: 129.5, y: -214.46193}
+        - {x: 137.5, y: -206.46194}
+        - {x: 153.5, y: -186.46194}
+        - {x: 154.5, y: -185.46194}
+        - {x: 154.5, y: 279.53806}
+        - {x: 150.5, y: 283.53806}
+        - {x: 140.5, y: 288.53806}
+        - {x: 118.49999, y: 294.53802}
+        - {x: 90.5, y: 301.53806}
+        - {x: 83.5, y: 303.53806}
+        - {x: 60.499996, y: 308.53806}
+        - {x: 29.499998, y: 314.53806}
+        - {x: 19.5, y: 316.53806}
+        - {x: 11.499999, y: 318.53802}
+        - {x: -13.499999, y: 323.53806}
+        - {x: -26.499998, y: 326.53806}
+        - {x: -58.499996, y: 333.53806}
+        - {x: -91.5, y: 341.53806}
+        - {x: -121.49999, y: 349.53806}
+        - {x: -133.49998, y: 352.53806}
+        - {x: -148.5, y: 356.53806}
+        - {x: -154.5, y: 356.53806}
+        - {x: -154.5, y: -363.46194}
+        - {x: 0.5, y: -363.46194}
+        - {x: 5.5, y: -358.46194}
+        - {x: 12.5, y: -349.46194}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d0f6820f88455581847b935130cf44
+      internalID: 21300004
+      vertices:
+      - {x: 33.000008, y: 712.4619}
+      - {x: 160, y: 682.4619}
+      - {x: 228, y: 669.4619}
+      - {x: 309, y: 649.4619}
+      - {x: 309, y: 175.46194}
+      - {x: 243, y: 97.461945}
+      - {x: 157, y: 0.46194458}
+      - {x: 156, y: -0.5380554}
+      - {x: 0, y: -0.5380554}
+      - {x: 0, y: 726.4619}
+      indices: 060000000700000008000000050000000600000008000000000000000500000008000000000000000400000005000000020000000300000004000000010000000200000004000000000000000100000004000000000000000800000009000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_security_mainwindow
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 266
+        width: 678
+        height: 462
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 339, y: -231}
+        - {x: -339, y: -231}
+        - {x: -339, y: 231}
+        - {x: 339, y: 231}
+      physicsShape:
+      - - {x: -339, y: 231}
+        - {x: -339, y: -231}
+        - {x: 339, y: -231}
+        - {x: 339, y: 231}
+      - - {x: -301, y: 197.99998}
+        - {x: 299, y: 197.99998}
+        - {x: 299, y: -19.999998}
+        - {x: 284, y: -24}
+        - {x: 285, y: -36}
+        - {x: 292.99997, y: -41}
+        - {x: 297, y: -41}
+        - {x: 299, y: -39}
+        - {x: 300, y: -123}
+        - {x: 299, y: -122}
+        - {x: 239.99998, y: -120.99999}
+        - {x: 237.99998, y: -105.99999}
+        - {x: 218, y: -110}
+        - {x: 218, y: -115}
+        - {x: 219, y: -122}
+        - {x: 136, y: -122}
+        - {x: 133, y: -125}
+        - {x: 133, y: -183}
+        - {x: 133.99998, y: -183.99998}
+        - {x: -301, y: -183}
+      - - {x: 271, y: -55}
+        - {x: 241.99998, y: -79}
+        - {x: 241.99998, y: -88}
+        - {x: 275, y: -104.99999}
+        - {x: 285, y: -104.99999}
+        - {x: 289, y: -102}
+        - {x: 289, y: -57}
+        - {x: 285, y: -55}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459c037557714eeb96d088fee2ec3ccb
+      internalID: 21300006
+      vertices:
+      - {x: 678, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 462}
+      - {x: 678, y: 462}
+      - {x: 38, y: 430}
+      - {x: 37, y: 429}
+      - {x: 37, y: 48}
+      - {x: 38, y: 47.000015}
+      - {x: 639, y: 47.000015}
+      - {x: 640, y: 48}
+      - {x: 640, y: 429}
+      - {x: 639, y: 430}
+      indices: 0800000000000000010000000600000007000000010000000600000001000000020000000500000006000000020000000400000005000000020000000b00000002000000030000000b00000004000000020000000a0000000b00000003000000090000000a00000003000000080000000100000007000000090000000300000000000000080000000900000000000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_security_camselected
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 373
+        width: 13
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -6.5, y: -6.5}
+        - {x: -6.5, y: 6.5}
+        - {x: 6.5, y: 6.5}
+        - {x: 6.5, y: -6.5}
+      physicsShape:
+      - - {x: -6.5, y: 6.5}
+        - {x: -6.5, y: -6.5}
+        - {x: 5.5, y: -6.5}
+        - {x: 6.5, y: -5.5}
+        - {x: 6.5, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e8bb7e43684952aaa2e71d89571c37
+      internalID: 21300008
+      vertices:
+      - {x: 13, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 13}
+      - {x: 13, y: 13}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      panel_security_arrow: 21300002
+      panel_security_camnotselect: 21300000
+      panel_security_camselected: 21300008
+      panel_security_mainwindow: 21300006
+      panel_security_sidescreens: 21300004
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

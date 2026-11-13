@@ -1,0 +1,17 @@
+using System;
+
+namespace Epic.OnlineServices.Auth
+{
+	public struct IOSCredentialsSystemAuthCredentialsOptions
+	{
+		public IntPtr PresentationContextProviding { get; set; }
+
+		public IOSCreateBackgroundSnapshotView CreateBackgroundSnapshotView { get; set; }
+
+		public IntPtr CreateBackgroundSnapshotViewContext { get; set; }
+
+		internal void Set(ref IOSCredentialsSystemAuthCredentialsOptionsInternal other)
+		{
+		}
+	}
+}

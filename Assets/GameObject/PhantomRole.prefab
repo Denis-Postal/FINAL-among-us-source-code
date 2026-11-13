@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1709254077376921
+GameObject:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Component:
+  - component: {fileID: 4730242686860875}
+  - component: {fileID: 114724804207875695}
+  m_Layer: 0
+  m_Name: PhantomRole
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4730242686860875
+Transform:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1709254077376921}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!114 &114724804207875695
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1709254077376921}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b6c74055610188797ab75cea7268e33, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  Role: 9
+  StringName: 1671
+  BlurbName: 1672
+  BlurbNameMed: 1673
+  BlurbNameLong: 1674
+  RoleIconSolid: {fileID: 21300020, guid: 72a0c86883211954fa3f4a8e09e67ecf, type: 3}
+  RoleIconWhite: {fileID: 21300010, guid: 72a0c86883211954fa3f4a8e09e67ecf, type: 3}
+  RoleIconColor: {fileID: 21300004, guid: 72a0c86883211954fa3f4a8e09e67ecf, type: 3}
+  RoleScreenshot: {fileID: 21300024, guid: 3513caaed9bdf9d418b6f5f5885ff109, type: 3}
+  NameColor: {r: 1, g: 0, b: 0, a: 1}
+  TasksCountTowardProgress: 0
+  CanUseKillButton: 1
+  CanBeKilled: 0
+  CanVent: 1
+  AffectedByLightAffectors: 0
+  MaxCount: 15
+  TeamType: 1
+  Ability: {fileID: 11400000, guid: 8495539144406cd408f47e378f3b2d95, type: 2}
+  SecondaryAbility: {fileID: 0}
+  DefaultGhostRole: 7
+  UseSound: {fileID: 8300000, guid: 8e54cc463bd7ece4cb498ae83a47c4e4, type: 3}
+  IntroSound: {fileID: 8300000, guid: 9d7f73b862644ca4d9ccd6c3a847b92f, type: 3}
+  AllGameSettings:
+  - {fileID: 11400000, guid: 5e8ff3cacc263884d969c5c927fc5ded, type: 2}
+  - {fileID: 11400000, guid: 23b11aef26656c042978c5142f273e90, type: 2}
+  CustomKillAnimations: []
+  appearSound: {fileID: 8300000, guid: 93de04bcfb5ed3c4084650843df03af9, type: 3}

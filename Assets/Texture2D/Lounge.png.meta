@@ -1,0 +1,725 @@
+fileFormatVersion: 2
+guid: 253911a7db25ba646bf6bef87465901c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: lounge_main
+  - first:
+      213: 21300002
+    second: taks_wiresLounge
+  - first:
+      213: 21300004
+    second: lounge_pooltable1
+  - first:
+      213: 21300006
+    second: task_toilet
+  - first:
+      213: 21300008
+    second: lounge_stool
+  - first:
+      213: 21300010
+    second: Lounge_stooltop
+  - first:
+      213: 21300012
+    second: lounge_pooltable2
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lounge_main
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 1670
+        height: 1074
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -605, y: 537}
+        - {x: -328, y: 537}
+        - {x: -224, y: 531}
+        - {x: -210.99998, y: 390}
+        - {x: -197.99998, y: 195}
+        - {x: 6, y: 195}
+        - {x: 8, y: 194}
+        - {x: 733.99994, y: 195}
+        - {x: 758, y: 102}
+        - {x: 758, y: -2}
+        - {x: 775, y: -66.99999}
+        - {x: 817.99994, y: -62}
+        - {x: 834.99994, y: -280}
+        - {x: 834.99994, y: -415}
+        - {x: 733.99994, y: -438}
+        - {x: 721, y: -537}
+        - {x: 504.99997, y: -537}
+        - {x: 488, y: -504}
+        - {x: 485.99997, y: -427}
+        - {x: 262, y: -425}
+        - {x: 69, y: -433}
+        - {x: -379, y: -463}
+        - {x: -625, y: -438}
+        - {x: -834.99994, y: -435}
+        - {x: -834.99994, y: -380}
+        - {x: -826.99994, y: -297}
+        - {x: -821, y: -34}
+        - {x: -797, y: 52.999996}
+        - {x: -795, y: 125}
+        - {x: -813, y: 180}
+        - {x: -780, y: 183}
+        - {x: -782, y: 358}
+        - {x: -805, y: 391}
+        - {x: -791.99994, y: 530}
+      physicsShape:
+      - - {x: 543, y: -537}
+        - {x: 543, y: -518}
+        - {x: 567, y: -537}
+        - {x: 574, y: -537}
+        - {x: 574, y: -518}
+        - {x: 598, y: -537}
+        - {x: 605, y: -537}
+        - {x: 605, y: -518}
+        - {x: 629, y: -537}
+        - {x: 635.99994, y: -537}
+        - {x: 635.99994, y: -518}
+        - {x: 660, y: -537}
+        - {x: 667, y: -537}
+        - {x: 667, y: -518}
+        - {x: 691, y: -537}
+        - {x: 698, y: -537}
+        - {x: 698, y: -518}
+        - {x: 720, y: -518}
+        - {x: 722, y: -516}
+        - {x: 723, y: -500}
+        - {x: 724, y: -471.99997}
+        - {x: 722, y: -440}
+        - {x: 724, y: -435}
+        - {x: 735, y: -433}
+        - {x: 733, y: -427}
+        - {x: 758.99994, y: -427}
+        - {x: 783, y: -419.99997}
+        - {x: 787.99994, y: -423.99997}
+        - {x: 794, y: -417.99997}
+        - {x: 830.99994, y: -404.99997}
+        - {x: 834.99994, y: -388}
+        - {x: 834.99994, y: -311}
+        - {x: 832, y: -269}
+        - {x: 830, y: -248}
+        - {x: 824, y: -190}
+        - {x: 817.99994, y: -151}
+        - {x: 817, y: -85}
+        - {x: 809.99994, y: -70}
+        - {x: 805, y: -66.99999}
+        - {x: 787.99994, y: -68}
+        - {x: 764.99994, y: -72.99999}
+        - {x: 762, y: -61}
+        - {x: 760.99994, y: -34}
+        - {x: 753, y: 14}
+        - {x: 756, y: 63}
+        - {x: 756, y: 97}
+        - {x: 753, y: 115}
+        - {x: 747, y: 133}
+        - {x: 737, y: 171.99998}
+        - {x: 733.99994, y: 186}
+        - {x: 730, y: 191}
+        - {x: 670, y: 192}
+        - {x: 95, y: 192}
+        - {x: 94, y: 193}
+        - {x: -205, y: 193}
+        - {x: -205, y: 210.99998}
+        - {x: -206, y: 238.99998}
+        - {x: -209.99998, y: 327}
+        - {x: -215.99998, y: 412}
+        - {x: -223, y: 481.99997}
+        - {x: -225, y: 516}
+        - {x: -229, y: 528}
+        - {x: -258, y: 532}
+        - {x: -298, y: 533}
+        - {x: -359, y: 537}
+        - {x: -560, y: 537}
+        - {x: -608, y: 535}
+        - {x: -703, y: 531}
+        - {x: -780, y: 528}
+        - {x: -787, y: 527}
+        - {x: -789.99994, y: 524}
+        - {x: -797, y: 404}
+        - {x: -803, y: 395.99997}
+        - {x: -801, y: 389}
+        - {x: -783.99994, y: 390}
+        - {x: -783.99994, y: 374}
+        - {x: -780, y: 353}
+        - {x: -778, y: 354}
+        - {x: -778, y: 177}
+        - {x: -805, y: 177}
+        - {x: -807, y: 175}
+        - {x: -808, y: 170.99998}
+        - {x: -795, y: 137}
+        - {x: -791, y: 128}
+        - {x: -794, y: 100}
+        - {x: -794, y: 77}
+        - {x: -796, y: 45}
+        - {x: -800, y: 33}
+        - {x: -812, y: -8}
+        - {x: -817.99994, y: -35}
+        - {x: -820, y: -58}
+        - {x: -820, y: -133.99998}
+        - {x: -821, y: -170.99998}
+        - {x: -821, y: -245}
+        - {x: -822.99994, y: -289}
+        - {x: -828, y: -358}
+        - {x: -834.99994, y: -387}
+        - {x: -834.99994, y: -423}
+        - {x: -828, y: -433}
+        - {x: -773, y: -433.99997}
+        - {x: -654, y: -433.99997}
+        - {x: -653, y: -435}
+        - {x: -592, y: -436}
+        - {x: -529, y: -442}
+        - {x: -498, y: -448}
+        - {x: -441, y: -454.99997}
+        - {x: -392.99997, y: -456.99997}
+        - {x: -325, y: -456.99997}
+        - {x: -291.99997, y: -454.99997}
+        - {x: -260, y: -452}
+        - {x: -203, y: -446.99997}
+        - {x: -145, y: -444}
+        - {x: -105.99999, y: -442}
+        - {x: -72.99999, y: -440}
+        - {x: 85.99999, y: -429.99997}
+        - {x: 162, y: -425.99997}
+        - {x: 191, y: -425}
+        - {x: 226, y: -423.99997}
+        - {x: 277, y: -423}
+        - {x: 278, y: -421.99997}
+        - {x: 412, y: -421.99997}
+        - {x: 413, y: -423}
+        - {x: 467.99997, y: -423.99997}
+        - {x: 494.99997, y: -425}
+        - {x: 506, y: -436}
+        - {x: 492, y: -436}
+        - {x: 490, y: -438}
+        - {x: 491, y: -441}
+        - {x: 506, y: -441}
+        - {x: 491, y: -466}
+        - {x: 489, y: -471.99997}
+        - {x: 492, y: -473}
+        - {x: 506, y: -473}
+        - {x: 491, y: -496.99997}
+        - {x: 489, y: -502.99997}
+        - {x: 492, y: -504}
+        - {x: 506, y: -504}
+        - {x: 506, y: -537}
+        - {x: 512, y: -537}
+        - {x: 522, y: -519}
+        - {x: 535, y: -520}
+        - {x: 537, y: -537}
+      - - {x: 513, y: -473.99997}
+        - {x: 520, y: -473.99997}
+        - {x: 520, y: -496.99997}
+        - {x: 513, y: -496.99997}
+      - - {x: -787, y: -441}
+        - {x: -832, y: -441}
+        - {x: -834, y: -442}
+        - {x: -834, y: -471.99997}
+        - {x: -833, y: -475.99997}
+        - {x: -787, y: -475.99997}
+        - {x: -785, y: -473}
+        - {x: -785, y: -442.99997}
+      - - {x: 513, y: -442}
+        - {x: 520, y: -442}
+        - {x: 520, y: -466}
+        - {x: 513, y: -466}
+      - - {x: 520, y: -435}
+        - {x: 513, y: -435}
+      - - {x: -834, y: 189}
+        - {x: -834.99994, y: 188}
+        - {x: -834.99994, y: -22}
+        - {x: -821, y: -22}
+        - {x: -818.99994, y: -19.999998}
+        - {x: -818.99994, y: 184.99998}
+        - {x: -822.99994, y: 189}
+      - - {x: -782, y: 234.99998}
+        - {x: -783, y: 239.99998}
+        - {x: -793, y: 248}
+        - {x: -816, y: 248}
+        - {x: -828, y: 246}
+        - {x: -834.99994, y: 236.99998}
+        - {x: -834.99994, y: 208.99998}
+        - {x: -833, y: 195.99998}
+        - {x: -817, y: 187}
+        - {x: -805.99994, y: 187}
+        - {x: -793, y: 193}
+        - {x: -785.99994, y: 200}
+        - {x: -787, y: 221}
+        - {x: -782, y: 227}
+      - - {x: 111, y: 226}
+        - {x: 113, y: 228}
+        - {x: 111, y: 225}
+        - {x: 107.99999, y: 206}
+        - {x: 117.99999, y: 196.99998}
+        - {x: 155, y: 195.99998}
+        - {x: 255, y: 195.99998}
+        - {x: 255, y: 305}
+        - {x: 251, y: 306}
+        - {x: 118.99999, y: 312}
+        - {x: 119.99999, y: 452}
+        - {x: 113, y: 456}
+        - {x: -195.99998, y: 456}
+        - {x: -196.99998, y: 452.99997}
+        - {x: -196.99998, y: 218}
+        - {x: -175, y: 195.99998}
+        - {x: 93, y: 195.99998}
+        - {x: 103, y: 208}
+        - {x: 107.99999, y: 214.99998}
+        - {x: 110, y: 220}
+      - - {x: -828, y: 290}
+        - {x: -834.99994, y: 287}
+        - {x: -834.99994, y: 248}
+        - {x: -787.99994, y: 248}
+        - {x: -783, y: 258}
+        - {x: -783, y: 279}
+        - {x: -789, y: 290}
+      - - {x: 181, y: 383}
+        - {x: 162, y: 391}
+        - {x: 178, y: 391}
+        - {x: 184.99998, y: 402.99997}
+        - {x: 182, y: 421}
+        - {x: 173, y: 423.99997}
+        - {x: 146.99998, y: 423.99997}
+        - {x: 137, y: 417}
+        - {x: 138, y: 394.99997}
+        - {x: 120.99999, y: 383}
+        - {x: 116, y: 376}
+        - {x: 116, y: 338}
+        - {x: 117.99999, y: 328}
+        - {x: 126, y: 318.99997}
+        - {x: 142, y: 310}
+        - {x: 163, y: 310}
+        - {x: 175, y: 316}
+        - {x: 188, y: 328}
+        - {x: 188, y: 378}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b4bdee6f2d442596dbc30d765e6f32
+      internalID: 21300000
+      vertices:
+      - {x: 611, y: 1068}
+      - {x: 624, y: 927}
+      - {x: 637, y: 732}
+      - {x: 841, y: 732}
+      - {x: 843, y: 731}
+      - {x: 1569, y: 732}
+      - {x: 1593, y: 639}
+      - {x: 1593, y: 535}
+      - {x: 1610, y: 470}
+      - {x: 1653, y: 475}
+      - {x: 1670, y: 257}
+      - {x: 1670, y: 122}
+      - {x: 1569, y: 99}
+      - {x: 1556, y: 0}
+      - {x: 1340, y: 0}
+      - {x: 1323, y: 33}
+      - {x: 1321, y: 110}
+      - {x: 1097, y: 112}
+      - {x: 904, y: 104}
+      - {x: 456, y: 74}
+      - {x: 210, y: 99}
+      - {x: 0.000061035156, y: 102}
+      - {x: 0.000061035156, y: 157}
+      - {x: 8.000061, y: 240}
+      - {x: 14, y: 503}
+      - {x: 38, y: 590}
+      - {x: 40, y: 662}
+      - {x: 22, y: 717}
+      - {x: 55, y: 720}
+      - {x: 53, y: 895}
+      - {x: 30, y: 928}
+      - {x: 43.00006, y: 1067}
+      - {x: 230, y: 1074}
+      - {x: 507, y: 1074}
+      indices: 0100000020000000210000001e000000200000001d0000001e0000001f000000200000001c0000001d000000200000001a0000001b0000001c000000200000000100000002000000190000001a0000001c00000002000000190000001c0000001800000019000000020000001400000017000000180000001600000014000000150000001600000017000000140000001800000013000000140000000c0000000e0000000f0000000c0000000d0000000e0000000c0000000f000000100000000a0000000b0000000c0000000a0000000c00000010000000080000000a0000001000000007000000080000001000000011000000040000000700000008000000090000000a00000004000000110000001200000007000000100000001100000004000000060000000700000004000000050000000600000002000000040000001200000002000000030000000400000002000000120000001300000018000000020000001300000020000000020000001c000000000000000100000021000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taks_wiresLounge
+      rect:
+        serializedVersion: 2
+        x: 4.0761204
+        y: 64.07612
+        width: 49.847755
+        height: 35.847755
+      alignment: 9
+      pivot: {x: 0.51003057, y: 0.48605224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -25.999996, y: -18.999996}
+        - {x: -25.999996, y: 18.000004}
+        - {x: 26.000004, y: 18.000004}
+        - {x: 26.000004, y: -18.999996}
+      physicsShape:
+      - - {x: -18.999996, y: 17.000004}
+        - {x: -21.999996, y: 16.000004}
+        - {x: -24.999994, y: 13.000003}
+        - {x: -24.999994, y: -16.999996}
+        - {x: -17.999996, y: -17.999996}
+        - {x: 24.000004, y: -17.999996}
+        - {x: 24.000004, y: 17.000004}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c58e0607e3f4483993268354edb33ce
+      internalID: 21300002
+      vertices:
+      - {x: 50.42388, y: -0.5761223}
+      - {x: -1.5761204, y: -0.5761223}
+      - {x: -1.5761204, y: 36.423878}
+      - {x: 50.42388, y: 36.423878}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lounge_pooltable1
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 739
+        width: 150
+        height: 254
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -75, y: -127}
+        - {x: -75, y: 127}
+        - {x: 75, y: 127}
+        - {x: 75, y: -127}
+      physicsShape:
+      - - {x: -75, y: 127}
+        - {x: -75, y: -117.99999}
+        - {x: -68, y: -127}
+        - {x: 64, y: -127}
+        - {x: 75, y: -126}
+        - {x: 75, y: 127}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6acd50e77bd04d62bc632dc4d4954b03
+      internalID: 21300004
+      vertices:
+      - {x: 150, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 254}
+      - {x: 150, y: 254}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: task_toilet
+      rect:
+        serializedVersion: 2
+        x: 953.0761
+        y: 849.0429
+        width: 73.85703
+        height: 115.94418
+      alignment: 9
+      pivot: {x: 0.5067072, y: 0.50418305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -38.004627, y: 7.985}
+        - {x: -14.004627, y: 60.984997}
+        - {x: 31.995373, y: 59.984997}
+        - {x: 38.995373, y: -16.015}
+        - {x: 35.995373, y: -59.014996}
+        - {x: -36.004623, y: -60.014996}
+        - {x: -38.004627, y: -28.015}
+      physicsShape:
+      - - {x: 32.995373, y: 11.985}
+        - {x: 28.995373, y: 15.985001}
+        - {x: 25.995373, y: 23.985}
+        - {x: 33.99537, y: 39.985}
+        - {x: 29.99537, y: 53.984997}
+        - {x: 20.995373, y: 56.985}
+        - {x: -5.004627, y: 56.985}
+        - {x: -17.004627, y: 50.985}
+        - {x: -15.004627, y: 27.985}
+        - {x: -8.004627, y: 18.985}
+        - {x: -31.004627, y: 15.985001}
+        - {x: -36.004623, y: 10.985001}
+        - {x: -36.004623, y: -39.015}
+        - {x: -26.004625, y: -49.014996}
+        - {x: -15.004627, y: -57.015}
+        - {x: 8.995373, y: -57.015}
+        - {x: 24.99537, y: -53.014996}
+        - {x: 35.995373, y: -37.015}
+        - {x: 35.995373, y: -3.0149994}
+        - {x: 33.99537, y: 8.985001}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e535d45a244692a9bc37bd1c0a2eac
+      internalID: 21300006
+      vertices:
+      - {x: 68.42851, y: 117.47209}
+      - {x: 75.42851, y: 41.47209}
+      - {x: 72.42851, y: -1.5279045}
+      - {x: 0.4285202, y: -2.5279045}
+      - {x: -1.5714836, y: 29.472092}
+      - {x: -1.5714836, y: 65.47209}
+      - {x: 22.428516, y: 118.47209}
+      indices: 010000000500000006000000010000000200000004000000020000000300000004000000010000000400000005000000000000000100000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lounge_stool
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 730
+        width: 48
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -24, y: 23.5}
+        - {x: -19, y: 28.5}
+        - {x: 24, y: 28.5}
+        - {x: 24, y: -28.5}
+        - {x: -24, y: -28.5}
+      physicsShape:
+      - - {x: 24, y: 21.499998}
+        - {x: 19, y: 28.5}
+        - {x: -14.999999, y: 28.5}
+        - {x: -24, y: 21.499998}
+        - {x: -24, y: -10.5}
+        - {x: -22.999998, y: -21.499998}
+        - {x: -22, y: -26.499998}
+        - {x: -14, y: -28.5}
+        - {x: 9.999999, y: -28.5}
+        - {x: 21, y: -20.5}
+        - {x: 22.999998, y: -13.499999}
+        - {x: 24, y: -3.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5734b05413a545ce914a6184e6717404
+      internalID: 21300008
+      vertices:
+      - {x: 48, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 52}
+      - {x: 5, y: 57}
+      - {x: 48, y: 57}
+      indices: 020000000300000004000000000000000200000004000000000000000100000002000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lounge_stooltop
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 791
+        width: 48
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -24, y: -7}
+        - {x: -24, y: 19}
+        - {x: 24, y: 19}
+        - {x: 24, y: -19}
+        - {x: -22.999998, y: -19}
+      physicsShape:
+      - - {x: -18, y: 19}
+        - {x: -24, y: 14}
+        - {x: -24, y: -19}
+        - {x: 22, y: -19}
+        - {x: 24, y: -9.999999}
+        - {x: 24, y: 14}
+        - {x: 16, y: 19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90220071ba5c462590689b22f0da6b60
+      internalID: 21300010
+      vertices:
+      - {x: 48, y: 0}
+      - {x: 1.0000019, y: 0}
+      - {x: 0, y: 12}
+      - {x: 0, y: 38}
+      - {x: 48, y: 38}
+      indices: 020000000300000004000000000000000200000004000000000000000100000002000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lounge_pooltable2
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 739
+        width: 150
+        height: 254
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -75, y: -127}
+        - {x: -75, y: 127}
+        - {x: 75, y: 127}
+        - {x: 75, y: -127}
+      physicsShape:
+      - - {x: -75, y: 127}
+        - {x: -75, y: -117.99999}
+        - {x: -68, y: -127}
+        - {x: 64, y: -127}
+        - {x: 75, y: -126}
+        - {x: 75, y: 127}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fb28d5eff2479fb7648d0aa65f1fd6
+      internalID: 21300012
+      vertices:
+      - {x: 150, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 254}
+      - {x: 150, y: 254}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Lounge_stooltop: 21300010
+      lounge_main: 21300000
+      lounge_pooltable1: 21300004
+      lounge_pooltable2: 21300012
+      lounge_stool: 21300008
+      taks_wiresLounge: 21300002
+      task_toilet: 21300006
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

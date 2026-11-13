@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2efda0ea3e7a348e06d332b81853bee7, type: 3}
+  m_Name: RacingSuitSkeldskinView
+  m_EditorClassIdentifier:
+  IdleFrame: {fileID: 21300502, guid: 9806cb1b781e2a740b105bed7a2a5334, type: 3}
+  EjectFrame: {fileID: 21300012, guid: 9806cb1b781e2a740b105bed7a2a5334, type: 3}
+  RelatedHat: {fileID: 0}
+  RelatedVisor: {fileID: 0}
+  MatchPlayerColor: 0
+  IdleAnim: {fileID: 7400000, guid: 35025751ff2d51846bfca7e00607aad3, type: 2}
+  IdleLeftAnim: {fileID: 7400000, guid: e20dd6b55f8006749ba3259b5327d83b, type: 2}
+  RunAnim: {fileID: 7400000, guid: c0094a8832aef264f89aa1eb05f9b532, type: 2}
+  RunLeftAnim: {fileID: 7400000, guid: bb2763bd16060ae4789948ea8473f1c7, type: 2}
+  EnterVentAnim: {fileID: 7400000, guid: 064be2d8c1cb2764f9df9a3def0e72e1, type: 2}
+  ExitVentAnim: {fileID: 7400000, guid: d33ae1570540b504eac6997a14ec4bb2, type: 2}
+  EnterLeftVentAnim: {fileID: 7400000, guid: 661455508f5b92544b0a5554f35b1ebf, type: 2}
+  ExitLeftVentAnim: {fileID: 7400000, guid: fedadb7941659a541bba3e9f3ef41fe7, type: 2}
+  ClimbAnim: {fileID: 7400000, guid: 1ac565dac7346774f977a90cc6960dd6, type: 2}
+  ClimbDownAnim: {fileID: 7400000, guid: e8a1b9359a38fd743ab843a95c7b0e8a, type: 2}
+  SpawnAnim: {fileID: 7400000, guid: e200fa7bf3715914f8e0685a6a6d8c19, type: 2}
+  SpawnLeftAnim: {fileID: 7400000, guid: 3b5acf0b2accd87498aa64d314c8770a, type: 2}
+  KillTongueImpostor: {fileID: 7400000, guid: 74e029c794cb78840b0f0a4a78748ae8, type: 2}
+  KillTongueVictim: {fileID: 7400000, guid: 847b6dc4edd19c74dac321ec449cf5b0, type: 2}
+  KillShootImpostor: {fileID: 7400000, guid: 010d355aa80c3264d96f587008e747b7, type: 2}
+  KillShootVictim: {fileID: 7400000, guid: 1499fe6324e772f4c9a1c4606904123c, type: 2}
+  KillNeckImpostor: {fileID: 7400000, guid: d89321b853baa4948a6e1dfed08c552b, type: 2}
+  KillNeckVictim: {fileID: 7400000, guid: 5bf80992028d2454bb1a926eabd70804, type: 2}
+  KillStabImpostor: {fileID: 7400000, guid: 1a15cb501a15ea6409025fa9e65bf5ce, type: 2}
+  KillStabVictim: {fileID: 7400000, guid: a4e669601ad5e584881412253a614ff4, type: 2}
+  KillRHMVictim: {fileID: 7400000, guid: 72c9a7fa95c259f4b81ffd22fc97c454, type: 2}
+  CustomKillAnimID: 0
+  VisorID_KillAnim:
+  HatID_KillAnim:

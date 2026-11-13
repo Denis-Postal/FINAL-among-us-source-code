@@ -1,0 +1,1009 @@
+fileFormatVersion: 2
+guid: 1ccde2bf607073246a5ce34f5763d347
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: panel_boarding_Face0007
+  - first:
+      213: 21300002
+    second: Panel_boardingpassgreen
+  - first:
+      213: 21300004
+    second: panel_boardingpicwindow
+  - first:
+      213: 21300006
+    second: Panel_boardingpassscan
+  - first:
+      213: 21300008
+    second: panel_boarding_Face0001
+  - first:
+      213: 21300010
+    second: panel_boardingpicBG
+  - first:
+      213: 21300012
+    second: panel_boarding_Face0004
+  - first:
+      213: 21300014
+    second: panel_boardingFront
+  - first:
+      213: 21300016
+    second: Panel_boardingpassprogress
+  - first:
+      213: 21300018
+    second: Panel_boardingpull
+  - first:
+      213: 21300020
+    second: panel_boarding_Face0003
+  - first:
+      213: 21300022
+    second: panel_boarding_Face0002
+  - first:
+      213: 21300024
+    second: panel_boardingBack
+  - first:
+      213: 21300026
+    second: panel_boarding_Face0005
+  - first:
+      213: 21300028
+    second: panel_boardingFlip
+  - first:
+      213: 21300030
+    second: panel_boarding_Face0006
+  - first:
+      213: 21300032
+    second: panel_boarding_Face0008
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: panel_boarding_Face0007
+      rect:
+        serializedVersion: 2
+        x: 825.0564
+        y: 691.0761
+        width: 172.88391
+        height: 145.84775
+      alignment: 9
+      pivot: {x: 0.5086859, y: 0.5445671}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -86.49835, y: 52.000015}
+        - {x: -51.49835, y: 73.000015}
+        - {x: -1.498352, y: 72.000015}
+        - {x: 89.50165, y: 32.000015}
+        - {x: 79.50165, y: -47.999985}
+        - {x: 55.501644, y: -71.999985}
+        - {x: -86.49835, y: -73.999985}
+      physicsShape:
+      - - {x: 78.50165, y: -12.999985}
+        - {x: 85.50165, y: 8.000015}
+        - {x: 85.50165, y: 30.000015}
+        - {x: 80.50165, y: 36.000015}
+        - {x: 61.501644, y: 32.000015}
+        - {x: 40.501648, y: 10.000015}
+        - {x: 37.501648, y: 19.000015}
+        - {x: 35.501648, y: 40.00001}
+        - {x: 29.501648, y: 57.000015}
+        - {x: 4.501648, y: 72.000015}
+        - {x: -6.498352, y: 73.000015}
+        - {x: -48.498352, y: 73.000015}
+        - {x: -68.49835, y: 63.000015}
+        - {x: -79.49835, y: 50.000015}
+        - {x: -86.49835, y: 30.000015}
+        - {x: -86.49835, y: -65.999985}
+        - {x: -81.49835, y: -71.999985}
+        - {x: -58.49835, y: -72.99998}
+        - {x: 49.501648, y: -72.99998}
+        - {x: 52.501648, y: -71.999985}
+        - {x: 74.50164, y: -54.999985}
+        - {x: 83.50165, y: -37.999985}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e9daa2a4cc49129367c8877a3f2aa5
+      internalID: 21300000
+      vertices:
+      - {x: 83.441956, y: 138.42387}
+      - {x: 174.44196, y: 98.423874}
+      - {x: 164.44196, y: 18.423874}
+      - {x: 140.44196, y: -5.576126}
+      - {x: -1.5580444, y: -7.576126}
+      - {x: -1.5580444, y: 118.423874}
+      - {x: 33.44196, y: 139.42387}
+      indices: 000000000500000006000000000000000300000004000000000000000100000002000000000000000200000003000000000000000400000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panel_boardingpassgreen
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 839
+        width: 494
+        height: 524
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -247, y: -262}
+        - {x: -247, y: 262}
+        - {x: 247, y: 262}
+        - {x: 247, y: -262}
+      physicsShape:
+      - - {x: -247, y: 262}
+        - {x: -247, y: -262}
+        - {x: 247, y: -262}
+        - {x: 247, y: 262}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a3ea29e99c4ee9b8856b6f1a385eb9
+      internalID: 21300002
+      vertices:
+      - {x: 494, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 524}
+      - {x: 494, y: 524}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_boardingpicwindow
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 146
+        width: 180
+        height: 165
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 90, y: -82.5}
+        - {x: -90, y: -82.5}
+        - {x: -90, y: 82.5}
+        - {x: 90, y: 82.5}
+      physicsShape:
+      - - {x: -89, y: 82.5}
+        - {x: -90, y: 81.5}
+        - {x: -90, y: -82.5}
+        - {x: 90, y: -82.5}
+        - {x: 90, y: 82.5}
+      - - {x: -72.99999, y: 64.5}
+        - {x: 71, y: 64.5}
+        - {x: 71, y: -65.5}
+        - {x: -72.99999, y: -65.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8caed961e09f458b9b43d406e27d731d
+      internalID: 21300004
+      vertices:
+      - {x: 180, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 165}
+      - {x: 180, y: 165}
+      - {x: 16, y: 146}
+      - {x: 18, y: 16}
+      - {x: 163, y: 18}
+      - {x: 161, y: 148}
+      indices: 050000000000000001000000040000000500000001000000040000000100000002000000070000000200000003000000070000000400000002000000060000000700000003000000000000000500000006000000030000000000000006000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panel_boardingpassscan
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 313
+        width: 494
+        height: 524
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -247, y: -262}
+        - {x: -247, y: 262}
+        - {x: 247, y: 262}
+        - {x: 247, y: -262}
+      physicsShape:
+      - - {x: -247, y: 262}
+        - {x: -247, y: -262}
+        - {x: 247, y: -262}
+        - {x: 247, y: 262}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a516277cabd46d39f0001cee1e56dcf
+      internalID: 21300006
+      vertices:
+      - {x: 494, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 524}
+      - {x: 494, y: 524}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_boarding_Face0001
+      rect:
+        serializedVersion: 2
+        x: 826.0761
+        y: 545.0761
+        width: 170.91096
+        height: 136.84775
+      alignment: 9
+      pivot: {x: 0.5202937, y: 0.58038145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 54.468407, y: 46.500015}
+        - {x: 88.46841, y: -68.499985}
+        - {x: -86.531586, y: -68.499985}
+        - {x: -67.531586, y: 17.500015}
+        - {x: -43.531593, y: 51.500015}
+        - {x: 0.46840668, y: 74.500015}
+      physicsShape:
+      - - {x: 68.468414, y: -8.499977}
+        - {x: 61.468414, y: 20.500023}
+        - {x: 59.468414, y: 32.500023}
+        - {x: 46.46841, y: 49.500023}
+        - {x: 23.468412, y: 62.500023}
+        - {x: 12.468414, y: 68.50002}
+        - {x: -5.5315857, y: 68.50002}
+        - {x: -11.531585, y: 67.50002}
+        - {x: -41.531586, y: 48.500023}
+        - {x: -49.53158, y: 41.500023}
+        - {x: -58.531586, y: 21.500023}
+        - {x: -65.531586, y: 0.5000229}
+        - {x: -74.531586, y: -21.499977}
+        - {x: -83.531586, y: -51.499977}
+        - {x: -84.531586, y: -61.499977}
+        - {x: -84.531586, y: -66.49998}
+        - {x: -82.53158, y: -67.49998}
+        - {x: 82.468414, y: -67.49998}
+        - {x: 84.468414, y: -66.49998}
+        - {x: 84.468414, y: -61.499977}
+        - {x: 80.468414, y: -40.499977}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96616de42f84ca5af2f326bfbde0eae
+      internalID: 21300008
+      vertices:
+      - {x: 136.45547, y: 103.92387}
+      - {x: 170.45547, y: -11.076134}
+      - {x: -4.5445175, y: -11.076134}
+      - {x: 14.4554825, y: 74.92387}
+      - {x: 38.455475, y: 108.92387}
+      - {x: 82.455475, y: 131.92386}
+      indices: 030000000000000001000000030000000400000000000000010000000200000003000000000000000400000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_boardingpicBG
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 252
+        width: 156
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -78, y: -69.5}
+        - {x: -78, y: 69.5}
+        - {x: 78, y: 69.5}
+        - {x: 78, y: -69.5}
+      physicsShape:
+      - - {x: -78, y: 69.5}
+        - {x: -78, y: -69.5}
+        - {x: 78, y: -69.5}
+        - {x: 78, y: 69.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4ae6a7529940f38d0cb845bbfaa59d
+      internalID: 21300010
+      vertices:
+      - {x: 156, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 139}
+      - {x: 156, y: 139}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_boarding_Face0004
+      rect:
+        serializedVersion: 2
+        x: 269.0761
+        y: 21
+        width: 121.84776
+        height: 116.92388
+      alignment: 9
+      pivot: {x: 0.50000006, y: 0.6884821}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 57.000008, y: 17.53806}
+        - {x: 63.000008, y: -58.46194}
+        - {x: -60.999992, y: -58.46194}
+        - {x: -58.99999, y: 23.53806}
+        - {x: -19.99999, y: 64.538055}
+        - {x: 34.000008, y: 53.53806}
+      physicsShape:
+      - - {x: 53.000004, y: 19.53806}
+        - {x: 45.000008, y: 36.53806}
+        - {x: 29.000008, y: 51.538055}
+        - {x: 14.000008, y: 57.53806}
+        - {x: -15.999992, y: 57.53806}
+        - {x: -37.999992, y: 50.53806}
+        - {x: -58.99999, y: 12.538059}
+        - {x: -59.99999, y: -18.46194}
+        - {x: -59.99999, y: -57.461933}
+        - {x: -57.999992, y: -58.46194}
+        - {x: 59.000004, y: -58.46194}
+        - {x: 61.000008, y: -57.461933}
+        - {x: 61.000008, y: -35.46194}
+        - {x: 59.000004, y: -0.46194077}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96933affc0c04eaf9c49697725226e76
+      internalID: 21300012
+      vertices:
+      - {x: 94.92388, y: 89.961945}
+      - {x: 117.92388, y: 53.96194}
+      - {x: 123.92388, y: -22.03806}
+      - {x: -0.07611847, y: -22.03806}
+      - {x: 1.9238853, y: 59.96194}
+      - {x: 40.92388, y: 100.961945}
+      indices: 030000000100000002000000030000000400000001000000000000000100000004000000000000000400000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_boardingFront
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1
+        width: 326
+        height: 417
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -163, y: 204.49998}
+        - {x: -161, y: 208.5}
+        - {x: 163, y: 208.5}
+        - {x: 163, y: -208.5}
+        - {x: -163, y: -208.5}
+      physicsShape:
+      - - {x: -163, y: 208.5}
+        - {x: -163, y: -208.5}
+        - {x: 161, y: -208.5}
+        - {x: 163, y: -206.5}
+        - {x: 163, y: 208.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ef8181a4874547b7ffe1b7bc8999cd
+      internalID: 21300014
+      vertices:
+      - {x: 326, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 413}
+      - {x: 2, y: 417}
+      - {x: 326, y: 417}
+      indices: 020000000300000004000000000000000200000004000000000000000100000002000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panel_boardingpassprogress
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 839
+        width: 494
+        height: 524
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -247, y: -262}
+        - {x: -247, y: 262}
+        - {x: 247, y: 262}
+        - {x: 247, y: -262}
+      physicsShape:
+      - - {x: -247, y: 262}
+        - {x: -247, y: -262}
+        - {x: 247, y: -262}
+        - {x: 247, y: 262}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4bab984f2f4ec0adb9892096efbe07
+      internalID: 21300016
+      vertices:
+      - {x: 494, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 524}
+      - {x: 494, y: 524}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panel_boardingpull
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 82
+        width: 85
+        height: 125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -28.5, y: -61.5}
+        - {x: -31.5, y: -62.5}
+        - {x: -42.5, y: -62.5}
+        - {x: -42.5, y: 62.5}
+        - {x: -31.5, y: 62.5}
+        - {x: -20.5, y: 58.499996}
+        - {x: 42.5, y: 14.5}
+        - {x: 42.5, y: -14.5}
+      physicsShape:
+      - - {x: 42.5, y: -9.5}
+        - {x: 42.5, y: 11.499999}
+        - {x: 36.499996, y: 17.5}
+        - {x: 20.5, y: 29.499998}
+        - {x: -3.5, y: 45.5}
+        - {x: -20.5, y: 57.5}
+        - {x: -31.5, y: 62.5}
+        - {x: -40.5, y: 62.5}
+        - {x: -42.5, y: 60.499996}
+        - {x: -42.5, y: -61.5}
+        - {x: -41.5, y: -62.5}
+        - {x: -31.5, y: -62.5}
+        - {x: -24.499998, y: -58.499996}
+        - {x: -7.4999995, y: -46.5}
+        - {x: 39.5, y: -13.499999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2261ba138b434cb26ac1ca1898fe68
+      internalID: 21300018
+      vertices:
+      - {x: 22, y: 121}
+      - {x: 85, y: 77}
+      - {x: 85, y: 48}
+      - {x: 14, y: 1}
+      - {x: 11, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 125}
+      - {x: 11, y: 125}
+      indices: 050000000000000003000000030000000400000005000000050000000600000000000000000000000200000003000000000000000100000002000000000000000600000007000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_boarding_Face0003
+      rect:
+        serializedVersion: 2
+        x: 830.0761
+        y: 1.0761205
+        width: 145.89713
+        height: 108.84776
+      alignment: 9
+      pivot: {x: 0.45185187, y: 0.73886573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -58.024673, y: 41.5}
+        - {x: 23.975327, y: 59.499996}
+        - {x: 69.97533, y: -6.5}
+        - {x: 75.97533, y: -53.499992}
+        - {x: -71.02467, y: -54.5}
+        - {x: -78.02467, y: 19.5}
+      physicsShape:
+      - - {x: 71.97533, y: -11.5}
+        - {x: 61.975327, y: 5.5}
+        - {x: 42.975327, y: 12.500001}
+        - {x: 36.975327, y: 38.5}
+        - {x: 29.975327, y: 53.5}
+        - {x: -5.0246735, y: 53.5}
+        - {x: -8.024673, y: 50.5}
+        - {x: -19.024673, y: 34.5}
+        - {x: -32.024673, y: 43.5}
+        - {x: -50.02467, y: 42.5}
+        - {x: -58.024673, y: 40.5}
+        - {x: -69.02467, y: 27.5}
+        - {x: -72.02467, y: 7.5}
+        - {x: -72.02467, y: -51.5}
+        - {x: -68.02467, y: -53.499992}
+        - {x: 67.97533, y: -53.499992}
+        - {x: 71.97533, y: -49.5}
+        - {x: 72.97532, y: -47.499992}
+        - {x: 72.97532, y: -24.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93597b878ce34fc8b2fa2dfd57cc2c61
+      internalID: 21300020
+      vertices:
+      - {x: 149.94856, y: 21.923882}
+      - {x: 155.94856, y: -25.07611}
+      - {x: 8.948563, y: -26.076118}
+      - {x: 1.9485626, y: 47.92388}
+      - {x: 21.948563, y: 69.92388}
+      - {x: 103.94856, y: 87.923874}
+      indices: 000000000400000005000000020000000300000004000000000000000100000002000000000000000200000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_boarding_Face0002
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 117.07612
+        width: 141.92387
+        height: 132.92387
+      alignment: 9
+      pivot: {x: 0.60595864, y: 0.59751403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -70.96193, y: -65.538055}
+        - {x: -70.96193, y: 66.461945}
+        - {x: 18.038063, y: 66.461945}
+        - {x: 50.038063, y: 47.461945}
+        - {x: 79.03806, y: -11.5380535}
+        - {x: 37.038063, y: -66.53805}
+      physicsShape:
+      - - {x: 70.03806, y: 0.46194458}
+        - {x: 69.038055, y: 8.461945}
+        - {x: 48.038063, y: 43.461945}
+        - {x: 26.038063, y: 63.461945}
+        - {x: 17.038063, y: 66.461945}
+        - {x: 1.038063, y: 66.461945}
+        - {x: -17.961937, y: 63.461945}
+        - {x: -40.961937, y: 62.46194}
+        - {x: -51.96193, y: 66.461945}
+        - {x: -68.96194, y: 66.461945}
+        - {x: -70.96193, y: 63.461945}
+        - {x: -70.96193, y: -63.538055}
+        - {x: -68.96194, y: -65.538055}
+        - {x: 36.038063, y: -65.538055}
+        - {x: 39.038063, y: -63.538055}
+        - {x: 65.03806, y: -30.538055}
+        - {x: 70.03806, y: -19.538055}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3721ee5941b640c7b9b5e579b02d875c
+      internalID: 21300022
+      vertices:
+      - {x: 105.96194, y: 100.96194}
+      - {x: 134.96194, y: 41.961937}
+      - {x: 92.96194, y: -13.038055}
+      - {x: -15.038055, y: -12.038063}
+      - {x: -15.038055, y: 119.96193}
+      - {x: 73.96194, y: 119.96193}
+      indices: 030000000400000005000000020000000300000005000000000000000100000002000000000000000200000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_boardingBack
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 420
+        width: 326
+        height: 417
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -163, y: -208.5}
+        - {x: -163, y: 208.5}
+        - {x: 163, y: 208.5}
+        - {x: 163, y: -208.5}
+      physicsShape:
+      - - {x: -163, y: 208.5}
+        - {x: -163, y: -208.5}
+        - {x: 163, y: -208.5}
+        - {x: 163, y: 208.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4defb1aa8f4f73b3281e45568386a9
+      internalID: 21300024
+      vertices:
+      - {x: 326, y: 0}
+      - {x: 0, y: 0}
+      - {x: 0, y: 417}
+      - {x: 326, y: 417}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_boarding_Face0005
+      rect:
+        serializedVersion: 2
+        x: 12.026751
+        y: 11
+        width: 101.936966
+        height: 28.92388
+      alignment: 9
+      pivot: {x: 0.4902368, y: 2.6102998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -61.99523, y: -14.461941}
+        - {x: -34.99523, y: 12.538059}
+        - {x: 17.004768, y: 18.53806}
+        - {x: 60.00477, y: -14.461941}
+      physicsShape:
+      - - {x: 28.004768, y: 14.538059}
+        - {x: -28.995232, y: 14.538059}
+        - {x: -50.99523, y: 8.538063}
+        - {x: -50.99523, y: -14.461941}
+        - {x: 50.00477, y: -14.461941}
+        - {x: 50.00477, y: -10.461941}
+        - {x: 40.00477, y: -0.46194077}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1f9c58f4da4450972ac6c1bb964ca4
+      internalID: 21300026
+      vertices:
+      - {x: 111.96848, y: -61.03806}
+      - {x: -10.031517, y: -61.03806}
+      - {x: 16.968483, y: -34.03806}
+      - {x: 68.96848, y: -28.03806}
+      indices: 010000000200000003000000000000000100000003000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_boardingFlip
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 209
+        width: 294
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -9.999999, y: 51}
+        - {x: 76, y: 51}
+        - {x: 146.99998, y: 26}
+        - {x: 146.99998, y: -8}
+        - {x: 57, y: 7}
+        - {x: -29.999998, y: -4.9999995}
+        - {x: -64, y: -39}
+        - {x: -125, y: -51}
+        - {x: -146.99998, y: -51}
+        - {x: -146.99998, y: 7}
+        - {x: -132, y: 38}
+      physicsShape:
+      - - {x: -61, y: -36}
+        - {x: -58, y: -32}
+        - {x: -57, y: -16}
+        - {x: -56, y: -9.999999}
+        - {x: -48.999996, y: -8}
+        - {x: -7, y: 3}
+        - {x: 19.999998, y: 7}
+        - {x: 21, y: 8}
+        - {x: 64, y: 8}
+        - {x: 65, y: 7}
+        - {x: 136, y: -4.9999995}
+        - {x: 146.99998, y: -7}
+        - {x: 146.99998, y: 4.9999995}
+        - {x: 133.99998, y: 22.999998}
+        - {x: 126, y: 31}
+        - {x: 89, y: 45.999996}
+        - {x: 69, y: 51}
+        - {x: -12, y: 51}
+        - {x: -19.999998, y: 50}
+        - {x: -39, y: 47}
+        - {x: -48.999996, y: 45.999996}
+        - {x: -74, y: 38}
+        - {x: -98.99999, y: 28}
+        - {x: -109, y: 22.999998}
+        - {x: -114, y: 29}
+        - {x: -124, y: 36}
+        - {x: -130, y: 36}
+        - {x: -138, y: 26}
+        - {x: -144, y: 8}
+        - {x: -146.99998, y: -7}
+        - {x: -146.99998, y: -45.999996}
+        - {x: -145.99998, y: -51}
+        - {x: -122, y: -51}
+        - {x: -104.99999, y: -48}
+        - {x: -89, y: -42.999996}
+        - {x: -71, y: -39.999996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37477c65eebf4449949b19b98f54acec
+      internalID: 21300028
+      vertices:
+      - {x: 294, y: 77}
+      - {x: 294, y: 43}
+      - {x: 204, y: 58}
+      - {x: 117, y: 46}
+      - {x: 83, y: 12}
+      - {x: 22, y: 0}
+      - {x: 0.000015258789, y: 0}
+      - {x: 0.000015258789, y: 58}
+      - {x: 15, y: 89}
+      - {x: 137, y: 102}
+      - {x: 223, y: 102}
+      indices: 02000000090000000a00000007000000040000000500000007000000050000000600000007000000080000000400000008000000030000000400000008000000090000000300000002000000030000000900000000000000010000000200000000000000020000000a000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_boarding_Face0006
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 46
+        width: 179
+        height: 161
+      alignment: 9
+      pivot: {x: 0.5083799, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -37.5, y: 41.5}
+        - {x: -24.5, y: 80.5}
+        - {x: 89.5, y: 80.5}
+        - {x: 89.5, y: -80.5}
+        - {x: -71.49999, y: -80.5}
+        - {x: -89.5, y: -44.5}
+        - {x: -89.5, y: -12.5}
+        - {x: -72.5, y: 15.5}
+      physicsShape:
+      - - {x: 85.5, y: -58.499996}
+        - {x: 84.5, y: 26.499998}
+        - {x: 87.49999, y: 42.5}
+        - {x: 87.49999, y: 72.5}
+        - {x: 83.5, y: 77.5}
+        - {x: 64.5, y: 77.5}
+        - {x: 58.5, y: 74.5}
+        - {x: 50.499996, y: 59.499996}
+        - {x: 47.499996, y: 42.5}
+        - {x: 41.499996, y: 76.5}
+        - {x: 38.5, y: 79.49999}
+        - {x: 10.5, y: 79.49999}
+        - {x: -18.499998, y: 77.5}
+        - {x: -25.499998, y: 67.5}
+        - {x: -26.5, y: 57.5}
+        - {x: -21.499998, y: 20.5}
+        - {x: -25.499998, y: 23.5}
+        - {x: -48.5, y: 24.499998}
+        - {x: -64.5, y: 18.5}
+        - {x: -75.5, y: 9.5}
+        - {x: -88.5, y: -13.499999}
+        - {x: -89.5, y: -16.5}
+        - {x: -89.5, y: -43.5}
+        - {x: -87.5, y: -48.5}
+        - {x: -83.5, y: -53.499996}
+        - {x: -70.5, y: -62.5}
+        - {x: -61.5, y: -79.49999}
+        - {x: -59.5, y: -80.5}
+        - {x: 64.5, y: -80.5}
+        - {x: 75.5, y: -71.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0c1b53b9ea4ad2b503c9f99b880f67
+      internalID: 21300030
+      vertices:
+      - {x: 177.5, y: 0}
+      - {x: 16.500008, y: 0}
+      - {x: -1.5, y: 36}
+      - {x: -1.5, y: 68}
+      - {x: 15.5, y: 96}
+      - {x: 50.5, y: 122}
+      - {x: 63.5, y: 161}
+      - {x: 177.5, y: 161}
+      indices: 050000000600000007000000000000000500000007000000010000000400000005000000020000000300000004000000010000000200000004000000000000000100000005000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_boarding_Face0008
+      rect:
+        serializedVersion: 2
+        x: 827.0761
+        y: 393
+        width: 142.84775
+        height: 147.92387
+      alignment: 9
+      pivot: {x: 0.50350034, y: 0.5306784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -73.499985, y: 7.038063}
+        - {x: -54.499985, y: 70.03806}
+        - {x: 0.50001526, y: 76.03806}
+        - {x: 46.50001, y: 67.03806}
+        - {x: 77.500015, y: 17.038063}
+        - {x: 66.500015, y: -73.96194}
+        - {x: -66.49998, y: -73.96194}
+      physicsShape:
+      - - {x: 71.500015, y: -8.961936}
+        - {x: 71.500015, y: 4.038063}
+        - {x: 69.500015, y: 19.038063}
+        - {x: 62.500015, y: 37.038063}
+        - {x: 58.500015, y: 46.038063}
+        - {x: 53.50001, y: 53.038063}
+        - {x: 41.500015, y: 64.038055}
+        - {x: 25.500015, y: 73.03806}
+        - {x: -23.499985, y: 73.03806}
+        - {x: -46.499985, y: 63.03806}
+        - {x: -66.49998, y: 37.038063}
+        - {x: -71.499985, y: 11.038063}
+        - {x: -71.499985, y: -24.961935}
+        - {x: -69.499985, y: -50.961937}
+        - {x: -66.49998, y: -67.96194}
+        - {x: -62.499985, y: -73.96194}
+        - {x: 61.500015, y: -73.96194}
+        - {x: 63.500015, y: -72.96194}
+        - {x: 66.500015, y: -66.96194}
+        - {x: 68.500015, y: -48.961933}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8e30cbd7c74b179f5e0b522f88c845
+      internalID: 21300032
+      vertices:
+      - {x: 117.423874, y: 136.46194}
+      - {x: 148.42387, y: 86.46194}
+      - {x: 137.42387, y: -4.538063}
+      - {x: 4.4238815, y: -4.538063}
+      - {x: -2.576126, y: 76.46194}
+      - {x: 16.423874, y: 139.46194}
+      - {x: 71.423874, y: 145.46194}
+      indices: 040000000500000006000000010000000200000004000000020000000300000004000000010000000400000006000000000000000100000006000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Panel_boardingpassgreen: 21300002
+      Panel_boardingpassprogress: 21300016
+      Panel_boardingpassscan: 21300006
+      Panel_boardingpull: 21300018
+      panel_boardingBack: 21300024
+      panel_boardingFlip: 21300028
+      panel_boardingFront: 21300014
+      panel_boarding_Face0001: 21300008
+      panel_boarding_Face0002: 21300022
+      panel_boarding_Face0003: 21300020
+      panel_boarding_Face0004: 21300012
+      panel_boarding_Face0005: 21300026
+      panel_boarding_Face0006: 21300030
+      panel_boarding_Face0007: 21300000
+      panel_boarding_Face0008: 21300032
+      panel_boardingpicBG: 21300010
+      panel_boardingpicwindow: 21300004
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

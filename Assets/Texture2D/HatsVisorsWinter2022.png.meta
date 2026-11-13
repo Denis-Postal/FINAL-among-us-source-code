@@ -1,0 +1,283 @@
+fileFormatVersion: 2
+guid: 4ce4415a4b667ca43818a15b27c83f6f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: 2022_store_bean_visor_teary0001
+  - first:
+      213: 21300002
+    second: 2022_store_bean_hat_schnapp0001
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 25
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2022_store_bean_visor_teary0001
+      rect:
+        serializedVersion: 2
+        x: 287.02676
+        y: 211.02675
+        width: 91.9465
+        height: 73.89713
+      alignment: 9
+      pivot: {x: 0.17372315, y: 0.7980452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -49.000015, y: -43.97531}
+        - {x: -44.000015, y: 33.02469}
+        - {x: 6.9999847, y: 39.02469}
+        - {x: 42.999977, y: 31.024689}
+        - {x: 53.999985, y: -21.975311}
+      physicsShape:
+      - - {x: 28.99998, y: 36.02469}
+        - {x: -23.000015, y: 36.02469}
+        - {x: -40.000015, y: 29.024689}
+        - {x: -45.000015, y: 16.024689}
+        - {x: -45.000015, y: -25.975311}
+        - {x: -44.000015, y: -32.97531}
+        - {x: -39.000015, y: -36.975307}
+        - {x: -7.000017, y: -36.975307}
+        - {x: 18.99998, y: -32.97531}
+        - {x: 35.999985, y: -21.975311}
+        - {x: 45.999985, y: -11.975311}
+        - {x: 45.999985, y: 22.024689}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6c269b34954a70abe2ebee64a6d3ee
+      internalID: 21300000
+      vertices:
+      - {x: 118.97324, y: 45.948566}
+      - {x: 129.97325, y: -7.0514336}
+      - {x: 26.973251, y: -29.051434}
+      - {x: 31.973251, y: 47.948566}
+      - {x: 82.97325, y: 53.948566}
+      indices: 020000000300000004000000010000000200000004000000000000000100000004000000i
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022_store_bean_hat_schnapp0001
+      rect:
+        serializedVersion: 2
+        x: 337.0761
+        y: 377.02676
+        width: 154.92387
+        height: 168.9465
+      alignment: 9
+      pivot: {x: 0.39970526, y: 0.50295943}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -79.53805, y: 80.49998}
+        - {x: -47.538048, y: 80.49998}
+        - {x: -28.538048, y: 57.499985}
+        - {x: -20.538048, y: 88.499985}
+        - {x: 77.46195, y: 39.499985}
+        - {x: 77.46195, y: -20.500015}
+        - {x: 25.461952, y: -32.500015}
+        - {x: 74.46195, y: -50.500015}
+        - {x: 58.461952, y: -86.500015}
+        - {x: -58.538044, y: -81.500015}
+        - {x: -78.53805, y: -50.500015}
+        - {x: -72.53805, y: -32.500015}
+      physicsShape:
+      - - {x: 57.461945, y: -44.500015}
+        - {x: 40.461952, y: -41.500015}
+        - {x: 36.461952, y: -35.500015}
+        - {x: 21.461952, y: -35.500015}
+        - {x: 12.461952, y: -37.500015}
+        - {x: -4.538048, y: -37.500015}
+        - {x: -16.538048, y: -32.500015}
+        - {x: -27.538048, y: -33.500015}
+        - {x: -31.538048, y: -37.500015}
+        - {x: -39.538048, y: -12.500015}
+        - {x: -38.538048, y: -5.5000153}
+        - {x: -33.538048, y: -14.500014}
+        - {x: -26.538048, y: -19.500013}
+        - {x: -14.538048, y: -19.500013}
+        - {x: -6.538048, y: -13.500015}
+        - {x: -2.5380478, y: -24.500015}
+        - {x: 15.461952, y: -20.500015}
+        - {x: 23.461952, y: -23.500015}
+        - {x: 46.461952, y: -24.500015}
+        - {x: 61.461952, y: -21.500015}
+        - {x: 68.46195, y: -9.500014}
+        - {x: 77.46195, y: -0.50001526}
+        - {x: 77.46195, y: 25.499985}
+        - {x: 69.46195, y: 40.49998}
+        - {x: 53.461952, y: 51.499985}
+        - {x: 27.461948, y: 52.499985}
+        - {x: 7.4619503, y: 64.499985}
+        - {x: 4.4619503, y: 71.499985}
+        - {x: -2.5380478, y: 78.499985}
+        - {x: -8.538048, y: 83.499985}
+        - {x: -18.538048, y: 83.499985}
+        - {x: -21.538048, y: 82.499985}
+        - {x: -19.538048, y: 72.499985}
+        - {x: -25.538048, y: 54.49998}
+        - {x: -46.538048, y: 62.499985}
+        - {x: -47.538048, y: 83.499985}
+        - {x: -48.538048, y: 83.499985}
+        - {x: -64.53804, y: 76.499985}
+        - {x: -74.53804, y: 63.499985}
+        - {x: -76.53805, y: 35.499985}
+        - {x: -69.53804, y: 17.499985}
+        - {x: -69.53804, y: -35.500015}
+        - {x: -76.53805, y: -44.500015}
+        - {x: -76.53805, y: -53.50001}
+        - {x: -65.53805, y: -68.500015}
+        - {x: -48.538048, y: -77.500015}
+        - {x: -29.538048, y: -81.500015}
+        - {x: -19.538048, y: -81.500015}
+        - {x: -1.5380478, y: -83.500015}
+        - {x: 40.461952, y: -83.500015}
+        - {x: 58.461952, y: -81.500015}
+        - {x: 65.46195, y: -72.50001}
+        - {x: 65.46195, y: -51.500015}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f434ed2c0d394db7ad46420ef6b57306
+      internalID: 21300002
+      vertices:
+      - {x: 170.46194, y: 123.47325}
+      - {x: 170.46194, y: 63.47325}
+      - {x: 118.46194, y: 51.47325}
+      - {x: 167.46194, y: 33.47325}
+      - {x: 151.46194, y: -2.5267487}
+      - {x: 34.46194, y: 2.4732513}
+      - {x: 14.461937, y: 33.47325}
+      - {x: 20.461937, y: 51.47325}
+      - {x: 13.461937, y: 164.47324}
+      - {x: 45.461937, y: 164.47324}
+      - {x: 64.46194, y: 141.47325}
+      - {x: 72.46194, y: 172.47325}
+      indices: 08000000090000000a00000007000000080000000a00000002000000070000000a00000005000000060000000700000000000000010000000200000002000000030000000400000002000000040000000500000002000000050000000700000000000000020000000a000000000000000a0000000b000000i
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      2022_store_bean_hat_schnapp0001: 21300002
+      2022_store_bean_visor_teary0001: 21300000
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
